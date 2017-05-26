@@ -1,0 +1,15 @@
+%YAML 1.1
+---
+groupId: org.apache.flink
+artifactId: flink-shaded
+versioning:
+  latest: 0.8.1-hadoop1
+  release: 0.8.1-hadoop1
+  versions:
+  - 0.7.0-hadoop2-incubating
+  - 0.7.0-incubating
+  - 0.8.0
+  - 0.8.0-hadoop1
+  - 0.8.1
+  - 0.8.1-hadoop1
+  lastUpdated: 20150219161820

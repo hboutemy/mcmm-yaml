@@ -1,0 +1,17 @@
+%YAML 1.1
+---
+modelVersion: 1.1.0
+groupId: com.butor
+artifactId: butor-utils
+versioning:
+  latest: 1.0.6
+  release: 1.0.6
+  versions:
+  - 0.0.2
+  - 0.0.4
+  - 0.9.0
+  - 1.0.0
+  - 1.0.3
+  - 1.0.6
+  - mvn+-P+sonatype-oss-release+release:perform
+  lastUpdated: 20161203130048

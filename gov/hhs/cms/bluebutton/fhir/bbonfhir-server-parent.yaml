@@ -1,0 +1,55 @@
+%YAML 1.1
+---
+groupId: gov.hhs.cms.bluebutton.fhir
+artifactId: bbonfhir-server-parent
+versioning:
+  latest: 0.1.0-54
+  release: 0.1.0-54
+  versions:
+  - 0.1.0-cbbd-119-tweaks-needed-by-benchmarks-1
+  - 0.1.0-cbbd-125-jetty-config-webappcontext-1
+  - 0.1.0-cbbd-125-jetty-config-webappcontext-2
+  - 0.1.0-cbbd-138-fix-start-stop-problem-1
+  - 0.1.0-cbbd-141-wildfly-connect-timeouts-1
+  - 0.1.0-cbbf-1-additional-config-changes-1
+  - 0.1.0-cbbf-1-upgrade-to-dstu3-1
+  - 0.1.0-cbbf-1-upgrade-to-dstu3-11
+  - 0.1.0-cbbf-30-support-ssl-with-jetty-1
+  - 0.1.0-cbbf-30-support-ssl-with-jetty-2
+  - 0.1.0-cbbf-30-support-ssl-with-jetty-3
+  - 0.1.0-cbbf-30-support-ssl-with-wildfly-1
+  - 0.1.0-cbbf-31-switch-to-wildfly-1
+  - 0.1.0-cbbf-31-switch-to-wildfly-5
+  - 0.1.0-cbbf-39-disable-lucene-1
+  - 0.1.0-cbbf-40-cleanup-and-refactor-1
+  - 0.1.0-cbbf-40-cleanup-and-refactor-2
+  - 0.1.0-cbbi-139-wildfly-deploy-1
+  - 0.1.0-cbbi-139-wildfly-deploy-2
+  - 0.1.0-cbbi-139-wildfly-deploy-4
+  - 0.1.0-devenv-instructions-1
+  - 0.1.0-devenv-instructions-2
+  - 0.1.0-1
+  - 0.1.0-30
+  - 0.1.0-31
+  - 0.1.0-33
+  - 0.1.0-34
+  - 0.1.0-36
+  - 0.1.0-37
+  - 0.1.0-38
+  - 0.1.0-39
+  - 0.1.0-40
+  - 0.1.0-41
+  - 0.1.0-42
+  - 0.1.0-43
+  - 0.1.0-44
+  - 0.1.0-45
+  - 0.1.0-46
+  - 0.1.0-47
+  - 0.1.0-48
+  - 0.1.0-49
+  - 0.1.0-50
+  - 0.1.0-51
+  - 0.1.0-52
+  - 0.1.0-53
+  - 0.1.0-54
+  lastUpdated: 20161025203448

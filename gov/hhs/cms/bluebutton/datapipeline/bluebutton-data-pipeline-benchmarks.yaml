@@ -1,0 +1,52 @@
+%YAML 1.1
+---
+groupId: gov.hhs.cms.bluebutton.datapipeline
+artifactId: bluebutton-data-pipeline-benchmarks
+versioning:
+  latest: 0.1.0-79
+  release: 0.1.0-79
+  versions:
+  - 0.1.0-cbbd-113-manifest-samples-and-tests-1
+  - 0.1.0-cbbd-119-add-etl-benchmarks-1
+  - 0.1.0-cbbd-134-orphan-fhir-resources-3
+  - 0.1.0-cbbd-137-handle-nullable-fields-1
+  - 0.1.0-cbbd-137-handle-nullable-fields-2
+  - 0.1.0-cbbd-137-handle-nullable-fields-3
+  - 0.1.0-cbbd-138-parallel-fhir-txs-2
+  - 0.1.0-cbbd-138-parallel-fhir-txs-4
+  - 0.1.0-cbbd-138-parallel-fhir-txs-5
+  - 0.1.0-cbbd-147-stu3-initial-switch-2
+  - 0.1.0-cbbd-149-benchmark-larger-samples-1
+  - 0.1.0-cbbd-149-benchmark-larger-samples-2
+  - 0.1.0-cbbd-149-benchmark-larger-samples-3
+  - 0.1.0-cbbd-150-fix-crlfs-1
+  - 0.1.0-cbbd-150-fix-crlfs-2
+  - 0.1.0-cbbd-150-line-endings-again-1
+  - 0.1.0-cbbd-152-oom-error-in-wildfly-1
+  - 0.1.0-cbbd-152-oom-error-in-wildfly-2
+  - 0.1.0-cbbd-153-intermittent-access-errors-1
+  - 0.1.0-cbbd-156-finalize-etl-transform-code-11
+  - 0.1.0-cbbd-156-finalize-etl-transform-code-12
+  - 0.1.0-cbbf-38-hapi-error-intermittent-2
+  - 0.1.0-cbbf-40-bbonfhir-renamed-to-bluebutton-1
+  - 0.1.0-cbbf-40-bbonfhir-renamed-to-bluebutton-2
+  - 0.1.0-cbbf-40-bbonfhir-renamed-to-bluebutton-3
+  - 0.1.0-dme-parse-transform-2-5
+  - 0.1.0-56
+  - 0.1.0-59
+  - 0.1.0-60
+  - 0.1.0-61
+  - 0.1.0-67
+  - 0.1.0-68
+  - 0.1.0-69
+  - 0.1.0-70
+  - 0.1.0-71
+  - 0.1.0-72
+  - 0.1.0-73
+  - 0.1.0-74
+  - 0.1.0-75
+  - 0.1.0-76
+  - 0.1.0-77
+  - 0.1.0-78
+  - 0.1.0-79
+  lastUpdated: 20161115201842
