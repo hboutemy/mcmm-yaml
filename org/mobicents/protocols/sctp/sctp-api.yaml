@@ -3,8 +3,8 @@
 groupId: org.mobicents.protocols.sctp
 artifactId: sctp-api
 versioning:
-  latest: 2.0.10
-  release: 2.0.10
+  latest: 2.0.16
+  release: 2.0.16
   versions:
   - netty-2.1.7.1
   - netty-2.1.7.2
@@ -28,6 +28,12 @@ versioning:
   - 1.7.6
   - 1.7.7
   - 1.7.8
+  - 1.8.12
+  - 1.8.13
+  - 1.8.15
   - 2.0.9
   - 2.0.10
-  lastUpdated: 20160517161842
+  - 2.0.11
+  - 2.0.14
+  - 2.0.16
+  lastUpdated: 20170511131852

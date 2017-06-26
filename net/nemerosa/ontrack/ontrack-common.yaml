@@ -3,8 +3,8 @@
 groupId: net.nemerosa.ontrack
 artifactId: ontrack-common
 versioning:
-  latest: 3.0.0
-  release: 3.0.0
+  latest: 3.0.6
+  release: 3.0.6
   versions:
   - feature-359-extension-plugin-1cd7995
   - feature-359-extension-plugin-69438bb
@@ -15,12 +15,20 @@ versioning:
   - feature-490-fix-migration-897bd8a
   - feature-491-method-error-d71c3b7
   - feature-496-docker-extensions-a60bb31
+  - feature-504-extension-test-a3a8117
+  - feature-504-extension-test-75ae362
+  - feature-504-extension-test-c4306f2
+  - feature-505-pom-d693030
+  - feature-512-aql-5d1c91a
+  - feature-514-kotlin-ce531dd
+  - feature-514-kotlin-jre8-5cc22f1
   - master-a292b01
   - master-b02f7e6
   - master-b3d7f65
   - master-0eb0916
   - master-9c699a6
   - master-5838b74
+  - master-fe0730d
   - refac-postgresql-a8971e3
   - 2.1.0
   - 2.1.1
@@ -79,6 +87,17 @@ versioning:
   - 2.29.11
   - 2.29.12
   - 2.30.0
+  - 2.30.1
+  - 2.30.2
+  - 2.30.3
+  - 2.30.4
+  - 2.30.5
+  - 2.30.6
+  - 2.30.7
+  - 2.30.8
+  - 2.31.0
+  - 2.31.1
+  - 2.31.2
   - 3.0-alpha.1
   - 3.0-alpha.2
   - 3.0-alpha.3
@@ -111,4 +130,10 @@ versioning:
   - 3.0-beta.25
   - 3.0-beta.26
   - 3.0.0
-  lastUpdated: 20170509120030
+  - 3.0.1
+  - 3.0.2
+  - 3.0.3
+  - 3.0.4
+  - 3.0.5
+  - 3.0.6
+  lastUpdated: 20170622212107

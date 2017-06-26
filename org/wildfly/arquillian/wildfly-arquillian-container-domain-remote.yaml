@@ -3,8 +3,8 @@
 groupId: org.wildfly.arquillian
 artifactId: wildfly-arquillian-container-domain-remote
 versioning:
-  latest: 2.0.1.Final
-  release: 2.0.1.Final
+  latest: 2.1.0.Alpha3
+  release: 2.1.0.Alpha3
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -22,4 +22,8 @@ versioning:
   - 2.0.0.Alpha1
   - 2.0.0.Final
   - 2.0.1.Final
-  lastUpdated: 20161215203252
+  - 2.0.2.Final
+  - 2.1.0.Alpha1
+  - 2.1.0.Alpha2
+  - 2.1.0.Alpha3
+  lastUpdated: 20170617001128

@@ -3,8 +3,8 @@
 groupId: com.google.cloud
 artifactId: google-cloud-spanner
 versioning:
-  latest: 0.17.2-beta
-  release: 0.17.2-beta
+  latest: 0.20.0-beta
+  release: 0.20.0-beta
   versions:
   - 0.9.1-beta
   - 0.9.2-beta
@@ -22,4 +22,7 @@ versioning:
   - 0.17.0-beta
   - 0.17.1-beta
   - 0.17.2-beta
-  lastUpdated: 20170504225948
+  - 0.18.0-beta
+  - 0.19.0-beta
+  - 0.20.0-beta
+  lastUpdated: 20170615172551

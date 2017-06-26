@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.plugins
 artifactId: nexus-ruby-plugin
 versioning:
-  latest: 2.14.2-01
-  release: 2.14.2-01
+  latest: 2.14.4-03
+  release: 2.14.4-03
   versions:
   - 1.0.0
   - 2.11.0-01
@@ -22,6 +22,9 @@ versioning:
   - 2.14.0-01
   - 2.14.1-01
   - 2.14.2-01
+  - 2.14.3-02
+  - 2.14.4-01
+  - 2.14.4-03
   - 1.2.0
   - 1.3.0
   - 1.3.1
@@ -31,4 +34,4 @@ versioning:
   - 1.4.3
   - 1.4.4
   - 1.5.0
-  lastUpdated: 20161214191933
+  lastUpdated: 20170407165417

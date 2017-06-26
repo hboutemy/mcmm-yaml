@@ -3,8 +3,8 @@
 groupId: org.jboss.arquillian.container
 artifactId: arquillian-tomcat-managed-5.5
 versioning:
-  latest: 1.0.0.CR8
-  release: 1.0.0.CR8
+  latest: 1.0.0
+  release: 1.0.0
   versions:
   - 1.0.0.CR2
   - 1.0.0.CR3
@@ -13,4 +13,7 @@ versioning:
   - 1.0.0.CR6
   - 1.0.0.CR7
   - 1.0.0.CR8
-  lastUpdated: 20161114130659
+  - 1.0.0.CR9
+  - 1.0.0.CR10
+  - 1.0.0
+  lastUpdated: 20170216113739

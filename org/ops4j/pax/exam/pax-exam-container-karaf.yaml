@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.ops4j.pax.exam
 artifactId: pax-exam-container-karaf
 versioning:
-  latest: 4.9.2
-  release: 4.9.2
+  latest: 4.11.0
+  release: 4.11.0
   versions:
   - 3.1.0
   - 3.2.0
@@ -25,4 +25,6 @@ versioning:
   - 4.9.0
   - 4.9.1
   - 4.9.2
-  lastUpdated: 20161019103016
+  - 4.10.0
+  - 4.11.0
+  lastUpdated: 20170516142400

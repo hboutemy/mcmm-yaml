@@ -3,32 +3,41 @@
 groupId: com.lihaoyi
 artifactId: ammonite-sshd_2.10.6
 versioning:
-  latest: 0.8.4
-  release: 0.8.4
+  latest: 1.0.0-RC9
+  release: 1.0.0-RC9
   versions:
   - COMMIT-a0d5f97
   - COMMIT-a6bc113
   - COMMIT-a9b7887
+  - COMMIT-a72a9a0
   - COMMIT-a8021a4
   - COMMIT-a8602d5
+  - COMMIT-b77b18b
   - COMMIT-b114a80
   - COMMIT-b8325cb
   - COMMIT-b456824
   - COMMIT-b640854
   - COMMIT-b742940
   - COMMIT-0a3e2b3
+  - COMMIT-0a6fda9
+  - COMMIT-0b4bc39
+  - COMMIT-0aaed87
   - COMMIT-0ae4bc3
   - COMMIT-0c03b31
   - COMMIT-0df7f24
   - COMMIT-0eb3b0e
   - COMMIT-1a191ad
+  - COMMIT-1b2e268
+  - COMMIT-01b67ac
   - COMMIT-1ad6535
   - COMMIT-1de96ff
   - COMMIT-1e9d917
+  - COMMIT-1f834a7
   - COMMIT-2ab8633
   - COMMIT-2dc0ae6
   - COMMIT-2eae411
   - COMMIT-02f0986
+  - COMMIT-2fef389
   - COMMIT-3a2b4b5
   - COMMIT-3a4c0f1
   - COMMIT-3a5b96d
@@ -36,13 +45,19 @@ versioning:
   - COMMIT-3ccb6b1
   - COMMIT-3d74481
   - COMMIT-3ebf9df
+  - COMMIT-3efe1a1
+  - COMMIT-4caf560
+  - COMMIT-4d2a824
+  - COMMIT-4e858ab
   - COMMIT-5a44e34
   - COMMIT-5abc379
   - COMMIT-5ad48f3
   - COMMIT-5d0aa4f
+  - COMMIT-5d5467d
   - COMMIT-6b4d463
   - COMMIT-6bc4ddd
   - COMMIT-6d5abe9
+  - COMMIT-6f0e5a9
   - COMMIT-6f558e9
   - COMMIT-7b06800
   - COMMIT-7af9273
@@ -50,38 +65,66 @@ versioning:
   - COMMIT-7d7b824
   - COMMIT-7e9b82d
   - COMMIT-7e7622a
+  - COMMIT-7fb934a
+  - COMMIT-8a85582
+  - COMMIT-8b103a7
   - COMMIT-8af3ceb
   - COMMIT-8bb102b
   - COMMIT-8c3248e
   - COMMIT-9a0c949
+  - COMMIT-9cb3804
+  - COMMIT-9d0d16f
+  - COMMIT-9ef47e5
   - COMMIT-9f8f9df
   - COMMIT-10ddba9
+  - COMMIT-010fa68
   - COMMIT-13aee83
+  - COMMIT-16c597e
   - COMMIT-20ff273
   - COMMIT-21c26dc
+  - COMMIT-30d6715
   - COMMIT-30f4c5a
   - COMMIT-31d97c4
+  - COMMIT-33d35a7
+  - COMMIT-38f6574
   - COMMIT-44c5603
   - COMMIT-47f5661
   - COMMIT-49d9e0c
+  - COMMIT-49e007d
   - COMMIT-54cfca3
+  - COMMIT-55bdace
+  - COMMIT-57db3a8
   - COMMIT-65f4908
   - COMMIT-66e3ced
   - COMMIT-67a4081
   - COMMIT-81da8b4
+  - COMMIT-82ef524
   - COMMIT-85bb3cc
+  - COMMIT-88cbd8a
   - COMMIT-90afc77
+  - COMMIT-096f00a
   - COMMIT-0097dc5
   - COMMIT-102d67b
   - COMMIT-153d7b4
+  - COMMIT-180d2cd
   - COMMIT-184b723
+  - COMMIT-187b3c7
+  - COMMIT-246ed56
+  - COMMIT-297fe8a
   - COMMIT-335b657
+  - COMMIT-0489efd
   - COMMIT-586ebfa
   - COMMIT-625d760
   - COMMIT-641b527
+  - COMMIT-666f496
+  - COMMIT-690b09f
+  - COMMIT-717eac5
+  - COMMIT-729f6e0
   - COMMIT-796ec73
   - COMMIT-849e5e7
   - COMMIT-911db21
+  - COMMIT-954ba33
+  - COMMIT-963de4e
   - COMMIT-965ac46
   - COMMIT-2974b1e
   - COMMIT-3467b1b
@@ -90,18 +133,27 @@ versioning:
   - COMMIT-4032eee
   - COMMIT-6079a1b
   - COMMIT-6993be5
+  - COMMIT-6999ec7
+  - COMMIT-7265b89
   - COMMIT-7608d6f
+  - COMMIT-7837dbd
+  - COMMIT-20878f3
   - COMMIT-30982ec
   - COMMIT-49775a8
   - COMMIT-057440b
   - COMMIT-90107d1
+  - COMMIT-242627f
   - COMMIT-297573b
+  - COMMIT-722391e
   - COMMIT-832376b
   - COMMIT-0872868
   - COMMIT-0922882
   - COMMIT-980241f
   - COMMIT-3119490
+  - COMMIT-3383831
+  - COMMIT-4180332
   - COMMIT-6556555
+  - COMMIT-7425320
   - COMMIT-7784517
   - COMMIT-9395266
   - COMMIT-aaaaccd
@@ -112,8 +164,11 @@ versioning:
   - COMMIT-bb6e12f
   - COMMIT-bc9b16d
   - COMMIT-bc30c11
+  - COMMIT-bf04f83
+  - COMMIT-bfa54a5
   - COMMIT-c2f90da
   - COMMIT-c4dd64f
+  - COMMIT-c8c1ded
   - COMMIT-c85c7d7
   - COMMIT-c810260
   - COMMIT-cbf3b24
@@ -124,6 +179,7 @@ versioning:
   - COMMIT-d5fa784
   - COMMIT-d6b3604
   - COMMIT-d6fdf82
+  - COMMIT-d7b5165
   - COMMIT-d7e3a86
   - COMMIT-d8b32a3
   - COMMIT-d32e120
@@ -131,23 +187,33 @@ versioning:
   - COMMIT-d83cfae
   - COMMIT-d382103
   - COMMIT-da1e941
+  - COMMIT-db07f18
   - COMMIT-dc37a7f
   - COMMIT-ddde562
   - COMMIT-de2b9f2
+  - COMMIT-dfe5927
   - COMMIT-e00c88b
   - COMMIT-e0fb186
   - COMMIT-e4e73e7
   - COMMIT-e9fda7d
+  - COMMIT-e15a426
   - COMMIT-e34b984
+  - COMMIT-e37c568
   - COMMIT-e45eae5
+  - COMMIT-e93df57
   - COMMIT-e020311
+  - COMMIT-efd305b
   - COMMIT-f0e9b0a
   - COMMIT-f3fb8cd
   - COMMIT-f6a1903
+  - COMMIT-f6e34a8
+  - COMMIT-f08ca71
   - COMMIT-f77f1c2
+  - COMMIT-f952eb7
   - COMMIT-f91419e
   - COMMIT-fabce69
   - COMMIT-fbd9e49
+  - COMMIT-ff563f2
   - COMMIT-ffdaa96
   - 0.5.1
   - 0.5.2
@@ -175,4 +241,24 @@ versioning:
   - 0.8.2
   - 0.8.3
   - 0.8.4
-  lastUpdated: 20170511103723
+  - 0.8.5
+  - 0.9.0
+  - 0.9.1
+  - 0.9.2
+  - 0.9.3
+  - 0.9.4
+  - 0.9.5
+  - 0.9.6
+  - 0.9.7
+  - 0.9.8
+  - 0.9.9
+  - 1.0.0-RC1
+  - 1.0.0-RC2
+  - 1.0.0-RC3
+  - 1.0.0-RC4
+  - 1.0.0-RC5
+  - 1.0.0-RC6
+  - 1.0.0-RC7
+  - 1.0.0-RC8
+  - 1.0.0-RC9
+  lastUpdated: 20170619021114

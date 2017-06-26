@@ -3,8 +3,8 @@
 groupId: org.drools
 artifactId: drools
 versioning:
-  latest: 7.1.0.Beta1
-  release: 7.1.0.Beta1
+  latest: 7.1.0.Beta3
+  release: 7.1.0.Beta3
   versions:
   - 5.0.0.M3
   - 5.0.0.M4
@@ -40,5 +40,8 @@ versioning:
   - 7.0.0.CR1
   - 7.0.0.CR2
   - 7.0.0.CR3
+  - 7.0.0.Final
   - 7.1.0.Beta1
-  lastUpdated: 20170504135623
+  - 7.1.0.Beta2
+  - 7.1.0.Beta3
+  lastUpdated: 20170621140402

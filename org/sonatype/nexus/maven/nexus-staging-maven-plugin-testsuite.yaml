@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.maven
 artifactId: nexus-staging-maven-plugin-testsuite
 versioning:
-  latest: 1.6.7
-  release: 1.6.7
+  latest: 1.6.8
+  release: 1.6.8
   versions:
   - 1.3
   - 1.4
@@ -25,4 +25,5 @@ versioning:
   - 1.6.5
   - 1.6.6
   - 1.6.7
-  lastUpdated: 20160310195013
+  - 1.6.8
+  lastUpdated: 20170223153931

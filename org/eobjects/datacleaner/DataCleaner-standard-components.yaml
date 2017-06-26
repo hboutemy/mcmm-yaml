@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.eobjects.datacleaner
 artifactId: DataCleaner-standard-components
 versioning:
-  latest: 5.1.5.2
-  release: 5.1.5.2
+  latest: 5.2.0-RC2
+  release: 5.2.0-RC2
   versions:
   - 4.5-RC1
   - 4.5-RC2
@@ -29,4 +30,8 @@ versioning:
   - 5.1.5
   - 5.1.5.1
   - 5.1.5.2
-  lastUpdated: 20170419095927
+  - 5.1.5.3
+  - 5.2.0-RC1
+  - 5.2.0-RC2
+  - 6.0.0
+  lastUpdated: 20170622213038

@@ -3,8 +3,8 @@
 groupId: org.apache.sling
 artifactId: org.apache.sling.testing.sling-mock
 versioning:
-  latest: 2.2.8
-  release: 2.2.8
+  latest: 2.2.12
+  release: 2.2.12
   versions:
   - 1.0.0
   - 1.1.0
@@ -21,6 +21,7 @@ versioning:
   - 1.9.2
   - 1.9.4
   - 1.9.6
+  - 1.9.8
   - 2.0.0
   - 2.1.0
   - 2.1.2
@@ -29,4 +30,6 @@ versioning:
   - 2.2.4
   - 2.2.6
   - 2.2.8
-  lastUpdated: 20170505163159
+  - 2.2.10
+  - 2.2.12
+  lastUpdated: 20170606102921

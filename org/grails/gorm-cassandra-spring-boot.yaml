@@ -3,8 +3,8 @@
 groupId: org.grails
 artifactId: gorm-cassandra-spring-boot
 versioning:
-  latest: 6.0.4.RELEASE
-  release: 6.0.4.RELEASE
+  latest: 6.1.0.RELEASE
+  release: 6.1.0.RELEASE
   versions:
   - 5.0.0.RC1
   - 5.0.0.RC2
@@ -22,10 +22,17 @@ versioning:
   - 5.0.10.RELEASE
   - 5.0.11.RELEASE
   - 5.0.12.RELEASE
+  - 5.0.13.RELEASE
   - 6.0.0.M1
   - 6.0.0.RC1
   - 6.0.0.RC2
   - 6.0.2.RELEASE
   - 6.0.3.RELEASE
   - 6.0.4.RELEASE
-  lastUpdated: 20161125084328
+  - 6.0.6.RELEASE
+  - 6.0.7.RELEASE
+  - 6.0.9.RELEASE
+  - 6.1.0.RC1
+  - 6.1.0.RC2
+  - 6.1.0.RELEASE
+  lastUpdated: 20170410130003

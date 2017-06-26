@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-cypher-compiler-2.3
 versioning:
-  latest: 2.3.8
-  release: 2.3.8
+  latest: 2.3.11
+  release: 2.3.11
   versions:
   - 2.3.0-M01
   - 2.3.0-M02
@@ -19,4 +19,7 @@ versioning:
   - 2.3.6
   - 2.3.7
   - 2.3.8
-  lastUpdated: 20161124173248
+  - 2.3.9
+  - 2.3.10
+  - 2.3.11
+  lastUpdated: 20170530171549

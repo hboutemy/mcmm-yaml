@@ -3,8 +3,8 @@
 groupId: org.wildfly.extras.patch
 artifactId: fuse-patch-distro-standalone
 versioning:
-  latest: 2.6.0.redhat-2
-  release: 2.6.0.redhat-2
+  latest: 2.7.0.redhat-7
+  release: 2.7.0.redhat-7
   versions:
   - 1.2.1
   - 1.2.2
@@ -28,4 +28,12 @@ versioning:
   - 2.6.0
   - 2.6.0.redhat-1
   - 2.6.0.redhat-2
-  lastUpdated: 20161209123002
+  - 2.7.0
+  - 2.7.0.redhat-1
+  - 2.7.0.redhat-2
+  - 2.7.0.redhat-3
+  - 2.7.0.redhat-4
+  - 2.7.0.redhat-5
+  - 2.7.0.redhat-6
+  - 2.7.0.redhat-7
+  lastUpdated: 20170426065925

@@ -3,8 +3,8 @@
 groupId: org.wildfly.camel
 artifactId: compatibility-itests-common
 versioning:
-  latest: 4.4.0
-  release: 4.4.0
+  latest: 4.5.0.redhat-1
+  release: 4.5.0.redhat-1
   versions:
   - 3.0.0.redhat-1
   - 3.0.1.redhat-1
@@ -18,4 +18,6 @@ versioning:
   - 4.3.0
   - 4.3.0.redhat-1
   - 4.4.0
-  lastUpdated: 20161209123051
+  - 4.5.0
+  - 4.5.0.redhat-1
+  lastUpdated: 20170202153907

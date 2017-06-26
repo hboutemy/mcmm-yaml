@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.vaadin.external.atmosphere
 artifactId: atmosphere-jersey-libs
 versioning:
-  latest: 2.4.5.vaadin2
-  release: 2.4.5.vaadin2
+  latest: 2.4.11.vaadin1
+  release: 2.4.11.vaadin1
   versions:
   - 1.0.14-vaadin1
   - 1.0.14.vaadin2
@@ -42,5 +42,6 @@ versioning:
   - 2.4.3.vaadin1
   - 2.4.5.vaadin1
   - 2.4.5.vaadin2
+  - 2.4.11.vaadin1
   - 1.0.14-vaadin2
-  lastUpdated: 20170309173836
+  lastUpdated: 20170518051117

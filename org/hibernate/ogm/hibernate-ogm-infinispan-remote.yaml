@@ -3,8 +3,12 @@
 groupId: org.hibernate.ogm
 artifactId: hibernate-ogm-infinispan-remote
 versioning:
-  latest: 5.1.0.Beta1
-  release: 5.1.0.Beta1
+  latest: 5.1.0.Final
+  release: 5.1.0.Final
   versions:
   - 5.1.0.Beta1
-  lastUpdated: 20161108141815
+  - 5.1.0.Beta2
+  - 5.1.0.Beta3
+  - 5.1.0.CR1
+  - 5.1.0.Final
+  lastUpdated: 20170301175304

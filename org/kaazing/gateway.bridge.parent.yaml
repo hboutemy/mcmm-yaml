@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.kaazing
 artifactId: gateway.bridge.parent
 versioning:
-  latest: 5.6.1
-  release: 5.6.1
+  latest: 5.6.2
+  release: 5.6.2
   versions:
   - 5.0.0.7
   - 5.0.0.8
@@ -112,6 +112,8 @@ versioning:
   - 5.6.1-RC003
   - 5.6.1-RC004
   - 5.6.1
+  - 5.6.2-RC001
+  - 5.6.2
   - 1.0.0
   - 1.0.0-RC001
   - 1.0.0-RC002
@@ -148,4 +150,4 @@ versioning:
   - 6.1.2-RC001
   - 6.1.3
   - 6.1.3-RC001
-  lastUpdated: 20170426182829
+  lastUpdated: 20170518172008

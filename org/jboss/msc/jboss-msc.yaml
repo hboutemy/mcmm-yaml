@@ -3,8 +3,8 @@
 groupId: org.jboss.msc
 artifactId: jboss-msc
 versioning:
-  latest: 1.2.7.Final
-  release: 1.2.7.Final
+  latest: 1.2.7.SP1
+  release: 1.2.7.SP1
   versions:
   - 1.0.0.Beta1
   - 1.0.0.Beta2
@@ -31,7 +31,9 @@ versioning:
   - 1.1.4.Final
   - 1.1.5.Final
   - 1.1.6.Final
+  - 1.1.6.SP1
   - 1.1.7.Final
+  - 1.1.7.SP1
   - 1.2.0.Beta1
   - 1.2.0.Beta2
   - 1.2.0.CR1
@@ -42,4 +44,5 @@ versioning:
   - 1.2.4.Final
   - 1.2.6.Final
   - 1.2.7.Final
-  lastUpdated: 20161215224602
+  - 1.2.7.SP1
+  lastUpdated: 20170118193530

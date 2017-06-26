@@ -3,8 +3,8 @@
 groupId: org.openjdk.jmh
 artifactId: jmh-samples
 versioning:
-  latest: 1.17.3
-  release: 1.17.3
+  latest: 1.19
+  release: 1.19
   versions:
   - 0.1
   - 0.2
@@ -83,5 +83,9 @@ versioning:
   - 1.17.1
   - 1.17.2
   - 1.17.3
+  - 1.17.4
+  - 1.17.5
+  - 1.18
+  - 1.19
   - 1.10
-  lastUpdated: 20161215213534
+  lastUpdated: 20170503125228

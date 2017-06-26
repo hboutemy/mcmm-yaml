@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.datanucleus
 artifactId: datanucleus-accessplatform-jdo-rdbms
 versioning:
-  latest: 5.1.0-m2
-  release: 5.1.0-m2
+  latest: 5.1.0-m3
+  release: 5.1.0-m3
   versions:
   - 3.0.4
   - 3.0.5
@@ -108,7 +108,9 @@ versioning:
   - 5.0.6
   - 5.0.7
   - 5.0.8
+  - 5.0.9
   - 5.1.0-m1
   - 5.1.0-m2
+  - 5.1.0-m3
   - 4.1.1
-  lastUpdated: 20170426102920
+  lastUpdated: 20170531140630

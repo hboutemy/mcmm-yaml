@@ -3,8 +3,8 @@
 groupId: org.jboss.windup
 artifactId: windup-distribution
 versioning:
-  latest: 3.0.0.Alpha1
-  release: 3.0.0.Alpha1
+  latest: 3.0.0.Final
+  release: 3.0.0.Final
   versions:
   - 2.0.0.Beta1
   - 2.0.0.Beta2
@@ -31,4 +31,6 @@ versioning:
   - 2.6.0.Final
   - 2.7.0.Final
   - 3.0.0.Alpha1
-  lastUpdated: 20161104095944
+  - 3.0.0.CR1
+  - 3.0.0.Final
+  lastUpdated: 20170208124957

@@ -3,8 +3,8 @@
 groupId: org.wildfly.bom
 artifactId: wildfly-javaee7-with-tools
 versioning:
-  latest: 10.1.1.Final
-  release: 10.1.1.Final
+  latest: 11.0.0.Alpha2
+  release: 11.0.0.Alpha2
   versions:
   - 10.0.0.CR3
   - 10.0.0.CR4
@@ -14,4 +14,6 @@ versioning:
   - 10.1.0.CR1
   - 10.1.0.Final
   - 10.1.1.Final
-  lastUpdated: 20161115163900
+  - 11.0.0.Alpha1
+  - 11.0.0.Alpha2
+  lastUpdated: 20170410130250

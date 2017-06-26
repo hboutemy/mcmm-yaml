@@ -3,8 +3,8 @@
 groupId: org.sonarsource.sonarqube
 artifactId: server
 versioning:
-  latest: 6.2
-  release: 6.2
+  latest: 6.4
+  release: 6.4
   versions:
   - 5.2-RC2
   - 5.2-RC3
@@ -28,6 +28,8 @@ versioning:
   - 5.6.2
   - 5.6.3
   - 5.6.4
+  - 5.6.5
+  - 5.6.6
   - 6.0-RC1
   - 6.0-RC2
   - 6.0
@@ -37,4 +39,12 @@ versioning:
   - 6.2-RC1
   - 6.2-RC3
   - 6.2
-  lastUpdated: 20161213163358
+  - 6.2.1
+  - 6.3-RC4
+  - 6.3
+  - 6.3.1
+  - 6.4-RC1
+  - 6.4-RC2
+  - 6.4-RC3
+  - 6.4
+  lastUpdated: 20170602095954

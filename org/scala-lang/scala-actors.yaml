@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.scala-lang
 artifactId: scala-actors
 versioning:
-  latest: 2.11.8
-  release: 2.11.8
+  latest: 2.11.11
+  release: 2.11.11
   versions:
   - 2.3.1
   - 2.3.3
@@ -60,4 +60,8 @@ versioning:
   - 2.11.6
   - 2.11.7
   - 2.11.8
-  lastUpdated: 20160309030801
+  - 2.11.8-18269ea
+  - 2.11.9
+  - 2.11.10
+  - 2.11.11
+  lastUpdated: 20170418143006

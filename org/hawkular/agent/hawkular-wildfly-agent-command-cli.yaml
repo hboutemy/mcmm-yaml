@@ -3,8 +3,8 @@
 groupId: org.hawkular.agent
 artifactId: hawkular-wildfly-agent-command-cli
 versioning:
-  latest: 0.25.1.Final
-  release: 0.25.1.Final
+  latest: 0.28.0.Final
+  release: 0.28.0.Final
   versions:
   - 0.18.1.Final
   - 0.19.0.Final
@@ -21,4 +21,8 @@ versioning:
   - 0.24.3.Final
   - 0.25.0.Final
   - 0.25.1.Final
-  lastUpdated: 20161216212635
+  - 0.25.2.Final
+  - 0.26.0.Final
+  - 0.27.0.Final
+  - 0.28.0.Final
+  lastUpdated: 20170221170240

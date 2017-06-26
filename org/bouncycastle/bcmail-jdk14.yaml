@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.bouncycastle
 artifactId: bcmail-jdk14
 versioning:
-  latest: 1.55
-  release: 1.55
+  latest: 1.57
+  release: 1.57
   versions:
   - 1.38
   - 1.43
@@ -20,4 +20,6 @@ versioning:
   - 1.53
   - 1.54
   - 1.55
-  lastUpdated: 20160821065456
+  - 1.56
+  - 1.57
+  lastUpdated: 20170515021221

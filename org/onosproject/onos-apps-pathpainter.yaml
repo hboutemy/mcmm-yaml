@@ -3,8 +3,8 @@
 groupId: org.onosproject
 artifactId: onos-apps-pathpainter
 versioning:
-  latest: 1.8.6
-  release: 1.8.6
+  latest: 1.8.9
+  release: 1.8.9
   versions:
   - 1.7.0
   - 1.7.1
@@ -16,7 +16,16 @@ versioning:
   - 1.8.5-rc2
   - 1.8.5
   - 1.8.6
+  - 1.8.7
+  - 1.8.8
+  - 1.8.9
+  - 1.10.0
   - 1.10.0-rc1
+  - 1.10.0-rc2
+  - 1.10.0-rc3
+  - 1.10.0-rc4
+  - 1.10.0-rc5
+  - 1.10.1
   - 1.9.0
   - 1.9.0-b1
   - 1.9.0-b1b
@@ -28,4 +37,6 @@ versioning:
   - 1.9.0-rc5
   - 1.9.0-rc6
   - 1.9.0-test1
-  lastUpdated: 20170509171004
+  - 1.9.1
+  - 1.9.2
+  lastUpdated: 20170622233704

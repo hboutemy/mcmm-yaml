@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-youtubeAnalytics
 versioning:
-  latest: v1-rev124-1.22.0
-  release: v1-rev124-1.22.0
+  latest: v1-rev135-1.22.0
+  release: v1-rev135-1.22.0
   versions:
   - v1beta1-rev18-1.13.2-beta
   - v1beta1-rev18-1.14.1-beta
@@ -407,6 +407,50 @@ versioning:
   - v1beta1-rev128-1.20.0
   - v1beta1-rev128-1.21.0
   - v1beta1-rev128-1.22.0
+  - v1beta1-rev129-1.18.0-rc
+  - v1beta1-rev129-1.20.0
+  - v1beta1-rev129-1.21.0
+  - v1beta1-rev129-1.22.0
+  - v1beta1-rev130-1.18.0-rc
+  - v1beta1-rev130-1.20.0
+  - v1beta1-rev130-1.21.0
+  - v1beta1-rev130-1.22.0
+  - v1beta1-rev131-1.18.0-rc
+  - v1beta1-rev131-1.20.0
+  - v1beta1-rev131-1.21.0
+  - v1beta1-rev131-1.22.0
+  - v1beta1-rev132-1.18.0-rc
+  - v1beta1-rev132-1.20.0
+  - v1beta1-rev132-1.21.0
+  - v1beta1-rev132-1.22.0
+  - v1beta1-rev133-1.18.0-rc
+  - v1beta1-rev133-1.20.0
+  - v1beta1-rev133-1.21.0
+  - v1beta1-rev133-1.22.0
+  - v1beta1-rev134-1.18.0-rc
+  - v1beta1-rev134-1.20.0
+  - v1beta1-rev134-1.21.0
+  - v1beta1-rev134-1.22.0
+  - v1beta1-rev135-1.18.0-rc
+  - v1beta1-rev135-1.20.0
+  - v1beta1-rev135-1.21.0
+  - v1beta1-rev135-1.22.0
+  - v1beta1-rev136-1.18.0-rc
+  - v1beta1-rev136-1.20.0
+  - v1beta1-rev136-1.21.0
+  - v1beta1-rev136-1.22.0
+  - v1beta1-rev137-1.18.0-rc
+  - v1beta1-rev137-1.20.0
+  - v1beta1-rev137-1.21.0
+  - v1beta1-rev137-1.22.0
+  - v1beta1-rev138-1.18.0-rc
+  - v1beta1-rev138-1.20.0
+  - v1beta1-rev138-1.21.0
+  - v1beta1-rev138-1.22.0
+  - v1beta1-rev139-1.18.0-rc
+  - v1beta1-rev139-1.20.0
+  - v1beta1-rev139-1.21.0
+  - v1beta1-rev139-1.22.0
   - v1-rev14-1.13.2-beta
   - v1-rev14-1.14.1-beta
   - v1-rev15-1.13.2-beta
@@ -818,4 +862,47 @@ versioning:
   - v1-rev124-1.20.0
   - v1-rev124-1.21.0
   - v1-rev124-1.22.0
-  lastUpdated: 20170510225507
+  - v1-rev125-1.20.0
+  - v1-rev125-1.21.0
+  - v1-rev125-1.22.0
+  - v1-rev126-1.18.0-rc
+  - v1-rev126-1.20.0
+  - v1-rev126-1.21.0
+  - v1-rev126-1.22.0
+  - v1-rev127-1.18.0-rc
+  - v1-rev127-1.20.0
+  - v1-rev127-1.21.0
+  - v1-rev127-1.22.0
+  - v1-rev128-1.18.0-rc
+  - v1-rev128-1.20.0
+  - v1-rev128-1.21.0
+  - v1-rev128-1.22.0
+  - v1-rev129-1.18.0-rc
+  - v1-rev129-1.20.0
+  - v1-rev129-1.21.0
+  - v1-rev129-1.22.0
+  - v1-rev130-1.18.0-rc
+  - v1-rev130-1.20.0
+  - v1-rev130-1.21.0
+  - v1-rev130-1.22.0
+  - v1-rev131-1.18.0-rc
+  - v1-rev131-1.20.0
+  - v1-rev131-1.21.0
+  - v1-rev131-1.22.0
+  - v1-rev132-1.18.0-rc
+  - v1-rev132-1.20.0
+  - v1-rev132-1.21.0
+  - v1-rev132-1.22.0
+  - v1-rev133-1.18.0-rc
+  - v1-rev133-1.20.0
+  - v1-rev133-1.21.0
+  - v1-rev133-1.22.0
+  - v1-rev134-1.18.0-rc
+  - v1-rev134-1.20.0
+  - v1-rev134-1.21.0
+  - v1-rev134-1.22.0
+  - v1-rev135-1.18.0-rc
+  - v1-rev135-1.20.0
+  - v1-rev135-1.21.0
+  - v1-rev135-1.22.0
+  lastUpdated: 20170607224817

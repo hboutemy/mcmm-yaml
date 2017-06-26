@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jruby
 artifactId: jruby-truffle
 versioning:
-  latest: 9.1.6.0
-  release: 9.1.6.0
+  latest: 9.1.7.0
+  release: 9.1.7.0
   versions:
   - 9.0.0.0.rc1
   - 9.0.0.0.rc2
@@ -23,4 +23,5 @@ versioning:
   - 9.1.4.0
   - 9.1.5.0
   - 9.1.6.0
-  lastUpdated: 20161110135221
+  - 9.1.7.0
+  lastUpdated: 20170111194823

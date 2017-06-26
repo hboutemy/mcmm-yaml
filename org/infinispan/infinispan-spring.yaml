@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-spring
 versioning:
-  latest: 8.2.5.Final
-  release: 8.2.5.Final
+  latest: 8.2.7.Final
+  release: 8.2.7.Final
   versions:
   - 5.0.0.FINAL
   - 5.0.1.FINAL
@@ -132,6 +132,8 @@ versioning:
   - 8.1.4.Final
   - 8.1.5.Final
   - 8.1.6.Final
+  - 8.1.7.Final
+  - 8.1.8.Final
   - 8.2.0.Beta1
   - 8.2.0.Beta2
   - 8.2.0.CR1
@@ -141,4 +143,6 @@ versioning:
   - 8.2.3.Final
   - 8.2.4.Final
   - 8.2.5.Final
-  lastUpdated: 20161212195259
+  - 8.2.6.Final
+  - 8.2.7.Final
+  lastUpdated: 20170621125521

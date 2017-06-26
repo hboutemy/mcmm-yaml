@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-genomics
 versioning:
-  latest: v1-rev486-1.22.0
-  release: v1-rev486-1.22.0
+  latest: v1-rev498-1.22.0
+  release: v1-rev498-1.22.0
   versions:
   - v1alpha2-rev1-1.18.0-rc
   - v1alpha2-rev1-1.19.1
@@ -422,6 +422,54 @@ versioning:
   - v1alpha2-rev434-1.20.0
   - v1alpha2-rev434-1.21.0
   - v1alpha2-rev434-1.22.0
+  - v1alpha2-rev435-1.18.0-rc
+  - v1alpha2-rev435-1.20.0
+  - v1alpha2-rev435-1.21.0
+  - v1alpha2-rev435-1.22.0
+  - v1alpha2-rev436-1.18.0-rc
+  - v1alpha2-rev436-1.20.0
+  - v1alpha2-rev436-1.21.0
+  - v1alpha2-rev436-1.22.0
+  - v1alpha2-rev437-1.18.0-rc
+  - v1alpha2-rev437-1.20.0
+  - v1alpha2-rev437-1.21.0
+  - v1alpha2-rev437-1.22.0
+  - v1alpha2-rev438-1.18.0-rc
+  - v1alpha2-rev438-1.20.0
+  - v1alpha2-rev438-1.21.0
+  - v1alpha2-rev438-1.22.0
+  - v1alpha2-rev439-1.18.0-rc
+  - v1alpha2-rev439-1.20.0
+  - v1alpha2-rev439-1.21.0
+  - v1alpha2-rev439-1.22.0
+  - v1alpha2-rev440-1.18.0-rc
+  - v1alpha2-rev440-1.20.0
+  - v1alpha2-rev440-1.21.0
+  - v1alpha2-rev440-1.22.0
+  - v1alpha2-rev441-1.18.0-rc
+  - v1alpha2-rev441-1.20.0
+  - v1alpha2-rev441-1.21.0
+  - v1alpha2-rev441-1.22.0
+  - v1alpha2-rev442-1.18.0-rc
+  - v1alpha2-rev442-1.20.0
+  - v1alpha2-rev442-1.21.0
+  - v1alpha2-rev442-1.22.0
+  - v1alpha2-rev443-1.18.0-rc
+  - v1alpha2-rev443-1.20.0
+  - v1alpha2-rev443-1.21.0
+  - v1alpha2-rev443-1.22.0
+  - v1alpha2-rev444-1.18.0-rc
+  - v1alpha2-rev444-1.20.0
+  - v1alpha2-rev444-1.21.0
+  - v1alpha2-rev444-1.22.0
+  - v1alpha2-rev445-1.18.0-rc
+  - v1alpha2-rev445-1.20.0
+  - v1alpha2-rev445-1.21.0
+  - v1alpha2-rev445-1.22.0
+  - v1alpha2-rev446-1.18.0-rc
+  - v1alpha2-rev446-1.20.0
+  - v1alpha2-rev446-1.21.0
+  - v1alpha2-rev446-1.22.0
   - v1beta2-rev1-1.15.0-rc
   - v1beta2-rev1-1.16.0-rc
   - v1beta2-rev1-1.17.0-rc
@@ -2048,6 +2096,54 @@ versioning:
   - v1-rev486-1.20.0
   - v1-rev486-1.21.0
   - v1-rev486-1.22.0
+  - v1-rev487-1.18.0-rc
+  - v1-rev487-1.20.0
+  - v1-rev487-1.21.0
+  - v1-rev487-1.22.0
+  - v1-rev488-1.18.0-rc
+  - v1-rev488-1.20.0
+  - v1-rev488-1.21.0
+  - v1-rev488-1.22.0
+  - v1-rev489-1.18.0-rc
+  - v1-rev489-1.20.0
+  - v1-rev489-1.21.0
+  - v1-rev489-1.22.0
+  - v1-rev490-1.18.0-rc
+  - v1-rev490-1.20.0
+  - v1-rev490-1.21.0
+  - v1-rev490-1.22.0
+  - v1-rev491-1.18.0-rc
+  - v1-rev491-1.20.0
+  - v1-rev491-1.21.0
+  - v1-rev491-1.22.0
+  - v1-rev492-1.18.0-rc
+  - v1-rev492-1.20.0
+  - v1-rev492-1.21.0
+  - v1-rev492-1.22.0
+  - v1-rev493-1.18.0-rc
+  - v1-rev493-1.20.0
+  - v1-rev493-1.21.0
+  - v1-rev493-1.22.0
+  - v1-rev494-1.18.0-rc
+  - v1-rev494-1.20.0
+  - v1-rev494-1.21.0
+  - v1-rev494-1.22.0
+  - v1-rev495-1.18.0-rc
+  - v1-rev495-1.20.0
+  - v1-rev495-1.21.0
+  - v1-rev495-1.22.0
+  - v1-rev496-1.18.0-rc
+  - v1-rev496-1.20.0
+  - v1-rev496-1.21.0
+  - v1-rev496-1.22.0
+  - v1-rev497-1.18.0-rc
+  - v1-rev497-1.20.0
+  - v1-rev497-1.21.0
+  - v1-rev497-1.22.0
+  - v1-rev498-1.18.0-rc
+  - v1-rev498-1.20.0
+  - v1-rev498-1.21.0
+  - v1-rev498-1.22.0
   - v1-rev3-1.18.0-rc
   - v1-rev3-1.19.0
   - v1-rev3-1.19.1
@@ -2060,4 +2156,4 @@ versioning:
   - v1beta2-rev49-1.19.0
   - v1beta2-rev49-1.19.1
   - v1beta2-rev49-1.20.0
-  lastUpdated: 20170509203839
+  lastUpdated: 20170613094132

@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud
 artifactId: spring-cloud-dependencies
 versioning:
-  latest: Dalston.RELEASE
-  release: Dalston.RELEASE
+  latest: Dalston.SR1
+  release: Dalston.SR1
   versions:
   - Angel.SR5
   - Angel.SR6
@@ -25,4 +25,5 @@ versioning:
   - Camden.SR6
   - Camden.SR7
   - Dalston.RELEASE
-  lastUpdated: 20170505200331
+  - Dalston.SR1
+  lastUpdated: 20170524160719

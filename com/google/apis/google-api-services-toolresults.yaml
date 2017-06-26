@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-toolresults
 versioning:
-  latest: v1beta3-rev224-1.22.0
-  release: v1beta3-rev224-1.22.0
+  latest: v1beta3-rev242-1.22.0
+  release: v1beta3-rev242-1.22.0
   versions:
   - v1beta3firstparty-rev1-1.18.0-rc
   - v1beta3firstparty-rev1-1.20.0
@@ -190,6 +190,70 @@ versioning:
   - v1beta3firstparty-rev47-1.20.0
   - v1beta3firstparty-rev47-1.21.0
   - v1beta3firstparty-rev47-1.22.0
+  - v1beta3firstparty-rev50-1.18.0-rc
+  - v1beta3firstparty-rev50-1.20.0
+  - v1beta3firstparty-rev50-1.21.0
+  - v1beta3firstparty-rev50-1.22.0
+  - v1beta3firstparty-rev51-1.18.0-rc
+  - v1beta3firstparty-rev51-1.20.0
+  - v1beta3firstparty-rev51-1.21.0
+  - v1beta3firstparty-rev51-1.22.0
+  - v1beta3firstparty-rev52-1.18.0-rc
+  - v1beta3firstparty-rev52-1.20.0
+  - v1beta3firstparty-rev52-1.21.0
+  - v1beta3firstparty-rev52-1.22.0
+  - v1beta3firstparty-rev53-1.18.0-rc
+  - v1beta3firstparty-rev53-1.20.0
+  - v1beta3firstparty-rev53-1.21.0
+  - v1beta3firstparty-rev53-1.22.0
+  - v1beta3firstparty-rev54-1.18.0-rc
+  - v1beta3firstparty-rev54-1.20.0
+  - v1beta3firstparty-rev54-1.21.0
+  - v1beta3firstparty-rev54-1.22.0
+  - v1beta3firstparty-rev55-1.18.0-rc
+  - v1beta3firstparty-rev55-1.20.0
+  - v1beta3firstparty-rev55-1.21.0
+  - v1beta3firstparty-rev55-1.22.0
+  - v1beta3firstparty-rev56-1.18.0-rc
+  - v1beta3firstparty-rev56-1.20.0
+  - v1beta3firstparty-rev56-1.21.0
+  - v1beta3firstparty-rev56-1.22.0
+  - v1beta3firstparty-rev57-1.18.0-rc
+  - v1beta3firstparty-rev57-1.20.0
+  - v1beta3firstparty-rev57-1.21.0
+  - v1beta3firstparty-rev57-1.22.0
+  - v1beta3firstparty-rev58-1.18.0-rc
+  - v1beta3firstparty-rev58-1.20.0
+  - v1beta3firstparty-rev58-1.21.0
+  - v1beta3firstparty-rev58-1.22.0
+  - v1beta3firstparty-rev59-1.18.0-rc
+  - v1beta3firstparty-rev59-1.20.0
+  - v1beta3firstparty-rev59-1.21.0
+  - v1beta3firstparty-rev59-1.22.0
+  - v1beta3firstparty-rev60-1.18.0-rc
+  - v1beta3firstparty-rev60-1.20.0
+  - v1beta3firstparty-rev60-1.21.0
+  - v1beta3firstparty-rev60-1.22.0
+  - v1beta3firstparty-rev61-1.18.0-rc
+  - v1beta3firstparty-rev61-1.20.0
+  - v1beta3firstparty-rev61-1.21.0
+  - v1beta3firstparty-rev61-1.22.0
+  - v1beta3firstparty-rev62-1.18.0-rc
+  - v1beta3firstparty-rev62-1.20.0
+  - v1beta3firstparty-rev62-1.21.0
+  - v1beta3firstparty-rev62-1.22.0
+  - v1beta3firstparty-rev63-1.18.0-rc
+  - v1beta3firstparty-rev63-1.20.0
+  - v1beta3firstparty-rev63-1.21.0
+  - v1beta3firstparty-rev63-1.22.0
+  - v1beta3firstparty-rev64-1.18.0-rc
+  - v1beta3firstparty-rev64-1.20.0
+  - v1beta3firstparty-rev64-1.21.0
+  - v1beta3firstparty-rev64-1.22.0
+  - v1beta3firstparty-rev65-1.18.0-rc
+  - v1beta3firstparty-rev65-1.20.0
+  - v1beta3firstparty-rev65-1.21.0
+  - v1beta3firstparty-rev65-1.22.0
   - v1beta3-rev1-1.18.0-rc
   - v1beta3-rev1-1.19.1
   - v1beta3-rev1-1.20.0
@@ -1046,4 +1110,72 @@ versioning:
   - v1beta3-rev224-1.20.0
   - v1beta3-rev224-1.21.0
   - v1beta3-rev224-1.22.0
-  lastUpdated: 20170511095308
+  - v1beta3-rev225-1.18.0-rc
+  - v1beta3-rev225-1.20.0
+  - v1beta3-rev225-1.21.0
+  - v1beta3-rev225-1.22.0
+  - v1beta3-rev227-1.18.0-rc
+  - v1beta3-rev227-1.20.0
+  - v1beta3-rev227-1.21.0
+  - v1beta3-rev227-1.22.0
+  - v1beta3-rev228-1.18.0-rc
+  - v1beta3-rev228-1.20.0
+  - v1beta3-rev228-1.21.0
+  - v1beta3-rev228-1.22.0
+  - v1beta3-rev229-1.18.0-rc
+  - v1beta3-rev229-1.20.0
+  - v1beta3-rev229-1.21.0
+  - v1beta3-rev229-1.22.0
+  - v1beta3-rev230-1.18.0-rc
+  - v1beta3-rev230-1.20.0
+  - v1beta3-rev230-1.21.0
+  - v1beta3-rev230-1.22.0
+  - v1beta3-rev231-1.18.0-rc
+  - v1beta3-rev231-1.20.0
+  - v1beta3-rev231-1.21.0
+  - v1beta3-rev231-1.22.0
+  - v1beta3-rev232-1.18.0-rc
+  - v1beta3-rev232-1.20.0
+  - v1beta3-rev232-1.21.0
+  - v1beta3-rev232-1.22.0
+  - v1beta3-rev233-1.18.0-rc
+  - v1beta3-rev233-1.20.0
+  - v1beta3-rev233-1.21.0
+  - v1beta3-rev233-1.22.0
+  - v1beta3-rev234-1.18.0-rc
+  - v1beta3-rev234-1.20.0
+  - v1beta3-rev234-1.21.0
+  - v1beta3-rev234-1.22.0
+  - v1beta3-rev235-1.18.0-rc
+  - v1beta3-rev235-1.20.0
+  - v1beta3-rev235-1.21.0
+  - v1beta3-rev235-1.22.0
+  - v1beta3-rev236-1.18.0-rc
+  - v1beta3-rev236-1.20.0
+  - v1beta3-rev236-1.21.0
+  - v1beta3-rev236-1.22.0
+  - v1beta3-rev237-1.18.0-rc
+  - v1beta3-rev237-1.20.0
+  - v1beta3-rev237-1.21.0
+  - v1beta3-rev237-1.22.0
+  - v1beta3-rev238-1.18.0-rc
+  - v1beta3-rev238-1.20.0
+  - v1beta3-rev238-1.21.0
+  - v1beta3-rev238-1.22.0
+  - v1beta3-rev239-1.18.0-rc
+  - v1beta3-rev239-1.20.0
+  - v1beta3-rev239-1.21.0
+  - v1beta3-rev239-1.22.0
+  - v1beta3-rev240-1.18.0-rc
+  - v1beta3-rev240-1.20.0
+  - v1beta3-rev240-1.21.0
+  - v1beta3-rev240-1.22.0
+  - v1beta3-rev241-1.18.0-rc
+  - v1beta3-rev241-1.20.0
+  - v1beta3-rev241-1.21.0
+  - v1beta3-rev241-1.22.0
+  - v1beta3-rev242-1.18.0-rc
+  - v1beta3-rev242-1.20.0
+  - v1beta3-rev242-1.21.0
+  - v1beta3-rev242-1.22.0
+  lastUpdated: 20170610074236

@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-server-memcached
 versioning:
-  latest: 9.0.0.Beta1
-  release: 9.0.0.Beta1
+  latest: 9.1.0.Beta1
+  release: 9.1.0.Beta1
   versions:
   - 5.0.0.FINAL
   - 5.0.1.FINAL
@@ -132,6 +132,8 @@ versioning:
   - 8.1.4.Final
   - 8.1.5.Final
   - 8.1.6.Final
+  - 8.1.7.Final
+  - 8.1.8.Final
   - 8.2.0.Beta1
   - 8.2.0.Beta2
   - 8.2.0.CR1
@@ -141,9 +143,22 @@ versioning:
   - 8.2.3.Final
   - 8.2.4.Final
   - 8.2.5.Final
+  - 8.2.6.Final
+  - 8.2.7.Final
   - 9.0.0.Alpha1
   - 9.0.0.Alpha2
   - 9.0.0.Alpha3
   - 9.0.0.Alpha4
   - 9.0.0.Beta1
-  lastUpdated: 20161212195255
+  - 9.0.0.Beta2
+  - 9.0.0.CR1
+  - 9.0.0.CR2
+  - 9.0.0.CR3
+  - 9.0.0.CR4
+  - 9.0.0.Final
+  - 9.0.1.Final
+  - 9.0.2.Final
+  - 9.0.3.Final
+  - 9.1.0.Alpha1
+  - 9.1.0.Beta1
+  lastUpdated: 20170621134407

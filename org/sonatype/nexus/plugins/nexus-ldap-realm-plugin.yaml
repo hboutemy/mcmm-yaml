@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.plugins
 artifactId: nexus-ldap-realm-plugin
 versioning:
-  latest: 2.14.2-01
-  release: 2.14.2-01
+  latest: 2.14.4-03
+  release: 2.14.4-03
   versions:
   - 2.6.0-01
   - 2.6.0-05
@@ -53,4 +53,7 @@ versioning:
   - 2.14.0-01
   - 2.14.1-01
   - 2.14.2-01
-  lastUpdated: 20161214191906
+  - 2.14.3-02
+  - 2.14.4-01
+  - 2.14.4-03
+  lastUpdated: 20170407165402

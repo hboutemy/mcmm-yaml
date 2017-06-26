@@ -3,8 +3,8 @@
 groupId: org.cloudfoundry
 artifactId: cloudfoundry-util
 versioning:
-  latest: 2.11.0.RELEASE
-  release: 2.11.0.RELEASE
+  latest: 2.14.0.RELEASE
+  release: 2.14.0.RELEASE
   versions:
   - 2.0.0.M1
   - 2.0.0.M2
@@ -33,4 +33,7 @@ versioning:
   - 2.9.0.RELEASE
   - 2.10.0.RELEASE
   - 2.11.0.RELEASE
-  lastUpdated: 20170505135322
+  - 2.12.0.RELEASE
+  - 2.13.0.RELEASE
+  - 2.14.0.RELEASE
+  lastUpdated: 20170619202322

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.integration
 artifactId: spring-integration-syslog
 versioning:
-  latest: 4.3.6.RELEASE
-  release: 4.3.6.RELEASE
+  latest: 4.3.10.RELEASE
+  release: 4.3.10.RELEASE
   versions:
   - 3.0.0.RELEASE
   - 3.0.1.RELEASE
@@ -54,5 +54,9 @@ versioning:
   - 4.3.4.RELEASE
   - 4.3.5.RELEASE
   - 4.3.6.RELEASE
+  - 4.3.7.RELEASE
+  - 4.3.8.RELEASE
+  - 4.3.9.RELEASE
+  - 4.3.10.RELEASE
   - 4.0.0.M3
-  lastUpdated: 20161221165633
+  lastUpdated: 20170607214257

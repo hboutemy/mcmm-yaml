@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.bouncycastle
 artifactId: bcprov-ext-jdk14
 versioning:
-  latest: 1.54
-  release: 1.54
+  latest: 1.57
+  release: 1.57
   versions:
   - 1.45
   - 1.46
@@ -16,4 +16,6 @@ versioning:
   - 1.51
   - 1.53
   - 1.54
-  lastUpdated: 20151230032326
+  - 1.56
+  - 1.57
+  lastUpdated: 20170515021251

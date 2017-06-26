@@ -3,8 +3,8 @@
 groupId: org.jboss.cdi.tck
 artifactId: cdi-tck-impl
 versioning:
-  latest: 2.0.0.Beta1
-  release: 2.0.0.Beta1
+  latest: 2.0.0.Final
+  release: 2.0.0.Final
   versions:
   - 1.1.0.Alpha1
   - 1.1.0.Alpha2
@@ -56,4 +56,6 @@ versioning:
   - 2.0.0.Alpha8
   - 2.0.0.Alpha9
   - 2.0.0.Beta1
-  lastUpdated: 20161216155124
+  - 2.0.0.CR1
+  - 2.0.0.Final
+  lastUpdated: 20170511071328
