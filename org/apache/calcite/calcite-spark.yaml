@@ -3,8 +3,8 @@
 groupId: org.apache.calcite
 artifactId: calcite-spark
 versioning:
-  latest: 1.12.0
-  release: 1.12.0
+  latest: 1.13.0
+  release: 1.13.0
   versions:
   - 0.9.1-incubating
   - 0.9.2-incubating
@@ -21,4 +21,5 @@ versioning:
   - 1.10.0
   - 1.11.0
   - 1.12.0
-  lastUpdated: 20170324030246
+  - 1.13.0
+  lastUpdated: 20170626083149
