@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.apache.poi
 artifactId: poi-ooxml
 versioning:
-  latest: 3.16
-  release: 3.16
+  latest: 3.17-beta1
+  release: 3.17-beta1
   versions:
   - 3.5-beta4
   - 3.5-beta5
@@ -43,4 +43,5 @@ versioning:
   - 3.16-beta1
   - 3.16-beta2
   - 3.16
-  lastUpdated: 20170416140557
+  - 3.17-beta1
+  lastUpdated: 20170627233338

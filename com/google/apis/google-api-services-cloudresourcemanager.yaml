@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-cloudresourcemanager
 versioning:
-  latest: v1-rev440-1.22.0
-  release: v1-rev440-1.22.0
+  latest: v2beta1-rev1-1.21.0
+  release: v2beta1-rev1-1.21.0
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.19.0
@@ -532,4 +532,7 @@ versioning:
   - v1-rev440-1.20.0
   - v1-rev440-1.21.0
   - v1-rev440-1.22.0
-  lastUpdated: 20170609011034
+  - v2beta1-rev1-1.18.0-rc
+  - v2beta1-rev1-1.20.0
+  - v2beta1-rev1-1.21.0
+  lastUpdated: 20170628120551
