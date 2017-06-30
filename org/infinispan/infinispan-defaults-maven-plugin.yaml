@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-defaults-maven-plugin
 versioning:
-  latest: 9.1.0.Beta1
-  release: 9.1.0.Beta1
+  latest: 9.1.0.CR1
+  release: 9.1.0.CR1
   versions:
   - 9.0.0.Beta2
   - 9.0.0.CR1
@@ -17,4 +17,5 @@ versioning:
   - 9.0.3.Final
   - 9.1.0.Alpha1
   - 9.1.0.Beta1
-  lastUpdated: 20170621134313
+  - 9.1.0.CR1
+  lastUpdated: 20170629172548

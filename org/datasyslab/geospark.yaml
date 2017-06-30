@@ -3,8 +3,8 @@
 groupId: org.datasyslab
 artifactId: geospark
 versioning:
-  latest: 0.7.1-snapshot2
-  release: 0.7.1-snapshot2
+  latest: 0.8.0-spark-1.x
+  release: 0.8.0-spark-1.x
   versions:
   - 0.3.1
   - 0.3.2
@@ -32,4 +32,6 @@ versioning:
   - 0.7.0-spark-1.x
   - 0.7.1-snapshot
   - 0.7.1-snapshot2
-  lastUpdated: 20170603192345
+  - 0.8.0
+  - 0.8.0-spark-1.x
+  lastUpdated: 20170629231217

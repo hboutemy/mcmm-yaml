@@ -3,8 +3,8 @@
 groupId: com.google.cloud.bigtable
 artifactId: bigtable-hbase
 versioning:
-  latest: 0.9.7.1
-  release: 0.9.7.1
+  latest: 1.0.0-pre1
+  release: 1.0.0-pre1
   versions:
   - 0.1.9
   - 0.2.0
@@ -25,4 +25,5 @@ versioning:
   - 0.9.6.2
   - 0.9.7
   - 0.9.7.1
-  lastUpdated: 20170619193107
+  - 1.0.0-pre1
+  lastUpdated: 20170629162502
