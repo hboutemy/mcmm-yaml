@@ -3,9 +3,10 @@
 groupId: com.uber.jaeger
 artifactId: jaeger-zipkin
 versioning:
-  latest: 0.20.0
-  release: 0.20.0
+  latest: 0.20.5
+  release: 0.20.5
   versions:
+  - v0.20.4
   - 0.8.0
   - 0.8.1
   - 0.8.2
@@ -21,4 +22,5 @@ versioning:
   - 0.18.0
   - 0.19.0
   - 0.20.0
-  lastUpdated: 20170623223228
+  - 0.20.5
+  lastUpdated: 20170630155016

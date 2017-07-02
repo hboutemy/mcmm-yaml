@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-ldap-federation
 versioning:
-  latest: 3.1.0.Final
-  release: 3.1.0.Final
+  latest: 3.2.0.CR1
+  release: 3.2.0.CR1
   versions:
   - 1.0-beta-4
   - 1.0-rc-1
@@ -66,5 +66,6 @@ versioning:
   - 3.0.0.Final
   - 3.1.0.CR1
   - 3.1.0.Final
+  - 3.2.0.CR1
   - 1.5.0.Final
-  lastUpdated: 20170503065333
+  lastUpdated: 20170630095023

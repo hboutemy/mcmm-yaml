@@ -3,8 +3,8 @@
 groupId: org.restcomm
 artifactId: restcomm-connect.sms
 versioning:
-  latest: 8.2.0.1255
-  release: 8.2.0.1255
+  latest: 8.2.0.1258
+  release: 8.2.0.1258
   versions:
   - issue1596-8.0.0.12
   - 8.0.0.issue-1570.withtest.36
@@ -170,12 +170,14 @@ versioning:
   - 8.1.0.issue-1821.63
   - 8.1.0.issue-1821.64
   - 8.1.0.issue-1821.65
+  - 8.1.0.issue-1821.81
   - 8.1.0.issue-1939.58
   - 8.1.0.issue-1939.59
   - 8.1.0.Issue1945_UpdateTadhackEnvironment.2
   - 8.1.0.Issue1945_UpdateTadhackEnvironment.3
   - 8.1.0.Issue1945_UpdateTadhackEnvironment.4
   - 8.1.0.Issue1945_UpdateTadhackEnvironment.6
+  - 8.1.0.Issue1945_UpdateTadhackEnvironment.10
   - 8.1.0.Issue1945_UpdateTadhackEnvironment.56
   - 8.1.0.Issue1945_UpdateTadhackEnvironment.57
   - 8.1.0.issue-2073.71
@@ -342,4 +344,7 @@ versioning:
   - 8.2.0.1253
   - 8.2.0.1254
   - 8.2.0.1255
-  lastUpdated: 20170629074149
+  - 8.2.0.1256
+  - 8.2.0.1257
+  - 8.2.0.1258
+  lastUpdated: 20170701080757

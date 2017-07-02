@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-server-rpm
 versioning:
-  latest: 0.179
-  release: 0.179
+  latest: 0.180
+  release: 0.180
   versions:
   - 0.108
   - 0.109
@@ -87,4 +87,5 @@ versioning:
   - 0.177
   - 0.178
   - 0.179
-  lastUpdated: 20170614215829
+  - 0.180
+  lastUpdated: 20170630071526
