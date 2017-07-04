@@ -3,8 +3,8 @@
 groupId: com.lihaoyi
 artifactId: ammonite_2.11.11
 versioning:
-  latest: 1.0.0-RC9
-  release: 1.0.0-RC9
+  latest: 1.0.0
+  release: 1.0.0
   versions:
   - COMMIT-a72a9a0
   - COMMIT-b77b18b
@@ -14,6 +14,8 @@ versioning:
   - COMMIT-0aaed87
   - COMMIT-1b2e268
   - COMMIT-01b67ac
+  - COMMIT-1d15ce3
+  - COMMIT-1dd5a36
   - COMMIT-1f834a7
   - COMMIT-2fef389
   - COMMIT-3a2b4b5
@@ -23,6 +25,7 @@ versioning:
   - COMMIT-5d0aa4f
   - COMMIT-5d5467d
   - COMMIT-6f0e5a9
+  - COMMIT-7f74ca2
   - COMMIT-7fb934a
   - COMMIT-8a85582
   - COMMIT-8b103a7
@@ -38,6 +41,7 @@ versioning:
   - COMMIT-33d35a7
   - COMMIT-38f6574
   - COMMIT-49e007d
+  - COMMIT-56aff4a
   - COMMIT-57db3a8
   - COMMIT-82ef524
   - COMMIT-88e8322
@@ -106,4 +110,5 @@ versioning:
   - 1.0.0-RC7
   - 1.0.0-RC8
   - 1.0.0-RC9
-  lastUpdated: 20170630113252
+  - 1.0.0
+  lastUpdated: 20170703155808
