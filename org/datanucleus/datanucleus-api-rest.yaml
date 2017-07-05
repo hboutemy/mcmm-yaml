@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.datanucleus
 artifactId: datanucleus-api-rest
 versioning:
-  latest: 5.0.2
-  release: 5.0.2
+  latest: 5.1.0-m1
+  release: 5.1.0-m1
   versions:
   - 3.0.0-m1
   - 3.0.0-m2
@@ -51,4 +51,5 @@ versioning:
   - 5.0.0-release
   - 5.0.1
   - 5.0.2
-  lastUpdated: 20160921141704
+  - 5.1.0-m1
+  lastUpdated: 20170704083427

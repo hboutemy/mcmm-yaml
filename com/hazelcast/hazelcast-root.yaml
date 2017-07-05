@@ -3,8 +3,8 @@
 groupId: com.hazelcast
 artifactId: hazelcast-root
 versioning:
-  latest: 3.8.2
-  release: 3.8.2
+  latest: 3.9-EA
+  release: 3.9-EA
   versions:
   - 1.9.2
   - 1.9.2.1
@@ -131,6 +131,8 @@ versioning:
   - 3.8-EA
   - 3.8.1
   - 3.8.2
+  - 3.8.3
+  - 3.9-EA
   - 1.7
   - 1.7-RC2
   - 1.7-RC3
@@ -150,4 +152,4 @@ versioning:
   - 3.4.3
   - 3.4.4
   - 3.5
-  lastUpdated: 20170525125312
+  lastUpdated: 20170704085438

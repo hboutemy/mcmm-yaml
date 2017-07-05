@@ -3,8 +3,8 @@
 groupId: io.fabric8.devops.apps
 artifactId: prometheus-blackbox-exporter
 versioning:
-  latest: 2.2.334
-  release: 2.2.334
+  latest: 2.2.335
+  release: 2.2.335
   versions:
   - 2.2.75
   - 2.2.76
@@ -202,4 +202,5 @@ versioning:
   - 2.2.330
   - 2.2.331
   - 2.2.334
-  lastUpdated: 20170630145253
+  - 2.2.335
+  lastUpdated: 20170704200331
