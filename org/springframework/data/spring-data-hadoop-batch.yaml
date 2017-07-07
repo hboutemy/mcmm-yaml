@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.data
 artifactId: spring-data-hadoop-batch
 versioning:
-  latest: 2.4.0.RELEASE
-  release: 2.4.0.RELEASE
+  latest: 2.5.0.RELEASE
+  release: 2.5.0.RELEASE
   versions:
   - 2.0.0.RELEASE
   - 2.0.0.RELEASE-hadoop12
@@ -41,4 +41,5 @@ versioning:
   - 2.3.0.RELEASE
   - 2.3.0.RELEASE-hadoop26
   - 2.4.0.RELEASE
-  lastUpdated: 20161110223238
+  - 2.5.0.RELEASE
+  lastUpdated: 20170706184939
