@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.eobjects.datacleaner
 artifactId: DataCleaner-env-cluster
 versioning:
-  latest: 5.2.0-RC2
-  release: 5.2.0-RC2
+  latest: 5.2.0
+  release: 5.2.0
   versions:
   - 4.0-RC1
   - 4.0-RC2
@@ -50,5 +50,6 @@ versioning:
   - 5.1.5.3
   - 5.2.0-RC1
   - 5.2.0-RC2
+  - 5.2.0
   - 6.0.0
-  lastUpdated: 20170622212809
+  lastUpdated: 20170707082411

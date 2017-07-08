@@ -3,12 +3,14 @@
 groupId: io.airlift
 artifactId: testing-postgresql-server
 versioning:
-  latest: 9.6.1-1
-  release: 9.6.1-1
+  latest: 9.6.3-2
+  release: 9.6.3-2
   versions:
   - 0.1
   - 0.2
   - 0.3
   - 0.4
   - 9.6.1-1
-  lastUpdated: 20170418193324
+  - 9.6.3-1
+  - 9.6.3-2
+  lastUpdated: 20170707224842

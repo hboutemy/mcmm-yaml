@@ -4,12 +4,9 @@ modelVersion: 1.1.0
 groupId: javax.ws.rs
 artifactId: jsr311-api
 versioning:
-  latest: 1.1-ea
-  release: 1.1-ea
+  latest: 1.1.1
+  release: 1.1.1
   versions:
-  - 1.1-ea
-  - 0.10
-  - 0.11
   - 0.2
   - 0.3
   - 0.4
@@ -18,7 +15,10 @@ versioning:
   - 0.7
   - 0.8
   - 0.9
+  - 0.10
+  - 0.11
   - 1.0
   - 1.1
+  - 1.1-ea
   - 1.1.1
-  lastUpdated: 20110815192703
+  lastUpdated: 20170707185111
