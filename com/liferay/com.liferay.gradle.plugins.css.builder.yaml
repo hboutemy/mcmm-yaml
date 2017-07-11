@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.gradle.plugins.css.builder
 versioning:
   latest: 2.0.0
-  release: 2.0.0
+  release: 2.0.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -24,4 +23,5 @@ versioning:
   - 1.0.14
   - 1.0.15
   - 2.0.0
-  lastUpdated: 20161118034444
+  - 2.0.1
+  lastUpdated: 20170710170144
