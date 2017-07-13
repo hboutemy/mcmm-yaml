@@ -3,8 +3,8 @@
 groupId: org.dspace
 artifactId: dspace-lni-client
 versioning:
-  latest: 5.6
-  release: 5.6
+  latest: 5.7
+  release: 5.7
   versions:
   - 1.5-alpha
   - 1.5.0-beta1
@@ -50,6 +50,7 @@ versioning:
   - 4.5
   - 4.6
   - 4.7
+  - 4.8
   - 5.0-rc2
   - 5.0-rc3
   - 5.0
@@ -59,4 +60,5 @@ versioning:
   - 5.4
   - 5.5
   - 5.6
-  lastUpdated: 20161013162827
+  - 5.7
+  lastUpdated: 20170712203350
