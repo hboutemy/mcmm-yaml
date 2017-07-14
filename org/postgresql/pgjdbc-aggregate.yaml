@@ -3,8 +3,8 @@
 groupId: org.postgresql
 artifactId: pgjdbc-aggregate
 versioning:
-  latest: 42.1.1
-  release: 42.1.1
+  latest: 42.1.2
+  release: 42.1.2
   versions:
   - 9.4.1207
   - 9.4.1208
@@ -15,4 +15,5 @@ versioning:
   - 42.0.0
   - 42.1.0
   - 42.1.1
-  lastUpdated: 20170506082753
+  - 42.1.2
+  lastUpdated: 20170713103355
