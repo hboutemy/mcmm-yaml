@@ -3,11 +3,12 @@
 groupId: org.infinispan
 artifactId: infinispan-license
 versioning:
-  latest: 9.1.0.CR1
-  release: 9.1.0.CR1
+  latest: 9.1.0.Final
+  release: 9.1.0.Final
   versions:
   - 1
   - 8.2.7.Final
+  - 8.2.8.Final
   - 9.0.0.CR2
   - 9.0.0.CR3
   - 9.0.0.CR4
@@ -18,4 +19,5 @@ versioning:
   - 9.1.0.Alpha1
   - 9.1.0.Beta1
   - 9.1.0.CR1
-  lastUpdated: 20170629172623
+  - 9.1.0.Final
+  lastUpdated: 20170714170533
