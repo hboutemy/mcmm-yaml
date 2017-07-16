@@ -3,8 +3,8 @@
 groupId: org.datanucleus
 artifactId: datanucleus-cassandra
 versioning:
-  latest: 5.1.0-m4
-  release: 5.1.0-m4
+  latest: 5.1.0-release
+  release: 5.1.0-release
   versions:
   - 4.0.0-m1
   - 4.0.0-m2
@@ -33,4 +33,5 @@ versioning:
   - 5.1.0-m2
   - 5.1.0-m3
   - 5.1.0-m4
-  lastUpdated: 20170704083429
+  - 5.1.0-release
+  lastUpdated: 20170715083420

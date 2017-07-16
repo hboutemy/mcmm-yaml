@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.datanucleus
 artifactId: datanucleus-excel
 versioning:
-  latest: 5.1.0-m4
-  release: 5.1.0-m4
+  latest: 5.1.0-release
+  release: 5.1.0-release
   versions:
   - 1.0.2
   - 1.0.3
@@ -76,4 +76,5 @@ versioning:
   - 5.1.0-m2
   - 5.1.0-m3
   - 5.1.0-m4
-  lastUpdated: 20170704083431
+  - 5.1.0-release
+  lastUpdated: 20170715083422

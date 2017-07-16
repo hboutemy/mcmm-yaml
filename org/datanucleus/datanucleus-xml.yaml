@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.datanucleus
 artifactId: datanucleus-xml
 versioning:
-  latest: 5.1.0-m2
-  release: 5.1.0-m2
+  latest: 5.1.0-release
+  release: 5.1.0-release
   versions:
   - 1.0.2
   - 1.0.3
@@ -68,4 +68,5 @@ versioning:
   - 5.0.0-release
   - 5.1.0-m1
   - 5.1.0-m2
-  lastUpdated: 20170704083435
+  - 5.1.0-release
+  lastUpdated: 20170715083452

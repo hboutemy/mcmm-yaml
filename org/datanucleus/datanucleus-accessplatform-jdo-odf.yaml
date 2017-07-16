@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.datanucleus
 artifactId: datanucleus-accessplatform-jdo-odf
 versioning:
-  latest: 5.1.0-m4
-  release: 5.1.0-m4
+  latest: 5.1.0-release
+  release: 5.1.0-release
   versions:
   - 3.0.4
   - 3.0.5
@@ -112,5 +112,6 @@ versioning:
   - 5.1.0-m2
   - 5.1.0-m3
   - 5.1.0-m4
+  - 5.1.0-release
   - 4.1.1
-  lastUpdated: 20170704083920
+  lastUpdated: 20170715083418
