@@ -3,8 +3,8 @@
 groupId: org.wildfly.extras.patch
 artifactId: fuse-patch-itests-jaxws
 versioning:
-  latest: 2.7.0.redhat-7
-  release: 2.7.0.redhat-7
+  latest: 2.7.0.redhat-8
+  release: 2.7.0.redhat-8
   versions:
   - 2.0.0
   - 2.0.1
@@ -27,4 +27,5 @@ versioning:
   - 2.7.0.redhat-5
   - 2.7.0.redhat-6
   - 2.7.0.redhat-7
-  lastUpdated: 20170426065929
+  - 2.7.0.redhat-8
+  lastUpdated: 20170717142608
