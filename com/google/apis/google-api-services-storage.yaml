@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-storage
 versioning:
-  latest: v1-rev108-1.22.0
-  release: v1-rev108-1.22.0
+  latest: v1-rev109-1.22.0
+  release: v1-rev109-1.22.0
   versions:
   - v1beta1-rev21-1.13.2-beta
   - v1beta1-rev21-1.14.1-beta
@@ -1039,7 +1039,10 @@ versioning:
   - v1beta2-rev140-1.20.0
   - v1beta2-rev140-1.21.0
   - v1beta2-rev140-1.22.0
+  - v1beta2-rev141-1.18.0-rc
   - v1beta2-rev141-1.20.0
+  - v1beta2-rev141-1.21.0
+  - v1beta2-rev141-1.22.0
   - v1-rev1-1.14.2-beta
   - v1-rev1-1.15.0-rc
   - v1-rev1-1.16.0-rc
@@ -1480,4 +1483,8 @@ versioning:
   - v1-rev108-1.20.0
   - v1-rev108-1.21.0
   - v1-rev108-1.22.0
-  lastUpdated: 20170718194118
+  - v1-rev109-1.18.0-rc
+  - v1-rev109-1.20.0
+  - v1-rev109-1.21.0
+  - v1-rev109-1.22.0
+  lastUpdated: 20170719064621

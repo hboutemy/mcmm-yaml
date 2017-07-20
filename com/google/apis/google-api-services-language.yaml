@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-language
 versioning:
-  latest: v1-rev387-1.22.0
-  release: v1-rev387-1.22.0
+  latest: v1-rev388-1.22.0
+  release: v1-rev388-1.22.0
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.20.0
@@ -164,6 +164,8 @@ versioning:
   - v1beta1-rev405-1.22.0
   - v1beta1-rev406-1.18.0-rc
   - v1beta1-rev406-1.20.0
+  - v1beta1-rev406-1.21.0
+  - v1beta1-rev406-1.22.0
   - v1beta2-rev1-1.18.0-rc
   - v1beta2-rev1-1.20.0
   - v1beta2-rev1-1.21.0
@@ -200,7 +202,10 @@ versioning:
   - v1beta2-rev9-1.20.0
   - v1beta2-rev9-1.21.0
   - v1beta2-rev9-1.22.0
+  - v1beta2-rev10-1.18.0-rc
   - v1beta2-rev10-1.20.0
+  - v1beta2-rev10-1.21.0
+  - v1beta2-rev10-1.22.0
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.20.0
   - v1-rev1-1.21.0
@@ -301,4 +306,8 @@ versioning:
   - v1-rev387-1.20.0
   - v1-rev387-1.21.0
   - v1-rev387-1.22.0
-  lastUpdated: 20170718204757
+  - v1-rev388-1.18.0-rc
+  - v1-rev388-1.20.0
+  - v1-rev388-1.21.0
+  - v1-rev388-1.22.0
+  lastUpdated: 20170719035931

@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-ml
 versioning:
-  latest: v1-rev13-1.22.0
-  release: v1-rev13-1.22.0
+  latest: v1-rev14-1.22.0
+  release: v1-rev14-1.22.0
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.20.0
@@ -161,6 +161,10 @@ versioning:
   - v1beta1-rev436-1.20.0
   - v1beta1-rev436-1.21.0
   - v1beta1-rev436-1.22.0
+  - v1beta1-rev437-1.18.0-rc
+  - v1beta1-rev437-1.20.0
+  - v1beta1-rev437-1.21.0
+  - v1beta1-rev437-1.22.0
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.20.0
   - v1-rev1-1.21.0
@@ -213,4 +217,8 @@ versioning:
   - v1-rev13-1.20.0
   - v1-rev13-1.21.0
   - v1-rev13-1.22.0
-  lastUpdated: 20170607191553
+  - v1-rev14-1.18.0-rc
+  - v1-rev14-1.20.0
+  - v1-rev14-1.21.0
+  - v1-rev14-1.22.0
+  lastUpdated: 20170719052033
