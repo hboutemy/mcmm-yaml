@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.fabric8
 artifactId: fabric8-maven-plugin
 versioning:
-  latest: 3.5.14
-  release: 3.5.14
+  latest: 3.5.19
+  release: 3.5.19
   versions:
   - 2.0.0
   - 2.0.1
@@ -410,6 +410,10 @@ versioning:
   - 3.5.12
   - 3.5.13
   - 3.5.14
+  - 3.5.15
+  - 3.5.16
+  - 3.5.17
+  - 3.5.19
   - 1.0.0.redhat-394
   - 1.0.0.redhat-412
   - 1.0.0.redhat-423
@@ -429,4 +433,4 @@ versioning:
   - 1.2.0.Beta3
   - 1.2.0.Beta4
   - 1.2.0.redhat-133
-  lastUpdated: 20170720212334
+  lastUpdated: 20170721083657
