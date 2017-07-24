@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-adsense
 versioning:
-  latest: v1.4-rev300-1.22.0
-  release: v1.4-rev300-1.22.0
+  latest: v1.4-rev302-1.22.0
+  release: v1.4-rev302-1.22.0
   versions:
   - v1-rev52-1.13.2-beta
   - v1-rev52-1.14.1-beta
@@ -2500,6 +2500,10 @@ versioning:
   - v1.3-rev335-1.20.0
   - v1.3-rev335-1.21.0
   - v1.3-rev335-1.22.0
+  - v1.3-rev337-1.18.0-rc
+  - v1.3-rev337-1.20.0
+  - v1.3-rev337-1.21.0
+  - v1.3-rev337-1.22.0
   - v1.4-rev2-1.14.2-beta
   - v1.4-rev2-1.15.0-rc
   - v1.4-rev2-1.16.0-rc
@@ -3720,4 +3724,8 @@ versioning:
   - v1.4-rev300-1.20.0
   - v1.4-rev300-1.21.0
   - v1.4-rev300-1.22.0
-  lastUpdated: 20170719150519
+  - v1.4-rev302-1.18.0-rc
+  - v1.4-rev302-1.20.0
+  - v1.4-rev302-1.21.0
+  - v1.4-rev302-1.22.0
+  lastUpdated: 20170723103434
