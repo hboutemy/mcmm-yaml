@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.grizzly
 artifactId: grizzly-http-client
 versioning:
-  latest: 1.12
-  release: 1.12
+  latest: 1.13
+  release: 1.13
   versions:
   - 1.0
   - 1.1
@@ -20,4 +20,5 @@ versioning:
   - 1.10
   - 1.11
   - 1.12
-  lastUpdated: 20170622180231
+  - 1.13
+  lastUpdated: 20170724163431
