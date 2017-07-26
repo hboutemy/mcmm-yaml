@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.data
 artifactId: spring-data-mongodb-cross-store
 versioning:
-  latest: 1.10.4.RELEASE
-  release: 1.10.4.RELEASE
+  latest: 1.10.5.RELEASE
+  release: 1.10.5.RELEASE
   versions:
   - 1.0.0.RELEASE
   - 1.0.1.RELEASE
@@ -67,4 +67,5 @@ versioning:
   - 1.10.2.RELEASE
   - 1.10.3.RELEASE
   - 1.10.4.RELEASE
-  lastUpdated: 20170608093655
+  - 1.10.5.RELEASE
+  lastUpdated: 20170725063859

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.guava
 artifactId: guava
 versioning:
-  latest: 22.0-android
-  release: 22.0-android
+  latest: 23.0-rc1-android
+  release: 23.0-rc1-android
   versions:
   - r03
   - r05
@@ -59,5 +59,7 @@ versioning:
   - 22.0-rc1-android
   - 22.0
   - 22.0-android
+  - 23.0-rc1
+  - 23.0-rc1-android
   - 13.0-final
-  lastUpdated: 20170522200056
+  lastUpdated: 20170725173822

@@ -3,8 +3,8 @@
 groupId: com.bazaarvoice.emodb
 artifactId: emodb-auth-core
 versioning:
-  latest: 5.5.4
-  release: 5.5.4
+  latest: 5.5.4-migration-1
+  release: 5.5.4-migration-1
   versions:
   - 5.4.1
   - 5.4.2
@@ -40,4 +40,5 @@ versioning:
   - 5.5.2
   - 5.5.3
   - 5.5.4
-  lastUpdated: 20170707214140
+  - 5.5.4-migration-1
+  lastUpdated: 20170725205035
