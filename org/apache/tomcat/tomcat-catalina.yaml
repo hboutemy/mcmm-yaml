@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat
 artifactId: tomcat-catalina
 versioning:
-  latest: 9.0.0.M22
-  release: 9.0.0.M22
+  latest: 9.0.0.M25
+  release: 9.0.0.M25
   versions:
   - 7.0.0
   - 7.0.2
@@ -112,6 +112,7 @@ versioning:
   - 8.5.14
   - 8.5.15
   - 8.5.16
+  - 8.5.19
   - 9.0.0.M1
   - 9.0.0.M3
   - 9.0.0.M4
@@ -128,4 +129,5 @@ versioning:
   - 9.0.0.M20
   - 9.0.0.M21
   - 9.0.0.M22
-  lastUpdated: 20170701085341
+  - 9.0.0.M25
+  lastUpdated: 20170728140020
