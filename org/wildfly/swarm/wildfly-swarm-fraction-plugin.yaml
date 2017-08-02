@@ -3,17 +3,19 @@
 groupId: org.wildfly.swarm
 artifactId: wildfly-swarm-fraction-plugin
 versioning:
-  latest: 57
-  release: 57
+  latest: 1.0.0.Alpha3
+  release: 1.0.0.Alpha3
   versions:
+  - 1.0.0.Alpha2
+  - 1.0.0.Alpha3
+  - 1.0.0.Alpha10
+  - 1.0.0.Alpha11
   - 1.0.0.Alpha4
   - 1.0.0.Alpha5
   - 1.0.0.Alpha6
   - 1.0.0.Alpha7
   - 1.0.0.Alpha8
   - 1.0.0.Alpha9
-  - 1.0.0.Alpha10
-  - 1.0.0.Alpha11
   - 1.0.0.Beta1
   - 1.0.0.Beta2
   - 1.0.0.Beta3
@@ -71,6 +73,4 @@ versioning:
   - 55
   - 56
   - 57
-  - 1.0.0.Alpha2
-  - 1.0.0.Alpha3
-  lastUpdated: 20170731151303
+  lastUpdated: 20150526173530

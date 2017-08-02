@@ -3,11 +3,9 @@
 groupId: org.jboss.cdi.tck
 artifactId: cdi-tck-ext-lib
 versioning:
-  latest: 2.0.2.Final
-  release: 2.0.2.Final
+  latest: 2.0.0.Final
+  release: 2.0.0.Final
   versions:
-  - 2.0.1.Final
-  - 2.0.2.Final
   - 1.1.0.Beta1
   - 1.1.0.Beta2
   - 1.1.0.Beta3
@@ -34,7 +32,6 @@ versioning:
   - 1.2.0.CR1
   - 1.2.0.Final
   - 1.2.1.Final
-  - 1.2.10.Final
   - 1.2.2.Final
   - 1.2.3.Final
   - 1.2.4.Final
@@ -45,6 +42,7 @@ versioning:
   - 1.2.7.Final
   - 1.2.8.Final
   - 1.2.9.Final
+  - 1.2.10.Final
   - 2.0.0.Alpha1
   - 2.0.0.Alpha2
   - 2.0.0.Alpha3
@@ -57,4 +55,6 @@ versioning:
   - 2.0.0.Beta1
   - 2.0.0.CR1
   - 2.0.0.Final
-  lastUpdated: 20170727083520
+  - 2.0.1.Final
+  - 2.0.2.Final
+  lastUpdated: 20170511071326

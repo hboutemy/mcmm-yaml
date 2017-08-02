@@ -3,9 +3,19 @@
 groupId: org.jboss.forge.addon
 artifactId: script
 versioning:
-  latest: 3.7.2.Final
-  release: 3.7.2.Final
+  latest: 3.0.0.Alpha3
+  release: 3.0.0.Alpha3
   versions:
+  - 2.18.0.Final
+  - 2.19.0.Final
+  - 2.19.1.Final
+  - 2.19.2.Final
+  - 2.20.0.Final
+  - 2.20.1.Final
+  - 2.20.2.Final
+  - 3.0.0.Alpha1
+  - 3.0.0.Alpha2
+  - 3.0.0.Alpha3
   - 3.0.0.Beta1
   - 3.0.0.Beta2
   - 3.0.0.Beta3
@@ -34,14 +44,4 @@ versioning:
   - 3.7.0.Final
   - 3.7.1.Final
   - 3.7.2.Final
-  - 2.18.0.Final
-  - 2.19.0.Final
-  - 2.19.1.Final
-  - 2.19.2.Final
-  - 2.20.0.Final
-  - 2.20.1.Final
-  - 2.20.2.Final
-  - 3.0.0.Alpha1
-  - 3.0.0.Alpha2
-  - 3.0.0.Alpha3
-  lastUpdated: 20170724190306
+  lastUpdated: 20160126161647

@@ -3,9 +3,11 @@
 groupId: org.arquillian.cube
 artifactId: arquillian-cube-openshift-standalone-ftest
 versioning:
-  latest: 1.7.1
-  release: 1.7.1
+  latest: 1.0.0
+  release: 1.0.0
   versions:
+  - 1.0.0.Alpha20
+  - 1.0.0
   - 1.0.1
   - 1.1.0
   - 1.2.0
@@ -18,6 +20,4 @@ versioning:
   - 1.6.0
   - 1.7.0
   - 1.7.1
-  - 1.0.0
-  - 1.0.0.Alpha20
-  lastUpdated: 20170727061759
+  lastUpdated: 20170324154326
