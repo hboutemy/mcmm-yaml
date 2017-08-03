@@ -3,8 +3,8 @@
 groupId: org.datavec
 artifactId: datavec-spark_2.11
 versioning:
-  latest: 0.8.0_spark_2
-  release: 0.8.0_spark_2
+  latest: 0.9.0_spark_2
+  release: 0.9.0_spark_2
   versions:
   - 0.4.0
   - 0.5.0
@@ -14,4 +14,6 @@ versioning:
   - 0.7.2
   - 0.8.0_spark_1
   - 0.8.0_spark_2
-  lastUpdated: 20170313051425
+  - 0.9.0_spark_1
+  - 0.9.0_spark_2
+  lastUpdated: 20170802045436
