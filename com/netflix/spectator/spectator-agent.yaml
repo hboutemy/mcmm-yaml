@@ -3,8 +3,8 @@
 groupId: com.netflix.spectator
 artifactId: spectator-agent
 versioning:
-  latest: 0.56.0
-  release: 0.56.0
+  latest: 0.57.1
+  release: 0.57.1
   versions:
   - 0.42.0-rc.1
   - 0.42.0-rc.2
@@ -24,4 +24,6 @@ versioning:
   - 0.54.0
   - 0.55.0
   - 0.56.0
-  lastUpdated: 20170704165601
+  - 0.57.0
+  - 0.57.1
+  lastUpdated: 20170803174008

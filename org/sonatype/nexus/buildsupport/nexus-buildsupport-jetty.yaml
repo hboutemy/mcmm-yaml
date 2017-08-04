@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.buildsupport
 artifactId: nexus-buildsupport-jetty
 versioning:
-  latest: 3.4.0-02
-  release: 3.4.0-02
+  latest: 3.5.0-02
+  release: 3.5.0-02
   versions:
   - 2.6.0-01
   - 2.6.0-05
@@ -56,6 +56,7 @@ versioning:
   - 2.14.3-02
   - 2.14.4-01
   - 2.14.4-03
+  - 2.14.5-02
   - 3.0.0-b2014101001
   - 3.0.0-b2015020701
   - 3.0.0-b2015061001
@@ -72,4 +73,5 @@ versioning:
   - 3.3.1-01
   - 3.3.2-02
   - 3.4.0-02
-  lastUpdated: 20170705202421
+  - 3.5.0-02
+  lastUpdated: 20170803150319
