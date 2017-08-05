@@ -3,8 +3,8 @@
 groupId: io.zipkin.java
 artifactId: zipkin-collector-kafka
 versioning:
-  latest: 1.29.0
-  release: 1.29.0
+  latest: 1.29.1
+  release: 1.29.1
   versions:
   - 0.19.0
   - 0.20.0
@@ -80,4 +80,5 @@ versioning:
   - 1.28.0
   - 1.28.1
   - 1.29.0
-  lastUpdated: 20170802110202
+  - 1.29.1
+  lastUpdated: 20170804101116

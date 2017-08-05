@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-security-parent
 versioning:
-  latest: 11.0.0.Alpha1
-  release: 11.0.0.Alpha1
+  latest: 11.0.0.Beta1
+  release: 11.0.0.Beta1
   versions:
   - 8.1.0.CR1
   - 8.1.0.CR2
@@ -36,4 +36,5 @@ versioning:
   - 10.1.0.CR1
   - 10.1.0.Final
   - 11.0.0.Alpha1
-  lastUpdated: 20170327210125
+  - 11.0.0.Beta1
+  lastUpdated: 20170804052332
