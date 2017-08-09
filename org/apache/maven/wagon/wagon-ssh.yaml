@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.apache.maven.wagon
 artifactId: wagon-ssh
 versioning:
-  latest: 2.12
-  release: 2.12
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 1.0-alpha-2
   - 1.0-alpha-3
@@ -33,4 +33,5 @@ versioning:
   - 2.9
   - 2.10
   - 2.12
-  lastUpdated: 20170130195514
+  - 3.0.0
+  lastUpdated: 20170808230736
