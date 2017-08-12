@@ -3,8 +3,8 @@
 groupId: org.wildfly.openssl
 artifactId: wildfly-openssl
 versioning:
-  latest: 1.0.0.CR5
-  release: 1.0.0.CR5
+  latest: 1.0.0.Final
+  release: 1.0.0.Final
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -21,4 +21,5 @@ versioning:
   - 1.0.0.CR3
   - 1.0.0.CR4
   - 1.0.0.CR5
-  lastUpdated: 20170623061051
+  - 1.0.0.Final
+  lastUpdated: 20170811090043
