@@ -3,8 +3,8 @@
 groupId: org.restcomm
 artifactId: restcomm-connect.mrb.api
 versioning:
-  latest: 8.2.0.1281
-  release: 8.2.0.1281
+  latest: 8.2.0.1282
+  release: 8.2.0.1282
   versions:
   - issue1596-8.0.0.12
   - 8.0.0.issue-1570.withtest.36
@@ -267,6 +267,7 @@ versioning:
   - 8.1.0.1207
   - 8.1.0.1208
   - 8.2.0.BUG1014.82
+  - 8.2.0.Issue1372.13
   - 8.2.0.issue-2073.12
   - 8.2.0.issue-2073.73
   - 8.2.0.issue2130.5
@@ -349,4 +350,5 @@ versioning:
   - 8.2.0.1279
   - 8.2.0.1280
   - 8.2.0.1281
-  lastUpdated: 20170811135635
+  - 8.2.0.1282
+  lastUpdated: 20170814231749
