@@ -3,8 +3,8 @@
 groupId: org.hibernate
 artifactId: hibernate-search
 versioning:
-  latest: 5.8.0.Beta4
-  release: 5.8.0.Beta4
+  latest: 5.8.0.CR1
+  release: 5.8.0.CR1
   versions:
   - 3.0.0.CR1
   - 3.0.0.GA
@@ -131,5 +131,6 @@ versioning:
   - 5.8.0.Beta2
   - 5.8.0.Beta3
   - 5.8.0.Beta4
+  - 5.8.0.CR1
   - 3.0.0.cr1
-  lastUpdated: 20170714134546
+  lastUpdated: 20170815221526
