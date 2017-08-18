@@ -3,8 +3,8 @@
 groupId: org.jboss.xnio
 artifactId: xnio-nio
 versioning:
-  latest: 3.5.0.CR2
-  release: 3.5.0.CR2
+  latest: 3.5.1.Final
+  release: 3.5.1.Final
   versions:
   - 2.0.0.CR2
   - 2.0.0.CR3
@@ -106,4 +106,6 @@ versioning:
   - 3.5.0.Beta7
   - 3.5.0.CR1
   - 3.5.0.CR2
-  lastUpdated: 20170628130042
+  - 3.5.0.Final
+  - 3.5.1.Final
+  lastUpdated: 20170817140052

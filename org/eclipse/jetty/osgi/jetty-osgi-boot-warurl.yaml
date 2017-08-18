@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty.osgi
 artifactId: jetty-osgi-boot-warurl
 versioning:
-  latest: 9.4.6.v20170531
-  release: 9.4.6.v20170531
+  latest: 9.4.7.RC0
+  release: 9.4.7.RC0
   versions:
   - 7.0.2.RC0
   - 7.0.2.v20100331
@@ -195,6 +195,7 @@ versioning:
   - 9.3.19.v20170502
   - 9.3.20.v20170531
   - 9.3.21.M0
+  - 9.3.21.RC0
   - 9.4.0.M0
   - 9.4.0.M1
   - 9.4.0.RC0
@@ -208,4 +209,5 @@ versioning:
   - 9.4.4.v20170414
   - 9.4.5.v20170502
   - 9.4.6.v20170531
-  lastUpdated: 20170802171405
+  - 9.4.7.RC0
+  lastUpdated: 20170817212510
