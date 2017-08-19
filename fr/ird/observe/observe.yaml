@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: fr.ird.observe
 artifactId: observe
 versioning:
-  latest: 7.0-RC-4
-  release: 7.0-RC-4
+  latest: 5.4
+  release: 5.4
   versions:
   - 1.1.0
   - 1.2
@@ -69,4 +70,4 @@ versioning:
   - 5.3.7
   - 5.4
   - 7.0-RC-4
-  lastUpdated: 20170802123151
+  lastUpdated: 20170818220535
