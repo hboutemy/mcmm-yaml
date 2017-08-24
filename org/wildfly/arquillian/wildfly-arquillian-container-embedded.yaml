@@ -3,8 +3,8 @@
 groupId: org.wildfly.arquillian
 artifactId: wildfly-arquillian-container-embedded
 versioning:
-  latest: 2.1.0.Beta1
-  release: 2.1.0.Beta1
+  latest: 2.1.0.Final
+  release: 2.1.0.Final
   versions:
   - 1.0.0.CR1
   - 1.0.0.Final
@@ -22,4 +22,5 @@ versioning:
   - 2.1.0.Alpha2
   - 2.1.0.Alpha3
   - 2.1.0.Beta1
-  lastUpdated: 20170809233828
+  - 2.1.0.Final
+  lastUpdated: 20170823165206
