@@ -3,8 +3,8 @@
 groupId: com.datastax.spark
 artifactId: spark-cassandra-connector-embedded_2.11
 versioning:
-  latest: 2.0.3
-  release: 2.0.3
+  latest: 2.0.4
+  release: 2.0.4
   versions:
   - 1.2.0-alpha3
   - 1.2.0-rc1
@@ -49,6 +49,7 @@ versioning:
   - 1.6.6
   - 1.6.7
   - 1.6.8
+  - 1.6.9
   - 2.0.0-M1
   - 2.0.0-M2
   - 2.0.0-M3
@@ -57,5 +58,6 @@ versioning:
   - 2.0.1
   - 2.0.2
   - 2.0.3
+  - 2.0.4
   - 1.4.0-M1
-  lastUpdated: 20170708000641
+  lastUpdated: 20170824013534
