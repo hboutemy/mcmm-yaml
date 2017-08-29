@@ -3,8 +3,8 @@
 groupId: org.apache.mesos
 artifactId: mesos
 versioning:
-  latest: 1.4.0-rc1
-  release: 1.4.0-rc1
+  latest: 1.4.0-rc3
+  release: 1.4.0-rc3
   versions:
   - 0.9.0-incubating
   - 0.10.0-incubating
@@ -164,4 +164,6 @@ versioning:
   - 1.3.1-rc1
   - 1.3.1
   - 1.4.0-rc1
-  lastUpdated: 20170825123327
+  - 1.4.0-rc2
+  - 1.4.0-rc3
+  lastUpdated: 20170828171044

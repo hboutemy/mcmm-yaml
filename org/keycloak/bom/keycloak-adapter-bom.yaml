@@ -3,8 +3,8 @@
 groupId: org.keycloak.bom
 artifactId: keycloak-adapter-bom
 versioning:
-  latest: 3.2.1.Final
-  release: 3.2.1.Final
+  latest: 3.3.0.CR1
+  release: 3.3.0.CR1
   versions:
   - 2.5.4.Final
   - 2.5.5.Final
@@ -15,4 +15,5 @@ versioning:
   - 3.2.0.CR1
   - 3.2.0.Final
   - 3.2.1.Final
-  lastUpdated: 20170724140542
+  - 3.3.0.CR1
+  lastUpdated: 20170828155153
