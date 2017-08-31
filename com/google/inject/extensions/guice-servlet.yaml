@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.google.inject.extensions
 artifactId: guice-servlet
 versioning:
-  latest: 4.0-beta5
-  release: 4.0-beta5
+  latest: 4.1.0
+  release: 4.1.0
   versions:
   - 2.0
   - 3.0-rc2
@@ -16,4 +15,4 @@ versioning:
   - 4.0-beta5
   - 4.0
   - 4.1.0
-  lastUpdated: 20141017162129
+  lastUpdated: 20160617195658

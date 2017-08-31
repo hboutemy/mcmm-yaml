@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.google.inject
 artifactId: guice-parent
 versioning:
-  latest: 4.0-beta5
-  release: 4.0-beta5
+  latest: 4.1.0
+  release: 4.1.0
   versions:
   - 1.0
   - 2.0
@@ -18,4 +17,4 @@ versioning:
   - 4.0-beta5
   - 4.0
   - 4.1.0
-  lastUpdated: 20141017162125
+  lastUpdated: 20160617195704
