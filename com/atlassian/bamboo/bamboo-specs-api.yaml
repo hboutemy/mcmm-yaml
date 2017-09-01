@@ -3,8 +3,8 @@
 groupId: com.atlassian.bamboo
 artifactId: bamboo-specs-api
 versioning:
-  latest: 6.1.1
-  release: 6.1.1
+  latest: 6.2.0-eap
+  release: 6.2.0-eap
   versions:
   - 5.16.33
   - 6.0.0
@@ -12,4 +12,6 @@ versioning:
   - 6.0.2
   - 6.1.0
   - 6.1.1
-  lastUpdated: 20170809110946
+  - 6.2.0-m7
+  - 6.2.0-eap
+  lastUpdated: 20170831152136
