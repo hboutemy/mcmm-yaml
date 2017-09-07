@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.fabric8
 artifactId: kubernetes-generator
 versioning:
-  latest: 2.3.4
-  release: 2.3.4
+  latest: 2.3.5
+  release: 2.3.5
   versions:
   - 2.0.47
   - 2.0.48
@@ -220,4 +220,5 @@ versioning:
   - 2.3.2
   - 2.3.3
   - 2.3.4
-  lastUpdated: 20170810164036
+  - 2.3.5
+  lastUpdated: 20170906100829

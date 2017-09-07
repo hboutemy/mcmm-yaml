@@ -3,8 +3,8 @@
 groupId: org.glassfish.grizzly
 artifactId: grizzly-http-server-core
 versioning:
-  latest: 2.4.1
-  release: 2.4.1
+  latest: 2.4.2
+  release: 2.4.2
   versions:
   - 2.1.2
   - 2.1.3
@@ -89,6 +89,7 @@ versioning:
   - 2.3.30
   - 2.3.31
   - 2.3.32
+  - 2.3.33
   - 2.4.0-beta1
   - 2.4.0-beta2
   - 2.4.0-beta3
@@ -102,4 +103,5 @@ versioning:
   - 2.4.0-beta13
   - 2.4.0
   - 2.4.1
-  lastUpdated: 20170817041213
+  - 2.4.2
+  lastUpdated: 20170906205050
