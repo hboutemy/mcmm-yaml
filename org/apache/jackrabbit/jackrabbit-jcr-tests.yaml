@@ -3,8 +3,8 @@
 groupId: org.apache.jackrabbit
 artifactId: jackrabbit-jcr-tests
 versioning:
-  latest: 2.15.4
-  release: 2.15.4
+  latest: 2.15.5
+  release: 2.15.5
   versions:
   - 1.2.1
   - 1.2.2
@@ -73,6 +73,7 @@ versioning:
   - 2.6.5
   - 2.6.7
   - 2.6.8
+  - 2.6.9
   - 2.7.0
   - 2.7.1
   - 2.7.2
@@ -122,4 +123,5 @@ versioning:
   - 2.15.2
   - 2.15.3
   - 2.15.4
-  lastUpdated: 20170720091805
+  - 2.15.5
+  lastUpdated: 20170907041910

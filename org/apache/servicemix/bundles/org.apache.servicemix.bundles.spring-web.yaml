@@ -3,8 +3,8 @@
 groupId: org.apache.servicemix.bundles
 artifactId: org.apache.servicemix.bundles.spring-web
 versioning:
-  latest: 4.3.10.RELEASE_1
-  release: 4.3.10.RELEASE_1
+  latest: 4.3.10.RELEASE_2
+  release: 4.3.10.RELEASE_2
   versions:
   - 3.2.7.RELEASE_1
   - 3.2.7.RELEASE_2
@@ -47,6 +47,7 @@ versioning:
   - 4.0.7.RELEASE_1
   - 4.0.7.RELEASE_2
   - 4.0.7.RELEASE_3
+  - 4.0.7.RELEASE_4
   - 4.1.0.RELEASE_1
   - 4.1.0.RELEASE_2
   - 4.1.0.RELEASE_4
@@ -66,6 +67,7 @@ versioning:
   - 4.1.7.RELEASE_1
   - 4.1.7.RELEASE_2
   - 4.1.9.RELEASE_1
+  - 4.1.9.RELEASE_2
   - 4.2.0.RELEASE_1
   - 4.2.0.RELEASE_2
   - 4.2.2.RELEASE_1
@@ -75,6 +77,7 @@ versioning:
   - 4.2.6.RELEASE_1
   - 4.2.8.RELEASE_1
   - 4.2.9.RELEASE_1
+  - 4.2.9.RELEASE_2
   - 4.3.1.RELEASE_1
   - 4.3.3.RELEASE_1
   - 4.3.5.RELEASE_1
@@ -83,4 +86,5 @@ versioning:
   - 4.3.8.RELEASE_1
   - 4.3.9.RELEASE_1
   - 4.3.10.RELEASE_1
-  lastUpdated: 20170801050137
+  - 4.3.10.RELEASE_2
+  lastUpdated: 20170907142640
