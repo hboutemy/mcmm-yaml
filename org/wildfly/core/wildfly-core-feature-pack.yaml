@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-core-feature-pack
 versioning:
-  latest: 3.0.0.Final
-  release: 3.0.0.Final
+  latest: 3.0.2.CR1
+  release: 3.0.2.CR1
   versions:
   - 1.0.0.Alpha5
   - 1.0.0.Alpha6
@@ -151,4 +151,6 @@ versioning:
   - 3.0.0.Beta31
   - 3.0.0.CR1
   - 3.0.0.Final
-  lastUpdated: 20170822204215
+  - 3.0.1.Final
+  - 3.0.2.CR1
+  lastUpdated: 20170909141106
