@@ -3,8 +3,8 @@
 groupId: io.zipkin.java
 artifactId: zipkin-storage
 versioning:
-  latest: 1.31.1
-  release: 1.31.1
+  latest: 1.31.3
+  release: 1.31.3
   versions:
   - 0.11.0
   - 0.12.0
@@ -109,4 +109,6 @@ versioning:
   - 1.30.3
   - 1.31.0
   - 1.31.1
-  lastUpdated: 20170902054114
+  - 1.31.2
+  - 1.31.3
+  lastUpdated: 20170910181309
