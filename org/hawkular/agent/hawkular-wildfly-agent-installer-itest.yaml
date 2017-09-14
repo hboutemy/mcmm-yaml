@@ -3,8 +3,8 @@
 groupId: org.hawkular.agent
 artifactId: hawkular-wildfly-agent-installer-itest
 versioning:
-  latest: 1.0.0.CR6
-  release: 1.0.0.CR6
+  latest: 1.0.0.CR7
+  release: 1.0.0.CR7
   versions:
   - 0.17.0.Final
   - 0.17.1.Final
@@ -43,4 +43,5 @@ versioning:
   - 1.0.0.CR4
   - 1.0.0.CR5
   - 1.0.0.CR6
-  lastUpdated: 20170731150759
+  - 1.0.0.CR7
+  lastUpdated: 20170913184308
