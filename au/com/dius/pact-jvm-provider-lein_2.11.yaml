@@ -3,8 +3,8 @@
 groupId: au.com.dius
 artifactId: pact-jvm-provider-lein_2.11
 versioning:
-  latest: 3.5.5
-  release: 3.5.5
+  latest: 3.5.5-jre7.0
+  release: 3.5.5-jre7.0
   versions:
   - 2.2.13
   - 2.2.14
@@ -77,4 +77,5 @@ versioning:
   - 3.5.4
   - 3.5.4-jre7.0
   - 3.5.5
-  lastUpdated: 20170911232504
+  - 3.5.5-jre7.0
+  lastUpdated: 20170914030256

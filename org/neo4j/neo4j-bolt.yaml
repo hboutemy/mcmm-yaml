@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-bolt
 versioning:
-  latest: 3.3.0-alpha07
-  release: 3.3.0-alpha07
+  latest: 3.3.0-beta01
+  release: 3.3.0-beta01
   versions:
   - 3.0.0-M01
   - 3.0.0-M02
@@ -68,4 +68,5 @@ versioning:
   - 3.3.0-alpha05
   - 3.3.0-alpha06
   - 3.3.0-alpha07
-  lastUpdated: 20170913121634
+  - 3.3.0-beta01
+  lastUpdated: 20170914113322
