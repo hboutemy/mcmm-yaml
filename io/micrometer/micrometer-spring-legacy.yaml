@@ -3,8 +3,8 @@
 groupId: io.micrometer
 artifactId: micrometer-spring-legacy
 versioning:
-  latest: 0.11.0.RELEASE
-  release: 0.11.0.RELEASE
+  latest: 1.0.0-rc.1
+  release: 1.0.0-rc.1
   versions:
   - 0.6.1.RELEASE
   - 0.6.3.RELEASE
@@ -15,4 +15,6 @@ versioning:
   - 0.9.2.RELEASE
   - 0.10.0.RELEASE
   - 0.11.0.RELEASE
-  lastUpdated: 20170911034431
+  - 0.12.0.RELEASE
+  - 1.0.0-rc.1
+  lastUpdated: 20170915042206

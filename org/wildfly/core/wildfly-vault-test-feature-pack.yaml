@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-vault-test-feature-pack
 versioning:
-  latest: 3.0.2.CR1
-  release: 3.0.2.CR1
+  latest: 3.0.2.Final
+  release: 3.0.2.Final
   versions:
   - 3.0.0.Alpha20
   - 3.0.0.Alpha21
@@ -46,4 +46,5 @@ versioning:
   - 3.0.0.Final
   - 3.0.1.Final
   - 3.0.2.CR1
-  lastUpdated: 20170909141145
+  - 3.0.2.Final
+  lastUpdated: 20170915020419
