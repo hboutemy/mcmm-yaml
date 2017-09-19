@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty
 artifactId: jetty-distribution
 versioning:
-  latest: 9.4.7.RC0
-  release: 9.4.7.RC0
+  latest: 9.4.7.v20170914
+  release: 9.4.7.v20170914
   versions:
   - 7.0.0.M0
   - 7.0.0.M1
@@ -226,4 +226,5 @@ versioning:
   - 9.4.5.v20170502
   - 9.4.6.v20170531
   - 9.4.7.RC0
-  lastUpdated: 20170817212451
+  - 9.4.7.v20170914
+  lastUpdated: 20170918210404
