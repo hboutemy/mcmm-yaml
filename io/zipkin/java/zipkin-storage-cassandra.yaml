@@ -3,8 +3,8 @@
 groupId: io.zipkin.java
 artifactId: zipkin-storage-cassandra
 versioning:
-  latest: 2.0.0
-  release: 2.0.0
+  latest: 2.0.1
+  release: 2.0.1
   versions:
   - 0.17.0
   - 0.17.1
@@ -102,4 +102,5 @@ versioning:
   - 1.31.2
   - 1.31.3
   - 2.0.0
-  lastUpdated: 20170912122907
+  - 2.0.1
+  lastUpdated: 20170919162248

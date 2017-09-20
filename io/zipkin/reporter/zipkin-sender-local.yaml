@@ -3,8 +3,8 @@
 groupId: io.zipkin.reporter
 artifactId: zipkin-sender-local
 versioning:
-  latest: 1.1.0
-  release: 1.1.0
+  latest: 1.1.1
+  release: 1.1.1
   versions:
   - 0.6.0
   - 0.6.1
@@ -31,4 +31,5 @@ versioning:
   - 1.0.2
   - 1.0.4
   - 1.1.0
-  lastUpdated: 20170912160159
+  - 1.1.1
+  lastUpdated: 20170919165812
