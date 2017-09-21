@@ -3,8 +3,8 @@
 groupId: io.zipkin.aws
 artifactId: zipkin-sparkstreaming-stream-kinesis
 versioning:
-  latest: 0.6.0
-  release: 0.6.0
+  latest: 0.6.1
+  release: 0.6.1
   versions:
   - 0.2.0
   - 0.2.1
@@ -22,4 +22,5 @@ versioning:
   - 0.5.1
   - 0.5.2
   - 0.6.0
-  lastUpdated: 20170912170927
+  - 0.6.1
+  lastUpdated: 20170920074125

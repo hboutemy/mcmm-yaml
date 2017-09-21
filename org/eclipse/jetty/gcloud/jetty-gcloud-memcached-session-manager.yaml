@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty.gcloud
 artifactId: jetty-gcloud-memcached-session-manager
 versioning:
-  latest: 9.3.21.RC0
-  release: 9.3.21.RC0
+  latest: 9.3.21.v20170918
+  release: 9.3.21.v20170918
   versions:
   - 9.3.11.v20160721
   - 9.3.12.v20160915
@@ -20,4 +20,5 @@ versioning:
   - 9.3.20.v20170531
   - 9.3.21.M0
   - 9.3.21.RC0
-  lastUpdated: 20170817212414
+  - 9.3.21.v20170918
+  lastUpdated: 20170920212436
