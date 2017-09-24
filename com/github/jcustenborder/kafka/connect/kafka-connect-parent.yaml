@@ -3,8 +3,8 @@
 groupId: com.github.jcustenborder.kafka.connect
 artifactId: kafka-connect-parent
 versioning:
-  latest: 0.11.0.0-cp3
-  release: 0.11.0.0-cp3
+  latest: 0.11.0.0-cp4
+  release: 0.11.0.0-cp4
   versions:
   - 0.10.1.0-cp1
   - 0.10.2.0-cp1
@@ -13,4 +13,5 @@ versioning:
   - 0.11.0.0-cp1
   - 0.11.0.0-cp2
   - 0.11.0.0-cp3
-  lastUpdated: 20170922111952
+  - 0.11.0.0-cp4
+  lastUpdated: 20170923230143
