@@ -2,9 +2,14 @@
 ---
 groupId: commons-jelly
 artifactId: commons-jelly
-version: 1.0
 versioning:
+  latest: 1.0.1
+  release: 1.0.1
   versions:
+  - 1.0.1
+  - 1.0
+  - 1.0-RC1
+  - 1.0-RC2
   - 1.0-beta-1
   - 1.0-beta-2
   - 1.0-beta-3
@@ -41,6 +46,7 @@ versioning:
   - 1.0-beta-4.20021231.013337
   - 1.0-beta-4.20021231.034645
   - 1.0-beta-4.20030104.110205
+  - 1.0-dev
   - 20030211.141339
   - 20030303.054314
   - 20030303.180550
@@ -60,8 +66,5 @@ versioning:
   - 20040821.000223
   - 20040902.064518
   - 20040902.070806
-  - 1.0-dev
-  - 1.0-RC1
-  - 1.0-RC2
-  - 1.0
   - SNAPHSOT
+  lastUpdated: 20170924010015
