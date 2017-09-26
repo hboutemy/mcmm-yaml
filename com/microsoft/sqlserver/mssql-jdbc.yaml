@@ -3,8 +3,8 @@
 groupId: com.microsoft.sqlserver
 artifactId: mssql-jdbc
 versioning:
-  latest: 6.3.2.jre8-preview
-  release: 6.3.2.jre8-preview
+  latest: 6.3.3.jre8-preview
+  release: 6.3.3.jre8-preview
   versions:
   - 6.1.0.jre7
   - 6.1.0.jre8
@@ -32,4 +32,6 @@ versioning:
   - 6.3.1.jre8-preview-v2
   - 6.3.2.jre7-preview
   - 6.3.2.jre8-preview
-  lastUpdated: 20170906214653
+  - 6.3.3.jre7-preview
+  - 6.3.3.jre8-preview
+  lastUpdated: 20170925173934

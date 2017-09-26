@@ -3,8 +3,8 @@
 groupId: ca.uhn.hapi.fhir
 artifactId: hapi-deployable-pom
 versioning:
-  latest: 2.5
-  release: 2.5
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 0.8
   - 0.9
@@ -21,4 +21,5 @@ versioning:
   - 2.3
   - 2.4
   - 2.5
-  lastUpdated: 20170608144544
+  - 3.0.0
+  lastUpdated: 20170925022043
