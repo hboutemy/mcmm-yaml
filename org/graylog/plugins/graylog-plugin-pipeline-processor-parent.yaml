@@ -3,8 +3,8 @@
 groupId: org.graylog.plugins
 artifactId: graylog-plugin-pipeline-processor-parent
 versioning:
-  latest: 2.3.1
-  release: 2.3.1
+  latest: 2.4.0-alpha.2
+  release: 2.4.0-alpha.2
   versions:
   - 2.2.0-beta.1
   - 2.2.0-beta.2
@@ -25,4 +25,6 @@ versioning:
   - 2.3.0-rc.2
   - 2.3.0
   - 2.3.1
-  lastUpdated: 20170825140123
+  - 2.4.0-alpha.1
+  - 2.4.0-alpha.2
+  lastUpdated: 20170926115551
