@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-fusiontables
 versioning:
-  latest: v2-rev18-1.22.0
-  release: v2-rev18-1.22.0
+  latest: v2-rev19-1.22.0
+  release: v2-rev19-1.22.0
   versions:
   - v1-rev19-1.13.2-beta
   - v1-rev19-1.14.1-beta
@@ -237,6 +237,10 @@ versioning:
   - v1-rev78-1.20.0
   - v1-rev78-1.21.0
   - v1-rev78-1.22.0
+  - v1-rev79-1.18.0-rc
+  - v1-rev79-1.20.0
+  - v1-rev79-1.21.0
+  - v1-rev79-1.22.0
   - v2-rev1-1.15.0-rc
   - v2-rev1-1.16.0-rc
   - v2-rev1-1.17.0-rc
@@ -312,4 +316,8 @@ versioning:
   - v2-rev18-1.20.0
   - v2-rev18-1.21.0
   - v2-rev18-1.22.0
-  lastUpdated: 20170419032517
+  - v2-rev19-1.18.0-rc
+  - v2-rev19-1.20.0
+  - v2-rev19-1.21.0
+  - v2-rev19-1.22.0
+  lastUpdated: 20170927125355

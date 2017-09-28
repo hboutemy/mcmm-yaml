@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-prediction
 versioning:
-  latest: v1.6-rev65-1.22.0
-  release: v1.6-rev65-1.22.0
+  latest: v1.6-rev66-1.22.0
+  release: v1.6-rev66-1.22.0
   versions:
   - v1.2-rev25-1.13.2-beta
   - v1.2-rev25-1.14.1-beta
@@ -165,6 +165,10 @@ versioning:
   - v1.2-rev68-1.20.0
   - v1.2-rev68-1.21.0
   - v1.2-rev68-1.22.0
+  - v1.2-rev69-1.18.0-rc
+  - v1.2-rev69-1.20.0
+  - v1.2-rev69-1.21.0
+  - v1.2-rev69-1.22.0
   - v1.3-rev28-1.13.2-beta
   - v1.3-rev28-1.14.1-beta
   - v1.3-rev29-1.13.2-beta
@@ -487,6 +491,10 @@ versioning:
   - v1.4-rev68-1.20.0
   - v1.4-rev68-1.21.0
   - v1.4-rev68-1.22.0
+  - v1.4-rev69-1.18.0-rc
+  - v1.4-rev69-1.20.0
+  - v1.4-rev69-1.21.0
+  - v1.4-rev69-1.22.0
   - v1.5-rev26-1.13.2-beta
   - v1.5-rev26-1.14.1-beta
   - v1.5-rev27-1.13.2-beta
@@ -646,6 +654,10 @@ versioning:
   - v1.5-rev69-1.20.0
   - v1.5-rev69-1.21.0
   - v1.5-rev69-1.22.0
+  - v1.5-rev70-1.18.0-rc
+  - v1.5-rev70-1.20.0
+  - v1.5-rev70-1.21.0
+  - v1.5-rev70-1.22.0
   - v1.6-rev1-1.13.2-beta
   - v1.6-rev1-1.14.2-beta
   - v1.6-rev1-1.15.0-rc
@@ -827,4 +839,8 @@ versioning:
   - v1.6-rev65-1.20.0
   - v1.6-rev65-1.21.0
   - v1.6-rev65-1.22.0
-  lastUpdated: 20170921043953
+  - v1.6-rev66-1.18.0-rc
+  - v1.6-rev66-1.20.0
+  - v1.6-rev66-1.21.0
+  - v1.6-rev66-1.22.0
+  lastUpdated: 20170927174221

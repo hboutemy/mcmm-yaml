@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-resourceviews
 versioning:
-  latest: v1beta2-rev18-1.22.0
-  release: v1beta2-rev18-1.22.0
+  latest: v1beta2-rev19-1.22.0
+  release: v1beta2-rev19-1.22.0
   versions:
   - v1beta1-rev2-1.14.2-beta
   - v1beta1-rev2-1.15.0-rc
@@ -123,6 +123,10 @@ versioning:
   - v1beta1-rev28-1.20.0
   - v1beta1-rev28-1.21.0
   - v1beta1-rev28-1.22.0
+  - v1beta1-rev29-1.18.0-rc
+  - v1beta1-rev29-1.20.0
+  - v1beta1-rev29-1.21.0
+  - v1beta1-rev29-1.22.0
   - v1beta2-rev1-1.15.0-rc
   - v1beta2-rev1-1.16.0-rc
   - v1beta2-rev1-1.17.0-rc
@@ -199,4 +203,8 @@ versioning:
   - v1beta2-rev18-1.20.0
   - v1beta2-rev18-1.21.0
   - v1beta2-rev18-1.22.0
-  lastUpdated: 20170404193925
+  - v1beta2-rev19-1.18.0-rc
+  - v1beta2-rev19-1.20.0
+  - v1beta2-rev19-1.21.0
+  - v1beta2-rev19-1.22.0
+  lastUpdated: 20170927201114
