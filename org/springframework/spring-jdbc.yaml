@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework
 artifactId: spring-jdbc
 versioning:
-  latest: 4.3.11.RELEASE
-  release: 4.3.11.RELEASE
+  latest: 5.0.0.RELEASE
+  release: 5.0.0.RELEASE
   versions:
   - 1.0-m4
   - 1.2-rc1
@@ -116,8 +116,9 @@ versioning:
   - 4.3.9.RELEASE
   - 4.3.10.RELEASE
   - 4.3.11.RELEASE
+  - 5.0.0.RELEASE
   - 2.0-m3
   - 2.0-m5
   - 2.0-rc1
   - 2.0-rc2
-  lastUpdated: 20170911091838
+  lastUpdated: 20170928121800
