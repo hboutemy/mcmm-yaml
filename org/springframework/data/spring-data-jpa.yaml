@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.data
 artifactId: spring-data-jpa
 versioning:
-  latest: 1.11.7.RELEASE
-  release: 1.11.7.RELEASE
+  latest: 2.0.0.RELEASE
+  release: 2.0.0.RELEASE
   versions:
   - 1.0.0.RELEASE
   - 1.0.1.RELEASE
@@ -73,4 +73,5 @@ versioning:
   - 1.11.5.RELEASE
   - 1.11.6.RELEASE
   - 1.11.7.RELEASE
-  lastUpdated: 20170911105936
+  - 2.0.0.RELEASE
+  lastUpdated: 20171002095033

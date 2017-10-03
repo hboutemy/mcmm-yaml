@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-spring-web-servlet-interceptor
 versioning:
-  latest: 4.8.0
-  release: 4.8.0
+  latest: 4.8.1
+  release: 4.8.1
   versions:
   - 3.8.0
   - 3.9.0
@@ -47,4 +47,5 @@ versioning:
   - 4.7.1
   - 4.7.2
   - 4.8.0
-  lastUpdated: 20170923144707
+  - 4.8.1
+  lastUpdated: 20171002144433
