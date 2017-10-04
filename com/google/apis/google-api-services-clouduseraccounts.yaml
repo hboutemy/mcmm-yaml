@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-clouduseraccounts
 versioning:
-  latest: vm_beta-rev12-1.22.0
-  release: vm_beta-rev12-1.22.0
+  latest: vm_beta-rev12-1.23.0
+  release: vm_beta-rev12-1.23.0
   versions:
   - alpha-rev1-1.18.0-rc
   - alpha-rev1-1.19.0
@@ -96,6 +96,7 @@ versioning:
   - alpha-rev23-1.20.0
   - alpha-rev23-1.21.0
   - alpha-rev23-1.22.0
+  - alpha-rev23-1.23.0
   - beta-rev1-1.18.0-rc
   - beta-rev1-1.19.0
   - beta-rev1-1.19.1
@@ -146,6 +147,7 @@ versioning:
   - beta-rev12-1.20.0
   - beta-rev12-1.21.0
   - beta-rev12-1.22.0
+  - beta-rev12-1.23.0
   - vm_alpha-rev1-1.18.0-rc
   - vm_alpha-rev1-1.19.0
   - vm_alpha-rev1-1.19.1
@@ -236,6 +238,7 @@ versioning:
   - vm_alpha-rev23-1.20.0
   - vm_alpha-rev23-1.21.0
   - vm_alpha-rev23-1.22.0
+  - vm_alpha-rev23-1.23.0
   - vm_beta-rev1-1.18.0-rc
   - vm_beta-rev1-1.19.0
   - vm_beta-rev1-1.19.1
@@ -286,4 +289,5 @@ versioning:
   - vm_beta-rev12-1.20.0
   - vm_beta-rev12-1.21.0
   - vm_beta-rev12-1.22.0
-  lastUpdated: 20170927094324
+  - vm_beta-rev12-1.23.0
+  lastUpdated: 20171003212329

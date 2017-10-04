@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.newrelic.agent.android
 artifactId: class-rewriter
 versioning:
-  latest: 5.14.0
-  release: 5.14.0
+  latest: 5.15.0
+  release: 5.15.0
   versions:
   - 2.365
   - 2.397
@@ -67,6 +67,7 @@ versioning:
   - 5.12.3
   - 5.13.0
   - 5.14.0
+  - 5.15.0
   - 4.119.0
   - 5.1.2
-  lastUpdated: 20170620214321
+  lastUpdated: 20171003162941
