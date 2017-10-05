@@ -3,8 +3,8 @@
 groupId: org.apache.hadoop
 artifactId: hadoop-archive-logs
 versioning:
-  latest: 3.0.0-alpha4
-  release: 3.0.0-alpha4
+  latest: 3.0.0-beta1
+  release: 3.0.0-beta1
   versions:
   - 2.8.0
   - 2.8.1
@@ -12,4 +12,5 @@ versioning:
   - 3.0.0-alpha2
   - 3.0.0-alpha3
   - 3.0.0-alpha4
-  lastUpdated: 20170707180247
+  - 3.0.0-beta1
+  lastUpdated: 20171004001150

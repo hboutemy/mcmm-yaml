@@ -3,8 +3,8 @@
 groupId: org.apache.hadoop
 artifactId: hadoop-common
 versioning:
-  latest: 3.0.0-alpha4
-  release: 3.0.0-alpha4
+  latest: 3.0.0-beta1
+  release: 3.0.0-beta1
   versions:
   - 0.22.0
   - 0.23.1
@@ -50,4 +50,5 @@ versioning:
   - 3.0.0-alpha2
   - 3.0.0-alpha3
   - 3.0.0-alpha4
-  lastUpdated: 20170806012401
+  - 3.0.0-beta1
+  lastUpdated: 20171004001159

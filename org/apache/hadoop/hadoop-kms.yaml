@@ -3,8 +3,8 @@
 groupId: org.apache.hadoop
 artifactId: hadoop-kms
 versioning:
-  latest: 3.0.0-alpha4
-  release: 3.0.0-alpha4
+  latest: 3.0.0-beta1
+  release: 3.0.0-beta1
   versions:
   - 2.6.0
   - 2.6.1
@@ -22,4 +22,5 @@ versioning:
   - 3.0.0-alpha2
   - 3.0.0-alpha3
   - 3.0.0-alpha4
-  lastUpdated: 20170806012420
+  - 3.0.0-beta1
+  lastUpdated: 20171004001207
