@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-cypher-frontend-3.3
 versioning:
-  latest: 3.3.0-beta02
-  release: 3.3.0-beta02
+  latest: 3.3.0-rc1
+  release: 3.3.0-rc1
   versions:
   - 3.3.0-alpha01
   - 3.3.0-alpha02
@@ -15,4 +15,5 @@ versioning:
   - 3.3.0-alpha07
   - 3.3.0-beta01
   - 3.3.0-beta02
-  lastUpdated: 20170921092059
+  - 3.3.0-rc1
+  lastUpdated: 20171005134317

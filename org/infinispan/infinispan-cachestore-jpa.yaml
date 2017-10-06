@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-cachestore-jpa
 versioning:
-  latest: 9.1.1.Final
-  release: 9.1.1.Final
+  latest: 9.2.0.Alpha1
+  release: 9.2.0.Alpha1
   versions:
   - 5.3.0.CR1
   - 5.3.0.CR2
@@ -92,4 +92,5 @@ versioning:
   - 9.1.0.CR1
   - 9.1.0.Final
   - 9.1.1.Final
-  lastUpdated: 20170920141440
+  - 9.2.0.Alpha1
+  lastUpdated: 20171005160243
