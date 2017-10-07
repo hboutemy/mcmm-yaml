@@ -3,9 +3,10 @@
 groupId: org.mobicents.servlet.sip.containers
 artifactId: jboss-as7-restcomm
 versioning:
-  latest: 3.1.782
-  release: 3.1.782
+  latest: 3.2.0-37
+  release: 3.2.0-37
   versions:
+  - 3.1.1-35
   - 3.1.657
   - 3.1.658
   - 3.1.659
@@ -96,4 +97,5 @@ versioning:
   - 3.1.780
   - 3.1.781
   - 3.1.782
-  lastUpdated: 20170914093858
+  - 3.2.0-37
+  lastUpdated: 20171006131548
