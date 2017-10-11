@@ -3,8 +3,8 @@
 groupId: io.nextflow
 artifactId: nxf-ignite
 versioning:
-  latest: 0.25.7
-  release: 0.25.7
+  latest: 0.26.0-beta3
+  release: 0.26.0-beta3
   versions:
   - 0.16.0-RC1
   - 0.16.0-RC2
@@ -67,4 +67,7 @@ versioning:
   - 0.25.5
   - 0.25.6
   - 0.25.7
-  lastUpdated: 20170906181328
+  - 0.26.0-beta1
+  - 0.26.0-beta2
+  - 0.26.0-beta3
+  lastUpdated: 20171010203122

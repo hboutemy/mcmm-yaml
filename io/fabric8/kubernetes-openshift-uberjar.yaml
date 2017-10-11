@@ -3,8 +3,8 @@
 groupId: io.fabric8
 artifactId: kubernetes-openshift-uberjar
 versioning:
-  latest: 2.6.3
-  release: 2.6.3
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 2.2.12
   - 2.2.13
@@ -21,4 +21,5 @@ versioning:
   - 2.6.1
   - 2.6.2
   - 2.6.3
-  lastUpdated: 20170906083047
+  - 3.0.0
+  lastUpdated: 20171010115940
