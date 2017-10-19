@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.newrelic.agent.android
 artifactId: agent-maven-plugin
 versioning:
-  latest: 5.15.0
-  release: 5.15.0
+  latest: 5.15.1
+  release: 5.15.1
   versions:
   - 2.365
   - 2.365.1
@@ -69,6 +69,7 @@ versioning:
   - 5.13.0
   - 5.14.0
   - 5.15.0
+  - 5.15.1
   - 4.119.0
   - 5.1.2
-  lastUpdated: 20171003162940
+  lastUpdated: 20171018214236

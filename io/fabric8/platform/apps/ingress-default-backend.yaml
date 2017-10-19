@@ -3,8 +3,8 @@
 groupId: io.fabric8.platform.apps
 artifactId: ingress-default-backend
 versioning:
-  latest: 4.0.206
-  release: 4.0.206
+  latest: 4.0.208
+  release: 4.0.208
   versions:
   - 4.0.135
   - 4.0.136
@@ -72,4 +72,6 @@ versioning:
   - 4.0.204
   - 4.0.205
   - 4.0.206
-  lastUpdated: 20171016145312
+  - 4.0.207
+  - 4.0.208
+  lastUpdated: 20171018215129

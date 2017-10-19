@@ -3,8 +3,8 @@
 groupId: fr.jetoile.hadoop
 artifactId: kafka-stream
 versioning:
-  latest: 2.3
-  release: 2.3
+  latest: 2.5
+  release: 2.5
   versions:
   - 1.4
   - 1.5
@@ -12,4 +12,6 @@ versioning:
   - 2.1
   - 2.2
   - 2.3
-  lastUpdated: 20171001153341
+  - 2.4
+  - 2.5
+  lastUpdated: 20171018194322
