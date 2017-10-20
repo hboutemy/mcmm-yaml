@@ -3,8 +3,8 @@
 groupId: org.ovirt.vdsm-jsonrpc-java
 artifactId: vdsm-jsonrpc-java-client
 versioning:
-  latest: 1.4.7
-  release: 1.4.7
+  latest: 1.4.8
+  release: 1.4.8
   versions:
   - 1.0.0
   - 1.0.1
@@ -52,6 +52,7 @@ versioning:
   - 1.3.11
   - 1.3.12
   - 1.3.13
+  - 1.3.14
   - 1.4.0
   - 1.4.1
   - 1.4.2
@@ -60,4 +61,5 @@ versioning:
   - 1.4.5
   - 1.4.6
   - 1.4.7
-  lastUpdated: 20170922081059
+  - 1.4.8
+  lastUpdated: 20171019140353

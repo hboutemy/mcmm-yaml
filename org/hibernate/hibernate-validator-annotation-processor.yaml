@@ -3,8 +3,8 @@
 groupId: org.hibernate
 artifactId: hibernate-validator-annotation-processor
 versioning:
-  latest: 6.0.2.Final
-  release: 6.0.2.Final
+  latest: 6.0.3.Final
+  release: 6.0.3.Final
   versions:
   - 4.1.0.Beta1
   - 4.1.0.Beta2
@@ -56,10 +56,12 @@ versioning:
   - 5.3.3.Final
   - 5.3.4.Final
   - 5.3.5.Final
+  - 5.3.6.Final
   - 5.4.0.Beta1
   - 5.4.0.CR1
   - 5.4.0.Final
   - 5.4.1.Final
+  - 5.4.2.Final
   - 6.0.0.Alpha1
   - 6.0.0.Alpha2
   - 6.0.0.Beta1
@@ -70,4 +72,5 @@ versioning:
   - 6.0.0.Final
   - 6.0.1.Final
   - 6.0.2.Final
-  lastUpdated: 20170822131517
+  - 6.0.3.Final
+  lastUpdated: 20171019160641
