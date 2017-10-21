@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.slf4j
 artifactId: log4j-over-slf4j
 versioning:
-  latest: 1.8.0-alpha2
-  release: 1.8.0-alpha2
+  latest: 1.8.0-beta0
+  release: 1.8.0-beta0
   versions:
   - 1.1.0-beta0
   - 1.1.0-RC0
@@ -62,4 +62,5 @@ versioning:
   - 1.8.0-alpha0
   - 1.8.0-alpha1
   - 1.8.0-alpha2
-  lastUpdated: 20170425222020
+  - 1.8.0-beta0
+  lastUpdated: 20171020130408
