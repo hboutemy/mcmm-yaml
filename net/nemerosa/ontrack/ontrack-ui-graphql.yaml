@@ -3,8 +3,8 @@
 groupId: net.nemerosa.ontrack
 artifactId: ontrack-ui-graphql
 versioning:
-  latest: 3.1.2
-  release: 3.1.2
+  latest: 3.1.4
+  release: 3.1.4
   versions:
   - feature-490-fix-migration-897bd8a
   - feature-491-method-error-d71c3b7
@@ -62,6 +62,8 @@ versioning:
   - 2.32.10
   - 2.32.11
   - 2.32.12
+  - 2.32.13
+  - 2.32.14
   - 3.0-beta.19
   - 3.0-beta.20
   - 3.0-beta.21
@@ -81,4 +83,6 @@ versioning:
   - 3.1.0
   - 3.1.1
   - 3.1.2
-  lastUpdated: 20171018101917
+  - 3.1.3
+  - 3.1.4
+  lastUpdated: 20171027173022

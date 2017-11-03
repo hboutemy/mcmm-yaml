@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-compatibility-mode-it
 versioning:
-  latest: 9.2.0.Alpha1
-  release: 9.2.0.Alpha1
+  latest: 9.2.0.Alpha2
+  release: 9.2.0.Alpha2
   versions:
   - 5.3.0.Beta2
   - 5.3.0.CR1
@@ -103,5 +103,7 @@ versioning:
   - 9.1.0.CR1
   - 9.1.0.Final
   - 9.1.1.Final
+  - 9.1.2.Final
   - 9.2.0.Alpha1
-  lastUpdated: 20171005160317
+  - 9.2.0.Alpha2
+  lastUpdated: 20171027153734

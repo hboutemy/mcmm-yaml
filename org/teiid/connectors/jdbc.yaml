@@ -3,11 +3,13 @@
 groupId: org.teiid.connectors
 artifactId: jdbc
 versioning:
-  latest: 10.0.0.CR1
-  release: 10.0.0.CR1
+  latest: 10.0.0.Final
+  release: 10.0.0.Final
   versions:
   - 10.0.0.Alpha2
   - 10.0.0.Beta1
   - 10.0.0.Beta2
   - 10.0.0.CR1
-  lastUpdated: 20171006193244
+  - 10.0.0.CR2
+  - 10.0.0.Final
+  lastUpdated: 20171102170447

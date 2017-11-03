@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.apache.commons
 artifactId: commons-rdf-integration-tests
 versioning:
@@ -7,4 +8,5 @@ versioning:
   release: 0.3.0-incubating
   versions:
   - 0.3.0-incubating
-  lastUpdated: 20161115132335
+  - 0.4.0
+  lastUpdated: 20171030155313

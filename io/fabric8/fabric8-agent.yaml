@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.fabric8
 artifactId: fabric8-agent
 versioning:
-  latest: 3.0.1
-  release: 3.0.1
+  latest: 3.0.5
+  release: 3.0.5
   versions:
   - 2.0.34
   - 2.0.35
@@ -237,4 +237,6 @@ versioning:
   - 2.3.6
   - 2.3.7
   - 3.0.1
-  lastUpdated: 20171010165219
+  - 3.0.3
+  - 3.0.5
+  lastUpdated: 20171101215224

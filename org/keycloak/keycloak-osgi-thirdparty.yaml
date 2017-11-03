@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-osgi-thirdparty
 versioning:
-  latest: 3.3.0.CR2
-  release: 3.3.0.CR2
+  latest: 3.3.0.Final
+  release: 3.3.0.Final
   versions:
   - 1.1.0.Final
   - 1.1.1.Final
@@ -60,5 +60,6 @@ versioning:
   - 3.2.1.Final
   - 3.3.0.CR1
   - 3.3.0.CR2
+  - 3.3.0.Final
   - 1.5.0.Final
-  lastUpdated: 20170912120056
+  lastUpdated: 20171027075048

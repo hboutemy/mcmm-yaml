@@ -3,8 +3,8 @@
 groupId: io.projectreactor
 artifactId: reactor-bom
 versioning:
-  latest: Bismuth-SR1
-  release: Bismuth-SR1
+  latest: Bismuth-SR3
+  release: Bismuth-SR3
   versions:
   - Aluminium-RELEASE
   - Aluminium-SR1
@@ -12,4 +12,6 @@ versioning:
   - Aluminium-SR3
   - Bismuth-RELEASE
   - Bismuth-SR1
-  lastUpdated: 20171021093908
+  - Bismuth-SR2
+  - Bismuth-SR3
+  lastUpdated: 20171023175849

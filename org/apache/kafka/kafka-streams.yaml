@@ -3,8 +3,8 @@
 groupId: org.apache.kafka
 artifactId: kafka-streams
 versioning:
-  latest: 0.11.0.1
-  release: 0.11.0.1
+  latest: 1.0.0
+  release: 1.0.0
   versions:
   - 0.10.0.0
   - 0.10.0.1
@@ -14,4 +14,5 @@ versioning:
   - 0.10.2.1
   - 0.11.0.0
   - 0.11.0.1
-  lastUpdated: 20170912133936
+  - 1.0.0
+  lastUpdated: 20171101053923

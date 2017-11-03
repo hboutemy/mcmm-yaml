@@ -3,8 +3,8 @@
 groupId: org.infinispan.server
 artifactId: infinispan-server-cli
 versioning:
-  latest: 9.2.0.Alpha1
-  release: 9.2.0.Alpha1
+  latest: 9.2.0.Alpha2
+  release: 9.2.0.Alpha2
   versions:
   - 7.0.0.CR2
   - 7.0.0.Final
@@ -81,5 +81,7 @@ versioning:
   - 9.1.0.CR1
   - 9.1.0.Final
   - 9.1.1.Final
+  - 9.1.2.Final
   - 9.2.0.Alpha1
-  lastUpdated: 20171005160504
+  - 9.2.0.Alpha2
+  lastUpdated: 20171027153934
