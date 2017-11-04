@@ -3,9 +3,13 @@
 groupId: org.jboss.arquillian.graphene
 artifactId: graphene-webdriver-api
 versioning:
-  latest: 2.2.0
-  release: 2.2.0
+  latest: 2.3.2
+  release: 2.3.2
   versions:
+  - 2.2.1
+  - 2.3.0
+  - 2.3.1
+  - 2.3.2
   - 2.0.0.Alpha5
   - 2.0.0.Beta1
   - 2.0.0.Beta2
@@ -23,7 +27,4 @@ versioning:
   - 2.1.0.CR2
   - 2.1.0.Final
   - 2.2.0
-  - 2.2.1
-  - 2.3.0
-  - 2.3.1
-  lastUpdated: 20170309144754
+  lastUpdated: 20171103194233

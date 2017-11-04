@@ -3,9 +3,13 @@
 groupId: org.jboss.arquillian.graphene
 artifactId: arquillian-browser-screenshooter
 versioning:
-  latest: 2.2.0
-  release: 2.2.0
+  latest: 2.3.2
+  release: 2.3.2
   versions:
+  - 2.2.1
+  - 2.3.0
+  - 2.3.1
+  - 2.3.2
   - 2.1.0.Alpha1
   - 2.1.0.Alpha2
   - 2.1.0.Alpha3
@@ -14,7 +18,4 @@ versioning:
   - 2.1.0.CR2
   - 2.1.0.Final
   - 2.2.0
-  - 2.2.1
-  - 2.3.0
-  - 2.3.1
-  lastUpdated: 20170309144749
+  lastUpdated: 20171103194232
