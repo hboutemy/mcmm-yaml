@@ -1,11 +1,16 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.jboss.weld.servlet
 artifactId: weld-servlet
 versioning:
   latest: 3.0.0.Alpha1
   release: 3.0.0.Alpha1
   versions:
+  - 1.0.0-CR1
+  - 1.0.0-CR2
+  - 1.0.1-CR2
+  - 1.0.1-Final
   - 1.1.0.Beta1
   - 1.1.0.Beta2
   - 1.1.0.CR1
@@ -126,11 +131,7 @@ versioning:
   - 2.4.2.Final
   - 2.4.2.SP1
   - 2.4.3.Final
-  - 3.0.0.Alpha1
-  - 1.0.0-CR1
-  - 1.0.0-CR2
-  - 1.0.1-CR2
-  - 1.0.1-Final
   - 2.4.4.Final
   - 2.4.5.Final
-  lastUpdated: 20170406071932
+  - 3.0.0.Alpha1
+  lastUpdated: 20171107220732

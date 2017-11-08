@@ -3,8 +3,8 @@
 groupId: net.nemerosa.ontrack
 artifactId: ontrack-extension-gitlab
 versioning:
-  latest: 3.1.4
-  release: 3.1.4
+  latest: 3.1.5
+  release: 3.1.5
   versions:
   - feature-490-fix-migration-897bd8a
   - feature-491-method-error-d71c3b7
@@ -68,6 +68,7 @@ versioning:
   - 2.32.13
   - 2.32.14
   - 2.32.15
+  - 2.33.0
   - 3.0-beta.16
   - 3.0-beta.17
   - 3.0-beta.18
@@ -92,4 +93,5 @@ versioning:
   - 3.1.2
   - 3.1.3
   - 3.1.4
-  lastUpdated: 20171106201109
+  - 3.1.5
+  lastUpdated: 20171107211846

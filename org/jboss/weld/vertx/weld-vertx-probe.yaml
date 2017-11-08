@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.jboss.weld.vertx
 artifactId: weld-vertx-probe
 versioning:
-  latest: 1.0.0.CR6
-  release: 1.0.0.CR6
+  latest: 1.2.0.Final
+  release: 1.2.0.Final
   versions:
   - 1.0.0.CR4
   - 1.0.0.CR5
@@ -13,4 +14,4 @@ versioning:
   - 1.1.0.Final
   - 1.1.1.Final
   - 1.2.0.Final
-  lastUpdated: 20170410145820
+  lastUpdated: 20171107220435

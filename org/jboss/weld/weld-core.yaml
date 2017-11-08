@@ -1,11 +1,24 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.jboss.weld
 artifactId: weld-core
 versioning:
   latest: 3.0.0.Alpha6
   release: 3.0.0.Alpha6
   versions:
+  - 1.0.0-CR1
+  - 1.0.0-CR1-SP1
+  - 1.0.0
+  - 1.0.0-SP3
+  - 1.0.0-SP4
+  - 1.0.1-CR1
+  - 1.0.1-CR2
+  - 1.0.1-Final
+  - 1.0.1-SP1
+  - 1.0.1-SP2
+  - 1.0.1-SP3
+  - 1.0.1-SP4
   - 1.1.0.Beta1
   - 1.1.0.Beta2
   - 1.1.0.CR1
@@ -13,6 +26,7 @@ versioning:
   - 1.1.0.CR3
   - 1.1.0.CR4
   - 1.1.0.Final
+  - 1.1.0-01-glassfish
   - 1.1.1.Final
   - 1.1.2.Final
   - 1.1.2.AS7
@@ -126,25 +140,12 @@ versioning:
   - 2.4.2.Final
   - 2.4.2.SP1
   - 2.4.3.Final
+  - 2.4.4.Final
+  - 2.4.5.Final
   - 3.0.0.Alpha1
   - 3.0.0.Alpha2
   - 3.0.0.Alpha3
   - 3.0.0.Alpha4
   - 3.0.0.Alpha5
   - 3.0.0.Alpha6
-  - 1.0.0
-  - 1.0.0-CR1
-  - 1.0.0-CR1-SP1
-  - 1.0.0-SP3
-  - 1.0.0-SP4
-  - 1.0.1-CR1
-  - 1.0.1-CR2
-  - 1.0.1-Final
-  - 1.0.1-SP1
-  - 1.0.1-SP2
-  - 1.0.1-SP3
-  - 1.0.1-SP4
-  - 1.1.0-01-glassfish
-  - 2.4.4.Final
-  - 2.4.5.Final
-  lastUpdated: 20170406071938
+  lastUpdated: 20171107220630

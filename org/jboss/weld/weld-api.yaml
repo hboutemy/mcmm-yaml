@@ -1,14 +1,22 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.jboss.weld
 artifactId: weld-api
 versioning:
-  latest: 3.0.CR3
-  release: 3.0.CR3
+  latest: 3.0.SP2-Beta2
+  release: 3.0.SP2-Beta2
   versions:
+  - 1.0-CR1
+  - 1.0-CR2
+  - 1.0-CR3
+  - 1.0-CR4
+  - 1.0
+  - 1.0-SP1
   - 1.1.Beta1
   - 1.1.Beta2
   - 1.1.Final
+  - 1.1.0-01-glassfish
   - 1.2.0.Beta1
   - 2.0.Alpha1
   - 2.0.Alpha2
@@ -49,6 +57,7 @@ versioning:
   - 2.4.CR1
   - 2.4.Final
   - 2.4.SP1
+  - 2.4.SP2-Beta1
   - 3.0.Alpha1
   - 3.0.Alpha2
   - 3.0.Alpha3
@@ -76,16 +85,8 @@ versioning:
   - 3.0.CR1
   - 3.0.CR2
   - 3.0.CR3
-  - 1.0
-  - 1.0-CR1
-  - 1.0-CR2
-  - 1.0-CR3
-  - 1.0-CR4
-  - 1.0-SP1
-  - 1.1.0-01-glassfish
-  - 2.4.SP2-Beta1
   - 3.0.Final
   - 3.0.SP1
   - 3.0.SP2-Beta1
   - 3.0.SP2-Beta2
-  lastUpdated: 20170426130128
+  lastUpdated: 20171107220906

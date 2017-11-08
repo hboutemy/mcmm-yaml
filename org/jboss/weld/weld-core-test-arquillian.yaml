@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.jboss.weld
 artifactId: weld-core-test-arquillian
 versioning:
-  latest: 3.0.0.CR2
-  release: 3.0.0.CR2
+  latest: 3.0.1.Final
+  release: 3.0.1.Final
   versions:
   - 1.1.0.Beta1
   - 1.1.0.Beta2
@@ -126,6 +127,8 @@ versioning:
   - 2.4.2.Final
   - 2.4.2.SP1
   - 2.4.3.Final
+  - 2.4.4.Final
+  - 2.4.5.Final
   - 3.0.0.Alpha1
   - 3.0.0.Alpha2
   - 3.0.0.Alpha3
@@ -146,8 +149,6 @@ versioning:
   - 3.0.0.Beta1
   - 3.0.0.CR1
   - 3.0.0.CR2
-  - 2.4.4.Final
-  - 2.4.5.Final
   - 3.0.0.Final
   - 3.0.1.Final
-  lastUpdated: 20170406071944
+  lastUpdated: 20171107220857

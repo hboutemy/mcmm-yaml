@@ -1,11 +1,24 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.jboss.weld
 artifactId: weld-parent
 versioning:
-  latest: 36
-  release: 36
+  latest: 37
+  release: 37
   versions:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
   - 13
   - 15
   - 16
@@ -29,17 +42,5 @@ versioning:
   - 34
   - 35
   - 36
-  - 1
-  - 10
-  - 11
-  - 12
-  - 2
-  - 3
   - 37
-  - 4
-  - 5
-  - 6
-  - 7
-  - 8
-  - 9
-  lastUpdated: 20161114130202
+  lastUpdated: 20171107220902

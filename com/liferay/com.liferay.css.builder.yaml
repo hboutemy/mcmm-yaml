@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.css.builder
 versioning:
-  latest: 1.0.21
+  latest: 2.0.1
   release: 2.0.1
   versions:
   - 1.0.0
@@ -42,4 +43,5 @@ versioning:
   - 1.1.4
   - 2.0.0
   - 2.0.1
-  lastUpdated: 20171102050104
+  - 2.0.2
+  lastUpdated: 20171107203015
