@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-undertow-adapter-spi
 versioning:
-  latest: 3.3.0.Final
-  release: 3.3.0.Final
+  latest: 3.4.0.CR1
+  release: 3.4.0.CR1
   versions:
   - 1.6.0.Final
   - 1.6.1.Final
@@ -51,4 +51,5 @@ versioning:
   - 3.3.0.CR1
   - 3.3.0.CR2
   - 3.3.0.Final
-  lastUpdated: 20171027075540
+  - 3.4.0.CR1
+  lastUpdated: 20171108131252
