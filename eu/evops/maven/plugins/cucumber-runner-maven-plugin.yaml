@@ -3,8 +3,8 @@
 groupId: eu.evops.maven.plugins
 artifactId: cucumber-runner-maven-plugin
 versioning:
-  latest: 1.12
-  release: 1.12
+  latest: 1.14
+  release: 1.14
   versions:
   - develop-1.2
   - 1.0
@@ -18,4 +18,6 @@ versioning:
   - 1.9
   - 1.11
   - 1.12
-  lastUpdated: 20171103160842
+  - 1.13
+  - 1.14
+  lastUpdated: 20171109165133

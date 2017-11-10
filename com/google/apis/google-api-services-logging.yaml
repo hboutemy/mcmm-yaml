@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-logging
 versioning:
-  latest: v2-rev564-1.23.0
-  release: v2-rev564-1.23.0
+  latest: v2-rev565-1.23.0
+  release: v2-rev565-1.23.0
   versions:
   - v1beta3-rev1-1.18.0-rc
   - v1beta3-rev1-1.19.0
@@ -270,6 +270,10 @@ versioning:
   - v2beta1-rev579-1.21.0
   - v2beta1-rev579-1.22.0
   - v2beta1-rev579-1.23.0
+  - v2beta1-rev580-1.18.0-rc
+  - v2beta1-rev580-1.21.0
+  - v2beta1-rev580-1.22.0
+  - v2beta1-rev580-1.23.0
   - v2-rev2-1.18.0-rc
   - v2-rev2-1.20.0
   - v2-rev2-1.21.0
@@ -425,4 +429,8 @@ versioning:
   - v2-rev564-1.21.0
   - v2-rev564-1.22.0
   - v2-rev564-1.23.0
-  lastUpdated: 20171031222440
+  - v2-rev565-1.18.0-rc
+  - v2-rev565-1.21.0
+  - v2-rev565-1.22.0
+  - v2-rev565-1.23.0
+  lastUpdated: 20171109031334
