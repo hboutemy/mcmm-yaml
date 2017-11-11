@@ -3,8 +3,8 @@
 groupId: org.infinispan.server
 artifactId: infinispan-server-event-logger
 versioning:
-  latest: 9.2.0.Alpha2
-  release: 9.2.0.Alpha2
+  latest: 9.2.0.Beta1
+  release: 9.2.0.Beta1
   versions:
   - 8.2.0.Beta1
   - 8.2.0.Beta2
@@ -39,4 +39,5 @@ versioning:
   - 9.1.2.Final
   - 9.2.0.Alpha1
   - 9.2.0.Alpha2
-  lastUpdated: 20171027153943
+  - 9.2.0.Beta1
+  lastUpdated: 20171110195641

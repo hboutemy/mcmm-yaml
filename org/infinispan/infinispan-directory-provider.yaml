@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-directory-provider
 versioning:
-  latest: 9.2.0.Alpha2
-  release: 9.2.0.Alpha2
+  latest: 9.2.0.Beta1
+  release: 9.2.0.Beta1
   versions:
   - 7.2.0.CR1
   - 7.2.0.Final
@@ -70,4 +70,5 @@ versioning:
   - 9.1.2.Final
   - 9.2.0.Alpha1
   - 9.2.0.Alpha2
-  lastUpdated: 20171027153740
+  - 9.2.0.Beta1
+  lastUpdated: 20171110195523

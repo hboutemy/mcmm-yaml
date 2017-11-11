@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-remote-query-client
 versioning:
-  latest: 9.2.0.Alpha2
-  release: 9.2.0.Alpha2
+  latest: 9.2.0.Beta1
+  release: 9.2.0.Beta1
   versions:
   - 6.0.0.Alpha4
   - 6.0.0.Beta1
@@ -99,4 +99,5 @@ versioning:
   - 9.1.2.Final
   - 9.2.0.Alpha1
   - 9.2.0.Alpha2
-  lastUpdated: 20171027153843
+  - 9.2.0.Beta1
+  lastUpdated: 20171110195602
