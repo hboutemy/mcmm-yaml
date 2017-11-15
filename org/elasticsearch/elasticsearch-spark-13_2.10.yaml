@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-spark-13_2.10
 versioning:
-  latest: 6.0.0-rc2
-  release: 6.0.0-rc2
+  latest: 6.0.0
+  release: 6.0.0
   versions:
   - 5.0.0-alpha5
   - 5.0.0-beta1
@@ -40,4 +40,5 @@ versioning:
   - 6.0.0-beta2
   - 6.0.0-rc1
   - 6.0.0-rc2
-  lastUpdated: 20171107185949
+  - 6.0.0
+  lastUpdated: 20171114153316
