@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.jboss.arquillian
 artifactId: arquillian-parent
 versioning:
-  latest: 1.1.13.Final
-  release: 1.1.13.Final
+  latest: 1.1.14.Final
+  release: 1.1.14.Final
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.CR1
@@ -38,4 +39,4 @@ versioning:
   - 1.1.12.Final
   - 1.1.13.Final
   - 1.1.14.Final
-  lastUpdated: 20170323232306
+  lastUpdated: 20171116182900
