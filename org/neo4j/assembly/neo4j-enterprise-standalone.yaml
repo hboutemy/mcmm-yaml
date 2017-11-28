@@ -3,8 +3,8 @@
 groupId: org.neo4j.assembly
 artifactId: neo4j-enterprise-standalone
 versioning:
-  latest: 3.4.0-alpha01
-  release: 3.4.0-alpha01
+  latest: 3.4.0-alpha02
+  release: 3.4.0-alpha02
   versions:
   - 2.3.11
   - 3.0.10
@@ -31,4 +31,5 @@ versioning:
   - 3.3.0-beta01
   - 3.3.0-beta02
   - 3.4.0-alpha01
-  lastUpdated: 20171120114348
+  - 3.4.0-alpha02
+  lastUpdated: 20171127104016
