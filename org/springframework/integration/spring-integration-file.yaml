@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.integration
 artifactId: spring-integration-file
 versioning:
-  latest: 4.3.12.RELEASE
-  release: 4.3.12.RELEASE
+  latest: 5.0.0.RELEASE
+  release: 5.0.0.RELEASE
   versions:
   - 1.0.1.RELEASE
   - 1.0.2.RELEASE
@@ -86,5 +86,7 @@ versioning:
   - 4.3.10.RELEASE
   - 4.3.11.RELEASE
   - 4.3.12.RELEASE
+  - 4.3.13.RELEASE
+  - 5.0.0.RELEASE
   - 4.0.0.M3
-  lastUpdated: 20170911201509
+  lastUpdated: 20171128210009
