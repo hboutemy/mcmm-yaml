@@ -3,10 +3,11 @@
 groupId: org.springframework.cloud.stream.app
 artifactId: app-starters-release-train-build
 versioning:
-  latest: Bacon.RELEASE
-  release: Bacon.RELEASE
+  latest: Celsius.RELEASE
+  release: Celsius.RELEASE
   versions:
   - Avogadro.RELEASE
   - Avogadro.SR1
   - Bacon.RELEASE
-  lastUpdated: 20170413224724
+  - Celsius.RELEASE
+  lastUpdated: 20171129210423

@@ -3,10 +3,12 @@
 groupId: com.alibaba.csb.sdk
 artifactId: http-client
 versioning:
-  latest: 1.1.1
-  release: 1.1.1
+  latest: 1.1.2-jdk16
+  release: 1.1.2-jdk16
   versions:
   - 1.1.0
   - 1.1.0-jdk1.6
   - 1.1.1
-  lastUpdated: 20171128000634
+  - 1.1.2-jdk1.6
+  - 1.1.2-jdk16
+  lastUpdated: 20171129143100
