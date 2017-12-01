@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat
 artifactId: tomcat-api
 versioning:
-  latest: 9.0.1
-  release: 9.0.1
+  latest: 9.0.2
+  release: 9.0.2
   versions:
   - 7.0.0
   - 7.0.2
@@ -120,6 +120,7 @@ versioning:
   - 8.5.20
   - 8.5.21
   - 8.5.23
+  - 8.5.24
   - 9.0.0.M1
   - 9.0.0.M3
   - 9.0.0.M4
@@ -140,4 +141,5 @@ versioning:
   - 9.0.0.M26
   - 9.0.0.M27
   - 9.0.1
-  lastUpdated: 20171003104819
+  - 9.0.2
+  lastUpdated: 20171130085647

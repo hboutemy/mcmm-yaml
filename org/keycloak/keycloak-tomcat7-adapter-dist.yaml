@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-tomcat7-adapter-dist
 versioning:
-  latest: 3.4.0.Final
-  release: 3.4.0.Final
+  latest: 3.4.1.CR1
+  release: 3.4.1.CR1
   versions:
   - 1.1.0.Beta1
   - 1.1.0.Beta2
@@ -65,5 +65,6 @@ versioning:
   - 3.3.0.Final
   - 3.4.0.CR1
   - 3.4.0.Final
+  - 3.4.1.CR1
   - 1.5.0.Final
-  lastUpdated: 20171110075449
+  lastUpdated: 20171130163837
