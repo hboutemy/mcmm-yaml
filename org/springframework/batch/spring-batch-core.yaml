@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.batch
 artifactId: spring-batch-core
 versioning:
-  latest: 3.0.8.RELEASE
-  release: 3.0.8.RELEASE
+  latest: 4.0.0.RELEASE
+  release: 4.0.0.RELEASE
   versions:
   - 1.0.0.FINAL
   - 1.0.1.RELEASE
@@ -49,4 +49,5 @@ versioning:
   - 3.0.6.RELEASE
   - 3.0.7.RELEASE
   - 3.0.8.RELEASE
-  lastUpdated: 20170719180201
+  - 4.0.0.RELEASE
+  lastUpdated: 20171201183949
