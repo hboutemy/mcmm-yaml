@@ -1,9 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.wso2.orbit.org.apache.geronimo.specs
 artifactId: geronimo-saaj_1.3_spec
 versioning:
-  release: 1.0.1.wso2v1
+  latest: 1.0.1.wso2v2
+  release: 1.0.1.wso2v2
   versions:
   - 1.0.1.wso2v1
-  lastUpdated: 20171011054250
+  - 1.0.1.wso2v2
+  lastUpdated: 20171206200746
