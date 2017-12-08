@@ -3,8 +3,8 @@
 groupId: org.apache.spark
 artifactId: spark-streaming-flume-sink_2.10
 versioning:
-  latest: 2.2.0
-  release: 2.2.0
+  latest: 2.2.1
+  release: 2.2.1
   versions:
   - 1.1.0
   - 1.1.1
@@ -30,4 +30,5 @@ versioning:
   - 2.1.1
   - 2.1.2
   - 2.2.0
-  lastUpdated: 20171013191229
+  - 2.2.1
+  lastUpdated: 20171207160109

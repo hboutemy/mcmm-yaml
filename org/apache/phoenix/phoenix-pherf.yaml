@@ -3,8 +3,8 @@
 groupId: org.apache.phoenix
 artifactId: phoenix-pherf
 versioning:
-  latest: 4.13.0-HBase-1.3
-  release: 4.13.0-HBase-1.3
+  latest: 4.13.1-HBase-1.3
+  release: 4.13.1-HBase-1.3
   versions:
   - 4.4.0-HBase-0.98
   - 4.4.0-HBase-1.0
@@ -48,4 +48,8 @@ versioning:
   - 4.12.0-HBase-1.3
   - 4.13.0-HBase-0.98
   - 4.13.0-HBase-1.3
-  lastUpdated: 20171110191321
+  - 4.13.1-HBase-0.98
+  - 4.13.1-HBase-1.1
+  - 4.13.1-HBase-1.2
+  - 4.13.1-HBase-1.3
+  lastUpdated: 20171207200104

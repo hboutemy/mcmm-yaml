@@ -3,8 +3,8 @@
 groupId: org.codelibs.elasticsearch.module
 artifactId: aggs-matrix-stats
 versioning:
-  latest: 6.0.0
-  release: 6.0.0
+  latest: 6.0.1
+  release: 6.0.1
   versions:
   - 5.0.0
   - 5.0.1
@@ -30,7 +30,9 @@ versioning:
   - 5.6.2
   - 5.6.3
   - 5.6.4
+  - 5.6.5
   - 6.0.0-rc1
   - 6.0.0-rc2
   - 6.0.0
-  lastUpdated: 20171114214614
+  - 6.0.1
+  lastUpdated: 20171207142734
