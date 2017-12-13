@@ -3,8 +3,10 @@
 groupId: org.wildfly.swarm.testsuite
 artifactId: testsuite-mongodb
 versioning:
-  latest: 2017.11.0
-  release: 2017.11.0
+  latest: 2017.12.0
+  release: 2017.12.0
   versions:
+  - 2012.12.0
   - 2017.11.0
-  lastUpdated: 20171106193407
+  - 2017.12.0
+  lastUpdated: 20171212223136

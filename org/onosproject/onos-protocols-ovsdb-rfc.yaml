@@ -3,8 +3,8 @@
 groupId: org.onosproject
 artifactId: onos-protocols-ovsdb-rfc
 versioning:
-  latest: 1.12.0-rc3
-  release: 1.12.0-rc3
+  latest: 1.13.0-b6
+  release: 1.13.0-b6
   versions:
   - 1.7.0
   - 1.7.1
@@ -44,4 +44,7 @@ versioning:
   - 1.12.0-rc1
   - 1.12.0-rc2
   - 1.12.0-rc3
-  lastUpdated: 20171206222322
+  - 1.12.0
+  - 1.13.0-b5
+  - 1.13.0-b6
+  lastUpdated: 20171212184816

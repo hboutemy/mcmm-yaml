@@ -3,9 +3,10 @@
 groupId: org.wildfly.swarm
 artifactId: neo4j
 versioning:
-  latest: 2017.11.0
-  release: 2017.11.0
+  latest: 2017.12.0
+  release: 2017.12.0
   versions:
+  - 2012.12.0
   - 2017.8.0
   - 2017.8.1
   - 2017.9.4
@@ -13,4 +14,5 @@ versioning:
   - 2017.10.0
   - 2017.10.1
   - 2017.11.0
-  lastUpdated: 20171106193328
+  - 2017.12.0
+  lastUpdated: 20171212223102
