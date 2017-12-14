@@ -3,8 +3,8 @@
 groupId: org.apache.hadoop
 artifactId: hadoop-datajoin
 versioning:
-  latest: 3.0.0-beta1
-  release: 3.0.0-beta1
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 0.23.3
   - 0.23.4
@@ -49,4 +49,5 @@ versioning:
   - 3.0.0-alpha3
   - 3.0.0-alpha4
   - 3.0.0-beta1
-  lastUpdated: 20171117221727
+  - 3.0.0
+  lastUpdated: 20171213210936

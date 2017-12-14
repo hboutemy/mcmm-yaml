@@ -3,9 +3,16 @@
 groupId: org.jboss.arquillian.extension
 artifactId: arquillian-drone-browserstack-extension
 versioning:
-  latest: 2.5.0
-  release: 2.5.0
+  latest: 2.1.0.Beta1
+  release: 2.1.0.Beta1
   versions:
+  - 2.0.0.CR1
+  - 2.0.0.Final
+  - 2.0.1.Final
+  - 2.1.0.Alpha1
+  - 2.1.0.Alpha2
+  - 2.1.0.Alpha3
+  - 2.1.0.Beta1
   - 2.1.0
   - 2.1.1
   - 2.1.2
@@ -19,11 +26,4 @@ versioning:
   - 2.4.4
   - 2.4.5
   - 2.5.0
-  - 2.0.0.CR1
-  - 2.0.0.Final
-  - 2.0.1.Final
-  - 2.1.0.Alpha1
-  - 2.1.0.Alpha2
-  - 2.1.0.Alpha3
-  - 2.1.0.Beta1
-  lastUpdated: 20171212215652
+  lastUpdated: 20170331171205
