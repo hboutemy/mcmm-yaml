@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-genomics
 versioning:
-  latest: v1-rev527-1.23.0
-  release: v1-rev527-1.23.0
+  latest: v1-rev529-1.23.0
+  release: v1-rev529-1.23.0
   versions:
   - v1alpha2-rev1-1.18.0-rc
   - v1alpha2-rev1-1.19.1
@@ -560,6 +560,10 @@ versioning:
   - v1alpha2-rev475-1.21.0
   - v1alpha2-rev475-1.22.0
   - v1alpha2-rev475-1.23.0
+  - v1alpha2-rev477-1.18.0-rc
+  - v1alpha2-rev477-1.21.0
+  - v1alpha2-rev477-1.22.0
+  - v1alpha2-rev477-1.23.0
   - v1beta2-rev1-1.15.0-rc
   - v1beta2-rev1-1.16.0-rc
   - v1beta2-rev1-1.17.0-rc
@@ -2323,6 +2327,10 @@ versioning:
   - v1-rev527-1.21.0
   - v1-rev527-1.22.0
   - v1-rev527-1.23.0
+  - v1-rev529-1.18.0-rc
+  - v1-rev529-1.21.0
+  - v1-rev529-1.22.0
+  - v1-rev529-1.23.0
   - v1-rev3-1.18.0-rc
   - v1-rev3-1.19.0
   - v1-rev3-1.19.1
@@ -2335,4 +2343,4 @@ versioning:
   - v1beta2-rev49-1.19.0
   - v1beta2-rev49-1.19.1
   - v1beta2-rev49-1.20.0
-  lastUpdated: 20171205190642
+  lastUpdated: 20171218181233
