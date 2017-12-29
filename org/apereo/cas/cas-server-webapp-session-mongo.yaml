@@ -3,8 +3,8 @@
 groupId: org.apereo.cas
 artifactId: cas-server-webapp-session-mongo
 versioning:
-  latest: 5.2.1
-  release: 5.2.1
+  latest: 5.3.0-RC1
+  release: 5.3.0-RC1
   versions:
   - 5.0.0.M1
   - 5.0.0.M2
@@ -43,4 +43,5 @@ versioning:
   - 5.2.0-RC4
   - 5.2.0
   - 5.2.1
-  lastUpdated: 20171222024451
+  - 5.3.0-RC1
+  lastUpdated: 20171228103618
