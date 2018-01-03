@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: procedure-compiler
 versioning:
-  latest: 3.4.0-alpha03
-  release: 3.4.0-alpha03
+  latest: 3.4.0-alpha04
+  release: 3.4.0-alpha04
   versions:
   - 3.1.0-RC1
   - 3.1.0
@@ -35,6 +35,7 @@ versioning:
   - 3.2.6
   - 3.2.7
   - 3.2.8
+  - 3.2.9
   - 3.3.0-alpha01
   - 3.3.0-alpha02
   - 3.3.0-alpha03
@@ -50,4 +51,5 @@ versioning:
   - 3.4.0-alpha01
   - 3.4.0-alpha02
   - 3.4.0-alpha03
-  lastUpdated: 20171206141811
+  - 3.4.0-alpha04
+  lastUpdated: 20180102121825

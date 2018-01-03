@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-tools
 versioning:
-  latest: 3.4.0-alpha03
-  release: 3.4.0-alpha03
+  latest: 3.4.0-alpha04
+  release: 3.4.0-alpha04
   versions:
   - 2.3.11
   - 2.3.12
@@ -22,6 +22,7 @@ versioning:
   - 3.2.6
   - 3.2.7
   - 3.2.8
+  - 3.2.9
   - 3.3.0-alpha01
   - 3.3.0-alpha02
   - 3.3.0-alpha03
@@ -37,4 +38,5 @@ versioning:
   - 3.4.0-alpha01
   - 3.4.0-alpha02
   - 3.4.0-alpha03
-  lastUpdated: 20171212132941
+  - 3.4.0-alpha04
+  lastUpdated: 20180102121823
