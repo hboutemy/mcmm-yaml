@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.sp
 artifactId: http-server
 versioning:
-  latest: 4.0.0-M15
-  release: 4.0.0-M15
+  latest: 4.0.0-update1
+  release: 4.0.0-update1
   versions:
   - 4.0.0-Alpha
   - 4.0.0-Alpha2
@@ -16,5 +16,6 @@ versioning:
   - 4.0.0-beta5
   - 4.0.0-beta6
   - 4.0.0-M15
+  - 4.0.0-update1
   - 4.0.0
-  lastUpdated: 20171222140523
+  lastUpdated: 20180104173027
