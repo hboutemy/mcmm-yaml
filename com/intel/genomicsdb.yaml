@@ -3,8 +3,8 @@
 groupId: com.intel
 artifactId: genomicsdb
 versioning:
-  latest: 0.8.1-proto-3.0.0-beta-1
-  release: 0.8.1-proto-3.0.0-beta-1
+  latest: 0.8.1-proto-3.0.0-beta-1+uuid-static
+  release: 0.8.1-proto-3.0.0-beta-1+uuid-static
   versions:
   - 0.2.0
   - 0.2.1
@@ -18,5 +18,7 @@ versioning:
   - 0.6.4-proto-3.0.0-beta-1
   - 0.7.0-proto-3.0.0-beta-1
   - 0.8.0-proto-3.0.0-beta-1
+  - 0.8.1-a88557700-proto-3.0.0-beta-1
   - 0.8.1-proto-3.0.0-beta-1
-  lastUpdated: 20171215012837
+  - 0.8.1-proto-3.0.0-beta-1+uuid-static
+  lastUpdated: 20180105221748
