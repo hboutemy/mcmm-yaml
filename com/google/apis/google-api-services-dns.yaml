@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-dns
 versioning:
-  latest: v2beta1-rev45-1.23.0
-  release: v2beta1-rev45-1.23.0
+  latest: v2beta1-rev46-1.23.0
+  release: v2beta1-rev46-1.23.0
   versions:
   - v1beta1-rev1-1.14.2-beta
   - v1beta1-rev1-1.15.0-rc
@@ -139,6 +139,10 @@ versioning:
   - v1beta2-rev9-1.21.0
   - v1beta2-rev9-1.22.0
   - v1beta2-rev9-1.23.0
+  - v1beta2-rev10-1.18.0-rc
+  - v1beta2-rev10-1.21.0
+  - v1beta2-rev10-1.22.0
+  - v1beta2-rev10-1.23.0
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.19.0
   - v1-rev1-1.19.1
@@ -356,6 +360,10 @@ versioning:
   - v1-rev58-1.21.0
   - v1-rev58-1.22.0
   - v1-rev58-1.23.0
+  - v1-rev59-1.18.0-rc
+  - v1-rev59-1.21.0
+  - v1-rev59-1.22.0
+  - v1-rev59-1.23.0
   - v2beta1-rev1-1.18.0-rc
   - v2beta1-rev1-1.20.0
   - v2beta1-rev1-1.21.0
@@ -524,4 +532,8 @@ versioning:
   - v2beta1-rev45-1.21.0
   - v2beta1-rev45-1.22.0
   - v2beta1-rev45-1.23.0
-  lastUpdated: 20180103074230
+  - v2beta1-rev46-1.18.0-rc
+  - v2beta1-rev46-1.21.0
+  - v2beta1-rev46-1.22.0
+  - v2beta1-rev46-1.23.0
+  lastUpdated: 20180109061349

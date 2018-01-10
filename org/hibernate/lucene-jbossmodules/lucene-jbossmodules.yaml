@@ -3,9 +3,11 @@
 groupId: org.hibernate.lucene-jbossmodules
 artifactId: lucene-jbossmodules
 versioning:
-  latest: 5.5.5.hibernate02
-  release: 5.5.5.hibernate02
+  latest: 5.5.5.hibernate04
+  release: 5.5.5.hibernate04
   versions:
   - 5.5.5.hibernate01
   - 5.5.5.hibernate02
-  lastUpdated: 20180108164931
+  - 5.5.5.hibernate03
+  - 5.5.5.hibernate04
+  lastUpdated: 20180109175427
