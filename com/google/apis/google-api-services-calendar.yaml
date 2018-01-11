@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-calendar
 versioning:
-  latest: v3-rev280-1.23.0
-  release: v3-rev280-1.23.0
+  latest: v3-rev281-1.23.0
+  release: v3-rev281-1.23.0
   versions:
   - v3-rev35-1.13.2-beta
   - v3-rev35-1.14.1-beta
@@ -949,5 +949,9 @@ versioning:
   - v3-rev280-1.21.0
   - v3-rev280-1.22.0
   - v3-rev280-1.23.0
+  - v3-rev281-1.18.0-rc
+  - v3-rev281-1.21.0
+  - v3-rev281-1.22.0
+  - v3-rev281-1.23.0
   - v3-rev54-1.13.2-beta
-  lastUpdated: 20180108110655
+  lastUpdated: 20180110190255
