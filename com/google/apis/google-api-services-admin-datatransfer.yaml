@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-admin-datatransfer
 versioning:
-  latest: datatransfer_v1-rev12-1.23.0
-  release: datatransfer_v1-rev12-1.23.0
+  latest: datatransfer_v1-rev13-1.23.0
+  release: datatransfer_v1-rev13-1.23.0
   versions:
   - datatransfer_v1-rev3-1.18.0-rc
   - datatransfer_v1-rev3-1.19.1
@@ -44,4 +44,8 @@ versioning:
   - datatransfer_v1-rev12-1.21.0
   - datatransfer_v1-rev12-1.22.0
   - datatransfer_v1-rev12-1.23.0
-  lastUpdated: 20171003180946
+  - datatransfer_v1-rev13-1.18.0-rc
+  - datatransfer_v1-rev13-1.21.0
+  - datatransfer_v1-rev13-1.22.0
+  - datatransfer_v1-rev13-1.23.0
+  lastUpdated: 20180115100916
