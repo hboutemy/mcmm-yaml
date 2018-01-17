@@ -3,8 +3,8 @@
 groupId: org.apache.hbase
 artifactId: hbase-procedure
 versioning:
-  latest: 2.0.0-alpha4
-  release: 2.0.0-alpha4
+  latest: 2.0.0-beta-1
+  release: 2.0.0-beta-1
   versions:
   - 1.1.0
   - 1.1.0.1
@@ -35,4 +35,5 @@ versioning:
   - 2.0.0-alpha2
   - 2.0.0-alpha3
   - 2.0.0-alpha4
-  lastUpdated: 20171218200605
+  - 2.0.0-beta-1
+  lastUpdated: 20180116171310

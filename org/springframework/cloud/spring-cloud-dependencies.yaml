@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud
 artifactId: spring-cloud-dependencies
 versioning:
-  latest: Edgware.RELEASE
-  release: Edgware.RELEASE
+  latest: Edgware.SR1
+  release: Edgware.SR1
   versions:
   - Angel.SR5
   - Angel.SR6
@@ -31,4 +31,5 @@ versioning:
   - Dalston.SR4
   - Dalston.SR5
   - Edgware.RELEASE
-  lastUpdated: 20171223010707
+  - Edgware.SR1
+  lastUpdated: 20180116181940
