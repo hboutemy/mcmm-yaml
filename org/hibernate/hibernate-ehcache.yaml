@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.hibernate
 artifactId: hibernate-ehcache
 versioning:
-  latest: 5.2.12.Final
-  release: 5.2.12.Final
+  latest: 5.3.0.Beta1
+  release: 5.3.0.Beta1
   versions:
   - 3.3.0.CR1
   - 3.3.0.CR2
@@ -163,5 +163,6 @@ versioning:
   - 5.2.10.Final
   - 5.2.11.Final
   - 5.2.12.Final
+  - 5.3.0.Beta1
   - 4.1.2
-  lastUpdated: 20180110231100
+  lastUpdated: 20180118163851
