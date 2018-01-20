@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-atomic-factory
 versioning:
-  latest: 9.2.0.Beta2
-  release: 9.2.0.Beta2
+  latest: 9.2.0.CR1
+  release: 9.2.0.CR1
   versions:
   - 7.2.0.Alpha1
   - 7.2.0.Beta1
@@ -77,4 +77,5 @@ versioning:
   - 9.2.0.Alpha2
   - 9.2.0.Beta1
   - 9.2.0.Beta2
-  lastUpdated: 20171219130217
+  - 9.2.0.CR1
+  lastUpdated: 20180119131442

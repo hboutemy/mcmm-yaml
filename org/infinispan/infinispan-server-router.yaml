@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-server-router
 versioning:
-  latest: 9.2.0.Beta2
-  release: 9.2.0.Beta2
+  latest: 9.2.0.CR1
+  release: 9.2.0.CR1
   versions:
   - 9.0.0.Beta2
   - 9.0.0.CR1
@@ -27,4 +27,5 @@ versioning:
   - 9.2.0.Alpha2
   - 9.2.0.Beta1
   - 9.2.0.Beta2
-  lastUpdated: 20171219130353
+  - 9.2.0.CR1
+  lastUpdated: 20180119131554
