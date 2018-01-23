@@ -3,8 +3,8 @@
 groupId: org.sonarsource.sonarqube
 artifactId: sonar-db-dao
 versioning:
-  latest: 6.7
-  release: 6.7
+  latest: 6.7.1
+  release: 6.7.1
   versions:
   - 6.4-RC1
   - 6.4-RC2
@@ -17,4 +17,5 @@ versioning:
   - 6.6
   - 6.7-RC1
   - 6.7
-  lastUpdated: 20171108085611
+  - 6.7.1
+  lastUpdated: 20180122091233
