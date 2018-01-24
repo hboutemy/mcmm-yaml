@@ -3,8 +3,8 @@
 groupId: org.openjdk.jmh
 artifactId: jmh-core-it
 versioning:
-  latest: 1.19
-  release: 1.19
+  latest: 1.20
+  release: 1.20
   versions:
   - 0.1
   - 0.2
@@ -87,5 +87,6 @@ versioning:
   - 1.17.5
   - 1.18
   - 1.19
+  - 1.20
   - 1.10
-  lastUpdated: 20170503125224
+  lastUpdated: 20180123090416
