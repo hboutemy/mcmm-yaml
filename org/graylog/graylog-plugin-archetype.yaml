@@ -3,8 +3,8 @@
 groupId: org.graylog
 artifactId: graylog-plugin-archetype
 versioning:
-  latest: 2.4.1
-  release: 2.4.1
+  latest: 2.4.3
+  release: 2.4.3
   versions:
   - 1.0.0-beta.2
   - 1.0.0-rc.1
@@ -62,4 +62,6 @@ versioning:
   - 2.4.0-rc.2
   - 2.4.0
   - 2.4.1
-  lastUpdated: 20180119165118
+  - 2.4.2
+  - 2.4.3
+  lastUpdated: 20180124224022

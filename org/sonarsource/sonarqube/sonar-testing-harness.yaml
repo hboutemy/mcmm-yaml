@@ -3,8 +3,8 @@
 groupId: org.sonarsource.sonarqube
 artifactId: sonar-testing-harness
 versioning:
-  latest: 6.7.1
-  release: 6.7.1
+  latest: 7.0-RC1
+  release: 7.0-RC1
   versions:
   - 5.2-RC2
   - 5.2-RC3
@@ -56,4 +56,5 @@ versioning:
   - 6.7-RC1
   - 6.7
   - 6.7.1
-  lastUpdated: 20180122091243
+  - 7.0-RC1
+  lastUpdated: 20180124163003
