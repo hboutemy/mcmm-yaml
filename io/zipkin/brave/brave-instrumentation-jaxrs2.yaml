@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-instrumentation-jaxrs2
 versioning:
-  latest: 4.13.3
-  release: 4.13.3
+  latest: 4.14.1
+  release: 4.14.1
   versions:
   - 4.3.0
   - 4.3.1
@@ -32,4 +32,7 @@ versioning:
   - 4.13.1
   - 4.13.2
   - 4.13.3
-  lastUpdated: 20180118164811
+  - 4.13.4
+  - 4.14.0
+  - 4.14.1
+  lastUpdated: 20180125130515
