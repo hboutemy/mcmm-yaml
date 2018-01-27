@@ -3,9 +3,11 @@
 groupId: io.prestodb.tempto
 artifactId: tempto-ldap
 versioning:
-  latest: 1.42
-  release: 1.42
+  latest: 1.45
+  release: 1.45
   versions:
   - 1.41
   - 1.42
-  lastUpdated: 20180124091515
+  - 1.44
+  - 1.45
+  lastUpdated: 20180126113821
