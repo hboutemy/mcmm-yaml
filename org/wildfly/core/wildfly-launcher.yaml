@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-launcher
 versioning:
-  latest: 4.0.0.Alpha6
-  release: 4.0.0.Alpha6
+  latest: 4.0.0.Alpha8
+  release: 4.0.0.Alpha8
   versions:
   - 1.0.0.Alpha5
   - 1.0.0.Alpha6
@@ -168,4 +168,6 @@ versioning:
   - 4.0.0.Alpha4
   - 4.0.0.Alpha5
   - 4.0.0.Alpha6
-  lastUpdated: 20180120010030
+  - 4.0.0.Alpha7
+  - 4.0.0.Alpha8
+  lastUpdated: 20180127151842
