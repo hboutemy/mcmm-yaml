@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.datanucleus
 artifactId: datanucleus-neo4j
 versioning:
-  latest: 5.1.1
-  release: 5.1.1
+  latest: 5.1.2
+  release: 5.1.2
   versions:
   - 3.1.0-m1
   - 3.1.0-m2
@@ -50,4 +50,5 @@ versioning:
   - 5.1.0-m4
   - 5.1.0-release
   - 5.1.1
-  lastUpdated: 20180108112730
+  - 5.1.2
+  lastUpdated: 20180128075801

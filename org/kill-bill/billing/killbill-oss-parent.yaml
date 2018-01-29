@@ -3,8 +3,8 @@
 groupId: org.kill-bill.billing
 artifactId: killbill-oss-parent
 versioning:
-  latest: 0.141.20
-  release: 0.141.20
+  latest: 0.141.22
+  release: 0.141.22
   versions:
   - 0.5.26
   - 0.5.27
@@ -252,6 +252,8 @@ versioning:
   - 0.140.47
   - 0.140.48
   - 0.140.49
+  - 0.140.50
+  - 0.140.51
   - 0.141.0
   - 0.141.1
   - 0.141.2
@@ -273,8 +275,10 @@ versioning:
   - 0.141.18
   - 0.141.19
   - 0.141.20
+  - 0.141.21
+  - 0.141.22
   - 0.13
   - 0.14
   - 0.15
   - 0.16
-  lastUpdated: 20180119145116
+  lastUpdated: 20180128201224
