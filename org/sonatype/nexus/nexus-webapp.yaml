@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.sonatype.nexus
 artifactId: nexus-webapp
 versioning:
-  latest: 2.14.5-02
-  release: 2.14.5-02
+  latest: 2.14.6-02
+  release: 2.14.6-02
   versions:
   - 1.0.0-beta-3
   - 1.0.0-beta-3.1
@@ -144,5 +144,6 @@ versioning:
   - 2.14.4-01
   - 2.14.4-03
   - 2.14.5-02
+  - 2.14.6-02
   - 2.2-01
-  lastUpdated: 20170803150517
+  lastUpdated: 20180130171558

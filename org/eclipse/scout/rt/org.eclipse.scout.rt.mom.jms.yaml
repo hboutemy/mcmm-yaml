@@ -3,8 +3,8 @@
 groupId: org.eclipse.scout.rt
 artifactId: org.eclipse.scout.rt.mom.jms
 versioning:
-  latest: 7.1.0.004_Photon_M4
-  release: 7.1.0.004_Photon_M4
+  latest: 7.1.0.005_Photon_M5
+  release: 7.1.0.005_Photon_M5
   versions:
   - 6.1.0.B002
   - 6.1.0.B006
@@ -12,6 +12,7 @@ versioning:
   - 6.1.0.B013
   - 6.1.0.B015
   - 6.1.0.B016
+  - 6.1.0.B021
   - 6.1.0.M2
   - 6.1.0.M3
   - 6.1.0.M4
@@ -40,4 +41,5 @@ versioning:
   - 7.1.0.001_Photon_M2
   - 7.1.0.003_Photon_M3
   - 7.1.0.004_Photon_M4
-  lastUpdated: 20180118094714
+  - 7.1.0.005_Photon_M5
+  lastUpdated: 20180130121509

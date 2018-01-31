@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.eclipse.scout.sdk
 artifactId: org.eclipse.scout.sdk
 versioning:
-  latest: 7.1.0.004_Photon_M4
-  release: 7.1.0.004_Photon_M4
+  latest: 7.1.0.005_Photon_M5
+  release: 7.1.0.005_Photon_M5
   versions:
   - 5.2.0.M4
   - 5.2.0.M5
@@ -34,6 +34,7 @@ versioning:
   - 6.1.0.B002
   - 6.1.0.B006
   - 6.1.0.B009
+  - 6.1.0.B021
   - 6.1.0.M2
   - 6.1.0.M3
   - 6.1.0.M4
@@ -58,5 +59,6 @@ versioning:
   - 7.1.0.001_Photon_M2
   - 7.1.0.003_Photon_M3
   - 7.1.0.004_Photon_M4
+  - 7.1.0.005_Photon_M5
   - 6.0.0.M6_RelengTest
-  lastUpdated: 20171212103013
+  lastUpdated: 20180130132130
