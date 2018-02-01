@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-parent
 versioning:
-  latest: 4.14.1
-  release: 4.14.1
+  latest: 4.14.3
+  release: 4.14.3
   versions:
   - 3.17.0
   - 3.17.1
@@ -48,4 +48,6 @@ versioning:
   - 4.13.4
   - 4.14.0
   - 4.14.1
-  lastUpdated: 20180125130524
+  - 4.14.2
+  - 4.14.3
+  lastUpdated: 20180131162510
