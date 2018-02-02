@@ -3,8 +3,8 @@
 groupId: org.codelibs
 artifactId: elasticsearch-cluster-runner
 versioning:
-  latest: 6.1.2.0
-  release: 6.1.2.0
+  latest: 6.1.3.0
+  release: 6.1.3.0
   versions:
   - 1.2.1.0
   - 1.3.1.0
@@ -57,10 +57,12 @@ versioning:
   - 5.6.4.0
   - 5.6.5.0
   - 5.6.6.0
+  - 5.6.7.0
   - 6.0.0.0-rc1
   - 6.0.0.0-rc2
   - 6.0.0.0
   - 6.0.1.0
   - 6.1.1.0
   - 6.1.2.0
-  lastUpdated: 20180117140658
+  - 6.1.3.0
+  lastUpdated: 20180201000149
