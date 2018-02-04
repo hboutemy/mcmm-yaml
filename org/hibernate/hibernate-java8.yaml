@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.hibernate
 artifactId: hibernate-java8
 versioning:
-  latest: 5.3.0.Beta2
-  release: 5.3.0.Beta2
+  latest: 5.3.0.Beta1
+  release: 5.3.0.Beta1
   versions:
   - 5.0.0.Beta1
   - 5.0.0.Beta2
@@ -53,4 +52,4 @@ versioning:
   - 5.2.12.Final
   - 5.3.0.Beta1
   - 5.3.0.Beta2
-  lastUpdated: 20180202213240
+  lastUpdated: 20180127015204

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.hibernate
 artifactId: hibernate-gradle-plugin
 versioning:
-  latest: 5.3.0.Beta2
-  release: 5.3.0.Beta2
+  latest: 5.3.0.Beta1
+  release: 5.3.0.Beta1
   versions:
   - 4.2.8.Final
   - 4.2.9.Final
@@ -84,4 +83,4 @@ versioning:
   - 5.2.12.Final
   - 5.3.0.Beta1
   - 5.3.0.Beta2
-  lastUpdated: 20180202213313
+  lastUpdated: 20180127015202

@@ -3,11 +3,25 @@
 groupId: org.arquillian.cube
 artifactId: arquillian-cube-kubernetes-fabric8
 versioning:
-  latest: 1.14.0
-  release: 1.14.0
+  latest: 1.0.0
+  release: 1.0.0
   versions:
+  - 1.0.0.Alpha13
+  - 1.0.0.Alpha14
+  - 1.0.0.Alpha15
+  - 1.0.0.Alpha16
+  - 1.0.0.Alpha17
+  - 1.0.0.Alpha18
+  - 1.0.0.Alpha19
+  - 1.0.0.Alpha20
+  - 1.0.0
   - 1.0.1
   - 1.1.0
+  - 1.10.0
+  - 1.11.0
+  - 1.12.0
+  - 1.13.0
+  - 1.14.0
   - 1.2.0
   - 1.3.0
   - 1.3.1
@@ -22,18 +36,4 @@ versioning:
   - 1.9.0
   - 1.9.1
   - 1.9.2
-  - 1.10.0
-  - 1.11.0
-  - 1.12.0
-  - 1.13.0
-  - 1.14.0
-  - 1.0.0
-  - 1.0.0.Alpha13
-  - 1.0.0.Alpha14
-  - 1.0.0.Alpha15
-  - 1.0.0.Alpha16
-  - 1.0.0.Alpha17
-  - 1.0.0.Alpha18
-  - 1.0.0.Alpha19
-  - 1.0.0.Alpha20
-  lastUpdated: 20180202151757
+  lastUpdated: 20170324154323
