@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-hadoop-hive
 versioning:
-  latest: 6.1.3
-  release: 6.1.3
+  latest: 6.2.0
+  release: 6.2.0
   versions:
   - 1.3.0.M3
   - 2.0.0.RC1
@@ -80,5 +80,6 @@ versioning:
   - 6.1.0
   - 6.1.1
   - 6.1.3
+  - 6.2.0
   - 2.1.0.rc1
-  lastUpdated: 20180130170414
+  lastUpdated: 20180206165727
