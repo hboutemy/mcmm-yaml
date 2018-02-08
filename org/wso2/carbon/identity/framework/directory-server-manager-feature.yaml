@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.identity.framework
 artifactId: directory-server-manager-feature
 versioning:
-  latest: 5.11.14
-  release: 5.11.14
+  latest: 5.11.17
+  release: 5.11.17
   versions:
   - 5.8.140
   - 5.8.141
@@ -140,6 +140,9 @@ versioning:
   - 5.10.114
   - 5.10.115
   - 5.10.116
+  - 5.10.117
+  - 5.10.118
+  - 5.10.119
   - 5.11.0
   - 5.11.1
   - 5.11.2
@@ -155,4 +158,7 @@ versioning:
   - 5.11.12
   - 5.11.13
   - 5.11.14
-  lastUpdated: 20180206102042
+  - 5.11.15
+  - 5.11.16
+  - 5.11.17
+  lastUpdated: 20180207181734
