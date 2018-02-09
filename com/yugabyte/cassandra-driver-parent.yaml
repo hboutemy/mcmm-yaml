@@ -3,10 +3,11 @@
 groupId: com.yugabyte
 artifactId: cassandra-driver-parent
 versioning:
-  latest: 3.2.0-yb-10
-  release: 3.2.0-yb-10
+  latest: 3.2.0-yb-11
+  release: 3.2.0-yb-11
   versions:
   - 3.2.0-yb-8
   - 3.2.0-yb-9
   - 3.2.0-yb-10
-  lastUpdated: 20171206225030
+  - 3.2.0-yb-11
+  lastUpdated: 20180208191238

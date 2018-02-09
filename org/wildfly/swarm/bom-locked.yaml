@@ -3,8 +3,8 @@
 groupId: org.wildfly.swarm
 artifactId: bom-locked
 versioning:
-  latest: 2018.1.0
-  release: 2018.1.0
+  latest: 2018.2.0.Final
+  release: 2018.2.0.Final
   versions:
   - 2012.12.0
   - 2016.8
@@ -35,4 +35,6 @@ versioning:
   - 2017.12.0
   - 2017.12.1
   - 2018.1.0
-  lastUpdated: 20180206171542
+  - 2018.2.0.Final
+  - 2018.2.0
+  lastUpdated: 20180208150151

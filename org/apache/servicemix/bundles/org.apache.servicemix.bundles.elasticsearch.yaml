@@ -3,8 +3,8 @@
 groupId: org.apache.servicemix.bundles
 artifactId: org.apache.servicemix.bundles.elasticsearch
 versioning:
-  latest: 6.1.1_1
-  release: 6.1.1_1
+  latest: 6.1.2_1
+  release: 6.1.2_1
   versions:
   - 0.16.2_1
   - 0.19.8_1
@@ -61,7 +61,9 @@ versioning:
   - 2.1.1_2
   - 2.1.1_3
   - 2.2.0_1
+  - 2.2.0_2
   - 2.2.1_1
+  - 2.2.1_2
   - 2.3.0_1
   - 2.3.0_2
   - 2.3.1_1
@@ -84,4 +86,5 @@ versioning:
   - 5.6.3_1
   - 6.0.0_1
   - 6.1.1_1
-  lastUpdated: 20180101152923
+  - 6.1.2_1
+  lastUpdated: 20180208065507

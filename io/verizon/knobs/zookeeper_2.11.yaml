@@ -3,8 +3,8 @@
 groupId: io.verizon.knobs
 artifactId: zookeeper_2.11
 versioning:
-  latest: 5.0.32
-  release: 5.0.32
+  latest: 6.0.33
+  release: 6.0.33
   versions:
   - 3.10.20
   - 3.10.21
@@ -26,4 +26,5 @@ versioning:
   - 4.0.31-scalaz-7.1
   - 4.0.31-scalaz-7.2
   - 5.0.32
-  lastUpdated: 20171220222255
+  - 6.0.33
+  lastUpdated: 20180208022557
