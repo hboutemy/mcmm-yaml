@@ -3,8 +3,10 @@
 groupId: com.ruesga.phoenix
 artifactId: phoenix-hibernate-dialect
 versioning:
-  latest: 0.0.2
-  release: 0.0.2
+  latest: 0.0.3-hibernate5
+  release: 0.0.3-hibernate5
   versions:
   - 0.0.2
-  lastUpdated: 20170815102733
+  - 0.0.3-hibernate4
+  - 0.0.3-hibernate5
+  lastUpdated: 20180210222522
