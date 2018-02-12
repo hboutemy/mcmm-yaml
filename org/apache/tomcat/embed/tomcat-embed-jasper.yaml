@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat.embed
 artifactId: tomcat-embed-jasper
 versioning:
-  latest: 9.0.4
-  release: 9.0.4
+  latest: 9.0.5
+  release: 9.0.5
   versions:
   - 7.0.0
   - 7.0.2
@@ -125,6 +125,7 @@ versioning:
   - 8.5.23
   - 8.5.24
   - 8.5.27
+  - 8.5.28
   - 9.0.0.M1
   - 9.0.0.M3
   - 9.0.0.M4
@@ -147,4 +148,5 @@ versioning:
   - 9.0.1
   - 9.0.2
   - 9.0.4
-  lastUpdated: 20180124091938
+  - 9.0.5
+  lastUpdated: 20180211201037
