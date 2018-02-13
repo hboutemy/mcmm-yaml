@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.sonatype.nexus.plugins
 artifactId: nexus-lvo-plugin
 versioning:
-  latest: 2.14.6-02
-  release: 2.14.6-02
+  latest: 2.14.7-01
+  release: 2.14.7-01
   versions:
   - 1.0.1
   - 1.0.2
@@ -123,5 +123,6 @@ versioning:
   - 2.14.4-03
   - 2.14.5-02
   - 2.14.6-02
+  - 2.14.7-01
   - 2.2-01
-  lastUpdated: 20180130171616
+  lastUpdated: 20180212194142
