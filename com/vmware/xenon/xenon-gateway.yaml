@@ -3,11 +3,12 @@
 groupId: com.vmware.xenon
 artifactId: xenon-gateway
 versioning:
-  latest: 1.5.4
-  release: 1.5.4
+  latest: 1.5.4_8
+  release: 1.5.4_8
   versions:
   - 1.3.7-CR1
   - 1.3.7-CR1_1
+  - 1.3.7-CR1_2
   - 1.3.7
   - 1.4.0
   - 1.4.1
@@ -15,6 +16,7 @@ versioning:
   - 1.4.2-CR2
   - 1.4.2-CR3
   - 1.4.2-CR4
+  - 1.4.2-CR4_1
   - 1.4.2
   - 1.5.0
   - 1.5.1-CR1
@@ -30,6 +32,9 @@ versioning:
   - 1.5.4-CR5
   - 1.5.4-CR6
   - 1.5.4-CR6_1
+  - 1.5.4-CR6_2
   - 1.5.4-CR7
+  - 1.5.4-CR7_1
   - 1.5.4
-  lastUpdated: 20171207184150
+  - 1.5.4_8
+  lastUpdated: 20180213230849

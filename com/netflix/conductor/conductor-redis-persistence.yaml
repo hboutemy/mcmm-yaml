@@ -3,8 +3,8 @@
 groupId: com.netflix.conductor
 artifactId: conductor-redis-persistence
 versioning:
-  latest: 1.8.2-rc5
-  release: 1.8.2-rc5
+  latest: 1.8.2-rc6
+  release: 1.8.2-rc6
   versions:
   - 0.0.4
   - 1.5.0
@@ -49,4 +49,5 @@ versioning:
   - 1.8.2-rc3
   - 1.8.2-rc4
   - 1.8.2-rc5
-  lastUpdated: 20171218213736
+  - 1.8.2-rc6
+  lastUpdated: 20180213025111
