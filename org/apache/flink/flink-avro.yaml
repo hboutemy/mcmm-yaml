@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-avro
 versioning:
-  latest: 1.4.0
-  release: 1.4.0
+  latest: 1.4.1
+  release: 1.4.1
   versions:
   - 0.6-hadoop2-incubating
   - 0.6-incubating
@@ -29,4 +29,5 @@ versioning:
   - 0.10.2
   - 0.10.2-hadoop1
   - 1.4.0
-  lastUpdated: 20171212101026
+  - 1.4.1
+  lastUpdated: 20180215171625
