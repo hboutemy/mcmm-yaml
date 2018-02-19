@@ -4,9 +4,10 @@ modelVersion: 1.1.0
 groupId: br.gov.frameworkdemoiselle
 artifactId: demoiselle-jmx
 versioning:
-  latest: 2.5.2-RC1
-  release: 2.5.2-RC1
+  latest: 2.5.2
+  release: 2.5.2
   versions:
+  - =2.5.2
   - 2.4.0-BETA3
   - 2.4.0-RC1
   - 2.4.0
@@ -19,4 +20,5 @@ versioning:
   - 2.5.0
   - 2.5.1
   - 2.5.2-RC1
-  lastUpdated: 20171207201728
+  - 2.5.2
+  lastUpdated: 20180218001512

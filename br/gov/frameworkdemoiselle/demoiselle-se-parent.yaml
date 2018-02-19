@@ -4,9 +4,10 @@ modelVersion: 1.1.0
 groupId: br.gov.frameworkdemoiselle
 artifactId: demoiselle-se-parent
 versioning:
-  latest: 2.5.2-RC1
-  release: 2.5.2-RC1
+  latest: 2.5.2
+  release: 2.5.2
   versions:
+  - =2.5.2
   - 2.3.0-RC2
   - 2.3.0-RC3
   - 2.3.0
@@ -28,4 +29,5 @@ versioning:
   - 2.5.0
   - 2.5.1
   - 2.5.2-RC1
-  lastUpdated: 20171207201731
+  - 2.5.2
+  lastUpdated: 20180218001515
