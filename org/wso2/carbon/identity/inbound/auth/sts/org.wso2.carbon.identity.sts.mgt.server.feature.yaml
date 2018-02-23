@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.identity.inbound.auth.sts
 artifactId: org.wso2.carbon.identity.sts.mgt.server.feature
 versioning:
-  latest: 5.2.14
-  release: 5.2.14
+  latest: 5.2.16
+  release: 5.2.16
   versions:
   - 5.2.6
   - 5.2.7
@@ -14,4 +14,6 @@ versioning:
   - 5.2.11
   - 5.2.12
   - 5.2.13
-  lastUpdated: 20180127182041
+  - 5.2.15
+  - 5.2.16
+  lastUpdated: 20180222115623
