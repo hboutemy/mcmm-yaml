@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-patching
 versioning:
-  latest: 4.0.0.Beta1
-  release: 4.0.0.Beta1
+  latest: 4.0.0.Beta2
+  release: 4.0.0.Beta2
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -178,4 +178,5 @@ versioning:
   - 4.0.0.Alpha9
   - 4.0.0.Alpha10
   - 4.0.0.Beta1
-  lastUpdated: 20180214180033
+  - 4.0.0.Beta2
+  lastUpdated: 20180224010726
