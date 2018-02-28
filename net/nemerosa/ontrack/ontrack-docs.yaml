@@ -6,6 +6,10 @@ versioning:
   latest: 3.33.1
   release: 3.33.1
   versions:
+  - experimental-pipeline-a8ce70d
+  - experimental-pipeline-3acef09
+  - experimental-pipeline-84ccb90
+  - experimental-pipeline-oss-a8ce70d
   - feature-438-slave-6b0ae38
   - feature-443-dsl-ldap-dbcf415
   - feature-490-fix-migration-897bd8a
@@ -128,4 +132,4 @@ versioning:
   - 3.1.5
   - 3.33.0
   - 3.33.1
-  lastUpdated: 20171220163723
+  lastUpdated: 20180227205047

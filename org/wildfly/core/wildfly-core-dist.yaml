@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-core-dist
 versioning:
-  latest: 4.0.0.Beta2
-  release: 4.0.0.Beta2
+  latest: 4.0.0.CR1
+  release: 4.0.0.CR1
   versions:
   - 1.0.0.Alpha5
   - 1.0.0.Alpha6
@@ -175,4 +175,5 @@ versioning:
   - 4.0.0.Alpha10
   - 4.0.0.Beta1
   - 4.0.0.Beta2
-  lastUpdated: 20180224010613
+  - 4.0.0.CR1
+  lastUpdated: 20180226212018

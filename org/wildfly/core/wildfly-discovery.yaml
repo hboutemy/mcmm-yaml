@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-discovery
 versioning:
-  latest: 4.0.0.Beta2
-  release: 4.0.0.Beta2
+  latest: 4.0.0.CR1
+  release: 4.0.0.CR1
   versions:
   - 3.0.0.Alpha12
   - 3.0.0.Alpha13
@@ -76,4 +76,5 @@ versioning:
   - 4.0.0.Alpha10
   - 4.0.0.Beta1
   - 4.0.0.Beta2
-  lastUpdated: 20180224010651
+  - 4.0.0.CR1
+  lastUpdated: 20180226212038
