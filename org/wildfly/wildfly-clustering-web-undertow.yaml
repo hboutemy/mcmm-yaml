@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-clustering-web-undertow
 versioning:
-  latest: 12.0.0.CR1
-  release: 12.0.0.CR1
+  latest: 12.0.0.Final
+  release: 12.0.0.Final
   versions:
   - 8.0.0.Alpha2
   - 8.0.0.Alpha3
@@ -47,4 +47,5 @@ versioning:
   - 11.0.0.Final
   - 12.0.0.Beta1
   - 12.0.0.CR1
-  lastUpdated: 20180227031007
+  - 12.0.0.Final
+  lastUpdated: 20180301065817

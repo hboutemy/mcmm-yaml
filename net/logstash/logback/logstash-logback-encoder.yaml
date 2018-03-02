@@ -3,8 +3,8 @@
 groupId: net.logstash.logback
 artifactId: logstash-logback-encoder
 versioning:
-  latest: 4.11
-  release: 4.11
+  latest: 5.0
+  release: 5.0
   versions:
   - 1.0
   - 1.1
@@ -40,4 +40,5 @@ versioning:
   - 4.9
   - 4.10
   - 4.11
-  lastUpdated: 20170624193951
+  - 5.0
+  lastUpdated: 20180301044139
