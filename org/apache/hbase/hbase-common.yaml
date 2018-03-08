@@ -3,8 +3,8 @@
 groupId: org.apache.hbase
 artifactId: hbase-common
 versioning:
-  latest: 2.0.0-beta-1
-  release: 2.0.0-beta-1
+  latest: 2.0.0-beta-2
+  release: 2.0.0-beta-2
   versions:
   - 0.95.0
   - 0.95.1-hadoop1
@@ -116,4 +116,5 @@ versioning:
   - 2.0.0-alpha3
   - 2.0.0-alpha4
   - 2.0.0-beta-1
-  lastUpdated: 20180301000307
+  - 2.0.0-beta-2
+  lastUpdated: 20180307174353

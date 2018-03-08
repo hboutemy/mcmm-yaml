@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.vaadin.external.atmosphere
 artifactId: atmosphere-assembly
 versioning:
-  latest: 2.4.11.vaadin2
-  release: 2.4.11.vaadin2
+  latest: 2.4.11.vaadin3
+  release: 2.4.11.vaadin3
   versions:
   - 1.0.14-vaadin1
   - 1.0.14.vaadin2
@@ -44,5 +44,6 @@ versioning:
   - 2.4.5.vaadin2
   - 2.4.11.vaadin1
   - 2.4.11.vaadin2
+  - 2.4.11.vaadin3
   - 1.0.14-vaadin2
-  lastUpdated: 20170803064530
+  lastUpdated: 20180307154204
