@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.identity.thrift.authentication.feature
 versioning:
-  latest: 5.11.132
-  release: 5.11.132
+  latest: 5.11.134
+  release: 5.11.134
   versions:
   - 5.8.140
   - 5.8.141
@@ -156,6 +156,8 @@ versioning:
   - 5.10.130
   - 5.10.131
   - 5.10.132
+  - 5.10.133
+  - 5.10.134
   - 5.11.0
   - 5.11.1
   - 5.11.2
@@ -283,4 +285,6 @@ versioning:
   - 5.11.130
   - 5.11.131
   - 5.11.132
-  lastUpdated: 20180309194800
+  - 5.11.133
+  - 5.11.134
+  lastUpdated: 20180310111503
