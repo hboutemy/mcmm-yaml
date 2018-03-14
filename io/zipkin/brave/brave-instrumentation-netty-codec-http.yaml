@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-instrumentation-netty-codec-http
 versioning:
-  latest: 4.17.2
-  release: 4.17.2
+  latest: 4.18.0
+  release: 4.18.0
   versions:
   - 4.10.0
   - 4.10.1
@@ -27,4 +27,5 @@ versioning:
   - 4.17.0
   - 4.17.1
   - 4.17.2
-  lastUpdated: 20180306060141
+  - 4.18.0
+  lastUpdated: 20180313062556
