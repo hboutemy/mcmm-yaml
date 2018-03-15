@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.sp
 artifactId: jms-consumer
 versioning:
-  latest: 4.1.0-beta
-  release: 4.1.0-beta
+  latest: 4.1.0-RC1
+  release: 4.1.0-RC1
   versions:
   - 4.0.0-beta6
   - 4.0.0-update1
@@ -18,5 +18,6 @@ versioning:
   - 4.0.0-update8
   - 4.0.0-update9
   - 4.1.0-beta
+  - 4.1.0-RC1
   - 4.0.0
-  lastUpdated: 20180312194458
+  lastUpdated: 20180314183119
