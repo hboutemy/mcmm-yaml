@@ -3,10 +3,12 @@
 groupId: org.onosproject
 artifactId: onos-apps-intentsync
 versioning:
-  latest: 1.12.0
-  release: 1.12.0
+  latest: 1.12.1-rc2
+  release: 1.12.1-rc2
   versions:
   - 1.12.0
+  - 1.12.1-rc1
+  - 1.12.1-rc2
   - 1.10.0
   - 1.10.0-rc1
   - 1.10.0-rc2
@@ -59,4 +61,4 @@ versioning:
   - 1.9.0-rc6
   - 1.9.1
   - 1.9.2
-  lastUpdated: 20180227175636
+  lastUpdated: 20180316042834

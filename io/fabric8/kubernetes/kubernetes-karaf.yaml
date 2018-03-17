@@ -3,8 +3,8 @@
 groupId: io.fabric8.kubernetes
 artifactId: kubernetes-karaf
 versioning:
-  latest: 3.1.8
-  release: 3.1.8
+  latest: 3.1.10
+  release: 3.1.10
   versions:
   - 1.3.40
   - 1.3.41
@@ -142,4 +142,5 @@ versioning:
   - 3.1.6
   - 3.1.7
   - 3.1.8
-  lastUpdated: 20180109173248
+  - 3.1.10
+  lastUpdated: 20180316095420
