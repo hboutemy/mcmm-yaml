@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-security-manager
 versioning:
-  latest: 4.0.0.Final
-  release: 4.0.0.Final
+  latest: 5.0.0.Alpha1
+  release: 5.0.0.Alpha1
   versions:
   - 3.0.0.Alpha14
   - 3.0.0.Alpha15
@@ -76,4 +76,5 @@ versioning:
   - 4.0.0.Beta2
   - 4.0.0.CR1
   - 4.0.0.Final
-  lastUpdated: 20180228215949
+  - 5.0.0.Alpha1
+  lastUpdated: 20180319135200
