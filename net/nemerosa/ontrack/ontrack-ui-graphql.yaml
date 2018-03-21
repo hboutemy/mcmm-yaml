@@ -3,8 +3,8 @@
 groupId: net.nemerosa.ontrack
 artifactId: ontrack-ui-graphql
 versioning:
-  latest: 3.34.11
-  release: 3.34.11
+  latest: 3.34.13
+  release: 3.34.13
   versions:
   - experimental-pipeline-a6e0b79
   - experimental-pipeline-a8ce70d
@@ -89,6 +89,7 @@ versioning:
   - 2.34.3
   - 2.34.4
   - 2.34.5
+  - 2.34.6
   - 3.0-beta.19
   - 3.0-beta.20
   - 3.0-beta.21
@@ -125,4 +126,6 @@ versioning:
   - 3.34.9
   - 3.34.10
   - 3.34.11
-  lastUpdated: 20180319222355
+  - 3.34.12
+  - 3.34.13
+  lastUpdated: 20180320221242
