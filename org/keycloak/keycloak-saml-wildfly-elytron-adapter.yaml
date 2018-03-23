@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-saml-wildfly-elytron-adapter
 versioning:
-  latest: 3.4.3.Final
-  release: 3.4.3.Final
+  latest: 4.0.0.Beta1
+  release: 4.0.0.Beta1
   versions:
   - 3.1.0.CR1
   - 3.1.0.Final
@@ -19,4 +19,5 @@ versioning:
   - 3.4.1.CR1
   - 3.4.1.Final
   - 3.4.3.Final
-  lastUpdated: 20180104100036
+  - 4.0.0.Beta1
+  lastUpdated: 20180322182250

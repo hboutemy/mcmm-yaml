@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-wildfly-subsystem
 versioning:
-  latest: 3.4.3.Final
-  release: 3.4.3.Final
+  latest: 4.0.0.Beta1
+  release: 4.0.0.Beta1
   versions:
   - 1.0-alpha-2
   - 1.0-alpha-3
@@ -72,4 +72,5 @@ versioning:
   - 3.4.1.CR1
   - 3.4.1.Final
   - 3.4.3.Final
-  lastUpdated: 20180104100140
+  - 4.0.0.Beta1
+  lastUpdated: 20180322182354
