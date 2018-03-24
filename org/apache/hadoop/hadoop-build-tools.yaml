@@ -3,8 +3,8 @@
 groupId: org.apache.hadoop
 artifactId: hadoop-build-tools
 versioning:
-  latest: 3.0.0
-  release: 3.0.0
+  latest: 3.0.1
+  release: 3.0.1
   versions:
   - 2.6.5
   - 2.7.3
@@ -21,4 +21,5 @@ versioning:
   - 3.0.0-alpha4
   - 3.0.0-beta1
   - 3.0.0
-  lastUpdated: 20171216020309
+  - 3.0.1
+  lastUpdated: 20180323190044

@@ -3,8 +3,8 @@
 groupId: org.apache.hadoop
 artifactId: hadoop-hdfs-nfs
 versioning:
-  latest: 3.0.0
-  release: 3.0.0
+  latest: 3.0.1
+  release: 3.0.1
   versions:
   - 2.1.0-beta
   - 2.1.1-beta
@@ -37,4 +37,5 @@ versioning:
   - 3.0.0-alpha4
   - 3.0.0-beta1
   - 3.0.0
-  lastUpdated: 20171216020315
+  - 3.0.1
+  lastUpdated: 20180323190046
