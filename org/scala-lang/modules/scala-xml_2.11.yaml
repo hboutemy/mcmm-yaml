@@ -3,8 +3,8 @@
 groupId: org.scala-lang.modules
 artifactId: scala-xml_2.11
 versioning:
-  latest: 1.1.0
-  release: 1.1.0
+  latest: 1.1.0-newCollectionsBootstrap
+  release: 1.1.0-newCollectionsBootstrap
   versions:
   - 1.0.1
   - 1.0.2
@@ -12,5 +12,6 @@ versioning:
   - 1.0.5
   - 1.0.6
   - 1.1.0
+  - 1.1.0-newCollectionsBootstrap
   - 1.0.4
-  lastUpdated: 20180220182841
+  lastUpdated: 20180324101742
