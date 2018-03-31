@@ -3,8 +3,8 @@
 groupId: com.google.cloud.bigdataoss
 artifactId: bigquery-connector
 versioning:
-  latest: 0.12.0-hadoop2
-  release: 0.12.0-hadoop2
+  latest: 0.12.1-hadoop2
+  release: 0.12.1-hadoop2
   versions:
   - 0.5.1-hadoop1
   - 0.5.1-hadoop2
@@ -50,4 +50,6 @@ versioning:
   - 0.11.0-hadoop2
   - 0.12.0-hadoop1
   - 0.12.0-hadoop2
-  lastUpdated: 20180319214928
+  - 0.12.1-hadoop1
+  - 0.12.1-hadoop2
+  lastUpdated: 20180330001629

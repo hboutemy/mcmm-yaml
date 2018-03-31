@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.nuiton.web
 artifactId: nuiton-web-parent
 versioning:
-  latest: 1.17
+  latest: 1.20
   release: 1.20
   versions:
   - 1.0
@@ -33,4 +34,4 @@ versioning:
   - 1.18
   - 1.19
   - 1.20
-  lastUpdated: 20171220131905
+  lastUpdated: 20180330172538

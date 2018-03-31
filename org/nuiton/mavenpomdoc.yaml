@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.nuiton
 artifactId: mavenpomdoc
 versioning:
-  latest: 5.2
+  latest: 7
   release: 7
   versions:
   - 3.3
@@ -52,4 +53,4 @@ versioning:
   - 6
   - 6.1
   - 7
-  lastUpdated: 20151207094022
+  lastUpdated: 20180330172846

@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.nuiton
 artifactId: mavenpom4redmine
 versioning:
-  latest: 5.2
+  latest: 7
   release: 7
   versions:
   - 2.0
@@ -100,4 +101,4 @@ versioning:
   - 6
   - 6.1
   - 7
-  lastUpdated: 20151207094015
+  lastUpdated: 20180330173452

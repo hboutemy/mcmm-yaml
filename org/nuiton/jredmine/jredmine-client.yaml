@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.nuiton.jredmine
 artifactId: jredmine-client
 versioning:
-  latest: 1.8.2
+  latest: 1.10
   release: 1.10
   versions:
   - 1.0.0
@@ -28,4 +29,4 @@ versioning:
   - 1.8.2
   - 1.9
   - 1.10
-  lastUpdated: 20160912183206
+  lastUpdated: 20180330173250

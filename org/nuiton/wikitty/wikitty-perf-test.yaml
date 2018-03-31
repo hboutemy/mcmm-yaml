@@ -1,11 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.nuiton.wikitty
 artifactId: wikitty-perf-test
 versioning:
+  latest: 3.13
   release: 3.13
   versions:
   - 3.12
   - 3.12.1
   - 3.13
-  lastUpdated: 20150806210826
+  lastUpdated: 20180330172005

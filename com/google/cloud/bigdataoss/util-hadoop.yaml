@@ -3,8 +3,8 @@
 groupId: com.google.cloud.bigdataoss
 artifactId: util-hadoop
 versioning:
-  latest: 1.8.0-hadoop2
-  release: 1.8.0-hadoop2
+  latest: 1.8.1-hadoop2
+  release: 1.8.1-hadoop2
   versions:
   - 1.4.0-hadoop1
   - 1.4.0-hadoop2
@@ -44,4 +44,6 @@ versioning:
   - 1.7.0-hadoop2
   - 1.8.0-hadoop1
   - 1.8.0-hadoop2
-  lastUpdated: 20180319214931
+  - 1.8.1-hadoop1
+  - 1.8.1-hadoop2
+  lastUpdated: 20180330001634
