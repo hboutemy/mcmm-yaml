@@ -3,8 +3,11 @@
 groupId: com.hhandoko
 artifactId: cassandra-migration
 versioning:
-  latest: 0.12
-  release: 0.12
+  latest: 0.14
+  release: 0.14
   versions:
   - 0.12
-  lastUpdated: 20180330053143
+  - 0.12.1
+  - 0.13
+  - 0.14
+  lastUpdated: 20180331125604
