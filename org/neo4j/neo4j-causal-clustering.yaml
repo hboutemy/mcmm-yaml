@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-causal-clustering
 versioning:
-  latest: 3.4.0-alpha10
-  release: 3.4.0-alpha10
+  latest: 3.4.0-beta01
+  release: 3.4.0-beta01
   versions:
   - 3.1.0-M13-beta3
   - 3.1.0-RC1
@@ -64,4 +64,5 @@ versioning:
   - 3.4.0-alpha08
   - 3.4.0-alpha09
   - 3.4.0-alpha10
-  lastUpdated: 20180320131312
+  - 3.4.0-beta01
+  lastUpdated: 20180403105046

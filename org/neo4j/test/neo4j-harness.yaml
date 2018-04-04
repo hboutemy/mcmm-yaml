@@ -3,8 +3,8 @@
 groupId: org.neo4j.test
 artifactId: neo4j-harness
 versioning:
-  latest: 3.4.0-alpha10
-  release: 3.4.0-alpha10
+  latest: 3.4.0-beta01
+  release: 3.4.0-beta01
   versions:
   - 2.1.6
   - 2.1.7
@@ -131,4 +131,5 @@ versioning:
   - 3.4.0-alpha08
   - 3.4.0-alpha09
   - 3.4.0-alpha10
-  lastUpdated: 20180320131419
+  - 3.4.0-beta01
+  lastUpdated: 20180403105136

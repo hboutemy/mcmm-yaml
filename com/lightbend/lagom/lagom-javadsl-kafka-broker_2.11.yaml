@@ -3,8 +3,8 @@
 groupId: com.lightbend.lagom
 artifactId: lagom-javadsl-kafka-broker_2.11
 versioning:
-  latest: 1.4.4
-  release: 1.4.4
+  latest: 1.4.5-M1
+  release: 1.4.5-M1
   versions:
   - 1.2.0-RC1
   - 1.2.0-RC2
@@ -39,4 +39,5 @@ versioning:
   - 1.4.2
   - 1.4.3
   - 1.4.4
-  lastUpdated: 20180327232259
+  - 1.4.5-M1
+  lastUpdated: 20180403170345

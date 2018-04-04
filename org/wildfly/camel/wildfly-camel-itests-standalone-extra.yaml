@@ -3,8 +3,8 @@
 groupId: org.wildfly.camel
 artifactId: wildfly-camel-itests-standalone-extra
 versioning:
-  latest: 5.1.0
-  release: 5.1.0
+  latest: 6.0.0
+  release: 6.0.0
   versions:
   - 2.3.0.redhat-621084
   - 2.3.0.redhat-621090
@@ -36,4 +36,5 @@ versioning:
   - 4.9.0
   - 5.0.0
   - 5.1.0
-  lastUpdated: 20180201150331
+  - 6.0.0
+  lastUpdated: 20180403132019
