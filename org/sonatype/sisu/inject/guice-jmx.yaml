@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.sonatype.sisu.inject
 artifactId: guice-jmx
 versioning:
-  latest: 3.2.6
-  release: 3.2.6
+  latest: 4.2.0
+  release: 4.2.0
   versions:
   - 2.9.0
   - 2.9.1
@@ -36,4 +36,5 @@ versioning:
   - 3.2.4
   - 3.2.5
   - 3.2.6
-  lastUpdated: 20150425182847
+  - 4.2.0
+  lastUpdated: 20180404115007

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.apimgt
 artifactId: apimgt
 versioning:
-  latest: 7.0.140
-  release: 7.0.140
+  latest: 7.0.141
+  release: 7.0.141
   versions:
   - 6.1.113
   - 6.1.114
@@ -251,6 +251,9 @@ versioning:
   - 6.2.208
   - 6.2.209
   - 6.2.210
+  - 6.2.211
+  - 6.2.212
+  - 6.2.213
   - 7.0.43
   - 7.0.44
   - 7.0.45
@@ -348,5 +351,6 @@ versioning:
   - 7.0.138
   - 7.0.139
   - 7.0.140
+  - 7.0.141
   - 6.2.182
-  lastUpdated: 20180403150609
+  lastUpdated: 20180404115230
