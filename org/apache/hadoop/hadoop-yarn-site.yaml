@@ -3,8 +3,8 @@
 groupId: org.apache.hadoop
 artifactId: hadoop-yarn-site
 versioning:
-  latest: 3.0.1
-  release: 3.0.1
+  latest: 3.1.0
+  release: 3.1.0
   versions:
   - 0.23.1
   - 0.23.3
@@ -55,4 +55,5 @@ versioning:
   - 3.0.0-beta1
   - 3.0.0
   - 3.0.1
-  lastUpdated: 20180323190055
+  - 3.1.0
+  lastUpdated: 20180405225441
