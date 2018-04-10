@@ -3,8 +3,8 @@
 groupId: io.zipkin.aws
 artifactId: zipkin-autoconfigure-collector-sqs
 versioning:
-  latest: 0.9.0
-  release: 0.9.0
+  latest: 0.9.1
+  release: 0.9.1
   versions:
   - 0.0.3
   - 0.2.0
@@ -39,4 +39,5 @@ versioning:
   - 0.8.10
   - 0.8.11
   - 0.9.0
-  lastUpdated: 20180329070223
+  - 0.9.1
+  lastUpdated: 20180409060138
