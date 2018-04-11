@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.examples
 artifactId: osgi-http-service
 versioning:
-  latest: 2.26
-  release: 2.26
+  latest: 2.27
+  release: 2.27
   versions:
   - 2.0-m03
   - 2.0-m04
@@ -85,4 +85,5 @@ versioning:
   - 2.26-b08
   - 2.26-b09
   - 2.26
-  lastUpdated: 20170906150159
+  - 2.27
+  lastUpdated: 20180410113506
