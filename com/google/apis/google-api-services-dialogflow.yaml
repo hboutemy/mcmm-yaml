@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-dialogflow
 versioning:
-  latest: v2-rev4-1.23.0
-  release: v2-rev4-1.23.0
+  latest: v2-rev6-1.23.0
+  release: v2-rev6-1.23.0
   versions:
   - v2beta1-rev2-1.18.0-rc
   - v2beta1-rev2-1.21.0
@@ -74,6 +74,10 @@ versioning:
   - v2beta1-rev22-1.21.0
   - v2beta1-rev22-1.22.0
   - v2beta1-rev22-1.23.0
+  - v2beta1-rev24-1.18.0-rc
+  - v2beta1-rev24-1.21.0
+  - v2beta1-rev24-1.22.0
+  - v2beta1-rev24-1.23.0
   - v2-rev2-1.18.0-rc
   - v2-rev2-1.21.0
   - v2-rev2-1.22.0
@@ -86,4 +90,8 @@ versioning:
   - v2-rev4-1.21.0
   - v2-rev4-1.22.0
   - v2-rev4-1.23.0
-  lastUpdated: 20180405004240
+  - v2-rev6-1.18.0-rc
+  - v2-rev6-1.21.0
+  - v2-rev6-1.22.0
+  - v2-rev6-1.23.0
+  lastUpdated: 20180411051820

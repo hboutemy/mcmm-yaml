@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.mangoo
 artifactId: mangooio-maven-archetype
 versioning:
-  latest: 4.12.0-RC2
-  release: 4.12.0-RC2
+  latest: 4.12.0-RC3
+  release: 4.12.0-RC3
   versions:
   - 1.0.0-RC4
   - 1.0.0-RC5
@@ -159,5 +159,6 @@ versioning:
   - 4.12.0-Beta4
   - 4.12.0-Beta5
   - 4.12.0-RC2
+  - 4.12.0-RC3
   - 4.0.0-Aplha1
-  lastUpdated: 20180410125057
+  lastUpdated: 20180411080102
