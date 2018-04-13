@@ -3,8 +3,8 @@
 groupId: org.wildfly.openssl
 artifactId: wildfly-openssl-windows-x86_64
 versioning:
-  latest: 1.0.4.Final
-  release: 1.0.4.Final
+  latest: 1.0.6.Final
+  release: 1.0.6.Final
   versions:
   - 1.0.0.Alpha5
   - 1.0.0.Alpha6
@@ -23,4 +23,6 @@ versioning:
   - 1.0.2.Final
   - 1.0.3.Final
   - 1.0.4.Final
-  lastUpdated: 20180305003925
+  - 1.0.5.Final
+  - 1.0.6.Final
+  lastUpdated: 20180412045840
