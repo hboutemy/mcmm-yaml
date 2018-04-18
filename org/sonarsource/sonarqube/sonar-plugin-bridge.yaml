@@ -3,8 +3,8 @@
 groupId: org.sonarsource.sonarqube
 artifactId: sonar-plugin-bridge
 versioning:
-  latest: 7.0
-  release: 7.0
+  latest: 7.1
+  release: 7.1
   versions:
   - 5.5-RC1
   - 5.5-RC2
@@ -47,4 +47,5 @@ versioning:
   - 6.7.3
   - 7.0-RC1
   - 7.0
-  lastUpdated: 20180406163346
+  - 7.1
+  lastUpdated: 20180417094057

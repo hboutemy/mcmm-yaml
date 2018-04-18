@@ -3,8 +3,8 @@
 groupId: com.oracle.truffle
 artifactId: truffle-api
 versioning:
-  latest: 0.33
-  release: 0.33
+  latest: 1.0.0-rc1
+  release: 1.0.0-rc1
   versions:
   - 0.9
   - 0.10
@@ -32,4 +32,5 @@ versioning:
   - 0.31
   - 0.32
   - 0.33
-  lastUpdated: 20180403090802
+  - 1.0.0-rc1
+  lastUpdated: 20180417130615
