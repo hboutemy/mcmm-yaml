@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-runtimeconfig
 versioning:
-  latest: v1-rev416-1.23.0
-  release: v1-rev416-1.23.0
+  latest: v1-rev417-1.23.0
+  release: v1-rev417-1.23.0
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.20.0
@@ -196,6 +196,10 @@ versioning:
   - v1beta1-rev431-1.21.0
   - v1beta1-rev431-1.22.0
   - v1beta1-rev431-1.23.0
+  - v1beta1-rev432-1.18.0-rc
+  - v1beta1-rev432-1.21.0
+  - v1beta1-rev432-1.22.0
+  - v1beta1-rev432-1.23.0
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.20.0
   - v1-rev1-1.21.0
@@ -314,4 +318,8 @@ versioning:
   - v1-rev416-1.21.0
   - v1-rev416-1.22.0
   - v1-rev416-1.23.0
-  lastUpdated: 20180327044112
+  - v1-rev417-1.18.0-rc
+  - v1-rev417-1.21.0
+  - v1-rev417-1.22.0
+  - v1-rev417-1.23.0
+  lastUpdated: 20180418054905

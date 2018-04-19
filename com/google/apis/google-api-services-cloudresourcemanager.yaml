@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-cloudresourcemanager
 versioning:
-  latest: v2-rev6-1.23.0
-  release: v2-rev6-1.23.0
+  latest: v2-rev7-1.23.0
+  release: v2-rev7-1.23.0
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.19.0
@@ -400,6 +400,10 @@ versioning:
   - v1beta1-rev483-1.21.0
   - v1beta1-rev483-1.22.0
   - v1beta1-rev483-1.23.0
+  - v1beta1-rev484-1.18.0-rc
+  - v1beta1-rev484-1.21.0
+  - v1beta1-rev484-1.22.0
+  - v1beta1-rev484-1.23.0
   - v1-rev2-1.18.0-rc
   - v1-rev2-1.19.1
   - v1-rev2-1.20.0
@@ -776,6 +780,10 @@ versioning:
   - v1-rev479-1.21.0
   - v1-rev479-1.22.0
   - v1-rev479-1.23.0
+  - v1-rev480-1.18.0-rc
+  - v1-rev480-1.21.0
+  - v1-rev480-1.22.0
+  - v1-rev480-1.23.0
   - v2beta1-rev1-1.18.0-rc
   - v2beta1-rev1-1.20.0
   - v2beta1-rev1-1.21.0
@@ -891,6 +899,10 @@ versioning:
   - v2beta1-rev39-1.21.0
   - v2beta1-rev39-1.22.0
   - v2beta1-rev39-1.23.0
+  - v2beta1-rev40-1.18.0-rc
+  - v2beta1-rev40-1.21.0
+  - v2beta1-rev40-1.22.0
+  - v2beta1-rev40-1.23.0
   - v2-rev1-1.18.0-rc
   - v2-rev1-1.21.0
   - v2-rev1-1.22.0
@@ -911,4 +923,8 @@ versioning:
   - v2-rev6-1.21.0
   - v2-rev6-1.22.0
   - v2-rev6-1.23.0
-  lastUpdated: 20180413170804
+  - v2-rev7-1.18.0-rc
+  - v2-rev7-1.21.0
+  - v2-rev7-1.22.0
+  - v2-rev7-1.23.0
+  lastUpdated: 20180418073352
