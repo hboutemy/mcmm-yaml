@@ -3,8 +3,8 @@
 groupId: io.fabric8
 artifactId: elasticsearch-cloud-kubernetes
 versioning:
-  latest: 5.5.2
-  release: 5.5.2
+  latest: 6.2.3.1
+  release: 6.2.3.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -47,4 +47,5 @@ versioning:
   - 5.5.0
   - 5.5.1
   - 5.5.2
-  lastUpdated: 20170905161120
+  - 6.2.3.1
+  lastUpdated: 20180419135208
