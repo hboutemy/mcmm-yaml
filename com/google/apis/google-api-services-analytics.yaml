@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-analytics
 versioning:
-  latest: v3-rev147-1.23.0
-  release: v3-rev147-1.23.0
+  latest: v3-rev148-1.23.0
+  release: v3-rev148-1.23.0
   versions:
   - v2.4-rev31-1.13.2-beta
   - v2.4-rev31-1.14.1-beta
@@ -366,6 +366,10 @@ versioning:
   - v2.4-rev124-1.21.0
   - v2.4-rev124-1.22.0
   - v2.4-rev124-1.23.0
+  - v2.4-rev125-1.18.0-rc
+  - v2.4-rev125-1.21.0
+  - v2.4-rev125-1.22.0
+  - v2.4-rev125-1.23.0
   - v3-rev34-1.13.2-beta
   - v3-rev34-1.14.1-beta
   - v3-rev35-1.13.2-beta
@@ -772,4 +776,8 @@ versioning:
   - v3-rev147-1.21.0
   - v3-rev147-1.22.0
   - v3-rev147-1.23.0
-  lastUpdated: 20180410050236
+  - v3-rev148-1.18.0-rc
+  - v3-rev148-1.21.0
+  - v3-rev148-1.22.0
+  - v3-rev148-1.23.0
+  lastUpdated: 20180420060137
