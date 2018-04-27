@@ -3,8 +3,8 @@
 groupId: org.neo4j.build
 artifactId: licensecheck-config
 versioning:
-  latest: 3.4.0-beta02
-  release: 3.4.0-beta02
+  latest: 3.4.0-rc01
+  release: 3.4.0-rc01
   versions:
   - 1.9.RC1
   - 1.9.RC2
@@ -170,4 +170,5 @@ versioning:
   - 3.4.0-alpha10
   - 3.4.0-beta01
   - 3.4.0-beta02
-  lastUpdated: 20180423163931
+  - 3.4.0-rc01
+  lastUpdated: 20180426163228

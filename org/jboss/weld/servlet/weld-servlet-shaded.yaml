@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld.servlet
 artifactId: weld-servlet-shaded
 versioning:
-  latest: 3.0.3.Final
-  release: 3.0.3.Final
+  latest: 3.0.4.Final
+  release: 3.0.4.Final
   versions:
   - 3.0.0.Alpha2
   - 3.0.0.Alpha3
@@ -30,4 +30,5 @@ versioning:
   - 3.0.1.Final
   - 3.0.2.Final
   - 3.0.3.Final
-  lastUpdated: 20180208151755
+  - 3.0.4.Final
+  lastUpdated: 20180426100710

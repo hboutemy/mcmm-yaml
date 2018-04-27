@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: cypher-enterprise-parent
 versioning:
-  latest: 3.4.0-beta02
-  release: 3.4.0-beta02
+  latest: 3.4.0-rc01
+  release: 3.4.0-rc01
   versions:
   - 3.2.0-rc3
   - 3.2.0
@@ -47,4 +47,5 @@ versioning:
   - 3.4.0-alpha10
   - 3.4.0-beta01
   - 3.4.0-beta02
-  lastUpdated: 20180423163932
+  - 3.4.0-rc01
+  lastUpdated: 20180426163229

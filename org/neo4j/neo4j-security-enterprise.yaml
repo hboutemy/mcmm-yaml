@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-security-enterprise
 versioning:
-  latest: 3.4.0-beta02
-  release: 3.4.0-beta02
+  latest: 3.4.0-rc01
+  release: 3.4.0-rc01
   versions:
   - 3.1.0-BETA1
   - 3.1.0-M02
@@ -79,4 +79,5 @@ versioning:
   - 3.4.0-alpha10
   - 3.4.0-beta01
   - 3.4.0-beta02
-  lastUpdated: 20180423164020
+  - 3.4.0-rc01
+  lastUpdated: 20180426163301

@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-graph-algo
 versioning:
-  latest: 3.4.0-beta02
-  release: 3.4.0-beta02
+  latest: 3.4.0-rc01
+  release: 3.4.0-rc01
   versions:
   - 0.7-1.2.M01
   - 0.7-1.2.M02
@@ -228,4 +228,5 @@ versioning:
   - 3.4.0-alpha10
   - 3.4.0-beta01
   - 3.4.0-beta02
-  lastUpdated: 20180423164000
+  - 3.4.0-rc01
+  lastUpdated: 20180426163248

@@ -3,8 +3,8 @@
 groupId: org.neo4j.app
 artifactId: neo4j-server-enterprise
 versioning:
-  latest: 3.4.0-beta02
-  release: 3.4.0-beta02
+  latest: 3.4.0-rc01
+  release: 3.4.0-rc01
   versions:
   - 1.7.2
   - 1.8.M02
@@ -187,4 +187,5 @@ versioning:
   - 3.4.0-alpha10
   - 3.4.0-beta01
   - 3.4.0-beta02
-  lastUpdated: 20180423163928
+  - 3.4.0-rc01
+  lastUpdated: 20180426163227
