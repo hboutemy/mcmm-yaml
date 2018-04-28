@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.hibernate
 artifactId: hibernate-hikaricp
 versioning:
-  latest: 5.3.0.Beta1
-  release: 5.3.0.Beta1
+  latest: 5.3.0.CR2
+  release: 5.3.0.CR2
   versions:
   - 4.3.6.Final
   - 4.3.7.Final
@@ -44,7 +45,6 @@ versioning:
   - 5.1.10.Final
   - 5.1.11.Final
   - 5.1.12.Final
-  - 5.1.13.Final
   - 5.2.0.Final
   - 5.2.1.Final
   - 5.2.2.Final
@@ -58,12 +58,14 @@ versioning:
   - 5.2.10.Final
   - 5.2.11.Final
   - 5.2.12.Final
+  - 5.3.0.Beta1
+  - 5.3.0.Beta2
+  - 5.3.0.CR1
+  - 5.3.0.CR2
+  - 5.1.13.Final
   - 5.2.13.Final
   - 5.2.14.Final
   - 5.2.15.Final
   - 5.2.16.Final
   - 5.2.17.Final
-  - 5.3.0.Beta1
-  - 5.3.0.Beta2
-  - 5.3.0.CR1
-  lastUpdated: 20180426103706
+  lastUpdated: 20180427171021
