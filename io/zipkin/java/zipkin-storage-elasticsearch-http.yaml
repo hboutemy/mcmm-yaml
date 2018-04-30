@@ -3,8 +3,8 @@
 groupId: io.zipkin.java
 artifactId: zipkin-storage-elasticsearch-http
 versioning:
-  latest: 2.8.1
-  release: 2.8.1
+  latest: 2.8.2
+  release: 2.8.2
   versions:
   - 1.12.0
   - 1.12.1
@@ -89,4 +89,5 @@ versioning:
   - 2.7.5
   - 2.8.0
   - 2.8.1
-  lastUpdated: 20180428061240
+  - 2.8.2
+  lastUpdated: 20180429122759

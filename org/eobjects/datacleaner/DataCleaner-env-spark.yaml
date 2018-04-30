@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.eobjects.datacleaner
 artifactId: DataCleaner-env-spark
 versioning:
-  latest: 5.2.1
-  release: 5.2.1
+  latest: 5.4.1
+  release: 5.4.1
   versions:
   - 4.5-RC1
   - 4.5-RC2
@@ -35,5 +35,6 @@ versioning:
   - 5.2.0-RC2
   - 5.2.0
   - 5.2.1
+  - 5.4.1
   - 6.0.0
-  lastUpdated: 20170727012846
+  lastUpdated: 20180429161108
