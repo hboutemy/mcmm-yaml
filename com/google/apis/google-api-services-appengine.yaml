@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-appengine
 versioning:
-  latest: v1-rev60-1.23.0
-  release: v1-rev60-1.23.0
+  latest: v1-rev61-1.23.0
+  release: v1-rev61-1.23.0
   versions:
   - v1alpha-rev1-1.18.0-rc
   - v1alpha-rev1-1.20.0
@@ -211,6 +211,10 @@ versioning:
   - v1alpha-rev55-1.21.0
   - v1alpha-rev55-1.22.0
   - v1alpha-rev55-1.23.0
+  - v1alpha-rev56-1.18.0-rc
+  - v1alpha-rev56-1.21.0
+  - v1alpha-rev56-1.22.0
+  - v1alpha-rev56-1.23.0
   - v1beta4-rev1-1.18.0-rc
   - v1beta4-rev1-1.19.0
   - v1beta4-rev1-1.19.1
@@ -505,6 +509,10 @@ versioning:
   - v1beta4-rev77-1.21.0
   - v1beta4-rev77-1.22.0
   - v1beta4-rev77-1.23.0
+  - v1beta4-rev78-1.18.0-rc
+  - v1beta4-rev78-1.21.0
+  - v1beta4-rev78-1.22.0
+  - v1beta4-rev78-1.23.0
   - v1beta5-rev1-1.18.0-rc
   - v1beta5-rev1-1.19.1
   - v1beta5-rev1-1.20.0
@@ -766,6 +774,10 @@ versioning:
   - v1beta5-rev68-1.21.0
   - v1beta5-rev68-1.22.0
   - v1beta5-rev68-1.23.0
+  - v1beta5-rev69-1.18.0-rc
+  - v1beta5-rev69-1.21.0
+  - v1beta5-rev69-1.22.0
+  - v1beta5-rev69-1.23.0
   - v1beta-rev1-1.18.0-rc
   - v1beta-rev1-1.20.0
   - v1beta-rev1-1.21.0
@@ -966,6 +978,10 @@ versioning:
   - v1beta-rev54-1.21.0
   - v1beta-rev54-1.22.0
   - v1beta-rev54-1.23.0
+  - v1beta-rev55-1.18.0-rc
+  - v1beta-rev55-1.21.0
+  - v1beta-rev55-1.22.0
+  - v1beta-rev55-1.23.0
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.20.0
   - v1-rev1-1.21.0
@@ -1189,4 +1205,8 @@ versioning:
   - v1-rev60-1.21.0
   - v1-rev60-1.22.0
   - v1-rev60-1.23.0
-  lastUpdated: 20180425110508
+  - v1-rev61-1.18.0-rc
+  - v1-rev61-1.21.0
+  - v1-rev61-1.22.0
+  - v1-rev61-1.23.0
+  lastUpdated: 20180501223617

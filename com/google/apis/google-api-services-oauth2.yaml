@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-oauth2
 versioning:
-  latest: v2-rev134-1.23.0
-  release: v2-rev134-1.23.0
+  latest: v2-rev137-1.18.0-rc
+  release: v2-rev137-1.18.0-rc
   versions:
   - v1-rev33-1.13.2-beta
   - v1-rev33-1.14.1-beta
@@ -345,6 +345,9 @@ versioning:
   - v1-rev139-1.21.0
   - v1-rev139-1.22.0
   - v1-rev139-1.23.0
+  - v1-rev141-1.21.0
+  - v1-rev141-1.22.0
+  - v1-rev141-1.23.0
   - v2-rev32-1.13.2-beta
   - v2-rev32-1.14.1-beta
   - v2-rev35-1.13.2-beta
@@ -726,4 +729,8 @@ versioning:
   - v2-rev134-1.21.0
   - v2-rev134-1.22.0
   - v2-rev134-1.23.0
-  lastUpdated: 20180215000750
+  - v2-rev136-1.21.0
+  - v2-rev136-1.22.0
+  - v2-rev136-1.23.0
+  - v2-rev137-1.18.0-rc
+  lastUpdated: 20180501180925
