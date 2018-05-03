@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-spring-boot-starter-parent
 versioning:
-  latest: 4.0.0.Beta1
-  release: 4.0.0.Beta1
+  latest: 4.0.0.Beta2
+  release: 4.0.0.Beta2
   versions:
   - 2.5.4.Final
   - 2.5.5.Final
@@ -24,4 +24,5 @@ versioning:
   - 3.4.1.Final
   - 3.4.3.Final
   - 4.0.0.Beta1
-  lastUpdated: 20180322182314
+  - 4.0.0.Beta2
+  lastUpdated: 20180502104236
