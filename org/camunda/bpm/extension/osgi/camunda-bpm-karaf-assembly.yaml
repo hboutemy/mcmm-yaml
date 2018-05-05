@@ -3,8 +3,8 @@
 groupId: org.camunda.bpm.extension.osgi
 artifactId: camunda-bpm-karaf-assembly
 versioning:
-  latest: 4.0.0
-  release: 4.0.0
+  latest: 4.1.0
+  release: 4.1.0
   versions:
   - 1.1.0
   - 1.2.0
@@ -12,4 +12,5 @@ versioning:
   - 2.0.0
   - 3.0.0
   - 4.0.0
-  lastUpdated: 20170623093930
+  - 4.1.0
+  lastUpdated: 20180504082622

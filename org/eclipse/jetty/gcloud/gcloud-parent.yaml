@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty.gcloud
 artifactId: gcloud-parent
 versioning:
-  latest: 9.4.10.RC1
-  release: 9.4.10.RC1
+  latest: 9.4.10.v20180503
+  release: 9.4.10.v20180503
   versions:
   - 9.3.5.v20151012
   - 9.3.6.v20151106
@@ -54,4 +54,5 @@ versioning:
   - 9.4.9.v20180320
   - 9.4.10.RC0
   - 9.4.10.RC1
-  lastUpdated: 20180426233851
+  - 9.4.10.v20180503
+  lastUpdated: 20180504194840

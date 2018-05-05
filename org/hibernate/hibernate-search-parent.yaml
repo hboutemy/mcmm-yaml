@@ -3,8 +3,8 @@
 groupId: org.hibernate
 artifactId: hibernate-search-parent
 versioning:
-  latest: 5.10.0.Beta2
-  release: 5.10.0.Beta2
+  latest: 5.10.0.CR1
+  release: 5.10.0.CR1
   versions:
   - 3.2.0.CR1
   - 3.2.0.Final
@@ -136,4 +136,5 @@ versioning:
   - 5.9.1.Final
   - 5.10.0.Beta1
   - 5.10.0.Beta2
-  lastUpdated: 20180412150559
+  - 5.10.0.CR1
+  lastUpdated: 20180504135306
