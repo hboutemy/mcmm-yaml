@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-version
 versioning:
-  latest: 5.0.0.Alpha5
-  release: 5.0.0.Alpha5
+  latest: 5.0.0.Alpha7
+  release: 5.0.0.Alpha7
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -186,4 +186,6 @@ versioning:
   - 5.0.0.Alpha3
   - 5.0.0.Alpha4
   - 5.0.0.Alpha5
-  lastUpdated: 20180504104934
+  - 5.0.0.Alpha6
+  - 5.0.0.Alpha7
+  lastUpdated: 20180508035849
