@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.integration
 artifactId: spring-integration-amqp
 versioning:
-  latest: 5.0.4.RELEASE
-  release: 5.0.4.RELEASE
+  latest: 5.0.5.RELEASE
+  release: 5.0.5.RELEASE
   versions:
   - 2.1.0.RELEASE
   - 2.1.1.RELEASE
@@ -85,5 +85,6 @@ versioning:
   - 5.0.2.RELEASE
   - 5.0.3.RELEASE
   - 5.0.4.RELEASE
+  - 5.0.5.RELEASE
   - 4.0.0.M3
-  lastUpdated: 20180508205651
+  lastUpdated: 20180508235732
