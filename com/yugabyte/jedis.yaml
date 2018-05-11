@@ -3,8 +3,8 @@
 groupId: com.yugabyte
 artifactId: jedis
 versioning:
-  latest: 2.9.0-yb-10
-  release: 2.9.0-yb-10
+  latest: 2.9.0-yb-11
+  release: 2.9.0-yb-11
   versions:
   - 2.9.0-yb-1
   - 2.9.0-yb-2
@@ -13,4 +13,5 @@ versioning:
   - 2.9.0-yb-6
   - 2.9.0-yb-9
   - 2.9.0-yb-10
-  lastUpdated: 20180509054812
+  - 2.9.0-yb-11
+  lastUpdated: 20180510191649

@@ -3,8 +3,8 @@
 groupId: net.manub
 artifactId: scalatest-embedded-kafka_2.11
 versioning:
-  latest: 1.1.0
-  release: 1.1.0
+  latest: 1.1.0-kafka1.1-nosr
+  release: 1.1.0-kafka1.1-nosr
   versions:
   - 0.2.1
   - 0.2.3
@@ -37,5 +37,6 @@ versioning:
   - 0.16.0
   - 1.0.0
   - 1.1.0
+  - 1.1.0-kafka1.1-nosr
   - 1.1.0-kafka1.1
-  lastUpdated: 20180314230929
+  lastUpdated: 20180510212350
