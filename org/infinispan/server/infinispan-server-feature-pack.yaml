@@ -3,8 +3,8 @@
 groupId: org.infinispan.server
 artifactId: infinispan-server-feature-pack
 versioning:
-  latest: 9.3.0.Alpha1
-  release: 9.3.0.Alpha1
+  latest: 9.3.0.Beta1
+  release: 9.3.0.Beta1
   versions:
   - 8.0.0.Beta1
   - 8.0.0.Beta2
@@ -76,5 +76,7 @@ versioning:
   - 9.2.0.Final
   - 9.2.1.Final
   - 9.2.2.Final
+  - 9.2.3.Final
   - 9.3.0.Alpha1
-  lastUpdated: 20180502083830
+  - 9.3.0.Beta1
+  lastUpdated: 20180511151539
