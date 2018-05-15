@@ -3,8 +3,8 @@
 groupId: net.nemerosa.ontrack
 artifactId: ontrack-extension-gitlab
 versioning:
-  latest: 3.34.17
-  release: 3.34.17
+  latest: 3.35.0
+  release: 3.35.0
   versions:
   - experimental-pipeline-a6e0b79
   - experimental-pipeline-a8ce70d
@@ -101,6 +101,7 @@ versioning:
   - 2.34.8
   - 2.34.9
   - 2.35-beta.0
+  - 2.35.0
   - 3.0-beta.16
   - 3.0-beta.17
   - 3.0-beta.18
@@ -146,4 +147,5 @@ versioning:
   - 3.34.15
   - 3.34.16
   - 3.34.17
-  lastUpdated: 20180513121359
+  - 3.35.0
+  lastUpdated: 20180514204925
