@@ -3,8 +3,8 @@
 groupId: com.github.jcustenborder.kafka.connect
 artifactId: kafka-connect-cassandra
 versioning:
-  latest: 0.1.9
-  release: 0.1.9
+  latest: 0.1.11
+  release: 0.1.11
   versions:
   - 0.1.1
   - 0.1.2
@@ -15,4 +15,6 @@ versioning:
   - 0.1.7
   - 0.1.8
   - 0.1.9
-  lastUpdated: 20180502173018
+  - 0.1.10
+  - 0.1.11
+  lastUpdated: 20180515173345

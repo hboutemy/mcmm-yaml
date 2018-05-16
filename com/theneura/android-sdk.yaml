@@ -3,9 +3,12 @@
 groupId: com.theneura
 artifactId: android-sdk
 versioning:
-  latest: 5.0.17-alpha
-  release: 5.0.17-alpha
+  latest: 5.0.17-alpha3
+  release: 5.0.17-alpha3
   versions:
+  - 2.0.12(test)
+  - 2.0.14(test)
+  - 2.0.15(test)
   - 3.9.8
   - 4.0.0
   - 4.0.1
@@ -70,6 +73,9 @@ versioning:
   - 5.0.14
   - 5.0.14(MDSF)
   - 5.0.15
+  - 5.0.16
   - 5.0.17-alpha
+  - 5.0.17-alpha2
+  - 5.0.17-alpha3
   - 4.3.1.1
-  lastUpdated: 20180514093553
+  lastUpdated: 20180515093549
