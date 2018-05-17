@@ -3,10 +3,11 @@
 groupId: org.springframework.cloud.task.app
 artifactId: task-app-starters-release-train-build
 versioning:
-  latest: Clark.RELEASE
-  release: Clark.RELEASE
+  latest: Clark.SR1
+  release: Clark.SR1
   versions:
   - Addison.RELEASE
   - Belmont.RELEASE
   - Clark.RELEASE
-  lastUpdated: 20171129001648
+  - Clark.SR1
+  lastUpdated: 20180516164855
