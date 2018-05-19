@@ -3,8 +3,8 @@
 groupId: org.deeplearning4j
 artifactId: dl4j-spark-parameterserver_2.11
 versioning:
-  latest: 1.0.0-alpha_spark_2
-  release: 1.0.0-alpha_spark_2
+  latest: 1.0.0-beta_spark_2
+  release: 1.0.0-beta_spark_2
   versions:
   - 0.7.0
   - 0.7.1
@@ -17,4 +17,6 @@ versioning:
   - 0.9.1_spark_2
   - 1.0.0-alpha_spark_1
   - 1.0.0-alpha_spark_2
-  lastUpdated: 20180406100730
+  - 1.0.0-beta_spark_1
+  - 1.0.0-beta_spark_2
+  lastUpdated: 20180518035932
