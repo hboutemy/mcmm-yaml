@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-oslogin
 versioning:
-  latest: v1-rev13-1.23.0
-  release: v1-rev13-1.23.0
+  latest: v1-rev14-1.23.0
+  release: v1-rev14-1.23.0
   versions:
   - v1alpha-rev1-1.18.0-rc
   - v1alpha-rev1-1.20.0
@@ -102,6 +102,10 @@ versioning:
   - v1alpha-rev28-1.21.0
   - v1alpha-rev28-1.22.0
   - v1alpha-rev28-1.23.0
+  - v1alpha-rev29-1.18.0-rc
+  - v1alpha-rev29-1.21.0
+  - v1alpha-rev29-1.22.0
+  - v1alpha-rev29-1.23.0
   - v1beta-rev1-1.18.0-rc
   - v1beta-rev1-1.20.0
   - v1beta-rev1-1.21.0
@@ -214,4 +218,8 @@ versioning:
   - v1-rev13-1.21.0
   - v1-rev13-1.22.0
   - v1-rev13-1.23.0
-  lastUpdated: 20180517082242
+  - v1-rev14-1.18.0-rc
+  - v1-rev14-1.21.0
+  - v1-rev14-1.22.0
+  - v1-rev14-1.23.0
+  lastUpdated: 20180523141240
