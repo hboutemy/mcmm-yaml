@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-server-dist
 versioning:
-  latest: 4.0.0.Beta2
-  release: 4.0.0.Beta2
+  latest: 4.0.0.Beta3
+  release: 4.0.0.Beta3
   versions:
   - 1.2.0.CR1
   - 1.2.0.Final
@@ -65,5 +65,6 @@ versioning:
   - 3.4.3.Final
   - 4.0.0.Beta1
   - 4.0.0.Beta2
+  - 4.0.0.Beta3
   - 1.5.0.Final
-  lastUpdated: 20180502104209
+  lastUpdated: 20180524134048
