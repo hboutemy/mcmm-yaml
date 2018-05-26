@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.hibernate
 artifactId: hibernate-proxool
 versioning:
-  latest: 5.3.0.Beta1
-  release: 5.3.0.Beta1
+  latest: 5.3.1.Final
+  release: 5.3.1.Final
   versions:
   - 3.3.0.CR1
   - 3.3.0.CR2
@@ -151,8 +151,6 @@ versioning:
   - 5.1.10.Final
   - 5.1.11.Final
   - 5.1.12.Final
-  - 5.1.13.Final
-  - 5.1.14.Final
   - 5.2.0.Final
   - 5.2.1.Final
   - 5.2.2.Final
@@ -166,15 +164,18 @@ versioning:
   - 5.2.10.Final
   - 5.2.11.Final
   - 5.2.12.Final
+  - 5.3.0.Beta1
+  - 5.3.0.Beta2
+  - 5.3.0.CR1
+  - 5.3.0.CR2
+  - 5.3.0.Final
+  - 5.3.1.Final
+  - 4.1.2
+  - 5.1.13.Final
+  - 5.1.14.Final
   - 5.2.13.Final
   - 5.2.14.Final
   - 5.2.15.Final
   - 5.2.16.Final
   - 5.2.17.Final
-  - 5.3.0.Beta1
-  - 4.1.2
-  - 5.3.0.Beta2
-  - 5.3.0.CR1
-  - 5.3.0.CR2
-  - 5.3.0.Final
-  lastUpdated: 20180511211442
+  lastUpdated: 20180525224728
