@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-graphdb-api
 versioning:
-  latest: 3.4.0
-  release: 3.4.0
+  latest: 3.5.0-alpha01
+  release: 3.5.0-alpha01
   versions:
   - 3.0.0-M03
   - 3.0.0-M04
@@ -100,4 +100,5 @@ versioning:
   - 3.4.0-rc01
   - 3.4.0-rc02
   - 3.4.0
-  lastUpdated: 20180515062737
+  - 3.5.0-alpha01
+  lastUpdated: 20180528063146

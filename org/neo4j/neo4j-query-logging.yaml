@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-query-logging
 versioning:
-  latest: 3.4.0
-  release: 3.4.0
+  latest: 3.5.0-alpha01
+  release: 3.5.0-alpha01
   versions:
   - 2.2.0-M03
   - 2.2.0-M04
@@ -133,4 +133,5 @@ versioning:
   - 3.4.0-rc01
   - 3.4.0-rc02
   - 3.4.0
-  lastUpdated: 20180515062756
+  - 3.5.0-alpha01
+  lastUpdated: 20180528063206
