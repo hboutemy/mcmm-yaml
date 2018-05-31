@@ -1,11 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.ce.portal.third.party
 versioning:
-  latest: 7.0.5
-  release: 7.0.5
+  latest: 7.0.6
+  release: 7.0.6
   versions:
-  - 7.0-GA7
   - 7.0.5
-  lastUpdated: 20180524221603
+  - 7.0.6
+  - 7.0-GA7
+  lastUpdated: 20180530175527

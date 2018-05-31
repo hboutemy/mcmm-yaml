@@ -3,8 +3,8 @@
 groupId: com.netflix.conductor
 artifactId: conductor-mysql-persistence
 versioning:
-  latest: 1.9.5
-  release: 1.9.5
+  latest: 1.9.6
+  release: 1.9.6
   versions:
   - 1.8.2-rc3
   - 1.8.2-rc4
@@ -27,4 +27,5 @@ versioning:
   - 1.9.3
   - 1.9.4
   - 1.9.5
-  lastUpdated: 20180523224408
+  - 1.9.6
+  lastUpdated: 20180530212606

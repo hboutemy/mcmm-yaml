@@ -3,8 +3,8 @@
 groupId: cd.go.plugin
 artifactId: go-plugin-api-experimental
 versioning:
-  latest: 18.6.0-6813
-  release: 18.6.0-6813
+  latest: 18.6.0-6847
+  release: 18.6.0-6847
   versions:
   - 15.1.0-1445
   - 15.1.0-1451
@@ -749,6 +749,9 @@ versioning:
   - 18.6.0-6759
   - 18.6.0-6769
   - 18.6.0-6813
+  - 18.6.0-6821
+  - 18.6.0-6845
+  - 18.6.0-6847
   - 15.2.0-2055
   - 15.2.0-2067
   - 15.2.0-2090
@@ -758,4 +761,4 @@ versioning:
   - 15.2.0-2145
   - 15.2.0-2149
   - 15.2.0-2153
-  lastUpdated: 20180529071010
+  lastUpdated: 20180530122410
