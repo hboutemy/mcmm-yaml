@@ -3,8 +3,8 @@
 groupId: org.wildfly.bom
 artifactId: wildfly
 versioning:
-  latest: 13.0.0.Alpha5
-  release: 13.0.0.Alpha5
+  latest: 13.0.0.Final
+  release: 13.0.0.Final
   versions:
   - 11.0.0.Alpha1
   - 11.0.0.Alpha2
@@ -19,4 +19,5 @@ versioning:
   - 13.0.0.Alpha2
   - 13.0.0.Alpha3
   - 13.0.0.Alpha5
-  lastUpdated: 20180326154522
+  - 13.0.0.Final
+  lastUpdated: 20180531043223

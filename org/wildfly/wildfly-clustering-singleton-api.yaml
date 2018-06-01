@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-clustering-singleton-api
 versioning:
-  latest: 13.0.0.Beta1
-  release: 13.0.0.Beta1
+  latest: 13.0.0.Final
+  release: 13.0.0.Final
   versions:
   - 10.0.0.Beta1
   - 10.0.0.Beta2
@@ -24,4 +24,5 @@ versioning:
   - 12.0.0.CR1
   - 12.0.0.Final
   - 13.0.0.Beta1
-  lastUpdated: 20180517223649
+  - 13.0.0.Final
+  lastUpdated: 20180531042146

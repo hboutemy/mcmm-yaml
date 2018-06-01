@@ -3,11 +3,12 @@
 groupId: org.wildfly.bom
 artifactId: ejb-client-bom
 versioning:
-  latest: 13.0.0.Alpha5
-  release: 13.0.0.Alpha5
+  latest: 13.0.0.Final
+  release: 13.0.0.Final
   versions:
   - 13.0.0.Alpha1
   - 13.0.0.Alpha2
   - 13.0.0.Alpha3
   - 13.0.0.Alpha5
-  lastUpdated: 20180326154520
+  - 13.0.0.Final
+  lastUpdated: 20180531043222
