@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.dashboards
 artifactId: org.wso2.carbon.dashboards.api.feature
 versioning:
-  latest: 4.0.15
-  release: 4.0.15
+  latest: 4.0.17
+  release: 4.0.17
   versions:
   - 4.0.0-alpha
   - 4.0.0.alpha2
@@ -45,4 +45,6 @@ versioning:
   - 4.0.12
   - 4.0.14
   - 4.0.15
-  lastUpdated: 20180315151211
+  - 4.0.16
+  - 4.0.17
+  lastUpdated: 20180601185726
