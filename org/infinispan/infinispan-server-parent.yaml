@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-server-parent
 versioning:
-  latest: 9.3.0.Beta1
-  release: 9.3.0.Beta1
+  latest: 9.3.0.CR1
+  release: 9.3.0.CR1
   versions:
   - 5.0.0.FINAL
   - 5.0.1.FINAL
@@ -188,4 +188,5 @@ versioning:
   - 9.2.4.Final
   - 9.3.0.Alpha1
   - 9.3.0.Beta1
-  lastUpdated: 20180527183807
+  - 9.3.0.CR1
+  lastUpdated: 20180601194834

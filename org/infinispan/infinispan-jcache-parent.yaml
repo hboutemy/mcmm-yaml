@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-jcache-parent
 versioning:
-  latest: 9.3.0.Beta1
-  release: 9.3.0.Beta1
+  latest: 9.3.0.CR1
+  release: 9.3.0.CR1
   versions:
   - 7.2.0.Beta1
   - 7.2.0.Beta2
@@ -91,4 +91,5 @@ versioning:
   - 9.2.4.Final
   - 9.3.0.Alpha1
   - 9.3.0.Beta1
-  lastUpdated: 20180527183739
+  - 9.3.0.CR1
+  lastUpdated: 20180601194804
