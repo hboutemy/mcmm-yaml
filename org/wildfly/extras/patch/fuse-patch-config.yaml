@@ -3,8 +3,8 @@
 groupId: org.wildfly.extras.patch
 artifactId: fuse-patch-config
 versioning:
-  latest: 4.0.0
-  release: 4.0.0
+  latest: 5.0.0
+  release: 5.0.0
   versions:
   - 1.6.0
   - 1.6.1
@@ -33,4 +33,5 @@ versioning:
   - 2.7.0.redhat-8
   - 3.0.0
   - 4.0.0
-  lastUpdated: 20180301094945
+  - 5.0.0
+  lastUpdated: 20180604140426
