@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-shaded
 versioning:
-  latest: 3.0
-  release: 3.0
+  latest: 4.0
+  release: 4.0
   versions:
   - 0.7.0-hadoop2-incubating
   - 0.7.0-incubating
@@ -15,4 +15,5 @@ versioning:
   - 1.0
   - 2.0
   - 3.0
-  lastUpdated: 20180228092540
+  - 4.0
+  lastUpdated: 20180606070008
