@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-deployment-repository
 versioning:
-  latest: 5.0.0.Final
-  release: 5.0.0.Final
+  latest: 6.0.0.Alpha1
+  release: 6.0.0.Alpha1
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -195,4 +195,5 @@ versioning:
   - 5.0.0.Beta5
   - 5.0.0.CR1
   - 5.0.0.Final
-  lastUpdated: 20180529110647
+  - 6.0.0.Alpha1
+  lastUpdated: 20180607112125

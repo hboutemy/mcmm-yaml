@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty
 artifactId: jetty-security
 versioning:
-  latest: 9.4.10.v20180503
-  release: 9.4.10.v20180503
+  latest: 9.4.11.v20180605
+  release: 9.4.11.v20180605
   versions:
   - 7.0.0.M0
   - 7.0.0.M1
@@ -218,6 +218,7 @@ versioning:
   - 9.3.21.v20170918
   - 9.3.22.v20171030
   - 9.3.23.v20180228
+  - 9.3.24.v20180605
   - 9.4.0.M0
   - 9.4.0.M1
   - 9.4.0.RC0
@@ -238,4 +239,5 @@ versioning:
   - 9.4.10.RC0
   - 9.4.10.RC1
   - 9.4.10.v20180503
-  lastUpdated: 20180504194901
+  - 9.4.11.v20180605
+  lastUpdated: 20180607173219

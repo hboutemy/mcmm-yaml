@@ -3,13 +3,14 @@
 groupId: org.eclipse.jetty
 artifactId: jetty-bom
 versioning:
-  latest: 9.4.10.v20180503
-  release: 9.4.10.v20180503
+  latest: 9.4.11.v20180605
+  release: 9.4.11.v20180605
   versions:
   - 9.3.19.v20170502
   - 9.3.21.RC0
   - 9.3.21.v20170918
   - 9.3.23.v20180228
+  - 9.3.24.v20180605
   - 9.4.5.v20170502
   - 9.4.7.RC0
   - 9.4.7.v20170914
@@ -18,4 +19,5 @@ versioning:
   - 9.4.10.RC0
   - 9.4.10.RC1
   - 9.4.10.v20180503
-  lastUpdated: 20180504194848
+  - 9.4.11.v20180605
+  lastUpdated: 20180607173157
