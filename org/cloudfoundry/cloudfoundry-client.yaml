@@ -3,8 +3,8 @@
 groupId: org.cloudfoundry
 artifactId: cloudfoundry-client
 versioning:
-  latest: 3.10.0.RELEASE
-  release: 3.10.0.RELEASE
+  latest: 3.11.0.RELEASE
+  release: 3.11.0.RELEASE
   versions:
   - 2.0.0.M1
   - 2.0.0.M2
@@ -51,6 +51,7 @@ versioning:
   - 2.27.0.RELEASE
   - 2.28.0.RELEASE
   - 2.29.0.RELEASE
+  - 2.30.0.RELEASE
   - 3.0.0.RELEASE
   - 3.1.0.RELEASE
   - 3.2.0.RELEASE
@@ -61,4 +62,5 @@ versioning:
   - 3.8.0.RELEASE
   - 3.9.0.RELEASE
   - 3.10.0.RELEASE
-  lastUpdated: 20180523165831
+  - 3.11.0.RELEASE
+  lastUpdated: 20180611213702
