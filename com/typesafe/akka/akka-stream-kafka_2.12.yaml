@@ -3,8 +3,8 @@
 groupId: com.typesafe.akka
 artifactId: akka-stream-kafka_2.12
 versioning:
-  latest: 0.21
-  release: 0.21
+  latest: 0.21.1
+  release: 0.21.1
   versions:
   - 0.13
   - 0.14
@@ -15,4 +15,5 @@ versioning:
   - 0.19
   - 0.20
   - 0.21
-  lastUpdated: 20180608051140
+  - 0.21.1
+  lastUpdated: 20180614151532

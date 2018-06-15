@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud.stream.app
 artifactId: app-starters-release-train-build
 versioning:
-  latest: Celsius.SR2
-  release: Celsius.SR2
+  latest: Celsius.SR3
+  release: Celsius.SR3
   versions:
   - Avogadro.RELEASE
   - Avogadro.SR1
@@ -12,4 +12,5 @@ versioning:
   - Celsius.RELEASE
   - Celsius.SR1
   - Celsius.SR2
-  lastUpdated: 20180509191227
+  - Celsius.SR3
+  lastUpdated: 20180614190143
