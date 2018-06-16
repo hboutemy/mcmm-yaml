@@ -3,8 +3,8 @@
 groupId: io.zipkin.gcp
 artifactId: zipkin-storage-stackdriver
 versioning:
-  latest: 0.6.0
-  release: 0.6.0
+  latest: 0.6.2
+  release: 0.6.2
   versions:
   - 0.1.1
   - 0.2.0
@@ -18,4 +18,6 @@ versioning:
   - 0.4.1
   - 0.5.0
   - 0.6.0
-  lastUpdated: 20180611142224
+  - 0.6.1
+  - 0.6.2
+  lastUpdated: 20180615084050
