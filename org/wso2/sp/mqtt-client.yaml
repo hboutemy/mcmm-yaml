@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.sp
 artifactId: mqtt-client
 versioning:
-  latest: 4.2.0-M7
-  release: 4.2.0-M7
+  latest: 4.2.0
+  release: 4.2.0
   versions:
   - 4.0.0-beta4
   - 4.0.0-beta5
@@ -31,5 +31,6 @@ versioning:
   - 4.2.0-M5
   - 4.2.0-M6
   - 4.2.0-M7
+  - 4.2.0
   - 4.0.0
-  lastUpdated: 20180608202738
+  lastUpdated: 20180616063309
