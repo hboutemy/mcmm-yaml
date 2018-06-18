@@ -3,8 +3,8 @@
 groupId: io.netty
 artifactId: netty-tcnative-boringssl-static
 versioning:
-  latest: 2.0.9.Final
-  release: 2.0.9.Final
+  latest: 2.0.10.Final
+  release: 2.0.10.Final
   versions:
   - 1.1.33.Fork13
   - 1.1.33.Fork14
@@ -37,4 +37,5 @@ versioning:
   - 2.0.7.Final
   - 2.0.8.Final
   - 2.0.9.Final
-  lastUpdated: 20180615092419
+  - 2.0.10.Final
+  lastUpdated: 20180617062258
