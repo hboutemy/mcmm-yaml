@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.fabric8
 artifactId: tooling
 versioning:
-  latest: 3.0.11
-  release: 3.0.11
+  latest: 3.0.12
+  release: 3.0.12
   versions:
   - 2.0.0
   - 2.0.1
@@ -276,6 +276,7 @@ versioning:
   - 3.0.7
   - 3.0.8
   - 3.0.11
+  - 3.0.12
   - 1.1.0.Beta1
   - 1.1.0.Beta2
   - 1.1.0.Beta3
@@ -292,4 +293,4 @@ versioning:
   - 1.2.0.Beta3
   - 1.2.0.Beta4
   - 1.2.0.redhat-133
-  lastUpdated: 20180312195934
+  lastUpdated: 20180618175545

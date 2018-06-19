@@ -3,8 +3,8 @@
 groupId: org.sonarsource.sonarqube
 artifactId: sonar-server
 versioning:
-  latest: 7.1
-  release: 7.1
+  latest: 7.2
+  release: 7.2
   versions:
   - 5.2-RC3
   - 5.2-RC4
@@ -56,4 +56,5 @@ versioning:
   - 7.0-RC1
   - 7.0
   - 7.1
-  lastUpdated: 20180530092227
+  - 7.2
+  lastUpdated: 20180618143137
