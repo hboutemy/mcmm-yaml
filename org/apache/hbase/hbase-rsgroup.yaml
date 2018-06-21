@@ -3,14 +3,15 @@
 groupId: org.apache.hbase
 artifactId: hbase-rsgroup
 versioning:
-  latest: 2.0.0
-  release: 2.0.0
+  latest: 2.0.1
+  release: 2.0.1
   versions:
   - 1.4.0
   - 1.4.1
   - 1.4.2
   - 1.4.3
   - 1.4.4
+  - 1.4.5
   - 2.0.0-alpha-1
   - 2.0.0-alpha2
   - 2.0.0-alpha3
@@ -18,4 +19,5 @@ versioning:
   - 2.0.0-beta-1
   - 2.0.0-beta-2
   - 2.0.0
-  lastUpdated: 20180503175621
+  - 2.0.1
+  lastUpdated: 20180620185215
