@@ -3,10 +3,11 @@
 groupId: org.springframework.cloud.stream.app
 artifactId: filter-processor-kafka
 versioning:
-  latest: 1.1.0.RELEASE
-  release: 1.1.0.RELEASE
+  latest: 2.0.0.RELEASE
+  release: 2.0.0.RELEASE
   versions:
   - 1.0.2.RELEASE
   - 1.0.4.RELEASE
   - 1.1.0.RELEASE
-  lastUpdated: 20161129023811
+  - 2.0.0.RELEASE
+  lastUpdated: 20180621185628

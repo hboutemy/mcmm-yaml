@@ -3,10 +3,11 @@
 groupId: org.springframework.cloud.stream.app
 artifactId: task-launcher-cloudfoundry-sink-rabbit
 versioning:
-  latest: 1.3.1.RELEASE
-  release: 1.3.1.RELEASE
+  latest: 2.0.0.RELEASE
+  release: 2.0.0.RELEASE
   versions:
   - 1.2.0.RELEASE
   - 1.3.0.RELEASE
   - 1.3.1.RELEASE
-  lastUpdated: 20180104011234
+  - 2.0.0.RELEASE
+  lastUpdated: 20180621194946
