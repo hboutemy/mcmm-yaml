@@ -3,8 +3,8 @@
 groupId: org.apache.cxf.systests.wsdl_maven
 artifactId: cxf-systests-java2ws
 versioning:
-  latest: 3.2.4
-  release: 3.2.4
+  latest: 3.2.5
+  release: 3.2.5
   versions:
   - 2.2.5
   - 2.2.6
@@ -121,9 +121,11 @@ versioning:
   - 3.1.13
   - 3.1.14
   - 3.1.15
+  - 3.1.16
   - 3.2.0
   - 3.2.1
   - 3.2.2
   - 3.2.3
   - 3.2.4
-  lastUpdated: 20180325173239
+  - 3.2.5
+  lastUpdated: 20180622130935
