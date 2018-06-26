@@ -3,8 +3,8 @@
 groupId: com.arangodb
 artifactId: arangodb-spring-data
 versioning:
-  latest: 2.1.7
-  release: 2.1.7
+  latest: 2.1.8
+  release: 2.1.8
   versions:
   - 1.0.0
   - 1.0.1
@@ -16,6 +16,7 @@ versioning:
   - 1.1.4
   - 1.1.5
   - 1.1.6
+  - 1.1.7
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -28,4 +29,5 @@ versioning:
   - 2.1.5
   - 2.1.6
   - 2.1.7
-  lastUpdated: 20180615061033
+  - 2.1.8
+  lastUpdated: 20180625125622

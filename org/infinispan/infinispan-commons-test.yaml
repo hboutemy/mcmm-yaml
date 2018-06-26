@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-commons-test
 versioning:
-  latest: 9.3.0.CR1
-  release: 9.3.0.CR1
+  latest: 9.3.0.Final
+  release: 9.3.0.Final
   versions:
   - 9.0.0.Alpha2
   - 9.0.0.Alpha3
@@ -46,4 +46,5 @@ versioning:
   - 9.3.0.Alpha1
   - 9.3.0.Beta1
   - 9.3.0.CR1
-  lastUpdated: 20180611171939
+  - 9.3.0.Final
+  lastUpdated: 20180625111008

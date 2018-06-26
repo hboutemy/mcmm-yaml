@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-tasks
 versioning:
-  latest: 9.3.0.CR1
-  release: 9.3.0.CR1
+  latest: 9.3.0.Final
+  release: 9.3.0.Final
   versions:
   - 8.1.0.Final
   - 8.1.1.Final
@@ -71,4 +71,5 @@ versioning:
   - 9.3.0.Alpha1
   - 9.3.0.Beta1
   - 9.3.0.CR1
-  lastUpdated: 20180611172033
+  - 9.3.0.Final
+  lastUpdated: 20180625111120

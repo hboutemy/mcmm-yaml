@@ -3,8 +3,8 @@
 groupId: org.dspace
 artifactId: dspace-lni
 versioning:
-  latest: 5.8
-  release: 5.8
+  latest: 5.9
+  release: 5.9
   versions:
   - 1.5-alpha
   - 1.5.0-beta1
@@ -56,6 +56,7 @@ versioning:
   - 4.6
   - 4.7
   - 4.8
+  - 4.9
   - 5.0-rc2
   - 5.0-rc3
   - 5.0
@@ -67,4 +68,5 @@ versioning:
   - 5.6
   - 5.7
   - 5.8
-  lastUpdated: 20170901170106
+  - 5.9
+  lastUpdated: 20180625214552

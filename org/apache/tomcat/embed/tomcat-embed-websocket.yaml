@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat.embed
 artifactId: tomcat-embed-websocket
 versioning:
-  latest: 9.0.8
-  release: 9.0.8
+  latest: 9.0.10
+  release: 9.0.10
   versions:
   - 7.0.52
   - 7.0.53
@@ -99,6 +99,7 @@ versioning:
   - 8.5.29
   - 8.5.30
   - 8.5.31
+  - 8.5.32
   - 9.0.0.M1
   - 9.0.0.M3
   - 9.0.0.M4
@@ -125,4 +126,5 @@ versioning:
   - 9.0.6
   - 9.0.7
   - 9.0.8
-  lastUpdated: 20180511093105
+  - 9.0.10
+  lastUpdated: 20180625103725

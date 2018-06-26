@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: integrationtests-security-manager
 versioning:
-  latest: 9.3.0.CR1
-  release: 9.3.0.CR1
+  latest: 9.3.0.Final
+  release: 9.3.0.Final
   versions:
   - 7.0.0.Alpha3
   - 7.0.0.Alpha4
@@ -111,4 +111,5 @@ versioning:
   - 9.3.0.Alpha1
   - 9.3.0.Beta1
   - 9.3.0.CR1
-  lastUpdated: 20180611172039
+  - 9.3.0.Final
+  lastUpdated: 20180625111126

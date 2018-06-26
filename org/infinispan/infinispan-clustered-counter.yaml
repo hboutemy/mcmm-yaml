@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-clustered-counter
 versioning:
-  latest: 9.3.0.CR1
-  release: 9.3.0.CR1
+  latest: 9.3.0.Final
+  release: 9.3.0.Final
   versions:
   - 9.0.2.Final
   - 9.1.0.Alpha1
@@ -34,4 +34,5 @@ versioning:
   - 9.3.0.Alpha1
   - 9.3.0.Beta1
   - 9.3.0.CR1
-  lastUpdated: 20180611171936
+  - 9.3.0.Final
+  lastUpdated: 20180625111005
