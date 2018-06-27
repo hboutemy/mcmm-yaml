@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.am
 artifactId: org.wso2.carbon.am.integration.test
 versioning:
-  latest: 2.5.0-Beta
-  release: 2.5.0-Beta
+  latest: 2.5.0
+  release: 2.5.0
   versions:
   - 2.1.0-update1
   - 2.1.0-update2
@@ -32,4 +32,5 @@ versioning:
   - 2.2.0-update7
   - 2.5.0-Alpha
   - 2.5.0-Beta
-  lastUpdated: 20180607144747
+  - 2.5.0
+  lastUpdated: 20180626044521
