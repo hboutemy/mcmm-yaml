@@ -3,8 +3,8 @@
 groupId: io.fabric8.elasticsearch
 artifactId: openshift-elasticsearch-plugin
 versioning:
-  latest: 2.4.4.19
-  release: 2.4.4.19
+  latest: 5.6.9.1
+  release: 5.6.9.1
   versions:
   - 0.1
   - 0.2
@@ -60,5 +60,7 @@ versioning:
   - 2.4.4.15
   - 2.4.4.16
   - 2.4.4.19
+  - 2.4.4.23
+  - 5.6.9.1
   - 2.4.1.0
-  lastUpdated: 20171205155231
+  lastUpdated: 20180628210621
