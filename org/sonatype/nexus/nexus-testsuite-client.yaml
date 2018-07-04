@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.sonatype.nexus
 artifactId: nexus-testsuite-client
 versioning:
@@ -7,7 +8,7 @@ versioning:
   release: 3.0.0-b2015020701
   versions:
   - 2.2
-  - 2.2.1
+  - 2.2-01
   - 2.3.0
   - 2.3.0-01
   - 2.3.0-02
@@ -81,7 +82,8 @@ versioning:
   - 2.14.6-02
   - 2.14.7-01
   - 2.14.8-01
+  - 2.14.9-01
   - 3.0.0-b2014101001
   - 3.0.0-b2015020701
-  - 2.2-01
-  lastUpdated: 20180228194818
+  - 2.2.1
+  lastUpdated: 20180703144505
