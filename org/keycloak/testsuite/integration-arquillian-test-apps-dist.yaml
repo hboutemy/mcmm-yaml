@@ -3,8 +3,8 @@
 groupId: org.keycloak.testsuite
 artifactId: integration-arquillian-test-apps-dist
 versioning:
-  latest: 4.0.0.Final
-  release: 4.0.0.Final
+  latest: 4.1.0.Final
+  release: 4.1.0.Final
   versions:
   - 1.9.2.Final
   - 1.9.3.Final
@@ -47,4 +47,5 @@ versioning:
   - 4.0.0.Beta2
   - 4.0.0.Beta3
   - 4.0.0.Final
-  lastUpdated: 20180613204921
+  - 4.1.0.Final
+  lastUpdated: 20180704195722
