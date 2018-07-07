@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.hibernate
 artifactId: hibernate-vibur
 versioning:
-  latest: 5.3.2.Final
-  release: 5.3.2.Final
+  latest: 5.3.0.Beta1
+  release: 5.3.0.Beta1
   versions:
   - 5.3.0.Beta1
   - 5.3.0.Beta2
@@ -14,4 +13,4 @@ versioning:
   - 5.3.0.Final
   - 5.3.1.Final
   - 5.3.2.Final
-  lastUpdated: 20180705140424
+  lastUpdated: 20180118163902

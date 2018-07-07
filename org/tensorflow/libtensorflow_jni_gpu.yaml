@@ -3,8 +3,8 @@
 groupId: org.tensorflow
 artifactId: libtensorflow_jni_gpu
 versioning:
-  latest: 1.9.0-rc1
-  release: 1.9.0-rc1
+  latest: 1.9.0-rc2
+  release: 1.9.0-rc2
   versions:
   - 1.5.0-rc0
   - 1.5.0-rc1
@@ -20,4 +20,5 @@ versioning:
   - 1.8.0
   - 1.9.0-rc0
   - 1.9.0-rc1
-  lastUpdated: 20180618220314
+  - 1.9.0-rc2
+  lastUpdated: 20180706183304

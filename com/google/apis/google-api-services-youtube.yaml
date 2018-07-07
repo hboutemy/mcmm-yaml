@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-youtube
 versioning:
-  latest: v3-rev202-1.18.0-rc
-  release: v3-rev202-1.18.0-rc
+  latest: v3-rev204-1.23.0
+  release: v3-rev204-1.23.0
   versions:
   - v3-rev40-1.13.2-beta
   - v3-rev40-1.14.1-beta
@@ -560,9 +560,13 @@ versioning:
   - v3-rev198-1.22.0
   - v3-rev198-1.23.0
   - v3-rev202-1.18.0-rc
+  - v3-rev204-1.18.0-rc
+  - v3-rev204-1.21.0
+  - v3-rev204-1.22.0
+  - v3-rev204-1.23.0
   - v3-rev140-1.18.0-rc
   - v3-rev140-1.19.0
   - v3-rev140-1.19.1
   - v3-rev140-1.20.0
   - v3-rev79-1.17.0-rc
-  lastUpdated: 20180513091029
+  lastUpdated: 20180706021953
