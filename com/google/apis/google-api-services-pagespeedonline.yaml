@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-pagespeedonline
 versioning:
-  latest: v4-rev10-1.23.0
-  release: v4-rev10-1.23.0
+  latest: v4-rev11-1.23.0
+  release: v4-rev11-1.23.0
   versions:
   - v1-rev15-1.13.2-beta
   - v1-rev15-1.14.1-beta
@@ -249,6 +249,9 @@ versioning:
   - v1-rev81-1.21.0
   - v1-rev81-1.22.0
   - v1-rev81-1.23.0
+  - v1-rev82-1.21.0
+  - v1-rev82-1.22.0
+  - v1-rev82-1.23.0
   - v2-rev1-1.15.0-rc
   - v2-rev1-1.16.0-rc
   - v2-rev1-1.17.0-rc
@@ -368,4 +371,8 @@ versioning:
   - v4-rev10-1.21.0
   - v4-rev10-1.22.0
   - v4-rev10-1.23.0
-  lastUpdated: 20180611204210
+  - v4-rev11-1.18.0-rc
+  - v4-rev11-1.21.0
+  - v4-rev11-1.22.0
+  - v4-rev11-1.23.0
+  lastUpdated: 20180710214845
