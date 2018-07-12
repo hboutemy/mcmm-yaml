@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud
 artifactId: spring-cloud-stream-starter-build
 versioning:
-  latest: Elmhurst.RELEASE
-  release: Elmhurst.RELEASE
+  latest: Elmhurst.SR1
+  release: Elmhurst.SR1
   versions:
   - Brooklyn.RELEASE
   - Brooklyn.SR1
@@ -18,4 +18,5 @@ versioning:
   - Ditmars.SR3
   - Ditmars.SR4
   - Elmhurst.RELEASE
-  lastUpdated: 20180613020447
+  - Elmhurst.SR1
+  lastUpdated: 20180711234052
