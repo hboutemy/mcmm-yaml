@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-shaded-curator
 versioning:
-  latest: 1.5.0
-  release: 1.5.0
+  latest: 1.5.1
+  release: 1.5.1
   versions:
   - 0.10.0
   - 0.10.0-hadoop1
@@ -41,4 +41,5 @@ versioning:
   - 1.4.1
   - 1.4.2
   - 1.5.0
-  lastUpdated: 20180525160048
+  - 1.5.1
+  lastUpdated: 20180712113921

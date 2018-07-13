@@ -3,8 +3,8 @@
 groupId: com.google.cloud.bigdataoss
 artifactId: gcs-connector
 versioning:
-  latest: 1.9.0-hadoop3
-  release: 1.9.0-hadoop3
+  latest: 1.9.1-hadoop3
+  release: 1.9.1-hadoop3
   versions:
   - 1.3.2-hadoop1
   - 1.3.2-hadoop2
@@ -59,4 +59,7 @@ versioning:
   - 1.9.0-hadoop1
   - 1.9.0-hadoop2
   - 1.9.0-hadoop3
-  lastUpdated: 20180615170915
+  - 1.9.1-hadoop1
+  - 1.9.1-hadoop2
+  - 1.9.1-hadoop3
+  lastUpdated: 20180712044531
