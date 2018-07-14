@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: integrationtests-osgi
 versioning:
-  latest: 9.3.0.Final
-  release: 9.3.0.Final
+  latest: 9.4.0.Alpha1
+  release: 9.4.0.Alpha1
   versions:
   - 7.0.0.Alpha4
   - 7.0.0.Alpha5
@@ -111,4 +111,5 @@ versioning:
   - 9.3.0.Beta1
   - 9.3.0.CR1
   - 9.3.0.Final
-  lastUpdated: 20180625111125
+  - 9.4.0.Alpha1
+  lastUpdated: 20180713210144
