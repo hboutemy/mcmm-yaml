@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud.stream.app
 artifactId: websocket-sink-rabbit
 versioning:
-  latest: 2.0.0.RELEASE
-  release: 2.0.0.RELEASE
+  latest: 2.0.1.RELEASE
+  release: 2.0.1.RELEASE
   versions:
   - 1.0.2.RELEASE
   - 1.0.4.RELEASE
@@ -14,4 +14,5 @@ versioning:
   - 1.3.0.RELEASE
   - 1.3.1.RELEASE
   - 2.0.0.RELEASE
-  lastUpdated: 20180621185921
+  - 2.0.1.RELEASE
+  lastUpdated: 20180716175206
