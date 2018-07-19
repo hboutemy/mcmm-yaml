@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty
 artifactId: jetty-alpn-server
 versioning:
-  latest: 9.4.11.v20180605
-  release: 9.4.11.v20180605
+  latest: 9.4.12.RC0
+  release: 9.4.12.RC0
   versions:
   - 9.2.0.M0
   - 9.2.0.M1
@@ -109,4 +109,5 @@ versioning:
   - 9.4.10.RC1
   - 9.4.10.v20180503
   - 9.4.11.v20180605
-  lastUpdated: 20180622153112
+  - 9.4.12.RC0
+  lastUpdated: 20180718160837
