@@ -3,8 +3,8 @@
 groupId: com.moilioncircle
 artifactId: redis-replicator
 versioning:
-  latest: 2.5.0
-  release: 2.5.0
+  latest: 3.0.0-RC1
+  release: 3.0.0-RC1
   versions:
   - 1.0.1
   - 1.0.2
@@ -42,4 +42,6 @@ versioning:
   - 2.4.6
   - 2.4.7
   - 2.5.0
-  lastUpdated: 20180208125750
+  - 2.6.0-RC1
+  - 3.0.0-RC1
+  lastUpdated: 20180719065125
