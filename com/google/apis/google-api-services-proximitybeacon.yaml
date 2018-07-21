@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-proximitybeacon
 versioning:
-  latest: v1beta1-rev33-1.18.0-rc
-  release: v1beta1-rev33-1.18.0-rc
+  latest: v1beta1-rev35-1.23.0
+  release: v1beta1-rev35-1.23.0
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.19.0
@@ -132,4 +132,7 @@ versioning:
   - v1beta1-rev32-1.22.0
   - v1beta1-rev32-1.23.0
   - v1beta1-rev33-1.18.0-rc
-  lastUpdated: 20180710214933
+  - v1beta1-rev35-1.18.0-rc
+  - v1beta1-rev35-1.22.0
+  - v1beta1-rev35-1.23.0
+  lastUpdated: 20180720123448

@@ -3,12 +3,13 @@
 groupId: com.yugabyte.spark
 artifactId: spark-cassandra-connector_2.10
 versioning:
-  latest: 2.0.5-yb-5
-  release: 2.0.5-yb-5
+  latest: 2.0.5-yb-6
+  release: 2.0.5-yb-6
   versions:
   - 2.0.5-yb-1
   - 2.0.5-yb-2
   - 2.0.5-yb-3
   - 2.0.5-yb-4
   - 2.0.5-yb-5
-  lastUpdated: 20180719222120
+  - 2.0.5-yb-6
+  lastUpdated: 20180720005319
