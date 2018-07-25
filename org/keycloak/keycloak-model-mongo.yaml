@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-model-mongo
 versioning:
@@ -33,7 +34,7 @@ versioning:
   - 1.3.0.Final
   - 1.3.1.Final
   - 1.4.0.Final
-  - 1.5.0-Final
+  - 1.5.0.Final
   - 1.5.1.Final
   - 1.6.0.Final
   - 1.6.1.Final
@@ -70,5 +71,5 @@ versioning:
   - 2.5.1.Final
   - 2.5.4.Final
   - 2.5.5.Final
-  - 1.5.0.Final
-  lastUpdated: 20170314160125
+  - 1.5.0-Final
+  lastUpdated: 20180724043223

@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-forms-parent
 versioning:
@@ -28,7 +29,7 @@ versioning:
   - 1.3.0.Final
   - 1.3.1.Final
   - 1.4.0.Final
-  - 1.5.0-Final
+  - 1.5.0.Final
   - 1.5.1.Final
   - 1.6.0.Final
   - 1.6.1.Final
@@ -40,5 +41,5 @@ versioning:
   - 1.8.0.CR3
   - 1.8.0.Final
   - 1.8.1.Final
-  - 1.5.0.Final
-  lastUpdated: 20160204090403
+  - 1.5.0-Final
+  lastUpdated: 20180724043528

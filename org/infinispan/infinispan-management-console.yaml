@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-management-console
 versioning:
@@ -30,7 +31,7 @@ versioning:
   - 9.0.0.CR2
   - 9.0.0.CR3
   - 9.0.0.CR4
-  - 9.0.0
+  - 9.0.0.Final
   - 9.0.1.Final
   - 9.1.0.Alpha1
   - 9.1.0.CR1
@@ -47,5 +48,5 @@ versioning:
   - 9.3.0.Final
   - 9.3.1.Final
   - 9.4.0.Alpha1
-  - 9.0.0.Final
-  lastUpdated: 20180713133741
+  - 9.0.0
+  lastUpdated: 20180724054618

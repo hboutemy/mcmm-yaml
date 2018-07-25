@@ -3,8 +3,8 @@
 groupId: org.tensorflow
 artifactId: tensorflow
 versioning:
-  latest: 1.9.0
-  release: 1.9.0
+  latest: 1.10.0-rc0
+  release: 1.10.0-rc0
   versions:
   - 1.1.0-rc0
   - 1.1.0-rc0-windows-fix
@@ -39,4 +39,5 @@ versioning:
   - 1.9.0-rc1
   - 1.9.0-rc2
   - 1.9.0
-  lastUpdated: 20180713211204
+  - 1.10.0-rc0
+  lastUpdated: 20180723234556

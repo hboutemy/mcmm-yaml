@@ -1,12 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.hawkular.inventory
 artifactId: hawkular-inventory-impl-tinkerpop-titan-provider
 versioning:
   latest: 0.18.0.Final
   release: 0.18.0.Final
   versions:
-  - 0.2.0-Final
+  - 0.2.0.Final
   - 0.3.0
   - 0.3.1
   - 0.3.2.Final
@@ -35,5 +36,5 @@ versioning:
   - 0.17.2.Final
   - 0.17.3.Final
   - 0.18.0.Final
-  - 0.2.0.Final
-  lastUpdated: 20160818113407
+  - 0.2.0-Final
+  lastUpdated: 20180724045017

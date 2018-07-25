@@ -1,12 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.hawkular.commons
 artifactId: hawkular-server
 versioning:
-  latest: 0.9.8
-  release: 0.9.8
+  latest: 0.9.8.Final
+  release: 0.9.8.Final
   versions:
   - 0.9.7.Final
-  - 0.9.8
   - 0.9.8.Final
-  lastUpdated: 20171208171501
+  - 0.9.8
+  lastUpdated: 20180724044125

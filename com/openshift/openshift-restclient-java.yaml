@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.openshift
 artifactId: openshift-restclient-java
 versioning:
@@ -9,7 +10,7 @@ versioning:
   - 3.0.0.Final
   - 3.0.1.Final
   - 4.0.0.Final
-  - 4.0.1-FINAL
+  - 4.0.1.Final
   - 4.0.2.Final
   - 4.0.3.Final
   - 4.0.4.Final
@@ -32,5 +33,5 @@ versioning:
   - 6.0.1.Final
   - 6.1.0.Final
   - 6.1.1.Final
-  - 4.0.1.Final
-  lastUpdated: 20180705222622
+  - 4.0.1-FINAL
+  lastUpdated: 20180724021504

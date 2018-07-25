@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.plugin
 artifactId: percolator-client
 versioning:
-  latest: 6.3.1
-  release: 6.3.1
+  latest: 6.3.2
+  release: 6.3.2
   versions:
   - 5.0.0-alpha5
   - 5.0.0-beta1
@@ -60,4 +60,5 @@ versioning:
   - 6.2.4
   - 6.3.0
   - 6.3.1
-  lastUpdated: 20180705140956
+  - 6.3.2
+  lastUpdated: 20180724141529

@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.hawkular.commons
 artifactId: hawkular-commons-templates
 versioning:
-  latest: 0.9.8
-  release: 0.9.8
+  latest: 0.9.8.Final
+  release: 0.9.8.Final
   versions:
   - 0.2.2.Final
   - 0.2.3.Final
@@ -39,6 +40,6 @@ versioning:
   - 0.9.5.Final
   - 0.9.6.Final
   - 0.9.7.Final
-  - 0.9.8
   - 0.9.8.Final
-  lastUpdated: 20171208171445
+  - 0.9.8
+  lastUpdated: 20180724044134
