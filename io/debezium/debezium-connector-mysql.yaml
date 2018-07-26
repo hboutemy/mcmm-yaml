@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-connector-mysql
 versioning:
-  latest: 0.8.0.Final
-  release: 0.8.0.Final
+  latest: 0.8.1.Final
+  release: 0.8.1.Final
   versions:
   - 0.1.0
   - 0.2.0
@@ -36,4 +36,5 @@ versioning:
   - 0.8.0.Beta1
   - 0.8.0.CR1
   - 0.8.0.Final
-  lastUpdated: 20180711074503
+  - 0.8.1.Final
+  lastUpdated: 20180725104903
