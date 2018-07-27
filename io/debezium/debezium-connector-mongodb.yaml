@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-connector-mongodb
 versioning:
-  latest: 0.8.1.Final
-  release: 0.8.1.Final
+  latest: 0.9.0.Alpha1
+  release: 0.9.0.Alpha1
   versions:
   - 0.3.0
   - 0.3.1
@@ -31,4 +31,5 @@ versioning:
   - 0.8.0.CR1
   - 0.8.0.Final
   - 0.8.1.Final
-  lastUpdated: 20180725104901
+  - 0.9.0.Alpha1
+  lastUpdated: 20180726082028
