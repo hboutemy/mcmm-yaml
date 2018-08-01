@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud
 artifactId: spring-cloud-dependencies
 versioning:
-  latest: Finchley.RELEASE
-  release: Finchley.RELEASE
+  latest: Finchley.SR1
+  release: Finchley.SR1
   versions:
   - Angel.SR5
   - Angel.SR6
@@ -36,4 +36,5 @@ versioning:
   - Edgware.SR3
   - Edgware.SR4
   - Finchley.RELEASE
-  lastUpdated: 20180630001618
+  - Finchley.SR1
+  lastUpdated: 20180731205922

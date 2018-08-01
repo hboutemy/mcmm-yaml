@@ -3,8 +3,8 @@
 groupId: org.apache.hive.hcatalog
 artifactId: hive-webhcat
 versioning:
-  latest: 3.0.0
-  release: 3.0.0
+  latest: 3.1.0
+  release: 3.1.0
   versions:
   - 0.13.0
   - 0.13.1
@@ -26,4 +26,5 @@ versioning:
   - 2.3.2
   - 2.3.3
   - 3.0.0
-  lastUpdated: 20180522001316
+  - 3.1.0
+  lastUpdated: 20180731013331
