@@ -3,8 +3,8 @@
 groupId: org.wildfly.camel
 artifactId: wildfly-camel-itests-docker
 versioning:
-  latest: 6.1.0
-  release: 6.1.0
+  latest: 7.0.0
+  release: 7.0.0
   versions:
   - 2.2.0
   - 2.3.0
@@ -23,4 +23,5 @@ versioning:
   - 4.9.0
   - 5.1.0
   - 6.1.0
-  lastUpdated: 20180605072908
+  - 7.0.0
+  lastUpdated: 20180801131407
