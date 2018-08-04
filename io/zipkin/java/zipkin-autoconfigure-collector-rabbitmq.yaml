@@ -3,8 +3,8 @@
 groupId: io.zipkin.java
 artifactId: zipkin-autoconfigure-collector-rabbitmq
 versioning:
-  latest: 2.10.4
-  release: 2.10.4
+  latest: 2.11.0
+  release: 2.11.0
   versions:
   - 2.1.0
   - 2.2.0
@@ -50,4 +50,5 @@ versioning:
   - 2.10.2
   - 2.10.3
   - 2.10.4
-  lastUpdated: 20180726135156
+  - 2.11.0
+  lastUpdated: 20180803093835
