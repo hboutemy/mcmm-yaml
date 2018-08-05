@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-cachestore-rocksdb
 versioning:
-  latest: 9.4.0.Alpha1
-  release: 9.4.0.Alpha1
+  latest: 9.4.0.Beta1
+  release: 9.4.0.Beta1
   versions:
   - 9.0.0.Beta1
   - 9.0.0.Beta2
@@ -46,4 +46,5 @@ versioning:
   - 9.3.0.Final
   - 9.3.1.Final
   - 9.4.0.Alpha1
-  lastUpdated: 20180713210017
+  - 9.4.0.Beta1
+  lastUpdated: 20180803200917

@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-spring4-parent
 versioning:
-  latest: 9.4.0.Alpha1
-  release: 9.4.0.Alpha1
+  latest: 9.4.0.Beta1
+  release: 9.4.0.Beta1
   versions:
   - 8.1.0.Beta1
   - 8.1.0.CR1
@@ -76,4 +76,5 @@ versioning:
   - 9.3.0.Final
   - 9.3.1.Final
   - 9.4.0.Alpha1
-  lastUpdated: 20180713210137
+  - 9.4.0.Beta1
+  lastUpdated: 20180803200936
