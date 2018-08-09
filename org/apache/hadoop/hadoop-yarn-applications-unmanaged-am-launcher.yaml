@@ -3,8 +3,8 @@
 groupId: org.apache.hadoop
 artifactId: hadoop-yarn-applications-unmanaged-am-launcher
 versioning:
-  latest: 3.1.0
-  release: 3.1.0
+  latest: 3.1.1
+  release: 3.1.1
   versions:
   - 2.0.2-alpha
   - 2.0.3-alpha
@@ -50,4 +50,5 @@ versioning:
   - 3.0.2
   - 3.0.3
   - 3.1.0
-  lastUpdated: 20180720040347
+  - 3.1.1
+  lastUpdated: 20180808201203

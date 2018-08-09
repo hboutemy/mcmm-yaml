@@ -3,8 +3,8 @@
 groupId: org.apache.hadoop
 artifactId: hadoop-hdfs-native-client
 versioning:
-  latest: 3.1.0
-  release: 3.1.0
+  latest: 3.1.1
+  release: 3.1.1
   versions:
   - 2.8.0
   - 2.8.1
@@ -23,4 +23,5 @@ versioning:
   - 3.0.2
   - 3.0.3
   - 3.1.0
-  lastUpdated: 20180622031939
+  - 3.1.1
+  lastUpdated: 20180808201158

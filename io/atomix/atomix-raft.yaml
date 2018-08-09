@@ -3,8 +3,8 @@
 groupId: io.atomix
 artifactId: atomix-raft
 versioning:
-  latest: 3.0.0-rc8
-  release: 3.0.0-rc8
+  latest: 3.0.0-rc10
+  release: 3.0.0-rc10
   versions:
   - 2.0.0-alpha1
   - 2.0.0
@@ -43,4 +43,6 @@ versioning:
   - 3.0.0-rc6
   - 3.0.0-rc7
   - 3.0.0-rc8
-  lastUpdated: 20180807183930
+  - 3.0.0-rc9
+  - 3.0.0-rc10
+  lastUpdated: 20180808205751
