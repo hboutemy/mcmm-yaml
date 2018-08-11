@@ -6,6 +6,9 @@ versioning:
   latest: 1.9.4-hadoop3
   release: 1.9.4-hadoop3
   versions:
+  - hadoop1-1.9.5
+  - hadoop2-1.9.5
+  - hadoop3-1.9.5
   - 1.4.0-hadoop1
   - 1.4.0-hadoop2
   - 1.4.1-hadoop1
@@ -46,6 +49,8 @@ versioning:
   - 1.6.6-hadoop2
   - 1.6.7-hadoop1
   - 1.6.7-hadoop2
+  - 1.6.8-hadoop1
+  - 1.6.8-hadoop2
   - 1.7.0-hadoop1
   - 1.7.0-hadoop2
   - 1.8.0-hadoop1
@@ -67,4 +72,4 @@ versioning:
   - 1.9.4-hadoop1
   - 1.9.4-hadoop2
   - 1.9.4-hadoop3
-  lastUpdated: 20180808000326
+  lastUpdated: 20180810181320

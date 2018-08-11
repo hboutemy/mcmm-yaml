@@ -3,8 +3,10 @@
 groupId: org.jetbrains.kotlinx
 artifactId: atomicfu-native_release_linux_x64
 versioning:
-  latest: 0.11.0
-  release: 0.11.0
+  latest: 0.11.1-native-mt
+  release: 0.11.1-native-mt
   versions:
   - 0.11.0
-  lastUpdated: 20180724163740
+  - 0.11.1
+  - 0.11.1-native-mt
+  lastUpdated: 20180810085034

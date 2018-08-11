@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-blogger
 versioning:
-  latest: v3-rev60-1.24.1
-  release: v3-rev60-1.24.1
+  latest: v3-rev61-1.24.1
+  release: v3-rev61-1.24.1
   versions:
   - v2-rev16-1.13.2-beta
   - v2-rev16-1.14.1-beta
@@ -195,6 +195,10 @@ versioning:
   - v2-rev64-1.22.0
   - v2-rev64-1.23.0
   - v2-rev64-1.24.1
+  - v2-rev65-1.18.0-rc
+  - v2-rev65-1.22.0
+  - v2-rev65-1.23.0
+  - v2-rev65-1.24.1
   - v3-rev9-1.13.2-beta
   - v3-rev9-1.14.1-beta
   - v3-rev10-1.13.2-beta
@@ -391,4 +395,8 @@ versioning:
   - v3-rev60-1.22.0
   - v3-rev60-1.23.0
   - v3-rev60-1.24.1
-  lastUpdated: 20180803012806
+  - v3-rev61-1.18.0-rc
+  - v3-rev61-1.22.0
+  - v3-rev61-1.23.0
+  - v3-rev61-1.24.1
+  lastUpdated: 20180810133555

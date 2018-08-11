@@ -3,8 +3,8 @@
 groupId: io.fabric8.tenant.apps
 artifactId: jenkins-test
 versioning:
-  latest: 4.0.99
-  release: 4.0.99
+  latest: 4.0.101
+  release: 4.0.101
   versions:
   - 4.0.39
   - 4.0.40
@@ -63,4 +63,6 @@ versioning:
   - 4.0.97
   - 4.0.98
   - 4.0.99
-  lastUpdated: 20180807104127
+  - 4.0.100
+  - 4.0.101
+  lastUpdated: 20180810093851
