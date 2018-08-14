@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-core-build-legacy
 versioning:
-  latest: 6.0.0.Alpha5
-  release: 6.0.0.Alpha5
+  latest: 6.0.0.Beta1
+  release: 6.0.0.Beta1
   versions:
   - 5.0.0.Alpha6
   - 5.0.0.Alpha7
@@ -20,4 +20,5 @@ versioning:
   - 6.0.0.Alpha3
   - 6.0.0.Alpha4
   - 6.0.0.Alpha5
-  lastUpdated: 20180802073147
+  - 6.0.0.Beta1
+  lastUpdated: 20180813210011
