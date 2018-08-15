@@ -3,8 +3,8 @@
 groupId: org.onosproject
 artifactId: onos-apps-restconf-api
 versioning:
-  latest: 1.13.2
-  release: 1.13.2
+  latest: 1.14.0-rc2
+  release: 1.14.0-rc2
   versions:
   - 1.10.6
   - 1.10.7
@@ -51,4 +51,6 @@ versioning:
   - 1.13.2-rc2
   - 1.13.2-rc3
   - 1.13.2
-  lastUpdated: 20180713204150
+  - 1.14.0-rc1
+  - 1.14.0-rc2
+  lastUpdated: 20180814221535

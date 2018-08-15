@@ -3,8 +3,8 @@
 groupId: io.airlift
 artifactId: testing-mysql-server
 versioning:
-  latest: 5.7.22-1
-  release: 5.7.22-1
+  latest: 8.0.12-1
+  release: 8.0.12-1
   versions:
   - 0.1
   - 5.5.9-1
@@ -12,4 +12,5 @@ versioning:
   - 5.7.19-2
   - 5.7.19-3
   - 5.7.22-1
-  lastUpdated: 20180709202535
+  - 8.0.12-1
+  lastUpdated: 20180814221313

@@ -3,8 +3,8 @@
 groupId: org.db4j
 artifactId: kilim
 versioning:
-  latest: 2.0.0-20-jdk7
-  release: 2.0.0-20-jdk7
+  latest: 2.0.0-20-jdk11
+  release: 2.0.0-20-jdk11
   versions:
   - 2.0.0-1
   - 2.0.0-2
@@ -25,5 +25,8 @@ versioning:
   - 2.0.0-19-jdk7
   - 2.0.0-19-jdk10
   - 2.0.0-19-jdk11
+  - 2.0.0-20
   - 2.0.0-20-jdk7
-  lastUpdated: 20180813023513
+  - 2.0.0-20-jdk10
+  - 2.0.0-20-jdk11
+  lastUpdated: 20180814143228
