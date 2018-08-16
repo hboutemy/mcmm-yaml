@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-subsystem-test-parent
 versioning:
-  latest: 6.0.0.Beta1
-  release: 6.0.0.Beta1
+  latest: 6.0.0.CR2
+  release: 6.0.0.CR2
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -201,4 +201,6 @@ versioning:
   - 6.0.0.Alpha4
   - 6.0.0.Alpha5
   - 6.0.0.Beta1
-  lastUpdated: 20180813210024
+  - 6.0.0.CR1
+  - 6.0.0.CR2
+  lastUpdated: 20180815145023

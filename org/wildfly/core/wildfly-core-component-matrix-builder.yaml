@@ -3,12 +3,14 @@
 groupId: org.wildfly.core
 artifactId: wildfly-core-component-matrix-builder
 versioning:
-  latest: 6.0.0.Beta1
-  release: 6.0.0.Beta1
+  latest: 6.0.0.CR2
+  release: 6.0.0.CR2
   versions:
   - 6.0.0.Alpha2
   - 6.0.0.Alpha3
   - 6.0.0.Alpha4
   - 6.0.0.Alpha5
   - 6.0.0.Beta1
-  lastUpdated: 20180813210011
+  - 6.0.0.CR1
+  - 6.0.0.CR2
+  lastUpdated: 20180815145011
