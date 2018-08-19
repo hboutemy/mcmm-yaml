@@ -3,8 +3,8 @@
 groupId: com.nepxion
 artifactId: discovery-common-redis
 versioning:
-  latest: 4.3.11
-  release: 4.3.11
+  latest: 4.3.13
+  release: 4.3.13
   versions:
   - 3.5.1
   - 3.5.2
@@ -27,6 +27,8 @@ versioning:
   - 3.6.9
   - 3.6.10
   - 3.6.11
+  - 3.6.12
+  - 3.6.13
   - 4.2.1
   - 4.2.2
   - 4.2.3
@@ -48,4 +50,6 @@ versioning:
   - 4.3.9
   - 4.3.10
   - 4.3.11
-  lastUpdated: 20180814201525
+  - 4.3.12
+  - 4.3.13
+  lastUpdated: 20180818042924
