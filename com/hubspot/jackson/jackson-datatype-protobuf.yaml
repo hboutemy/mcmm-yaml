@@ -3,8 +3,8 @@
 groupId: com.hubspot.jackson
 artifactId: jackson-datatype-protobuf
 versioning:
-  latest: 0.9.9-preJackson2.7-proto3
-  release: 0.9.9-preJackson2.7-proto3
+  latest: 0.9.10-preJackson2.7-proto3
+  release: 0.9.10-preJackson2.7-proto3
   versions:
   - 0.1.0
   - 0.2.0
@@ -41,4 +41,12 @@ versioning:
   - 0.9.9-jackson2.9-proto3
   - 0.9.9-preJackson2.7-proto2
   - 0.9.9-preJackson2.7-proto3
-  lastUpdated: 20180215195815
+  - 0.9.10-jackson2.7-proto2
+  - 0.9.10-jackson2.7-proto3
+  - 0.9.10-jackson2.8-proto2
+  - 0.9.10-jackson2.8-proto3
+  - 0.9.10-jackson2.9-proto2
+  - 0.9.10-jackson2.9-proto3
+  - 0.9.10-preJackson2.7-proto2
+  - 0.9.10-preJackson2.7-proto3
+  lastUpdated: 20180820194517

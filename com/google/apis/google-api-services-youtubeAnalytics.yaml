@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-youtubeAnalytics
 versioning:
-  latest: v2-rev48-1.24.1
-  release: v2-rev48-1.24.1
+  latest: v2-rev50-1.24.1
+  release: v2-rev50-1.24.1
   versions:
   - v1beta1-rev18-1.13.2-beta
   - v1beta1-rev18-1.14.1-beta
@@ -930,6 +930,10 @@ versioning:
   - v1beta1-rev281-1.22.0
   - v1beta1-rev281-1.23.0
   - v1beta1-rev281-1.24.1
+  - v1beta1-rev284-1.18.0-rc
+  - v1beta1-rev284-1.22.0
+  - v1beta1-rev284-1.23.0
+  - v1beta1-rev284-1.24.1
   - v1-rev14-1.13.2-beta
   - v1-rev14-1.14.1-beta
   - v1-rev15-1.13.2-beta
@@ -1866,6 +1870,10 @@ versioning:
   - v1-rev279-1.23.0
   - v1-rev279-1.24.1
   - v1-rev280-1.18.0-rc
+  - v1-rev282-1.18.0-rc
+  - v1-rev282-1.22.0
+  - v1-rev282-1.23.0
+  - v1-rev282-1.24.1
   - v2-rev1-1.18.0-rc
   - v2-rev1-1.21.0
   - v2-rev1-1.22.0
@@ -2017,4 +2025,8 @@ versioning:
   - v2-rev48-1.22.0
   - v2-rev48-1.23.0
   - v2-rev48-1.24.1
-  lastUpdated: 20180815232533
+  - v2-rev50-1.18.0-rc
+  - v2-rev50-1.22.0
+  - v2-rev50-1.23.0
+  - v2-rev50-1.24.1
+  lastUpdated: 20180820171905
