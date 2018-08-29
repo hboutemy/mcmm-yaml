@@ -3,8 +3,8 @@
 groupId: jp.co.yahoo.dataplatform.mds
 artifactId: multiple-dimension-spread-hadoop
 versioning:
-  latest: 0.8.1_hive-1.2.1000.2.6.2.0-205
-  release: 0.8.1_hive-1.2.1000.2.6.2.0-205
+  latest: 0.8.2.hive-1.2.1000.2.6.2.0-205
+  release: 0.8.2.hive-1.2.1000.2.6.2.0-205
   versions:
   - 0.6.0
   - 0.6.1
@@ -22,4 +22,6 @@ versioning:
   - 0.8.0.1
   - 0.8.0.2
   - 0.8.1_hive-1.2.1000.2.6.2.0-205
-  lastUpdated: 20180706055657
+  - 0.8.2_hive-1.2.1000.2.6.2.0-205
+  - 0.8.2.hive-1.2.1000.2.6.2.0-205
+  lastUpdated: 20180821074242
