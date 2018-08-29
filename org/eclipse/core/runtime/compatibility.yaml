@@ -1,10 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.eclipse.core.runtime
 artifactId: compatibility
-version: 3.1.200-v20070502
 versioning:
+  latest: 3.1.200-v20070502
+  release: 3.1.200-v20070502
   versions:
-  - 3.1.200-v20070502
   - 3.1.100-v20060603
-  lastUpdated: 20071127073127
+  - 3.1.200-v20070502
+  lastUpdated: 20180824012815

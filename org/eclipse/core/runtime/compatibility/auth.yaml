@@ -1,10 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.eclipse.core.runtime.compatibility
 artifactId: auth
-version: 3.2.100-v20070502
 versioning:
+  latest: 3.2.100-v20070502
+  release: 3.2.100-v20070502
   versions:
-  - 3.2.100-v20070502
   - 3.2.0-v20060601
-  lastUpdated: 20071127073221
+  - 3.2.100-v20070502
+  lastUpdated: 20180824012814
