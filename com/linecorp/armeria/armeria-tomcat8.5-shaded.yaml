@@ -3,8 +3,8 @@
 groupId: com.linecorp.armeria
 artifactId: armeria-tomcat8.5-shaded
 versioning:
-  latest: 0.69.0
-  release: 0.69.0
+  latest: 0.70.1
+  release: 0.70.1
   versions:
   - 0.64.0
   - 0.65.0
@@ -17,4 +17,6 @@ versioning:
   - 0.68.1
   - 0.68.2
   - 0.69.0
-  lastUpdated: 20180813080228
+  - 0.70.0
+  - 0.70.1
+  lastUpdated: 20180828230109
