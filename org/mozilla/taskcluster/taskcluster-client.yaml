@@ -3,8 +3,8 @@
 groupId: org.mozilla.taskcluster
 artifactId: taskcluster-client
 versioning:
-  latest: 1.0.305
-  release: 1.0.305
+  latest: 1.0.307
+  release: 1.0.307
   versions:
   - 1.0.0
   - 1.0.1
@@ -306,4 +306,6 @@ versioning:
   - 1.0.303
   - 1.0.304
   - 1.0.305
-  lastUpdated: 20180507133109
+  - 1.0.306
+  - 1.0.307
+  lastUpdated: 20180827173049
