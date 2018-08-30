@@ -3,8 +3,8 @@
 groupId: com.amazonaws
 artifactId: aws-xray-recorder-sdk-aws-sdk-instrumentor
 versioning:
-  latest: 1.3.1
-  release: 1.3.1
+  latest: 2.0.0
+  release: 2.0.0
   versions:
   - 1.0.0-beta
   - 1.0.1-beta
@@ -21,4 +21,5 @@ versioning:
   - 1.2.2
   - 1.3.0
   - 1.3.1
-  lastUpdated: 20180113001554
+  - 2.0.0
+  lastUpdated: 20180829180614
