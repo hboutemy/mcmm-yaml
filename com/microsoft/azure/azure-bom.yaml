@@ -3,8 +3,8 @@
 groupId: com.microsoft.azure
 artifactId: azure-bom
 versioning:
-  latest: 1.0.0-beta1
-  release: 1.0.0-beta1
+  latest: 1.0.0.M1
+  release: 1.0.0.M1
   versions:
   - 0.6.0
   - 0.7.0
@@ -22,4 +22,5 @@ versioning:
   - 0.9.7
   - 0.9.8
   - 1.0.0-beta1
-  lastUpdated: 20171026201715
+  - 1.0.0.M1
+  lastUpdated: 20180831021430

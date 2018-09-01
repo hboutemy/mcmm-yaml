@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty
 artifactId: jetty-http-spi
 versioning:
-  latest: 9.4.12.RC2
-  release: 9.4.12.RC2
+  latest: 9.4.12.v20180830
+  release: 9.4.12.v20180830
   versions:
   - 7.5.3.v20111011
   - 7.5.4.v20111024
@@ -188,4 +188,5 @@ versioning:
   - 9.4.12.RC0
   - 9.4.12.RC1
   - 9.4.12.RC2
-  lastUpdated: 20180815150116
+  - 9.4.12.v20180830
+  lastUpdated: 20180830234750
