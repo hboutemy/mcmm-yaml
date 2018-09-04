@@ -3,8 +3,8 @@
 groupId: org.apache.jackrabbit
 artifactId: oak-http
 versioning:
-  latest: 1.9.7
-  release: 1.9.7
+  latest: 1.9.8
+  release: 1.9.8
   versions:
   - 0.3
   - 0.4
@@ -198,6 +198,7 @@ versioning:
   - 1.8.4
   - 1.8.5
   - 1.8.6
+  - 1.8.7
   - 1.9.0
   - 1.9.1
   - 1.9.2
@@ -206,4 +207,5 @@ versioning:
   - 1.9.5
   - 1.9.6
   - 1.9.7
-  lastUpdated: 20180817090146
+  - 1.9.8
+  lastUpdated: 20180903145232

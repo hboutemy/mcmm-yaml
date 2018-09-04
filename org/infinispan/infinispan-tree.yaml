@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-tree
 versioning:
-  latest: 9.4.0.Beta1
-  release: 9.4.0.Beta1
+  latest: 9.4.0.CR2
+  release: 9.4.0.CR2
   versions:
   - 5.0.0.FINAL
   - 5.0.1.FINAL
@@ -192,6 +192,9 @@ versioning:
   - 9.3.0.CR1
   - 9.3.0.Final
   - 9.3.1.Final
+  - 9.3.2.Final
   - 9.4.0.Alpha1
   - 9.4.0.Beta1
-  lastUpdated: 20180803200938
+  - 9.4.0.CR1
+  - 9.4.0.CR2
+  lastUpdated: 20180829204418

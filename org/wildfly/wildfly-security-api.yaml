@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-security-api
 versioning:
-  latest: 14.0.0.Beta2
-  release: 14.0.0.Beta2
+  latest: 14.0.0.Final
+  release: 14.0.0.Final
   versions:
   - 8.1.0.CR1
   - 8.1.0.CR2
@@ -45,4 +45,5 @@ versioning:
   - 13.0.0.Beta1
   - 13.0.0.Final
   - 14.0.0.Beta2
-  lastUpdated: 20180815232843
+  - 14.0.0.Final
+  lastUpdated: 20180830223954
