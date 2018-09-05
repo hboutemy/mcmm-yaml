@@ -3,8 +3,8 @@
 groupId: org.teiid.connectors
 artifactId: feature-pack-mongodb
 versioning:
-  latest: 11.0.1
-  release: 11.0.1
+  latest: 11.1.0
+  release: 11.1.0
   versions:
   - 10.0.0.Alpha2
   - 10.0.0.Beta1
@@ -33,4 +33,6 @@ versioning:
   - 10.3.4
   - 11.0.0
   - 11.0.1
-  lastUpdated: 20180903223032
+  - 11.0.2
+  - 11.1.0
+  lastUpdated: 20180904205946
