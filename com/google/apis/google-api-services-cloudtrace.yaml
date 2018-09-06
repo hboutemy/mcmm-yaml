@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-cloudtrace
 versioning:
-  latest: v2-rev49-1.25.0
-  release: v2-rev49-1.25.0
+  latest: v2-rev51-1.25.0
+  release: v2-rev51-1.25.0
   versions:
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.19.0
@@ -250,6 +250,11 @@ versioning:
   - v1-rev117-1.23.0
   - v1-rev117-1.24.1
   - v1-rev117-1.25.0
+  - v1-rev119-1.18.0-rc
+  - v1-rev119-1.22.0
+  - v1-rev119-1.23.0
+  - v1-rev119-1.24.1
+  - v1-rev119-1.25.0
   - v2-rev1-1.18.0-rc
   - v2-rev1-1.20.0
   - v2-rev1-1.21.0
@@ -412,4 +417,9 @@ versioning:
   - v2-rev49-1.23.0
   - v2-rev49-1.24.1
   - v2-rev49-1.25.0
-  lastUpdated: 20180824200914
+  - v2-rev51-1.18.0-rc
+  - v2-rev51-1.22.0
+  - v2-rev51-1.23.0
+  - v2-rev51-1.24.1
+  - v2-rev51-1.25.0
+  lastUpdated: 20180905202826

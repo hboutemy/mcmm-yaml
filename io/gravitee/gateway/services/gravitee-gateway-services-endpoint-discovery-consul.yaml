@@ -3,8 +3,8 @@
 groupId: io.gravitee.gateway.services
 artifactId: gravitee-gateway-services-endpoint-discovery-consul
 versioning:
-  latest: 1.18.2
-  release: 1.18.2
+  latest: 1.18.3
+  release: 1.18.3
   versions:
   - 1.12.0
   - 1.12.1
@@ -40,4 +40,5 @@ versioning:
   - 1.18.0
   - 1.18.1
   - 1.18.2
-  lastUpdated: 20180830124706
+  - 1.18.3
+  lastUpdated: 20180905163855
