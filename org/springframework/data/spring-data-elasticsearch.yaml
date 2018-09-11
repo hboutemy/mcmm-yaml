@@ -3,8 +3,8 @@
 groupId: org.springframework.data
 artifactId: spring-data-elasticsearch
 versioning:
-  latest: 3.0.9.RELEASE
-  release: 3.0.9.RELEASE
+  latest: 3.0.10.RELEASE
+  release: 3.0.10.RELEASE
   versions:
   - 1.0.0.RELEASE
   - 1.0.1.RELEASE
@@ -53,6 +53,7 @@ versioning:
   - 2.1.12.RELEASE
   - 2.1.13.RELEASE
   - 2.1.14.RELEASE
+  - 2.1.15.RELEASE
   - 3.0.0.RELEASE
   - 3.0.1.RELEASE
   - 3.0.2.RELEASE
@@ -63,4 +64,5 @@ versioning:
   - 3.0.7.RELEASE
   - 3.0.8.RELEASE
   - 3.0.9.RELEASE
-  lastUpdated: 20180727091438
+  - 3.0.10.RELEASE
+  lastUpdated: 20180910121957

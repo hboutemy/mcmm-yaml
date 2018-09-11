@@ -3,8 +3,8 @@
 groupId: org.springframework.data
 artifactId: spring-data-couchbase
 versioning:
-  latest: 3.0.9.RELEASE
-  release: 3.0.9.RELEASE
+  latest: 3.0.10.RELEASE
+  release: 3.0.10.RELEASE
   versions:
   - 1.0.0.RELEASE
   - 1.1.0.RELEASE
@@ -55,6 +55,7 @@ versioning:
   - 2.2.12.RELEASE
   - 2.2.13.RELEASE
   - 2.2.14.RELEASE
+  - 2.2.15.RELEASE
   - 3.0.0.RELEASE
   - 3.0.1.RELEASE
   - 3.0.2.RELEASE
@@ -65,4 +66,5 @@ versioning:
   - 3.0.7.RELEASE
   - 3.0.8.RELEASE
   - 3.0.9.RELEASE
-  lastUpdated: 20180727092546
+  - 3.0.10.RELEASE
+  lastUpdated: 20180910122213

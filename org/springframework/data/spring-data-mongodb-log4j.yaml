@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.data
 artifactId: spring-data-mongodb-log4j
 versioning:
-  latest: 1.10.14.RELEASE
-  release: 1.10.14.RELEASE
+  latest: 1.10.15.RELEASE
+  release: 1.10.15.RELEASE
   versions:
   - 1.0.0.RELEASE
   - 1.0.1.RELEASE
@@ -77,4 +77,5 @@ versioning:
   - 1.10.12.RELEASE
   - 1.10.13.RELEASE
   - 1.10.14.RELEASE
-  lastUpdated: 20180727092123
+  - 1.10.15.RELEASE
+  lastUpdated: 20180910083604

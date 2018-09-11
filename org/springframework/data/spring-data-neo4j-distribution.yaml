@@ -3,8 +3,8 @@
 groupId: org.springframework.data
 artifactId: spring-data-neo4j-distribution
 versioning:
-  latest: 5.0.9.RELEASE
-  release: 5.0.9.RELEASE
+  latest: 5.0.10.RELEASE
+  release: 5.0.10.RELEASE
   versions:
   - 2.2.0.RELEASE
   - 2.2.1.RELEASE
@@ -68,6 +68,7 @@ versioning:
   - 4.2.12.RELEASE
   - 4.2.13.RELEASE
   - 4.2.14.RELEASE
+  - 4.2.15.RELEASE
   - 5.0.0.RELEASE
   - 5.0.1.RELEASE
   - 5.0.2.RELEASE
@@ -78,4 +79,5 @@ versioning:
   - 5.0.7.RELEASE
   - 5.0.8.RELEASE
   - 5.0.9.RELEASE
-  lastUpdated: 20180727091808
+  - 5.0.10.RELEASE
+  lastUpdated: 20180910121232
