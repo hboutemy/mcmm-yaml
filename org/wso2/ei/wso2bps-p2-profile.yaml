@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.wso2.ei
 artifactId: wso2bps-p2-profile
 versioning:
-  latest: 6.4.0
-  release: 6.4.0
+  latest: 6.4.0-m7
+  release: 6.4.0-m7
   versions:
   - 6.1.1-update6
   - 6.1.1-update8
@@ -46,4 +47,4 @@ versioning:
   - 6.4.0-m6
   - 6.4.0-m7
   - 6.4.0
-  lastUpdated: 20180906011908
+  lastUpdated: 20180911201051

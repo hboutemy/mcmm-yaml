@@ -1,12 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.wso2.orbit.org.apache.httpcomponents
 artifactId: httpclient
 versioning:
-  latest: 4.3.6.wso2v1
+  latest: 4.3.6.wso2v2
   release: 4.3.6.wso2v2
   versions:
-  - 4.3.6.wso2v1
   - 4.3.1.wso2v3
+  - 4.3.6.wso2v1
   - 4.3.6.wso2v2
-  lastUpdated: 20180523091711
+  lastUpdated: 20180911203347

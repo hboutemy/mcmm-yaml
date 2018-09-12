@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.wso2.ei
 artifactId: integrations
 versioning:
@@ -45,8 +46,8 @@ versioning:
   - 6.4.0-m5
   - 6.4.0-m6
   - 6.4.0-m7
-  - 6.4.0
   - 7.0.0-m2
   - 7.0.0-update0
   - 7.0.0-update1
-  lastUpdated: 20180906011717
+  - 6.4.0
+  lastUpdated: 20180911201032

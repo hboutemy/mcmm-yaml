@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.identity.core
 versioning:
-  latest: 5.12.150
-  release: 5.12.150
+  latest: 5.12.151
+  release: 5.12.151
   versions:
   - 5.8.140
   - 5.8.141
@@ -568,4 +569,6 @@ versioning:
   - 5.12.148
   - 5.12.149
   - 5.12.150
-  lastUpdated: 20180910181305
+  - 5.12.151
+  - 5.12.152
+  lastUpdated: 20180911145528
