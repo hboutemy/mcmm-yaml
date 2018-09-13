@@ -3,8 +3,8 @@
 groupId: org.hibernate
 artifactId: hibernate-search-backend-jgroups
 versioning:
-  latest: 5.10.3.Final
-  release: 5.10.3.Final
+  latest: 5.10.4.Final
+  release: 5.10.4.Final
   versions:
   - 5.0.0.Alpha1
   - 5.0.0.Alpha2
@@ -59,6 +59,7 @@ versioning:
   - 5.6.3.Final
   - 5.6.4.Final
   - 5.6.5.Final
+  - 5.6.6.Final
   - 5.7.0.Alpha1
   - 5.7.0.Beta1
   - 5.7.0.Beta2
@@ -79,6 +80,7 @@ versioning:
   - 5.9.0.Final
   - 5.9.1.Final
   - 5.9.2.Final
+  - 5.9.3.Final
   - 5.10.0.Beta1
   - 5.10.0.Beta2
   - 5.10.0.CR1
@@ -86,4 +88,5 @@ versioning:
   - 5.10.1.Final
   - 5.10.2.Final
   - 5.10.3.Final
-  lastUpdated: 20180724110717
+  - 5.10.4.Final
+  lastUpdated: 20180910154922
