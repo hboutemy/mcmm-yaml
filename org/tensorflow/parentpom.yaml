@@ -3,8 +3,8 @@
 groupId: org.tensorflow
 artifactId: parentpom
 versioning:
-  latest: 1.10.0
-  release: 1.10.0
+  latest: 1.11.0-rc0
+  release: 1.11.0-rc0
   versions:
   - 1.1.0-rc0
   - 1.1.0-rc0-windows-fix
@@ -42,4 +42,5 @@ versioning:
   - 1.10.0-rc0
   - 1.10.0-rc1
   - 1.10.0
-  lastUpdated: 20180813235310
+  - 1.11.0-rc0
+  lastUpdated: 20180913224127
