@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud
 artifactId: spring-cloud-dataflow-server-kubernetes-parent
 versioning:
-  latest: 1.6.2.RELEASE
-  release: 1.6.2.RELEASE
+  latest: 1.6.3.RELEASE
+  release: 1.6.3.RELEASE
   versions:
   - 1.0.0.RELEASE
   - 1.0.1.RELEASE
@@ -24,4 +24,5 @@ versioning:
   - 1.6.0.RELEASE
   - 1.6.1.RELEASE
   - 1.6.2.RELEASE
-  lastUpdated: 20180905204809
+  - 1.6.3.RELEASE
+  lastUpdated: 20180918154853
