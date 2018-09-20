@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.am.microgw
 artifactId: org.wso2.micro.gateway.cli
 versioning:
-  latest: 2.6.0-rc1
-  release: 2.6.0-rc1
+  latest: 2.6.0
+  release: 2.6.0
   versions:
   - 2.5.0-beta
   - 2.5.0-m1
@@ -15,5 +15,6 @@ versioning:
   - 2.6.0-alpha
   - 2.6.0-beta
   - 2.6.0-rc1
+  - 2.6.0
   - 2.5.1
-  lastUpdated: 20180908014451
+  lastUpdated: 20180919044237
