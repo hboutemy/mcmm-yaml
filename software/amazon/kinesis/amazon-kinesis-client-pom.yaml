@@ -3,11 +3,13 @@
 groupId: software.amazon.kinesis
 artifactId: amazon-kinesis-client-pom
 versioning:
-  latest: 2.0.3-experimental
-  release: 2.0.3-experimental
+  latest: 2.0.3-experimental-3
+  release: 2.0.3-experimental-3
   versions:
   - 2.0.0
   - 2.0.1
   - 2.0.2
   - 2.0.3-experimental
-  lastUpdated: 20180919014624
+  - 2.0.3-experimental-2
+  - 2.0.3-experimental-3
+  lastUpdated: 20180920215925

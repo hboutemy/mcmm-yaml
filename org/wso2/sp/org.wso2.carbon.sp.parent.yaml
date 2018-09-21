@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.sp
 artifactId: org.wso2.carbon.sp.parent
 versioning:
-  latest: 4.3.0-M6
-  release: 4.3.0-M6
+  latest: 4.3.0
+  release: 4.3.0
   versions:
   - 4.0.0-Alpha
   - 4.0.0-Alpha2
@@ -46,5 +46,6 @@ versioning:
   - 4.3.0-M4
   - 4.3.0-M5
   - 4.3.0-M6
+  - 4.3.0
   - 4.0.0
-  lastUpdated: 20180906051752
+  lastUpdated: 20180920132005
