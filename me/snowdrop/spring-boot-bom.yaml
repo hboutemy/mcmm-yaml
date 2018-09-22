@@ -3,10 +3,13 @@
 groupId: me.snowdrop
 artifactId: spring-boot-bom
 versioning:
-  latest: 1.4.1.Beta2
-  release: 1.4.1.Beta2
+  latest: 2.0.0.Alpha2
+  release: 2.0.0.Alpha2
   versions:
-  - 1.4.1.Beta2
+  - 1.5.7.Beta1
+  - 1.5.8.Beta1
+  - 1.5.8.Beta2
+  - 1.5.8.Final
   - 1.5.10.Beta1
   - 1.5.10.Beta2
   - 1.5.10.Final
@@ -26,10 +29,8 @@ versioning:
   - 1.5.15.Beta1
   - 1.5.15.Final
   - 1.5.15.Test1
-  - 1.5.7.Beta1
-  - 1.5.8.Beta1
-  - 1.5.8.Beta2
-  - 1.5.8.Final
+  - 1.5.16.Beta1
   - 2.0.0.Alpha1
   - 2.0.0.Alpha2
-  lastUpdated: 20170915123450
+  - 1.4.1.Beta2
+  lastUpdated: 20180921120437
