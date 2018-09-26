@@ -3,12 +3,10 @@
 groupId: com.atlassian.asap
 artifactId: asap-service-api
 versioning:
-  latest: 2.15.2
-  release: 2.15.2
+  latest: 2.21.3
+  release: 2.21.3
   versions:
-  - 2.8.0
-  - 2.9.1
-  - 2.9.2
+  - 2.21.3
   - 2.10.0
   - 2.10.1
   - 2.10.3
@@ -19,8 +17,8 @@ versioning:
   - 2.11.2
   - 2.11.3
   - 2.11.4
-  - 2.12.0-m1
   - 2.12.0
+  - 2.12.0-m1
   - 2.12.1
   - 2.13.0
   - 2.13.1
@@ -32,4 +30,7 @@ versioning:
   - 2.15.0
   - 2.15.1
   - 2.15.2
-  lastUpdated: 20171012030650
+  - 2.8.0
+  - 2.9.1
+  - 2.9.2
+  lastUpdated: 20180925041039
