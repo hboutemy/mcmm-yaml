@@ -3,8 +3,8 @@
 groupId: guru.qas
 artifactId: martini-standalone
 versioning:
-  latest: 3.0.0
-  release: 3.0.0
+  latest: 4.0.0-JDK10
+  release: 4.0.0-JDK10
   versions:
   - 1.0
   - 1.0.1
@@ -27,4 +27,5 @@ versioning:
   - 2.4.1
   - 2.5.0
   - 3.0.0
-  lastUpdated: 20180821224259
+  - 4.0.0-JDK10
+  lastUpdated: 20180926220331
