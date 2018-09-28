@@ -3,8 +3,8 @@
 groupId: org.neo4j.build
 artifactId: packaging-build
 versioning:
-  latest: 3.5.0-alpha09
-  release: 3.5.0-alpha09
+  latest: 3.5.0-beta01
+  release: 3.5.0-beta01
   versions:
   - 1.4.M03
   - 1.4.M04
@@ -101,4 +101,5 @@ versioning:
   - 3.5.0-alpha07
   - 3.5.0-alpha08
   - 3.5.0-alpha09
-  lastUpdated: 20180914122044
+  - 3.5.0-beta01
+  lastUpdated: 20180927090921

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-federation-parent
 versioning:
-  latest: 4.4.0.Final
-  release: 4.4.0.Final
+  latest: 4.5.0.Final
+  release: 4.5.0.Final
   versions:
   - 1.0-beta-4
   - 1.0-rc-1
@@ -87,5 +87,6 @@ versioning:
   - 4.2.1.Final
   - 4.3.0.Final
   - 4.4.0.Final
+  - 4.5.0.Final
   - 1.5.0-Final
-  lastUpdated: 20180905201005
+  lastUpdated: 20180927130015

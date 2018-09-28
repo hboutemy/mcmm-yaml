@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-ha
 versioning:
-  latest: 3.5.0-alpha09
-  release: 3.5.0-alpha09
+  latest: 3.5.0-beta01
+  release: 3.5.0-beta01
   versions:
   - 0.5-1.2.M05
   - 0.5-1.2.M06
@@ -246,4 +246,5 @@ versioning:
   - 3.5.0-alpha07
   - 3.5.0-alpha08
   - 3.5.0-alpha09
-  lastUpdated: 20180914122214
+  - 3.5.0-beta01
+  lastUpdated: 20180927091033
