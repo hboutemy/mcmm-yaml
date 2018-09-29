@@ -3,8 +3,8 @@
 groupId: com.stratio.cassandra
 artifactId: cassandra-lucene-index-parent
 versioning:
-  latest: 3.11.1.0
-  release: 3.11.1.0
+  latest: 3.11.3.0
+  release: 3.11.3.0
   versions:
   - 2.1.6.2
   - 2.1.8.1
@@ -125,4 +125,6 @@ versioning:
   - 3.10.0
   - 3.11.0.0
   - 3.11.1.0
-  lastUpdated: 20171227130225
+  - 3.11.2.0
+  - 3.11.3.0
+  lastUpdated: 20180928124507

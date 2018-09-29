@@ -3,8 +3,8 @@
 groupId: com.netflix.priam
 artifactId: priam-cass-extensions
 versioning:
-  latest: 4.0.0-alpha2
-  release: 4.0.0-alpha2
+  latest: 4.0.0-alpha7
+  release: 4.0.0-alpha7
   versions:
   - 1.1.51
   - 1.1.52
@@ -101,6 +101,7 @@ versioning:
   - 3.1.58
   - 3.1.59
   - 3.1.60
+  - 3.1.61
   - 3.11.3
   - 3.11.4
   - 3.11.5
@@ -132,4 +133,5 @@ versioning:
   - 3.11.31
   - 4.0.0-alpha1
   - 4.0.0-alpha2
-  lastUpdated: 20180911035731
+  - 4.0.0-alpha7
+  lastUpdated: 20180928224750
