@@ -3,8 +3,8 @@
 groupId: org.hibernate.ogm
 artifactId: hibernate-ogm-infinispan-embedded
 versioning:
-  latest: 5.4.0.Beta2
-  release: 5.4.0.Beta2
+  latest: 5.4.0.CR1
+  release: 5.4.0.CR1
   versions:
   - 5.2.0.CR1
   - 5.2.0.Final
@@ -14,4 +14,5 @@ versioning:
   - 5.4.0.Alpha1
   - 5.4.0.Beta1
   - 5.4.0.Beta2
-  lastUpdated: 20180705160157
+  - 5.4.0.CR1
+  lastUpdated: 20181001074334

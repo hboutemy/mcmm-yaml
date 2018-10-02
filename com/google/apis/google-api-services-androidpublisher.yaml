@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-androidpublisher
 versioning:
-  latest: v3-rev27-1.25.0
-  release: v3-rev27-1.25.0
+  latest: v3-rev28-1.25.0
+  release: v3-rev28-1.25.0
   versions:
   - v1-rev10-1.13.2-beta
   - v1-rev10-1.14.1-beta
@@ -457,6 +457,11 @@ versioning:
   - v1-rev135-1.23.0
   - v1-rev135-1.24.1
   - v1-rev135-1.25.0
+  - v1-rev136-1.18.0-rc
+  - v1-rev136-1.22.0
+  - v1-rev136-1.23.0
+  - v1-rev136-1.24.1
+  - v1-rev136-1.25.0
   - v1.1-rev2-1.13.2-beta
   - v1.1-rev2-1.14.2-beta
   - v1.1-rev2-1.15.0-rc
@@ -893,6 +898,11 @@ versioning:
   - v1.1-rev119-1.23.0
   - v1.1-rev119-1.24.1
   - v1.1-rev119-1.25.0
+  - v1.1-rev120-1.18.0-rc
+  - v1.1-rev120-1.22.0
+  - v1.1-rev120-1.23.0
+  - v1.1-rev120-1.24.1
+  - v1.1-rev120-1.25.0
   - v2-rev2-1.15.0-rc
   - v2-rev2-1.16.0-rc
   - v2-rev2-1.17.0-rc
@@ -1248,6 +1258,11 @@ versioning:
   - v2-rev100-1.23.0
   - v2-rev100-1.24.1
   - v2-rev100-1.25.0
+  - v2-rev101-1.18.0-rc
+  - v2-rev101-1.22.0
+  - v2-rev101-1.23.0
+  - v2-rev101-1.24.1
+  - v2-rev101-1.25.0
   - v3-rev1-1.18.0-rc
   - v3-rev1-1.21.0
   - v3-rev1-1.22.0
@@ -1338,4 +1353,9 @@ versioning:
   - v3-rev27-1.23.0
   - v3-rev27-1.24.1
   - v3-rev27-1.25.0
-  lastUpdated: 20180926180349
+  - v3-rev28-1.18.0-rc
+  - v3-rev28-1.22.0
+  - v3-rev28-1.23.0
+  - v3-rev28-1.24.1
+  - v3-rev28-1.25.0
+  lastUpdated: 20181001180639
