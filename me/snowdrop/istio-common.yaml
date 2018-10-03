@@ -3,8 +3,8 @@
 groupId: me.snowdrop
 artifactId: istio-common
 versioning:
-  latest: 0.13
-  release: 0.13
+  latest: 1.0.0.Alpha1
+  release: 1.0.0.Alpha1
   versions:
   - 0.6
   - 0.7
@@ -14,4 +14,5 @@ versioning:
   - 0.11
   - 0.12
   - 0.13
-  lastUpdated: 20180925125757
+  - 1.0.0.Alpha1
+  lastUpdated: 20181002191701
