@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-domain-http-interface
 versioning:
-  latest: 7.0.0.Alpha1
-  release: 7.0.0.Alpha1
+  latest: 7.0.0.Alpha2
+  release: 7.0.0.Alpha2
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -208,4 +208,5 @@ versioning:
   - 6.0.1.Final
   - 6.0.2.Final
   - 7.0.0.Alpha1
-  lastUpdated: 20180919103416
+  - 7.0.0.Alpha2
+  lastUpdated: 20181003093930

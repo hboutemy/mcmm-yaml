@@ -3,8 +3,8 @@
 groupId: com.playtika.testcontainers
 artifactId: embedded-mariadb
 versioning:
-  latest: 1.9
-  release: 1.9
+  latest: 1.12
+  release: 1.12
   versions:
   - 1.0
   - 1.1
@@ -16,4 +16,5 @@ versioning:
   - 1.7
   - 1.8
   - 1.9
-  lastUpdated: 20180829133827
+  - 1.12
+  lastUpdated: 20181003125352
