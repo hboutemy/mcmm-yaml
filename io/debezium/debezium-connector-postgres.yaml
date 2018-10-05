@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-connector-postgres
 versioning:
-  latest: 0.9.0.Alpha1
-  release: 0.9.0.Alpha1
+  latest: 0.9.0.Alpha2
+  release: 0.9.0.Alpha2
   versions:
   - 0.4.0
   - 0.4.1
@@ -27,4 +27,5 @@ versioning:
   - 0.8.2
   - 0.8.3.Final
   - 0.9.0.Alpha1
-  lastUpdated: 20180919101439
+  - 0.9.0.Alpha2
+  lastUpdated: 20181004120800

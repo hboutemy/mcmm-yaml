@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.sp
 artifactId: kafka-producer
 versioning:
-  latest: 4.4.0-m1
-  release: 4.4.0-m1
+  latest: 4.4.0-m2
+  release: 4.4.0-m2
   versions:
   - 4.0.0-Alpha
   - 4.0.0-Alpha2
@@ -48,5 +48,6 @@ versioning:
   - 4.3.0-M6
   - 4.3.0
   - 4.4.0-m1
+  - 4.4.0-m2
   - 4.0.0
-  lastUpdated: 20180927050031
+  lastUpdated: 20181004050103
