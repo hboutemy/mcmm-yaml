@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-management-console
 versioning:
-  latest: 9.4.0.Alpha1
-  release: 9.4.0.Alpha1
+  latest: 9.4.0.Final
+  release: 9.4.0.Final
   versions:
   - 8.0.0.Alpha1
   - 8.0.0.Beta1
@@ -48,5 +48,6 @@ versioning:
   - 9.3.0.Final
   - 9.3.1.Final
   - 9.4.0.Alpha1
+  - 9.4.0.Final
   - 9.0.0
-  lastUpdated: 20180724054618
+  lastUpdated: 20181005134959
