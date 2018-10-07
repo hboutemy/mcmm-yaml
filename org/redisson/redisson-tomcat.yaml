@@ -3,8 +3,8 @@
 groupId: org.redisson
 artifactId: redisson-tomcat
 versioning:
-  latest: 3.8.1
-  release: 3.8.1
+  latest: 3.8.2
+  release: 3.8.2
   versions:
   - 2.7.0
   - 2.7.1
@@ -41,6 +41,7 @@ versioning:
   - 2.12.5
   - 2.13.0
   - 2.13.1
+  - 2.13.2
   - 3.2.0
   - 3.2.1
   - 3.2.2
@@ -76,4 +77,5 @@ versioning:
   - 3.7.5
   - 3.8.0
   - 3.8.1
-  lastUpdated: 20180918103055
+  - 3.8.2
+  lastUpdated: 20181006094030
