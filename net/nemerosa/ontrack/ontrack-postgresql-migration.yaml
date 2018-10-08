@@ -3,8 +3,8 @@
 groupId: net.nemerosa.ontrack
 artifactId: ontrack-postgresql-migration
 versioning:
-  latest: 3.36-beta.5
-  release: 3.36-beta.5
+  latest: 3.36-beta.8
+  release: 3.36-beta.8
   versions:
   - refac-postgresql-a8971e3
   - 3.0-alpha.1
@@ -92,4 +92,7 @@ versioning:
   - 3.36-beta.3
   - 3.36-beta.4
   - 3.36-beta.5
-  lastUpdated: 20181003125032
+  - 3.36-beta.6
+  - 3.36-beta.7
+  - 3.36-beta.8
+  lastUpdated: 20181007182210
