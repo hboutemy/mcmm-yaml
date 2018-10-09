@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.apimgt
 artifactId: org.wso2.carbon.apimgt.publisher.feature
 versioning:
-  latest: 7.0.208
-  release: 7.0.208
+  latest: 7.0.210
+  release: 7.0.210
   versions:
   - 6.1.113
   - 6.1.114
@@ -522,6 +522,7 @@ versioning:
   - 6.4.69
   - 6.4.70
   - 6.4.71
+  - 6.4.72
   - 7.0.43
   - 7.0.44
   - 7.0.45
@@ -686,4 +687,6 @@ versioning:
   - 7.0.206
   - 7.0.207
   - 7.0.208
-  lastUpdated: 20181006180707
+  - 7.0.209
+  - 7.0.210
+  lastUpdated: 20181008112704
