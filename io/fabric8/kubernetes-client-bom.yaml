@@ -3,8 +3,8 @@
 groupId: io.fabric8
 artifactId: kubernetes-client-bom
 versioning:
-  latest: 4.0.5
-  release: 4.0.5
+  latest: 4.0.7
+  release: 4.0.7
   versions:
   - 1.0.81
   - 1.0.82
@@ -161,4 +161,6 @@ versioning:
   - 4.0.3
   - 4.0.4
   - 4.0.5
-  lastUpdated: 20180907114332
+  - 4.0.6
+  - 4.0.7
+  lastUpdated: 20181011203809
