@@ -3,8 +3,8 @@
 groupId: org.apache.struts
 artifactId: struts2-assembly
 versioning:
-  latest: 2.5.17
-  release: 2.5.17
+  latest: 2.5.18
+  release: 2.5.18
   versions:
   - 2.0.11
   - 2.0.14
@@ -48,6 +48,7 @@ versioning:
   - 2.3.33
   - 2.3.34
   - 2.3.35
+  - 2.3.36
   - 2.5-BETA1
   - 2.5-BETA2
   - 2.5-BETA3
@@ -64,4 +65,5 @@ versioning:
   - 2.5.14.1
   - 2.5.16
   - 2.5.17
-  lastUpdated: 20180821054602
+  - 2.5.18
+  lastUpdated: 20181012103309
