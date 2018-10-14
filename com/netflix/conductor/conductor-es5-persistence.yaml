@@ -3,8 +3,8 @@
 groupId: com.netflix.conductor
 artifactId: conductor-es5-persistence
 versioning:
-  latest: 1.12.4-rc2
-  release: 1.12.4-rc2
+  latest: 2.0.0-rc3
+  release: 2.0.0-rc3
   versions:
   - 1.7.7
   - 1.8.0
@@ -63,4 +63,5 @@ versioning:
   - 1.12.3
   - 1.12.4-rc1
   - 1.12.4-rc2
-  lastUpdated: 20180927225431
+  - 2.0.0-rc3
+  lastUpdated: 20181013002700
