@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.bundles
 artifactId: org.sonatype.nexus.bundles.elasticsearch
 versioning:
-  latest: 3.13.0-01
-  release: 3.13.0-01
+  latest: 3.14.0-04
+  release: 3.14.0-04
   versions:
   - 3.2.0-01
   - 3.2.1-01
@@ -27,4 +27,5 @@ versioning:
   - 3.12.0-01
   - 3.12.1-01
   - 3.13.0-01
-  lastUpdated: 20180719172632
+  - 3.14.0-04
+  lastUpdated: 20181016183605
