@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-cluster
 versioning:
-  latest: 3.5.0-beta01
-  release: 3.5.0-beta01
+  latest: 3.5.0-beta02
+  release: 3.5.0-beta02
   versions:
   - 1.9.M01
   - 1.9.M02
@@ -201,4 +201,5 @@ versioning:
   - 3.5.0-alpha08
   - 3.5.0-alpha09
   - 3.5.0-beta01
-  lastUpdated: 20181016154104
+  - 3.5.0-beta02
+  lastUpdated: 20181017071254

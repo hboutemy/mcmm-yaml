@@ -3,11 +3,12 @@
 groupId: org.apache.skywalking
 artifactId: agent-grpc
 versioning:
-  latest: 5.0.0-RC2
-  release: 5.0.0-RC2
+  latest: 5.0.0-GA
+  release: 5.0.0-GA
   versions:
   - 5.0.0-alpha
   - 5.0.0-beta
   - 5.0.0-beta2
   - 5.0.0-RC2
-  lastUpdated: 20180912141604
+  - 5.0.0-GA
+  lastUpdated: 20181017030141

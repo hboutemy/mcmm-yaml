@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.jboss.windup
 artifactId: windup-tooling-tests
 versioning:
-  latest: 4.0.1.Final
-  release: 4.0.1.Final
+  latest: 4.2.0.Alpha2
+  release: 4.2.0.Alpha2
   versions:
   - 2.3.0.Final
   - 2.4.0.CR1
@@ -31,4 +32,4 @@ versioning:
   - 4.1.0.Final
   - 4.2.0.Alpha1
   - 4.2.0.Alpha2
-  lastUpdated: 20180320141445
+  lastUpdated: 20181017161731
