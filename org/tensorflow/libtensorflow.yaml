@@ -3,8 +3,8 @@
 groupId: org.tensorflow
 artifactId: libtensorflow
 versioning:
-  latest: 1.12.0-rc0
-  release: 1.12.0-rc0
+  latest: 1.12.0-rc1
+  release: 1.12.0-rc1
   versions:
   - 1.1.0-rc0
   - 1.1.0-rc0-windows-fix
@@ -47,4 +47,5 @@ versioning:
   - 1.11.0-rc2
   - 1.11.0
   - 1.12.0-rc0
-  lastUpdated: 20181009212330
+  - 1.12.0-rc1
+  lastUpdated: 20181018024223

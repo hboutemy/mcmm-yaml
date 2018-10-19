@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-cli
 versioning:
-  latest: 7.0.0.Alpha2
-  release: 7.0.0.Alpha2
+  latest: 7.0.0.Alpha4
+  release: 7.0.0.Alpha4
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -210,4 +210,6 @@ versioning:
   - 6.0.2.Final
   - 7.0.0.Alpha1
   - 7.0.0.Alpha2
-  lastUpdated: 20181003093924
+  - 7.0.0.Alpha3
+  - 7.0.0.Alpha4
+  lastUpdated: 20181018142124

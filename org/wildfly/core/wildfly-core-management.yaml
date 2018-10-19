@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-core-management
 versioning:
-  latest: 7.0.0.Alpha2
-  release: 7.0.0.Alpha2
+  latest: 7.0.0.Alpha4
+  release: 7.0.0.Alpha4
   versions:
   - 3.0.0.Alpha13
   - 3.0.0.Alpha14
@@ -105,4 +105,6 @@ versioning:
   - 6.0.2.Final
   - 7.0.0.Alpha1
   - 7.0.0.Alpha2
-  lastUpdated: 20181003093927
+  - 7.0.0.Alpha3
+  - 7.0.0.Alpha4
+  lastUpdated: 20181018142128
