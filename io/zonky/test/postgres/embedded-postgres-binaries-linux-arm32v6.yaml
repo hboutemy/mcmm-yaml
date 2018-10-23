@@ -3,17 +3,22 @@
 groupId: io.zonky.test.postgres
 artifactId: embedded-postgres-binaries-linux-arm32v6
 versioning:
-  latest: 10.5.0
-  release: 10.5.0
+  latest: 10.5.0-1
+  release: 10.5.0-1
   versions:
   - 9.3.23
   - 9.3.24
+  - 9.3.24-1
   - 9.4.18
   - 9.4.19
+  - 9.4.19-1
   - 9.5.13
   - 9.5.14
+  - 9.5.14-1
   - 9.6.9
   - 9.6.10
+  - 9.6.10-1
   - 10.4.0
   - 10.5.0
-  lastUpdated: 20180825103134
+  - 10.5.0-1
+  lastUpdated: 20181022062810

@@ -3,9 +3,10 @@
 groupId: io.zonky.test.postgres
 artifactId: embedded-postgres-binaries-linux-arm32v6-alpine-lite
 versioning:
-  latest: 10.5.0
-  release: 10.5.0
+  latest: 10.5.0-1
+  release: 10.5.0-1
   versions:
   - 10.4.0
   - 10.5.0
-  lastUpdated: 20180825103137
+  - 10.5.0-1
+  lastUpdated: 20181022062812
