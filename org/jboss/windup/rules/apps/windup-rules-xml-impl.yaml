@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.windup.rules.apps
 artifactId: windup-rules-xml-impl
 versioning:
-  latest: 4.2.0.Alpha2
-  release: 4.2.0.Alpha2
+  latest: 4.2.0.Final
+  release: 4.2.0.Final
   versions:
   - 2.5.0.CR2
   - 2.5.0.CR3
@@ -25,4 +25,5 @@ versioning:
   - 4.1.0.Final
   - 4.2.0.Alpha1
   - 4.2.0.Alpha2
-  lastUpdated: 20181017161636
+  - 4.2.0.Final
+  lastUpdated: 20181026110619

@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-cypher-slotted-runtime
 versioning:
-  latest: 3.5.0-beta02
-  release: 3.5.0-beta02
+  latest: 3.5.0-beta03
+  release: 3.5.0-beta03
   versions:
   - 3.3.0-beta01
   - 3.3.0-beta02
@@ -51,4 +51,5 @@ versioning:
   - 3.5.0-alpha09
   - 3.5.0-beta01
   - 3.5.0-beta02
-  lastUpdated: 20181017071343
+  - 3.5.0-beta03
+  lastUpdated: 20181026095941

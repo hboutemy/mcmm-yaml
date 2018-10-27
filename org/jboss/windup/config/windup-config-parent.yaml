@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.windup.config
 artifactId: windup-config-parent
 versioning:
-  latest: 4.2.0.Alpha2
-  release: 4.2.0.Alpha2
+  latest: 4.2.0.Final
+  release: 4.2.0.Final
   versions:
   - 2.0.0.Beta1
   - 2.0.0.Beta2
@@ -44,4 +44,5 @@ versioning:
   - 4.1.0.Final
   - 4.2.0.Alpha1
   - 4.2.0.Alpha2
-  lastUpdated: 20181017161903
+  - 4.2.0.Final
+  lastUpdated: 20181026110519

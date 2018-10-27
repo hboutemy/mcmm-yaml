@@ -3,10 +3,11 @@
 groupId: io.prestodb.tempto
 artifactId: tempto-kafka
 versioning:
-  latest: 1.49
-  release: 1.49
+  latest: 1.50
+  release: 1.50
   versions:
   - 1.46
   - 1.47
   - 1.49
-  lastUpdated: 20180405105831
+  - 1.50
+  lastUpdated: 20181026131957
