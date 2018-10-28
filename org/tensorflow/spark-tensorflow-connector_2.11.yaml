@@ -3,8 +3,8 @@
 groupId: org.tensorflow
 artifactId: spark-tensorflow-connector_2.11
 versioning:
-  latest: 1.12.0-rc1
-  release: 1.12.0-rc1
+  latest: 1.12.0-rc2
+  release: 1.12.0-rc2
   versions:
   - 1.11.0-rc0
   - 1.11.0-rc1
@@ -12,4 +12,5 @@ versioning:
   - 1.11.0
   - 1.12.0-rc0
   - 1.12.0-rc1
-  lastUpdated: 20181018024229
+  - 1.12.0-rc2
+  lastUpdated: 20181027003748
