@@ -3,8 +3,8 @@
 groupId: io.projectreactor
 artifactId: reactor-bom
 versioning:
-  latest: Californium-SR1
-  release: Californium-SR1
+  latest: Californium-SR2
+  release: Californium-SR2
   versions:
   - Aluminium-RELEASE
   - Aluminium-SR1
@@ -26,4 +26,5 @@ versioning:
   - Bismuth-SR13
   - Californium-RELEASE
   - Californium-SR1
-  lastUpdated: 20181026231826
+  - Californium-SR2
+  lastUpdated: 20181028204408
