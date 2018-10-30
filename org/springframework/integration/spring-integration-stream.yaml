@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.integration
 artifactId: spring-integration-stream
 versioning:
-  latest: 5.0.9.RELEASE
-  release: 5.0.9.RELEASE
+  latest: 5.1.0.RELEASE
+  release: 5.1.0.RELEASE
   versions:
   - 1.0.1.RELEASE
   - 1.0.2.RELEASE
@@ -102,5 +102,6 @@ versioning:
   - 5.0.7.RELEASE
   - 5.0.8.RELEASE
   - 5.0.9.RELEASE
+  - 5.1.0.RELEASE
   - 4.0.0.M3
-  lastUpdated: 20181015181211
+  lastUpdated: 20181029163730

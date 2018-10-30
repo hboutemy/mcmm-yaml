@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.batch
 artifactId: spring-batch-test
 versioning:
-  latest: 4.0.1.RELEASE
-  release: 4.0.1.RELEASE
+  latest: 4.1.0.RELEASE
+  release: 4.1.0.RELEASE
   versions:
   - 2.0.0.RC1
   - 2.0.0.RELEASE
@@ -44,4 +44,5 @@ versioning:
   - 3.0.9.RELEASE
   - 4.0.0.RELEASE
   - 4.0.1.RELEASE
-  lastUpdated: 20180307152252
+  - 4.1.0.RELEASE
+  lastUpdated: 20181029210258
