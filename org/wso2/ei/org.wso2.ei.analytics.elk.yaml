@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.ei
 artifactId: org.wso2.ei.analytics.elk
 versioning:
-  latest: 6.4.0
-  release: 6.4.0
+  latest: 6.5.0-m1
+  release: 6.5.0-m1
   versions:
   - 6.1.1-update14
   - 6.1.1-update15
@@ -41,4 +41,5 @@ versioning:
   - 6.4.0-m7
   - 6.4.0-m8
   - 6.4.0
-  lastUpdated: 20180918020433
+  - 6.5.0-m1
+  lastUpdated: 20181101005544

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.ei
 artifactId: org.wso2.carbon.micro.integrator.server
 versioning:
-  latest: 6.4.0
-  release: 6.4.0
+  latest: 6.5.0-m1
+  release: 6.5.0-m1
   versions:
   - 6.3.0-m11
   - 6.3.0-rc1
@@ -19,4 +19,5 @@ versioning:
   - 6.4.0-m7
   - 6.4.0-m8
   - 6.4.0
-  lastUpdated: 20180918020429
+  - 6.5.0-m1
+  lastUpdated: 20181101005540
