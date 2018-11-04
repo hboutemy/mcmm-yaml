@@ -3,8 +3,8 @@
 groupId: org.wildfly.galleon-plugins
 artifactId: wildfly-galleon-maven-plugin
 versioning:
-  latest: 3.0.0.Alpha3
-  release: 3.0.0.Alpha3
+  latest: 3.0.0.Beta1
+  release: 3.0.0.Beta1
   versions:
   - 2.0.0.Alpha1
   - 2.0.0.Alpha2
@@ -20,4 +20,5 @@ versioning:
   - 3.0.0.Alpha1
   - 3.0.0.Alpha2
   - 3.0.0.Alpha3
-  lastUpdated: 20181029175233
+  - 3.0.0.Beta1
+  lastUpdated: 20181102223304
