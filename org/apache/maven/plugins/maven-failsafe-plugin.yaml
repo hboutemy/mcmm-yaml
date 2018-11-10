@@ -3,8 +3,8 @@
 groupId: org.apache.maven.plugins
 artifactId: maven-failsafe-plugin
 versioning:
-  latest: 2.22.1
-  release: 2.22.1
+  latest: 3.0.0-M1
+  release: 3.0.0-M1
   versions:
   - 2.5
   - 2.6
@@ -36,4 +36,5 @@ versioning:
   - 2.21.0
   - 2.22.0
   - 2.22.1
-  lastUpdated: 20181012001449
+  - 3.0.0-M1
+  lastUpdated: 20181107110001

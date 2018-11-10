@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.stripe
 artifactId: stripe-java
 versioning:
-  latest: 7.2.0
-  release: 7.2.0
+  latest: 7.3.0
+  release: 7.3.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -221,4 +222,6 @@ versioning:
   - 7.0.0
   - 7.1.0
   - 7.2.0
-  lastUpdated: 20181031193324
+  - 7.3.0
+  - 4.11.0
+  lastUpdated: 20181107212847
