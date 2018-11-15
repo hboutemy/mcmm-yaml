@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: io.sundr.examples
 artifactId: arrays
 versioning:
-  latest: 1.14.0
-  release: 1.14.0
+  latest: 0.14.2
+  release: 0.14.2
   versions:
   - 0.9.2
   - 0.9.3
@@ -14,5 +15,7 @@ versioning:
   - 0.12.1
   - 0.13.1
   - 0.14.0
+  - 0.14.1
+  - 0.14.2
   - 1.14.0
-  lastUpdated: 20181108194811
+  lastUpdated: 20181114170146
