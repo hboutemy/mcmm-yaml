@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-dependencies-server-all
 versioning:
-  latest: 4.5.0.Final
-  release: 4.5.0.Final
+  latest: 4.6.0.Final
+  release: 4.6.0.Final
   versions:
   - 1.0-beta-4
   - 1.0-rc-1
@@ -88,5 +88,6 @@ versioning:
   - 4.3.0.Final
   - 4.4.0.Final
   - 4.5.0.Final
+  - 4.6.0.Final
   - 1.5.0-Final
-  lastUpdated: 20180927130014
+  lastUpdated: 20181114213739

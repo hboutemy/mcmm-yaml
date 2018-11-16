@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-jmx
 versioning:
-  latest: 3.5.0-beta03
-  release: 3.5.0-beta03
+  latest: 3.5.0-rc01
+  release: 3.5.0-rc01
   versions:
   - 1.3
   - 1.4.M01
@@ -247,4 +247,5 @@ versioning:
   - 3.5.0-beta01
   - 3.5.0-beta02
   - 3.5.0-beta03
-  lastUpdated: 20181114134515
+  - 3.5.0-rc01
+  lastUpdated: 20181115192048
