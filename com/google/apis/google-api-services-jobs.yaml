@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-jobs
 versioning:
-  latest: v3-rev20181029-1.27.0
-  release: v3-rev20181029-1.27.0
+  latest: v3-rev20181114-1.27.0
+  release: v3-rev20181114-1.27.0
   versions:
   - v2-rev1-1.18.0-rc
   - v2-rev1-1.21.0
@@ -98,6 +98,8 @@ versioning:
   - v2-rev24-1.25.0
   - v2-rev20181011-1.26.0
   - v2-rev20181011-1.27.0
+  - v2-rev20181114-1.26.0
+  - v2-rev20181114-1.27.0
   - v3p1beta1-rev2-1.24.1
   - v3p1beta1-rev2-1.25.0
   - v3p1beta1-rev3-1.18.0-rc
@@ -123,6 +125,8 @@ versioning:
   - v3p1beta1-rev20181011-1.26.0
   - v3p1beta1-rev20181029-1.26.0
   - v3p1beta1-rev20181029-1.27.0
+  - v3p1beta1-rev20181114-1.26.0
+  - v3p1beta1-rev20181114-1.27.0
   - v3-rev1-1.18.0-rc
   - v3-rev1-1.22.0
   - v3-rev1-1.23.0
@@ -167,4 +171,6 @@ versioning:
   - v3-rev20181011-1.26.0
   - v3-rev20181029-1.26.0
   - v3-rev20181029-1.27.0
-  lastUpdated: 20181114005842
+  - v3-rev20181114-1.26.0
+  - v3-rev20181114-1.27.0
+  lastUpdated: 20181119213532
