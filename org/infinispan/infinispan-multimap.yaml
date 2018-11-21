@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-multimap
 versioning:
-  latest: 9.4.1.Final
-  release: 9.4.1.Final
+  latest: 10.0.0.Alpha1
+  release: 10.0.0.Alpha1
   versions:
   - 9.2.0.Alpha1
   - 9.2.0.Alpha2
@@ -35,4 +35,6 @@ versioning:
   - 9.4.0.CR3
   - 9.4.0.Final
   - 9.4.1.Final
-  lastUpdated: 20181116202804
+  - 9.4.2.Final
+  - 10.0.0.Alpha1
+  lastUpdated: 20181120114020

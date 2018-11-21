@@ -3,12 +3,14 @@
 groupId: io.simplesource
 artifactId: simplesource-command-kafka
 versioning:
-  latest: 0.1.6
-  release: 0.1.6
+  latest: 0.2.0
+  release: 0.2.0
   versions:
+  - pre-state-store-removal
   - 0.1.0
   - 0.1.1
   - 0.1.2
   - 0.1.5
   - 0.1.6
-  lastUpdated: 20181108070338
+  - 0.2.0
+  lastUpdated: 20181120053039
