@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld
 artifactId: weld-api-parent
 versioning:
-  latest: 3.1.Alpha1
-  release: 3.1.Alpha1
+  latest: 3.1.Beta1
+  release: 3.1.Beta1
   versions:
   - 1.0-CR1
   - 1.0-CR2
@@ -94,4 +94,5 @@ versioning:
   - 3.0.SP3
   - 3.0.SP4
   - 3.1.Alpha1
-  lastUpdated: 20181023141444
+  - 3.1.Beta1
+  lastUpdated: 20181122095628

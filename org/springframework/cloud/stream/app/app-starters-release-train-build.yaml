@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud.stream.app
 artifactId: app-starters-release-train-build
 versioning:
-  latest: Darwin.SR2
-  release: Darwin.SR2
+  latest: Darwin.SR3
+  release: Darwin.SR3
   versions:
   - Avogadro.RELEASE
   - Avogadro.SR1
@@ -16,4 +16,5 @@ versioning:
   - Darwin.RELEASE
   - Darwin.SR1
   - Darwin.SR2
-  lastUpdated: 20181025140818
+  - Darwin.SR3
+  lastUpdated: 20181122002845
