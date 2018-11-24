@@ -3,8 +3,8 @@
 groupId: ch.epfl.lamp
 artifactId: scala-compiler
 versioning:
-  latest: 0.11.0-bin-20181121-d6e67d4-NIGHTLY
-  release: 0.11.0-bin-20181121-d6e67d4-NIGHTLY
+  latest: 0.11.0-bin-20181122-74c405e-NIGHTLY
+  release: 0.11.0-bin-20181122-74c405e-NIGHTLY
   versions:
   - 0.1.1-bin-20170424-40d405b-NIGHTLY
   - 0.1.1-bin-20170425-f1c3529-NIGHTLY
@@ -399,6 +399,7 @@ versioning:
   - 0.9.0-bin-20180703-a6b6690-NIGHTLY
   - 0.9.0-bin-20180704-94d8e94-NIGHTLY
   - 0.10.0-RC1
+  - 0.10.0
   - 0.10.0-bin-20180705-61840b6-NIGHTLY
   - 0.10.0-bin-20180706-7a80060-NIGHTLY
   - 0.10.0-bin-20180707-64bd0fe-NIGHTLY
@@ -497,4 +498,5 @@ versioning:
   - 0.11.0-bin-20181119-0a1aed2-NIGHTLY
   - 0.11.0-bin-20181120-2ac1401-NIGHTLY
   - 0.11.0-bin-20181121-d6e67d4-NIGHTLY
-  lastUpdated: 20181122025044
+  - 0.11.0-bin-20181122-74c405e-NIGHTLY
+  lastUpdated: 20181123115734
