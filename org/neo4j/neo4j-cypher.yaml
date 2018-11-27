@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-cypher
 versioning:
-  latest: 3.5.0-rc01
-  release: 3.5.0-rc01
+  latest: 3.5.0
+  release: 3.5.0
   versions:
   - 1.4.M04
   - 1.4.M05
@@ -244,4 +244,5 @@ versioning:
   - 3.5.0-beta02
   - 3.5.0-beta03
   - 3.5.0-rc01
-  lastUpdated: 20181115192016
+  - 3.5.0
+  lastUpdated: 20181126132021
