@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld.servlet
 artifactId: weld-servlet-test-tomcat
 versioning:
-  latest: 3.0.5.Final
-  release: 3.0.5.Final
+  latest: 3.1.0.Beta1
+  release: 3.1.0.Beta1
   versions:
   - 1.1.0.Beta1
   - 1.1.0.Beta2
@@ -158,4 +158,5 @@ versioning:
   - 3.0.3.Final
   - 3.0.4.Final
   - 3.0.5.Final
-  lastUpdated: 20180926112717
+  - 3.1.0.Beta1
+  lastUpdated: 20181127155625

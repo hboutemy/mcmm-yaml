@@ -3,8 +3,8 @@
 groupId: com.nimbusds
 artifactId: nimbus-jose-jwt
 versioning:
-  latest: 6.4
-  release: 6.4
+  latest: 6.4.1
+  release: 6.4.1
   versions:
   - 2.9
   - 2.10
@@ -119,6 +119,7 @@ versioning:
   - 4.41
   - 4.41.1
   - 4.41.2
+  - 4.41.3
   - 5.0
   - 5.1
   - 5.2
@@ -143,4 +144,5 @@ versioning:
   - 6.3
   - 6.3.1
   - 6.4
-  lastUpdated: 20181123173610
+  - 6.4.1
+  lastUpdated: 20181127195513
