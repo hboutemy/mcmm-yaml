@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: security-mgt-feature
 versioning:
@@ -629,4 +630,5 @@ versioning:
   - 5.12.210
   - 5.12.211
   - 5.12.212
-  lastUpdated: 20181127141641
+  - 5.12.213
+  lastUpdated: 20181128103615
