@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.ops4j.pax.exam
 artifactId: pax-exam-cdi
 versioning:
-  latest: 4.12.0
-  release: 4.12.0
+  latest: 4.13.0
+  release: 4.13.0
   versions:
   - 3.0.0.M1
   - 3.0.0.M2
@@ -37,4 +37,5 @@ versioning:
   - 4.10.0
   - 4.11.0
   - 4.12.0
-  lastUpdated: 20180705184842
+  - 4.13.0
+  lastUpdated: 20181129094125
