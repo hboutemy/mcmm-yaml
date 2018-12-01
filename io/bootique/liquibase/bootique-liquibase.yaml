@@ -3,8 +3,8 @@
 groupId: io.bootique.liquibase
 artifactId: bootique-liquibase
 versioning:
-  latest: 0.25
-  release: 0.25
+  latest: 1.0.RC1
+  release: 1.0.RC1
   versions:
   - 0.9
   - 0.10
@@ -13,4 +13,5 @@ versioning:
   - 0.13
   - 0.24
   - 0.25
-  lastUpdated: 20180321141258
+  - 1.0.RC1
+  lastUpdated: 20181130111424
