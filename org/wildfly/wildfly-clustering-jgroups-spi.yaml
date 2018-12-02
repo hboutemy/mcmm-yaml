@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-clustering-jgroups-spi
 versioning:
-  latest: 15.0.0.Beta1
-  release: 15.0.0.Beta1
+  latest: 15.0.0.Final
+  release: 15.0.0.Final
   versions:
   - 9.0.0.Beta1
   - 9.0.0.Beta2
@@ -42,4 +42,5 @@ versioning:
   - 14.0.0.Final
   - 14.0.1.Final
   - 15.0.0.Beta1
-  lastUpdated: 20181115022744
+  - 15.0.0.Final
+  lastUpdated: 20181130232002
