@@ -3,8 +3,8 @@
 groupId: io.zipkin.java
 artifactId: zipkin-autoconfigure-storage-elasticsearch
 versioning:
-  latest: 2.11.8
-  release: 2.11.8
+  latest: 2.11.9
+  release: 2.11.9
   versions:
   - 0.21.0
   - 0.21.1
@@ -81,4 +81,5 @@ versioning:
   - 2.11.6
   - 2.11.7
   - 2.11.8
-  lastUpdated: 20181103113005
+  - 2.11.9
+  lastUpdated: 20181203110437
