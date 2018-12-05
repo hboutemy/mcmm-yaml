@@ -3,8 +3,8 @@
 groupId: org.hibernate
 artifactId: hibernate-search-elasticsearch-aws
 versioning:
-  latest: 5.10.5.Final
-  release: 5.10.5.Final
+  latest: 5.11.0.CR1
+  release: 5.11.0.CR1
   versions:
   - 5.8.0.Beta4
   - 5.8.0.CR1
@@ -25,4 +25,5 @@ versioning:
   - 5.10.3.Final
   - 5.10.4.Final
   - 5.10.5.Final
-  lastUpdated: 20181121183429
+  - 5.11.0.CR1
+  lastUpdated: 20181204152956

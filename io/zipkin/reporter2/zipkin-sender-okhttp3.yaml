@@ -3,8 +3,8 @@
 groupId: io.zipkin.reporter2
 artifactId: zipkin-sender-okhttp3
 versioning:
-  latest: 2.7.11
-  release: 2.7.11
+  latest: 2.7.12
+  release: 2.7.12
   versions:
   - 2.0.0
   - 2.0.1
@@ -38,4 +38,5 @@ versioning:
   - 2.7.9
   - 2.7.10
   - 2.7.11
-  lastUpdated: 20181129063118
+  - 2.7.12
+  lastUpdated: 20181204000819
