@@ -3,8 +3,8 @@
 groupId: io.zipkin.reporter2
 artifactId: zipkin-sender-libthrift
 versioning:
-  latest: 2.7.12
-  release: 2.7.12
+  latest: 2.7.13
+  release: 2.7.13
   versions:
   - 2.7.0
   - 2.7.1
@@ -19,4 +19,5 @@ versioning:
   - 2.7.10
   - 2.7.11
   - 2.7.12
-  lastUpdated: 20181204000818
+  - 2.7.13
+  lastUpdated: 20181204233301

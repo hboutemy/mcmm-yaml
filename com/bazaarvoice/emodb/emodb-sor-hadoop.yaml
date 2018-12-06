@@ -3,8 +3,8 @@
 groupId: com.bazaarvoice.emodb
 artifactId: emodb-sor-hadoop
 versioning:
-  latest: 5.7.8
-  release: 5.7.8
+  latest: 5.7.10
+  release: 5.7.10
   versions:
   - 1.0.1-migration
   - 5.4.1
@@ -83,4 +83,6 @@ versioning:
   - 5.7.5
   - 5.7.7
   - 5.7.8
-  lastUpdated: 20181126214325
+  - 5.7.9
+  - 5.7.10
+  lastUpdated: 20181205184137

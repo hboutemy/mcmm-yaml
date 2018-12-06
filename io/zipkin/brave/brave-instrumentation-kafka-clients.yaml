@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-instrumentation-kafka-clients
 versioning:
-  latest: 5.5.1
-  release: 5.5.1
+  latest: 5.5.2
+  release: 5.5.2
   versions:
   - 4.6.0
   - 4.7.0
@@ -64,4 +64,5 @@ versioning:
   - 5.4.4
   - 5.5.0
   - 5.5.1
-  lastUpdated: 20181122040948
+  - 5.5.2
+  lastUpdated: 20181205022455
