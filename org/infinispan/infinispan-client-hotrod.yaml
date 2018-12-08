@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-client-hotrod
 versioning:
-  latest: 10.0.0.Alpha1
-  release: 10.0.0.Alpha1
+  latest: 10.0.0.Alpha2
+  release: 10.0.0.Alpha2
   versions:
   - 5.0.0.FINAL
   - 5.0.1.FINAL
@@ -205,5 +205,7 @@ versioning:
   - 9.4.1.Final
   - 9.4.2.Final
   - 9.4.3.Final
+  - 9.4.4.Final
   - 10.0.0.Alpha1
-  lastUpdated: 20181128233011
+  - 10.0.0.Alpha2
+  lastUpdated: 20181207165304
