@@ -3,8 +3,8 @@
 groupId: org.apache.maven.surefire
 artifactId: surefire-junit3
 versioning:
-  latest: 3.0.0-M1
-  release: 3.0.0-M1
+  latest: 3.0.0-M2
+  release: 3.0.0-M2
   versions:
   - 2.7
   - 2.7.1
@@ -35,4 +35,5 @@ versioning:
   - 2.22.0
   - 2.22.1
   - 3.0.0-M1
-  lastUpdated: 20181107110004
+  - 3.0.0-M2
+  lastUpdated: 20181209103200
