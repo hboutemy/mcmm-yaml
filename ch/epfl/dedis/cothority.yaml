@@ -4,9 +4,10 @@ modelVersion: 1.1.0
 groupId: ch.epfl.dedis
 artifactId: cothority
 versioning:
-  latest: master-181115
-  release: master-181115
+  latest: master-181211
+  release: master-181211
   versions:
+  - master-1810-1
   - master-180704
   - master-180717
   - master-180816
@@ -19,6 +20,7 @@ versioning:
   - master-181022
   - master-181108
   - master-181115
+  - master-181211
   - 2.0.1
   - 2.0.2
-  lastUpdated: 20181115161849
+  lastUpdated: 20181212085843

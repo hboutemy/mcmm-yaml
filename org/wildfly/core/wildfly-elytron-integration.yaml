@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-elytron-integration
 versioning:
-  latest: 7.0.0.Final
-  release: 7.0.0.Final
+  latest: 8.0.0.Beta1
+  release: 8.0.0.Beta1
   versions:
   - 3.0.0.Beta12
   - 3.0.0.Beta13
@@ -89,4 +89,5 @@ versioning:
   - 7.0.0.Beta1
   - 7.0.0.CR1
   - 7.0.0.Final
-  lastUpdated: 20181130173939
+  - 8.0.0.Beta1
+  lastUpdated: 20181212135051

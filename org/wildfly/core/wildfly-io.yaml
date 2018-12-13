@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-io
 versioning:
-  latest: 7.0.0.Final
-  release: 7.0.0.Final
+  latest: 8.0.0.Beta1
+  release: 8.0.0.Beta1
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -215,5 +215,6 @@ versioning:
   - 7.0.0.Beta1
   - 7.0.0.CR1
   - 7.0.0.Final
+  - 8.0.0.Beta1
   - 6.0.0.CR1
-  lastUpdated: 20181130173940
+  lastUpdated: 20181212135052

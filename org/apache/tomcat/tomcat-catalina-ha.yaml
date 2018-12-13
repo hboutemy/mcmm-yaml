@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat
 artifactId: tomcat-catalina-ha
 versioning:
-  latest: 9.0.13
-  release: 9.0.13
+  latest: 9.0.14
+  release: 9.0.14
   versions:
   - 7.0.0
   - 7.0.2
@@ -173,4 +173,5 @@ versioning:
   - 9.0.11
   - 9.0.12
   - 9.0.13
-  lastUpdated: 20181115110345
+  - 9.0.14
+  lastUpdated: 20181212113706
