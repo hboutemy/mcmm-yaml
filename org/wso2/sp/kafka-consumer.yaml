@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.sp
 artifactId: kafka-consumer
 versioning:
-  latest: 4.4.0-m11
-  release: 4.4.0-m11
+  latest: 4.4.0-m12
+  release: 4.4.0-m12
   versions:
   - 4.0.0-Alpha
   - 4.0.0-Alpha2
@@ -58,5 +58,6 @@ versioning:
   - 4.4.0-m9
   - 4.4.0-m10
   - 4.4.0-m11
+  - 4.4.0-m12
   - 4.0.0
-  lastUpdated: 20181206050218
+  lastUpdated: 20181213050401
