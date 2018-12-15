@@ -3,8 +3,8 @@
 groupId: org.fastquery
 artifactId: fastquery
 versioning:
-  latest: 1.0.61
-  release: 1.0.61
+  latest: 1.0.61.enforce
+  release: 1.0.61.enforce
   versions:
   - 1.0.20
   - 1.0.21.M1
@@ -49,4 +49,5 @@ versioning:
   - 1.0.59
   - 1.0.60
   - 1.0.61
-  lastUpdated: 20181101081610
+  - 1.0.61.enforce
+  lastUpdated: 20181214072442
