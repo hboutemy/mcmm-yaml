@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.clojure
 artifactId: clojure
 versioning:
-  latest: 1.10.0-RC5
-  release: 1.10.0-RC5
+  latest: 1.10.0
+  release: 1.10.0
   versions:
   - 1.0.0
   - 1.1.0
@@ -144,5 +144,6 @@ versioning:
   - 1.10.0-RC3
   - 1.10.0-RC4
   - 1.10.0-RC5
+  - 1.10.0
   - 1.7.0-RC2
-  lastUpdated: 20181211210222
+  lastUpdated: 20181217165214
