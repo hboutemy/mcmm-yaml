@@ -3,8 +3,8 @@
 groupId: io.zipkin.aws
 artifactId: zipkin-reporter-xray-udp
 versioning:
-  latest: 0.15.1
-  release: 0.15.1
+  latest: 0.15.2
+  release: 0.15.2
   versions:
   - 0.8.0
   - 0.8.1
@@ -37,4 +37,5 @@ versioning:
   - 0.14.0
   - 0.15.0
   - 0.15.1
-  lastUpdated: 20181205231459
+  - 0.15.2
+  lastUpdated: 20181218111215
