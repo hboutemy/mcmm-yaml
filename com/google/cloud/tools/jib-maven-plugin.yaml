@@ -3,8 +3,8 @@
 groupId: com.google.cloud.tools
 artifactId: jib-maven-plugin
 versioning:
-  latest: 0.10.1
-  release: 0.10.1
+  latest: 1.0.0-rc1
+  release: 1.0.0-rc1
   versions:
   - 0.1.0
   - 0.1.1
@@ -29,4 +29,5 @@ versioning:
   - 0.9.13
   - 0.10.0
   - 0.10.1
-  lastUpdated: 20181203213941
+  - 1.0.0-rc1
+  lastUpdated: 20181219184205

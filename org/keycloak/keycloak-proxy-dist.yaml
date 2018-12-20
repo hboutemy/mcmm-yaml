@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-proxy-dist
 versioning:
-  latest: 4.8.0.Final
-  release: 4.8.0.Final
+  latest: 4.8.1.Final
+  release: 4.8.1.Final
   versions:
   - 1.1.0.Beta2
   - 1.1.0.Final
@@ -81,5 +81,6 @@ versioning:
   - 4.6.0.Final
   - 4.7.0.Final
   - 4.8.0.Final
+  - 4.8.1.Final
   - 1.5.0-Final
-  lastUpdated: 20181217090009
+  lastUpdated: 20181219123826
