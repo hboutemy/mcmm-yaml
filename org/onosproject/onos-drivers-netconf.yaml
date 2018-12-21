@@ -3,8 +3,8 @@
 groupId: org.onosproject
 artifactId: onos-drivers-netconf
 versioning:
-  latest: 2.0.0-b1
-  release: 2.0.0-b1
+  latest: 2.0.0-rc1
+  release: 2.0.0-rc1
   versions:
   - 1.5.0
   - 1.5.1
@@ -25,6 +25,7 @@ versioning:
   - 1.15.0-rc2
   - 1.15.0
   - 2.0.0-b1
+  - 2.0.0-rc1
   - 1.10.0
   - 1.10.0-rc1
   - 1.10.0-rc2
@@ -98,4 +99,4 @@ versioning:
   - 1.9.0-test1
   - 1.9.1
   - 1.9.2
-  lastUpdated: 20181129210207
+  lastUpdated: 20181220014812
