@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.apache.mxnet
 artifactId: mxnet-full_2.11-osx-x86_64-cpu
 versioning:
@@ -10,4 +11,5 @@ versioning:
   - 1.2.1
   - 1.3.0
   - 1.3.1
-  lastUpdated: 20181127215427
+  - 1.5.0
+  lastUpdated: 20181221210104
