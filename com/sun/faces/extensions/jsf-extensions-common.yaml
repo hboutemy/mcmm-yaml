@@ -1,12 +1,14 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.sun.faces.extensions
 artifactId: jsf-extensions-common
 versioning:
-  latest: 0.2
-  release: 0.2
+  latest: 0.1.1
+  release: 0.1.1
   versions:
+  - 0.1.1
+  - 0.1
+  - 0.1-glassfish-1
   - 0.1-rc1
   - 0.1-rc2
   - 0.1-rc3
@@ -15,7 +17,5 @@ versioning:
   - 0.1-rc6
   - 0.1-rc7
   - 0.1-rc8
-  - 0.1
-  - 0.1-glassfish-1
   - 0.2
-  lastUpdated: 20110815180152
+  lastUpdated: 20181224044756
