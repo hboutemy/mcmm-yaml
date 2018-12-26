@@ -3,8 +3,8 @@
 groupId: com.nepxion
 artifactId: discovery-plugin-framework-consul
 versioning:
-  latest: 4.8.0-RC1
-  release: 4.8.0-RC1
+  latest: 4.8.1
+  release: 4.8.1
   versions:
   - 3.0.0
   - 3.0.1
@@ -99,6 +99,8 @@ versioning:
   - 3.7.11
   - 3.7.12
   - 3.8.0-RC1
+  - 3.8.0
+  - 3.8.1
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -164,4 +166,6 @@ versioning:
   - 4.7.11
   - 4.7.12
   - 4.8.0-RC1
-  lastUpdated: 20181101024544
+  - 4.8.0
+  - 4.8.1
+  lastUpdated: 20181225100457
