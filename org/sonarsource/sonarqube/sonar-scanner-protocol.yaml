@@ -3,8 +3,8 @@
 groupId: org.sonarsource.sonarqube
 artifactId: sonar-scanner-protocol
 versioning:
-  latest: 7.4
-  release: 7.4
+  latest: 7.5
+  release: 7.5
   versions:
   - 5.5-RC1
   - 5.5-RC2
@@ -57,4 +57,5 @@ versioning:
   - 7.3
   - 7.4-alpha2
   - 7.4
-  lastUpdated: 20181120174604
+  - 7.5
+  lastUpdated: 20181227082615
