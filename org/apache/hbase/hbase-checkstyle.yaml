@@ -3,8 +3,8 @@
 groupId: org.apache.hbase
 artifactId: hbase-checkstyle
 versioning:
-  latest: 2.1.1
-  release: 2.1.1
+  latest: 2.1.2
+  release: 2.1.2
   versions:
   - 0.98.8-hadoop1
   - 0.98.8-hadoop2
@@ -106,4 +106,5 @@ versioning:
   - 2.0.4
   - 2.1.0
   - 2.1.1
-  lastUpdated: 20190104051715
+  - 2.1.2
+  lastUpdated: 20190108234913

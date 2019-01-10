@@ -3,9 +3,13 @@
 groupId: org.glassfish.pfl
 artifactId: pfl-dynamic
 versioning:
-  latest: 4.0.1-b003
-  release: 4.0.1-b003
+  latest: 4.0.1
+  release: 4.0.1
   versions:
+  - 4.0.1
+  - 1.0.0-b001
+  - 3.2.0-b001
+  - 4.0.0
   - 4.0.0-b003
   - 4.0.0-b004
   - 4.0.0-b005
@@ -13,10 +17,7 @@ versioning:
   - 4.0.0-b007
   - 4.0.0-b008
   - 4.0.0-b009
-  - 4.0.0
   - 4.0.1-b001
   - 4.0.1-b002
   - 4.0.1-b003
-  - 1.0.0-b001
-  - 3.2.0-b001
-  lastUpdated: 20180625044355
+  lastUpdated: 20190109082745
