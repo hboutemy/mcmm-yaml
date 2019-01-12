@@ -3,8 +3,8 @@
 groupId: org.bytedeco.javacpp-presets
 artifactId: llvm
 versioning:
-  latest: 7.0.0-1.4.3
-  release: 7.0.0-1.4.3
+  latest: 7.0.1-1.4.4
+  release: 7.0.1-1.4.4
   versions:
   - 3.4.2-0.9
   - 3.5.0-0.10
@@ -16,4 +16,5 @@ versioning:
   - 5.0.1-1.4.1
   - 6.0.1-1.4.2
   - 7.0.0-1.4.3
-  lastUpdated: 20181015091321
+  - 7.0.1-1.4.4
+  lastUpdated: 20190111104423
