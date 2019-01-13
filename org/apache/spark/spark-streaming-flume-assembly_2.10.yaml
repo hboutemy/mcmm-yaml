@@ -3,8 +3,8 @@
 groupId: org.apache.spark
 artifactId: spark-streaming-flume-assembly_2.10
 versioning:
-  latest: 2.2.2
-  release: 2.2.2
+  latest: 2.2.3
+  release: 2.2.3
   versions:
   - 1.5.0
   - 1.5.1
@@ -24,4 +24,5 @@ versioning:
   - 2.2.0
   - 2.2.1
   - 2.2.2
-  lastUpdated: 20180703181451
+  - 2.2.3
+  lastUpdated: 20190112004604
