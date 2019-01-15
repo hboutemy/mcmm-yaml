@@ -3,9 +3,11 @@
 groupId: org.glassfish.hk2
 artifactId: xml-configuration-example
 versioning:
-  latest: 2.5.0-b63
-  release: 2.5.0-b63
+  latest: 2.5.0
+  release: 2.5.0
   versions:
+  - 2.5.0
+  - 2.4.0
   - 2.4.0-b17
   - 2.4.0-b18
   - 2.4.0-b19
@@ -23,7 +25,6 @@ versioning:
   - 2.4.0-b32
   - 2.4.0-b33
   - 2.4.0-b34
-  - 2.4.0
   - 2.5.0-b01
   - 2.5.0-b02
   - 2.5.0-b03
@@ -84,4 +85,4 @@ versioning:
   - 2.5.0-b61
   - 2.5.0-b62
   - 2.5.0-b63
-  lastUpdated: 20181122000427
+  lastUpdated: 20190114093544

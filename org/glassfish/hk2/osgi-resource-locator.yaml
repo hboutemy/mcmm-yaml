@@ -3,9 +3,12 @@
 groupId: org.glassfish.hk2
 artifactId: osgi-resource-locator
 versioning:
-  latest: 2.5.0-b42
-  release: 2.5.0-b42
+  latest: 1.0.3
+  release: 1.0.3
   versions:
+  - 1.0.3
+  - 1.0.0
+  - 1.0.1
   - 1.0.2
   - 2.4.0
   - 2.5.0-b01
@@ -48,6 +51,4 @@ versioning:
   - 2.5.0-b40
   - 2.5.0-b41
   - 2.5.0-b42
-  - 1.0.0
-  - 1.0.1
-  lastUpdated: 20180711095935
+  lastUpdated: 20190114094001
