@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-jetty81-adapter
 versioning:
-  latest: 4.8.2.Final
-  release: 4.8.2.Final
+  latest: 4.8.3.Final
+  release: 4.8.3.Final
   versions:
   - 1.1.0.Beta2
   - 1.1.0.Final
@@ -83,5 +83,6 @@ versioning:
   - 4.8.0.Final
   - 4.8.1.Final
   - 4.8.2.Final
+  - 4.8.3.Final
   - 1.5.0-Final
-  lastUpdated: 20190103220902
+  lastUpdated: 20190115134917
