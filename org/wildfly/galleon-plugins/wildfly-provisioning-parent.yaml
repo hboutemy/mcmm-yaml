@@ -3,8 +3,8 @@
 groupId: org.wildfly.galleon-plugins
 artifactId: wildfly-provisioning-parent
 versioning:
-  latest: 3.0.1.Alpha1
-  release: 3.0.1.Alpha1
+  latest: 3.0.1.CR1
+  release: 3.0.1.CR1
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -59,4 +59,5 @@ versioning:
   - 3.0.0.CR2
   - 3.0.0.Final
   - 3.0.1.Alpha1
-  lastUpdated: 20190110145739
+  - 3.0.1.CR1
+  lastUpdated: 20190116163740

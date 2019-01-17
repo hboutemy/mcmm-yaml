@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-speech
 versioning:
-  latest: v1-rev20190104-1.27.0
-  release: v1-rev20190104-1.27.0
+  latest: v1-rev20190114-1.27.0
+  release: v1-rev20190114-1.27.0
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.20.0
@@ -470,6 +470,8 @@ versioning:
   - v1p1beta1-rev20181127-1.27.0
   - v1p1beta1-rev20190104-1.26.0
   - v1p1beta1-rev20190104-1.27.0
+  - v1p1beta1-rev20190114-1.26.0
+  - v1p1beta1-rev20190114-1.27.0
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.20.0
   - v1-rev1-1.21.0
@@ -725,4 +727,6 @@ versioning:
   - v1-rev20181127-1.27.0
   - v1-rev20190104-1.26.0
   - v1-rev20190104-1.27.0
-  lastUpdated: 20190111215258
+  - v1-rev20190114-1.26.0
+  - v1-rev20190114-1.27.0
+  lastUpdated: 20190116232033
