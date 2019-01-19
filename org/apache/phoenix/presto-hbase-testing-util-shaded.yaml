@@ -3,9 +3,10 @@
 groupId: org.apache.phoenix
 artifactId: presto-hbase-testing-util-shaded
 versioning:
-  latest: 4.14.1-HBase-1.4-PPS-0.1
-  release: 4.14.1-HBase-1.4-PPS-0.1
+  latest: 4.14.1-HBase-1.4-PPS-0.2
+  release: 4.14.1-HBase-1.4-PPS-0.2
   versions:
   - 4.14.1-HBase-1.4
   - 4.14.1-HBase-1.4-PPS-0.1
-  lastUpdated: 20190117004512
+  - 4.14.1-HBase-1.4-PPS-0.2
+  lastUpdated: 20190118015857

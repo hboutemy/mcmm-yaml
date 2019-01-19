@@ -3,8 +3,8 @@
 groupId: ch.epfl.lamp
 artifactId: dotty-interfaces
 versioning:
-  latest: 0.12.0-bin-20190115-4aa00a7-NIGHTLY
-  release: 0.12.0-bin-20190115-4aa00a7-NIGHTLY
+  latest: 0.12.0-bin-20190117-b4a26ca-NIGHTLY
+  release: 0.12.0-bin-20190117-b4a26ca-NIGHTLY
   versions:
   - 0.1-SNAPSHOT-20160609-8fe3e37
   - 0.1.1-bin-20170424-40d405b-NIGHTLY
@@ -512,6 +512,7 @@ versioning:
   - 0.10.0-bin-20181002-fd93b46-NIGHTLY
   - 0.10.0-bin-20181002-2b73f9d-NIGHTLY
   - 0.11.0-RC1
+  - 0.11.0
   - 0.11.0-bin-20181003-3eee37d-NIGHTLY
   - 0.11.0-bin-20181004-3f86587-NIGHTLY
   - 0.11.0-bin-20181005-786e6da-NIGHTLY
@@ -560,6 +561,7 @@ versioning:
   - 0.11.0-bin-20181123-9a9aa31-NIGHTLY
   - 0.11.0-bin-20181124-d56af69-NIGHTLY
   - 0.11.0-bin-20181125-92bbb6e-NIGHTLY
+  - 0.12.0-RC1
   - 0.12.0-bin-20181126-a64e083-NIGHTLY
   - 0.12.0-bin-20181127-235a103-NIGHTLY
   - 0.12.0-bin-20181128-f66225c-NIGHTLY
@@ -601,4 +603,5 @@ versioning:
   - 0.12.0-bin-20190113-ce1086a-NIGHTLY
   - 0.12.0-bin-20190114-9333e77-NIGHTLY
   - 0.12.0-bin-20190115-4aa00a7-NIGHTLY
-  lastUpdated: 20190116025230
+  - 0.12.0-bin-20190117-b4a26ca-NIGHTLY
+  lastUpdated: 20190118155109
