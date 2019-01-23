@@ -3,9 +3,10 @@
 groupId: com.scireum
 artifactId: sirius-kernel
 versioning:
-  latest: 12.2
-  release: 12.2
+  latest: 12.3
+  release: 12.3
   versions:
+  - rm
   - 1.0
   - 1.1
   - 2.0
@@ -164,4 +165,5 @@ versioning:
   - 12.0
   - 12.1
   - 12.2
-  lastUpdated: 20190116141526
+  - 12.3
+  lastUpdated: 20190122084016
