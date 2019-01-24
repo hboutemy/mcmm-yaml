@@ -3,8 +3,8 @@
 groupId: com.alibaba.csp
 artifactId: sentinel-annotation-aspectj
 versioning:
-  latest: 1.4.1
-  release: 1.4.1
+  latest: 1.4.1-no-slf4j
+  release: 1.4.1-no-slf4j
   versions:
   - 0.1.1
   - 0.1.2
@@ -14,4 +14,5 @@ versioning:
   - 1.4.0
   - 1.4.0-no-slf4j
   - 1.4.1
-  lastUpdated: 20190117115411
+  - 1.4.1-no-slf4j
+  lastUpdated: 20190123165934

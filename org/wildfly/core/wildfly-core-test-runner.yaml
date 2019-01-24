@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-core-test-runner
 versioning:
-  latest: 8.0.0.Beta2
-  release: 8.0.0.Beta2
+  latest: 8.0.0.Beta3
+  release: 8.0.0.Beta3
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -218,4 +218,5 @@ versioning:
   - 7.0.0.Final
   - 8.0.0.Beta1
   - 8.0.0.Beta2
-  lastUpdated: 20190109130705
+  - 8.0.0.Beta3
+  lastUpdated: 20190123103858

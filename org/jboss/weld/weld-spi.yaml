@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld
 artifactId: weld-spi
 versioning:
-  latest: 3.1.Beta1
-  release: 3.1.Beta1
+  latest: 3.1.Beta2
+  release: 3.1.Beta2
   versions:
   - 1.0-CR1
   - 1.0-CR2
@@ -95,4 +95,5 @@ versioning:
   - 3.0.SP4
   - 3.1.Alpha1
   - 3.1.Beta1
-  lastUpdated: 20181122095628
+  - 3.1.Beta2
+  lastUpdated: 20190123142250

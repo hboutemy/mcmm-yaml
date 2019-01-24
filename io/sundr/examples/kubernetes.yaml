@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.sundr.examples
 artifactId: kubernetes
 versioning:
-  latest: 0.14.6
-  release: 0.14.6
+  latest: 0.15.1
+  release: 0.15.1
   versions:
   - 0.0.20
   - 0.0.21
@@ -96,6 +96,8 @@ versioning:
   - 0.14.4
   - 0.14.5
   - 0.14.6
+  - 0.15.0
+  - 0.15.1
   - 0.7
   - 1.14.0
-  lastUpdated: 20190111113920
+  lastUpdated: 20190123174109
