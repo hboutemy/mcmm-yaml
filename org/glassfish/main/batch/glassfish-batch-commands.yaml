@@ -1,18 +1,19 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.main.batch
 artifactId: glassfish-batch-commands
 versioning:
   latest: 5.1.0-RC2
   release: 5.1.0-RC2
   versions:
-  - 5.1.0-RC2
-  - 4.0
   - 4.0-b90
+  - 4.0
   - 4.1
   - 4.1.1
   - 4.1.2
   - 5.0
   - 5.0.1
   - 5.1.0-RC1
-  lastUpdated: 20190124182154
+  - 5.1.0-RC2
+  lastUpdated: 20190125200733

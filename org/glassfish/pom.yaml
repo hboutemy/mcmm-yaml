@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish
 artifactId: pom
-version: 1
 versioning:
+  latest: 8
   release: 8
   versions:
   - 1
@@ -14,4 +15,4 @@ versioning:
   - 6
   - 7
   - 8
-  lastUpdated: 20091117223805
+  lastUpdated: 20190125190336

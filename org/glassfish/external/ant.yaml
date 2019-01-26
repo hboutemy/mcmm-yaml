@@ -1,27 +1,14 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.external
 artifactId: ant
 versioning:
-  latest: 1.10.2
-  release: 1.10.2
+  latest: 10.0-b28
+  release: 10.0-b28
   versions:
-  - 1.10.2
   - 1.10.1
-  - 10.0-b28
-  - 3.0
-  - 3.0-Prelude
-  - 3.0-Prelude-Embedded-b10
-  - 3.0-Prelude-Embedded-b11
-  - 3.0-Prelude-Embedded-b12
-  - 3.0-Prelude-Embedded-b13
-  - 3.0-Prelude-Embedded-b14
-  - 3.0-Prelude-Embedded-m2
-  - 3.0-Prelude-b28b
-  - 3.0-Preview
-  - 3.0-Preview-b47a
-  - 3.0-Preview-b47b
-  - 3.0-Preview-b47c
+  - 1.10.2
   - 3.0-b29
   - 3.0-b30
   - 3.0-b31
@@ -70,7 +57,19 @@ versioning:
   - 3.0-b74
   - 3.0-b74a
   - 3.0-b74b
-  - 3.0.1
+  - 3.0
+  - 3.0-Prelude-b28b
+  - 3.0-Prelude
+  - 3.0-Prelude-Embedded-b10
+  - 3.0-Prelude-Embedded-b11
+  - 3.0-Prelude-Embedded-b12
+  - 3.0-Prelude-Embedded-b13
+  - 3.0-Prelude-Embedded-b14
+  - 3.0-Prelude-Embedded-m2
+  - 3.0-Preview-b47a
+  - 3.0-Preview-b47b
+  - 3.0-Preview-b47c
+  - 3.0-Preview
   - 3.0.1-b01
   - 3.0.1-b02
   - 3.0.1-b03
@@ -90,7 +89,7 @@ versioning:
   - 3.0.1-b18
   - 3.0.1-b19
   - 3.0.1-b20
-  - 3.1
+  - 3.0.1
   - 3.1-b01
   - 3.1-b02
   - 3.1-b03
@@ -131,7 +130,7 @@ versioning:
   - 3.1-b39
   - 3.1-b40
   - 3.1-b41
-  - 3.1.1
+  - 3.1
   - 3.1.1-b01
   - 3.1.1-b02
   - 3.1.1-b03
@@ -143,10 +142,12 @@ versioning:
   - 3.1.1-b09
   - 3.1.1-b10
   - 3.1.1-b11
+  - 3.1.1
   - 3.2-b01
   - 3.2-b02
   - 3.2-b03
   - 3.2-b04
   - 3.2-b05
   - 3.2-b06
-  lastUpdated: 20190116183554
+  - 10.0-b28
+  lastUpdated: 20190125211919

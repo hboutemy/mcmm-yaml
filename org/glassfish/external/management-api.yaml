@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.external
 artifactId: management-api
 versioning:
   latest: 3.2.1
   release: 3.2.1
   versions:
-  - 3.2.1
   - 3.0.0-b001
   - 3.0.0-b002
   - 3.0.0-b003
@@ -24,4 +24,5 @@ versioning:
   - 3.2.1-b001
   - 3.2.1-b002
   - 3.2.1-b003
-  lastUpdated: 20190109082226
+  - 3.2.1
+  lastUpdated: 20190125211832

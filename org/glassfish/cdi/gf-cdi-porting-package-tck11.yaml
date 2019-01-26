@@ -1,13 +1,14 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.cdi
 artifactId: gf-cdi-porting-package-tck11
 versioning:
   latest: 2.1
   release: 2.1
   versions:
-  - 2.1
   - 1.0
   - 1.1
   - 2.0
-  lastUpdated: 20190116094824
+  - 2.1
+  lastUpdated: 20190125192824

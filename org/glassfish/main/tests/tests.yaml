@@ -1,13 +1,14 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.main.tests
 artifactId: tests
 versioning:
   latest: 5.1.0-RC2
   release: 5.1.0-RC2
   versions:
-  - 5.1.0-RC2
   - 3.1.2
   - 3.1.2.2
   - 4.0-b33
-  lastUpdated: 20190124182507
+  - 5.1.0-RC2
+  lastUpdated: 20190125200830

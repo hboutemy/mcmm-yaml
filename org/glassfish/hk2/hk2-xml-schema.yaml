@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.hk2
 artifactId: hk2-xml-schema
 versioning:
   latest: 2.5.0
   release: 2.5.0
   versions:
-  - 2.5.0
   - 2.5.0-b35
   - 2.5.0-b36
   - 2.5.0-b37
@@ -32,4 +32,5 @@ versioning:
   - 2.5.0-b61
   - 2.5.0-b62
   - 2.5.0-b63
-  lastUpdated: 20190114093447
+  - 2.5.0
+  lastUpdated: 20190125191652

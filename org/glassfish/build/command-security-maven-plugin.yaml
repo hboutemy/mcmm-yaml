@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.build
 artifactId: command-security-maven-plugin
 versioning:
   latest: 1.0.10
   release: 1.0.10
   versions:
-  - 1.0.10
   - 1.0
   - 1.0.1
   - 1.0.2
@@ -17,4 +17,5 @@ versioning:
   - 1.0.7
   - 1.0.8
   - 1.0.9
-  lastUpdated: 20190116061750
+  - 1.0.10
+  lastUpdated: 20190125202831

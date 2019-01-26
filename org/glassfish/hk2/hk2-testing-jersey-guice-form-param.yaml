@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.hk2
 artifactId: hk2-testing-jersey-guice-form-param
 versioning:
   latest: 2.5.0
   release: 2.5.0
   versions:
-  - 2.5.0
   - 2.5.0-b06
   - 2.5.0-b07
   - 2.5.0-b08
@@ -62,4 +62,5 @@ versioning:
   - 2.5.0-b61
   - 2.5.0-b62
   - 2.5.0-b63
-  lastUpdated: 20190114093439
+  - 2.5.0
+  lastUpdated: 20190125191933

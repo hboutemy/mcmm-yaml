@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.hk2
 artifactId: maven-plugins
 versioning:
   latest: 2.5.0
   release: 2.5.0
   versions:
-  - 2.5.0
   - 2.5.0-b44
   - 2.5.0-b45
   - 2.5.0-b46
@@ -23,4 +23,5 @@ versioning:
   - 2.5.0-b57
   - 2.5.0-b61
   - 2.5.0-b63
-  lastUpdated: 20190114093453
+  - 2.5.0
+  lastUpdated: 20190125190427

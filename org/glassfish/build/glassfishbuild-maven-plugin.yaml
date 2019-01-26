@@ -1,13 +1,14 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.build
 artifactId: glassfishbuild-maven-plugin
 versioning:
   latest: 3.2.28
   release: 3.2.28
   versions:
-  - 3.2.27
-  - 3.2.28
+  - 3.2.3
+  - 3.2.4
   - 3.2.14
   - 3.2.15
   - 3.2.16
@@ -16,6 +17,6 @@ versioning:
   - 3.2.19
   - 3.2.20
   - 3.2.26
-  - 3.2.3
-  - 3.2.4
-  lastUpdated: 20190123220512
+  - 3.2.27
+  - 3.2.28
+  lastUpdated: 20190125202655

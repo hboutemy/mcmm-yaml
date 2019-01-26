@@ -1,11 +1,15 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.hk2
 artifactId: hk2-jsr330
 versioning:
   latest: 2.0.5
   release: 2.0.5
   versions:
+  - 1.6.10
+  - 1.6.11
+  - 1.6.12
   - 1.6.13
   - 1.6.14
   - 1.6.15
@@ -32,7 +36,4 @@ versioning:
   - 2.0.3
   - 2.0.4
   - 2.0.5
-  - 1.6.10
-  - 1.6.11
-  - 1.6.12
-  lastUpdated: 20120709015546
+  lastUpdated: 20190125191534

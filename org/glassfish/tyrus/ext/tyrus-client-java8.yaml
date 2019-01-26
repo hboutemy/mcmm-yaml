@@ -1,12 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.tyrus.ext
 artifactId: tyrus-client-java8
 versioning:
   latest: 1.15
   release: 1.15
   versions:
-  - 1.15
   - 1.11
   - 1.12
-  lastUpdated: 20190110113228
+  - 1.15
+  lastUpdated: 20190125173225

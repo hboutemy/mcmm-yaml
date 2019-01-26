@@ -1,19 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.tyrus.archetypes
 artifactId: tyrus-archetype-echo
 versioning:
   latest: 1.15
   release: 1.15
   versions:
-  - 1.15
-  - 1.10
-  - 1.11
-  - 1.11.1
-  - 1.12
-  - 1.13
-  - 1.13.1
-  - 1.14
   - 1.5
   - 1.6
   - 1.7
@@ -22,4 +15,12 @@ versioning:
   - 1.8.2
   - 1.8.3
   - 1.9
-  lastUpdated: 20190110113218
+  - 1.10
+  - 1.11
+  - 1.11.1
+  - 1.12
+  - 1.13
+  - 1.13.1
+  - 1.14
+  - 1.15
+  lastUpdated: 20190125173423

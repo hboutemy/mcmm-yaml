@@ -1,13 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.hk2
 artifactId: event-examples
 versioning:
   latest: 2.5.0
   release: 2.5.0
   versions:
-  - 2.5.0
-  - 2.3.0
   - 2.3.0-b03
   - 2.3.0-b04
   - 2.3.0-b05
@@ -16,7 +15,7 @@ versioning:
   - 2.3.0-b08
   - 2.3.0-b09
   - 2.3.0-b10
-  - 2.4.0
+  - 2.3.0
   - 2.4.0-b01
   - 2.4.0-b02
   - 2.4.0-b03
@@ -50,6 +49,7 @@ versioning:
   - 2.4.0-b32
   - 2.4.0-b33
   - 2.4.0-b34
+  - 2.4.0
   - 2.5.0-b01
   - 2.5.0-b02
   - 2.5.0-b03
@@ -110,4 +110,5 @@ versioning:
   - 2.5.0-b61
   - 2.5.0-b62
   - 2.5.0-b63
-  lastUpdated: 20190114093351
+  - 2.5.0
+  lastUpdated: 20190125191917

@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.corba
 artifactId: glassfish-corba-csiv2-idl
 versioning:
   latest: 4.2.0
   release: 4.2.0
   versions:
-  - 4.2.0
   - 3.0.1-b003
   - 3.1.0-b032
   - 3.1.0-b033
@@ -44,4 +44,5 @@ versioning:
   - 4.2.0-b002
   - 4.2.0-b003
   - 4.2.0-b004
-  lastUpdated: 20190109082052
+  - 4.2.0
+  lastUpdated: 20190125183048

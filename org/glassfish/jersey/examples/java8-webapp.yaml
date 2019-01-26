@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.jersey.examples
 artifactId: java8-webapp
 versioning:
   latest: 2.28-RC4
   release: 2.28-RC4
   versions:
-  - 2.28-RC4
   - 2.18
   - 2.19
   - 2.20
@@ -24,7 +24,6 @@ versioning:
   - 2.24.1
   - 2.25
   - 2.25.1
-  - 2.26
   - 2.26-b01
   - 2.26-b02
   - 2.26-b03
@@ -34,5 +33,7 @@ versioning:
   - 2.26-b07
   - 2.26-b08
   - 2.26-b09
+  - 2.26
   - 2.27
-  lastUpdated: 20190121195617
+  - 2.28-RC4
+  lastUpdated: 20190125181143

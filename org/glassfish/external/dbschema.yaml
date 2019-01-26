@@ -1,11 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.external
 artifactId: dbschema
 versioning:
   latest: 6.7
   release: 6.7
   versions:
-  - 6.7
   - 6.6
-  lastUpdated: 20190116183606
+  - 6.7
+  lastUpdated: 20190125211257

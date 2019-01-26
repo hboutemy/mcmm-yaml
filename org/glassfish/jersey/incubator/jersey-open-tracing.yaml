@@ -1,14 +1,15 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.jersey.incubator
 artifactId: jersey-open-tracing
 versioning:
   latest: 2.28-RC4
   release: 2.28-RC4
   versions:
-  - 2.28-RC4
-  - 2.26
   - 2.26-b08
   - 2.26-b09
+  - 2.26
   - 2.27
-  lastUpdated: 20190121195705
+  - 2.28-RC4
+  lastUpdated: 20190125182138

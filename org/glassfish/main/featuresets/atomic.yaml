@@ -1,12 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.main.featuresets
 artifactId: atomic
 versioning:
   latest: 5.1.0-RC2
   release: 5.1.0-RC2
   versions:
-  - 5.1.0-RC2
   - 5.0.1
   - 5.1.0-RC1
-  lastUpdated: 20190124182343
+  - 5.1.0-RC2
+  lastUpdated: 20190125200352

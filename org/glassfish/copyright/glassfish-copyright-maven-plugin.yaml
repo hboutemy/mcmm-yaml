@@ -1,13 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.copyright
 artifactId: glassfish-copyright-maven-plugin
 versioning:
   latest: 2.1
   release: 2.1
   versions:
-  - 2.0
-  - 2.1
   - 1.28
   - 1.29
   - 1.31
@@ -23,4 +22,6 @@ versioning:
   - 1.48
   - 1.49
   - 1.50
-  lastUpdated: 20190124001425
+  - 2.0
+  - 2.1
+  lastUpdated: 20190125175017

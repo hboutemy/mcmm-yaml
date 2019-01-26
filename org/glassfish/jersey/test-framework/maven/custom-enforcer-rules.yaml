@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.jersey.test-framework.maven
 artifactId: custom-enforcer-rules
 versioning:
   latest: 2.28-RC4
   release: 2.28-RC4
   versions:
-  - 2.28-RC4
   - 2.22
   - 2.22.1
   - 2.22.2
@@ -19,7 +19,6 @@ versioning:
   - 2.24.1
   - 2.25
   - 2.25.1
-  - 2.26
   - 2.26-b01
   - 2.26-b02
   - 2.26-b03
@@ -29,5 +28,7 @@ versioning:
   - 2.26-b07
   - 2.26-b08
   - 2.26-b09
+  - 2.26
   - 2.27
-  lastUpdated: 20190121195722
+  - 2.28-RC4
+  lastUpdated: 20190125182358

@@ -1,16 +1,17 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.main.grizzly
 artifactId: grizzly-config
 versioning:
   latest: 5.1.0-RC2
   release: 5.1.0-RC2
   versions:
-  - 5.1.0-RC2
   - 4.1
   - 4.1.1
   - 4.1.2
   - 5.0
   - 5.0.1
   - 5.1.0-RC1
-  lastUpdated: 20190124182353
+  - 5.1.0-RC2
+  lastUpdated: 20190125200908

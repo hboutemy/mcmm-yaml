@@ -1,13 +1,14 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.hk2.auto-depends-test
 artifactId: auto-depends-tests
 versioning:
-  latest: 1.1.15
-  release: 1.1.15
+  latest: 1.6.12
+  release: 1.6.12
   versions:
   - 1.1.15
   - 1.6.10
   - 1.6.11
   - 1.6.12
-  lastUpdated: 20120816123251
+  lastUpdated: 20190125190417

@@ -1,12 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.external
 artifactId: derby
 versioning:
   latest: 10.13.1.3
   release: 10.13.1.3
   versions:
-  - 10.13.1.3
   - 10.13.1.1
   - 10.13.1.2
-  lastUpdated: 20190116182504
+  - 10.13.1.3
+  lastUpdated: 20190125211332

@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.hk2
 artifactId: config-generator
 versioning:
@@ -14,6 +15,9 @@ versioning:
   - 1.1.15
   - 1.1.19
   - 1.1.20
+  - 1.6.10
+  - 1.6.11
+  - 1.6.12
   - 1.6.13
   - 1.6.14
   - 1.6.15
@@ -244,7 +248,4 @@ versioning:
   - 2.5.0-b51
   - 2.5.0-b52
   - 2.5.0-b53
-  - 1.6.10
-  - 1.6.11
-  - 1.6.12
-  lastUpdated: 20171024180922
+  lastUpdated: 20190125191447

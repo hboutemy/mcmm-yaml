@@ -1,19 +1,20 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish
 artifactId: jsonp-jaxrs
 versioning:
   latest: 1.1.5
   release: 1.1.5
   versions:
-  - 1.1.5
-  - 1.0
   - 1.0-b04
   - 1.0-b05
   - 1.0-b06
+  - 1.0
   - 1.1
   - 1.1.1
   - 1.1.2
   - 1.1.3
   - 1.1.4
-  lastUpdated: 20190107141646
+  - 1.1.5
+  lastUpdated: 20190125175728
