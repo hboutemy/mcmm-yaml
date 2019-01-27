@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.security
 artifactId: oauth1-client
 versioning:
-  latest: 2.28-RC4
-  release: 2.28-RC4
+  latest: 2.28
+  release: 2.28
   versions:
   - 2.3
   - 2.3.1
@@ -60,4 +60,5 @@ versioning:
   - 2.26
   - 2.27
   - 2.28-RC4
-  lastUpdated: 20190125182352
+  - 2.28
+  lastUpdated: 20190126104252

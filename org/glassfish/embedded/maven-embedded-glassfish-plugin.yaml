@@ -1,15 +1,16 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.embedded
 artifactId: maven-embedded-glassfish-plugin
 versioning:
   latest: 5.1
   release: 5.1
   versions:
-  - 5.1
   - 3.1.2
   - 3.1.2.2
   - 4.0
   - 4.1.1
   - 5.0
-  lastUpdated: 20190116092134
+  - 5.1
+  lastUpdated: 20190125215546

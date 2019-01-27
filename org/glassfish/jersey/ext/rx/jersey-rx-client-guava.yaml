@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.ext.rx
 artifactId: jersey-rx-client-guava
 versioning:
-  latest: 2.28-RC4
-  release: 2.28-RC4
+  latest: 2.28
+  release: 2.28
   versions:
   - 2.13
   - 2.14
@@ -40,4 +40,5 @@ versioning:
   - 2.26
   - 2.27
   - 2.28-RC4
-  lastUpdated: 20190125180213
+  - 2.28
+  lastUpdated: 20190126104235

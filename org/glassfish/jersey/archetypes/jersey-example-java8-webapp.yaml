@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.archetypes
 artifactId: jersey-example-java8-webapp
 versioning:
-  latest: 2.28-RC4
-  release: 2.28-RC4
+  latest: 2.28
+  release: 2.28
   versions:
   - 2.20
   - 2.21
@@ -34,4 +34,5 @@ versioning:
   - 2.26
   - 2.27
   - 2.28-RC4
-  lastUpdated: 20190125180523
+  - 2.28
+  lastUpdated: 20190126104054

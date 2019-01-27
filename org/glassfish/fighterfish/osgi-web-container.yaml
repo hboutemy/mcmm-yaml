@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.fighterfish
 artifactId: osgi-web-container
 versioning:
   latest: 2.0.2
   release: 2.0.2
   versions:
-  - 2.0.2
   - 1.0.0
   - 1.0.1
   - 1.0.2
@@ -16,4 +16,5 @@ versioning:
   - 1.0.6
   - 2.0.0
   - 2.0.1
-  lastUpdated: 20190114102702
+  - 2.0.2
+  lastUpdated: 20190125214745
