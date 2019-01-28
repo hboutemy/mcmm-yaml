@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-persistence-parent
 versioning:
-  latest: 10.0.0.Alpha2
-  release: 10.0.0.Alpha2
+  latest: 10.0.0.Alpha3
+  release: 10.0.0.Alpha3
   versions:
   - 6.0.0.Beta1
   - 6.0.0.Beta2
@@ -138,4 +138,5 @@ versioning:
   - 9.4.5.Final
   - 10.0.0.Alpha1
   - 10.0.0.Alpha2
-  lastUpdated: 20181219100416
+  - 10.0.0.Alpha3
+  lastUpdated: 20190127132447

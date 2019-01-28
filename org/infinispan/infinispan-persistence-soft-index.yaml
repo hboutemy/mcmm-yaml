@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-persistence-soft-index
 versioning:
-  latest: 10.0.0.Alpha2
-  release: 10.0.0.Alpha2
+  latest: 10.0.0.Alpha3
+  release: 10.0.0.Alpha3
   versions:
   - 7.0.0.CR1
   - 7.0.0.CR2
@@ -125,4 +125,5 @@ versioning:
   - 9.4.5.Final
   - 10.0.0.Alpha1
   - 10.0.0.Alpha2
-  lastUpdated: 20181219100417
+  - 10.0.0.Alpha3
+  lastUpdated: 20190127132447
