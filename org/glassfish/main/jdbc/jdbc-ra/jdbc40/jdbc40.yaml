@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.main.jdbc.jdbc-ra.jdbc40
 artifactId: jdbc40
 versioning:
-  latest: 5.1.0-RC2
-  release: 5.1.0-RC2
+  latest: 5.1.0
+  release: 5.1.0
   versions:
   - 4.0-b33
   - 4.0-b72
@@ -18,4 +18,5 @@ versioning:
   - 5.0.1
   - 5.1.0-RC1
   - 5.1.0-RC2
-  lastUpdated: 20190125200605
+  - 5.1.0
+  lastUpdated: 20190128192302

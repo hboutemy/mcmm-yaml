@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.main.diagnostics
 artifactId: nucleus-diagnostics
 versioning:
-  latest: 5.1.0-RC2
-  release: 5.1.0-RC2
+  latest: 5.1.0
+  release: 5.1.0
   versions:
   - 4.0-b72
   - 4.0-b90
@@ -17,4 +17,5 @@ versioning:
   - 5.0.1
   - 5.1.0-RC1
   - 5.1.0-RC2
-  lastUpdated: 20190125200937
+  - 5.1.0
+  lastUpdated: 20190128192205
