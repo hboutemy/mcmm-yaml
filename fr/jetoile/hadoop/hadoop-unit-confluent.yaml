@@ -3,11 +3,13 @@
 groupId: fr.jetoile.hadoop
 artifactId: hadoop-unit-confluent
 versioning:
-  latest: 2.10
-  release: 2.10
+  latest: 3.1
+  release: 3.1
   versions:
   - 2.7
   - 2.8
   - 2.9
   - 2.10
-  lastUpdated: 20190128182425
+  - 3.0
+  - 3.1
+  lastUpdated: 20190129184803

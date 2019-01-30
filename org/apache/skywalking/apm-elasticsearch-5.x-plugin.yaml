@@ -3,11 +3,12 @@
 groupId: org.apache.skywalking
 artifactId: apm-elasticsearch-5.x-plugin
 versioning:
-  latest: 6.0.0-beta
-  release: 6.0.0-beta
+  latest: 6.0.0-GA
+  release: 6.0.0-GA
   versions:
   - 5.0.0-RC2
   - 5.0.0-GA
   - 6.0.0-alpha
   - 6.0.0-beta
-  lastUpdated: 20181225020806
+  - 6.0.0-GA
+  lastUpdated: 20190129081846
