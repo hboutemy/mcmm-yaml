@@ -3,8 +3,8 @@
 groupId: io.zipkin.reporter2
 artifactId: zipkin-sender-amqp-client
 versioning:
-  latest: 2.7.14
-  release: 2.7.14
+  latest: 2.7.15
+  release: 2.7.15
   versions:
   - 2.1.0
   - 2.1.1
@@ -38,4 +38,5 @@ versioning:
   - 2.7.12
   - 2.7.13
   - 2.7.14
-  lastUpdated: 20190121053302
+  - 2.7.15
+  lastUpdated: 20190203201832
