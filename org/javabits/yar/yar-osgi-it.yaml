@@ -3,8 +3,8 @@
 groupId: org.javabits.yar
 artifactId: yar-osgi-it
 versioning:
-  latest: 3.0.0.RELEASE
-  release: 3.0.0.RELEASE
+  latest: 3.0.1.RELEASE
+  release: 3.0.1.RELEASE
   versions:
   - 1.0.0.M3
   - 1.0.0.M5
@@ -22,4 +22,6 @@ versioning:
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
   - 3.0.0.RELEASE
-  lastUpdated: 20190109140110
+  - 3.0.1.jre8
+  - 3.0.1.RELEASE
+  lastUpdated: 20190206174447
