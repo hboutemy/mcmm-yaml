@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-dlp
 versioning:
-  latest: v2-rev20190129-1.27.0
-  release: v2-rev20190129-1.27.0
+  latest: v2-rev20190129-1.28.0
+  release: v2-rev20190129-1.28.0
   versions:
   - v2beta1-rev1-1.18.0-rc
   - v2beta1-rev1-1.20.0
@@ -421,6 +421,8 @@ versioning:
   - v2-rev41-1.24.1
   - v2-rev41-1.25.0
   - v2-rev42-1.24.1
+  - v2-rev50-1.18.0-rc
+  - v2-rev50-1.22.0
   - v2-rev20181002-1.26.0
   - v2-rev20181023-1.26.0
   - v2-rev20181030-1.26.0
@@ -436,4 +438,5 @@ versioning:
   - v2-rev20181229-1.28.0
   - v2-rev20190129-1.26.0
   - v2-rev20190129-1.27.0
-  lastUpdated: 20190207223436
+  - v2-rev20190129-1.28.0
+  lastUpdated: 20190208232155

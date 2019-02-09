@@ -3,8 +3,8 @@
 groupId: io.zipkin.dependencies
 artifactId: zipkin-dependencies-cassandra3
 versioning:
-  latest: 2.0.4
-  release: 2.0.4
+  latest: 2.0.5
+  release: 2.0.5
   versions:
   - 1.9.5
   - 1.11.0
@@ -19,4 +19,5 @@ versioning:
   - 2.0.2
   - 2.0.3
   - 2.0.4
-  lastUpdated: 20181205002036
+  - 2.0.5
+  lastUpdated: 20190207235803

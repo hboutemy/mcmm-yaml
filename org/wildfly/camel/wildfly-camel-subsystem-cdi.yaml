@@ -3,8 +3,8 @@
 groupId: org.wildfly.camel
 artifactId: wildfly-camel-subsystem-cdi
 versioning:
-  latest: 9.0.0
-  release: 9.0.0
+  latest: 9.1.0
+  release: 9.1.0
   versions:
   - 3.0.0.redhat-1
   - 3.0.1.redhat-1
@@ -29,4 +29,5 @@ versioning:
   - 7.0.0
   - 8.0.0
   - 9.0.0
-  lastUpdated: 20181211115511
+  - 9.1.0
+  lastUpdated: 20190208155243
