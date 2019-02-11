@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-videointelligence
 versioning:
-  latest: v1-rev20181027-1.28.0
-  release: v1-rev20181027-1.28.0
+  latest: v1-rev20190112-1.28.0
+  release: v1-rev20190112-1.28.0
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.20.0
@@ -173,6 +173,9 @@ versioning:
   - v1beta2-rev20181027-1.26.0
   - v1beta2-rev20181027-1.27.0
   - v1beta2-rev20181027-1.28.0
+  - v1beta2-rev20190112-1.26.0
+  - v1beta2-rev20190112-1.27.0
+  - v1beta2-rev20190112-1.28.0
   - v1p1beta1-rev1-1.18.0-rc
   - v1p1beta1-rev1-1.22.0
   - v1p1beta1-rev1-1.23.0
@@ -206,6 +209,9 @@ versioning:
   - v1p1beta1-rev20190112-1.26.0
   - v1p1beta1-rev20190112-1.27.0
   - v1p1beta1-rev20190112-1.28.0
+  - v1p2beta1-rev20190122-1.26.0
+  - v1p2beta1-rev20190122-1.27.0
+  - v1p2beta1-rev20190122-1.28.0
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.21.0
   - v1-rev1-1.22.0
@@ -293,4 +299,7 @@ versioning:
   - v1-rev20181027-1.26.0
   - v1-rev20181027-1.27.0
   - v1-rev20181027-1.28.0
-  lastUpdated: 20190204220538
+  - v1-rev20190112-1.26.0
+  - v1-rev20190112-1.27.0
+  - v1-rev20190112-1.28.0
+  lastUpdated: 20190210220946
