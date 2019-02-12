@@ -3,8 +3,8 @@
 groupId: org.wildfly.common
 artifactId: wildfly-common
 versioning:
-  latest: 1.5.0.Alpha4
-  release: 1.5.0.Alpha4
+  latest: 1.5.0.Alpha4-format-002
+  release: 1.5.0.Alpha4-format-002
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -39,4 +39,6 @@ versioning:
   - 1.5.0.Alpha3
   - 1.5.0.Alpha3-format-001
   - 1.5.0.Alpha4
-  lastUpdated: 20181212190326
+  - 1.5.0.Alpha4-format-001
+  - 1.5.0.Alpha4-format-002
+  lastUpdated: 20190211163507

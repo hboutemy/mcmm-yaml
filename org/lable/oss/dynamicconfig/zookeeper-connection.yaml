@@ -3,8 +3,8 @@
 groupId: org.lable.oss.dynamicconfig
 artifactId: zookeeper-connection
 versioning:
-  latest: 2.8
-  release: 2.8
+  latest: 2.9-beta1
+  release: 2.9-beta1
   versions:
   - 2.6-beta4
   - 2.6-beta5
@@ -15,4 +15,5 @@ versioning:
   - 2.6-beta10
   - 2.7
   - 2.8
-  lastUpdated: 20190118131307
+  - 2.9-beta1
+  lastUpdated: 20190211090438
