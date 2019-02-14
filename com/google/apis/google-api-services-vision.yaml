@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-vision
 versioning:
-  latest: v1-rev20190125-1.28.0
-  release: v1-rev20190125-1.28.0
+  latest: v1-rev20190212-1.27.0
+  release: v1-rev20190212-1.27.0
   versions:
   - v1p1beta1-rev1-1.18.0-rc
   - v1p1beta1-rev1-1.21.0
@@ -147,6 +147,11 @@ versioning:
   - v1p1beta1-rev39-1.23.0
   - v1p1beta1-rev39-1.24.1
   - v1p1beta1-rev39-1.25.0
+  - v1p1beta1-rev51-1.18.0-rc
+  - v1p1beta1-rev51-1.22.0
+  - v1p1beta1-rev51-1.23.0
+  - v1p1beta1-rev51-1.24.1
+  - v1p1beta1-rev51-1.25.0
   - v1p1beta1-rev20180928-1.26.0
   - v1p1beta1-rev20181031-1.26.0
   - v1p1beta1-rev20181031-1.27.0
@@ -161,6 +166,8 @@ versioning:
   - v1p1beta1-rev20190125-1.26.0
   - v1p1beta1-rev20190125-1.27.0
   - v1p1beta1-rev20190125-1.28.0
+  - v1p1beta1-rev20190212-1.26.0
+  - v1p1beta1-rev20190212-1.27.0
   - v1p2beta1-rev2-1.18.0-rc
   - v1p2beta1-rev2-1.21.0
   - v1p2beta1-rev2-1.22.0
@@ -282,6 +289,11 @@ versioning:
   - v1p2beta1-rev33-1.22.0
   - v1p2beta1-rev33-1.23.0
   - v1p2beta1-rev33-1.24.1
+  - v1p2beta1-rev44-1.18.0-rc
+  - v1p2beta1-rev44-1.22.0
+  - v1p2beta1-rev44-1.23.0
+  - v1p2beta1-rev44-1.24.1
+  - v1p2beta1-rev44-1.25.0
   - v1p2beta1-rev20180928-1.26.0
   - v1p2beta1-rev20181031-1.26.0
   - v1p2beta1-rev20181031-1.27.0
@@ -296,6 +308,8 @@ versioning:
   - v1p2beta1-rev20190125-1.26.0
   - v1p2beta1-rev20190125-1.27.0
   - v1p2beta1-rev20190125-1.28.0
+  - v1p2beta1-rev20190212-1.26.0
+  - v1p2beta1-rev20190212-1.27.0
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.19.1
   - v1-rev1-1.20.0
@@ -659,6 +673,11 @@ versioning:
   - v1-rev404-1.18.0-rc
   - v1-rev404-1.24.1
   - v1-rev404-1.25.0
+  - v1-rev415-1.18.0-rc
+  - v1-rev415-1.22.0
+  - v1-rev415-1.23.0
+  - v1-rev415-1.24.1
+  - v1-rev415-1.25.0
   - v1-rev20180928-1.26.0
   - v1-rev20181031-1.26.0
   - v1-rev20181031-1.27.0
@@ -675,4 +694,6 @@ versioning:
   - v1-rev20190125-1.26.0
   - v1-rev20190125-1.27.0
   - v1-rev20190125-1.28.0
-  lastUpdated: 20190208000213
+  - v1-rev20190212-1.26.0
+  - v1-rev20190212-1.27.0
+  lastUpdated: 20190213231513
