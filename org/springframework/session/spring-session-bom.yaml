@@ -3,8 +3,8 @@
 groupId: org.springframework.session
 artifactId: spring-session-bom
 versioning:
-  latest: Bean-SR2
-  release: Bean-SR2
+  latest: Bean-SR3
+  release: Bean-SR3
   versions:
   - Apple-RELEASE
   - Apple-SR1
@@ -18,4 +18,5 @@ versioning:
   - Bean-RELEASE
   - Bean-SR1
   - Bean-SR2
-  lastUpdated: 20190111042239
+  - Bean-SR3
+  lastUpdated: 20190214021548

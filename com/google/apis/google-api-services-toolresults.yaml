@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-toolresults
 versioning:
-  latest: v1beta3-rev20190207-1.27.0
-  release: v1beta3-rev20190207-1.27.0
+  latest: v1beta3-rev20190207-1.28.0
+  release: v1beta3-rev20190207-1.28.0
   versions:
   - v1beta3firstparty-rev1-1.18.0-rc
   - v1beta3firstparty-rev1-1.20.0
@@ -2026,6 +2026,11 @@ versioning:
   - v1beta3-rev524-1.23.0
   - v1beta3-rev524-1.24.1
   - v1beta3-rev524-1.25.0
+  - v1beta3-rev525-1.18.0-rc
+  - v1beta3-rev525-1.22.0
+  - v1beta3-rev525-1.23.0
+  - v1beta3-rev525-1.24.1
+  - v1beta3-rev525-1.25.0
   - v1beta3-rev20181015-1.26.0
   - v1beta3-rev20181015-1.27.0
   - v1beta3-rev20181112-1.26.0
@@ -2036,4 +2041,5 @@ versioning:
   - v1beta3-rev20190124-1.28.0
   - v1beta3-rev20190207-1.26.0
   - v1beta3-rev20190207-1.27.0
-  lastUpdated: 20190213224805
+  - v1beta3-rev20190207-1.28.0
+  lastUpdated: 20190214102328
