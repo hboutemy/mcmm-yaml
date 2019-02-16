@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-connector-kafka-0.11_2.11
 versioning:
-  latest: 1.7.1
-  release: 1.7.1
+  latest: 1.7.2
+  release: 1.7.2
   versions:
   - 1.4.0
   - 1.4.1
@@ -22,4 +22,5 @@ versioning:
   - 1.6.3
   - 1.7.0
   - 1.7.1
-  lastUpdated: 20181227110411
+  - 1.7.2
+  lastUpdated: 20190215142612

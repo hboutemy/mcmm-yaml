@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud
 artifactId: spring-cloud-stream-starter-build
 versioning:
-  latest: Fishtown.RELEASE
-  release: Fishtown.RELEASE
+  latest: Fishtown.SR1
+  release: Fishtown.SR1
   versions:
   - Brooklyn.RELEASE
   - Brooklyn.SR1
@@ -21,4 +21,5 @@ versioning:
   - Elmhurst.SR1
   - Elmhurst.SR2
   - Fishtown.RELEASE
-  lastUpdated: 20190108121559
+  - Fishtown.SR1
+  lastUpdated: 20190215155842

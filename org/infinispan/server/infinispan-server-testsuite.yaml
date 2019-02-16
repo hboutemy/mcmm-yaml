@@ -3,8 +3,8 @@
 groupId: org.infinispan.server
 artifactId: infinispan-server-testsuite
 versioning:
-  latest: 10.0.0.Alpha3
-  release: 10.0.0.Alpha3
+  latest: 10.0.0.Beta1
+  release: 10.0.0.Beta1
   versions:
   - 5.3.0.Beta1
   - 5.3.0.Beta2
@@ -132,7 +132,9 @@ versioning:
   - 9.4.4.Final
   - 9.4.5.Final
   - 9.4.6.Final
+  - 9.4.7.Final
   - 10.0.0.Alpha1
   - 10.0.0.Alpha2
   - 10.0.0.Alpha3
-  lastUpdated: 20190213081955
+  - 10.0.0.Beta1
+  lastUpdated: 20190215192714
