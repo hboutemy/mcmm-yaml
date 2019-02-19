@@ -3,9 +3,10 @@
 groupId: io.github.clormor
 artifactId: santander-parser
 versioning:
-  latest: 0.4.8-9+g20795e3.dirty
-  release: 0.4.8-9+g20795e3.dirty
+  latest: 0.4.15
+  release: 0.4.15
   versions:
+  - '''0.4.10-SNAPSHOT'''
   - 0.4.0
   - 0.4.2
   - 0.4.8+dirty
@@ -13,4 +14,5 @@ versioning:
   - 0.4.8-7+ge0d8147.dirty
   - 0.4.8-8+g82c75ed.dirty
   - 0.4.8-9+g20795e3.dirty
-  lastUpdated: 20190214222501
+  - 0.4.15
+  lastUpdated: 20190218191703
