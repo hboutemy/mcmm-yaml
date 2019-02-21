@@ -3,8 +3,8 @@
 groupId: org.infinispan.server
 artifactId: infinispan-server-feature-pack
 versioning:
-  latest: 10.0.0.Beta1
-  release: 10.0.0.Beta1
+  latest: 10.0.0.Beta2
+  release: 10.0.0.Beta2
   versions:
   - 8.0.0.Beta1
   - 8.0.0.Beta2
@@ -102,8 +102,10 @@ versioning:
   - 9.4.5.Final
   - 9.4.6.Final
   - 9.4.7.Final
+  - 9.4.8.Final
   - 10.0.0.Alpha1
   - 10.0.0.Alpha2
   - 10.0.0.Alpha3
   - 10.0.0.Beta1
-  lastUpdated: 20190215192713
+  - 10.0.0.Beta2
+  lastUpdated: 20190220161148

@@ -3,8 +3,8 @@
 groupId: com.codacy
 artifactId: codacy-test-bench_2.12
 versioning:
-  latest: 0.0.10
-  release: 0.0.10
+  latest: 0.0.11-excludevpnaddrs.ae37138
+  release: 0.0.11-excludevpnaddrs.ae37138
   versions:
   - 0.0.1
   - 0.0.2
@@ -16,4 +16,6 @@ versioning:
   - 0.0.8
   - 0.0.9
   - 0.0.10
-  lastUpdated: 20190118100651
+  - 0.0.11
+  - 0.0.11-excludevpnaddrs.ae37138
+  lastUpdated: 20190220134156
