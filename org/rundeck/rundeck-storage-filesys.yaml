@@ -3,8 +3,8 @@
 groupId: org.rundeck
 artifactId: rundeck-storage-filesys
 versioning:
-  latest: 3.0.13-20190123
-  release: 3.0.13-20190123
+  latest: 3.0.14-20190221
+  release: 3.0.14-20190221
   versions:
   - 2.1.0
   - 2.1.1
@@ -69,6 +69,7 @@ versioning:
   - 2.11.7
   - 2.11.8
   - 2.11.9
+  - 2.11.10
   - 3.0.0-alpha1
   - 3.0.0-20180727
   - 3.0.1-20180803
@@ -82,4 +83,5 @@ versioning:
   - 3.0.11-20181221
   - 3.0.12-20190114
   - 3.0.13-20190123
-  lastUpdated: 20190124033801
+  - 3.0.14-20190221
+  lastUpdated: 20190222205139
