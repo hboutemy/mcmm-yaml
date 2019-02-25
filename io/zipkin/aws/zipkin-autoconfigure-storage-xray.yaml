@@ -3,8 +3,8 @@
 groupId: io.zipkin.aws
 artifactId: zipkin-autoconfigure-storage-xray
 versioning:
-  latest: 0.15.3
-  release: 0.15.3
+  latest: 0.15.4
+  release: 0.15.4
   versions:
   - 0.8.0
   - 0.8.1
@@ -39,4 +39,5 @@ versioning:
   - 0.15.1
   - 0.15.2
   - 0.15.3
-  lastUpdated: 20190121150633
+  - 0.15.4
+  lastUpdated: 20190224140819
