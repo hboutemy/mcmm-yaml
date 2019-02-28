@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-core-dist
 versioning:
-  latest: 8.0.0.CR1
-  release: 8.0.0.CR1
+  latest: 8.0.0.Final
+  release: 8.0.0.Final
   versions:
   - 1.0.0.Alpha5
   - 1.0.0.Alpha6
@@ -218,4 +218,5 @@ versioning:
   - 8.0.0.Beta4
   - 8.0.0.Beta5
   - 8.0.0.CR1
-  lastUpdated: 20190225223824
+  - 8.0.0.Final
+  lastUpdated: 20190227091242
