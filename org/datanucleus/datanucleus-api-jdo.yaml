@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.datanucleus
 artifactId: datanucleus-api-jdo
 versioning:
-  latest: 5.2.0-m3
-  release: 5.2.0-m3
+  latest: 5.2.0-release
+  release: 5.2.0-release
   versions:
   - 3.0.0-m1
   - 3.0.0-m2
@@ -103,4 +103,5 @@ versioning:
   - 5.2.0-m1
   - 5.2.0-m2
   - 5.2.0-m3
-  lastUpdated: 20190102115332
+  - 5.2.0-release
+  lastUpdated: 20190228082942

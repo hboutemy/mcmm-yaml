@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.sp
 artifactId: rabbitmq-producer
 versioning:
-  latest: 4.4.0-m20
-  release: 4.4.0-m20
+  latest: 4.4.0-m21
+  release: 4.4.0-m21
   versions:
   - 4.0.0-beta4
   - 4.0.0-beta5
@@ -61,5 +61,6 @@ versioning:
   - 4.4.0-m18
   - 4.4.0-m19
   - 4.4.0-m20
+  - 4.4.0-m21
   - 4.0.0
-  lastUpdated: 20190221052354
+  lastUpdated: 20190228045923

@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-weld-bean-validation
 versioning:
-  latest: 16.0.0.Beta1
-  release: 16.0.0.Beta1
+  latest: 16.0.0.Final
+  release: 16.0.0.Final
   versions:
   - 11.0.0.Alpha1
   - 11.0.0.Beta1
@@ -22,4 +22,5 @@ versioning:
   - 15.0.0.Final
   - 15.0.1.Final
   - 16.0.0.Beta1
-  lastUpdated: 20190214005836
+  - 16.0.0.Final
+  lastUpdated: 20190228010720
