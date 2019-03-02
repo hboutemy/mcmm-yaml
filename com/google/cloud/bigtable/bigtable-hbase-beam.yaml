@@ -3,8 +3,8 @@
 groupId: com.google.cloud.bigtable
 artifactId: bigtable-hbase-beam
 versioning:
-  latest: 1.9.0
-  release: 1.9.0
+  latest: 1.10.0
+  release: 1.10.0
   versions:
   - 1.0.0
   - 1.0.0-pre3
@@ -20,4 +20,5 @@ versioning:
   - 1.7.0
   - 1.8.0
   - 1.9.0
-  lastUpdated: 20190215143232
+  - 1.10.0
+  lastUpdated: 20190301174126
