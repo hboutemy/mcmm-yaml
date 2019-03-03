@@ -3,8 +3,8 @@
 groupId: io.zipkin.reporter2
 artifactId: zipkin-reporter-spring-beans
 versioning:
-  latest: 2.7.15
-  release: 2.7.15
+  latest: 2.8.0
+  release: 2.8.0
   versions:
   - 2.2.0
   - 2.2.1
@@ -34,4 +34,5 @@ versioning:
   - 2.7.13
   - 2.7.14
   - 2.7.15
-  lastUpdated: 20190203201831
+  - 2.8.0
+  lastUpdated: 20190302003612
