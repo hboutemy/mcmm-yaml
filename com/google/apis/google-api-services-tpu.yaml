@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-tpu
 versioning:
-  latest: v1-rev20190205-1.28.0
-  release: v1-rev20190205-1.28.0
+  latest: v1-rev20190228-1.28.0
+  release: v1-rev20190228-1.28.0
   versions:
   - v1alpha1-rev2-1.18.0-rc
   - v1alpha1-rev2-1.21.0
@@ -93,12 +93,20 @@ versioning:
   - v1alpha1-rev30-1.23.0
   - v1alpha1-rev30-1.24.1
   - v1alpha1-rev30-1.25.0
+  - v1alpha1-rev31-1.18.0-rc
+  - v1alpha1-rev31-1.22.0
+  - v1alpha1-rev31-1.23.0
+  - v1alpha1-rev31-1.24.1
+  - v1alpha1-rev31-1.25.0
   - v1alpha1-rev20181010-1.26.0
   - v1alpha1-rev20181010-1.27.0
   - v1alpha1-rev20181010-1.28.0
   - v1alpha1-rev20190205-1.26.0
   - v1alpha1-rev20190205-1.27.0
   - v1alpha1-rev20190205-1.28.0
+  - v1alpha1-rev20190228-1.26.0
+  - v1alpha1-rev20190228-1.27.0
+  - v1alpha1-rev20190228-1.28.0
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.21.0
   - v1-rev1-1.22.0
@@ -162,10 +170,18 @@ versioning:
   - v1-rev17-1.23.0
   - v1-rev17-1.24.1
   - v1-rev17-1.25.0
+  - v1-rev18-1.18.0-rc
+  - v1-rev18-1.22.0
+  - v1-rev18-1.23.0
+  - v1-rev18-1.24.1
+  - v1-rev18-1.25.0
   - v1-rev20181010-1.26.0
   - v1-rev20181010-1.27.0
   - v1-rev20181010-1.28.0
   - v1-rev20190205-1.26.0
   - v1-rev20190205-1.27.0
   - v1-rev20190205-1.28.0
-  lastUpdated: 20190221073029
+  - v1-rev20190228-1.26.0
+  - v1-rev20190228-1.27.0
+  - v1-rev20190228-1.28.0
+  lastUpdated: 20190303213642
