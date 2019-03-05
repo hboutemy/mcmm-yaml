@@ -3,8 +3,8 @@
 groupId: org.teiid.connectors
 artifactId: ldap
 versioning:
-  latest: 12.0.1
-  release: 12.0.1
+  latest: 12.1.0
+  release: 12.1.0
   versions:
   - 10.0.0.Alpha2
   - 10.0.0.Beta1
@@ -44,4 +44,5 @@ versioning:
   - 11.2.2
   - 12.0.0
   - 12.0.1
-  lastUpdated: 20190226205538
+  - 12.1.0
+  lastUpdated: 20190304174713

@@ -3,8 +3,8 @@
 groupId: io.zipkin.aws
 artifactId: zipkin-sender-kinesis
 versioning:
-  latest: 0.15.5
-  release: 0.15.5
+  latest: 0.16.0
+  release: 0.16.0
   versions:
   - 0.3.0
   - 0.3.1
@@ -54,4 +54,5 @@ versioning:
   - 0.15.3
   - 0.15.4
   - 0.15.5
-  lastUpdated: 20190302070932
+  - 0.16.0
+  lastUpdated: 20190304172354

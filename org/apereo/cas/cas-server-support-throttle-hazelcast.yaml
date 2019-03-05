@@ -3,8 +3,8 @@
 groupId: org.apereo.cas
 artifactId: cas-server-support-throttle-hazelcast
 versioning:
-  latest: 6.1.0-RC1
-  release: 6.1.0-RC1
+  latest: 6.1.0-RC2
+  release: 6.1.0-RC2
   versions:
   - 5.3.4
   - 5.3.5
@@ -16,5 +16,7 @@ versioning:
   - 6.0.0-RC4
   - 6.0.0
   - 6.0.1
+  - 6.0.2
   - 6.1.0-RC1
-  lastUpdated: 20190228182612
+  - 6.1.0-RC2
+  lastUpdated: 20190304222706
