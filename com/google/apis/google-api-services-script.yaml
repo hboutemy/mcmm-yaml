@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-script
 versioning:
-  latest: v1-rev20190131-1.28.0
-  release: v1-rev20190131-1.28.0
+  latest: v1-rev20190303-1.28.0
+  release: v1-rev20190303-1.28.0
   versions:
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.19.0
@@ -807,6 +807,11 @@ versioning:
   - v1-rev334-1.23.0
   - v1-rev334-1.24.1
   - v1-rev334-1.25.0
+  - v1-rev335-1.18.0-rc
+  - v1-rev335-1.22.0
+  - v1-rev335-1.23.0
+  - v1-rev335-1.24.1
+  - v1-rev335-1.25.0
   - v1-rev20181015-1.26.0
   - v1-rev20181110-1.26.0
   - v1-rev20181110-1.27.0
@@ -818,4 +823,7 @@ versioning:
   - v1-rev20190131-1.26.0
   - v1-rev20190131-1.27.0
   - v1-rev20190131-1.28.0
-  lastUpdated: 20190227052514
+  - v1-rev20190303-1.26.0
+  - v1-rev20190303-1.27.0
+  - v1-rev20190303-1.28.0
+  lastUpdated: 20190305223825
