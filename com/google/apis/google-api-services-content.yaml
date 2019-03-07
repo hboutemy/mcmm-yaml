@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-content
 versioning:
-  latest: v2.1-rev20190222-1.28.0
-  release: v2.1-rev20190222-1.28.0
+  latest: v2.1-rev20190304-1.28.0
+  release: v2.1-rev20190304-1.28.0
   versions:
   - v2-rev2-1.14.2-beta
   - v2-rev2-1.15.0-rc
@@ -624,6 +624,9 @@ versioning:
   - v2-rev162-1.23.0
   - v2-rev162-1.24.1
   - v2-rev162-1.25.0
+  - v2-rev163-1.18.0-rc
+  - v2-rev163-1.22.0
+  - v2-rev163-1.23.0
   - v2-rev163-1.24.1
   - v2-rev163-1.25.0
   - v2-rev20181016-1.26.0
@@ -650,6 +653,9 @@ versioning:
   - v2-rev20190222-1.26.0
   - v2-rev20190222-1.27.0
   - v2-rev20190222-1.28.0
+  - v2-rev20190304-1.26.0
+  - v2-rev20190304-1.27.0
+  - v2-rev20190304-1.28.0
   - v2sandbox-rev1-1.18.0-rc
   - v2sandbox-rev1-1.19.0
   - v2sandbox-rev1-1.19.1
@@ -1051,4 +1057,7 @@ versioning:
   - v2.1-rev20190222-1.26.0
   - v2.1-rev20190222-1.27.0
   - v2.1-rev20190222-1.28.0
-  lastUpdated: 20190305212040
+  - v2.1-rev20190304-1.26.0
+  - v2.1-rev20190304-1.27.0
+  - v2.1-rev20190304-1.28.0
+  lastUpdated: 20190306213451
