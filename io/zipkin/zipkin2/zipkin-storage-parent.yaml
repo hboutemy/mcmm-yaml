@@ -3,8 +3,8 @@
 groupId: io.zipkin.zipkin2
 artifactId: zipkin-storage-parent
 versioning:
-  latest: 2.12.3
-  release: 2.12.3
+  latest: 2.12.5
+  release: 2.12.5
   versions:
   - 2.9.0
   - 2.9.1
@@ -34,4 +34,6 @@ versioning:
   - 2.12.1
   - 2.12.2
   - 2.12.3
-  lastUpdated: 20190301161508
+  - 2.12.4
+  - 2.12.5
+  lastUpdated: 20190307223213

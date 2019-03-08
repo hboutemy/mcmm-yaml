@@ -3,8 +3,8 @@
 groupId: org.apache.kudu
 artifactId: kudu-flume-sink
 versioning:
-  latest: 1.8.0
-  release: 1.8.0
+  latest: 1.9.0
+  release: 1.9.0
   versions:
   - 0.10.0
   - 1.0.0
@@ -19,4 +19,5 @@ versioning:
   - 1.7.0
   - 1.7.1
   - 1.8.0
-  lastUpdated: 20181024191224
+  - 1.9.0
+  lastUpdated: 20190307051141
