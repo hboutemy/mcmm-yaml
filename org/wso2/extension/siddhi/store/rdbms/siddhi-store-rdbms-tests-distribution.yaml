@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.wso2.extension.siddhi.store.rdbms
 artifactId: siddhi-store-rdbms-tests-distribution
 versioning:
@@ -62,10 +63,10 @@ versioning:
   - 4.0.47
   - 4.0.48
   - 4.0.49
-  - 4.0.50
-  - 4.0.51
   - 4.0.52
   - 5.0.0
   - 5.1.0
   - 5.1.1
-  lastUpdated: 20190227134202
+  - 4.0.50
+  - 4.0.51
+  lastUpdated: 20190308071917
