@@ -3,9 +3,11 @@
 groupId: com.nepxion
 artifactId: discovery-console
 versioning:
-  latest: 4.8.3
-  release: 4.8.3
+  latest: 4.8.4
+  release: 4.8.4
   versions:
+  - Edgware.1.0.0
+  - Finchley.1.0.0
   - 3.3.10
   - 3.3.11
   - 3.3.12
@@ -93,6 +95,7 @@ versioning:
   - 3.8.2.5
   - 3.8.2.6
   - 3.8.3
+  - 3.8.4
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -168,4 +171,5 @@ versioning:
   - 4.8.2.5
   - 4.8.2.6
   - 4.8.3
-  lastUpdated: 20190225012853
+  - 4.8.4
+  lastUpdated: 20190312115015

@@ -3,8 +3,8 @@
 groupId: org.openjfx
 artifactId: javafx-controls
 versioning:
-  latest: 12-ea+14
-  release: 12-ea+14
+  latest: 13-ea+1
+  release: 13-ea+1
   versions:
   - 11
   - 11-ea+19
@@ -14,6 +14,7 @@ versioning:
   - 11.0.1
   - 11.0.1-ea+1
   - 11.0.2
+  - 12
   - 12-ea+2
   - 12-ea+3
   - 12-ea+4
@@ -27,4 +28,5 @@ versioning:
   - 12-ea+12
   - 12-ea+13
   - 12-ea+14
-  lastUpdated: 20190225105920
+  - 13-ea+1
+  lastUpdated: 20190312075405
