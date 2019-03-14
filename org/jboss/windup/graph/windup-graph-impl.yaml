@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.windup.graph
 artifactId: windup-graph-impl
 versioning:
-  latest: 4.2.0.Final
-  release: 4.2.0.Final
+  latest: 4.2.1.Alpha1
+  release: 4.2.1.Alpha1
   versions:
   - 2.0.0.Beta1
   - 2.0.0.Beta2
@@ -45,4 +45,5 @@ versioning:
   - 4.2.0.Alpha1
   - 4.2.0.Alpha2
   - 4.2.0.Final
-  lastUpdated: 20181026110537
+  - 4.2.1.Alpha1
+  lastUpdated: 20190313114622
