@@ -3,9 +3,10 @@
 groupId: com.taobao.configserver
 artifactId: config-client
 versioning:
-  latest: 2.0.3-open
-  release: 2.0.3-open
+  latest: 2.0.3-open-sock5
+  release: 2.0.3-open-sock5
   versions:
   - 1.9.8-open
   - 2.0.3-open
-  lastUpdated: 20181114124116
+  - 2.0.3-open-sock5
+  lastUpdated: 20190314094009
