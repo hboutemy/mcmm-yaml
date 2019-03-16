@@ -3,8 +3,8 @@
 groupId: com.netflix.nebula
 artifactId: nebula-clojure-plugin
 versioning:
-  latest: 8.1.0
-  release: 8.1.0
+  latest: 8.1.1
+  release: 8.1.1
   versions:
   - 1.12.1
   - 1.12.2
@@ -38,5 +38,9 @@ versioning:
   - 7.3.0
   - 8.0.0
   - 8.0.1
+  - 8.0.2
   - 8.1.0
-  lastUpdated: 20190313213422
+  - 8.1.1-rc.1
+  - 8.1.1-rc.2
+  - 8.1.1
+  lastUpdated: 20190315205505
