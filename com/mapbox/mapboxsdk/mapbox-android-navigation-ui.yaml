@@ -3,13 +3,14 @@
 groupId: com.mapbox.mapboxsdk
 artifactId: mapbox-android-navigation-ui
 versioning:
-  latest: 0.32.0
-  release: 0.32.0
+  latest: 0.33.0
+  release: 0.33.0
   versions:
   - eh-beta.1
   - eh-beta.2
   - eh-beta.3
   - eh-beta.4
+  - eh-beta.5
   - NATIVE-OFFLINE-beta.1
   - NATIVE-OFFLINE-beta.2
   - NATIVE-OFFLINE-beta.3
@@ -60,4 +61,5 @@ versioning:
   - 0.30.0
   - 0.31.0
   - 0.32.0
-  lastUpdated: 20190311211554
+  - 0.33.0
+  lastUpdated: 20190318220207

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.openshift
 artifactId: openshift-restclient-java
 versioning:
-  latest: 7.0.0.Final
-  release: 7.0.0.Final
+  latest: 7.1.0.Final
+  release: 7.1.0.Final
   versions:
   - 3.0.0.Final
   - 3.0.1.Final
@@ -36,5 +36,6 @@ versioning:
   - 6.1.2.Final
   - 6.1.3.Final
   - 7.0.0.Final
+  - 7.1.0.Final
   - 4.0.1-FINAL
-  lastUpdated: 20181123180452
+  lastUpdated: 20190318095033
