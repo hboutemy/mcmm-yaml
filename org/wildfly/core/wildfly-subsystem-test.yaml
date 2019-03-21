@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-subsystem-test
 versioning:
-  latest: 8.0.0.Final
-  release: 8.0.0.Final
+  latest: 9.0.0.Beta1
+  release: 9.0.0.Beta1
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -223,4 +223,5 @@ versioning:
   - 8.0.0.Beta5
   - 8.0.0.CR1
   - 8.0.0.Final
-  lastUpdated: 20190227091256
+  - 9.0.0.Beta1
+  lastUpdated: 20190320132714
