@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-cloudsearch
 versioning:
-  latest: v1-rev20190305-1.28.0
-  release: v1-rev20190305-1.28.0
+  latest: v1-rev20190314-1.28.0
+  release: v1-rev20190314-1.28.0
   versions:
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.19.0
@@ -54,6 +54,8 @@ versioning:
   - v1-rev21-1.23.0
   - v1-rev21-1.24.1
   - v1-rev21-1.25.0
+  - v1-rev22-1.18.0-rc
+  - v1-rev22-1.24.1
   - v1-rev20181029-1.26.0
   - v1-rev20181029-1.27.0
   - v1-rev20181120-1.26.0
@@ -78,4 +80,7 @@ versioning:
   - v1-rev20190305-1.26.0
   - v1-rev20190305-1.27.0
   - v1-rev20190305-1.28.0
-  lastUpdated: 20190320192604
+  - v1-rev20190314-1.26.0
+  - v1-rev20190314-1.27.0
+  - v1-rev20190314-1.28.0
+  lastUpdated: 20190321221714
