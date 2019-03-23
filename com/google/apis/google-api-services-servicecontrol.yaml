@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-servicecontrol
 versioning:
-  latest: v1-rev20190217-1.28.0
-  release: v1-rev20190217-1.28.0
+  latest: v1-rev20190318-1.28.0
+  release: v1-rev20190318-1.28.0
   versions:
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.20.0
@@ -418,6 +418,11 @@ versioning:
   - v1-rev129-1.23.0
   - v1-rev129-1.24.1
   - v1-rev129-1.25.0
+  - v1-rev130-1.18.0-rc
+  - v1-rev130-1.22.0
+  - v1-rev130-1.23.0
+  - v1-rev130-1.24.1
+  - v1-rev130-1.25.0
   - v1-rev20181015-1.26.0
   - v1-rev20181022-1.26.0
   - v1-rev20181029-1.26.0
@@ -443,4 +448,7 @@ versioning:
   - v1-rev20190217-1.26.0
   - v1-rev20190217-1.27.0
   - v1-rev20190217-1.28.0
-  lastUpdated: 20190315062317
+  - v1-rev20190318-1.26.0
+  - v1-rev20190318-1.27.0
+  - v1-rev20190318-1.28.0
+  lastUpdated: 20190322205531

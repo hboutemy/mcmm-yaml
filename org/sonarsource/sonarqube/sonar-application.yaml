@@ -3,8 +3,8 @@
 groupId: org.sonarsource.sonarqube
 artifactId: sonar-application
 versioning:
-  latest: 7.7-alpha1
-  release: 7.7-alpha1
+  latest: 7.7
+  release: 7.7
   versions:
   - 6.2-RC3
   - 6.2
@@ -40,4 +40,5 @@ versioning:
   - 7.5
   - 7.6
   - 7.7-alpha1
-  lastUpdated: 20190313162211
+  - 7.7
+  lastUpdated: 20190322101715
