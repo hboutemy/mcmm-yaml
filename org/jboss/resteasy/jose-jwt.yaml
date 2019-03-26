@@ -3,8 +3,8 @@
 groupId: org.jboss.resteasy
 artifactId: jose-jwt
 versioning:
-  latest: 4.0.0.Beta8
-  release: 4.0.0.Beta8
+  latest: 4.0.0.CR1
+  release: 4.0.0.CR1
   versions:
   - 3.0-beta-2
   - 3.0-beta-3
@@ -70,4 +70,5 @@ versioning:
   - 4.0.0.Beta6
   - 4.0.0.Beta7
   - 4.0.0.Beta8
-  lastUpdated: 20190215221103
+  - 4.0.0.CR1
+  lastUpdated: 20190325095230

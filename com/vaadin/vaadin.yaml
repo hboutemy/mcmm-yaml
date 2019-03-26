@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.vaadin
 artifactId: vaadin
 versioning:
-  latest: 13.0.1
-  release: 13.0.1
+  latest: 13.0.2
+  release: 13.0.2
   versions:
   - 6.0.0
   - 6.0.1
@@ -110,6 +110,7 @@ versioning:
   - 10.0.9
   - 10.0.10
   - 10.0.11
+  - 10.0.12
   - 11.0.0
   - 11.0.1
   - 11.0.2
@@ -125,4 +126,5 @@ versioning:
   - 12.0.7
   - 13.0.0
   - 13.0.1
-  lastUpdated: 20190311152622
+  - 13.0.2
+  lastUpdated: 20190325152414
