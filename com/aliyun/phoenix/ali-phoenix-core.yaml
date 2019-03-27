@@ -3,8 +3,8 @@
 groupId: com.aliyun.phoenix
 artifactId: ali-phoenix-core
 versioning:
-  latest: 5.1.0-HBase-2.0
-  release: 5.1.0-HBase-2.0
+  latest: 5.1.0-HBase-2.0.0.1
+  release: 5.1.0-HBase-2.0.0.1
   versions:
   - 4.11.0-AliHBase-1.1
   - 4.11.0-AliHBase-1.1-0.1
@@ -17,5 +17,6 @@ versioning:
   - 4.12.0-AliHBase-1.1-0.5
   - 4.12.0-AliHBase-1.1-0.6
   - 5.1.0-HBase-2.0
+  - 5.1.0-HBase-2.0.0.1
   - 4.12.0-AliHBase-1.1-0.4-Final
-  lastUpdated: 20190117062404
+  lastUpdated: 20190326082516
