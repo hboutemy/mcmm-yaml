@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-hadoop-pig
 versioning:
-  latest: 7.0.0-beta1
-  release: 7.0.0-beta1
+  latest: 7.0.0-rc1
+  release: 7.0.0-rc1
   versions:
   - 1.3.0.M3
   - 2.0.0.RC1
@@ -114,5 +114,6 @@ versioning:
   - 7.0.0-alpha1
   - 7.0.0-alpha2
   - 7.0.0-beta1
+  - 7.0.0-rc1
   - 2.1.0.rc1
-  lastUpdated: 20190326154835
+  lastUpdated: 20190327151517

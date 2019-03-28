@@ -3,8 +3,8 @@
 groupId: com.vladsch.flexmark
 artifactId: flexmark-ext-gitlab
 versioning:
-  latest: 0.40.26
-  release: 0.40.26
+  latest: 0.40.32
+  release: 0.40.32
   versions:
   - 0.34.24
   - 0.34.28
@@ -25,10 +25,12 @@ versioning:
   - 0.34.53
   - 0.34.56
   - 0.34.58
+  - 0.34.60
   - 0.35.0
   - 0.35.2
   - 0.35.4
   - 0.35.6
+  - 0.35.10
   - 0.36.8
   - 0.40.0
   - 0.40.2
@@ -44,4 +46,7 @@ versioning:
   - 0.40.22
   - 0.40.24
   - 0.40.26
-  lastUpdated: 20190324185907
+  - 0.40.28
+  - 0.40.30
+  - 0.40.32
+  lastUpdated: 20190327225758
