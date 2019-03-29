@@ -3,8 +3,8 @@
 groupId: com.sumologic.elasticsearch
 artifactId: elasticsearch-aws
 versioning:
-  latest: 7.0.0-M9
-  release: 7.0.0-M9
+  latest: 7.0.0-M11
+  release: 7.0.0-M11
   versions:
   - 1.0.0
   - 1.0.1
@@ -60,4 +60,6 @@ versioning:
   - 7.0.0-M7
   - 7.0.0-M8
   - 7.0.0-M9
-  lastUpdated: 20190327102344
+  - 7.0.0-M10
+  - 7.0.0-M11
+  lastUpdated: 20190328172544

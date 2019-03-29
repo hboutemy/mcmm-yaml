@@ -3,8 +3,8 @@
 groupId: org.infinispan.protostream
 artifactId: sample-domain-definition
 versioning:
-  latest: 4.2.2.Final
-  release: 4.2.2.Final
+  latest: 4.3.0.Alpha1
+  release: 4.3.0.Alpha1
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -73,4 +73,6 @@ versioning:
   - 4.2.0.Final
   - 4.2.1.Final
   - 4.2.2.Final
-  lastUpdated: 20181029161422
+  - 4.2.3.Final
+  - 4.3.0.Alpha1
+  lastUpdated: 20190328143334

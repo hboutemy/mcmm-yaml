@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-cloudbuild
 versioning:
-  latest: v1-rev20190312-1.28.0
-  release: v1-rev20190312-1.28.0
+  latest: v1-rev20190323-1.28.0
+  release: v1-rev20190323-1.28.0
   versions:
   - v1alpha1-rev5-1.18.0-rc
   - v1alpha1-rev22-1.18.0-rc
@@ -71,6 +71,11 @@ versioning:
   - v1alpha1-rev35-1.23.0
   - v1alpha1-rev35-1.24.1
   - v1alpha1-rev35-1.25.0
+  - v1alpha1-rev36-1.18.0-rc
+  - v1alpha1-rev36-1.22.0
+  - v1alpha1-rev36-1.23.0
+  - v1alpha1-rev36-1.24.1
+  - v1alpha1-rev36-1.25.0
   - v1alpha1-rev20181211-1.26.0
   - v1alpha1-rev20181211-1.27.0
   - v1alpha1-rev20181215-1.26.0
@@ -1633,6 +1638,11 @@ versioning:
   - v1-rev841-1.23.0
   - v1-rev841-1.24.1
   - v1-rev841-1.25.0
+  - v1-rev842-1.18.0-rc
+  - v1-rev842-1.22.0
+  - v1-rev842-1.23.0
+  - v1-rev842-1.24.1
+  - v1-rev842-1.25.0
   - v1-rev20181017-1.26.0
   - v1-rev20181017-1.27.0
   - v1-rev20181017-1.28.0
@@ -1645,4 +1655,7 @@ versioning:
   - v1-rev20190312-1.26.0
   - v1-rev20190312-1.27.0
   - v1-rev20190312-1.28.0
-  lastUpdated: 20190320070723
+  - v1-rev20190323-1.26.0
+  - v1-rev20190323-1.27.0
+  - v1-rev20190323-1.28.0
+  lastUpdated: 20190328212650

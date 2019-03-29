@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-testing
 versioning:
-  latest: v1-rev20190301-1.28.0
-  release: v1-rev20190301-1.28.0
+  latest: v1-rev20190325-1.28.0
+  release: v1-rev20190325-1.28.0
   versions:
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.20.0
@@ -387,6 +387,11 @@ versioning:
   - v1-rev123-1.23.0
   - v1-rev123-1.24.1
   - v1-rev123-1.25.0
+  - v1-rev124-1.18.0-rc
+  - v1-rev124-1.22.0
+  - v1-rev124-1.23.0
+  - v1-rev124-1.24.1
+  - v1-rev124-1.25.0
   - v1-rev20181003-1.26.0
   - v1-rev20181025-1.26.0
   - v1-rev20181107-1.26.0
@@ -418,4 +423,7 @@ versioning:
   - v1-rev20190301-1.26.0
   - v1-rev20190301-1.27.0
   - v1-rev20190301-1.28.0
-  lastUpdated: 20190327151524
+  - v1-rev20190325-1.26.0
+  - v1-rev20190325-1.27.0
+  - v1-rev20190325-1.28.0
+  lastUpdated: 20190328215249
