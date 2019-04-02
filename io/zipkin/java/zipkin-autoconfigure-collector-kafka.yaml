@@ -3,8 +3,8 @@
 groupId: io.zipkin.java
 artifactId: zipkin-autoconfigure-collector-kafka
 versioning:
-  latest: 2.12.6
-  release: 2.12.6
+  latest: 2.12.7
+  release: 2.12.7
   versions:
   - 0.21.0
   - 0.21.1
@@ -156,4 +156,5 @@ versioning:
   - 2.12.4
   - 2.12.5
   - 2.12.6
-  lastUpdated: 20190316023159
+  - 2.12.7
+  lastUpdated: 20190401120343

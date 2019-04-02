@@ -3,8 +3,8 @@
 groupId: io.zipkin.java
 artifactId: zipkin-autoconfigure-metrics-prometheus
 versioning:
-  latest: 2.12.5
-  release: 2.12.5
+  latest: 2.12.7
+  release: 2.12.7
   versions:
   - 1.2.0
   - 1.2.1
@@ -143,4 +143,5 @@ versioning:
   - 2.12.3
   - 2.12.4
   - 2.12.5
-  lastUpdated: 20190307223148
+  - 2.12.7
+  lastUpdated: 20190401120349

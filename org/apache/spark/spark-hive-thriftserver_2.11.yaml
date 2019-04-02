@@ -3,8 +3,8 @@
 groupId: org.apache.spark
 artifactId: spark-hive-thriftserver_2.11
 versioning:
-  latest: 2.4.0
-  release: 2.4.0
+  latest: 2.4.1
+  release: 2.4.1
   versions:
   - 1.6.3
   - 2.0.0
@@ -24,4 +24,5 @@ versioning:
   - 2.3.2
   - 2.3.3
   - 2.4.0
-  lastUpdated: 20190215232259
+  - 2.4.1
+  lastUpdated: 20190401070030

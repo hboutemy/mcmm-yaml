@@ -3,8 +3,8 @@
 groupId: io.zipkin.java
 artifactId: zipkin-autoconfigure-collector-scribe
 versioning:
-  latest: 2.12.5
-  release: 2.12.5
+  latest: 2.12.7
+  release: 2.12.7
   versions:
   - 0.21.0
   - 0.21.1
@@ -155,4 +155,5 @@ versioning:
   - 2.12.3
   - 2.12.4
   - 2.12.5
-  lastUpdated: 20190307223147
+  - 2.12.7
+  lastUpdated: 20190401120348
