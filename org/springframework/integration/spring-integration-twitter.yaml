@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.integration
 artifactId: spring-integration-twitter
 versioning:
-  latest: 5.0.12.RELEASE
-  release: 5.0.12.RELEASE
+  latest: 5.0.13.RELEASE
+  release: 5.0.13.RELEASE
   versions:
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
@@ -89,6 +89,7 @@ versioning:
   - 4.3.17.RELEASE
   - 4.3.18.RELEASE
   - 4.3.19.RELEASE
+  - 4.3.20.RELEASE
   - 5.0.0.RELEASE
   - 5.0.1.RELEASE
   - 5.0.2.RELEASE
@@ -102,5 +103,6 @@ versioning:
   - 5.0.10.RELEASE
   - 5.0.11.RELEASE
   - 5.0.12.RELEASE
+  - 5.0.13.RELEASE
   - 4.0.0.M3
-  lastUpdated: 20190214220510
+  lastUpdated: 20190402214721
