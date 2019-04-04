@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-core
 versioning:
-  latest: 7.0.0-rc1
-  release: 7.0.0-rc1
+  latest: 7.0.0-rc2
+  release: 7.0.0-rc2
   versions:
   - 6.2.0
   - 6.2.1
@@ -31,4 +31,5 @@ versioning:
   - 7.0.0-alpha2
   - 7.0.0-beta1
   - 7.0.0-rc1
-  lastUpdated: 20190327151509
+  - 7.0.0-rc2
+  lastUpdated: 20190403140758

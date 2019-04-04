@@ -3,8 +3,8 @@
 groupId: pl.allegro.tech.hermes
 artifactId: hermes-schema
 versioning:
-  latest: 0.15.9
-  release: 0.15.9
+  latest: 0.15.10-enable-setting-idle-connection-timeout-for-jetty-client
+  release: 0.15.10-enable-setting-idle-connection-timeout-for-jetty-client
   versions:
   - 0.9.0
   - 0.9.1
@@ -50,4 +50,5 @@ versioning:
   - 0.15.7
   - 0.15.8
   - 0.15.9
-  lastUpdated: 20190329075645
+  - 0.15.10-enable-setting-idle-connection-timeout-for-jetty-client
+  lastUpdated: 20190403145732
