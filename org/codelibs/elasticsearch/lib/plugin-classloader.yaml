@@ -3,8 +3,8 @@
 groupId: org.codelibs.elasticsearch.lib
 artifactId: plugin-classloader
 versioning:
-  latest: 7.0.0-rc1
-  release: 7.0.0-rc1
+  latest: 7.0.0-rc2
+  release: 7.0.0-rc2
   versions:
   - 6.2.0
   - 6.2.1
@@ -29,4 +29,5 @@ versioning:
   - 6.7.0
   - 7.0.0-beta1
   - 7.0.0-rc1
-  lastUpdated: 20190328044818
+  - 7.0.0-rc2
+  lastUpdated: 20190404004053

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.hibernate
 artifactId: hibernate-core
 versioning:
-  latest: 5.4.2.Final
-  release: 5.4.2.Final
+  latest: 6.0.0.Alpha2
+  release: 6.0.0.Alpha2
   versions:
   - 3.3.0.CR1
   - 3.3.0.CR2
@@ -185,6 +185,7 @@ versioning:
   - 5.4.0.Final
   - 5.4.1.Final
   - 5.4.2.Final
+  - 6.0.0.Alpha2
   - 4.1.2
   - 5.1.13.Final
   - 5.1.14.Final
@@ -195,4 +196,4 @@ versioning:
   - 5.2.15.Final
   - 5.2.16.Final
   - 5.2.17.Final
-  lastUpdated: 20190321184420
+  lastUpdated: 20190404155536
