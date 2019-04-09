@@ -3,8 +3,8 @@
 groupId: com.flipkart
 artifactId: hbase-object-mapper
 versioning:
-  latest: 1.11
-  release: 1.11
+  latest: 1.11-hdp31-78
+  release: 1.11-hdp31-78
   versions:
   - 1.0.3
   - 1.0.4
@@ -21,4 +21,5 @@ versioning:
   - 1.9
   - 1.10
   - 1.11
-  lastUpdated: 20181203124449
+  - 1.11-hdp31-78
+  lastUpdated: 20190408142332
