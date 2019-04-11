@@ -3,8 +3,8 @@
 groupId: org.codelibs.elasticsearch.module
 artifactId: repository-url
 versioning:
-  latest: 7.0.0-rc2
-  release: 7.0.0-rc2
+  latest: 7.0.0
+  release: 7.0.0
   versions:
   - 6.0.0-rc1
   - 6.0.0-rc2
@@ -39,4 +39,5 @@ versioning:
   - 7.0.0-beta1
   - 7.0.0-rc1
   - 7.0.0-rc2
-  lastUpdated: 20190405220449
+  - 7.0.0
+  lastUpdated: 20190410215642

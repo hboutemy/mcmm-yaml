@@ -3,8 +3,8 @@
 groupId: org.grails
 artifactId: gorm-mongodb-spring-boot
 versioning:
-  latest: 7.0.0.RC2
-  release: 7.0.0.RC2
+  latest: 7.0.0.RELEASE
+  release: 7.0.0.RELEASE
   versions:
   - 1.0.0.M1
   - 1.0.0.RC1
@@ -56,4 +56,5 @@ versioning:
   - 6.1.5.RELEASE
   - 6.1.6.RELEASE
   - 7.0.0.RC2
-  lastUpdated: 20190320113312
+  - 7.0.0.RELEASE
+  lastUpdated: 20190410105242
