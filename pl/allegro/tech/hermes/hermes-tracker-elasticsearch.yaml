@@ -3,8 +3,8 @@
 groupId: pl.allegro.tech.hermes
 artifactId: hermes-tracker-elasticsearch
 versioning:
-  latest: 0.15.10-enable-setting-idle-connection-timeout-for-jetty-client
-  release: 0.15.10-enable-setting-idle-connection-timeout-for-jetty-client
+  latest: 0.16.0
+  release: 0.16.0
   versions:
   - 0.8.0
   - 0.8.1
@@ -78,4 +78,5 @@ versioning:
   - 0.15.8
   - 0.15.9
   - 0.15.10-enable-setting-idle-connection-timeout-for-jetty-client
-  lastUpdated: 20190403145736
+  - 0.16.0
+  lastUpdated: 20190415090748
