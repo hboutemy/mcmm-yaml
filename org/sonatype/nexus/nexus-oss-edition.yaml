@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.sonatype.nexus
 artifactId: nexus-oss-edition
 versioning:
-  latest: 3.16.0-01
-  release: 3.16.0-01
+  latest: 3.16.1-02
+  release: 3.16.1-02
   versions:
   - 1.2.0
   - 1.2.0.1
@@ -172,5 +172,6 @@ versioning:
   - 3.15.1-01
   - 3.15.2-01
   - 3.16.0-01
+  - 3.16.1-02
   - 2.2.1
-  lastUpdated: 20190411192142
+  lastUpdated: 20190416205719

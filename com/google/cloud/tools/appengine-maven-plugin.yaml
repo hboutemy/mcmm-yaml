@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.cloud.tools
 artifactId: appengine-maven-plugin
 versioning:
-  latest: 2.0.0-rc5
-  release: 2.0.0-rc5
+  latest: 2.0.0-rc6
+  release: 2.0.0-rc6
   versions:
   - 0.1.0-beta
   - 0.1.1-beta
@@ -23,5 +23,6 @@ versioning:
   - 2.0.0-rc2
   - 2.0.0-rc4
   - 2.0.0-rc5
+  - 2.0.0-rc6
   - 99.99.99
-  lastUpdated: 20190116171814
+  lastUpdated: 20190416212726
