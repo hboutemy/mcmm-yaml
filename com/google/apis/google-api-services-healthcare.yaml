@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-healthcare
 versioning:
-  latest: v1beta1-rev20190401-1.28.0
-  release: v1beta1-rev20190401-1.28.0
+  latest: v1beta1-rev20190413-1.28.0
+  release: v1beta1-rev20190413-1.28.0
   versions:
   - v1alpha2-rev20190308-1.26.0
   - v1alpha2-rev20190308-1.27.0
@@ -18,11 +18,19 @@ versioning:
   - v1alpha2-rev20190401-1.26.0
   - v1alpha2-rev20190401-1.27.0
   - v1alpha2-rev20190401-1.28.0
+  - v1alpha2-rev20190413-1.26.0
+  - v1alpha2-rev20190413-1.27.0
+  - v1alpha2-rev20190413-1.28.0
   - v1alpha-rev9-1.18.0-rc
   - v1alpha-rev9-1.22.0
   - v1alpha-rev9-1.23.0
   - v1alpha-rev9-1.24.1
   - v1alpha-rev9-1.25.0
+  - v1alpha-rev10-1.18.0-rc
+  - v1alpha-rev10-1.22.0
+  - v1alpha-rev10-1.23.0
+  - v1alpha-rev10-1.24.1
+  - v1alpha-rev10-1.25.0
   - v1alpha-rev20190204-1.26.0
   - v1alpha-rev20190204-1.27.0
   - v1alpha-rev20190204-1.28.0
@@ -32,7 +40,13 @@ versioning:
   - v1alpha-rev20190321-1.26.0
   - v1alpha-rev20190321-1.27.0
   - v1alpha-rev20190321-1.28.0
+  - v1alpha-rev20190413-1.26.0
+  - v1alpha-rev20190413-1.27.0
+  - v1alpha-rev20190413-1.28.0
   - v1beta1-rev20190401-1.26.0
   - v1beta1-rev20190401-1.27.0
   - v1beta1-rev20190401-1.28.0
-  lastUpdated: 20190417025225
+  - v1beta1-rev20190413-1.26.0
+  - v1beta1-rev20190413-1.27.0
+  - v1beta1-rev20190413-1.28.0
+  lastUpdated: 20190418231637

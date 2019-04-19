@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-servicebroker
 versioning:
-  latest: v1-rev20190325-1.28.0
-  release: v1-rev20190325-1.28.0
+  latest: v1-rev20190415-1.28.0
+  release: v1-rev20190415-1.28.0
   versions:
   - v1alpha1-rev2-1.18.0-rc
   - v1alpha1-rev2-1.21.0
@@ -75,6 +75,9 @@ versioning:
   - v1alpha1-rev20190325-1.26.0
   - v1alpha1-rev20190325-1.27.0
   - v1alpha1-rev20190325-1.28.0
+  - v1alpha1-rev20190415-1.26.0
+  - v1alpha1-rev20190415-1.27.0
+  - v1alpha1-rev20190415-1.28.0
   - v1beta1-rev2-1.18.0-rc
   - v1beta1-rev2-1.21.0
   - v1beta1-rev2-1.22.0
@@ -144,6 +147,9 @@ versioning:
   - v1beta1-rev20190325-1.26.0
   - v1beta1-rev20190325-1.27.0
   - v1beta1-rev20190325-1.28.0
+  - v1beta1-rev20190415-1.26.0
+  - v1beta1-rev20190415-1.27.0
+  - v1beta1-rev20190415-1.28.0
   - v1-rev2-1.18.0-rc
   - v1-rev2-1.21.0
   - v1-rev2-1.22.0
@@ -213,4 +219,7 @@ versioning:
   - v1-rev20190325-1.26.0
   - v1-rev20190325-1.27.0
   - v1-rev20190325-1.28.0
-  lastUpdated: 20190417121420
+  - v1-rev20190415-1.26.0
+  - v1-rev20190415-1.27.0
+  - v1-rev20190415-1.28.0
+  lastUpdated: 20190418220348
