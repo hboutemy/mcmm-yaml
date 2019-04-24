@@ -3,8 +3,8 @@
 groupId: pl.allegro.tech.hermes
 artifactId: hermes-benchmark
 versioning:
-  latest: 0.16.0
-  release: 0.16.0
+  latest: 0.16.1
+  release: 0.16.1
   versions:
   - 0.10.0
   - 0.10.1
@@ -48,4 +48,5 @@ versioning:
   - 0.15.9
   - 0.15.10-enable-setting-idle-connection-timeout-for-jetty-client
   - 0.16.0
-  lastUpdated: 20190415090734
+  - 0.16.1
+  lastUpdated: 20190423133053
