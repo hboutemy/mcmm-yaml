@@ -3,8 +3,8 @@
 groupId: pl.allegro.tech.hermes
 artifactId: hermes-tracker-mongo
 versioning:
-  latest: 0.16.1
-  release: 0.16.1
+  latest: 0.16.2
+  release: 0.16.2
   versions:
   - 0.8.0
   - 0.8.1
@@ -80,4 +80,5 @@ versioning:
   - 0.15.10-enable-setting-idle-connection-timeout-for-jetty-client
   - 0.16.0
   - 0.16.1
-  lastUpdated: 20190423133112
+  - 0.16.2
+  lastUpdated: 20190424160737

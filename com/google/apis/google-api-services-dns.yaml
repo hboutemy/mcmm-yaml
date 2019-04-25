@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-dns
 versioning:
-  latest: v2beta1-rev20190312-1.28.0
-  release: v2beta1-rev20190312-1.28.0
+  latest: v2beta1-rev20190418-1.28.0
+  release: v2beta1-rev20190418-1.28.0
   versions:
   - v1beta1-rev1-1.14.2-beta
   - v1beta1-rev1-1.15.0-rc
@@ -280,6 +280,11 @@ versioning:
   - v1beta2-rev50-1.23.0
   - v1beta2-rev50-1.24.1
   - v1beta2-rev50-1.25.0
+  - v1beta2-rev51-1.18.0-rc
+  - v1beta2-rev51-1.22.0
+  - v1beta2-rev51-1.23.0
+  - v1beta2-rev51-1.24.1
+  - v1beta2-rev51-1.25.0
   - v1beta2-rev20181015-1.26.0
   - v1beta2-rev20181015-1.27.0
   - v1beta2-rev20181115-1.26.0
@@ -293,6 +298,9 @@ versioning:
   - v1beta2-rev20190328-1.26.0
   - v1beta2-rev20190328-1.27.0
   - v1beta2-rev20190328-1.28.0
+  - v1beta2-rev20190418-1.26.0
+  - v1beta2-rev20190418-1.27.0
+  - v1beta2-rev20190418-1.28.0
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.19.0
   - v1-rev1-1.19.1
@@ -656,6 +664,11 @@ versioning:
   - v1-rev100-1.23.0
   - v1-rev100-1.24.1
   - v1-rev100-1.25.0
+  - v1-rev101-1.18.0-rc
+  - v1-rev101-1.22.0
+  - v1-rev101-1.23.0
+  - v1-rev101-1.24.1
+  - v1-rev101-1.25.0
   - v1-rev20180813-1.26.0
   - v1-rev20180813-1.27.0
   - v1-rev20181212-1.26.0
@@ -667,6 +680,9 @@ versioning:
   - v1-rev20190312-1.26.0
   - v1-rev20190312-1.27.0
   - v1-rev20190312-1.28.0
+  - v1-rev20190418-1.26.0
+  - v1-rev20190418-1.27.0
+  - v1-rev20190418-1.28.0
   - v2beta1-rev1-1.18.0-rc
   - v2beta1-rev1-1.20.0
   - v2beta1-rev1-1.21.0
@@ -990,4 +1006,7 @@ versioning:
   - v2beta1-rev20190312-1.26.0
   - v2beta1-rev20190312-1.27.0
   - v2beta1-rev20190312-1.28.0
-  lastUpdated: 20190423170758
+  - v2beta1-rev20190418-1.26.0
+  - v2beta1-rev20190418-1.27.0
+  - v2beta1-rev20190418-1.28.0
+  lastUpdated: 20190424211652
