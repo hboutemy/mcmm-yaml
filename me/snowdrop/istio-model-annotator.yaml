@@ -3,8 +3,8 @@
 groupId: me.snowdrop
 artifactId: istio-model-annotator
 versioning:
-  latest: 1.1.0-Alpha1
-  release: 1.1.0-Alpha1
+  latest: 1.1.0-Beta2
+  release: 1.1.0-Beta2
   versions:
   - 0.1
   - 0.2
@@ -28,4 +28,6 @@ versioning:
   - 1.0.0
   - 1.0.1
   - 1.1.0-Alpha1
-  lastUpdated: 20190411141612
+  - 1.1.0-Beta1
+  - 1.1.0-Beta2
+  lastUpdated: 20190425184628
