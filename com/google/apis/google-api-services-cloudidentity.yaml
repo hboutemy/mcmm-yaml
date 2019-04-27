@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-cloudidentity
 versioning:
-  latest: v1-rev20190303-1.28.0
-  release: v1-rev20190303-1.28.0
+  latest: v1-rev20190309-1.28.0
+  release: v1-rev20190309-1.28.0
   versions:
   - v1beta1-rev2-1.24.1
   - v1beta1-rev14-1.18.0-rc
@@ -97,6 +97,11 @@ versioning:
   - v1beta1-rev31-1.23.0
   - v1beta1-rev31-1.24.1
   - v1beta1-rev31-1.25.0
+  - v1beta1-rev32-1.18.0-rc
+  - v1beta1-rev32-1.22.0
+  - v1beta1-rev32-1.23.0
+  - v1beta1-rev32-1.24.1
+  - v1beta1-rev32-1.25.0
   - v1beta1-rev20181215-1.26.0
   - v1beta1-rev20181215-1.27.0
   - v1beta1-rev20181215-1.28.0
@@ -106,6 +111,9 @@ versioning:
   - v1beta1-rev20190303-1.26.0
   - v1beta1-rev20190303-1.27.0
   - v1beta1-rev20190303-1.28.0
+  - v1beta1-rev20190309-1.26.0
+  - v1beta1-rev20190309-1.27.0
+  - v1beta1-rev20190309-1.28.0
   - v1-rev12-1.18.0-rc
   - v1-rev12-1.22.0
   - v1-rev12-1.23.0
@@ -196,6 +204,11 @@ versioning:
   - v1-rev29-1.23.0
   - v1-rev29-1.24.1
   - v1-rev29-1.25.0
+  - v1-rev30-1.18.0-rc
+  - v1-rev30-1.22.0
+  - v1-rev30-1.23.0
+  - v1-rev30-1.24.1
+  - v1-rev30-1.25.0
   - v1-rev20181218-1.26.0
   - v1-rev20181218-1.27.0
   - v1-rev20181218-1.28.0
@@ -208,4 +221,7 @@ versioning:
   - v1-rev20190303-1.26.0
   - v1-rev20190303-1.27.0
   - v1-rev20190303-1.28.0
-  lastUpdated: 20190425060549
+  - v1-rev20190309-1.26.0
+  - v1-rev20190309-1.27.0
+  - v1-rev20190309-1.28.0
+  lastUpdated: 20190426215340

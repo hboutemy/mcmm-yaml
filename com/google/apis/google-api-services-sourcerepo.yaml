@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-sourcerepo
 versioning:
-  latest: v1-rev20190411-1.28.0
-  release: v1-rev20190411-1.28.0
+  latest: v1-rev20190419-1.28.0
+  release: v1-rev20190419-1.28.0
   versions:
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.20.0
@@ -116,6 +116,7 @@ versioning:
   - v1-rev32-1.18.0-rc
   - v1-rev32-1.22.0
   - v1-rev32-1.23.0
+  - v1-rev32-1.24.1
   - v1-rev32-1.25.0
   - v1-rev20180718-1.26.0
   - v1-rev20181106-1.26.0
@@ -127,4 +128,7 @@ versioning:
   - v1-rev20190411-1.26.0
   - v1-rev20190411-1.27.0
   - v1-rev20190411-1.28.0
-  lastUpdated: 20190425233119
+  - v1-rev20190419-1.26.0
+  - v1-rev20190419-1.27.0
+  - v1-rev20190419-1.28.0
+  lastUpdated: 20190426223122
