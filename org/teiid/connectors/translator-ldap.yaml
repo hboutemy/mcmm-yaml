@@ -3,8 +3,8 @@
 groupId: org.teiid.connectors
 artifactId: translator-ldap
 versioning:
-  latest: 12.1.0
-  release: 12.1.0
+  latest: 12.1.1
+  release: 12.1.1
   versions:
   - 10.0.0.Alpha2
   - 10.0.0.Beta1
@@ -44,5 +44,7 @@ versioning:
   - 11.2.2
   - 12.0.0
   - 12.0.1
+  - 12.0.2
   - 12.1.0
-  lastUpdated: 20190304174747
+  - 12.1.1
+  lastUpdated: 20190430130253

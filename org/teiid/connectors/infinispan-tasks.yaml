@@ -3,8 +3,8 @@
 groupId: org.teiid.connectors
 artifactId: infinispan-tasks
 versioning:
-  latest: 12.1.0
-  release: 12.1.0
+  latest: 12.1.1
+  release: 12.1.1
   versions:
   - 10.0.0.Beta1
   - 10.0.0.Beta2
@@ -43,5 +43,7 @@ versioning:
   - 11.2.2
   - 12.0.0
   - 12.0.1
+  - 12.0.2
   - 12.1.0
-  lastUpdated: 20190304174711
+  - 12.1.1
+  lastUpdated: 20190430130228
