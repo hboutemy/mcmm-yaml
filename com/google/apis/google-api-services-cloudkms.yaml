@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-cloudkms
 versioning:
-  latest: v1-rev20190321-1.28.0
-  release: v1-rev20190321-1.28.0
+  latest: v1-rev20190426-1.28.0
+  release: v1-rev20190426-1.28.0
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.20.0
@@ -305,6 +305,11 @@ versioning:
   - v1-rev84-1.23.0
   - v1-rev84-1.24.1
   - v1-rev84-1.25.0
+  - v1-rev85-1.18.0-rc
+  - v1-rev85-1.22.0
+  - v1-rev85-1.23.0
+  - v1-rev85-1.24.1
+  - v1-rev85-1.25.0
   - v1-rev20181005-1.26.0
   - v1-rev20181107-1.26.0
   - v1-rev20181107-1.27.0
@@ -319,4 +324,7 @@ versioning:
   - v1-rev20190321-1.26.0
   - v1-rev20190321-1.27.0
   - v1-rev20190321-1.28.0
-  lastUpdated: 20190330060725
+  - v1-rev20190426-1.26.0
+  - v1-rev20190426-1.27.0
+  - v1-rev20190426-1.28.0
+  lastUpdated: 20190501203420

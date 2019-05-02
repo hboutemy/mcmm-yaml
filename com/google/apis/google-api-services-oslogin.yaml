@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-oslogin
 versioning:
-  latest: v1-rev20190107-1.28.0
-  release: v1-rev20190107-1.28.0
+  latest: v1-rev20190429-1.28.0
+  release: v1-rev20190429-1.28.0
   versions:
   - v1alpha-rev1-1.18.0-rc
   - v1alpha-rev1-1.20.0
@@ -205,12 +205,20 @@ versioning:
   - v1alpha-rev62-1.23.0
   - v1alpha-rev62-1.24.1
   - v1alpha-rev62-1.25.0
+  - v1alpha-rev63-1.18.0-rc
+  - v1alpha-rev63-1.22.0
+  - v1alpha-rev63-1.23.0
+  - v1alpha-rev63-1.24.1
+  - v1alpha-rev63-1.25.0
   - v1alpha-rev20180617-1.26.0
   - v1alpha-rev20181023-1.26.0
   - v1alpha-rev20181023-1.27.0
   - v1alpha-rev20190107-1.26.0
   - v1alpha-rev20190107-1.27.0
   - v1alpha-rev20190107-1.28.0
+  - v1alpha-rev20190429-1.26.0
+  - v1alpha-rev20190429-1.27.0
+  - v1alpha-rev20190429-1.28.0
   - v1beta-rev1-1.18.0-rc
   - v1beta-rev1-1.20.0
   - v1beta-rev1-1.21.0
@@ -385,12 +393,20 @@ versioning:
   - v1beta-rev56-1.23.0
   - v1beta-rev56-1.24.1
   - v1beta-rev56-1.25.0
+  - v1beta-rev57-1.18.0-rc
+  - v1beta-rev57-1.22.0
+  - v1beta-rev57-1.23.0
+  - v1beta-rev57-1.24.1
+  - v1beta-rev57-1.25.0
   - v1beta-rev20180617-1.26.0
   - v1beta-rev20181023-1.26.0
   - v1beta-rev20181023-1.27.0
   - v1beta-rev20190107-1.26.0
   - v1beta-rev20190107-1.27.0
   - v1beta-rev20190107-1.28.0
+  - v1beta-rev20190429-1.26.0
+  - v1beta-rev20190429-1.27.0
+  - v1beta-rev20190429-1.28.0
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.21.0
   - v1-rev1-1.22.0
@@ -544,10 +560,18 @@ versioning:
   - v1-rev47-1.23.0
   - v1-rev47-1.24.1
   - v1-rev47-1.25.0
+  - v1-rev48-1.18.0-rc
+  - v1-rev48-1.22.0
+  - v1-rev48-1.23.0
+  - v1-rev48-1.24.1
+  - v1-rev48-1.25.0
   - v1-rev20180617-1.26.0
   - v1-rev20181023-1.26.0
   - v1-rev20181023-1.27.0
   - v1-rev20190107-1.26.0
   - v1-rev20190107-1.27.0
   - v1-rev20190107-1.28.0
-  lastUpdated: 20190424192100
+  - v1-rev20190429-1.26.0
+  - v1-rev20190429-1.27.0
+  - v1-rev20190429-1.28.0
+  lastUpdated: 20190501205114
