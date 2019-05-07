@@ -3,8 +3,8 @@
 groupId: org.mongodb
 artifactId: mongodb-driver-async
 versioning:
-  latest: 3.11.0-beta2
-  release: 3.11.0-beta2
+  latest: 3.11.0-beta3
+  release: 3.11.0-beta3
   versions:
   - 3.0.0-beta1
   - 3.0.0-beta2
@@ -58,4 +58,5 @@ versioning:
   - 3.10.2
   - 3.11.0-beta1
   - 3.11.0-beta2
-  lastUpdated: 20190408133319
+  - 3.11.0-beta3
+  lastUpdated: 20190506221051
