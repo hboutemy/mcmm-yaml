@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-sheets
 versioning:
-  latest: v4-rev20190305-1.28.0
-  release: v4-rev20190305-1.28.0
+  latest: v4-rev20190429-1.28.0
+  release: v4-rev20190429-1.28.0
   versions:
   - v4-rev1-1.18.0-rc
   - v4-rev1-1.20.0
@@ -626,6 +626,11 @@ versioning:
   - v4-rev575-1.23.0
   - v4-rev575-1.24.1
   - v4-rev575-1.25.0
+  - v4-rev576-1.18.0-rc
+  - v4-rev576-1.22.0
+  - v4-rev576-1.23.0
+  - v4-rev576-1.24.1
+  - v4-rev576-1.25.0
   - v4-rev20180727-1.26.0
   - v4-rev20180727-1.27.0
   - v4-rev20181116-1.26.0
@@ -636,4 +641,7 @@ versioning:
   - v4-rev20190305-1.26.0
   - v4-rev20190305-1.27.0
   - v4-rev20190305-1.28.0
-  lastUpdated: 20190502042754
+  - v4-rev20190429-1.26.0
+  - v4-rev20190429-1.27.0
+  - v4-rev20190429-1.28.0
+  lastUpdated: 20190507205550

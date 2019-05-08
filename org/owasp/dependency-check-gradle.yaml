@@ -3,8 +3,8 @@
 groupId: org.owasp
 artifactId: dependency-check-gradle
 versioning:
-  latest: 5.0.0-M2
-  release: 5.0.0-M2
+  latest: 5.0.0-M3.1
+  release: 5.0.0-M3.1
   versions:
   - 1.3.2
   - 1.3.2.1
@@ -42,4 +42,6 @@ versioning:
   - 4.0.2
   - 5.0.0-M1
   - 5.0.0-M2
-  lastUpdated: 20190315100059
+  - 5.0.0-M3
+  - 5.0.0-M3.1
+  lastUpdated: 20190507114508

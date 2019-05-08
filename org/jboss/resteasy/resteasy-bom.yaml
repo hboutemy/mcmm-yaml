@@ -3,8 +3,8 @@
 groupId: org.jboss.resteasy
 artifactId: resteasy-bom
 versioning:
-  latest: 4.0.0.CR3
-  release: 4.0.0.CR3
+  latest: 4.0.0.Final
+  release: 4.0.0.Final
   versions:
   - 1.2.GA
   - 1.2.1.GA
@@ -104,4 +104,5 @@ versioning:
   - 4.0.0.CR1
   - 4.0.0.CR2
   - 4.0.0.CR3
-  lastUpdated: 20190503232115
+  - 4.0.0.Final
+  lastUpdated: 20190506220745
