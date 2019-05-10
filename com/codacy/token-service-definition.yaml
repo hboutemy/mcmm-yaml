@@ -3,8 +3,8 @@
 groupId: com.codacy
 artifactId: token-service-definition
 versioning:
-  latest: 0.16.0
-  release: 0.16.0
+  latest: 0.18.0-compatclient.cf79df6
+  release: 0.18.0-compatclient.cf79df6
   versions:
   - 0.14.1
   - 0.14.2
@@ -14,4 +14,7 @@ versioning:
   - 0.15.0
   - 0.15.1
   - 0.16.0
-  lastUpdated: 20190506101831
+  - 0.18.0-compatclient.3eea290
+  - 0.18.0-compatclient.83c61f4
+  - 0.18.0-compatclient.cf79df6
+  lastUpdated: 20190509123057

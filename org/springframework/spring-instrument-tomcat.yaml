@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework
 artifactId: spring-instrument-tomcat
 versioning:
-  latest: 4.3.23.RELEASE
-  release: 4.3.23.RELEASE
+  latest: 4.3.24.RELEASE
+  release: 4.3.24.RELEASE
   versions:
   - 3.0.0.RELEASE
   - 3.0.1.RELEASE
@@ -93,4 +93,5 @@ versioning:
   - 4.3.21.RELEASE
   - 4.3.22.RELEASE
   - 4.3.23.RELEASE
-  lastUpdated: 20190331080108
+  - 4.3.24.RELEASE
+  lastUpdated: 20190509092600

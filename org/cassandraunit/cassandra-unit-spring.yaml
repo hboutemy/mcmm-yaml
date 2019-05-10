@@ -3,8 +3,8 @@
 groupId: org.cassandraunit
 artifactId: cassandra-unit-spring
 versioning:
-  latest: 3.5.0.1
-  release: 3.5.0.1
+  latest: 3.11.2.0
+  release: 3.11.2.0
   versions:
   - 1.2.0.1
   - 2.0.2.0
@@ -20,4 +20,6 @@ versioning:
   - 3.3.0.2
   - 3.5.0.0
   - 3.5.0.1
-  lastUpdated: 20180612094937
+  - 3.7.1.0
+  - 3.11.2.0
+  lastUpdated: 20190509132931

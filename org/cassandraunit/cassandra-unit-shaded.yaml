@@ -3,8 +3,8 @@
 groupId: org.cassandraunit
 artifactId: cassandra-unit-shaded
 versioning:
-  latest: 3.5.0.1
-  release: 3.5.0.1
+  latest: 3.11.2.0
+  release: 3.11.2.0
   versions:
   - 2.1.9.2
   - 3.1.3.2
@@ -12,4 +12,6 @@ versioning:
   - 3.3.0.2
   - 3.5.0.0
   - 3.5.0.1
-  lastUpdated: 20180612094935
+  - 3.7.1.0
+  - 3.11.2.0
+  lastUpdated: 20190509132930
