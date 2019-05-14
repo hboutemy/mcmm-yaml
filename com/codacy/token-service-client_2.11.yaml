@@ -3,8 +3,8 @@
 groupId: com.codacy
 artifactId: token-service-client_2.11
 versioning:
-  latest: 0.18.0-compatclient.cf79df6_circe0.8.0_cats0.9.0_akka2.4.20_akka10.0.15
-  release: 0.18.0-compatclient.cf79df6_circe0.8.0_cats0.9.0_akka2.4.20_akka10.0.15
+  latest: 0.20.1-SNAPSHOT.a96aa57_circe0.8.0_cats0.9.0_akka2.4.20_akka10.0.15
+  release: 0.20.1-SNAPSHOT.a96aa57_circe0.8.0_cats0.9.0_akka2.4.20_akka10.0.15
   versions:
   - 0.1.0
   - 0.2.0
@@ -39,10 +39,17 @@ versioning:
   - 0.15.0
   - 0.15.1
   - 0.16.0
+  - 0.18.0
   - 0.18.0-compatclient.3eea290
   - 0.18.0-compatclient.3eea290_circe0.8.0_cats0.9.0_akka2.4.20_akka10.0.15
   - 0.18.0-compatclient.83c61f4
   - 0.18.0-compatclient.83c61f4_circe0.8.0_cats0.9.0_akka2.4.20_akka10.0.15
   - 0.18.0-compatclient.cf79df6
   - 0.18.0-compatclient.cf79df6_circe0.8.0_cats0.9.0_akka2.4.20_akka10.0.15
-  lastUpdated: 20190509123053
+  - 0.19.0
+  - 0.19.1
+  - 0.20.0
+  - 0.20.1-SNAPSHOT.a96aa57
+  - 0.20.1-SNAPSHOT.a96aa57_circe0.8.0_cats0.9.0_akka2.4.20_akka10.0.15
+  - 0.20.0_circe0.8.0_cats0.9.0_akka2.4.20_akka10.0.15
+  lastUpdated: 20190513185107

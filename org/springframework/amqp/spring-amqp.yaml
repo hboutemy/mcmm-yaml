@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.amqp
 artifactId: spring-amqp
 versioning:
-  latest: 2.1.5.RELEASE
-  release: 2.1.5.RELEASE
+  latest: 2.1.6.RELEASE
+  release: 2.1.6.RELEASE
   versions:
   - 1.0.0.RELEASE
   - 1.1.0.RELEASE
@@ -86,5 +86,6 @@ versioning:
   - 2.1.3.RELEASE
   - 2.1.4.RELEASE
   - 2.1.5.RELEASE
+  - 2.1.6.RELEASE
   - 1.3.0.M2
-  lastUpdated: 20190401213636
+  lastUpdated: 20190513152224

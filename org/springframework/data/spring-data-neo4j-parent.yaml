@@ -3,8 +3,8 @@
 groupId: org.springframework.data
 artifactId: spring-data-neo4j-parent
 versioning:
-  latest: 5.1.7.RELEASE
-  release: 5.1.7.RELEASE
+  latest: 5.1.8.RELEASE
+  release: 5.1.8.RELEASE
   versions:
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
@@ -78,6 +78,7 @@ versioning:
   - 4.2.18.RELEASE
   - 4.2.20.RELEASE
   - 4.2.21.RELEASE
+  - 4.2.22.RELEASE
   - 5.0.0.RELEASE
   - 5.0.1.RELEASE
   - 5.0.2.RELEASE
@@ -101,4 +102,5 @@ versioning:
   - 5.1.5.RELEASE
   - 5.1.6.RELEASE
   - 5.1.7.RELEASE
-  lastUpdated: 20190510124826
+  - 5.1.8.RELEASE
+  lastUpdated: 20190513163039

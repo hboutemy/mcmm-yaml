@@ -3,8 +3,8 @@
 groupId: org.springframework.data
 artifactId: spring-data-solr
 versioning:
-  latest: 4.0.7.RELEASE
-  release: 4.0.7.RELEASE
+  latest: 4.0.8.RELEASE
+  release: 4.0.8.RELEASE
   versions:
   - 1.0.0.RELEASE
   - 1.1.0.RELEASE
@@ -64,6 +64,7 @@ versioning:
   - 2.1.18.RELEASE
   - 2.1.20.RELEASE
   - 2.1.21.RELEASE
+  - 2.1.22.RELEASE
   - 3.0.0.RELEASE
   - 3.0.1.RELEASE
   - 3.0.2.RELEASE
@@ -87,4 +88,5 @@ versioning:
   - 4.0.5.RELEASE
   - 4.0.6.RELEASE
   - 4.0.7.RELEASE
-  lastUpdated: 20190510124712
+  - 4.0.8.RELEASE
+  lastUpdated: 20190513163303
