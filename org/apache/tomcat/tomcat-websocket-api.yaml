@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat
 artifactId: tomcat-websocket-api
 versioning:
-  latest: 9.0.19
-  release: 9.0.19
+  latest: 9.0.20
+  release: 9.0.20
   versions:
   - 7.0.47
   - 7.0.50
@@ -119,6 +119,7 @@ versioning:
   - 8.5.38
   - 8.5.39
   - 8.5.40
+  - 8.5.41
   - 9.0.0.M1
   - 9.0.0.M3
   - 9.0.0.M4
@@ -153,4 +154,5 @@ versioning:
   - 9.0.16
   - 9.0.17
   - 9.0.19
-  lastUpdated: 20190413223124
+  - 9.0.20
+  lastUpdated: 20190514192715

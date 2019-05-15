@@ -3,8 +3,8 @@
 groupId: org.kill-bill.commons
 artifactId: killbill-embeddeddb-postgresql
 versioning:
-  latest: 0.23.1
-  release: 0.23.1
+  latest: 0.23.2
+  release: 0.23.2
   versions:
   - 0.4
   - 0.5
@@ -65,4 +65,5 @@ versioning:
   - 0.22.5
   - 0.23.0
   - 0.23.1
-  lastUpdated: 20190506175548
+  - 0.23.2
+  lastUpdated: 20190514222631
