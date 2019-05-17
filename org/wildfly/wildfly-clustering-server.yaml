@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-clustering-server
 versioning:
-  latest: 16.0.0.Final
-  release: 16.0.0.Final
+  latest: 17.0.0.Alpha1
+  release: 17.0.0.Alpha1
   versions:
   - 8.0.0.Alpha3
   - 8.0.0.Alpha4
@@ -57,4 +57,5 @@ versioning:
   - 15.0.1.Final
   - 16.0.0.Beta1
   - 16.0.0.Final
-  lastUpdated: 20190228010654
+  - 17.0.0.Alpha1
+  lastUpdated: 20190516034154
