@@ -3,8 +3,8 @@
 groupId: org.factcast
 artifactId: factcast-client-grpc
 versioning:
-  latest: 0.1.0-M1
-  release: 0.1.0-M1
+  latest: 0.1.0-RC2
+  release: 0.1.0-RC2
   versions:
   - 0.0.6
   - 0.0.10
@@ -26,4 +26,6 @@ versioning:
   - 0.0.33
   - 0.0.34
   - 0.1.0-M1
-  lastUpdated: 20190409102631
+  - 0.1.0-RC1
+  - 0.1.0-RC2
+  lastUpdated: 20190520140326

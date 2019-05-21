@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.client
 artifactId: elasticsearch-rest-high-level-client
 versioning:
-  latest: 7.0.1
-  release: 7.0.1
+  latest: 7.1.0
+  release: 7.1.0
   versions:
   - 5.6.0
   - 5.6.1
@@ -57,6 +57,7 @@ versioning:
   - 6.7.0
   - 6.7.1
   - 6.7.2
+  - 6.8.0
   - 7.0.0-alpha1
   - 7.0.0-alpha2
   - 7.0.0-beta1
@@ -64,4 +65,5 @@ versioning:
   - 7.0.0-rc2
   - 7.0.0
   - 7.0.1
-  lastUpdated: 20190502155810
+  - 7.1.0
+  lastUpdated: 20190520153746
