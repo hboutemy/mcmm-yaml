@@ -3,8 +3,8 @@
 groupId: fr.jetoile.hadoop
 artifactId: confluent-integrationtest
 versioning:
-  latest: 3.4
-  release: 3.4
+  latest: 3.5
+  release: 3.5
   versions:
   - 2.9
   - 2.10
@@ -14,4 +14,5 @@ versioning:
   - 3.2
   - 3.3
   - 3.4
-  lastUpdated: 20190316191234
+  - 3.5
+  lastUpdated: 20190521140222

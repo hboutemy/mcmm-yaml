@@ -3,8 +3,8 @@
 groupId: org.jboss.byteman
 artifactId: byteman-submit
 versioning:
-  latest: 4.0.6
-  release: 4.0.6
+  latest: 4.0.7
+  release: 4.0.7
   versions:
   - 2.0.2
   - 2.0.3
@@ -33,6 +33,7 @@ versioning:
   - 3.0.11
   - 3.0.12
   - 3.0.13
+  - 3.0.15
   - 4.0.0-ALPHA
   - 4.0.0-BETA0
   - 4.0.0-BETA1
@@ -47,4 +48,5 @@ versioning:
   - 4.0.4
   - 4.0.5
   - 4.0.6
-  lastUpdated: 20190322113754
+  - 4.0.7
+  lastUpdated: 20190521090452

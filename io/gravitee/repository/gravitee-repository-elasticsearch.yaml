@@ -3,8 +3,8 @@
 groupId: io.gravitee.repository
 artifactId: gravitee-repository-elasticsearch
 versioning:
-  latest: 1.25.2
-  release: 1.25.2
+  latest: 1.26.0
+  release: 1.26.0
   versions:
   - 0.3.0
   - 0.4.0
@@ -45,6 +45,7 @@ versioning:
   - 1.20.1
   - 1.20.2
   - 1.20.3
+  - 1.20.4
   - 1.21.0
   - 1.21.1
   - 1.22.0
@@ -57,4 +58,5 @@ versioning:
   - 1.25.0
   - 1.25.1
   - 1.25.2
-  lastUpdated: 20190516202148
+  - 1.26.0
+  lastUpdated: 20190521165616
