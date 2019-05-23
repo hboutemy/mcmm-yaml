@@ -3,8 +3,8 @@
 groupId: org.codelibs.elasticsearch.module
 artifactId: transport-netty4
 versioning:
-  latest: 7.0.1
-  release: 7.0.1
+  latest: 7.1.0
+  release: 7.1.0
   versions:
   - 5.0.0
   - 5.0.1
@@ -78,4 +78,5 @@ versioning:
   - 7.0.0-rc2
   - 7.0.0
   - 7.0.1
-  lastUpdated: 20190512230220
+  - 7.1.0
+  lastUpdated: 20190522212227
