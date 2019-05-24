@@ -3,8 +3,8 @@
 groupId: com.netflix.ribbon
 artifactId: ribbon-httpclient
 versioning:
-  latest: 2.7.14
-  release: 2.7.14
+  latest: 2.7.16
+  release: 2.7.16
   versions:
   - 0.1.1
   - 0.1.2
@@ -86,4 +86,6 @@ versioning:
   - 2.7.12
   - 2.7.13
   - 2.7.14
-  lastUpdated: 20190522035950
+  - 2.7.15
+  - 2.7.16
+  lastUpdated: 20190523205653
