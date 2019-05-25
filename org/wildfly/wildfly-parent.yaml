@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-parent
 versioning:
-  latest: 17.0.0.Alpha1
-  release: 17.0.0.Alpha1
+  latest: 17.0.0.Beta1
+  release: 17.0.0.Beta1
   versions:
   - 8.0.0.Alpha1
   - 8.0.0.Alpha2
@@ -60,4 +60,5 @@ versioning:
   - 16.0.0.Beta1
   - 16.0.0.Final
   - 17.0.0.Alpha1
-  lastUpdated: 20190516034214
+  - 17.0.0.Beta1
+  lastUpdated: 20190524180340
