@@ -3,8 +3,8 @@
 groupId: com.nepxion
 artifactId: discovery-console-starter-nacos
 versioning:
-  latest: 5.0.2
-  release: 5.0.2
+  latest: 5.0.3
+  release: 5.0.3
   versions:
   - Edgware.1.0.0
   - Finchley.1.0.0
@@ -42,6 +42,7 @@ versioning:
   - 3.8.6.2
   - 3.8.7
   - 3.8.8
+  - 3.8.9
   - 4.7.0
   - 4.7.1
   - 4.7.2
@@ -76,9 +77,11 @@ versioning:
   - 4.8.6.2
   - 4.8.7
   - 4.8.8
+  - 4.8.9
   - 5.0.0
   - 5.0.0.1
   - 5.0.0.2
   - 5.0.1
   - 5.0.2
-  lastUpdated: 20190521022321
+  - 5.0.3
+  lastUpdated: 20190526150409
