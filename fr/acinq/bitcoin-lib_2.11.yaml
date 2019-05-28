@@ -3,8 +3,8 @@
 groupId: fr.acinq
 artifactId: bitcoin-lib_2.11
 versioning:
-  latest: 0.11-unsafe-pubkey
-  release: 0.11-unsafe-pubkey
+  latest: 0.12
+  release: 0.12
   versions:
   - 0.9.2
   - 0.9.3
@@ -30,4 +30,5 @@ versioning:
   - 0.10
   - 0.11
   - 0.11-unsafe-pubkey
-  lastUpdated: 20190320154608
+  - 0.12
+  lastUpdated: 20190527123041
