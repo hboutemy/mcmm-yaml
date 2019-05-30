@@ -1,11 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: org.apache.felix.scr
 versioning:
+  latest: 2.0.6.LIFERAY-PATCHED-4
   release: 2.0.6.LIFERAY-PATCHED-4
   versions:
   - 2.0.6.LIFERAY-PATCHED-1
   - 2.0.6.LIFERAY-PATCHED-3
   - 2.0.6.LIFERAY-PATCHED-4
-  lastUpdated: 20180920204345
+  lastUpdated: 20190529211400

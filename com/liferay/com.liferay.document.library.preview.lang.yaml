@@ -1,12 +1,14 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.document.library.preview.lang
 versioning:
+  latest: 1.0.3
   release: 1.0.3
   versions:
+  - 1.0.0
   - 1.0.1
   - 1.0.2
   - 1.0.3
-  - 1.0.0
-  lastUpdated: 20190528195312
+  lastUpdated: 20190529183353

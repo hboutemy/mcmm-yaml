@@ -1,9 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: org.apache.commons.configuration
 versioning:
+  latest: 1.10.LIFERAY-PATCHED-1
   release: 1.10.LIFERAY-PATCHED-1
   versions:
   - 1.10.LIFERAY-PATCHED-1
-  lastUpdated: 20190418054708
+  lastUpdated: 20190529184021

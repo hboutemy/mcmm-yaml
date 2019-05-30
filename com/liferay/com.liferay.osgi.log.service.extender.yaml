@@ -1,14 +1,16 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.osgi.log.service.extender
 versioning:
+  latest: 3.0.2
   release: 3.0.2
   versions:
-  - 3.0.0
-  - 3.0.1
-  - 3.0.2
   - 1.0.0
   - 1.0.1
   - 2.0.0
-  lastUpdated: 20190528220451
+  - 3.0.0
+  - 3.0.1
+  - 3.0.2
+  lastUpdated: 20190529174036

@@ -1,8 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.blade
 artifactId: com.liferay.blade.cli
 versioning:
+  latest: 3.6.0
   release: 3.6.0
   versions:
   - 3.3.0
@@ -11,4 +13,4 @@ versioning:
   - 3.4.3
   - 3.5.0
   - 3.6.0
-  lastUpdated: 20190412192435
+  lastUpdated: 20190529185335

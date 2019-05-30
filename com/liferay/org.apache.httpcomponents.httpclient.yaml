@@ -1,9 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: org.apache.httpcomponents.httpclient
 versioning:
+  latest: 4.1.3.LIFERAY-PATCHED-1
   release: 4.1.3.LIFERAY-PATCHED-1
   versions:
   - 4.1.3.LIFERAY-PATCHED-1
-  lastUpdated: 20190220193517
+  lastUpdated: 20190529184059

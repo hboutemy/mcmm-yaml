@@ -1,8 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.deprecated.modules.upgrade
 versioning:
+  latest: 2.0.4
   release: 2.0.4
   versions:
   - 1.0.2
@@ -13,4 +15,4 @@ versioning:
   - 2.0.2
   - 2.0.3
   - 2.0.4
-  lastUpdated: 20190528194431
+  lastUpdated: 20190529191131

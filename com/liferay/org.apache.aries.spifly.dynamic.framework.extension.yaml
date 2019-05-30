@@ -1,9 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: org.apache.aries.spifly.dynamic.framework.extension
 versioning:
+  latest: 1.2.LIFERAY-PATCHED-1
   release: 1.2.LIFERAY-PATCHED-1
   versions:
   - 1.2.LIFERAY-PATCHED-1
-  lastUpdated: 20190419213305
+  lastUpdated: 20190529184011

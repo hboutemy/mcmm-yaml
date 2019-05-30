@@ -1,8 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.structure.apio.impl
 versioning:
+  latest: 1.0.19
   release: 1.0.19
   versions:
   - 1.0.0
@@ -22,4 +24,4 @@ versioning:
   - 1.0.17
   - 1.0.18
   - 1.0.19
-  lastUpdated: 20190121235620
+  lastUpdated: 20190529210942
