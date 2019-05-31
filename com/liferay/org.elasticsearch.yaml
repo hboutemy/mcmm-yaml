@@ -1,12 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: org.elasticsearch
 versioning:
-  latest: 2.2.0.LIFERAY-PATCHED-2
+  latest: 2.4.0.LIFERAY-PATCHED-1
   release: 2.4.0.LIFERAY-PATCHED-1
   versions:
   - 2.2.0.LIFERAY-PATCHED-1
   - 2.2.0.LIFERAY-PATCHED-2
   - 2.4.0.LIFERAY-PATCHED-1
-  lastUpdated: 20170518210530
+  lastUpdated: 20190530111224

@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.osgi.util
 versioning:
-  latest: 3.0.6
+  latest: 5.0.3
   release: 5.0.3
   versions:
   - 1.0.0
@@ -33,15 +34,15 @@ versioning:
   - 3.1.0
   - 3.2.0
   - 3.2.1
+  - 3.2.2
+  - 3.2.3
   - 4.0.0
   - 4.0.1
   - 4.0.2
   - 4.1.0
   - 4.1.1
-  - 3.2.2
-  - 3.2.3
   - 5.0.0
   - 5.0.1
   - 5.0.2
   - 5.0.3
-  lastUpdated: 20190516190559
+  lastUpdated: 20190530201915

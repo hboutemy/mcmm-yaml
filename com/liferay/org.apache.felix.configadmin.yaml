@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: org.apache.felix.configadmin
 versioning:
-  latest: 1.8.8.LIFERAY-PATCHED-1
+  latest: 1.9.8.LIFERAY-PATCHED-3
   release: 1.9.8.LIFERAY-PATCHED-3
   versions:
   - 1.8.0.LIFERAY-PATCHED-1
@@ -12,4 +13,4 @@ versioning:
   - 1.9.8.LIFERAY-PATCHED-1
   - 1.9.8.LIFERAY-PATCHED-2
   - 1.9.8.LIFERAY-PATCHED-3
-  lastUpdated: 20190517004427
+  lastUpdated: 20190530111250

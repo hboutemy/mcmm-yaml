@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.security.sso.token
 versioning:
-  latest: 3.0.3
+  latest: 4.0.1
   release: 4.0.1
   versions:
   - 1.0.0
@@ -20,4 +21,4 @@ versioning:
   - 3.0.9
   - 4.0.0
   - 4.0.1
-  lastUpdated: 20180111073641
+  lastUpdated: 20190530174015

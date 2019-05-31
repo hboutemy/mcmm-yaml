@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.configuration.metatype.definitions.annotations
 versioning:
-  latest: 2.0.3
+  latest: 4.0.1
   release: 4.0.1
   versions:
   - 1.0.0
@@ -13,11 +14,11 @@ versioning:
   - 2.0.2
   - 2.0.3
   - 2.0.4
+  - 2.0.5
+  - 2.0.6
   - 3.0.0
   - 3.0.3
   - 3.0.4
-  - 2.0.5
-  - 2.0.6
   - 4.0.0
   - 4.0.1
-  lastUpdated: 20190516173628
+  lastUpdated: 20190530193550

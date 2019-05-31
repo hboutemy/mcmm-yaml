@@ -1,11 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: org.jsoup
 versioning:
+  latest: 1.10.2.LIFERAY-PATCHED-3
   release: 1.10.2.LIFERAY-PATCHED-3
   versions:
   - 1.10.2.LIFERAY-PATCHED-1
   - 1.10.2.LIFERAY-PATCHED-2
   - 1.10.2.LIFERAY-PATCHED-3
-  lastUpdated: 20180602192753
+  lastUpdated: 20190530005935

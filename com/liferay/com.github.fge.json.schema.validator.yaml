@@ -1,10 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.github.fge.json.schema.validator
 versioning:
+  latest: 2.2.3.LIFERAY-PATCHED-2
   release: 2.2.3.LIFERAY-PATCHED-2
   versions:
   - 2.2.3.LIFERAY-PATCHED-1
   - 2.2.3.LIFERAY-PATCHED-2
-  lastUpdated: 20181113182807
+  lastUpdated: 20190530033643

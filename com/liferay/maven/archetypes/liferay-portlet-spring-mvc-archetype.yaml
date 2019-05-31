@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.maven.archetypes
 artifactId: liferay-portlet-spring-mvc-archetype
 versioning:
-  latest: 6.2.10.15
+  latest: 6.2.10.16
   release: 6.2.10.16
   versions:
   - 6.2.4
@@ -13,4 +14,4 @@ versioning:
   - 6.2.10.14
   - 6.2.10.15
   - 6.2.10.16
-  lastUpdated: 20170425191258
+  lastUpdated: 20190530112155

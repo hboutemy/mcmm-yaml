@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.dao.orm.custom.sql
 versioning:
-  latest: 1.0.4
+  latest: 1.0.21
   release: 1.0.21
   versions:
   - 1.0.0
@@ -28,4 +29,4 @@ versioning:
   - 1.0.19
   - 1.0.20
   - 1.0.21
-  lastUpdated: 20190520195320
+  lastUpdated: 20190530192949

@@ -1,8 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.project.templates.npm.billboardjs.portlet
 versioning:
+  latest: 1.0.17
   release: 1.0.17
   versions:
   - 1.0.0
@@ -22,4 +24,4 @@ versioning:
   - 1.0.15
   - 1.0.16
   - 1.0.17
-  lastUpdated: 20181122035210
+  lastUpdated: 20190530023918

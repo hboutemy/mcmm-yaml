@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.settings.authentication.cas.web
 versioning:
-  latest: 1.0.3
+  latest: 3.0.2
   release: 3.0.2
   versions:
   - 1.0.0
@@ -17,15 +18,15 @@ versioning:
   - 1.0.8
   - 1.0.9
   - 1.0.10
+  - 1.0.11
+  - 1.0.12
   - 2.0.0
   - 2.0.1
   - 2.0.2
   - 2.0.3
-  - 1.0.11
   - 2.0.4
   - 2.0.5
-  - 1.0.12
   - 3.0.0
   - 3.0.1
   - 3.0.2
-  lastUpdated: 20190516180150
+  lastUpdated: 20190530173819

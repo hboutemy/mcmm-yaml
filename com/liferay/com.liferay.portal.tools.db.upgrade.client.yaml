@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.tools.db.upgrade.client
 versioning:
-  latest: 1.0.4
+  latest: 2.0.1
   release: 2.0.1
   versions:
   - 1.0.0
@@ -14,4 +15,4 @@ versioning:
   - 1.0.5
   - 2.0.0
   - 2.0.1
-  lastUpdated: 20181204183338
+  lastUpdated: 20190530035258

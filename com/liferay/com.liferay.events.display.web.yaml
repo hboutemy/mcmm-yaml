@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.events.display.web
 versioning:
-  latest: 1.0.2
+  latest: 1.0.20
   release: 1.0.20
   versions:
   - 1.0.0
@@ -25,4 +26,4 @@ versioning:
   - 1.0.18
   - 1.0.19
   - 1.0.20
-  lastUpdated: 20190419231957
+  lastUpdated: 20190530044459

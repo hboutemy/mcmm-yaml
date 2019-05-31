@@ -1,8 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.document.library.content.service
 versioning:
+  latest: 2.0.2
   release: 2.0.2
   versions:
   - 1.0.0
@@ -20,4 +22,4 @@ versioning:
   - 2.0.0
   - 2.0.1
   - 2.0.2
-  lastUpdated: 20190525022414
+  lastUpdated: 20190530000827

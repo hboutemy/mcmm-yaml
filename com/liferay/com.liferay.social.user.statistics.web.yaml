@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.social.user.statistics.web
 versioning:
-  latest: 2.1.1
+  latest: 5.0.6
   release: 5.0.6
   versions:
   - 1.0.0
@@ -22,25 +23,25 @@ versioning:
   - 3.0.3
   - 3.0.4
   - 3.0.5
+  - 3.0.8
+  - 3.0.9
+  - 3.0.10
+  - 3.0.11
+  - 3.0.12
   - 4.0.0
   - 4.0.1
   - 4.0.2
   - 4.0.3
   - 4.0.4
   - 4.0.6
-  - 3.0.8
   - 4.0.7
-  - 3.0.9
-  - 3.0.10
   - 4.0.8
-  - 3.0.11
+  - 4.0.9
   - 5.0.0
   - 5.0.1
   - 5.0.2
   - 5.0.3
   - 5.0.4
-  - 3.0.12
-  - 4.0.9
   - 5.0.5
   - 5.0.6
-  lastUpdated: 20190528194610
+  lastUpdated: 20190530135103

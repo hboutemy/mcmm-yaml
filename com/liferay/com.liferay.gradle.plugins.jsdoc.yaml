@@ -1,8 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.gradle.plugins.jsdoc
 versioning:
+  latest: 2.0.31
   release: 2.0.31
   versions:
   - 1.0.0
@@ -26,6 +28,7 @@ versioning:
   - 2.0.14
   - 2.0.15
   - 2.0.16
+  - 2.0.17
   - 2.0.18
   - 2.0.19
   - 2.0.20
@@ -38,7 +41,6 @@ versioning:
   - 2.0.27
   - 2.0.28
   - 2.0.29
-  - 2.0.31
-  - 2.0.17
   - 2.0.30
-  lastUpdated: 20190524211818
+  - 2.0.31
+  lastUpdated: 20190530021002

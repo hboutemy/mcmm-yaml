@@ -1,12 +1,14 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.plugins
 artifactId: frontend-columns-layouttpl
 versioning:
+  latest: 7.0.0.4
   release: 7.0.0.4
   versions:
   - 7.0.0.1
   - 7.0.0.2
   - 7.0.0.3
   - 7.0.0.4
-  lastUpdated: 20180625191310
+  lastUpdated: 20190530084026

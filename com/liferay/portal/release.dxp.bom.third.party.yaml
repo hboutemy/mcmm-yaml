@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.portal
 artifactId: release.dxp.bom.third.party
 versioning:
   latest: 7.1.10.1
-  release: 7.0.10.fp76
+  release: 7.1.10.1
   versions:
   - 7.0.10.fp60
   - 7.0.10.fp61
@@ -22,6 +23,12 @@ versioning:
   - 7.0.10.fp73
   - 7.0.10.fp74
   - 7.0.10.fp75
+  - 7.0.10.fp76
+  - 7.0.10.fp77
+  - 7.0.10.fp78
+  - 7.0.10.fp79
+  - 7.0.10.fp80
+  - 7.0.10.fp81
   - 7.0.10.7
   - 7.0.10.8
   - 7.0.10.9
@@ -38,10 +45,4 @@ versioning:
   - 7.1.10.fp10
   - 7.1.10.fp11
   - 7.1.10.1
-  - 7.0.10.fp81
-  - 7.0.10.fp80
-  - 7.0.10.fp79
-  - 7.0.10.fp78
-  - 7.0.10.fp77
-  - 7.0.10.fp76
-  lastUpdated: 20190523232108
+  lastUpdated: 20190530093807

@@ -1,9 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.webjars
 artifactId: com.liferay.webjars.clay
 versioning:
-  release: 2.0.0-alpha.11
+  latest: 2.0.0-beta.0
+  release: 2.0.0-beta.0
   versions:
   - 2.0.0-alpha.0
   - 2.0.0-alpha.2
@@ -17,4 +19,4 @@ versioning:
   - 2.0.0-alpha.10
   - 2.0.0-alpha.11
   - 2.0.0-beta.0
-  lastUpdated: 20171016181316
+  lastUpdated: 20190530092859

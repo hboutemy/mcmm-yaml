@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.staging.portlet.data.handler
 versioning:
-  latest: 2.0.1
+  latest: 5.0.1
   release: 5.0.1
   versions:
   - 1.0.0
@@ -12,8 +13,8 @@ versioning:
   - 2.0.2
   - 3.0.0
   - 3.0.1
-  - 4.0.0
   - 3.0.2
+  - 4.0.0
   - 5.0.0
   - 5.0.1
-  lastUpdated: 20190514035111
+  lastUpdated: 20190530125259

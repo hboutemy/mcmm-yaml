@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: pulsar-client-auth-athenz
 versioning:
-  latest: 2.3.1
-  release: 2.3.1
+  latest: 2.3.2
+  release: 2.3.2
   versions:
   - 1.19.0-incubating
   - 1.20.0-incubating
@@ -19,4 +19,5 @@ versioning:
   - 2.2.1
   - 2.3.0
   - 2.3.1
-  lastUpdated: 20190413011419
+  - 2.3.2
+  lastUpdated: 20190530184614
