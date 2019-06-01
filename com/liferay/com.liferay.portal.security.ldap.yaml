@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.security.ldap
 versioning:
   latest: 2.4.10
-  release: 2.4.10
+  release: 2.4.11
   versions:
   - 1.0.0
   - 2.0.0
@@ -84,4 +83,5 @@ versioning:
   - 2.4.8
   - 2.4.9
   - 2.4.10
-  lastUpdated: 20190530180110
+  - 2.4.11
+  lastUpdated: 20190531012531

@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.gradle.plugins.jasper.jspc
 versioning:
-  latest: 1.0.9
+  latest: 2.0.5
   release: 2.0.5
   versions:
   - 1.0.0
@@ -22,4 +23,4 @@ versioning:
   - 2.0.3
   - 2.0.4
   - 2.0.5
-  lastUpdated: 20181119185943
+  lastUpdated: 20190531032747

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.language.servlet.filter
 versioning:
   latest: 4.0.4
-  release: 4.0.4
+  release: 2.0.13
   versions:
   - 1.0.0
   - 2.0.0
@@ -35,4 +34,5 @@ versioning:
   - 4.0.2
   - 4.0.3
   - 4.0.4
-  lastUpdated: 20190530192158
+  - 2.0.13
+  lastUpdated: 20190531011608

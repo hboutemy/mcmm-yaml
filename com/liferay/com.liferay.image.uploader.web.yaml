@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.image.uploader.web
 versioning:
-  latest: 1.0.10
+  latest: 3.0.5
   release: 3.0.5
   versions:
   - 1.0.0
@@ -26,19 +27,20 @@ versioning:
   - 1.0.17
   - 1.0.18
   - 1.0.19
+  - 1.0.22
+  - 1.0.23
+  - 1.0.24
+  - 1.0.25
+  - 1.0.26
   - 2.0.0
   - 2.0.1
   - 2.0.4
-  - 1.0.22
   - 2.0.5
-  - 1.0.23
   - 2.0.6
-  - 1.0.24
-  - 1.0.25
   - 3.0.0
   - 3.0.1
   - 3.0.2
   - 3.0.3
   - 3.0.4
   - 3.0.5
-  lastUpdated: 20190528203501
+  lastUpdated: 20190531001413

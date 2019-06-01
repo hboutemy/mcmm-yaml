@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.gradle.plugins.lang.merger
 versioning:
-  latest: 1.0.3
+  latest: 1.1.2
   release: 1.1.2
   versions:
   - 1.0.0
@@ -13,4 +14,4 @@ versioning:
   - 1.1.0
   - 1.1.1
   - 1.1.2
-  lastUpdated: 20181119190058
+  lastUpdated: 20190531031121

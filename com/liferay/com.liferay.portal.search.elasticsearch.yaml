@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.search.elasticsearch
 versioning:
   latest: 2.1.54
-  release: 2.1.54
+  release: 2.1.55
   versions:
   - 1.0.0
   - 2.0.0
@@ -81,4 +80,5 @@ versioning:
   - 2.1.52
   - 2.1.53
   - 2.1.54
-  lastUpdated: 20190530183130
+  - 2.1.55
+  lastUpdated: 20190531012318

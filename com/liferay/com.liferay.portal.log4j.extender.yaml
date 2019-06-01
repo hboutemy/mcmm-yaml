@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.log4j.extender
 versioning:
   latest: 4.0.1
-  release: 4.0.1
+  release: 2.0.8
   versions:
   - 1.0.0
   - 2.0.0
@@ -21,4 +20,5 @@ versioning:
   - 3.0.2
   - 4.0.0
   - 4.0.1
-  lastUpdated: 20190530191558
+  - 2.0.8
+  lastUpdated: 20190531014414

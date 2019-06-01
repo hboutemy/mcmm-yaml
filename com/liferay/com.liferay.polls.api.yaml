@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.polls.api
 versioning:
   latest: 6.0.2
-  release: 6.0.2
+  release: 4.0.12
   versions:
   - 1.0.0
   - 2.0.0
@@ -33,4 +32,5 @@ versioning:
   - 6.0.0
   - 6.0.1
   - 6.0.2
-  lastUpdated: 20190530200358
+  - 4.0.12
+  lastUpdated: 20190531001958

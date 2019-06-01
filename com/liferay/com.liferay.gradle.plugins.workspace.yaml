@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.gradle.plugins.workspace
 versioning:
-  latest: 1.7.1
+  latest: 2.0.3
   release: 2.0.3
   versions:
   - 1.0.0
@@ -61,6 +62,7 @@ versioning:
   - 1.6.0
   - 1.7.0
   - 1.7.1
+  - 1.8.0
   - 1.9.0
   - 1.9.1
   - 1.9.2
@@ -85,5 +87,4 @@ versioning:
   - 2.0.1
   - 2.0.2
   - 2.0.3
-  - 1.8.0
-  lastUpdated: 20190520185844
+  lastUpdated: 20190531021157

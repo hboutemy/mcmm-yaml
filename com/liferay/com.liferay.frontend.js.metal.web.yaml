@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.js.metal.web
 versioning:
-  latest: 1.0.12
+  latest: 3.0.3
   release: 3.0.3
   versions:
   - 1.0.0
@@ -30,16 +31,17 @@ versioning:
   - 1.0.21
   - 1.0.22
   - 1.0.23
+  - 1.0.24
+  - 1.0.25
+  - 1.0.26
   - 2.0.0
   - 2.0.1
   - 2.0.2
   - 2.0.3
-  - 1.0.24
   - 2.0.5
-  - 1.0.25
   - 2.0.6
   - 3.0.0
   - 3.0.1
   - 3.0.2
   - 3.0.3
-  lastUpdated: 20190528202741
+  lastUpdated: 20190531040908

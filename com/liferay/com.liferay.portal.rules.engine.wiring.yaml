@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.rules.engine.wiring
 versioning:
   latest: 4.0.2
-  release: 4.0.2
+  release: 2.0.6
   versions:
   - 1.0.0
   - 2.0.0
@@ -19,4 +18,5 @@ versioning:
   - 4.0.0
   - 4.0.1
   - 4.0.2
-  lastUpdated: 20190530184154
+  - 2.0.6
+  lastUpdated: 20190531002056

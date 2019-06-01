@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.weblogic.support
 versioning:
   latest: 4.0.3
-  release: 4.0.3
+  release: 2.0.6
   versions:
   - 1.0.0
   - 2.0.0
@@ -20,4 +19,5 @@ versioning:
   - 4.0.1
   - 4.0.2
   - 4.0.3
-  lastUpdated: 20190530164029
+  - 2.0.6
+  lastUpdated: 20190531011159

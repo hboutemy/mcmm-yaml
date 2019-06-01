@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.screens.api
 versioning:
   latest: 5.0.2
-  release: 5.0.2
+  release: 3.3.8
   versions:
   - 1.0.0
   - 2.0.0
@@ -29,4 +28,5 @@ versioning:
   - 5.0.0
   - 5.0.1
   - 5.0.2
-  lastUpdated: 20190530150246
+  - 3.3.8
+  lastUpdated: 20190530235131
