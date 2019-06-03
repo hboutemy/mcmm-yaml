@@ -3,8 +3,8 @@
 groupId: com.nepxion
 artifactId: discovery-common-redis
 versioning:
-  latest: 5.0.7
-  release: 5.0.7
+  latest: 5.0.8
+  release: 5.0.8
   versions:
   - Edgware.1.0.0
   - Finchley.1.0.0
@@ -76,6 +76,7 @@ versioning:
   - 3.8.10
   - 3.8.11
   - 3.8.12
+  - 3.8.13
   - 4.2.1
   - 4.2.2
   - 4.2.3
@@ -144,6 +145,7 @@ versioning:
   - 4.8.10
   - 4.8.11
   - 4.8.12
+  - 4.8.13
   - 5.0.0
   - 5.0.0.1
   - 5.0.0.2
@@ -154,4 +156,5 @@ versioning:
   - 5.0.5
   - 5.0.6
   - 5.0.7
-  lastUpdated: 20190601154306
+  - 5.0.8
+  lastUpdated: 20190602060308
