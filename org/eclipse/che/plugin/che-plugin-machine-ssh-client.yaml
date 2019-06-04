@@ -3,8 +3,8 @@
 groupId: org.eclipse.che.plugin
 artifactId: che-plugin-machine-ssh-client
 versioning:
-  latest: 7.0.0-beta-5.0
-  release: 7.0.0-beta-5.0
+  latest: 7.0.0-RC-1.0
+  release: 7.0.0-RC-1.0
   versions:
   - 6.10.0
   - 6.11.0
@@ -35,4 +35,5 @@ versioning:
   - 7.0.0-beta-3.0
   - 7.0.0-beta-4.0
   - 7.0.0-beta-5.0
-  lastUpdated: 20190529183337
+  - 7.0.0-RC-1.0
+  lastUpdated: 20190603115418

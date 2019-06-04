@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.exportimport.service
 versioning:
   latest: 6.0.14
-  release: 6.0.14
+  release: 5.0.60
   versions:
   - 1.0.0
   - 2.0.0
@@ -178,4 +177,5 @@ versioning:
   - 6.0.12
   - 6.0.13
   - 6.0.14
-  lastUpdated: 20190531050306
+  - 5.0.60
+  lastUpdated: 20190603215730
