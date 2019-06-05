@@ -3,8 +3,8 @@
 groupId: org.apache.storm
 artifactId: apache-storm-bin
 versioning:
-  latest: 1.2.2
-  release: 1.2.2
+  latest: 2.0.0
+  release: 2.0.0
   versions:
   - 0.9.1-incubating
   - 0.9.2-incubating
@@ -31,4 +31,5 @@ versioning:
   - 1.2.0
   - 1.2.1
   - 1.2.2
-  lastUpdated: 20180601205637
+  - 2.0.0
+  lastUpdated: 20190604161617

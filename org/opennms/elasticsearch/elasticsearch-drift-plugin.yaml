@@ -3,8 +3,13 @@
 groupId: org.opennms.elasticsearch
 artifactId: elasticsearch-drift-plugin
 versioning:
-  latest: 1.0.0
-  release: 1.0.0
+  latest: 7.1.1
+  release: 7.1.1
   versions:
   - 1.0.0
-  lastUpdated: 20180517012611
+  - 1.2.0
+  - 6.7.0
+  - 6.7.1
+  - 6.7.2
+  - 7.1.1
+  lastUpdated: 20190604190242

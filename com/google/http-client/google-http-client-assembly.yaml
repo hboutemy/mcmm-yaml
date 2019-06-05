@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.http-client
 artifactId: google-http-client-assembly
 versioning:
-  latest: 1.29.2
-  release: 1.29.2
+  latest: 1.30.0
+  release: 1.30.0
   versions:
   - 1.5.0-beta
   - 1.5.3-beta
@@ -40,4 +40,5 @@ versioning:
   - 1.29.0
   - 1.29.1
   - 1.29.2
-  lastUpdated: 20190603204408
+  - 1.30.0
+  lastUpdated: 20190604153323
