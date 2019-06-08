@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.poshi.runner
 versioning:
   latest: 1.0.229
-  release: 1.0.229
+  release: 1.0.230
   versions:
   - 1.0.0
   - 1.0.1
@@ -236,4 +235,5 @@ versioning:
   - 1.0.227
   - 1.0.228
   - 1.0.229
-  lastUpdated: 20190530155955
+  - 1.0.230
+  lastUpdated: 20190607175439
