@@ -3,8 +3,8 @@
 groupId: ch.epfl.lamp
 artifactId: dotty-sbt-bridge
 versioning:
-  latest: 0.16.0-bin-20190606-c46553a-NIGHTLY
-  release: 0.16.0-bin-20190606-c46553a-NIGHTLY
+  latest: 0.16.0-bin-20190607-8e15463-NIGHTLY
+  release: 0.16.0-bin-20190607-8e15463-NIGHTLY
   versions:
   - 0.1.1-bin-20170424-40d405b-NIGHTLY
   - 0.1.1-bin-20170425-f1c3529-NIGHTLY
@@ -652,6 +652,7 @@ versioning:
   - 0.14.0-bin-20190409-2f557b5-NIGHTLY
   - 0.14.0-bin-20190410-d4a47aa-NIGHTLY
   - 0.15.0-RC1
+  - 0.15.0
   - 0.15.0-bin-20190411-1578b88-NIGHTLY
   - 0.15.0-bin-20190412-99a4fa6-NIGHTLY
   - 0.15.0-bin-20190413-c3e88b7-NIGHTLY
@@ -688,10 +689,13 @@ versioning:
   - 0.15.0-bin-20190517-fb6667b-NIGHTLY
   - 0.15.0-bin-20190521-3bcaf1d-NIGHTLY
   - 0.15.0-bin-20190522-ffb250d-NIGHTLY
+  - 0.16.0-RC1
+  - 0.16.0-RC2
   - 0.16.0-bin-20190528-6ede814-NIGHTLY
   - 0.16.0-bin-20190529-3361d44-NIGHTLY
   - 0.16.0-bin-20190530-c165638-NIGHTLY
   - 0.16.0-bin-20190602-bf89558-NIGHTLY
   - 0.16.0-bin-20190605-bec8fa0-NIGHTLY
   - 0.16.0-bin-20190606-c46553a-NIGHTLY
-  lastUpdated: 20190607015734
+  - 0.16.0-bin-20190607-8e15463-NIGHTLY
+  lastUpdated: 20190608221146
