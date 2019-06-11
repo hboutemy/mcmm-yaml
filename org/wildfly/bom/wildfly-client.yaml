@@ -3,8 +3,8 @@
 groupId: org.wildfly.bom
 artifactId: wildfly-client
 versioning:
-  latest: 17.0.0.Beta1
-  release: 17.0.0.Beta1
+  latest: 17.0.0.Final
+  release: 17.0.0.Final
   versions:
   - 14.0.0.Beta2
   - 14.0.0.Final
@@ -15,4 +15,5 @@ versioning:
   - 16.0.0.Beta1
   - 16.0.0.Final
   - 17.0.0.Beta1
-  lastUpdated: 20190525053259
+  - 17.0.0.Final
+  lastUpdated: 20190610100240

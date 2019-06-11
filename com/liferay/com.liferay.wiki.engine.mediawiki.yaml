@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.wiki.engine.mediawiki
 versioning:
   latest: 2.0.22
-  release: 2.0.22
+  release: 2.0.23
   versions:
   - 1.0.0
   - 2.0.0
@@ -31,4 +30,5 @@ versioning:
   - 2.0.20
   - 2.0.21
   - 2.0.22
-  lastUpdated: 20190530120537
+  - 2.0.23
+  lastUpdated: 20190610182225

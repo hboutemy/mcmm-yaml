@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.reports.engine.api
 versioning:
   latest: 5.0.0
-  release: 5.0.0
+  release: 3.0.5
   versions:
   - 1.0.0
   - 2.0.0
@@ -18,4 +17,5 @@ versioning:
   - 4.0.1
   - 4.0.2
   - 5.0.0
-  lastUpdated: 20190530184503
+  - 3.0.5
+  lastUpdated: 20190610184430

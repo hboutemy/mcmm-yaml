@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-clustering-infinispan-spi
 versioning:
-  latest: 17.0.0.Beta1
-  release: 17.0.0.Beta1
+  latest: 17.0.0.Final
+  release: 17.0.0.Final
   versions:
   - 9.0.0.Beta1
   - 9.0.0.Beta2
@@ -48,4 +48,5 @@ versioning:
   - 16.0.0.Final
   - 17.0.0.Alpha1
   - 17.0.0.Beta1
-  lastUpdated: 20190524180315
+  - 17.0.0.Final
+  lastUpdated: 20190610021233
