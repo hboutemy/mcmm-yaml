@@ -3,8 +3,8 @@
 groupId: com.sksamuel.elastic4s
 artifactId: elastic4s-testkit_2.12
 versioning:
-  latest: 7.0.1
-  release: 7.0.1
+  latest: 7.0.2
+  release: 7.0.2
   versions:
   - 1.5.22
   - 1.7.7
@@ -75,6 +75,7 @@ versioning:
   - 5.6.7
   - 5.6.8
   - 5.6.9
+  - 5.6.10
   - 6.0.0-beta2
   - 6.0.0-M1
   - 6.0.0-M2
@@ -114,4 +115,5 @@ versioning:
   - 6.5.1
   - 7.0.0
   - 7.0.1
-  lastUpdated: 20190510044544
+  - 7.0.2
+  lastUpdated: 20190611035219

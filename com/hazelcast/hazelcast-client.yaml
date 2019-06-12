@@ -3,8 +3,8 @@
 groupId: com.hazelcast
 artifactId: hazelcast-client
 versioning:
-  latest: 3.12
-  release: 3.12
+  latest: 3.12.1
+  release: 3.12.1
   versions:
   - 1.9.2
   - 1.9.2.1
@@ -163,6 +163,7 @@ versioning:
   - 3.12-BETA-1
   - 3.12-BETA-2
   - 3.12
+  - 3.12.1
   - 1.7.1
   - 1.8
   - 1.8.1
@@ -178,4 +179,4 @@ versioning:
   - 3.4.3
   - 3.4.4
   - 3.5
-  lastUpdated: 20190509094239
+  lastUpdated: 20190611192728
