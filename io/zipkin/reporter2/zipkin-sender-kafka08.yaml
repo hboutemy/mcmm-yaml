@@ -3,8 +3,8 @@
 groupId: io.zipkin.reporter2
 artifactId: zipkin-sender-kafka08
 versioning:
-  latest: 2.8.2
-  release: 2.8.2
+  latest: 2.8.4
+  release: 2.8.4
   versions:
   - 2.3.0
   - 2.3.1
@@ -33,4 +33,6 @@ versioning:
   - 2.8.0
   - 2.8.1
   - 2.8.2
-  lastUpdated: 20190402054357
+  - 2.8.3
+  - 2.8.4
+  lastUpdated: 20190614112757
