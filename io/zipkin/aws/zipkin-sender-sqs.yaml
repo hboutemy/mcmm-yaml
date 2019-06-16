@@ -3,8 +3,8 @@
 groupId: io.zipkin.aws
 artifactId: zipkin-sender-sqs
 versioning:
-  latest: 0.17.0
-  release: 0.17.0
+  latest: 0.17.1
+  release: 0.17.1
   versions:
   - 0.0.3
   - 0.2.0
@@ -67,4 +67,5 @@ versioning:
   - 0.16.3
   - 0.16.4
   - 0.17.0
-  lastUpdated: 20190511134949
+  - 0.17.1
+  lastUpdated: 20190615125512
