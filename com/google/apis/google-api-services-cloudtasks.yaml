@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-cloudtasks
 versioning:
-  latest: v2-rev20190412-1.28.0
-  release: v2-rev20190412-1.28.0
+  latest: v2-rev20190531-1.28.0
+  release: v2-rev20190531-1.28.0
   versions:
   - v2beta2-rev1-1.18.0-rc
   - v2beta2-rev1-1.20.0
@@ -264,6 +264,9 @@ versioning:
   - v2beta2-rev20190513-1.26.0
   - v2beta2-rev20190513-1.27.0
   - v2beta2-rev20190513-1.28.0
+  - v2beta2-rev20190531-1.26.0
+  - v2beta2-rev20190531-1.27.0
+  - v2beta2-rev20190531-1.28.0
   - v2beta3-rev3-1.18.0-rc
   - v2beta3-rev3-1.22.0
   - v2beta3-rev3-1.23.0
@@ -348,6 +351,9 @@ versioning:
   - v2beta3-rev20190412-1.26.0
   - v2beta3-rev20190412-1.27.0
   - v2beta3-rev20190412-1.28.0
+  - v2beta3-rev20190531-1.26.0
+  - v2beta3-rev20190531-1.27.0
+  - v2beta3-rev20190531-1.28.0
   - v2-rev1-1.18.0-rc
   - v2-rev1-1.22.0
   - v2-rev1-1.23.0
@@ -387,4 +393,7 @@ versioning:
   - v2-rev20190412-1.26.0
   - v2-rev20190412-1.27.0
   - v2-rev20190412-1.28.0
-  lastUpdated: 20190605120614
+  - v2-rev20190531-1.26.0
+  - v2-rev20190531-1.27.0
+  - v2-rev20190531-1.28.0
+  lastUpdated: 20190617200541

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: org.eclipse.osgi
 versioning:
   latest: 3.13.0.LIFERAY-PATCHED-5
-  release: 3.13.0.LIFERAY-PATCHED-5
+  release: 3.13.0.LIFERAY-PATCHED-6
   versions:
   - 3.10.200-20150904.172142-1.LIFERAY-PATCHED-1
   - 3.10.200-20150904.172142-1.LIFERAY-PATCHED-3
@@ -16,4 +15,5 @@ versioning:
   - 3.13.0.LIFERAY-PATCHED-3
   - 3.13.0.LIFERAY-PATCHED-4
   - 3.13.0.LIFERAY-PATCHED-5
-  lastUpdated: 20190530010318
+  - 3.13.0.LIFERAY-PATCHED-6
+  lastUpdated: 20190617182343
