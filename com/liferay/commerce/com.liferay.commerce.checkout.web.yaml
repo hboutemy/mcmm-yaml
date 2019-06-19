@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.checkout.web
 versioning:
   latest: 1.2.0
-  release: 1.2.0
+  release: 1.2.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -21,4 +20,5 @@ versioning:
   - 1.1.0
   - 1.1.1
   - 1.2.0
-  lastUpdated: 20190529194124
+  - 1.2.1
+  lastUpdated: 20190618032411

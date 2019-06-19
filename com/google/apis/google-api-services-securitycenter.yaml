@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-securitycenter
 versioning:
-  latest: v1-rev20190503-1.28.0
-  release: v1-rev20190503-1.28.0
+  latest: v1-rev20190529-1.28.0
+  release: v1-rev20190529-1.28.0
   versions:
   - v1beta1-rev3-1.18.0-rc
   - v1beta1-rev3-1.22.0
@@ -118,11 +118,17 @@ versioning:
   - v1beta1-rev20190503-1.26.0
   - v1beta1-rev20190503-1.27.0
   - v1beta1-rev20190503-1.28.0
+  - v1beta1-rev20190529-1.26.0
+  - v1beta1-rev20190529-1.27.0
+  - v1beta1-rev20190529-1.28.0
   - v1p1alpha1-rev1-1.18.0-rc
   - v1p1alpha1-rev1-1.25.0
   - v1p1alpha1-rev2-1.25.0
   - v1p1alpha1-rev5-1.18.0-rc
   - v1p1alpha1-rev5-1.25.0
+  - v1p1alpha1-rev20190603-1.26.0
+  - v1p1alpha1-rev20190603-1.27.0
+  - v1p1alpha1-rev20190603-1.28.0
   - v1-rev3-1.18.0-rc
   - v1-rev3-1.22.0
   - v1-rev3-1.23.0
@@ -244,4 +250,7 @@ versioning:
   - v1-rev20190503-1.26.0
   - v1-rev20190503-1.27.0
   - v1-rev20190503-1.28.0
-  lastUpdated: 20190617231343
+  - v1-rev20190529-1.26.0
+  - v1-rev20190529-1.27.0
+  - v1-rev20190529-1.28.0
+  lastUpdated: 20190618041251

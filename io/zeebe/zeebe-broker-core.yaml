@@ -3,8 +3,8 @@
 groupId: io.zeebe
 artifactId: zeebe-broker-core
 versioning:
-  latest: 0.18.0
-  release: 0.18.0
+  latest: 0.19.0-alpha1
+  release: 0.19.0-alpha1
   versions:
   - 0.1.0
   - 0.1.1
@@ -35,4 +35,5 @@ versioning:
   - 0.16.4
   - 0.17.0
   - 0.18.0
-  lastUpdated: 20190606194451
+  - 0.19.0-alpha1
+  lastUpdated: 20190618144233
