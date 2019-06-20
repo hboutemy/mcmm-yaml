@@ -3,8 +3,8 @@
 groupId: io.github.tilumi
 artifactId: azure-eventhubs-spark-parent_2.11
 versioning:
-  latest: 2.3.58
-  release: 2.3.58
+  latest: 2.3.62
+  release: 2.3.62
   versions:
   - v2.3.hack-for-spark-aggregator.1
   - v2.3.hack-for-spark-aggregator.2
@@ -63,4 +63,8 @@ versioning:
   - 2.3.56
   - 2.3.57
   - 2.3.58
-  lastUpdated: 20190610052105
+  - 2.3.59
+  - 2.3.60
+  - 2.3.61
+  - 2.3.62
+  lastUpdated: 20190619053618
