@@ -3,8 +3,8 @@
 groupId: cloud.orbit
 artifactId: orbit-redis-cluster
 versioning:
-  latest: 1.4.0-rc1
-  release: 1.4.0-rc1
+  latest: 1.4.0-oldredisson
+  release: 1.4.0-oldredisson
   versions:
   - 0.1.0
   - 0.1.1
@@ -34,4 +34,5 @@ versioning:
   - 1.2.8
   - 1.3.0
   - 1.4.0-rc1
-  lastUpdated: 20190618032350
+  - 1.4.0-oldredisson
+  lastUpdated: 20190620213438
