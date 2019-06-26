@@ -3,8 +3,8 @@
 groupId: org.sonarsource.sonarqube
 artifactId: sonar-plugin-api
 versioning:
-  latest: 7.7
-  release: 7.7
+  latest: 7.8
+  release: 7.8
   versions:
   - 5.2-RC2
   - 5.2-RC3
@@ -74,4 +74,5 @@ versioning:
   - 7.6
   - 7.7-alpha1
   - 7.7
-  lastUpdated: 20190417102701
+  - 7.8
+  lastUpdated: 20190625080235

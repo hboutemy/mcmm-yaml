@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.security
 artifactId: oauth1-signature
 versioning:
-  latest: 2.28
-  release: 2.28
+  latest: 2.29
+  release: 2.29
   versions:
   - 2.3
   - 2.3.1
@@ -61,4 +61,5 @@ versioning:
   - 2.27
   - 2.28-RC4
   - 2.28
-  lastUpdated: 20190126104254
+  - 2.29
+  lastUpdated: 20190625094927
