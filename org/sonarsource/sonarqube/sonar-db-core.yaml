@@ -3,8 +3,8 @@
 groupId: org.sonarsource.sonarqube
 artifactId: sonar-db-core
 versioning:
-  latest: 7.8
-  release: 7.8
+  latest: 7.9
+  release: 7.9
   versions:
   - 6.4-RC1
   - 6.4-RC2
@@ -37,4 +37,5 @@ versioning:
   - 7.7-alpha1
   - 7.7
   - 7.8
-  lastUpdated: 20190625080231
+  - 7.9
+  lastUpdated: 20190701100221
