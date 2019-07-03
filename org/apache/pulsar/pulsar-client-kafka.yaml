@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: pulsar-client-kafka
 versioning:
-  latest: 2.3.2
-  release: 2.3.2
+  latest: 2.4.0
+  release: 2.4.0
   versions:
   - 1.20.0-incubating
   - 1.21.0-incubating
@@ -19,4 +19,5 @@ versioning:
   - 2.3.0
   - 2.3.1
   - 2.3.2
-  lastUpdated: 20190530184615
+  - 2.4.0
+  lastUpdated: 20190702080952
