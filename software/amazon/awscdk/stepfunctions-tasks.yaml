@@ -3,8 +3,8 @@
 groupId: software.amazon.awscdk
 artifactId: stepfunctions-tasks
 versioning:
-  latest: 0.36.1
-  release: 0.36.1
+  latest: 0.36.2.DEVPREVIEW
+  release: 0.36.2.DEVPREVIEW
   versions:
   - 0.32.0
   - 0.33.0
@@ -12,4 +12,5 @@ versioning:
   - 0.35.0
   - 0.36.0
   - 0.36.1
-  lastUpdated: 20190701181410
+  - 0.36.2.DEVPREVIEW
+  lastUpdated: 20190703135630

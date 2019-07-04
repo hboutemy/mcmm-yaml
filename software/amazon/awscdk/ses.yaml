@@ -3,8 +3,8 @@
 groupId: software.amazon.awscdk
 artifactId: ses
 versioning:
-  latest: 0.36.1
-  release: 0.36.1
+  latest: 0.36.2.DEVPREVIEW
+  release: 0.36.2.DEVPREVIEW
   versions:
   - 0.8.0
   - 0.8.1
@@ -48,4 +48,5 @@ versioning:
   - 0.35.0
   - 0.36.0
   - 0.36.1
-  lastUpdated: 20190701181403
+  - 0.36.2.DEVPREVIEW
+  lastUpdated: 20190703135622

@@ -3,12 +3,14 @@
 groupId: com.pingcap.tispark
 artifactId: tispark-parent
 versioning:
-  latest: 2.1-spark_2.4
-  release: 2.1-spark_2.4
+  latest: 2.1.1-spark_2.4
+  release: 2.1.1-spark_2.4
   versions:
   - 1.0
   - 1.1
   - 2.0
   - 2.1-spark_2.3
   - 2.1-spark_2.4
-  lastUpdated: 20190605111508
+  - 2.1.1-spark_2.3
+  - 2.1.1-spark_2.4
+  lastUpdated: 20190703023916
