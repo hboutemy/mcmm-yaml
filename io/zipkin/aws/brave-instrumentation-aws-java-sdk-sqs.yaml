@@ -3,8 +3,8 @@
 groupId: io.zipkin.aws
 artifactId: brave-instrumentation-aws-java-sdk-sqs
 versioning:
-  latest: 0.17.1
-  release: 0.17.1
+  latest: 0.17.2
+  release: 0.17.2
   versions:
   - 0.16.0
   - 0.16.1
@@ -13,4 +13,5 @@ versioning:
   - 0.16.4
   - 0.17.0
   - 0.17.1
-  lastUpdated: 20190615125456
+  - 0.17.2
+  lastUpdated: 20190705064406

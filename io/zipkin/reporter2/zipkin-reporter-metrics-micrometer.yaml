@@ -3,8 +3,8 @@
 groupId: io.zipkin.reporter2
 artifactId: zipkin-reporter-metrics-micrometer
 versioning:
-  latest: 2.9.0
-  release: 2.9.0
+  latest: 2.10.0
+  release: 2.10.0
   versions:
   - 2.8.0
   - 2.8.1
@@ -12,4 +12,5 @@ versioning:
   - 2.8.3
   - 2.8.4
   - 2.9.0
-  lastUpdated: 20190625015828
+  - 2.10.0
+  lastUpdated: 20190705021431

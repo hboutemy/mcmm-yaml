@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.nuiton.topia
 artifactId: topia-service-flyway
 versioning:
   latest: 3.5
-  release: 3.5
+  release: 3.6
   versions:
   - 3.0-beta-4
   - 3.0-beta-5
@@ -36,4 +35,5 @@ versioning:
   - 3.4
   - 3.4.1
   - 3.5
-  lastUpdated: 20180703003558
+  - 3.6
+  lastUpdated: 20190705092138
