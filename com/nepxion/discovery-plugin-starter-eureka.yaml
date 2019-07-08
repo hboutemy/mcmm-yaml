@@ -3,8 +3,8 @@
 groupId: com.nepxion
 artifactId: discovery-plugin-starter-eureka
 versioning:
-  latest: 5.2.0
-  release: 5.2.0
+  latest: 5.2.1
+  release: 5.2.1
   versions:
   - Edgware.1.0.0
   - Finchley.1.0.0
@@ -130,6 +130,7 @@ versioning:
   - 3.9.1
   - 3.9.2
   - 3.10.0
+  - 3.10.1
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -224,6 +225,7 @@ versioning:
   - 4.9.1
   - 4.9.2
   - 4.10.0
+  - 4.10.1
   - 5.0.0
   - 5.0.0.1
   - 5.0.0.2
@@ -239,4 +241,5 @@ versioning:
   - 5.1.1
   - 5.1.2
   - 5.2.0
-  lastUpdated: 20190704230547
+  - 5.2.1
+  lastUpdated: 20190707111007
