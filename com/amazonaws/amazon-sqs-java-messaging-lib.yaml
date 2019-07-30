@@ -3,8 +3,8 @@
 groupId: com.amazonaws
 artifactId: amazon-sqs-java-messaging-lib
 versioning:
-  latest: 1.0.6
-  release: 1.0.6
+  latest: 1.0.6.receivenowait+customstring
+  release: 1.0.6.receivenowait+customstring
   versions:
   - 1.0.0
   - 1.0.1
@@ -13,4 +13,6 @@ versioning:
   - 1.0.4
   - 1.0.5
   - 1.0.6
-  lastUpdated: 20190416165234
+  - 1.0.6.receivenowait
+  - 1.0.6.receivenowait+customstring
+  lastUpdated: 20190729214947
