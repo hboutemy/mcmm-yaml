@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-spi
 versioning:
-  latest: 0.223
-  release: 0.223
+  latest: 0.223.1
+  release: 0.223.1
   versions:
   - 0.52
   - 0.53
@@ -185,4 +185,5 @@ versioning:
   - 0.221
   - 0.222
   - 0.223
-  lastUpdated: 20190725203119
+  - 0.223.1
+  lastUpdated: 20190731210626

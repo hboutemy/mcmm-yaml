@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-sqlserver
 versioning:
-  latest: 0.223
-  release: 0.223
+  latest: 0.223.1
+  release: 0.223.1
   versions:
   - 0.174
   - 0.175
@@ -56,4 +56,5 @@ versioning:
   - 0.221
   - 0.222
   - 0.223
-  lastUpdated: 20190725203121
+  - 0.223.1
+  lastUpdated: 20190731210628
