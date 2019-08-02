@@ -3,8 +3,8 @@
 groupId: com.codacy
 artifactId: remote-provider-service-client_2.11
 versioning:
-  latest: 2.24.0-rpsk8s.029dab1_akka24Circe08
-  release: 2.24.0-rpsk8s.029dab1_akka24Circe08
+  latest: 2.25.1_akka24Circe08
+  release: 2.25.1_akka24Circe08
   versions:
   - 0.11.2+akka24Circe011
   - 0.11.3+akka24Circe011
@@ -21,4 +21,6 @@ versioning:
   - 2.23.6_akka24Circe08
   - 2.24.0-SNAPSHOT.01c8fea_akka24Circe08
   - 2.24.0-rpsk8s.029dab1_akka24Circe08
-  lastUpdated: 20190730133942
+  - 2.25.0-SNAPSHOT.dcb2a90_akka24Circe08
+  - 2.25.1_akka24Circe08
+  lastUpdated: 20190801140714
