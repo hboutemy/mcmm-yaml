@@ -3,8 +3,8 @@
 groupId: com.microsoft.sqlserver
 artifactId: mssql-jdbc
 versioning:
-  latest: 7.4.0.jre12
-  release: 7.4.0.jre12
+  latest: 7.4.1.jre12
+  release: 7.4.1.jre12
   versions:
   - 6.1.0.jre7
   - 6.1.0.jre8
@@ -81,4 +81,7 @@ versioning:
   - 7.4.0.jre8
   - 7.4.0.jre11
   - 7.4.0.jre12
-  lastUpdated: 20190731233123
+  - 7.4.1.jre8
+  - 7.4.1.jre11
+  - 7.4.1.jre12
+  lastUpdated: 20190803000157
