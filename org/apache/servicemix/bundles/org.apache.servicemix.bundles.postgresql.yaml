@@ -3,8 +3,8 @@
 groupId: org.apache.servicemix.bundles
 artifactId: org.apache.servicemix.bundles.postgresql
 versioning:
-  latest: 42.2.5.jre7_1
-  release: 42.2.5.jre7_1
+  latest: 42.2.6.jre7_1
+  release: 42.2.6.jre7_1
   versions:
   - 9.2-1003-jdbc4_1
   - 9.3-1100-jdbc41_1
@@ -15,4 +15,5 @@ versioning:
   - 42.1.4.jre7_1
   - 42.2.0.jre7_1
   - 42.2.5.jre7_1
-  lastUpdated: 20181206050015
+  - 42.2.6.jre7_1
+  lastUpdated: 20190804044519
