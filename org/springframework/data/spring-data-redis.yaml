@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.data
 artifactId: spring-data-redis
 versioning:
-  latest: 2.1.9.RELEASE
-  release: 2.1.9.RELEASE
+  latest: 2.1.10.RELEASE
+  release: 2.1.10.RELEASE
   versions:
   - 1.0.0.RELEASE
   - 1.0.1.RELEASE
@@ -75,6 +75,7 @@ versioning:
   - 1.8.20.RELEASE
   - 1.8.21.RELEASE
   - 1.8.22.RELEASE
+  - 1.8.23.RELEASE
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
   - 2.0.2.RELEASE
@@ -100,4 +101,5 @@ versioning:
   - 2.1.7.RELEASE
   - 2.1.8.RELEASE
   - 2.1.9.RELEASE
-  lastUpdated: 20190614134726
+  - 2.1.10.RELEASE
+  lastUpdated: 20190805101152

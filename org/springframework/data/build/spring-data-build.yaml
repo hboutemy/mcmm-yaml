@@ -3,8 +3,8 @@
 groupId: org.springframework.data.build
 artifactId: spring-data-build
 versioning:
-  latest: 2.1.9.RELEASE
-  release: 2.1.9.RELEASE
+  latest: 2.1.10.RELEASE
+  release: 2.1.10.RELEASE
   versions:
   - 1.0.0.RELEASE
   - 1.0.1.RELEASE
@@ -76,6 +76,7 @@ versioning:
   - 1.9.20.RELEASE
   - 1.9.21.RELEASE
   - 1.9.22.RELEASE
+  - 1.9.23.RELEASE
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
   - 2.0.2.RELEASE
@@ -101,4 +102,5 @@ versioning:
   - 2.1.7.RELEASE
   - 2.1.8.RELEASE
   - 2.1.9.RELEASE
-  lastUpdated: 20190614133443
+  - 2.1.10.RELEASE
+  lastUpdated: 20190805100501

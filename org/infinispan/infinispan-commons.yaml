@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-commons
 versioning:
-  latest: 10.0.0.Beta4
-  release: 10.0.0.Beta4
+  latest: 10.0.0.Beta5
+  release: 10.0.0.Beta5
   versions:
   - 5.1.0.BETA4
   - 5.1.0.BETA5
@@ -153,6 +153,7 @@ versioning:
   - 9.4.13.Final
   - 9.4.14.Final
   - 9.4.15.Final
+  - 9.4.16.Final
   - 10.0.0.Alpha1
   - 10.0.0.Alpha2
   - 10.0.0.Alpha3
@@ -160,4 +161,5 @@ versioning:
   - 10.0.0.Beta2
   - 10.0.0.Beta3
   - 10.0.0.Beta4
-  lastUpdated: 20190712183808
+  - 10.0.0.Beta5
+  lastUpdated: 20190805142553

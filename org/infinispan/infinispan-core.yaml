@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-core
 versioning:
-  latest: 10.0.0.Beta4
-  release: 10.0.0.Beta4
+  latest: 10.0.0.Beta5
+  release: 10.0.0.Beta5
   versions:
   - 5.0.0.FINAL
   - 5.0.1.FINAL
@@ -219,6 +219,7 @@ versioning:
   - 9.4.13.Final
   - 9.4.14.Final
   - 9.4.15.Final
+  - 9.4.16.Final
   - 10.0.0.Alpha1
   - 10.0.0.Alpha2
   - 10.0.0.Alpha3
@@ -226,5 +227,6 @@ versioning:
   - 10.0.0.Beta2
   - 10.0.0.Beta3
   - 10.0.0.Beta4
+  - 10.0.0.Beta5
   - 5.2.7-wolfc-1
-  lastUpdated: 20190712183809
+  lastUpdated: 20190805142554
