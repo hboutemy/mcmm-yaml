@@ -3,8 +3,8 @@
 groupId: com.nepxion
 artifactId: discovery-common-apollo
 versioning:
-  latest: 5.3.0
-  release: 5.3.0
+  latest: 5.3.1
+  release: 5.3.1
   versions:
   - Edgware.1.0.0
   - Finchley.1.0.0
@@ -52,6 +52,7 @@ versioning:
   - 3.10.7
   - 3.10.8
   - 3.11.0
+  - 3.11.1
   - 4.7.8
   - 4.7.9
   - 4.7.10
@@ -96,6 +97,7 @@ versioning:
   - 4.10.7
   - 4.10.8
   - 4.11.0
+  - 4.11.1
   - 5.0.0
   - 5.0.0.1
   - 5.0.0.2
@@ -120,4 +122,5 @@ versioning:
   - 5.2.7
   - 5.2.8
   - 5.3.0
-  lastUpdated: 20190801232415
+  - 5.3.1
+  lastUpdated: 20190809030608

@@ -3,8 +3,8 @@
 groupId: io.fabric8.kubernetes
 artifactId: kubernetes-karaf-itests
 versioning:
-  latest: 4.4.0
-  release: 4.4.0
+  latest: 4.4.1
+  release: 4.4.1
   versions:
   - 1.0.81
   - 1.0.82
@@ -150,4 +150,5 @@ versioning:
   - 4.3.0
   - 4.3.1
   - 4.4.0
-  lastUpdated: 20190805150544
+  - 4.4.1
+  lastUpdated: 20190809014422
