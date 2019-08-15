@@ -3,8 +3,8 @@
 groupId: ca.uhn.hapi.fhir
 artifactId: hapi-fhir-client-okhttp
 versioning:
-  latest: 3.8.0
-  release: 3.8.0
+  latest: 4.0.0
+  release: 4.0.0
   versions:
   - 2.0
   - 2.1
@@ -21,4 +21,5 @@ versioning:
   - 3.6.0
   - 3.7.0
   - 3.8.0
-  lastUpdated: 20190530092249
+  - 4.0.0
+  lastUpdated: 20190814124003
