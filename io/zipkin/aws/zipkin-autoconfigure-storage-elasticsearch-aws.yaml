@@ -3,8 +3,8 @@
 groupId: io.zipkin.aws
 artifactId: zipkin-autoconfigure-storage-elasticsearch-aws
 versioning:
-  latest: 0.17.3
-  release: 0.17.3
+  latest: 0.17.4
+  release: 0.17.4
   versions:
   - 0.11.0
   - 0.11.2
@@ -30,4 +30,5 @@ versioning:
   - 0.17.1
   - 0.17.2
   - 0.17.3
-  lastUpdated: 20190816150703
+  - 0.17.4
+  lastUpdated: 20190817053130
