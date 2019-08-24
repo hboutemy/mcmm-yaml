@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.hk2
 artifactId: consolidatedbundle-maven-plugin
 versioning:
-  latest: 2.6.0
-  release: 2.6.0
+  latest: 2.6.1
+  release: 2.6.1
   versions:
   - 1.1.10
   - 1.1.11
@@ -256,4 +256,5 @@ versioning:
   - 2.5.0-b63
   - 2.5.0
   - 2.6.0
-  lastUpdated: 20190801003241
+  - 2.6.1
+  lastUpdated: 20190823175726
