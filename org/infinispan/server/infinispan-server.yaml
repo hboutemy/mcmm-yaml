@@ -3,8 +3,8 @@
 groupId: org.infinispan.server
 artifactId: infinispan-server
 versioning:
-  latest: 10.0.0.Beta5
-  release: 10.0.0.Beta5
+  latest: 10.0.0.CR1
+  release: 10.0.0.CR1
   versions:
   - 5.3.0.Alpha1
   - 5.3.0.Beta1
@@ -165,4 +165,5 @@ versioning:
   - 10.0.0.Beta3
   - 10.0.0.Beta4
   - 10.0.0.Beta5
-  lastUpdated: 20190805142621
+  - 10.0.0.CR1
+  lastUpdated: 20190823153437
