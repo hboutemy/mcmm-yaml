@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-osgi-adapter
 versioning:
-  latest: 6.0.1
-  release: 6.0.1
+  latest: 7.0.0
+  release: 7.0.0
   versions:
   - 1.1.0.Final
   - 1.1.1.Final
@@ -86,5 +86,6 @@ versioning:
   - 5.0.0
   - 6.0.0
   - 6.0.1
+  - 7.0.0
   - 1.5.0-Final
-  lastUpdated: 20190424074508
+  lastUpdated: 20190826070834

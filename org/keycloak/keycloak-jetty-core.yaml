@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-jetty-core
 versioning:
-  latest: 6.0.1
-  release: 6.0.1
+  latest: 7.0.0
+  release: 7.0.0
   versions:
   - 1.1.0.Beta2
   - 1.1.0.Final
@@ -87,5 +87,6 @@ versioning:
   - 5.0.0
   - 6.0.0
   - 6.0.1
+  - 7.0.0
   - 1.5.0-Final
-  lastUpdated: 20190424074502
+  lastUpdated: 20190826070828

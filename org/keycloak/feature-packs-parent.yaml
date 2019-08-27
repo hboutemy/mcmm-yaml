@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: feature-packs-parent
 versioning:
-  latest: 6.0.1
-  release: 6.0.1
+  latest: 7.0.0
+  release: 7.0.0
   versions:
   - 1.3.1.Final
   - 1.4.0.Final
@@ -80,5 +80,6 @@ versioning:
   - 5.0.0
   - 6.0.0
   - 6.0.1
+  - 7.0.0
   - 1.5.0-Final
-  lastUpdated: 20190424074450
+  lastUpdated: 20190826070815
