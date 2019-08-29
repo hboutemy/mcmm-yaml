@@ -3,11 +3,15 @@
 groupId: org.apache.flink
 artifactId: flink-shaded-hadoop-2
 versioning:
-  latest: 2.8.3-7.0
-  release: 2.8.3-7.0
+  latest: 2.8.3-8.0
+  release: 2.8.3-8.0
   versions:
   - 2.4.1-7.0
+  - 2.4.1-8.0
   - 2.6.5-7.0
+  - 2.6.5-8.0
   - 2.7.5-7.0
+  - 2.7.5-8.0
   - 2.8.3-7.0
-  lastUpdated: 20190530071032
+  - 2.8.3-8.0
+  lastUpdated: 20190828192104

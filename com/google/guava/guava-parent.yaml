@@ -3,8 +3,8 @@
 groupId: com.google.guava
 artifactId: guava-parent
 versioning:
-  latest: 28.0-jre
-  release: 28.0-jre
+  latest: 28.1-jre
+  release: 28.1-jre
   versions:
   - r03
   - 10.0-rc1
@@ -91,5 +91,7 @@ versioning:
   - 27.1-jre
   - 28.0-android
   - 28.0-jre
+  - 28.1-android
+  - 28.1-jre
   - 13.0
-  lastUpdated: 20190611233539
+  lastUpdated: 20190828211449
