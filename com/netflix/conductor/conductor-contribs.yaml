@@ -3,8 +3,8 @@
 groupId: com.netflix.conductor
 artifactId: conductor-contribs
 versioning:
-  latest: 2.14.7
-  release: 2.14.7
+  latest: 2.15.0-rc.1
+  release: 2.15.0-rc.1
   versions:
   - 0.0.4
   - 1.5.0
@@ -158,6 +158,7 @@ versioning:
   - 2.13.3-alpha
   - 2.13.4-alpha
   - 2.13.4-alpha.1
+  - 2.13.4-alpha.3
   - 2.13.5
   - 2.14.0
   - 2.14.1
@@ -167,4 +168,5 @@ versioning:
   - 2.14.5
   - 2.14.6
   - 2.14.7
-  lastUpdated: 20190821163723
+  - 2.15.0-rc.1
+  lastUpdated: 20190829063654
