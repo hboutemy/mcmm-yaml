@@ -3,8 +3,8 @@
 groupId: org.neo4j.assembly
 artifactId: neo4j-standalone
 versioning:
-  latest: 3.5.8
-  release: 3.5.8
+  latest: 3.5.9
+  release: 3.5.9
   versions:
   - 2.3.11
   - 2.3.12
@@ -101,4 +101,5 @@ versioning:
   - 3.5.6
   - 3.5.7
   - 3.5.8
-  lastUpdated: 20190814132322
+  - 3.5.9
+  lastUpdated: 20190902113826
