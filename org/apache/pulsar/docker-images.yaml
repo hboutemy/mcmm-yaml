@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: docker-images
 versioning:
-  latest: 2.4.0
-  release: 2.4.0
+  latest: 2.4.1
+  release: 2.4.1
   versions:
   - 2.0.0-rc1-incubating
   - 2.0.1-incubating
@@ -16,4 +16,5 @@ versioning:
   - 2.3.1
   - 2.3.2
   - 2.4.0
-  lastUpdated: 20190702080940
+  - 2.4.1
+  lastUpdated: 20190903062259

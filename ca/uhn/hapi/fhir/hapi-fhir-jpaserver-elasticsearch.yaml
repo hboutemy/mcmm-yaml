@@ -3,8 +3,8 @@
 groupId: ca.uhn.hapi.fhir
 artifactId: hapi-fhir-jpaserver-elasticsearch
 versioning:
-  latest: 4.0.0
-  release: 4.0.0
+  latest: 4.0.1
+  release: 4.0.1
   versions:
   - 3.3.0
   - 3.4.0
@@ -13,4 +13,5 @@ versioning:
   - 3.7.0
   - 3.8.0
   - 4.0.0
-  lastUpdated: 20190814124011
+  - 4.0.1
+  lastUpdated: 20190903141808
