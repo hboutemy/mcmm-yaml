@@ -3,8 +3,8 @@
 groupId: nz.net.osnz.composite
 artifactId: composite-spring-jdbc
 versioning:
-  latest: 5.10
-  release: 5.10
+  latest: 5.14
+  release: 5.14
   versions:
   - 4.1
   - 4.1.1
@@ -21,4 +21,6 @@ versioning:
   - 5.8
   - 5.9
   - 5.10
-  lastUpdated: 20190823032200
+  - 5.11
+  - 5.14
+  lastUpdated: 20190905034317
