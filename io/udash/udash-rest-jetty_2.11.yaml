@@ -3,8 +3,8 @@
 groupId: io.udash
 artifactId: udash-rest-jetty_2.11
 versioning:
-  latest: 0.8.0
-  release: 0.8.0
+  latest: 0.8.0-releasetest
+  release: 0.8.0-releasetest
   versions:
   - 0.8.0-RC3
   - 0.8.0-RC4
@@ -15,4 +15,5 @@ versioning:
   - 0.8.0-RC9
   - 0.8.0-RC10
   - 0.8.0
-  lastUpdated: 20190822121812
+  - 0.8.0-releasetest
+  lastUpdated: 20190906195300
