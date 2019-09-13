@@ -3,9 +3,11 @@
 groupId: org.opensourcebim
 artifactId: ifcplugins
 versioning:
-  latest: 0.0.78
-  release: 0.0.78
+  latest: 0.0.80
+  release: 0.0.80
   versions:
+  - ifcplugins-0.0.80
+  - ifcplugins-ifcplugins-0.0.81
   - 0.0.2
   - 0.0.3
   - 0.0.4
@@ -70,4 +72,5 @@ versioning:
   - 0.0.76
   - 0.0.77
   - 0.0.78
-  lastUpdated: 20190907161845
+  - 0.0.80
+  lastUpdated: 20190912204704
