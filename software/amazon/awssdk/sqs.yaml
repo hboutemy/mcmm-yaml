@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: sqs
 versioning:
-  latest: 2.9.3
-  release: 2.9.3
+  latest: 2.9.4
+  release: 2.9.4
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -180,4 +180,5 @@ versioning:
   - 2.9.1
   - 2.9.2
   - 2.9.3
-  lastUpdated: 20190919225945
+  - 2.9.4
+  lastUpdated: 20190920225803

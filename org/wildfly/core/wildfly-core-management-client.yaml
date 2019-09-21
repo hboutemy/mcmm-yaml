@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-core-management-client
 versioning:
-  latest: 10.0.0.Beta9
-  release: 10.0.0.Beta9
+  latest: 10.0.0.CR1
+  release: 10.0.0.CR1
   versions:
   - 3.0.0.Alpha13
   - 3.0.0.Alpha14
@@ -137,4 +137,5 @@ versioning:
   - 10.0.0.Beta7
   - 10.0.0.Beta8
   - 10.0.0.Beta9
-  lastUpdated: 20190916125500
+  - 10.0.0.CR1
+  lastUpdated: 20190920153810
