@@ -3,8 +3,8 @@
 groupId: org.teiid.connectors
 artifactId: translator-amazon-s3
 versioning:
-  latest: 12.2.1
-  release: 12.2.1
+  latest: 12.3.0
+  release: 12.3.0
   versions:
   - 10.0.0.Beta1
   - 10.0.0.Beta2
@@ -49,4 +49,5 @@ versioning:
   - 12.1.1
   - 12.2.0
   - 12.2.1
-  lastUpdated: 20190612133815
+  - 12.3.0
+  lastUpdated: 20190917033915
