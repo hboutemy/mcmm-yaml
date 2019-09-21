@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.controller
 artifactId: sal-common-util
 versioning:
-  latest: 1.9.2
-  release: 1.9.2
+  latest: 1.10.0
+  release: 1.10.0
   versions:
   - 1.0
   - 1.1-Helium
@@ -50,4 +50,5 @@ versioning:
   - 1.9.0
   - 1.9.1
   - 1.9.2
-  lastUpdated: 20190831134152
+  - 1.10.0
+  lastUpdated: 20190918101314
