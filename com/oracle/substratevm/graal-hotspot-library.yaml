@@ -3,8 +3,8 @@
 groupId: com.oracle.substratevm
 artifactId: graal-hotspot-library
 versioning:
-  latest: 19.2.0
-  release: 19.2.0
+  latest: 19.2.0.1
+  release: 19.2.0.1
   versions:
   - 1.0.0-rc13
   - 1.0.0-rc14
@@ -15,4 +15,5 @@ versioning:
   - 19.1.0
   - 19.1.1
   - 19.2.0
-  lastUpdated: 20190822094558
+  - 19.2.0.1
+  lastUpdated: 20190916083527

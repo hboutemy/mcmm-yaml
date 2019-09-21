@@ -3,8 +3,8 @@
 groupId: com.oracle.substratevm
 artifactId: svm-hosted-native-windows-amd64
 versioning:
-  latest: 19.2.0
-  release: 19.2.0
+  latest: 19.2.0.1
+  release: 19.2.0.1
   versions:
   - 1.0.0-rc11
   - 1.0.0-rc12
@@ -17,4 +17,5 @@ versioning:
   - 19.1.0
   - 19.1.1
   - 19.2.0
-  lastUpdated: 20190822093649
+  - 19.2.0.1
+  lastUpdated: 20190916083432

@@ -3,8 +3,8 @@
 groupId: guru.qas
 artifactId: martini-reports
 versioning:
-  latest: 5.0
-  release: 5.0
+  latest: 6.0.1-JDK12
+  release: 6.0.1-JDK12
   versions:
   - 1.0.1
   - 1.0.4
@@ -15,4 +15,6 @@ versioning:
   - 4.0.0-JDK10
   - 4.1.1
   - 5.0
-  lastUpdated: 20190118180542
+  - 6.0-JDK12
+  - 6.0.1-JDK12
+  lastUpdated: 20190916220910
