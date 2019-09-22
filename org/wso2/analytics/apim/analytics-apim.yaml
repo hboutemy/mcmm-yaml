@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.analytics.apim
 artifactId: analytics-apim
 versioning:
-  latest: 3.0.0
-  release: 3.0.0
+  latest: 3.0.0-alpha
+  release: 3.0.0-alpha
   versions:
   - 1.0.0-alpha1
   - 1.0.0-alpha2
@@ -39,6 +39,7 @@ versioning:
   - 2.6.0-m2
   - 2.6.0-rc1
   - 2.6.0
+  - 3.0.0-alpha
   - 3.0.0
   - 3.0.1
-  lastUpdated: 20181016143740
+  lastUpdated: 20190921083316

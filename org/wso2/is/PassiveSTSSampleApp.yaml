@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.wso2.is
 artifactId: PassiveSTSSampleApp
 versioning:
-  latest: 5.9.0
-  release: 5.9.0
+  latest: 5.9.0-m7
+  release: 5.9.0-m7
   versions:
   - 5.4.0-alpha4
   - 5.4.0-alpha5
@@ -90,5 +91,6 @@ versioning:
   - 5.8.0
   - 5.8.1-m1
   - 5.8.1-m2
+  - 5.9.0-beta
   - 5.9.0
-  lastUpdated: 20190530025434
+  lastUpdated: 20190921102925
