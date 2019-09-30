@@ -3,8 +3,8 @@
 groupId: io.zipkin.aws
 artifactId: brave-instrumentation-aws-java-sdk-v2-core
 versioning:
-  latest: 0.18.0
-  release: 0.18.0
+  latest: 0.18.1
+  release: 0.18.1
   versions:
   - 0.15.0
   - 0.15.1
@@ -23,4 +23,5 @@ versioning:
   - 0.17.3
   - 0.17.4
   - 0.18.0
-  lastUpdated: 20190826082214
+  - 0.18.1
+  lastUpdated: 20190929145150
