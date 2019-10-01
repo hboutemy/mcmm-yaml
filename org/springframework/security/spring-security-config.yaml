@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.security
 artifactId: spring-security-config
 versioning:
-  latest: 5.1.6.RELEASE
-  release: 5.1.6.RELEASE
+  latest: 5.2.0.RELEASE
+  release: 5.2.0.RELEASE
   versions:
   - 3.0.0.RELEASE
   - 3.0.1.RELEASE
@@ -81,4 +81,5 @@ versioning:
   - 5.1.4.RELEASE
   - 5.1.5.RELEASE
   - 5.1.6.RELEASE
-  lastUpdated: 20190805234051
+  - 5.2.0.RELEASE
+  lastUpdated: 20190930213744

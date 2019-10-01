@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.apache.mxnet
 artifactId: mxnet-full_2.11-osx-x86_64-cpu
 versioning:
-  latest: 1.5.0
-  release: 1.5.0
+  latest: 1.5.1
+  release: 1.5.1
   versions:
   - 1.2.0
   - 1.2.1
@@ -14,4 +14,5 @@ versioning:
   - 1.4.0
   - 1.4.1
   - 1.5.0
-  lastUpdated: 20190730000520
+  - 1.5.1
+  lastUpdated: 20190930172734

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework
 artifactId: spring-expression
 versioning:
-  latest: 5.1.10.RELEASE
-  release: 5.1.10.RELEASE
+  latest: 5.2.0.RELEASE
+  release: 5.2.0.RELEASE
   versions:
   - 3.0.0.RELEASE
   - 3.0.1.RELEASE
@@ -122,4 +122,5 @@ versioning:
   - 5.1.8.RELEASE
   - 5.1.9.RELEASE
   - 5.1.10.RELEASE
-  lastUpdated: 20190928121918
+  - 5.2.0.RELEASE
+  lastUpdated: 20190930100600
