@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.test
 artifactId: old-elasticsearch
 versioning:
-  latest: 7.3.2
-  release: 7.3.2
+  latest: 7.4.0
+  release: 7.4.0
   versions:
   - 5.4.1
   - 5.4.2
@@ -83,4 +83,5 @@ versioning:
   - 7.3.0
   - 7.3.1
   - 7.3.2
-  lastUpdated: 20190912153552
+  - 7.4.0
+  lastUpdated: 20191001132755

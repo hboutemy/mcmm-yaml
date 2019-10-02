@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-incubator-parent
 versioning:
-  latest: 0.10.0.CR2
-  release: 0.10.0.CR2
+  latest: 0.10.0.Final
+  release: 0.10.0.Final
   versions:
   - 0.8.0.Beta1
   - 0.8.0.CR1
@@ -31,4 +31,5 @@ versioning:
   - 0.10.0.Beta4
   - 0.10.0.CR1
   - 0.10.0.CR2
-  lastUpdated: 20190927052502
+  - 0.10.0.Final
+  lastUpdated: 20191001200417

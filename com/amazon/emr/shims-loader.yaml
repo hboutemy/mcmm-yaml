@@ -3,8 +3,8 @@
 groupId: com.amazon.emr
 artifactId: shims-loader
 versioning:
-  latest: 4.8.0
-  release: 4.8.0
+  latest: 4.12.0
+  release: 4.12.0
   versions:
   - 4.2.0
   - 4.3.0
@@ -13,4 +13,8 @@ versioning:
   - 4.6.0
   - 4.7.0
   - 4.8.0
-  lastUpdated: 20190317141733
+  - 4.9.0
+  - 4.10.0
+  - 4.11.0
+  - 4.12.0
+  lastUpdated: 20191001181425
