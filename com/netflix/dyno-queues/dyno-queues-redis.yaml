@@ -3,8 +3,8 @@
 groupId: com.netflix.dyno-queues
 artifactId: dyno-queues-redis
 versioning:
-  latest: 2.0.10
-  release: 2.0.10
+  latest: 2.0.11-rc4
+  release: 2.0.11-rc4
   versions:
   - 0.0.1
   - 0.0.6
@@ -41,4 +41,6 @@ versioning:
   - 2.0.8
   - 2.0.9
   - 2.0.10
-  lastUpdated: 20190918223955
+  - 2.0.11-rc3
+  - 2.0.11-rc4
+  lastUpdated: 20191002195030

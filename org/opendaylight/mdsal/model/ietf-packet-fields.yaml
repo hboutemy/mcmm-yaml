@@ -3,8 +3,8 @@
 groupId: org.opendaylight.mdsal.model
 artifactId: ietf-packet-fields
 versioning:
-  latest: 0.14.6
-  release: 0.14.6
+  latest: 0.15.1
+  release: 0.15.1
   versions:
   - 0.7.0-Boron
   - 0.7.1-Boron-SR1
@@ -48,4 +48,6 @@ versioning:
   - 0.14.4
   - 0.14.5
   - 0.14.6
-  lastUpdated: 20190922164352
+  - 0.15.0
+  - 0.15.1
+  lastUpdated: 20191002152233
