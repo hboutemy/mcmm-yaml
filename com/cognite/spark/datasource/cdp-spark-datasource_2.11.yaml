@@ -3,8 +3,8 @@
 groupId: com.cognite.spark.datasource
 artifactId: cdp-spark-datasource_2.11
 versioning:
-  latest: 0.4.15
-  release: 0.4.15
+  latest: 1.0.0-rc1
+  release: 1.0.0-rc1
   versions:
   - 0.4.2
   - 0.4.3
@@ -20,4 +20,5 @@ versioning:
   - 0.4.13
   - 0.4.14
   - 0.4.15
-  lastUpdated: 20190913132613
+  - 1.0.0-rc1
+  lastUpdated: 20191003084700

@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-mail
 versioning:
-  latest: 18.0.0.Beta1
-  release: 18.0.0.Beta1
+  latest: 18.0.0.Final
+  release: 18.0.0.Final
   versions:
   - 8.0.0.Alpha1
   - 8.0.0.Alpha2
@@ -64,4 +64,5 @@ versioning:
   - 17.0.0.Final
   - 17.0.1.Final
   - 18.0.0.Beta1
-  lastUpdated: 20190905002618
+  - 18.0.0.Final
+  lastUpdated: 20191003165312

@@ -3,8 +3,8 @@
 groupId: com.netflix.conductor
 artifactId: conductor-redis-persistence
 versioning:
-  latest: 2.16.0-beta.3
-  release: 2.16.0-beta.3
+  latest: 2.16.0-beta.4
+  release: 2.16.0-beta.4
   versions:
   - 0.0.4
   - 1.5.0
@@ -172,9 +172,11 @@ versioning:
   - 2.15.0
   - 2.15.1
   - 2.15.2-beta
+  - 2.15.2-beta.1
   - 2.15.2
   - 2.16.0-beta
   - 2.16.0-beta.1
   - 2.16.0-beta.2
   - 2.16.0-beta.3
-  lastUpdated: 20191001234344
+  - 2.16.0-beta.4
+  lastUpdated: 20191003065724
