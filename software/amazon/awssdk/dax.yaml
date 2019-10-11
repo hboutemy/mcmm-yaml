@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: dax
 versioning:
-  latest: 2.9.15
-  release: 2.9.15
+  latest: 2.9.17
+  release: 2.9.17
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -192,4 +192,6 @@ versioning:
   - 2.9.13
   - 2.9.14
   - 2.9.15
-  lastUpdated: 20191007191936
+  - 2.9.16
+  - 2.9.17
+  lastUpdated: 20191009191614
