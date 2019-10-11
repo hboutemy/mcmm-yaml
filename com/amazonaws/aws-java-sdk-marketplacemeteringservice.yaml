@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-marketplacemeteringservice
 versioning:
-  latest: 1.11.642
-  release: 1.11.642
+  latest: 1.11.646
+  release: 1.11.646
   versions:
   - 1.10.62
   - 1.10.63
@@ -671,4 +672,5 @@ versioning:
   - 1.11.643
   - 1.11.644
   - 1.11.645
-  lastUpdated: 20190930224514
+  - 1.11.646
+  lastUpdated: 20191004201244

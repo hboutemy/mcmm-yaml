@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-emr
 versioning:
-  latest: 1.11.642
-  release: 1.11.642
+  latest: 1.11.646
+  release: 1.11.646
   versions:
   - 1.9.0
   - 1.9.1
@@ -49,6 +50,8 @@ versioning:
   - 1.9.38
   - 1.9.39
   - 1.9.40
+  - 1.10.0
+  - 1.10.1
   - 1.10.2
   - 1.10.3
   - 1.10.4
@@ -773,9 +776,8 @@ versioning:
   - 1.11.640
   - 1.11.641
   - 1.11.642
-  - 1.10.0
-  - 1.10.1
   - 1.11.643
   - 1.11.644
   - 1.11.645
-  lastUpdated: 20190930224359
+  - 1.11.646
+  lastUpdated: 20191004201234
