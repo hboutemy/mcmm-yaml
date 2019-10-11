@@ -3,8 +3,8 @@
 groupId: org.apache.nutch
 artifactId: nutch
 versioning:
-  latest: 2.3.1
-  release: 2.3.1
+  latest: 2.4
+  release: 2.4
   versions:
   - 1.3
   - 1.4
@@ -20,6 +20,7 @@ versioning:
   - 1.13
   - 1.14
   - 1.15
+  - 1.16
   - 2.0
   - 2.0-dev
   - 2.1
@@ -27,4 +28,5 @@ versioning:
   - 2.2.1
   - 2.3
   - 2.3.1
-  lastUpdated: 20180807123824
+  - 2.4
+  lastUpdated: 20191008120029
