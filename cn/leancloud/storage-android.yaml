@@ -3,8 +3,8 @@
 groupId: cn.leancloud
 artifactId: storage-android
 versioning:
-  latest: 6.0.2
-  release: 6.0.2
+  latest: 6.0.2-androidx
+  release: 6.0.2-androidx
   versions:
   - 5.0.0
   - 5.0.1
@@ -35,4 +35,5 @@ versioning:
   - 5.0.26
   - 6.0.0
   - 6.0.2
-  lastUpdated: 20191009064232
+  - 6.0.2-androidx
+  lastUpdated: 20191010093045
