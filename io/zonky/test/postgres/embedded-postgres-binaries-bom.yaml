@@ -3,8 +3,8 @@
 groupId: io.zonky.test.postgres
 artifactId: embedded-postgres-binaries-bom
 versioning:
-  latest: 11.5.0
-  release: 11.5.0
+  latest: 12.0.0
+  release: 12.0.0
   versions:
   - 9.3.23
   - 9.3.24
@@ -48,4 +48,5 @@ versioning:
   - 11.3.0
   - 11.4.0
   - 11.5.0
-  lastUpdated: 20190912185812
+  - 12.0.0
+  lastUpdated: 20191012132228
