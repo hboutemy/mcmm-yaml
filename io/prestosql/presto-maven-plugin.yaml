@@ -3,9 +3,11 @@
 groupId: io.prestosql
 artifactId: presto-maven-plugin
 versioning:
-  latest: 6
-  release: 6
+  latest: 8
+  release: 8
   versions:
   - 5
   - 6
-  lastUpdated: 20190210222731
+  - 7
+  - 8
+  lastUpdated: 20191013003052
