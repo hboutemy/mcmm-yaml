@@ -3,8 +3,8 @@
 groupId: com.netflix.conductor
 artifactId: conductor-test-harness
 versioning:
-  latest: 2.16.2
-  release: 2.16.2
+  latest: 2.16.3
+  release: 2.16.3
   versions:
   - 0.0.4
   - 1.5.0
@@ -104,6 +104,7 @@ versioning:
   - 1.12.6
   - 1.12.7-beta
   - 1.12.7
+  - 1.12.8
   - 2.0.0-rc3
   - 2.0.0-rc4
   - 2.0.0-rc5
@@ -185,4 +186,5 @@ versioning:
   - 2.16.0-beta.6
   - 2.16.0
   - 2.16.2
-  lastUpdated: 20191010033348
+  - 2.16.3
+  lastUpdated: 20191014201742
