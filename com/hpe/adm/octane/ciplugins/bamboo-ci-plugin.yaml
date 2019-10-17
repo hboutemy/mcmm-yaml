@@ -3,9 +3,10 @@
 groupId: com.hpe.adm.octane.ciplugins
 artifactId: bamboo-ci-plugin
 versioning:
-  latest: 1.10.0.2-beta
-  release: 1.10.0.2-beta
+  latest: 1.10.1.0-beta
+  release: 1.10.1.0-beta
   versions:
+  - v1.10.0.3-beta
   - 1.0
   - 1.1
   - 1.2
@@ -28,4 +29,7 @@ versioning:
   - 1.9.7
   - 1.10.0.1-beta
   - 1.10.0.2-beta
-  lastUpdated: 20190815080219
+  - 1.10.0.3-beta
+  - 1.10.0.4-beta
+  - 1.10.1.0-beta
+  lastUpdated: 20191016073138

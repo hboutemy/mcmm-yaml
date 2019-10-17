@@ -3,8 +3,8 @@
 groupId: io.zipkin.gcp
 artifactId: brave-propagation-stackdriver
 versioning:
-  latest: 0.14.1
-  release: 0.14.1
+  latest: 0.15.0
+  release: 0.15.0
   versions:
   - 0.6.0
   - 0.6.1
@@ -32,4 +32,5 @@ versioning:
   - 0.13.4
   - 0.14.0
   - 0.14.1
-  lastUpdated: 20190928085627
+  - 0.15.0
+  lastUpdated: 20191016043727

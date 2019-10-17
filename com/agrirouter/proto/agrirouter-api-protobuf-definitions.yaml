@@ -3,11 +3,18 @@
 groupId: com.agrirouter.proto
 artifactId: agrirouter-api-protobuf-definitions
 versioning:
-  latest: 1.0.0-jdk11-RC1
-  release: 1.0.0-jdk11-RC1
+  latest: 1.0.0-jdk11
+  release: 1.0.0-jdk11
   versions:
   - 1.0.0-jdk8-RC1
+  - 1.0.0-jdk8-RC2
+  - 1.0.0-jdk8
   - 1.0.0-jdk9-RC1
+  - 1.0.0-jdk9-RC2
+  - 1.0.0-jdk9
   - 1.0.0-jdk10-RC1
+  - 1.0.0-jdk10-RC2
+  - 1.0.0-jdk10
   - 1.0.0-jdk11-RC1
-  lastUpdated: 20191014181551
+  - 1.0.0-jdk11
+  lastUpdated: 20191016124659

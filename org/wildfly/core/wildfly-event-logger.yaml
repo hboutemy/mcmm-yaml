@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-event-logger
 versioning:
-  latest: 10.0.0.Final
-  release: 10.0.0.Final
+  latest: 11.0.0.Beta1
+  release: 11.0.0.Beta1
   versions:
   - 9.0.0.Beta5
   - 9.0.0.Beta6
@@ -23,4 +23,5 @@ versioning:
   - 10.0.0.Beta9
   - 10.0.0.CR1
   - 10.0.0.Final
-  lastUpdated: 20190924193705
+  - 11.0.0.Beta1
+  lastUpdated: 20191016100218
