@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: swf
 versioning:
-  latest: 2.9.21
-  release: 2.9.21
+  latest: 2.9.23
+  release: 2.9.23
   versions:
   - 2.0.0-preview-12
   - 2.0.0-preview-13
@@ -187,4 +187,6 @@ versioning:
   - 2.9.19
   - 2.9.20
   - 2.9.21
-  lastUpdated: 20191015185614
+  - 2.9.22
+  - 2.9.23
+  lastUpdated: 20191017202239
