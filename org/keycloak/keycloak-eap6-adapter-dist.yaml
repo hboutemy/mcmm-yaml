@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-eap6-adapter-dist
 versioning:
-  latest: 7.0.0
-  release: 7.0.0
+  latest: 7.0.1
+  release: 7.0.1
   versions:
   - 1.0-beta-1
   - 1.0-beta-2
@@ -101,5 +101,6 @@ versioning:
   - 6.0.0
   - 6.0.1
   - 7.0.0
+  - 7.0.1
   - 1.5.0-Final
-  lastUpdated: 20190826070825
+  lastUpdated: 20191021091200

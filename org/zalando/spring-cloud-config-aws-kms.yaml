@@ -3,8 +3,8 @@
 groupId: org.zalando
 artifactId: spring-cloud-config-aws-kms
 versioning:
-  latest: 4.2
-  release: 4.2
+  latest: 4.3
+  release: 4.3
   versions:
   - 1.3-M1
   - 1.3
@@ -19,11 +19,14 @@ versioning:
   - 2.0
   - 2.1
   - 2.2
+  - 2.3
   - 3.0
   - 3.1
   - 3.2
+  - 3.3
   - 4.0-beta1
   - 4.0
   - 4.1
   - 4.2
-  lastUpdated: 20190624093800
+  - 4.3
+  lastUpdated: 20191021093629
