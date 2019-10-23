@@ -3,8 +3,8 @@
 groupId: com.amazonaws
 artifactId: sagemaker-spark_2.11
 versioning:
-  latest: spark_2.2.0-1.2.5
-  release: spark_2.2.0-1.2.5
+  latest: spark_2.2.0-1.2.6
+  release: spark_2.2.0-1.2.6
   versions:
   - spark_2.1.1-1.0
   - spark_2.2.0-1.0
@@ -19,4 +19,5 @@ versioning:
   - spark_2.2.0-1.2.0
   - spark_2.2.0-1.2.1
   - spark_2.2.0-1.2.5
-  lastUpdated: 20190822222632
+  - spark_2.2.0-1.2.6
+  lastUpdated: 20191022002356
