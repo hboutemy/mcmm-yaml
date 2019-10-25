@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: cloudwatchevents
 versioning:
-  latest: 2.9.26
-  release: 2.9.26
+  latest: 2.10.0
+  release: 2.10.0
   versions:
   - 2.0.0-preview-12
   - 2.0.0-preview-13
@@ -192,4 +192,5 @@ versioning:
   - 2.9.24
   - 2.9.25
   - 2.9.26
-  lastUpdated: 20191023205308
+  - 2.10.0
+  lastUpdated: 20191024192927

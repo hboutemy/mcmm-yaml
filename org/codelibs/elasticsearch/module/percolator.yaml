@@ -3,8 +3,8 @@
 groupId: org.codelibs.elasticsearch.module
 artifactId: percolator
 versioning:
-  latest: 7.4.0
-  release: 7.4.0
+  latest: 7.4.1
+  release: 7.4.1
   versions:
   - 5.0.0
   - 5.0.1
@@ -77,6 +77,7 @@ versioning:
   - 6.8.1
   - 6.8.2
   - 6.8.3
+  - 6.8.4
   - 7.0.0-beta1
   - 7.0.0-rc1
   - 7.0.0-rc2
@@ -90,4 +91,5 @@ versioning:
   - 7.3.1
   - 7.3.2
   - 7.4.0
-  lastUpdated: 20191018132702
+  - 7.4.1
+  lastUpdated: 20191024064415
