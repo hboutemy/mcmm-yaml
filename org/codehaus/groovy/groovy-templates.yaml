@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.codehaus.groovy
 artifactId: groovy-templates
 versioning:
-  latest: 3.0.0-beta-3
-  release: 3.0.0-beta-3
+  latest: 3.0.0-rc-1
+  release: 3.0.0-rc-1
   versions:
   - 2.0.0-rc-1
   - 2.0.0-rc-2
@@ -110,4 +110,5 @@ versioning:
   - 3.0.0-beta-1
   - 3.0.0-beta-2
   - 3.0.0-beta-3
-  lastUpdated: 20190807180833
+  - 3.0.0-rc-1
+  lastUpdated: 20191025125359

@@ -3,8 +3,8 @@
 groupId: org.wildfly.build
 artifactId: wildfly-server-provisioning-standalone
 versioning:
-  latest: 1.2.12.Final
-  release: 1.2.12.Final
+  latest: 1.2.13.Final
+  release: 1.2.13.Final
   versions:
   - 1.0.0.Alpha8
   - 1.0.0.Final
@@ -34,4 +34,5 @@ versioning:
   - 1.2.10.Final
   - 1.2.11.Final
   - 1.2.12.Final
-  lastUpdated: 20190912210552
+  - 1.2.13.Final
+  lastUpdated: 20191025024119
