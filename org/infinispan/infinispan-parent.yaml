@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-parent
 versioning:
-  latest: 10.0.0.CR3
-  release: 10.0.0.CR3
+  latest: 10.0.0.Final
+  release: 10.0.0.Final
   versions:
   - 5.0.0.FINAL
   - 5.0.1.FINAL
@@ -230,4 +230,5 @@ versioning:
   - 10.0.0.CR1
   - 10.0.0.CR2
   - 10.0.0.CR3
-  lastUpdated: 20191004201040
+  - 10.0.0.Final
+  lastUpdated: 20191027101119
