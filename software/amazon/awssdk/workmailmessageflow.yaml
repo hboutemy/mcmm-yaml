@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: workmailmessageflow
 versioning:
-  latest: 2.10.1
-  release: 2.10.1
+  latest: 2.10.3
+  release: 2.10.3
   versions:
   - 2.8.7
   - 2.9.0
@@ -37,4 +37,6 @@ versioning:
   - 2.9.26
   - 2.10.0
   - 2.10.1
-  lastUpdated: 20191025193748
+  - 2.10.2
+  - 2.10.3
+  lastUpdated: 20191028222248
