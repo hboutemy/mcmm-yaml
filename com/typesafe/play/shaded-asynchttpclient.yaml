@@ -3,8 +3,8 @@
 groupId: com.typesafe.play
 artifactId: shaded-asynchttpclient
 versioning:
-  latest: 2.1.0-M7
-  release: 2.1.0-M7
+  latest: 2.1.0-RC2
+  release: 2.1.0-RC2
   versions:
   - 1.0.0-M3
   - 1.0.0-M4
@@ -62,4 +62,6 @@ versioning:
   - 2.1.0-M5
   - 2.1.0-M6
   - 2.1.0-M7
-  lastUpdated: 20191022074152
+  - 2.1.0-RC1
+  - 2.1.0-RC2
+  lastUpdated: 20191028164602

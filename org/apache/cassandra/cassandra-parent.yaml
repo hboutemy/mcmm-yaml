@@ -3,8 +3,8 @@
 groupId: org.apache.cassandra
 artifactId: cassandra-parent
 versioning:
-  latest: 4.0-alpha1
-  release: 4.0-alpha1
+  latest: 4.0-alpha2
+  release: 4.0-alpha2
   versions:
   - 0.7.5
   - 0.7.6
@@ -155,6 +155,7 @@ versioning:
   - 2.2.12
   - 2.2.13
   - 2.2.14
+  - 2.2.15
   - 3.0.0-alpha1
   - 3.0.0-beta1
   - 3.0.0-beta2
@@ -179,6 +180,7 @@ versioning:
   - 3.0.16
   - 3.0.17
   - 3.0.18
+  - 3.0.19
   - 3.1
   - 3.1.1
   - 3.2
@@ -196,5 +198,7 @@ versioning:
   - 3.11.2
   - 3.11.3
   - 3.11.4
+  - 3.11.5
   - 4.0-alpha1
-  lastUpdated: 20190908162537
+  - 4.0-alpha2
+  lastUpdated: 20191029193757

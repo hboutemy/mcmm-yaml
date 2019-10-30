@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.document.library.demo.data.creator.impl
 versioning:
   latest: 3.0.0
-  release: 3.0.0
+  release: 3.0.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -17,4 +16,5 @@ versioning:
   - 1.0.7
   - 2.0.0
   - 3.0.0
-  lastUpdated: 20190530041345
+  - 3.0.1
+  lastUpdated: 20191029061312
