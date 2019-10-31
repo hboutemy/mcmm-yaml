@@ -3,8 +3,8 @@
 groupId: com.datastax.dse
 artifactId: dse-java-driver-core
 versioning:
-  latest: 2.2.2
-  release: 2.2.2
+  latest: 2.3.0
+  release: 2.3.0
   versions:
   - 1.2.3
   - 1.2.4
@@ -29,6 +29,7 @@ versioning:
   - 1.8.0
   - 1.8.1
   - 1.8.2
+  - 1.9.0
   - 2.0.0-beta1
   - 2.0.0-rc1
   - 2.0.0
@@ -38,4 +39,5 @@ versioning:
   - 2.2.0
   - 2.2.1
   - 2.2.2
-  lastUpdated: 20191008195019
+  - 2.3.0
+  lastUpdated: 20191030184841
