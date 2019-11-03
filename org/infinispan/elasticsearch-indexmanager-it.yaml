@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: elasticsearch-indexmanager-it
 versioning:
-  latest: 10.0.0.Final
-  release: 10.0.0.Final
+  latest: 10.0.1.Final
+  release: 10.0.1.Final
   versions:
   - 9.0.0.CR2
   - 9.0.0.CR3
@@ -81,4 +81,5 @@ versioning:
   - 10.0.0.CR2
   - 10.0.0.CR3
   - 10.0.0.Final
-  lastUpdated: 20191027101046
+  - 10.0.1.Final
+  lastUpdated: 20191101151423

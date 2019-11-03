@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: sns
 versioning:
-  latest: 2.10.6
-  release: 2.10.6
+  latest: 2.10.7
+  release: 2.10.7
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -210,4 +210,5 @@ versioning:
   - 2.10.4
   - 2.10.5
   - 2.10.6
-  lastUpdated: 20191031195221
+  - 2.10.7
+  lastUpdated: 20191101185527

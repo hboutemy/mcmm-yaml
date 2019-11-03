@@ -3,8 +3,8 @@
 groupId: org.opendaylight.netconf
 artifactId: restconf-artifacts
 versioning:
-  latest: 1.10.0
-  release: 1.10.0
+  latest: 1.10.1
+  release: 1.10.1
   versions:
   - 1.3.0-Beryllium
   - 1.3.1-Beryllium-SR1
@@ -38,4 +38,5 @@ versioning:
   - 1.9.1
   - 1.9.2
   - 1.10.0
-  lastUpdated: 20190918111317
+  - 1.10.1
+  lastUpdated: 20191101080330
