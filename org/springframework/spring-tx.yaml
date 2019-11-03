@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework
 artifactId: spring-tx
 versioning:
-  latest: 5.2.0.RELEASE
-  release: 5.2.0.RELEASE
+  latest: 5.2.1.RELEASE
+  release: 5.2.1.RELEASE
   versions:
   - 2.5
   - 2.5.1
@@ -132,5 +132,7 @@ versioning:
   - 5.1.8.RELEASE
   - 5.1.9.RELEASE
   - 5.1.10.RELEASE
+  - 5.1.11.RELEASE
   - 5.2.0.RELEASE
-  lastUpdated: 20190930100619
+  - 5.2.1.RELEASE
+  lastUpdated: 20191102084653
