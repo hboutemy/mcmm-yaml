@@ -3,8 +3,8 @@
 groupId: com.floragunn
 artifactId: search-guard-kibana-plugin
 versioning:
-  latest: 7.4.0-36.2.0
-  release: 7.4.0-36.2.0
+  latest: 7.4.1-36.2.0
+  release: 7.4.1-36.2.0
   versions:
   - 6.0.0-beta1
   - 6.0.0-6.beta1
@@ -134,6 +134,7 @@ versioning:
   - 6.8.1-18.5
   - 6.8.2-18.5
   - 6.8.3-18.5
+  - 6.8.4-18.5
   - 7.0.0-35.0.0-beta1
   - 7.0.0-35.0.0-rc1
   - 7.0.1-35.0.0
@@ -161,4 +162,5 @@ versioning:
   - 7.3.1-36.1.0
   - 7.3.2-36.1.0
   - 7.4.0-36.2.0
-  lastUpdated: 20191003182105
+  - 7.4.1-36.2.0
+  lastUpdated: 20191031191257

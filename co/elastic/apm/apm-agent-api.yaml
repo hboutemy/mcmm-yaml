@@ -3,8 +3,8 @@
 groupId: co.elastic.apm
 artifactId: apm-agent-api
 versioning:
-  latest: 1.10.0
-  release: 1.10.0
+  latest: 1.11.0
+  release: 1.11.0
   versions:
   - 0.1.1
   - 0.1.2
@@ -28,4 +28,6 @@ versioning:
   - 1.8.0
   - 1.9.0
   - 1.10.0
-  lastUpdated: 20190930133917
+  - 1.10.1
+  - 1.11.0
+  lastUpdated: 20191031163725
