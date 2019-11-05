@@ -3,8 +3,8 @@
 groupId: org.apache.nifi
 artifactId: nifi-jms-cf-service-nar
 versioning:
-  latest: 1.9.2
-  release: 1.9.2
+  latest: 1.10.0
+  release: 1.10.0
   versions:
   - 0.6.0
   - 0.6.1
@@ -30,4 +30,5 @@ versioning:
   - 1.9.0
   - 1.9.1
   - 1.9.2
-  lastUpdated: 20190408111832
+  - 1.10.0
+  lastUpdated: 20191104123237

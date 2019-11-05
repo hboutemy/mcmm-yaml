@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.security
 artifactId: spring-security-crypto
 versioning:
-  latest: 5.2.0.RELEASE
-  release: 5.2.0.RELEASE
+  latest: 5.2.1.RELEASE
+  release: 5.2.1.RELEASE
   versions:
   - 3.1.0.RELEASE
   - 3.1.1.RELEASE
@@ -72,5 +72,7 @@ versioning:
   - 5.1.4.RELEASE
   - 5.1.5.RELEASE
   - 5.1.6.RELEASE
+  - 5.1.7.RELEASE
   - 5.2.0.RELEASE
-  lastUpdated: 20190930213747
+  - 5.2.1.RELEASE
+  lastUpdated: 20191104201731

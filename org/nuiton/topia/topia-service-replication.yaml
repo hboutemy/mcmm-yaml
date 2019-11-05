@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.nuiton.topia
 artifactId: topia-service-replication
 versioning:
-  latest: 3.6
+  latest: 3.7
   release: 3.7
   versions:
   - 2.2.0
@@ -119,4 +120,4 @@ versioning:
   - 3.5
   - 3.6
   - 3.7
-  lastUpdated: 20191009161036
+  lastUpdated: 20191103232415
