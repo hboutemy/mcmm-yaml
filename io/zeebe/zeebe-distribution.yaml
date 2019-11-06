@@ -3,8 +3,8 @@
 groupId: io.zeebe
 artifactId: zeebe-distribution
 versioning:
-  latest: 0.21.1
-  release: 0.21.1
+  latest: 0.22.0-alpha1
+  release: 0.22.0-alpha1
   versions:
   - 0.1.0
   - 0.1.1
@@ -46,4 +46,5 @@ versioning:
   - 0.21.0-alpha3
   - 0.21.0
   - 0.21.1
-  lastUpdated: 20191007151951
+  - 0.22.0-alpha1
+  lastUpdated: 20191105161708

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: amazon-kinesis-client
 versioning:
-  latest: 1.12.0
-  release: 1.12.0
+  latest: 1.13.0
+  release: 1.13.0
   versions:
   - 1.0.0
   - 1.1.0
@@ -49,4 +49,5 @@ versioning:
   - 1.11.1
   - 1.11.2
   - 1.12.0
-  lastUpdated: 20191018204357
+  - 1.13.0
+  lastUpdated: 20191105233346

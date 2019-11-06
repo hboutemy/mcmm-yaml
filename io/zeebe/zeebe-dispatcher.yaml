@@ -3,8 +3,8 @@
 groupId: io.zeebe
 artifactId: zeebe-dispatcher
 versioning:
-  latest: 0.21.1
-  release: 0.21.1
+  latest: 0.22.0-alpha1
+  release: 0.22.0-alpha1
   versions:
   - 0.17.0
   - 0.18.0
@@ -19,4 +19,5 @@ versioning:
   - 0.21.0-alpha3
   - 0.21.0
   - 0.21.1
-  lastUpdated: 20191007151949
+  - 0.22.0-alpha1
+  lastUpdated: 20191105161706
