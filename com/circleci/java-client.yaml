@@ -3,8 +3,8 @@
 groupId: com.circleci
 artifactId: java-client
 versioning:
-  latest: 2.0.97
-  release: 2.0.97
+  latest: 2.0.101
+  release: 2.0.101
   versions:
   - 2.0.32
   - 2.0.43
@@ -30,4 +30,6 @@ versioning:
   - 2.0.92
   - 2.0.94
   - 2.0.97
-  lastUpdated: 20191030185026
+  - 2.0.99
+  - 2.0.101
+  lastUpdated: 20191106162648

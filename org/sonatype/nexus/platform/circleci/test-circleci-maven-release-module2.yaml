@@ -1,0 +1,10 @@
+%YAML 1.1
+---
+groupId: org.sonatype.nexus.platform.circleci
+artifactId: test-circleci-maven-release-module2
+versioning:
+  release: 0.0.5
+  versions:
+  - 0.0.4
+  - 0.0.5
+  lastUpdated: 20191106195338

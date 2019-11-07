@@ -3,12 +3,13 @@
 groupId: org.apache.spark
 artifactId: spark-streaming-kinesis-asl_2.12
 versioning:
-  latest: 2.4.4
-  release: 2.4.4
+  latest: 3.0.0-preview
+  release: 3.0.0-preview
   versions:
   - 2.4.0
   - 2.4.1
   - 2.4.2
   - 2.4.3
   - 2.4.4
-  lastUpdated: 20190831051927
+  - 3.0.0-preview
+  lastUpdated: 20191106205553
