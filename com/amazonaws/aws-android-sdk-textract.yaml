@@ -1,13 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-android-sdk-textract
 versioning:
   latest: 2.16.3
   release: 2.16.3
   versions:
-  - 2.16.2
-  - 2.16.3
   - 2.13.7
   - 2.14.0
   - 2.14.1
@@ -17,4 +16,6 @@ versioning:
   - 2.15.2
   - 2.16.0
   - 2.16.1
-  lastUpdated: 20191106002524
+  - 2.16.2
+  - 2.16.3
+  lastUpdated: 20191107022039

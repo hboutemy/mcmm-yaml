@@ -3,8 +3,8 @@
 groupId: org.eclipse.che.multiuser
 artifactId: che-multiuser-mysql-tck
 versioning:
-  latest: 7.3.1
-  release: 7.3.1
+  latest: 7.4.0
+  release: 7.4.0
   versions:
   - 6.12.0
   - 6.12.1
@@ -43,4 +43,5 @@ versioning:
   - 7.2.0
   - 7.3.0
   - 7.3.1
-  lastUpdated: 20191029162100
+  - 7.4.0
+  lastUpdated: 20191107154657

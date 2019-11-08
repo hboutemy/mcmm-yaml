@@ -3,10 +3,11 @@
 groupId: org.sonatype.nexus.platform.circleci
 artifactId: test-circleci-maven-release-module1
 versioning:
-  release: 0.0.5
+  release: 0.0.6
   versions:
   - 0.0.2
   - 0.0.3
   - 0.0.4
   - 0.0.5
-  lastUpdated: 20191106195337
+  - 0.0.6
+  lastUpdated: 20191107001121

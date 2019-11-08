@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: software.amazon.kinesis
 artifactId: amazon-kinesis-client-pom
 versioning:
   latest: 2.2.5
   release: 2.2.5
   versions:
-  - 2.2.5
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -29,4 +29,5 @@ versioning:
   - 2.2.2
   - 2.2.3
   - 2.2.4
-  lastUpdated: 20191023234837
+  - 2.2.5
+  lastUpdated: 20191107000707

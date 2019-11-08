@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: pi
 versioning:
-  latest: 2.10.10
-  release: 2.10.10
+  latest: 2.10.12
+  release: 2.10.12
   versions:
   - 2.1.0
   - 2.1.1
@@ -201,4 +201,6 @@ versioning:
   - 2.10.8
   - 2.10.9
   - 2.10.10
-  lastUpdated: 20191106212538
+  - 2.10.11
+  - 2.10.12
+  lastUpdated: 20191107201643

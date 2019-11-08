@@ -1,19 +1,18 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: neptune
 versioning:
   latest: 1.15.0.DEVPREVIEW
   release: 1.15.0.DEVPREVIEW
   versions:
-  - 1.10.0.DEVPREVIEW
-  - 1.10.1.DEVPREVIEW
-  - 1.11.0.DEVPREVIEW
-  - 1.12.0.DEVPREVIEW
-  - 1.13.0.DEVPREVIEW
-  - 1.13.1.DEVPREVIEW
-  - 1.14.0.DEVPREVIEW
-  - 1.15.0.DEVPREVIEW
+  - 0.8.0
+  - 0.8.1
+  - 0.8.2
+  - 0.9.0
+  - 0.9.1
+  - 0.9.2
   - 0.10.0
   - 0.11.0
   - 0.12.0
@@ -54,12 +53,6 @@ versioning:
   - 0.37.0.DEVPREVIEW
   - 0.38.0.DEVPREVIEW
   - 0.39.0.DEVPREVIEW
-  - 0.8.0
-  - 0.8.1
-  - 0.8.2
-  - 0.9.0
-  - 0.9.1
-  - 0.9.2
   - 1.0.0.DEVPREVIEW
   - 1.1.0.DEVPREVIEW
   - 1.2.0.DEVPREVIEW
@@ -71,4 +64,12 @@ versioning:
   - 1.7.0.DEVPREVIEW
   - 1.8.0.DEVPREVIEW
   - 1.9.0.DEVPREVIEW
-  lastUpdated: 20191028132327
+  - 1.10.0.DEVPREVIEW
+  - 1.10.1.DEVPREVIEW
+  - 1.11.0.DEVPREVIEW
+  - 1.12.0.DEVPREVIEW
+  - 1.13.0.DEVPREVIEW
+  - 1.13.1.DEVPREVIEW
+  - 1.14.0.DEVPREVIEW
+  - 1.15.0.DEVPREVIEW
+  lastUpdated: 20191107000315
