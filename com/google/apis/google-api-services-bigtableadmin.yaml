@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-bigtableadmin
 versioning:
-  latest: v1-rev7-1.25.0
-  release: v1-rev7-1.25.0
+  latest: v1-rev14-1.25.0
+  release: v1-rev14-1.25.0
   versions:
   - v1-rev2-1.18.0-rc
   - v1-rev2-1.22.0
@@ -30,4 +30,6 @@ versioning:
   - v1-rev6-1.25.0
   - v1-rev7-1.18.0-rc
   - v1-rev7-1.25.0
-  lastUpdated: 20190615150256
+  - v1-rev14-1.18.0-rc
+  - v1-rev14-1.25.0
+  lastUpdated: 20191109100203
