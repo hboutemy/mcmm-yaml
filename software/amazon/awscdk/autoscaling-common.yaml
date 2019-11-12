@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: autoscaling-common
 versioning:
-  latest: 1.15.0.DEVPREVIEW
-  release: 1.15.0.DEVPREVIEW
+  latest: 1.16.0.DEVPREVIEW
+  release: 1.16.0.DEVPREVIEW
   versions:
   - 0.18.0
   - 0.18.1
@@ -55,4 +55,5 @@ versioning:
   - 1.13.1.DEVPREVIEW
   - 1.14.0.DEVPREVIEW
   - 1.15.0.DEVPREVIEW
-  lastUpdated: 20191107000142
+  - 1.16.0.DEVPREVIEW
+  lastUpdated: 20191111181719
