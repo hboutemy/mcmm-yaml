@@ -3,8 +3,8 @@
 groupId: com.atlassian.pom
 artifactId: central-pom
 versioning:
-  latest: 6.0.0
-  release: 6.0.0
+  latest: 6.0.1
+  release: 6.0.1
   versions:
   - 3.0.49
   - 3.0.66
@@ -30,6 +30,7 @@ versioning:
   - 6.0.0-m05
   - 6.0.0-m06
   - 6.0.0
+  - 6.0.1
   - 3.0.100
   - 3.0.103
   - 3.0.104
@@ -141,4 +142,4 @@ versioning:
   - 4.0.7
   - 4.0.8
   - 4.0.9
-  lastUpdated: 20191027234413
+  lastUpdated: 20191112234237
