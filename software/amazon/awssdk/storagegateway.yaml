@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: storagegateway
 versioning:
-  latest: 2.10.15
-  release: 2.10.15
+  latest: 2.10.16
+  release: 2.10.16
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -219,4 +219,5 @@ versioning:
   - 2.10.13
   - 2.10.14
   - 2.10.15
-  lastUpdated: 20191112203238
+  - 2.10.16
+  lastUpdated: 20191113200354

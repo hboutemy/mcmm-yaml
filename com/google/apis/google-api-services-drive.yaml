@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-drive
 versioning:
-  latest: v3-rev20190926-1.30.3
-  release: v3-rev20190926-1.30.3
+  latest: v3-rev20191017-1.30.3
+  release: v3-rev20191017-1.30.3
   versions:
   - v1-rev45-1.13.2-beta
   - v1-rev45-1.14.1-beta
@@ -1543,6 +1543,9 @@ versioning:
   - v2-rev20191015-1.28.0
   - v2-rev20191015-1.29.2
   - v2-rev20191015-1.30.3
+  - v2-rev20191017-1.28.0
+  - v2-rev20191017-1.29.2
+  - v2-rev20191017-1.30.3
   - v3-rev1-1.18.0-rc
   - v3-rev1-1.19.1
   - v3-rev1-1.20.0
@@ -2126,6 +2129,9 @@ versioning:
   - v3-rev20190926-1.28.0
   - v3-rev20190926-1.29.2
   - v3-rev20190926-1.30.3
+  - v3-rev20191017-1.28.0
+  - v3-rev20191017-1.29.2
+  - v3-rev20191017-1.30.3
   - v1-rev126-1.18.0-rc
   - v1-rev126-1.19.0
   - v1-rev126-1.19.1
@@ -2134,4 +2140,4 @@ versioning:
   - v2-rev174-1.19.0
   - v2-rev174-1.19.1
   - v2-rev174-1.20.0
-  lastUpdated: 20191030220122
+  lastUpdated: 20191113002010
