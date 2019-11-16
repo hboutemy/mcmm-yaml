@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wildfly
 artifactId: wildfly-dist
 versioning:
-  latest: 18.0.0.Final
-  release: 18.0.0.Final
+  latest: 18.0.1.Final
+  release: 18.0.1.Final
   versions:
   - 8.0.0.Alpha1
   - 8.0.0.Alpha2
@@ -66,4 +66,5 @@ versioning:
   - 17.0.1.Final
   - 18.0.0.Beta1
   - 18.0.0.Final
-  lastUpdated: 20191003165304
+  - 18.0.1.Final
+  lastUpdated: 20191115024843
