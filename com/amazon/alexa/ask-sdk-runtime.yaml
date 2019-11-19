@@ -1,19 +1,12 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.amazon.alexa
 artifactId: ask-sdk-runtime
 versioning:
-  latest: 2.25.1
-  release: 2.25.1
+  latest: 2.26.0
+  release: 2.26.0
   versions:
-  - 2.7.1
-  - 2.7.2
-  - 2.8.0
-  - 2.8.1
-  - 2.9.0
-  - 2.9.1
-  - 2.9.2
+  - 2.26.0
   - 2.10.0
   - 2.11.0
   - 2.11.1
@@ -38,4 +31,11 @@ versioning:
   - 2.24.0
   - 2.25.0
   - 2.25.1
-  lastUpdated: 20191107000112
+  - 2.7.1
+  - 2.7.2
+  - 2.8.0
+  - 2.8.1
+  - 2.9.0
+  - 2.9.1
+  - 2.9.2
+  lastUpdated: 20191118211001
