@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-android-sdk-appsync-gradle-plugin
 versioning:
-  latest: 2.10.1
-  release: 2.10.1
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 2.6.15
   - 2.6.16
@@ -39,4 +39,5 @@ versioning:
   - 2.9.0
   - 2.10.0
   - 2.10.1
-  lastUpdated: 20191107014000
+  - 3.0.0
+  lastUpdated: 20191121213612

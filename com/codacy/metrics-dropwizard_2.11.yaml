@@ -3,8 +3,8 @@
 groupId: com.codacy
 artifactId: metrics-dropwizard_2.11
 versioning:
-  latest: 2.0.1-allowcustommetricname.75edb3e
-  release: 2.0.1-allowcustommetricname.75edb3e
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 1.0.33
   - 1.0.33-addtracing.5a884ba
@@ -21,4 +21,5 @@ versioning:
   - 2.0.0
   - 2.0.1-allowcustommetricname.1f2e389
   - 2.0.1-allowcustommetricname.75edb3e
-  lastUpdated: 20191112194654
+  - 3.0.0
+  lastUpdated: 20191121120506

@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat
 artifactId: tomcat-tribes
 versioning:
-  latest: 9.0.27
-  release: 9.0.27
+  latest: 9.0.29
+  release: 9.0.29
   versions:
   - 7.0.0
   - 7.0.2
@@ -156,6 +156,7 @@ versioning:
   - 8.5.45
   - 8.5.46
   - 8.5.47
+  - 8.5.49
   - 9.0.0.M1
   - 9.0.0.M3
   - 9.0.0.M4
@@ -196,4 +197,5 @@ versioning:
   - 9.0.24
   - 9.0.26
   - 9.0.27
-  lastUpdated: 20191011104502
+  - 9.0.29
+  lastUpdated: 20191121092655

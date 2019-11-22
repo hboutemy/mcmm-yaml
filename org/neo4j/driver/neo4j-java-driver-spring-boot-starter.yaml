@@ -3,8 +3,8 @@
 groupId: org.neo4j.driver
 artifactId: neo4j-java-driver-spring-boot-starter
 versioning:
-  latest: 4.0.0-beta03
-  release: 4.0.0-beta03
+  latest: 4.0.0-rc1
+  release: 4.0.0-rc1
   versions:
   - 1.0.0-alpha02
   - 1.0.0-alpha03
@@ -13,4 +13,5 @@ versioning:
   - 4.0.0-beta01
   - 4.0.0-beta02
   - 4.0.0-beta03
-  lastUpdated: 20191111084930
+  - 4.0.0-rc1
+  lastUpdated: 20191121135626
