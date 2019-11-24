@@ -3,8 +3,8 @@
 groupId: org.apereo.cas
 artifactId: cas-server-support-u2f-couchdb
 versioning:
-  latest: 6.1.1
-  release: 6.1.1
+  latest: 6.1.2
+  release: 6.1.2
   versions:
   - 6.0.0-RC3
   - 6.0.0-RC4
@@ -16,6 +16,7 @@ versioning:
   - 6.0.5
   - 6.0.5.1
   - 6.0.6
+  - 6.0.7
   - 6.1.0-RC1
   - 6.1.0-RC2
   - 6.1.0-RC3
@@ -24,4 +25,5 @@ versioning:
   - 6.1.0-RC6
   - 6.1.0
   - 6.1.1
-  lastUpdated: 20191031121309
+  - 6.1.2
+  lastUpdated: 20191123152411
