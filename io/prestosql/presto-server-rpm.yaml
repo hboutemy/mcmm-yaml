@@ -3,8 +3,8 @@
 groupId: io.prestosql
 artifactId: presto-server-rpm
 versioning:
-  latest: 325
-  release: 325
+  latest: 326
+  release: 326
   versions:
   - 300
   - 301
@@ -32,4 +32,5 @@ versioning:
   - 323
   - 324
   - 325
-  lastUpdated: 20191114090539
+  - 326
+  lastUpdated: 20191127203838
