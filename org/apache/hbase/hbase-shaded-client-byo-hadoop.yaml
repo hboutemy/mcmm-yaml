@@ -3,8 +3,8 @@
 groupId: org.apache.hbase
 artifactId: hbase-shaded-client-byo-hadoop
 versioning:
-  latest: 2.2.1
-  release: 2.2.1
+  latest: 2.2.2
+  release: 2.2.2
   versions:
   - 2.1.0
   - 2.1.1
@@ -16,4 +16,5 @@ versioning:
   - 2.1.7
   - 2.2.0
   - 2.2.1
-  lastUpdated: 20191008094052
+  - 2.2.2
+  lastUpdated: 20191128072849

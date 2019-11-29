@@ -3,8 +3,8 @@
 groupId: org.eclipse.che.core
 artifactId: che-core-db-vendor-mysql
 versioning:
-  latest: 7.4.0
-  release: 7.4.0
+  latest: 7.5.0
+  release: 7.5.0
   versions:
   - 6.12.0
   - 6.12.1
@@ -45,4 +45,5 @@ versioning:
   - 7.3.1
   - 7.3.2
   - 7.4.0
-  lastUpdated: 20191115165518
+  - 7.5.0
+  lastUpdated: 20191128190408
