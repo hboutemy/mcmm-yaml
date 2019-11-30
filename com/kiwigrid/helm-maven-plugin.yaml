@@ -3,8 +3,8 @@
 groupId: com.kiwigrid
 artifactId: helm-maven-plugin
 versioning:
-  latest: 4.13
-  release: 4.13
+  latest: 5.0
+  release: 5.0
   versions:
   - 1.0
   - 1.1
@@ -43,4 +43,5 @@ versioning:
   - 4.11
   - 4.12
   - 4.13
-  lastUpdated: 20191105125016
+  - 5.0
+  lastUpdated: 20191129204048
