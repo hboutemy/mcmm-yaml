@@ -3,8 +3,8 @@
 groupId: org.apereo.cas
 artifactId: cas-server-support-throttle-jdbc
 versioning:
-  latest: 6.1.2
-  release: 6.1.2
+  latest: 6.2.0-RC1
+  release: 6.2.0-RC1
   versions:
   - 5.0.0.M3
   - 5.0.0.RC1
@@ -93,4 +93,5 @@ versioning:
   - 6.1.0
   - 6.1.1
   - 6.1.2
-  lastUpdated: 20191123152327
+  - 6.2.0-RC1
+  lastUpdated: 20191201205601
