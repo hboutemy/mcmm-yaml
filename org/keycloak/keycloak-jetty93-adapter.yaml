@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-jetty93-adapter
 versioning:
-  latest: 8.0.0
-  release: 8.0.0
+  latest: 8.0.1
+  release: 8.0.1
   versions:
   - 2.1.0.CR1
   - 2.1.0.Final
@@ -57,4 +57,5 @@ versioning:
   - 7.0.0
   - 7.0.1
   - 8.0.0
-  lastUpdated: 20191115164136
+  - 8.0.1
+  lastUpdated: 20191202115945

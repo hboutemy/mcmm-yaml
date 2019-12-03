@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-util-embedded-ldap
 versioning:
-  latest: 8.0.0
-  release: 8.0.0
+  latest: 8.0.1
+  release: 8.0.1
   versions:
   - 1.4.0.Final
   - 1.5.0.Final
@@ -82,5 +82,6 @@ versioning:
   - 7.0.0
   - 7.0.1
   - 8.0.0
+  - 8.0.1
   - 1.5.0-Final
-  lastUpdated: 20191115164212
+  lastUpdated: 20191202120052

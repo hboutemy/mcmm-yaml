@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-distribution-licenses-maven-plugin
 versioning:
-  latest: 8.0.0
-  release: 8.0.0
+  latest: 8.0.1
+  release: 8.0.1
   versions:
   - 3.4.1.CR1
   - 3.4.1.Final
@@ -31,4 +31,5 @@ versioning:
   - 7.0.0
   - 7.0.1
   - 8.0.0
-  lastUpdated: 20191115164131
+  - 8.0.1
+  lastUpdated: 20191202115933

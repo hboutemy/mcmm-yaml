@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-client-adapter-spi-pom
 versioning:
-  latest: 8.0.0
-  release: 8.0.0
+  latest: 8.0.1
+  release: 8.0.1
   versions:
   - 1.9.0.CR1
   - 1.9.0.Final
@@ -68,4 +68,5 @@ versioning:
   - 7.0.0
   - 7.0.1
   - 8.0.0
-  lastUpdated: 20191115164128
+  - 8.0.1
+  lastUpdated: 20191202115926
