@@ -3,8 +3,8 @@
 groupId: org.wildfly.security
 artifactId: wildfly-elytron-http-cert
 versioning:
-  latest: 2.0.0.Alpha5
-  release: 2.0.0.Alpha5
+  latest: 2.0.0.Alpha6
+  release: 2.0.0.Alpha6
   versions:
   - 1.9.0.CR1
   - 1.9.0.CR2
@@ -26,9 +26,11 @@ versioning:
   - 1.10.4.Final
   - 1.11.0.CR1
   - 1.11.0.CR2
+  - 1.11.0.CR3
   - 2.0.0.Alpha1
   - 2.0.0.Alpha2
   - 2.0.0.Alpha3
   - 2.0.0.Alpha4
   - 2.0.0.Alpha5
-  lastUpdated: 20191118185520
+  - 2.0.0.Alpha6
+  lastUpdated: 20191203190045

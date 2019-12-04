@@ -3,8 +3,8 @@
 groupId: org.locationtech.geomesa
 artifactId: geomesa-bigtable-spark_2.11
 versioning:
-  latest: 2.3.2
-  release: 2.3.2
+  latest: 2.4.0
+  release: 2.4.0
   versions:
   - 1.3.4
   - 1.3.6
@@ -24,4 +24,5 @@ versioning:
   - 2.3.0
   - 2.3.1
   - 2.3.2
-  lastUpdated: 20191107231435
+  - 2.4.0
+  lastUpdated: 20191203003444
