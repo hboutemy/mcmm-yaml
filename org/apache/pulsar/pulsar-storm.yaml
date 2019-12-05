@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: pulsar-storm
 versioning:
-  latest: 2.4.1
-  release: 2.4.1
+  latest: 2.4.2
+  release: 2.4.2
   versions:
   - 1.19.0-incubating
   - 1.20.0-incubating
@@ -22,4 +22,5 @@ versioning:
   - 2.3.2
   - 2.4.0
   - 2.4.1
-  lastUpdated: 20190903062352
+  - 2.4.2
+  lastUpdated: 20191204051853
