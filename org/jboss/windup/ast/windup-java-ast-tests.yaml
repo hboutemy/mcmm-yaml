@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.windup.ast
 artifactId: windup-java-ast-tests
 versioning:
-  latest: 4.3.0.Alpha2
-  release: 4.3.0.Alpha2
+  latest: 4.3.0.Beta1
+  release: 4.3.0.Beta1
   versions:
   - 2.2.0.Final
   - 2.3.0.Final
@@ -39,4 +39,5 @@ versioning:
   - 4.2.1.Final
   - 4.3.0.Alpha1
   - 4.3.0.Alpha2
-  lastUpdated: 20191122113414
+  - 4.3.0.Beta1
+  lastUpdated: 20191205095726

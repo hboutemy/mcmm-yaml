@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.windup
 artifactId: rhamt-cli
 versioning:
-  latest: 4.3.0.Alpha2
-  release: 4.3.0.Alpha2
+  latest: 4.3.0.Beta1
+  release: 4.3.0.Beta1
   versions:
   - 4.0.0.Beta1
   - 4.0.0.Beta2
@@ -24,4 +24,5 @@ versioning:
   - 4.2.1.Final
   - 4.3.0.Alpha1
   - 4.3.0.Alpha2
-  lastUpdated: 20191122113525
+  - 4.3.0.Beta1
+  lastUpdated: 20191205095838
