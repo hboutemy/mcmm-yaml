@@ -3,8 +3,8 @@
 groupId: de.adorsys.psd2
 artifactId: cms-db-schema
 versioning:
-  latest: 5.5
-  release: 5.5
+  latest: 5.6
+  release: 5.6
   versions:
   - 1.9
   - 1.10-RC1
@@ -69,6 +69,7 @@ versioning:
   - 4.3
   - 4.4
   - 4.5
+  - 4.6
   - 5.0
   - 5.0.1
   - 5.1
@@ -77,4 +78,5 @@ versioning:
   - 5.3
   - 5.4
   - 5.5
-  lastUpdated: 20191122101842
+  - 5.6
+  lastUpdated: 20191206140022
