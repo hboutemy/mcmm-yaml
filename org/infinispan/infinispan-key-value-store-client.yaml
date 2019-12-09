@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-key-value-store-client
 versioning:
-  latest: 10.1.0.Beta1
-  release: 10.1.0.Beta1
+  latest: 10.1.0.CR1
+  release: 10.1.0.CR1
   versions:
   - 10.0.0.Beta4
   - 10.0.0.Beta5
@@ -14,4 +14,5 @@ versioning:
   - 10.0.0.Final
   - 10.0.1.Final
   - 10.1.0.Beta1
-  lastUpdated: 20191116104939
+  - 10.1.0.CR1
+  lastUpdated: 20191208135803

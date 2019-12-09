@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-cachestore-jdbc
 versioning:
-  latest: 10.1.0.Beta1
-  release: 10.1.0.Beta1
+  latest: 10.1.0.CR1
+  release: 10.1.0.CR1
   versions:
   - 5.0.0.FINAL
   - 5.0.1.FINAL
@@ -219,6 +219,7 @@ versioning:
   - 9.4.14.Final
   - 9.4.15.Final
   - 9.4.16.Final
+  - 9.4.17.Final
   - 10.0.0.Alpha1
   - 10.0.0.Alpha2
   - 10.0.0.Alpha3
@@ -233,4 +234,5 @@ versioning:
   - 10.0.0.Final
   - 10.0.1.Final
   - 10.1.0.Beta1
-  lastUpdated: 20191116104920
+  - 10.1.0.CR1
+  lastUpdated: 20191208192245

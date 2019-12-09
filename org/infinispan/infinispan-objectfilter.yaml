@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-objectfilter
 versioning:
-  latest: 10.1.0.Beta1
-  release: 10.1.0.Beta1
+  latest: 10.1.0.CR1
+  release: 10.1.0.CR1
   versions:
   - 7.0.0.Alpha4
   - 7.0.0.Alpha5
@@ -139,6 +139,7 @@ versioning:
   - 9.4.14.Final
   - 9.4.15.Final
   - 9.4.16.Final
+  - 9.4.17.Final
   - 10.0.0.Alpha1
   - 10.0.0.Alpha2
   - 10.0.0.Alpha3
@@ -153,4 +154,5 @@ versioning:
   - 10.0.0.Final
   - 10.0.1.Final
   - 10.1.0.Beta1
-  lastUpdated: 20191116104943
+  - 10.1.0.CR1
+  lastUpdated: 20191208192311

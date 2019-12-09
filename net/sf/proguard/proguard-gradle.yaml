@@ -3,8 +3,8 @@
 groupId: net.sf.proguard
 artifactId: proguard-gradle
 versioning:
-  latest: 6.2.0
-  release: 6.2.0
+  latest: 6.3.0beta1
+  release: 6.3.0beta1
   versions:
   - 4.9
   - 4.10
@@ -26,4 +26,7 @@ versioning:
   - 6.1.0
   - 6.1.1
   - 6.2.0
-  lastUpdated: 20191004132548
+  - 6.2.1
+  - 6.2.2
+  - 6.3.0beta1
+  lastUpdated: 20191208164529
