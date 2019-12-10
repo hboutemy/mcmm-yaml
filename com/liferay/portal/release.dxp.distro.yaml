@@ -4,7 +4,7 @@ groupId: com.liferay.portal
 artifactId: release.dxp.distro
 versioning:
   latest: 7.1.10.fp11
-  release: 7.1.10.3
+  release: 7.0.10.fp87-1
   versions:
   - 7.0.10.fp60
   - 7.0.10.fp61
@@ -52,4 +52,7 @@ versioning:
   - 7.0.10.fp86
   - 7.0.10.fp87
   - 7.1.10.3
-  lastUpdated: 20191126202717
+  - 7.0.10.fp85-1
+  - 7.0.10.fp86-1
+  - 7.0.10.fp87-1
+  lastUpdated: 20191209195647

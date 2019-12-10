@@ -4,7 +4,7 @@ groupId: com.liferay.portal
 artifactId: release.dxp.bom.third.party
 versioning:
   latest: 7.1.10.1
-  release: 7.1.10.3
+  release: 7.0.10.fp87-1
   versions:
   - 7.0.10.fp60
   - 7.0.10.fp61
@@ -60,4 +60,7 @@ versioning:
   - 7.0.10.fp87
   - 7.2.1
   - 7.1.10.3
-  lastUpdated: 20191126202708
+  - 7.0.10.fp85-1
+  - 7.0.10.fp86-1
+  - 7.0.10.fp87-1
+  lastUpdated: 20191209195638

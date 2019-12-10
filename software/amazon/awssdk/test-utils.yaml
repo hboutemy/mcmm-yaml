@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: test-utils
 versioning:
-  latest: 2.10.30
-  release: 2.10.30
+  latest: 2.10.31
+  release: 2.10.31
   versions:
   - 2.0.0
   - 2.0.0-preview-1
@@ -240,4 +240,5 @@ versioning:
   - 2.10.28
   - 2.10.29
   - 2.10.30
-  lastUpdated: 20191205022536
+  - 2.10.31
+  lastUpdated: 20191209205424

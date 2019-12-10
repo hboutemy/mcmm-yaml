@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-lucene-index
 versioning:
-  latest: 3.5.13
-  release: 3.5.13
+  latest: 4.0.0-rc01
+  release: 4.0.0-rc01
   versions:
   - 0.2-1.2.M02
   - 0.2-1.2.M03
@@ -281,4 +281,5 @@ versioning:
   - 3.5.11
   - 3.5.12
   - 3.5.13
-  lastUpdated: 20191127110611
+  - 4.0.0-rc01
+  lastUpdated: 20191209105530

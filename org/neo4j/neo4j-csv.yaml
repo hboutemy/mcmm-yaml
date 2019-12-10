@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-csv
 versioning:
-  latest: 3.5.13
-  release: 3.5.13
+  latest: 4.0.0-rc01
+  release: 4.0.0-rc01
   versions:
   - 2.2.0-M01
   - 2.2.0-M02
@@ -186,4 +186,5 @@ versioning:
   - 3.5.11
   - 3.5.12
   - 3.5.13
-  lastUpdated: 20191127110504
+  - 4.0.0-rc01
+  lastUpdated: 20191209105400

@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-consistency-check
 versioning:
-  latest: 3.5.13
-  release: 3.5.13
+  latest: 4.0.0-rc01
+  release: 4.0.0-rc01
   versions:
   - 1.8.1
   - 1.8.2
@@ -232,4 +232,5 @@ versioning:
   - 3.5.11
   - 3.5.12
   - 3.5.13
-  lastUpdated: 20191127110502
+  - 4.0.0-rc01
+  lastUpdated: 20191209105358
