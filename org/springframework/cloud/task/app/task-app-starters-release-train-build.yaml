@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud.task.app
 artifactId: task-app-starters-release-train-build
 versioning:
-  latest: Elston.RELEASE
-  release: Elston.RELEASE
+  latest: Elston.SR1
+  release: Elston.SR1
   versions:
   - Addison.RELEASE
   - Belmont.RELEASE
@@ -13,4 +13,5 @@ versioning:
   - Dearborn.RELEASE
   - Dearborn.SR1
   - Elston.RELEASE
-  lastUpdated: 20190306181726
+  - Elston.SR1
+  lastUpdated: 20191210163800

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.windup.rules.apps
 artifactId: windup-rules-base-tests
 versioning:
-  latest: 4.3.0.Beta1
-  release: 4.3.0.Beta1
+  latest: 4.3.0.Final
+  release: 4.3.0.Final
   versions:
   - 2.2.0.Final
   - 2.3.0.Final
@@ -40,4 +40,5 @@ versioning:
   - 4.3.0.Alpha1
   - 4.3.0.Alpha2
   - 4.3.0.Beta1
-  lastUpdated: 20191205095846
+  - 4.3.0.Final
+  lastUpdated: 20191210120442

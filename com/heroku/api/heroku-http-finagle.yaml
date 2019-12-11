@@ -3,8 +3,8 @@
 groupId: com.heroku.api
 artifactId: heroku-http-finagle
 versioning:
-  latest: 0.37
-  release: 0.37
+  latest: 0.40
+  release: 0.40
   versions:
   - 0.10
   - 0.11
@@ -34,4 +34,6 @@ versioning:
   - 0.35
   - 0.36
   - 0.37
-  lastUpdated: 20190905113416
+  - 0.39
+  - 0.40
+  lastUpdated: 20191210182410

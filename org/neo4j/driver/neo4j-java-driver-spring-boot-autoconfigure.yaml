@@ -3,8 +3,8 @@
 groupId: org.neo4j.driver
 artifactId: neo4j-java-driver-spring-boot-autoconfigure
 versioning:
-  latest: 4.0.0-rc2
-  release: 4.0.0-rc2
+  latest: 4.0.0
+  release: 4.0.0
   versions:
   - 1.0.0-alpha02
   - 1.0.0-alpha03
@@ -15,4 +15,5 @@ versioning:
   - 4.0.0-beta03
   - 4.0.0-rc1
   - 4.0.0-rc2
-  lastUpdated: 20191206102300
+  - 4.0.0
+  lastUpdated: 20191210164203
