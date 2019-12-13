@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat
 artifactId: tomcat-dbcp
 versioning:
-  latest: 9.0.29
-  release: 9.0.29
+  latest: 9.0.30
+  release: 9.0.30
   versions:
   - 7.0.0
   - 7.0.2
@@ -157,6 +157,7 @@ versioning:
   - 8.5.46
   - 8.5.47
   - 8.5.49
+  - 8.5.50
   - 9.0.0.M1
   - 9.0.0.M3
   - 9.0.0.M4
@@ -198,4 +199,5 @@ versioning:
   - 9.0.26
   - 9.0.27
   - 9.0.29
-  lastUpdated: 20191121092651
+  - 9.0.30
+  lastUpdated: 20191212113238
