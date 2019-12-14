@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.protobuf
 artifactId: protoc
 versioning:
-  latest: 3.11.1
-  release: 3.11.1
+  latest: 3.11.2
+  release: 3.11.2
   versions:
   - 2.5.0
   - 2.6.1
@@ -49,4 +49,5 @@ versioning:
   - 3.11.0-rc-2
   - 3.11.0
   - 3.11.1
-  lastUpdated: 20191202232841
+  - 3.11.2
+  lastUpdated: 20191213174522

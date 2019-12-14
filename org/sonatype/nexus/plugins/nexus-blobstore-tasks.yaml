@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.plugins
 artifactId: nexus-blobstore-tasks
 versioning:
-  latest: 3.20.0-02
-  release: 3.20.0-02
+  latest: 3.20.0-04
+  release: 3.20.0-04
   versions:
   - 3.5.0-02
   - 3.5.1-02
@@ -36,4 +36,5 @@ versioning:
   - 3.19.0-01
   - 3.19.1-01
   - 3.20.0-02
-  lastUpdated: 20191203203420
+  - 3.20.0-04
+  lastUpdated: 20191213221145

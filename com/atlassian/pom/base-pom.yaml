@@ -3,8 +3,8 @@
 groupId: com.atlassian.pom
 artifactId: base-pom
 versioning:
-  latest: 6.0.2-m17
-  release: 6.0.2-m17
+  latest: 6.0.2
+  release: 6.0.2
   versions:
   - 5.0.10
   - 5.0.11
@@ -44,6 +44,7 @@ versioning:
   - 6.0.2-m15
   - 6.0.2-m16
   - 6.0.2-m17
+  - 6.0.2
   - 3.0.100
   - 3.0.103
   - 3.0.104
@@ -158,4 +159,4 @@ versioning:
   - 4.0.7
   - 4.0.8
   - 4.0.9
-  lastUpdated: 20191118104444
+  lastUpdated: 20191213044712

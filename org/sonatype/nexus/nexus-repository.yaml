@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus
 artifactId: nexus-repository
 versioning:
-  latest: 3.20.0-02
-  release: 3.20.0-02
+  latest: 3.20.0-04
+  release: 3.20.0-04
   versions:
   - 3.0.0-b2015020701
   - 3.0.0-b2015061001
@@ -51,4 +51,5 @@ versioning:
   - 3.19.0-01
   - 3.19.1-01
   - 3.20.0-02
-  lastUpdated: 20191203203408
+  - 3.20.0-04
+  lastUpdated: 20191213221135
