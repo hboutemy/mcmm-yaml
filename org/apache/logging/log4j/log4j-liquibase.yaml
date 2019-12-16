@@ -3,8 +3,8 @@
 groupId: org.apache.logging.log4j
 artifactId: log4j-liquibase
 versioning:
-  latest: 2.12.1
-  release: 2.12.1
+  latest: 2.13.0
+  release: 2.13.0
   versions:
   - 2.4
   - 2.4.1
@@ -24,4 +24,5 @@ versioning:
   - 2.11.2
   - 2.12.0
   - 2.12.1
-  lastUpdated: 20190809032228
+  - 2.13.0
+  lastUpdated: 20191215071610
