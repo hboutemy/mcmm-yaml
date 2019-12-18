@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-random-values
 versioning:
-  latest: 4.0.0-rc01
-  release: 4.0.0-rc01
+  latest: 4.0.0
+  release: 4.0.0
   versions:
   - 3.5.0-alpha01
   - 3.5.0-alpha02
@@ -33,5 +33,7 @@ versioning:
   - 3.5.11
   - 3.5.12
   - 3.5.13
+  - 3.5.14
   - 4.0.0-rc01
-  lastUpdated: 20191209105545
+  - 4.0.0
+  lastUpdated: 20191217125006

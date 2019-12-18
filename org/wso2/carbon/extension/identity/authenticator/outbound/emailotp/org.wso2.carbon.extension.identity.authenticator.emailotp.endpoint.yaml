@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.extension.identity.authenticator.outbound.emailotp
 artifactId: org.wso2.carbon.extension.identity.authenticator.emailotp.endpoint
 versioning:
-  latest: 2.0.33
-  release: 2.0.33
+  latest: 2.0.35
+  release: 2.0.35
   versions:
   - 2.0.3
   - 2.0.4
@@ -27,4 +27,6 @@ versioning:
   - 2.0.31
   - 2.0.32
   - 2.0.33
-  lastUpdated: 20191212072848
+  - 2.0.34
+  - 2.0.35
+  lastUpdated: 20191217050420

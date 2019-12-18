@@ -3,8 +3,8 @@
 groupId: org.hibernate.elasticsearch-client-jbossmodules
 artifactId: elasticsearch-client-jbossmodules-parent
 versioning:
-  latest: 5.6.8.hibernate02
-  release: 5.6.8.hibernate02
+  latest: 5.6.16.hibernate01
+  release: 5.6.16.hibernate01
   versions:
   - 5.6.4.hibernate01
   - 5.6.4.hibernate02
@@ -13,4 +13,5 @@ versioning:
   - 5.6.7.hibernate01
   - 5.6.8.hibernate01
   - 5.6.8.hibernate02
-  lastUpdated: 20190509093447
+  - 5.6.16.hibernate01
+  lastUpdated: 20191217171713

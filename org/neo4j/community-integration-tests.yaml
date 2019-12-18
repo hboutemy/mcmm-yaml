@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: community-integration-tests
 versioning:
-  latest: 4.0.0-rc01
-  release: 4.0.0-rc01
+  latest: 4.0.0
+  release: 4.0.0
   versions:
   - 3.5.0-alpha02
   - 3.5.0-alpha03
@@ -32,5 +32,7 @@ versioning:
   - 3.5.11
   - 3.5.12
   - 3.5.13
+  - 3.5.14
   - 4.0.0-rc01
-  lastUpdated: 20191209105314
+  - 4.0.0
+  lastUpdated: 20191217124819

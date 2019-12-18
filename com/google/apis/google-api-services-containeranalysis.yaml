@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-containeranalysis
 versioning:
-  latest: v1beta1-rev20191118-1.30.3
-  release: v1beta1-rev20191118-1.30.3
+  latest: v1beta1-rev20191209-1.30.3
+  release: v1beta1-rev20191209-1.30.3
   versions:
   - v1alpha1-rev7-1.18.0-rc
   - v1alpha1-rev7-1.22.0
@@ -109,6 +109,9 @@ versioning:
   - v1alpha1-rev20191118-1.28.0
   - v1alpha1-rev20191118-1.29.2
   - v1alpha1-rev20191118-1.30.3
+  - v1alpha1-rev20191209-1.28.0
+  - v1alpha1-rev20191209-1.29.2
+  - v1alpha1-rev20191209-1.30.3
   - v1beta1-rev7-1.18.0-rc
   - v1beta1-rev7-1.22.0
   - v1beta1-rev7-1.23.0
@@ -212,4 +215,7 @@ versioning:
   - v1beta1-rev20191118-1.28.0
   - v1beta1-rev20191118-1.29.2
   - v1beta1-rev20191118-1.30.3
-  lastUpdated: 20191122225628
+  - v1beta1-rev20191209-1.28.0
+  - v1beta1-rev20191209-1.29.2
+  - v1beta1-rev20191209-1.30.3
+  lastUpdated: 20191217231655

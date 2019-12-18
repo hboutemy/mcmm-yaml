@@ -3,8 +3,8 @@
 groupId: com.hazelcast
 artifactId: hazelcast-root
 versioning:
-  latest: 4.0-BETA-1
-  release: 4.0-BETA-1
+  latest: 4.0-BETA-2
+  release: 4.0-BETA-2
   versions:
   - 1.9.2
   - 1.9.2.1
@@ -170,6 +170,7 @@ versioning:
   - 3.12.4
   - 3.12.5
   - 4.0-BETA-1
+  - 4.0-BETA-2
   - 1.7
   - 1.7-RC2
   - 1.7-RC3
@@ -189,4 +190,4 @@ versioning:
   - 3.4.3
   - 3.4.4
   - 3.5
-  lastUpdated: 20191210122620
+  lastUpdated: 20191217105253
