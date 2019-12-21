@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud
 artifactId: spring-cloud-dependencies
 versioning:
-  latest: Hoxton.RELEASE
-  release: Hoxton.RELEASE
+  latest: Hoxton.SR1
+  release: Hoxton.SR1
   versions:
   - Angel.SR5
   - Angel.SR6
@@ -48,4 +48,5 @@ versioning:
   - Greenwich.SR3
   - Greenwich.SR4
   - Hoxton.RELEASE
-  lastUpdated: 20191127010055
+  - Hoxton.SR1
+  lastUpdated: 20191220161046
