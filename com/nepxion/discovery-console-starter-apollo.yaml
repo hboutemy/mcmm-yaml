@@ -3,8 +3,8 @@
 groupId: com.nepxion
 artifactId: discovery-console-starter-apollo
 versioning:
-  latest: 5.5.7
-  release: 5.5.7
+  latest: 5.5.8
+  release: 5.5.8
   versions:
   - Edgware.1.0.0
   - Finchley.1.0.0
@@ -68,6 +68,7 @@ versioning:
   - 3.13.5
   - 3.13.6
   - 3.13.7
+  - 3.13.8
   - 4.7.12
   - 4.8.0-RC1
   - 4.8.0
@@ -128,6 +129,7 @@ versioning:
   - 4.13.5
   - 4.13.6
   - 4.13.7
+  - 4.13.8
   - 5.0.0
   - 5.0.0.1
   - 5.0.0.2
@@ -172,4 +174,5 @@ versioning:
   - 5.5.5
   - 5.5.6
   - 5.5.7
-  lastUpdated: 20191216131245
+  - 5.5.8
+  lastUpdated: 20191222225648
