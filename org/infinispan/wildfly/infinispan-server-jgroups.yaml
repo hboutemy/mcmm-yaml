@@ -3,12 +3,13 @@
 groupId: org.infinispan.wildfly
 artifactId: infinispan-server-jgroups
 versioning:
-  latest: 10.1.0.CR1
-  release: 10.1.0.CR1
+  latest: 10.1.0.Final
+  release: 10.1.0.Final
   versions:
   - 10.0.0.CR3
   - 10.0.0.Final
   - 10.0.1.Final
   - 10.1.0.Beta1
   - 10.1.0.CR1
-  lastUpdated: 20191208135823
+  - 10.1.0.Final
+  lastUpdated: 20191223090207

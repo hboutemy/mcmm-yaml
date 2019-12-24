@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-marshaller-kryo-bundle
 versioning:
-  latest: 10.1.0.CR1
-  release: 10.1.0.CR1
+  latest: 10.1.0.Final
+  release: 10.1.0.Final
   versions:
   - 9.0.0.Beta1
   - 9.0.0.Beta2
@@ -88,4 +88,5 @@ versioning:
   - 10.0.1.Final
   - 10.1.0.Beta1
   - 10.1.0.CR1
-  lastUpdated: 20191208192308
+  - 10.1.0.Final
+  lastUpdated: 20191223090152

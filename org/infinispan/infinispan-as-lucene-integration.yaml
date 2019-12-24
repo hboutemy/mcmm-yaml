@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-as-lucene-integration
 versioning:
-  latest: 10.1.0.CR1
-  release: 10.1.0.CR1
+  latest: 10.1.0.Final
+  release: 10.1.0.Final
   versions:
   - 9.0.0.Beta1
   - 9.3.0.Alpha1
@@ -55,4 +55,5 @@ versioning:
   - 10.0.1.Final
   - 10.1.0.Beta1
   - 10.1.0.CR1
-  lastUpdated: 20191208192243
+  - 10.1.0.Final
+  lastUpdated: 20191223090129
