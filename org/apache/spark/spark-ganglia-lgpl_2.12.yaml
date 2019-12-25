@@ -3,8 +3,8 @@
 groupId: org.apache.spark
 artifactId: spark-ganglia-lgpl_2.12
 versioning:
-  latest: 3.0.0-preview
-  release: 3.0.0-preview
+  latest: 3.0.0-preview2
+  release: 3.0.0-preview2
   versions:
   - 2.4.0
   - 2.4.1
@@ -12,4 +12,5 @@ versioning:
   - 2.4.3
   - 2.4.4
   - 3.0.0-preview
-  lastUpdated: 20191106205541
+  - 3.0.0-preview2
+  lastUpdated: 20191224185951
