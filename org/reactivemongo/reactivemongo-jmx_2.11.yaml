@@ -3,8 +3,8 @@
 groupId: org.reactivemongo
 artifactId: reactivemongo-jmx_2.11
 versioning:
-  latest: 0.19.5
-  release: 0.19.5
+  latest: 0.19.7-noshaded
+  release: 0.19.7-noshaded
   versions:
   - 0.12-RC0
   - 0.12-RC1
@@ -49,4 +49,8 @@ versioning:
   - 0.19.3
   - 0.19.4
   - 0.19.5
-  lastUpdated: 20191219200028
+  - 0.19.6
+  - 0.19.6-noshaded
+  - 0.19.7
+  - 0.19.7-noshaded
+  lastUpdated: 20191228034326

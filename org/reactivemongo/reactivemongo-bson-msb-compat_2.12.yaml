@@ -3,8 +3,8 @@
 groupId: org.reactivemongo
 artifactId: reactivemongo-bson-msb-compat_2.12
 versioning:
-  latest: 0.19.5
-  release: 0.19.5
+  latest: 0.19.7-noshaded
+  release: 0.19.7-noshaded
   versions:
   - 0.18.0
   - 0.18.4
@@ -16,4 +16,8 @@ versioning:
   - 0.19.3
   - 0.19.4
   - 0.19.5
-  lastUpdated: 20191219195906
+  - 0.19.6
+  - 0.19.6-noshaded
+  - 0.19.7
+  - 0.19.7-noshaded
+  lastUpdated: 20191228034155
