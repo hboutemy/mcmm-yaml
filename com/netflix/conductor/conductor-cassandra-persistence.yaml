@@ -3,8 +3,8 @@
 groupId: com.netflix.conductor
 artifactId: conductor-cassandra-persistence
 versioning:
-  latest: 2.22.5
-  release: 2.22.5
+  latest: 2.22.6
+  release: 2.22.6
   versions:
   - 2.3.0
   - 2.4.0
@@ -107,4 +107,5 @@ versioning:
   - 2.22.4
   - 2.22.5-alpha
   - 2.22.5
-  lastUpdated: 20191218182844
+  - 2.22.6
+  lastUpdated: 20200102221556
