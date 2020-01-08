@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-cloudfront
 versioning:
-  latest: 1.11.700
-  release: 1.11.700
+  latest: 1.11.702
+  release: 1.11.702
   versions:
   - 1.9.0
   - 1.9.1
@@ -834,4 +834,6 @@ versioning:
   - 1.11.698
   - 1.11.699
   - 1.11.700
-  lastUpdated: 20200102221552
+  - 1.11.701
+  - 1.11.702
+  lastUpdated: 20200107221001
