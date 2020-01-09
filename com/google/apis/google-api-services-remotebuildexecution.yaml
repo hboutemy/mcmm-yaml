@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-remotebuildexecution
 versioning:
-  latest: v2-rev20191211-1.30.3
-  release: v2-rev20191211-1.30.3
+  latest: v2-rev20200102-1.30.3
+  release: v2-rev20200102-1.30.3
   versions:
   - v1alpha-rev7-1.18.0-rc
   - v1alpha-rev7-1.22.0
@@ -243,6 +243,9 @@ versioning:
   - v1-rev20191211-1.28.0
   - v1-rev20191211-1.29.2
   - v1-rev20191211-1.30.3
+  - v1-rev20200102-1.28.0
+  - v1-rev20200102-1.29.2
+  - v1-rev20200102-1.30.3
   - v2-rev7-1.18.0-rc
   - v2-rev7-1.22.0
   - v2-rev7-1.23.0
@@ -360,4 +363,7 @@ versioning:
   - v2-rev20191211-1.28.0
   - v2-rev20191211-1.29.2
   - v2-rev20191211-1.30.3
-  lastUpdated: 20200107010413
+  - v2-rev20200102-1.28.0
+  - v2-rev20200102-1.29.2
+  - v2-rev20200102-1.30.3
+  lastUpdated: 20200108004719
