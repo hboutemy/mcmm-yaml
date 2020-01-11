@@ -3,9 +3,10 @@
 groupId: com.graphhopper
 artifactId: directions-api-client-hc
 versioning:
-  latest: 1.0-pre15
-  release: 1.0-pre15
+  latest: 1.0-pre16
+  release: 1.0-pre16
   versions:
+  - feature_1850_01
   - 0.10.alpha1
   - 0.10.alpha2
   - 0.10.alpha3
@@ -71,4 +72,5 @@ versioning:
   - 1.0-pre13
   - 1.0-pre14
   - 1.0-pre15
-  lastUpdated: 20200104120822
+  - 1.0-pre16
+  lastUpdated: 20200110170620

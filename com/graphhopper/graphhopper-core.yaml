@@ -3,9 +3,10 @@
 groupId: com.graphhopper
 artifactId: graphhopper-core
 versioning:
-  latest: 1.0-pre15
-  release: 1.0-pre15
+  latest: 1.0-pre16
+  release: 1.0-pre16
   versions:
+  - feature_1850_01
   - 0.8.0-RC2
   - 0.8.0
   - 0.8.2
@@ -75,4 +76,5 @@ versioning:
   - 1.0-pre13
   - 1.0-pre14
   - 1.0-pre15
-  lastUpdated: 20200104120824
+  - 1.0-pre16
+  lastUpdated: 20200110170622

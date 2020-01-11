@@ -3,8 +3,8 @@
 groupId: io.prestosql.hadoop
 artifactId: hadoop-apache
 versioning:
-  latest: 3.2.0-5
-  release: 3.2.0-5
+  latest: 3.2.0-6
+  release: 3.2.0-6
   versions:
   - 2.7.4-6
   - 2.7.4-7
@@ -15,4 +15,5 @@ versioning:
   - 3.2.0-3
   - 3.2.0-4
   - 3.2.0-5
-  lastUpdated: 20191231002120
+  - 3.2.0-6
+  lastUpdated: 20200110050037
