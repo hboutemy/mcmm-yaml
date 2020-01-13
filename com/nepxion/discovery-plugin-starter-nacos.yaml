@@ -3,8 +3,8 @@
 groupId: com.nepxion
 artifactId: discovery-plugin-starter-nacos
 versioning:
-  latest: 5.5.12
-  release: 5.5.12
+  latest: 5.5.13
+  release: 5.5.13
   versions:
   - Edgware.1.0.0
   - Finchley.1.0.0
@@ -72,6 +72,7 @@ versioning:
   - 3.13.10
   - 3.13.11
   - 3.13.12
+  - 3.13.13
   - 4.8.0-RC1
   - 4.8.0
   - 4.8.1
@@ -136,6 +137,7 @@ versioning:
   - 4.13.10
   - 4.13.11
   - 4.13.12
+  - 4.13.13
   - 5.0.0
   - 5.0.0.1
   - 5.0.0.2
@@ -185,4 +187,5 @@ versioning:
   - 5.5.10
   - 5.5.11
   - 5.5.12
-  lastUpdated: 20200110084550
+  - 5.5.13
+  lastUpdated: 20200112051755
