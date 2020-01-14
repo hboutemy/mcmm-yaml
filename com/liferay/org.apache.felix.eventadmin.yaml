@@ -1,9 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: org.apache.felix.eventadmin
 versioning:
+  latest: 1.5.0.LIFERAY-PATCHED-1
   release: 1.5.0.LIFERAY-PATCHED-1
   versions:
   - 1.5.0.LIFERAY-PATCHED-1
-  lastUpdated: 20190725223750
+  lastUpdated: 20200113210931

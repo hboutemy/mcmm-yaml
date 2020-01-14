@@ -1,13 +1,15 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.headless.discovery
 versioning:
-  release: 1.0.2
+  latest: 3.0.0
+  release: 3.0.0
   versions:
-  - 2.0.0
-  - 2.0.1
-  - 1.0.2
   - 1.0.0
   - 1.0.1
-  lastUpdated: 20200107015003
+  - 1.0.2
+  - 2.0.0
+  - 2.0.1
+  lastUpdated: 20200113201309

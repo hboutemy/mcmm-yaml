@@ -1,13 +1,15 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.template.react.renderer.api
 versioning:
-  release: 3.0.0
+  latest: 4.0.0
+  release: 4.0.0
   versions:
+  - 1.0.0
   - 1.0.1
   - 1.0.2
   - 2.0.0
   - 3.0.0
-  - 1.0.0
-  lastUpdated: 20191126215118
+  lastUpdated: 20200113204956
