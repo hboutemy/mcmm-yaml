@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.tools.java.parser
 versioning:
-  latest: 1.0.18
+  latest: 1.0.28
   release: 1.0.28
   versions:
   - 1.0.0
@@ -35,4 +36,4 @@ versioning:
   - 1.0.26
   - 1.0.27
   - 1.0.28
-  lastUpdated: 20191209192613
+  lastUpdated: 20200114031339

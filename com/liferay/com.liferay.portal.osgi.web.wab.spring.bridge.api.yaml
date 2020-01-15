@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.osgi.web.wab.spring.bridge.api
 versioning:
-  latest: 2.0.1
-  release: 1.0.14
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -15,15 +16,15 @@ versioning:
   - 1.0.7
   - 1.0.8
   - 1.0.9
-  - 2.0.0
-  - 2.0.1
   - 1.0.10
-  - 2.0.2
   - 1.0.11
-  - 2.0.3
-  - 2.0.4
   - 1.0.12
   - 1.0.13
-  - 2.0.5
   - 1.0.14
-  lastUpdated: 20191217034915
+  - 2.0.0
+  - 2.0.1
+  - 2.0.2
+  - 2.0.3
+  - 2.0.4
+  - 2.0.5
+  lastUpdated: 20200114220020

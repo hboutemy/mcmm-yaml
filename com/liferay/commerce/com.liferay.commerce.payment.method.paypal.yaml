@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.payment.method.paypal
 versioning:
-  latest: 1.0.9
+  latest: 1.0.17
   release: 1.0.17
   versions:
   - 1.0.0
@@ -24,4 +25,4 @@ versioning:
   - 1.0.15
   - 1.0.16
   - 1.0.17
-  lastUpdated: 20191217054543
+  lastUpdated: 20200114054243

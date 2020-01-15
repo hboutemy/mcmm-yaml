@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.tax.service
 versioning:
-  latest: 1.0.13
+  latest: 1.0.22
   release: 1.0.22
   versions:
   - 1.0.0
@@ -29,4 +30,4 @@ versioning:
   - 1.0.20
   - 1.0.21
   - 1.0.22
-  lastUpdated: 20200110043341
+  lastUpdated: 20200114085820
