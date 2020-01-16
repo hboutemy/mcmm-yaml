@@ -3,8 +3,8 @@
 groupId: org.opendaylight.mdsal
 artifactId: odl-mdsal-dom-broker
 versioning:
-  latest: 5.0.6
-  release: 5.0.6
+  latest: 5.0.7
+  release: 5.0.7
   versions:
   - 2.2.0-Carbon
   - 2.2.1-Carbon
@@ -39,6 +39,7 @@ versioning:
   - 3.0.12
   - 3.0.13
   - 3.0.14
+  - 3.0.15
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -48,6 +49,7 @@ versioning:
   - 4.0.6
   - 4.0.7
   - 4.0.8
+  - 4.0.9
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -55,4 +57,5 @@ versioning:
   - 5.0.4
   - 5.0.5
   - 5.0.6
-  lastUpdated: 20200102143655
+  - 5.0.7
+  lastUpdated: 20200115152943
