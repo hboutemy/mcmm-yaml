@@ -3,8 +3,8 @@
 groupId: org.opendaylight.mdsal.model
 artifactId: odl-mdsal-model-draft-bierman-netconf-restconf-02
 versioning:
-  latest: 2.0.9
-  release: 2.0.9
+  latest: 2.0.10
+  release: 2.0.10
   versions:
   - 1.0.0
   - 1.0.1
@@ -26,6 +26,7 @@ versioning:
   - 1.2.13
   - 1.2.14
   - 1.2.15
+  - 1.2.16
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -36,4 +37,5 @@ versioning:
   - 2.0.7
   - 2.0.8
   - 2.0.9
-  lastUpdated: 20200115121812
+  - 2.0.10
+  lastUpdated: 20200116180300

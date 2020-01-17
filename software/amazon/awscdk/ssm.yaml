@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: ssm
 versioning:
-  latest: 1.20.0
-  release: 1.20.0
+  latest: 1.21.1
+  release: 1.21.1
   versions:
   - 0.8.0
   - 0.8.1
@@ -81,4 +81,6 @@ versioning:
   - 1.18.0
   - 1.19.0
   - 1.20.0
-  lastUpdated: 20200108000442
+  - 1.21.0
+  - 1.21.1
+  lastUpdated: 20200116193719

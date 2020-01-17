@@ -3,8 +3,8 @@
 groupId: org.opendaylight.yangtools
 artifactId: common-aggregator
 versioning:
-  latest: 4.0.5
-  release: 4.0.5
+  latest: 4.0.6
+  release: 4.0.6
   versions:
   - 0.6.2-Helium
   - 0.6.3-Helium-SR1
@@ -84,6 +84,7 @@ versioning:
   - 2.1.14
   - 2.1.15
   - 2.1.16
+  - 2.1.17
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -93,10 +94,12 @@ versioning:
   - 3.0.6
   - 3.0.7
   - 3.0.8
+  - 3.0.9
   - 4.0.0
   - 4.0.1
   - 4.0.2
   - 4.0.3
   - 4.0.4
   - 4.0.5
-  lastUpdated: 20200115092505
+  - 4.0.6
+  lastUpdated: 20200116142113

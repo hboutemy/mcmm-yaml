@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: lakeformation
 versioning:
-  latest: 1.20.0
-  release: 1.20.0
+  latest: 1.21.1
+  release: 1.21.1
   versions:
   - 1.5.0.DEVPREVIEW
   - 1.6.0.DEVPREVIEW
@@ -30,4 +30,6 @@ versioning:
   - 1.18.0
   - 1.19.0
   - 1.20.0
-  lastUpdated: 20200108000433
+  - 1.21.0
+  - 1.21.1
+  lastUpdated: 20200116193710

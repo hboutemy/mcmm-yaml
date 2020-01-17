@@ -3,8 +3,8 @@
 groupId: org.opendaylight.mdsal
 artifactId: mdsal-binding-dom-codec-osgi
 versioning:
-  latest: 5.0.7
-  release: 5.0.7
+  latest: 5.0.8
+  release: 5.0.8
   versions:
   - 0.11.0
   - 0.11.1
@@ -35,6 +35,7 @@ versioning:
   - 3.0.13
   - 3.0.14
   - 3.0.15
+  - 3.0.16
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -45,6 +46,7 @@ versioning:
   - 4.0.7
   - 4.0.8
   - 4.0.9
+  - 4.0.10
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -53,4 +55,5 @@ versioning:
   - 5.0.5
   - 5.0.6
   - 5.0.7
-  lastUpdated: 20200115145410
+  - 5.0.8
+  lastUpdated: 20200116194530

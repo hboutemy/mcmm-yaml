@@ -3,8 +3,8 @@
 groupId: org.onosproject
 artifactId: onos-drivers-default
 versioning:
-  latest: 2.3.0-rc1
-  release: 2.3.0-rc1
+  latest: 2.3.0-rc2
+  release: 2.3.0-rc2
   versions:
   - 1.7.0
   - 1.7.1
@@ -33,7 +33,9 @@ versioning:
   - 2.2.0
   - 2.2.1-b2
   - 2.2.1-b3
+  - 2.2.1-b4
   - 2.3.0-rc1
+  - 2.3.0-rc2
   - 1.10.0
   - 1.10.0-rc1
   - 1.10.0-rc2
@@ -115,4 +117,4 @@ versioning:
   - 1.9.0-test1
   - 1.9.1
   - 1.9.2
-  lastUpdated: 20200109190731
+  lastUpdated: 20200116183851

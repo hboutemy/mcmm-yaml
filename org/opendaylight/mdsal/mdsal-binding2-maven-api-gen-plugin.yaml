@@ -3,8 +3,8 @@
 groupId: org.opendaylight.mdsal
 artifactId: mdsal-binding2-maven-api-gen-plugin
 versioning:
-  latest: 0.15.15
-  release: 0.15.15
+  latest: 0.15.16
+  release: 0.15.16
   versions:
   - 0.9.0-Boron
   - 0.9.1-Boron-SR1
@@ -45,4 +45,5 @@ versioning:
   - 0.15.13
   - 0.15.14
   - 0.15.15
-  lastUpdated: 20200115100604
+  - 0.15.16
+  lastUpdated: 20200116173928

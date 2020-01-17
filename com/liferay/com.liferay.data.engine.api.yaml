@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.data.engine.api
 versioning:
   latest: 3.0.0
-  release: 3.0.0
+  release: 3.0.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -21,4 +20,5 @@ versioning:
   - 2.1.4
   - 2.1.5
   - 2.1.6
-  lastUpdated: 20200113211653
+  - 3.0.1
+  lastUpdated: 20200116220940

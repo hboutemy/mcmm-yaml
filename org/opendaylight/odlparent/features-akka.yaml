@@ -3,8 +3,8 @@
 groupId: org.opendaylight.odlparent
 artifactId: features-akka
 versioning:
-  latest: 4.0.14
-  release: 4.0.14
+  latest: 4.0.15
+  release: 4.0.15
   versions:
   - 1.7.0-Boron
   - 1.7.1-Boron-SR1
@@ -54,4 +54,5 @@ versioning:
   - 4.0.12
   - 4.0.13
   - 4.0.14
-  lastUpdated: 20191121021814
+  - 4.0.15
+  lastUpdated: 20200116104957
