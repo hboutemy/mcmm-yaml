@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-securityhub
 versioning:
-  latest: 1.11.708
-  release: 1.11.708
+  latest: 1.11.710
+  release: 1.11.710
   versions:
   - 1.11.459
   - 1.11.460
@@ -257,4 +257,6 @@ versioning:
   - 1.11.706
   - 1.11.707
   - 1.11.708
-  lastUpdated: 20200115222904
+  - 1.11.709
+  - 1.11.710
+  lastUpdated: 20200117214715

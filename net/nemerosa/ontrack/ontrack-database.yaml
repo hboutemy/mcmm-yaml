@@ -3,8 +3,8 @@
 groupId: net.nemerosa.ontrack
 artifactId: ontrack-database
 versioning:
-  latest: 3.40.13
-  release: 3.40.13
+  latest: 3.40.15
+  release: 3.40.15
   versions:
   - refac-postgresql-a8971e3
   - 3.0-alpha.1
@@ -162,4 +162,6 @@ versioning:
   - 3.40.11
   - 3.40.12
   - 3.40.13
-  lastUpdated: 20191220190100
+  - 3.40.14
+  - 3.40.15
+  lastUpdated: 20200117181524

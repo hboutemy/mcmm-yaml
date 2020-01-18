@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-clustering-ejb-infinispan
 versioning:
-  latest: 18.0.1.Final
-  release: 18.0.1.Final
+  latest: 19.0.0.Beta1
+  release: 19.0.0.Beta1
   versions:
   - 8.0.0.CR1
   - 8.0.0.Final
@@ -61,4 +61,5 @@ versioning:
   - 18.0.0.Beta1
   - 18.0.0.Final
   - 18.0.1.Final
-  lastUpdated: 20191115024833
+  - 19.0.0.Beta1
+  lastUpdated: 20200117192129

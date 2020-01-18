@@ -3,8 +3,8 @@
 groupId: org.opendaylight.mdsal.model
 artifactId: ietf-access-control-list
 versioning:
-  latest: 0.15.8
-  release: 0.15.8
+  latest: 0.15.9
+  release: 0.15.9
   versions:
   - 0.7.0-Boron
   - 0.7.1-Boron-SR1
@@ -57,6 +57,7 @@ versioning:
   - 0.14.8
   - 0.14.9
   - 0.14.10
+  - 0.14.11
   - 0.15.0
   - 0.15.1
   - 0.15.2
@@ -66,4 +67,5 @@ versioning:
   - 0.15.6
   - 0.15.7
   - 0.15.8
-  lastUpdated: 20200116200636
+  - 0.15.9
+  lastUpdated: 20200117132321

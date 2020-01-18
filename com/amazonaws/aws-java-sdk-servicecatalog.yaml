@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-servicecatalog
 versioning:
-  latest: 1.11.708
-  release: 1.11.708
+  latest: 1.11.710
+  release: 1.11.710
   versions:
   - 1.11.15
   - 1.11.16
@@ -701,4 +701,6 @@ versioning:
   - 1.11.706
   - 1.11.707
   - 1.11.708
-  lastUpdated: 20200115222905
+  - 1.11.709
+  - 1.11.710
+  lastUpdated: 20200117214716

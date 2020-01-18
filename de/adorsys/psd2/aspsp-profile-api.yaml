@@ -3,8 +3,8 @@
 groupId: de.adorsys.psd2
 artifactId: aspsp-profile-api
 versioning:
-  latest: 5.8-RC2
-  release: 5.8-RC2
+  latest: 5.8
+  release: 5.8
   versions:
   - 1.8
   - 1.9
@@ -73,6 +73,7 @@ versioning:
   - 4.5
   - 4.6
   - 4.7
+  - 4.8
   - 5.0
   - 5.0.1
   - 5.1
@@ -84,4 +85,5 @@ versioning:
   - 5.6
   - 5.7
   - 5.8-RC2
-  lastUpdated: 20191228172458
+  - 5.8
+  lastUpdated: 20200117124522

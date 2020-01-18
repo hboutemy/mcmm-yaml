@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.adaptive.media.image.impl
 versioning:
   latest: 4.0.0
-  release: 4.0.0
+  release: 4.0.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -91,4 +90,5 @@ versioning:
   - 3.0.23
   - 3.0.24
   - 3.0.25
-  lastUpdated: 20200115022738
+  - 4.0.1
+  lastUpdated: 20200117060831

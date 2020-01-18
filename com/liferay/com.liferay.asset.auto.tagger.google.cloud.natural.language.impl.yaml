@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.asset.auto.tagger.google.cloud.natural.language.impl
 versioning:
   latest: 2.0.0
-  release: 2.0.0
+  release: 2.0.2
   versions:
   - 1.0.0
   - 1.0.1
@@ -27,4 +26,6 @@ versioning:
   - 1.0.17
   - 1.0.18
   - 1.0.19
-  lastUpdated: 20200114021150
+  - 2.0.1
+  - 2.0.2
+  lastUpdated: 20200117214812
