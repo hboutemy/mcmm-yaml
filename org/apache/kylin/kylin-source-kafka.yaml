@@ -3,8 +3,8 @@
 groupId: org.apache.kylin
 artifactId: kylin-source-kafka
 versioning:
-  latest: 3.0.0-alpha2
-  release: 3.0.0-alpha2
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 1.5.0
   - 1.5.1
@@ -32,4 +32,5 @@ versioning:
   - 2.6.4
   - 3.0.0-alpha
   - 3.0.0-alpha2
-  lastUpdated: 20191013004519
+  - 3.0.0
+  lastUpdated: 20200119070859
