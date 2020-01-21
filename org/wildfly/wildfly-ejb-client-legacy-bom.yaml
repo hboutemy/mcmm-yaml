@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-ejb-client-legacy-bom
 versioning:
-  latest: 18.0.1.Final
-  release: 18.0.1.Final
+  latest: 19.0.0.Beta1
+  release: 19.0.0.Beta1
   versions:
   - 11.0.0.Beta1
   - 11.0.0.CR1
@@ -26,4 +26,5 @@ versioning:
   - 18.0.0.Beta1
   - 18.0.0.Final
   - 18.0.1.Final
-  lastUpdated: 20191115082314
+  - 19.0.0.Beta1
+  lastUpdated: 20200120152551
