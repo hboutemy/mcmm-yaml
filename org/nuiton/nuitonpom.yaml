@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.nuiton
 artifactId: nuitonpom
 versioning:
   latest: 10.5
-  release: 10.5
+  release: 11-beta-10
   versions:
   - 1.0
   - 1.1
@@ -43,4 +42,11 @@ versioning:
   - 10.3
   - 10.4
   - 10.5
-  lastUpdated: 20180330171946
+  - 11-beta-4
+  - 11-beta-5
+  - 11-beta-6
+  - 11-beta-7
+  - 11-beta-8
+  - 11-beta-9
+  - 11-beta-10
+  lastUpdated: 20200121163849
