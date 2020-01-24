@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: ecs-patterns
 versioning:
-  latest: 1.21.1
-  release: 1.21.1
+  latest: 1.22.0
+  release: 1.22.0
   versions:
   - 0.32.0
   - 0.33.0
@@ -47,4 +47,5 @@ versioning:
   - 1.20.0
   - 1.21.0
   - 1.21.1
-  lastUpdated: 20200116193704
+  - 1.22.0
+  lastUpdated: 20200123192140
