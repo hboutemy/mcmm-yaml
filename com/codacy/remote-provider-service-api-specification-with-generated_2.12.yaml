@@ -3,8 +3,10 @@
 groupId: com.codacy
 artifactId: remote-provider-service-api-specification-with-generated_2.12
 versioning:
-  latest: 2.45.1_akka25Circe08
-  release: 2.45.1_akka25Circe08
+  latest: 2.46.1_Map(circe -> 0.8.0, cats -> 0.9.0, akka-http -> 10.1.11, akka-actors
+    -> 2.5.27)
+  release: 2.46.1_Map(circe -> 0.8.0, cats -> 0.9.0, akka-http -> 10.1.11, akka-actors
+    -> 2.5.27)
   versions:
   - 0.11.2
   - 0.11.3
@@ -49,4 +51,4 @@ versioning:
   - 2.44.0_akka25Circe08
   - 2.45.1_akka25Circe08
   - 0.22.0-SNAPSHOT.d1c8191+akka25Circe011
-  lastUpdated: 20200123101307
+  lastUpdated: 20200127181214
