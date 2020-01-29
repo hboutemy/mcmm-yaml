@@ -3,8 +3,8 @@
 groupId: com.typesafe.akka
 artifactId: akka-cluster-typed_2.12
 versioning:
-  latest: 2.6.2
-  release: 2.6.2
+  latest: 2.6.3
+  release: 2.6.3
   versions:
   - 2.5.9
   - 2.5.10
@@ -26,6 +26,7 @@ versioning:
   - 2.5.26
   - 2.5.27
   - 2.5.28
+  - 2.5.29
   - 2.6.0-M1
   - 2.6.0-M2
   - 2.6.0-M3
@@ -39,4 +40,5 @@ versioning:
   - 2.6.0
   - 2.6.1
   - 2.6.2
-  lastUpdated: 20200127154604
+  - 2.6.3
+  lastUpdated: 20200128133005

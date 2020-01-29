@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jgroups
 artifactId: jgroups
 versioning:
-  latest: 4.1.9.Final
-  release: 4.1.9.Final
+  latest: 5.0.0.Alpha1
+  release: 5.0.0.Alpha1
   versions:
   - 2.6.17.GA
   - 2.6.20.Final
@@ -185,7 +185,8 @@ versioning:
   - 4.1.7.Final
   - 4.1.8.Final
   - 4.1.9.Final
+  - 5.0.0.Alpha1
   - 3.6.15.Final
   - 3.6.4.Final
   - 4.0.14.Final
-  lastUpdated: 20200123121646
+  lastUpdated: 20200128084328
