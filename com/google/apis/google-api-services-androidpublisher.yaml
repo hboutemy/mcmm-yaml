@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-androidpublisher
 versioning:
-  latest: v3-rev20191113-1.30.3
-  release: v3-rev20191113-1.30.3
+  latest: v3-rev20191202-1.30.3
+  release: v3-rev20191202-1.30.3
   versions:
   - v1-rev10-1.13.2-beta
   - v1-rev10-1.14.1-beta
@@ -692,6 +692,8 @@ versioning:
   - v1-rev236-1.25.0
   - v1-rev237-1.18.0-rc
   - v1-rev237-1.25.0
+  - v1-rev238-1.18.0-rc
+  - v1-rev238-1.25.0
   - v1-rev20181009-1.26.0
   - v1-rev20181009-1.27.0
   - v1-rev20181009-1.28.0
@@ -1365,6 +1367,8 @@ versioning:
   - v1.1-rev219-1.25.0
   - v1.1-rev220-1.18.0-rc
   - v1.1-rev220-1.25.0
+  - v1.1-rev221-1.18.0-rc
+  - v1.1-rev221-1.25.0
   - v1.1-rev20181009-1.26.0
   - v1.1-rev20181009-1.27.0
   - v1.1-rev20181009-1.28.0
@@ -1962,6 +1966,8 @@ versioning:
   - v2-rev204-1.25.0
   - v2-rev205-1.18.0-rc
   - v2-rev205-1.25.0
+  - v2-rev206-1.18.0-rc
+  - v2-rev206-1.25.0
   - v2-rev20181009-1.26.0
   - v2-rev20181009-1.27.0
   - v2-rev20181009-1.28.0
@@ -2364,4 +2370,7 @@ versioning:
   - v3-rev20191113-1.28.0
   - v3-rev20191113-1.29.2
   - v3-rev20191113-1.30.3
-  lastUpdated: 20200116002309
+  - v3-rev20191202-1.28.0
+  - v3-rev20191202-1.29.2
+  - v3-rev20191202-1.30.3
+  lastUpdated: 20200130120711

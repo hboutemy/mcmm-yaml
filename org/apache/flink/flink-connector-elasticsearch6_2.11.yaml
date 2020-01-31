@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-connector-elasticsearch6_2.11
 versioning:
-  latest: 1.9.1
-  release: 1.9.1
+  latest: 1.9.2
+  release: 1.9.2
   versions:
   - 1.6.0
   - 1.6.1
@@ -20,4 +20,5 @@ versioning:
   - 1.8.3
   - 1.9.0
   - 1.9.1
-  lastUpdated: 20191211023811
+  - 1.9.2
+  lastUpdated: 20200130054009
