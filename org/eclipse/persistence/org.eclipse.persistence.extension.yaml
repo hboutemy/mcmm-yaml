@@ -3,8 +3,8 @@
 groupId: org.eclipse.persistence
 artifactId: org.eclipse.persistence.extension
 versioning:
-  latest: 2.7.6-RC2
-  release: 2.7.6-RC2
+  latest: 2.7.6
+  release: 2.7.6
   versions:
   - 2.6.1-RC2
   - 2.6.1
@@ -25,6 +25,8 @@ versioning:
   - 2.6.7
   - 2.6.8-RC1
   - 2.6.8
+  - 2.6.9-RC1
+  - 2.6.9
   - 2.7.0-RC1
   - 2.7.0-RC2
   - 2.7.0-RC3
@@ -45,4 +47,6 @@ versioning:
   - 2.7.5
   - 2.7.6-RC1
   - 2.7.6-RC2
-  lastUpdated: 20200110091316
+  - 2.7.6-RC3
+  - 2.7.6
+  lastUpdated: 20200131151011
