@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-wildfly-server-subsystem
 versioning:
-  latest: 8.0.1
-  release: 8.0.1
+  latest: 8.0.2
+  release: 8.0.2
   versions:
   - 1.7.0.CR1
   - 1.7.0.Final
@@ -77,4 +77,5 @@ versioning:
   - 7.0.1
   - 8.0.0
   - 8.0.1
-  lastUpdated: 20191202120055
+  - 8.0.2
+  lastUpdated: 20200204092729

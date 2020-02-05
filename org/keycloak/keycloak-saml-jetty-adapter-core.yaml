@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-saml-jetty-adapter-core
 versioning:
-  latest: 8.0.1
-  release: 8.0.1
+  latest: 8.0.2
+  release: 8.0.2
   versions:
   - 1.6.0.Final
   - 1.6.1.Final
@@ -79,4 +79,5 @@ versioning:
   - 7.0.1
   - 8.0.0
   - 8.0.1
-  lastUpdated: 20191202120011
+  - 8.0.2
+  lastUpdated: 20200204092649

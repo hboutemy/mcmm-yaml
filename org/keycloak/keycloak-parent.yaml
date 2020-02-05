@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-parent
 versioning:
-  latest: 8.0.1
-  release: 8.0.1
+  latest: 8.0.2
+  release: 8.0.2
   versions:
   - 1.0-alpha-1
   - 1.0-alpha-1-12062013
@@ -111,5 +111,6 @@ versioning:
   - 7.0.1
   - 8.0.0
   - 8.0.1
+  - 8.0.2
   - 1.5.0-Final
-  lastUpdated: 20191202115957
+  lastUpdated: 20200204092643
