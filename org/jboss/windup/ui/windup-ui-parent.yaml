@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.windup.ui
 artifactId: windup-ui-parent
 versioning:
-  latest: 4.3.0.Final
-  release: 4.3.0.Final
+  latest: 4.3.1.Alpha1
+  release: 4.3.1.Alpha1
   versions:
   - 2.2.0.Final
   - 2.3.0.Final
@@ -41,4 +41,5 @@ versioning:
   - 4.3.0.Alpha2
   - 4.3.0.Beta1
   - 4.3.0.Final
-  lastUpdated: 20191210120519
+  - 4.3.1.Alpha1
+  lastUpdated: 20200206142005
