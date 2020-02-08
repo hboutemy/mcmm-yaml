@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-acceleratedmobilepageurl
 versioning:
-  latest: v1-rev20200121-1.30.3
-  release: v1-rev20200121-1.30.3
+  latest: v1-rev20200121-1.30.8
+  release: v1-rev20200121-1.30.8
   versions:
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.20.0
@@ -388,6 +388,8 @@ versioning:
   - v1-rev478-1.25.0
   - v1-rev479-1.18.0-rc
   - v1-rev479-1.25.0
+  - v1-rev480-1.18.0-rc
+  - v1-rev480-1.25.0
   - v1-rev20180612-1.26.0
   - v1-rev20180612-1.27.0
   - v1-rev20180612-1.28.0
@@ -397,4 +399,5 @@ versioning:
   - v1-rev20200121-1.28.0
   - v1-rev20200121-1.29.2
   - v1-rev20200121-1.30.3
-  lastUpdated: 20200206073237
+  - v1-rev20200121-1.30.8
+  lastUpdated: 20200207211121

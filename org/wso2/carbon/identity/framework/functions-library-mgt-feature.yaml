@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: functions-library-mgt-feature
 versioning:
-  latest: 5.16.0
-  release: 5.16.0
+  latest: 5.16.66
+  release: 5.16.66
   versions:
   - 5.12.220
   - 5.12.221
@@ -250,4 +251,8 @@ versioning:
   - 5.15.64
   - 5.15.65
   - 5.16.0
-  lastUpdated: 20191219105433
+  - 5.16.63
+  - 5.16.64
+  - 5.16.65
+  - 5.16.66
+  lastUpdated: 20200207140101

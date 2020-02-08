@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.identity.inbound.authentication.category.feature
 versioning:
-  latest: 5.16.0
-  release: 5.16.0
+  latest: 5.16.66
+  release: 5.16.66
   versions:
   - 5.5.0
   - 5.5.1
@@ -1161,4 +1162,8 @@ versioning:
   - 5.15.64
   - 5.15.65
   - 5.16.0
-  lastUpdated: 20191219105539
+  - 5.16.63
+  - 5.16.64
+  - 5.16.65
+  - 5.16.66
+  lastUpdated: 20200207140225
