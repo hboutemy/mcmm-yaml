@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.wso2.orbit.io.fabric8
 artifactId: kubernetes-client
 versioning:
-  latest: 2.5.2.wso2v3
+  latest: 4.6.4.wso2v1
   release: 4.6.4.wso2v1
   versions:
   - 4.6.4.wso2v1
-  lastUpdated: 20200207052949
+  lastUpdated: 20200208172955

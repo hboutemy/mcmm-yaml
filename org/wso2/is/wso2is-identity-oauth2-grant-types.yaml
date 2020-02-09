@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.is
 artifactId: wso2is-identity-oauth2-grant-types
 versioning:
-  latest: 5.10.0-m9
-  release: 5.10.0-m9
+  latest: 5.11.0-m1
+  release: 5.11.0-m1
   versions:
   - 5.4.0-alpha4
   - 5.4.0-alpha5
@@ -93,8 +93,9 @@ versioning:
   - 5.8.1-m2
   - 5.9.0-beta
   - 5.9.0
+  - 5.10.0-beta
   - 5.10.0-m1
   - 5.10.0-m2
   - 5.10.0-m3
   - 5.10.0-m9
-  lastUpdated: 20191213080044
+  lastUpdated: 20200208032614
