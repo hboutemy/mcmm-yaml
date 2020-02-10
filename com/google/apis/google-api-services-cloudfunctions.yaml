@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-cloudfunctions
 versioning:
-  latest: v1-rev20191203-1.30.3
-  release: v1-rev20191203-1.30.3
+  latest: v1-rev20200127-1.30.8
+  release: v1-rev20200127-1.30.8
   versions:
   - v1beta2-rev1-1.18.0-rc
   - v1beta2-rev1-1.20.0
@@ -293,6 +293,7 @@ versioning:
   - v1beta2-rev20191003-1.28.0
   - v1beta2-rev20191003-1.29.2
   - v1beta2-rev20191003-1.30.3
+  - v1beta2-rev20191003-1.30.8
   - v1-rev2-1.18.0-rc
   - v1-rev2-1.20.0
   - v1-rev2-1.21.0
@@ -598,4 +599,7 @@ versioning:
   - v1-rev20191203-1.28.0
   - v1-rev20191203-1.29.2
   - v1-rev20191203-1.30.3
-  lastUpdated: 20200206123754
+  - v1-rev20200116-1.28.0
+  - v1-rev20200116-1.29.2
+  - v1-rev20200127-1.30.8
+  lastUpdated: 20200209025929
