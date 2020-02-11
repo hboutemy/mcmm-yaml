@@ -3,8 +3,8 @@
 groupId: com.github.drinkjava2
 artifactId: jsqlbox
 versioning:
-  latest: 3.0.0
-  release: 3.0.0
+  latest: 4.0.0.jre8
+  release: 4.0.0.jre8
   versions:
   - 1.0.0
   - 1.0.7
@@ -16,4 +16,6 @@ versioning:
   - 2.0.5
   - 2.0.6
   - 3.0.0
-  lastUpdated: 20190904211254
+  - 4.0.0.jre6
+  - 4.0.0.jre8
+  lastUpdated: 20200210110906
