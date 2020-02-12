@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.subscription.api
 versioning:
   latest: 3.0.0
-  release: 3.0.0
+  release: 2.1.9
   versions:
   - 1.0.0
   - 1.0.1
@@ -32,4 +31,6 @@ versioning:
   - 2.1.6
   - 2.1.7
   - 2.1.8
-  lastUpdated: 20200114193846
+  - 1.1.7
+  - 2.1.9
+  lastUpdated: 20200211114726

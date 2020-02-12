@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-hibernate-parent
 versioning:
-  latest: 10.1.2.Final
-  release: 10.1.2.Final
+  latest: 11.0.0.Alpha1
+  release: 11.0.0.Alpha1
   versions:
   - 9.2.0.CR1
   - 9.2.0.CR2
@@ -67,4 +67,6 @@ versioning:
   - 10.1.0.Final
   - 10.1.1.Final
   - 10.1.2.Final
-  lastUpdated: 20200210120220
+  - 11.0.0.Alpha
+  - 11.0.0.Alpha1
+  lastUpdated: 20200211110710

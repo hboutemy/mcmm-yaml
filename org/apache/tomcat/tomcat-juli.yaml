@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat
 artifactId: tomcat-juli
 versioning:
-  latest: 9.0.30
-  release: 9.0.30
+  latest: 9.0.31
+  release: 9.0.31
   versions:
   - 7.0.0
   - 7.0.2
@@ -159,6 +159,7 @@ versioning:
   - 8.5.47
   - 8.5.49
   - 8.5.50
+  - 8.5.51
   - 9.0.0.M1
   - 9.0.0.M3
   - 9.0.0.M4
@@ -201,5 +202,6 @@ versioning:
   - 9.0.27
   - 9.0.29
   - 9.0.30
+  - 9.0.31
   - 7.0.1
-  lastUpdated: 20191217081801
+  lastUpdated: 20200211142708

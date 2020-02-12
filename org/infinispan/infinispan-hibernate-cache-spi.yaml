@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-hibernate-cache-spi
 versioning:
-  latest: 10.1.2.Final
-  release: 10.1.2.Final
+  latest: 11.0.0.Alpha1
+  release: 11.0.0.Alpha1
   versions:
   - 9.2.2.Final
   - 9.2.3.Final
@@ -61,4 +61,6 @@ versioning:
   - 10.1.0.Final
   - 10.1.1.Final
   - 10.1.2.Final
-  lastUpdated: 20200210120217
+  - 11.0.0.Alpha
+  - 11.0.0.Alpha1
+  lastUpdated: 20200211110707

@@ -3,10 +3,14 @@
 groupId: org.jboss.weld
 artifactId: weld-common-build-config
 versioning:
-  latest: 11
-  release: 11
+  latest: 13
+  release: 13
   versions:
+  - 12
+  - 13
   - 1
+  - 10
+  - 11
   - 2
   - 3
   - 4
@@ -15,6 +19,4 @@ versioning:
   - 7
   - 8
   - 9
-  - 10
-  - 11
-  lastUpdated: 20160825084408
+  lastUpdated: 20200211135305

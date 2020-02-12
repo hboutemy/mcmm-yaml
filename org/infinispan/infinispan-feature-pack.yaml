@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-feature-pack
 versioning:
-  latest: 10.1.2.Final
-  release: 10.1.2.Final
+  latest: 11.0.0.Alpha1
+  release: 11.0.0.Alpha1
   versions:
   - 9.3.0.CR1
   - 9.3.0.Final
@@ -56,4 +56,6 @@ versioning:
   - 10.1.0.Final
   - 10.1.1.Final
   - 10.1.2.Final
-  lastUpdated: 20200210120213
+  - 11.0.0.Alpha
+  - 11.0.0.Alpha1
+  lastUpdated: 20200211110705

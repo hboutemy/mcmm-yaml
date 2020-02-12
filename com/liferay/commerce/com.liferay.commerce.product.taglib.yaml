@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.product.taglib
 versioning:
   latest: 1.1.8
-  release: 1.1.8
+  release: 1.1.9
   versions:
   - 1.0.0
   - 1.0.1
@@ -27,4 +26,5 @@ versioning:
   - 1.1.6
   - 1.1.7
   - 1.1.8
-  lastUpdated: 20200114100725
+  - 1.1.9
+  lastUpdated: 20200211034236

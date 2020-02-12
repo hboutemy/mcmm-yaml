@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.windup.config
 artifactId: windup-config-groovy-tests
 versioning:
-  latest: 4.3.1.Alpha1
-  release: 4.3.1.Alpha1
+  latest: 4.3.1.Beta1
+  release: 4.3.1.Beta1
   versions:
   - 2.2.0.Final
   - 2.3.0.Final
@@ -42,4 +42,5 @@ versioning:
   - 4.3.0.Beta1
   - 4.3.0.Final
   - 4.3.1.Alpha1
-  lastUpdated: 20200206141724
+  - 4.3.1.Beta1
+  lastUpdated: 20200211100923
