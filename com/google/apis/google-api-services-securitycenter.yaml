@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-securitycenter
 versioning:
-  latest: v1-rev20200102-1.30.3
-  release: v1-rev20200102-1.30.3
+  latest: v1-rev20200131-1.30.8
+  release: v1-rev20200131-1.30.8
   versions:
   - v1beta1-rev3-1.18.0-rc
   - v1beta1-rev3-1.22.0
@@ -116,6 +116,8 @@ versioning:
   - v1beta1-rev50-1.25.0
   - v1beta1-rev51-1.18.0-rc
   - v1beta1-rev51-1.25.0
+  - v1beta1-rev52-1.18.0-rc
+  - v1beta1-rev52-1.25.0
   - v1beta1-rev20190402-1.26.0
   - v1beta1-rev20190402-1.27.0
   - v1beta1-rev20190402-1.28.0
@@ -160,6 +162,9 @@ versioning:
   - v1beta1-rev20191204-1.28.0
   - v1beta1-rev20191204-1.29.2
   - v1beta1-rev20191204-1.30.3
+  - v1beta1-rev20200117-1.28.0
+  - v1beta1-rev20200117-1.29.2
+  - v1beta1-rev20200131-1.30.8
   - v1p1alpha1-rev1-1.18.0-rc
   - v1p1alpha1-rev1-1.25.0
   - v1p1alpha1-rev2-1.25.0
@@ -171,20 +176,26 @@ versioning:
   - v1p1alpha1-rev20-1.25.0
   - v1p1alpha1-rev22-1.18.0-rc
   - v1p1alpha1-rev22-1.25.0
+  - v1p1alpha1-rev23-1.18.0-rc
+  - v1p1alpha1-rev23-1.25.0
   - v1p1alpha1-rev20190603-1.26.0
   - v1p1alpha1-rev20190603-1.27.0
   - v1p1alpha1-rev20190603-1.28.0
   - v1p1alpha1-rev20190603-1.29.2
   - v1p1alpha1-rev20190603-1.30.1
+  - v1p1alpha1-rev20200131-1.30.8
   - v1p1beta1-rev1-1.18.0-rc
   - v1p1beta1-rev1-1.25.0
   - v1p1beta1-rev2-1.18.0-rc
   - v1p1beta1-rev2-1.25.0
   - v1p1beta1-rev3-1.18.0-rc
   - v1p1beta1-rev3-1.25.0
+  - v1p1beta1-rev4-1.18.0-rc
+  - v1p1beta1-rev4-1.25.0
   - v1p1beta1-rev20200102-1.28.0
   - v1p1beta1-rev20200102-1.29.2
   - v1p1beta1-rev20200102-1.30.3
+  - v1p1beta1-rev20200131-1.30.8
   - v1-rev3-1.18.0-rc
   - v1-rev3-1.22.0
   - v1-rev3-1.23.0
@@ -296,6 +307,8 @@ versioning:
   - v1-rev51-1.25.0
   - v1-rev52-1.18.0-rc
   - v1-rev52-1.25.0
+  - v1-rev53-1.18.0-rc
+  - v1-rev53-1.25.0
   - v1-rev20190402-1.26.0
   - v1-rev20190402-1.27.0
   - v1-rev20190402-1.28.0
@@ -361,4 +374,7 @@ versioning:
   - v1-rev20200102-1.28.0
   - v1-rev20200102-1.29.2
   - v1-rev20200102-1.30.3
-  lastUpdated: 20200204092726
+  - v1-rev20200117-1.28.0
+  - v1-rev20200117-1.29.2
+  - v1-rev20200131-1.30.8
+  lastUpdated: 20200212124545

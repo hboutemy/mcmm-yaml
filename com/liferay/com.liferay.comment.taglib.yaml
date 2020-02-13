@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.comment.taglib
 versioning:
-  latest: 3.0.0
-  release: 1.1.3
+  latest: 3.0.2
+  release: 3.0.2
   versions:
   - 1.0.0
   - 1.0.1
@@ -22,6 +23,7 @@ versioning:
   - 1.1.0
   - 1.1.1
   - 1.1.2
+  - 1.1.3
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -45,9 +47,8 @@ versioning:
   - 2.1.5
   - 2.1.6
   - 2.1.7
-  - 3.0.1
-  - 3.0.2
   - 2.1.8
   - 2.1.9
-  - 1.1.3
-  lastUpdated: 20200211221031
+  - 3.0.1
+  - 3.0.2
+  lastUpdated: 20200212144728

@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-firebasedynamiclinks
 versioning:
-  latest: v1-rev20190425-1.30.1
-  release: v1-rev20190425-1.30.1
+  latest: v1-rev20200210-1.30.8
+  release: v1-rev20200210-1.30.8
   versions:
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.20.0
@@ -723,6 +723,8 @@ versioning:
   - v1-rev964-1.25.0
   - v1-rev966-1.18.0-rc
   - v1-rev966-1.25.0
+  - v1-rev967-1.18.0-rc
+  - v1-rev967-1.25.0
   - v1-rev20181002-1.26.0
   - v1-rev20181109-1.26.0
   - v1-rev20181109-1.27.0
@@ -745,4 +747,6 @@ versioning:
   - v1-rev20190425-1.28.0
   - v1-rev20190425-1.29.2
   - v1-rev20190425-1.30.1
-  lastUpdated: 20200207090831
+  - v1-rev20190425-1.30.8
+  - v1-rev20200210-1.30.8
+  lastUpdated: 20200212231419

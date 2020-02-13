@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-abusiveexperiencereport
 versioning:
-  latest: v1-rev20200106-1.30.8
-  release: v1-rev20200106-1.30.8
+  latest: v1-rev20200210-1.30.8
+  release: v1-rev20200210-1.30.8
   versions:
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.21.0
@@ -118,6 +118,8 @@ versioning:
   - v1-rev59-1.25.0
   - v1-rev60-1.18.0-rc
   - v1-rev60-1.25.0
+  - v1-rev61-1.18.0-rc
+  - v1-rev61-1.25.0
   - v1-rev20181017-1.26.0
   - v1-rev20181017-1.27.0
   - v1-rev20181017-1.28.0
@@ -133,4 +135,5 @@ versioning:
   - v1-rev20200106-1.29.2
   - v1-rev20200106-1.30.3
   - v1-rev20200106-1.30.8
-  lastUpdated: 20200207210427
+  - v1-rev20200210-1.30.8
+  lastUpdated: 20200212205949

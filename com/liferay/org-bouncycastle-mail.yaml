@@ -1,9 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: org-bouncycastle-mail
 versioning:
+  latest: 1.61.LIFERAY-PATCHED-1
   release: 1.61.LIFERAY-PATCHED-1
   versions:
   - 1.61.LIFERAY-PATCHED-1
-  lastUpdated: 20200117171835
+  lastUpdated: 20200211235649

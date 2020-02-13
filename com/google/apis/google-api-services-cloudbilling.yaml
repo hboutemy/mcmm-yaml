@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-cloudbilling
 versioning:
-  latest: v1-rev20200127-1.30.8
-  release: v1-rev20200127-1.30.8
+  latest: v1-rev20200210-1.30.8
+  release: v1-rev20200210-1.30.8
   versions:
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.19.0
@@ -146,6 +146,8 @@ versioning:
   - v1-rev49-1.25.0
   - v1-rev50-1.18.0-rc
   - v1-rev50-1.25.0
+  - v1-rev51-1.18.0-rc
+  - v1-rev51-1.25.0
   - v1-rev20180806-1.26.0
   - v1-rev20180806-1.27.0
   - v1-rev20180806-1.28.0
@@ -184,4 +186,5 @@ versioning:
   - v1-rev20200127-1.28.0
   - v1-rev20200127-1.29.2
   - v1-rev20200127-1.30.8
-  lastUpdated: 20200209021307
+  - v1-rev20200210-1.30.8
+  lastUpdated: 20200212215326

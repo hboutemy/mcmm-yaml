@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-tpu
 versioning:
-  latest: v1-rev20190821-1.30.1
-  release: v1-rev20190821-1.30.1
+  latest: v1-rev20200116-1.30.8
+  release: v1-rev20200116-1.30.8
   versions:
   - v1alpha1-rev2-1.18.0-rc
   - v1alpha1-rev2-1.21.0
@@ -157,6 +157,9 @@ versioning:
   - v1alpha1-rev20190821-1.28.0
   - v1alpha1-rev20190821-1.29.2
   - v1alpha1-rev20190821-1.30.1
+  - v1alpha1-rev20200116-1.28.0
+  - v1alpha1-rev20200116-1.29.2
+  - v1alpha1-rev20200116-1.30.8
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.21.0
   - v1-rev1-1.22.0
@@ -284,4 +287,7 @@ versioning:
   - v1-rev20190821-1.28.0
   - v1-rev20190821-1.29.2
   - v1-rev20190821-1.30.1
-  lastUpdated: 20200131033836
+  - v1-rev20200116-1.28.0
+  - v1-rev20200116-1.29.2
+  - v1-rev20200116-1.30.8
+  lastUpdated: 20200212135326

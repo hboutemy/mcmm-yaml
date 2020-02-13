@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-jobs
 versioning:
-  latest: v3-rev20191029-1.30.3
-  release: v3-rev20191029-1.30.3
+  latest: v3-rev20200109-1.30.8
+  release: v3-rev20200109-1.30.8
   versions:
   - v2-rev1-1.18.0-rc
   - v2-rev1-1.21.0
@@ -180,6 +180,8 @@ versioning:
   - v2-rev83-1.25.0
   - v2-rev84-1.18.0-rc
   - v2-rev84-1.25.0
+  - v2-rev87-1.18.0-rc
+  - v2-rev87-1.25.0
   - v2-rev20181011-1.26.0
   - v2-rev20181011-1.27.0
   - v2-rev20181114-1.26.0
@@ -210,6 +212,7 @@ versioning:
   - v2-rev20191030-1.28.0
   - v2-rev20191030-1.29.2
   - v2-rev20191030-1.30.3
+  - v2-rev20191030-1.30.8
   - v3p1beta1-rev2-1.24.1
   - v3p1beta1-rev2-1.25.0
   - v3p1beta1-rev3-1.18.0-rc
@@ -331,6 +334,8 @@ versioning:
   - v3p1beta1-rev67-1.25.0
   - v3p1beta1-rev69-1.18.0-rc
   - v3p1beta1-rev69-1.25.0
+  - v3p1beta1-rev71-1.18.0-rc
+  - v3p1beta1-rev71-1.25.0
   - v3p1beta1-rev20181011-1.26.0
   - v3p1beta1-rev20181029-1.26.0
   - v3p1beta1-rev20181029-1.27.0
@@ -385,6 +390,9 @@ versioning:
   - v3p1beta1-rev20191030-1.28.0
   - v3p1beta1-rev20191030-1.29.2
   - v3p1beta1-rev20191030-1.30.3
+  - v3p1beta1-rev20200122-1.28.0
+  - v3p1beta1-rev20200122-1.29.2
+  - v3p1beta1-rev20200122-1.30.8
   - v3-rev1-1.18.0-rc
   - v3-rev1-1.22.0
   - v3-rev1-1.23.0
@@ -517,6 +525,8 @@ versioning:
   - v3-rev70-1.18.0-rc
   - v3-rev70-1.25.0
   - v3-rev71-1.25.0
+  - v3-rev74-1.18.0-rc
+  - v3-rev74-1.25.0
   - v3-rev20181011-1.26.0
   - v3-rev20181029-1.26.0
   - v3-rev20181029-1.27.0
@@ -563,4 +573,7 @@ versioning:
   - v3-rev20191029-1.28.0
   - v3-rev20191029-1.29.2
   - v3-rev20191029-1.30.3
-  lastUpdated: 20200206074346
+  - v3-rev20200109-1.28.0
+  - v3-rev20200109-1.29.2
+  - v3-rev20200109-1.30.8
+  lastUpdated: 20200212110630

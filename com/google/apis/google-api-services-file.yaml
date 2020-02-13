@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-file
 versioning:
-  latest: v1-rev20190917-1.30.3
-  release: v1-rev20190917-1.30.3
+  latest: v1-rev20200109-1.30.8
+  release: v1-rev20200109-1.30.8
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.22.0
@@ -48,6 +48,8 @@ versioning:
   - v1beta1-rev17-1.25.0
   - v1beta1-rev22-1.18.0-rc
   - v1beta1-rev22-1.25.0
+  - v1beta1-rev23-1.18.0-rc
+  - v1beta1-rev23-1.25.0
   - v1beta1-rev20180925-1.26.0
   - v1beta1-rev20180925-1.27.0
   - v1beta1-rev20180925-1.28.0
@@ -74,6 +76,9 @@ versioning:
   - v1beta1-rev20190917-1.28.0
   - v1beta1-rev20190917-1.29.2
   - v1beta1-rev20190917-1.30.3
+  - v1beta1-rev20191213-1.28.0
+  - v1beta1-rev20191213-1.29.2
+  - v1beta1-rev20200205-1.30.8
   - v1-rev4-1.18.0-rc
   - v1-rev4-1.22.0
   - v1-rev4-1.23.0
@@ -99,6 +104,8 @@ versioning:
   - v1-rev13-1.25.0
   - v1-rev15-1.18.0-rc
   - v1-rev15-1.25.0
+  - v1-rev16-1.18.0-rc
+  - v1-rev16-1.25.0
   - v1-rev20190123-1.26.0
   - v1-rev20190123-1.27.0
   - v1-rev20190123-1.28.0
@@ -128,4 +135,7 @@ versioning:
   - v1-rev20190917-1.28.0
   - v1-rev20190917-1.29.2
   - v1-rev20190917-1.30.3
-  lastUpdated: 20200130114752
+  - v1-rev20191213-1.28.0
+  - v1-rev20191213-1.29.2
+  - v1-rev20200109-1.30.8
+  lastUpdated: 20200212123915

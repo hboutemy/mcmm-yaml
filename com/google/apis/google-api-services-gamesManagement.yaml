@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-gamesManagement
 versioning:
-  latest: v1management-rev20190725-1.30.1
-  release: v1management-rev20190725-1.30.1
+  latest: v1management-rev20191205-1.30.8
+  release: v1management-rev20191205-1.30.8
   versions:
   - v1management-rev1-1.13.2-beta
   - v1management-rev1-1.14.2-beta
@@ -1159,6 +1159,8 @@ versioning:
   - v1management-rev334-1.25.0
   - v1management-rev335-1.18.0-rc
   - v1management-rev335-1.25.0
+  - v1management-rev337-1.18.0-rc
+  - v1management-rev337-1.25.0
   - v1management-rev20180802-1.26.0
   - v1management-rev20180802-1.27.0
   - v1management-rev20181113-1.26.0
@@ -1172,4 +1174,7 @@ versioning:
   - v1management-rev20190725-1.28.0
   - v1management-rev20190725-1.29.2
   - v1management-rev20190725-1.30.1
-  lastUpdated: 20200130115748
+  - v1management-rev20191205-1.28.0
+  - v1management-rev20191205-1.29.2
+  - v1management-rev20191205-1.30.8
+  lastUpdated: 20200212023305

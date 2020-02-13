@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.shipping.engine.fedex
 versioning:
-  latest: 2.0.14
-  release: 2.0.15
+  latest: 2.0.16
+  release: 2.0.16
   versions:
   - 1.0.0
   - 1.0.1
@@ -28,4 +29,5 @@ versioning:
   - 2.0.13
   - 2.0.14
   - 2.0.15
-  lastUpdated: 20200131005556
+  - 2.0.16
+  lastUpdated: 20200212073013

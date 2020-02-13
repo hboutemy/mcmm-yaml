@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-people
 versioning:
-  latest: v1-rev20190910-1.30.1
-  release: v1-rev20190910-1.30.1
+  latest: v1-rev20200210-1.30.8
+  release: v1-rev20200210-1.30.8
   versions:
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.19.1
@@ -1286,6 +1286,8 @@ versioning:
   - v1-rev505-1.25.0
   - v1-rev506-1.18.0-rc
   - v1-rev506-1.25.0
+  - v1-rev510-1.18.0-rc
+  - v1-rev510-1.25.0
   - v1-rev20180918-1.26.0
   - v1-rev20181111-1.26.0
   - v1-rev20181111-1.27.0
@@ -1334,4 +1336,8 @@ versioning:
   - v1-rev20190910-1.28.0
   - v1-rev20190910-1.29.2
   - v1-rev20190910-1.30.1
-  lastUpdated: 20191115060624
+  - v1-rev20191030-1.28.0
+  - v1-rev20191030-1.29.2
+  - v1-rev20200122-1.30.8
+  - v1-rev20200210-1.30.8
+  lastUpdated: 20200212233709

@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-driveactivity
 versioning:
-  latest: v2-rev20191218-1.30.3
-  release: v2-rev20191218-1.30.3
+  latest: v2-rev20200210-1.30.8
+  release: v2-rev20200210-1.30.8
   versions:
   - v2-rev4-1.18.0-rc
   - v2-rev4-1.22.0
@@ -309,6 +309,8 @@ versioning:
   - v2-rev156-1.25.0
   - v2-rev157-1.18.0-rc
   - v2-rev157-1.25.0
+  - v2-rev158-1.18.0-rc
+  - v2-rev158-1.25.0
   - v2-rev20181113-1.26.0
   - v2-rev20181113-1.27.0
   - v2-rev20181116-1.26.0
@@ -331,4 +333,6 @@ versioning:
   - v2-rev20191218-1.28.0
   - v2-rev20191218-1.29.2
   - v2-rev20191218-1.30.3
-  lastUpdated: 20200207002007
+  - v2-rev20191218-1.30.8
+  - v2-rev20200210-1.30.8
+  lastUpdated: 20200212230555

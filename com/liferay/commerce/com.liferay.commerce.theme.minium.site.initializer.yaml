@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.theme.minium.site.initializer
 versioning:
-  latest: 2.0.14
-  release: 2.0.15
+  latest: 2.0.16
+  release: 2.0.16
   versions:
   - 2.0.0
   - 2.0.1
@@ -22,4 +23,5 @@ versioning:
   - 2.0.13
   - 2.0.14
   - 2.0.15
-  lastUpdated: 20200131012215
+  - 2.0.16
+  lastUpdated: 20200212070530
