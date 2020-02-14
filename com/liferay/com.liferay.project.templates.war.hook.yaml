@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.project.templates.war.hook
 versioning:
-  latest: 1.0.31
+  latest: 1.0.67
   release: 1.0.67
   versions:
   - 1.0.0
@@ -73,4 +74,4 @@ versioning:
   - 1.0.64
   - 1.0.65
   - 1.0.67
-  lastUpdated: 20200210222206
+  lastUpdated: 20200213001147

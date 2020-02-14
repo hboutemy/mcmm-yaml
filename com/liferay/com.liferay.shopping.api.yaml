@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.shopping.api
 versioning:
-  latest: 3.0.25
+  latest: 3.0.34
   release: 3.0.34
   versions:
   - 1.0.0
@@ -44,4 +45,4 @@ versioning:
   - 3.0.32
   - 3.0.33
   - 3.0.34
-  lastUpdated: 20200211010130
+  lastUpdated: 20200213232617

@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: org.apache.felix.fileinstall
 versioning:
-  latest: 3.6.4.LIFERAY-PATCHED-1
+  latest: 3.6.4.LIFERAY-PATCHED-12
   release: 3.6.4.LIFERAY-PATCHED-12
   versions:
   - 3.5.4.LIFERAY-PATCHED-1
@@ -22,4 +23,4 @@ versioning:
   - 3.6.4.LIFERAY-PATCHED-10
   - 3.6.4.LIFERAY-PATCHED-11
   - 3.6.4.LIFERAY-PATCHED-12
-  lastUpdated: 20191127044559
+  lastUpdated: 20200213011557

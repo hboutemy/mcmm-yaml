@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: org.apache.axis
 versioning:
-  latest: 1.4.LIFERAY-PATCHED-3
+  latest: 1.4.LIFERAY-PATCHED-6
   release: 1.4.LIFERAY-PATCHED-6
   versions:
   - 1.4.LIFERAY-PATCHED-1
@@ -12,4 +13,4 @@ versioning:
   - 1.4.LIFERAY-PATCHED-4
   - 1.4.LIFERAY-PATCHED-5
   - 1.4.LIFERAY-PATCHED-6
-  lastUpdated: 20200106215643
+  lastUpdated: 20200213160417

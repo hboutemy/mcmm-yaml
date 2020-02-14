@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-connector-sqlserver
 versioning:
-  latest: 1.1.0.Beta1
-  release: 1.1.0.Beta1
+  latest: 1.1.0.Beta2
+  release: 1.1.0.Beta2
   versions:
   - 0.9.0.Alpha1
   - 0.9.0.Alpha2
@@ -34,4 +34,5 @@ versioning:
   - 1.0.1.Final
   - 1.1.0.Alpha1
   - 1.1.0.Beta1
-  lastUpdated: 20200207071749
+  - 1.1.0.Beta2
+  lastUpdated: 20200213083341

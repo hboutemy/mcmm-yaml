@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: javax.servlet.jsp
 versioning:
-  latest: 2.3.3-b02.LIFERAY-PATCHED-8
+  latest: 2.3.3-b02.LIFERAY-PATCHED-9
   release: 2.3.3-b02.LIFERAY-PATCHED-9
   versions:
   - 2.3.3-b02.LIFERAY-PATCHED-1
@@ -15,4 +16,4 @@ versioning:
   - 2.3.3-b02.LIFERAY-PATCHED-7
   - 2.3.3-b02.LIFERAY-PATCHED-8
   - 2.3.3-b02.LIFERAY-PATCHED-9
-  lastUpdated: 20190724020751
+  lastUpdated: 20200213163605
