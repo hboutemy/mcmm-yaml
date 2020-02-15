@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.cache.ehcache
 versioning:
-  latest: 2.1.27
+  latest: 2.1.32
   release: 2.1.32
   versions:
   - 1.0.0
@@ -40,4 +41,4 @@ versioning:
   - 2.1.30
   - 2.1.31
   - 2.1.32
-  lastUpdated: 20200211120228
+  lastUpdated: 20200214075737

@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.remote.cxf.jaxrs.common
 versioning:
-  latest: 3.1.6
+  latest: 3.1.9
   release: 3.1.9
   versions:
   - 1.0.0
@@ -28,4 +29,4 @@ versioning:
   - 3.1.7
   - 3.1.8
   - 3.1.9
-  lastUpdated: 20190912210541
+  lastUpdated: 20200214062110

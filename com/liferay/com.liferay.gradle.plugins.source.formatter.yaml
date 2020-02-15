@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.gradle.plugins.source.formatter
 versioning:
-  latest: 2.3.389
+  latest: 2.3.488
   release: 2.3.488
   versions:
   - 1.0.0
@@ -698,4 +699,4 @@ versioning:
   - 2.3.488
   - 2.3.184
   - 2.3.357
-  lastUpdated: 20200211203907
+  lastUpdated: 20200214173437

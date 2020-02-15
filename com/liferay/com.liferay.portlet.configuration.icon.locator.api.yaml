@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portlet.configuration.icon.locator.api
 versioning:
-  latest: 2.0.5
+  latest: 2.0.7
   release: 2.0.7
   versions:
   - 1.0.0
@@ -15,4 +16,4 @@ versioning:
   - 2.0.5
   - 2.0.6
   - 2.0.7
-  lastUpdated: 20200211102353
+  lastUpdated: 20200214020210

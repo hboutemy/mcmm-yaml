@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.osgi.web.wab.generator
 versioning:
-  latest: 2.1.66
+  latest: 2.1.77
   release: 2.1.77
   versions:
   - 1.0.0
@@ -87,4 +88,4 @@ versioning:
   - 2.1.75
   - 2.1.76
   - 2.1.77
-  lastUpdated: 20200211101123
+  lastUpdated: 20200214063533

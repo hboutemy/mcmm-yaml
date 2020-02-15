@@ -3,8 +3,8 @@
 groupId: org.http4s
 artifactId: http4s-blaze-server_2.12
 versioning:
-  latest: 0.21.0
-  release: 0.21.0
+  latest: 0.21.1
+  release: 0.21.1
   versions:
   - 0.15.0
   - 0.15.0a
@@ -146,6 +146,7 @@ versioning:
   - 0.20.16
   - 0.20.17
   - 0.20.18
+  - 0.20.19
   - 0.21.0-M1
   - 0.21.0-M2
   - 0.21.0-M3
@@ -158,4 +159,5 @@ versioning:
   - 0.21.0-RC4
   - 0.21.0-RC5
   - 0.21.0
-  lastUpdated: 20200213175644
+  - 0.21.1
+  lastUpdated: 20200214033153

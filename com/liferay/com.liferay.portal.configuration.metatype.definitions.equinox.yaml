@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.configuration.metatype.definitions.equinox
 versioning:
-  latest: 4.0.1
-  release: 4.0.5
+  latest: 5.0.0
+  release: 5.0.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -16,19 +17,19 @@ versioning:
   - 2.0.5
   - 2.0.6
   - 2.0.7
+  - 2.0.8
+  - 2.0.9
+  - 2.0.10
+  - 2.0.11
   - 3.0.0
+  - 3.0.1
+  - 3.0.2
+  - 3.0.3
+  - 3.0.4
   - 4.0.0
   - 4.0.1
-  - 2.0.8
-  - 3.0.1
   - 4.0.2
   - 4.0.3
-  - 2.0.9
-  - 3.0.2
   - 4.0.4
-  - 2.0.10
-  - 3.0.3
-  - 2.0.11
   - 4.0.5
-  - 3.0.4
-  lastUpdated: 20200211102355
+  lastUpdated: 20200214074017
