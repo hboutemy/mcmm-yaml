@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.ant.bnd
 versioning:
-  latest: 3.0.7
+  latest: 3.2.3
   release: 3.2.3
   versions:
   - 1.0.0
@@ -89,4 +90,4 @@ versioning:
   - 3.2.1
   - 3.2.2
   - 3.2.3
-  lastUpdated: 20191003212746
+  lastUpdated: 20200215032657
