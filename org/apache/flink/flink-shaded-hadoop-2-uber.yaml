@@ -3,19 +3,23 @@
 groupId: org.apache.flink
 artifactId: flink-shaded-hadoop-2-uber
 versioning:
-  latest: 2.8.3-9.0
-  release: 2.8.3-9.0
+  latest: 2.8.3-10.0
+  release: 2.8.3-10.0
   versions:
   - 2.4.1-7.0
   - 2.4.1-8.0
   - 2.4.1-9.0
+  - 2.4.1-10.0
   - 2.6.5-7.0
   - 2.6.5-8.0
   - 2.6.5-9.0
+  - 2.6.5-10.0
   - 2.7.5-7.0
   - 2.7.5-8.0
   - 2.7.5-9.0
+  - 2.7.5-10.0
   - 2.8.3-7.0
   - 2.8.3-8.0
   - 2.8.3-9.0
-  lastUpdated: 20191123174207
+  - 2.8.3-10.0
+  lastUpdated: 20200217142056
