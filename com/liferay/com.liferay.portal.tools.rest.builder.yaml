@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.tools.rest.builder
 versioning:
   latest: 1.0.67
-  release: 1.0.67
+  release: 1.0.68
   versions:
   - 1.0.0
   - 1.0.1
@@ -74,4 +73,5 @@ versioning:
   - 1.0.65
   - 1.0.66
   - 1.0.67
-  lastUpdated: 20200212054609
+  - 1.0.68
+  lastUpdated: 20200218213852

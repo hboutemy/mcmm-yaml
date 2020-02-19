@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.plugins
 artifactId: nexus-repository-golang
 versioning:
-  latest: 3.21.0-02
-  release: 3.21.0-02
+  latest: 3.21.0-05
+  release: 3.21.0-05
   versions:
   - 3.17.0-01
   - 3.17.1-01
@@ -17,4 +17,5 @@ versioning:
   - 3.20.1-01
   - 3.21.0-01
   - 3.21.0-02
-  lastUpdated: 20200122190425
+  - 3.21.0-05
+  lastUpdated: 20200218182519

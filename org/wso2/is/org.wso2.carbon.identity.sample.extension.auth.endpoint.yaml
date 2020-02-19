@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.is
 artifactId: org.wso2.carbon.identity.sample.extension.auth.endpoint
 versioning:
-  latest: 5.11.0-m3
-  release: 5.11.0-m3
+  latest: 5.11.0-m4
+  release: 5.11.0-m4
   versions:
   - 5.5.0-alpha
   - 5.5.0-alpha2
@@ -80,4 +80,5 @@ versioning:
   - 5.10.0-m9
   - 5.11.0-m2
   - 5.11.0-m3
-  lastUpdated: 20200215165715
+  - 5.11.0-m4
+  lastUpdated: 20200218201530

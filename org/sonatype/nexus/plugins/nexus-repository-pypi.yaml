@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.plugins
 artifactId: nexus-repository-pypi
 versioning:
-  latest: 3.21.0-02
-  release: 3.21.0-02
+  latest: 3.21.0-05
+  release: 3.21.0-05
   versions:
   - 3.13.0-01
   - 3.14.0-04
@@ -26,4 +26,5 @@ versioning:
   - 3.20.1-01
   - 3.21.0-01
   - 3.21.0-02
-  lastUpdated: 20200122190428
+  - 3.21.0-05
+  lastUpdated: 20200218182521
