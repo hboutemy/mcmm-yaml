@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.sonatype.nexus
 artifactId: nexus-test-common
 versioning:
-  latest: 3.21.0-05
-  release: 3.21.0-05
+  latest: 3.21.1-01
+  release: 3.21.1-01
   versions:
   - 1.9.2-RC3
   - 1.9.2
@@ -159,5 +159,6 @@ versioning:
   - 3.21.0-01
   - 3.21.0-02
   - 3.21.0-05
+  - 3.21.1-01
   - 2.2.1
-  lastUpdated: 20200218182509
+  lastUpdated: 20200219033816

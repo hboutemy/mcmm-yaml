@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.source.formatter
 versioning:
   latest: 1.0.960
-  release: 1.0.960
+  release: 1.0.961
   versions:
   - 1.0.0
   - 1.0.1
@@ -966,4 +965,5 @@ versioning:
   - 1.0.957
   - 1.0.959
   - 1.0.960
-  lastUpdated: 20200213210440
+  - 1.0.961
+  lastUpdated: 20200219231429
