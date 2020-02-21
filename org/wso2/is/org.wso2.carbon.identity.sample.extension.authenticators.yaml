@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.is
 artifactId: org.wso2.carbon.identity.sample.extension.authenticators
 versioning:
-  latest: 5.11.0-m4
-  release: 5.11.0-m4
+  latest: 5.11.0-m5
+  release: 5.11.0-m5
   versions:
   - 5.5.0-alpha
   - 5.5.0-alpha2
@@ -74,6 +74,7 @@ versioning:
   - 5.9.0
   - 5.10.0-beta
   - 5.10.0-beta2
+  - 5.10.0-beta3
   - 5.10.0-m1
   - 5.10.0-m2
   - 5.10.0-m3
@@ -81,4 +82,5 @@ versioning:
   - 5.11.0-m2
   - 5.11.0-m3
   - 5.11.0-m4
-  lastUpdated: 20200218201531
+  - 5.11.0-m5
+  lastUpdated: 20200220040813

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.portal
 artifactId: release.dxp.bom.compile.only
 versioning:
   latest: 7.2.10.1
-  release: 7.2.10.1
+  release: 7.2.10.fp4
   versions:
   - 7.0.10.fp60
   - 7.0.10.fp61
@@ -67,4 +66,5 @@ versioning:
   - 7.2.10.fp2
   - 7.2.10.fp3
   - 7.2.10.1
-  lastUpdated: 20200213135704
+  - 7.2.10.fp4
+  lastUpdated: 20200220004238
