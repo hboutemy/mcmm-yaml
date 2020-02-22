@@ -3,8 +3,8 @@
 groupId: com.netflix.conductor
 artifactId: conductor-zookeeper-lock
 versioning:
-  latest: 2.25.2-alpha
-  release: 2.25.2-alpha
+  latest: 2.25.2-alpha.2
+  release: 2.25.2-alpha.2
   versions:
   - 2.13.1-alpha
   - 2.13.2-alpha
@@ -43,4 +43,5 @@ versioning:
   - 2.25.1-alpha
   - 2.25.1
   - 2.25.2-alpha
-  lastUpdated: 20200220113948
+  - 2.25.2-alpha.2
+  lastUpdated: 20200221202221
