@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.configuration.persistence.impl
 versioning:
   latest: 3.0.1
-  release: 3.0.1
+  release: 2.0.12
   versions:
   - 1.0.0
   - 1.0.1
@@ -35,4 +34,5 @@ versioning:
   - 2.0.10
   - 2.0.11
   - 3.0.1
-  lastUpdated: 20200212164259
+  - 2.0.12
+  lastUpdated: 20200222011010

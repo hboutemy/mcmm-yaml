@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.adaptive.media.document.library.thumbnails
 versioning:
   latest: 4.0.2
-  release: 4.0.2
+  release: 1.0.16
   versions:
   - 1.0.0
   - 1.0.1
@@ -55,4 +54,5 @@ versioning:
   - 3.0.14
   - 4.0.1
   - 4.0.2
-  lastUpdated: 20200212223914
+  - 1.0.16
+  lastUpdated: 20200221234217

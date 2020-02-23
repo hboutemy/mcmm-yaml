@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.messaging
 versioning:
   latest: 7.0.2
-  release: 7.0.2
+  release: 6.0.13
   versions:
   - 1.0.0
   - 2.0.0
@@ -79,4 +78,5 @@ versioning:
   - 6.0.12
   - 7.0.1
   - 7.0.2
-  lastUpdated: 20200214070154
+  - 6.0.13
+  lastUpdated: 20200222010627

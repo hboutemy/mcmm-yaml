@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.layout.impl
 versioning:
   latest: 5.0.6
-  release: 5.0.6
+  release: 3.0.20
   versions:
   - 1.0.0
   - 2.0.0
@@ -76,4 +75,6 @@ versioning:
   - 5.0.4
   - 5.0.5
   - 5.0.6
-  lastUpdated: 20200214120637
+  - 4.0.24
+  - 3.0.20
+  lastUpdated: 20200222020322

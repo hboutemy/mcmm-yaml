@@ -3,8 +3,8 @@
 groupId: net.nemerosa.ontrack
 artifactId: ontrack-dsl
 versioning:
-  latest: 3.41-beta.2
-  release: 3.41-beta.2
+  latest: 3.41-beta.7
+  release: 3.41-beta.7
   versions:
   - experimental-pipeline-a6e0b79
   - experimental-pipeline-a8ce70d
@@ -375,6 +375,11 @@ versioning:
   - 3.41-beta.0
   - 3.41-beta.1
   - 3.41-beta.2
+  - 3.41-beta.3
+  - 3.41-beta.4
+  - 3.41-beta.5
+  - 3.41-beta.6
+  - 3.41-beta.7
   - 2.10.0
   - feature-275-page-link-87c04df
   - feature-275-page-link-aab1758
@@ -382,4 +387,4 @@ versioning:
   - master-3c86af6
   - master-4d3a951
   - master-762890b
-  lastUpdated: 20200221203937
+  lastUpdated: 20200222220912

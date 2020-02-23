@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.knowledge.base.web
 versioning:
   latest: 4.0.5
-  release: 4.0.5
+  release: 2.0.49
   versions:
   - 1.0.0
   - 1.0.1
@@ -179,4 +178,7 @@ versioning:
   - 4.0.3
   - 4.0.4
   - 4.0.5
-  lastUpdated: 20200213105431
+  - 1.0.92
+  - 3.0.33
+  - 2.0.49
+  lastUpdated: 20200222023428

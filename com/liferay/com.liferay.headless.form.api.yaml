@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.headless.form.api
 versioning:
   latest: 10.1.0
-  release: 10.1.0
+  release: 8.4.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -46,4 +45,6 @@ versioning:
   - 9.2.1
   - 9.3.0
   - 10.1.0
-  lastUpdated: 20200212034649
+  - 9.4.0
+  - 8.4.0
+  lastUpdated: 20200222023724

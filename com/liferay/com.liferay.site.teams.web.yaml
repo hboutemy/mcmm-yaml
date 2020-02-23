@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.site.teams.web
 versioning:
   latest: 4.0.4
-  release: 4.0.4
+  release: 3.0.20
   versions:
   - 1.0.0
   - 1.0.1
@@ -74,4 +73,6 @@ versioning:
   - 4.0.2
   - 4.0.3
   - 4.0.4
-  lastUpdated: 20200213215433
+  - 1.0.30
+  - 3.0.20
+  lastUpdated: 20200222010905
