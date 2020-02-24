@@ -3,8 +3,8 @@
 groupId: net.nemerosa.ontrack
 artifactId: ontrack-extension-api
 versioning:
-  latest: 3.41-beta.7
-  release: 3.41-beta.7
+  latest: 3.41-beta.10
+  release: 3.41-beta.10
   versions:
   - experimental-pipeline-a6e0b79
   - experimental-pipeline-a8ce70d
@@ -40,6 +40,7 @@ versioning:
   - feature-600-run-info-ae4a0e9
   - feature-600-run-info-ccbdb45
   - feature-732-back-to-central-5e58285
+  - feature-735-ui-publication-e1b016a
   - master-a292b01
   - master-b02f7e6
   - master-b3d7f65
@@ -319,4 +320,7 @@ versioning:
   - 3.41-beta.5
   - 3.41-beta.6
   - 3.41-beta.7
-  lastUpdated: 20200222220918
+  - 3.41-beta.8
+  - 3.41-beta.9
+  - 3.41-beta.10
+  lastUpdated: 20200223214132
