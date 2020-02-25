@@ -3,8 +3,8 @@
 groupId: org.eclipse.che.multiuser
 artifactId: che-multiuser-permission-infra-kubernetes
 versioning:
-  latest: 7.8.0
-  release: 7.8.0
+  latest: 7.9.0
+  release: 7.9.0
   versions:
   - 6.11.0
   - 6.11.1
@@ -55,4 +55,5 @@ versioning:
   - 7.7.1
   - 7.7.1b
   - 7.8.0
-  lastUpdated: 20200130183633
+  - 7.9.0
+  lastUpdated: 20200224160446
