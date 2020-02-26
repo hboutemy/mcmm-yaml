@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework
 artifactId: spring-aop
 versioning:
-  latest: 5.2.3.RELEASE
-  release: 5.2.3.RELEASE
+  latest: 5.2.4.RELEASE
+  release: 5.2.4.RELEASE
   versions:
   - 1.0-rc1
   - 1.0
@@ -172,12 +172,14 @@ versioning:
   - 5.1.11.RELEASE
   - 5.1.12.RELEASE
   - 5.1.13.RELEASE
+  - 5.1.14.RELEASE
   - 5.2.0.RELEASE
   - 5.2.1.RELEASE
   - 5.2.2.RELEASE
   - 5.2.3.RELEASE
+  - 5.2.4.RELEASE
   - 2.0-m3
   - 2.0-m5
   - 2.0-rc1
   - 2.0-rc2
-  lastUpdated: 20200114113908
+  lastUpdated: 20200225171158
