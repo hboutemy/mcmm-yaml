@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.sync.service
 versioning:
   latest: 4.0.2
-  release: 4.0.2
+  release: 2.0.44
   versions:
   - 1.0.0
   - 1.0.1
@@ -184,4 +183,5 @@ versioning:
   - 3.0.31
   - 4.0.1
   - 4.0.2
-  lastUpdated: 20200213094343
+  - 2.0.44
+  lastUpdated: 20200226070405

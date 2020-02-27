@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.trash.service
 versioning:
   latest: 4.0.2
-  release: 4.0.2
+  release: 2.0.32
   versions:
   - 1.0.0
   - 1.0.1
@@ -70,4 +69,5 @@ versioning:
   - 3.0.21
   - 4.0.1
   - 4.0.2
-  lastUpdated: 20200213014628
+  - 2.0.32
+  lastUpdated: 20200226070438

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.integration
 artifactId: spring-integration-jdbc
 versioning:
-  latest: 5.2.3.RELEASE
-  release: 5.2.3.RELEASE
+  latest: 5.2.4.RELEASE
+  release: 5.2.4.RELEASE
   versions:
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
@@ -120,5 +120,6 @@ versioning:
   - 5.2.1.RELEASE
   - 5.2.2.RELEASE
   - 5.2.3.RELEASE
+  - 5.2.4.RELEASE
   - 4.0.0.M3
-  lastUpdated: 20200115175140
+  lastUpdated: 20200226190840

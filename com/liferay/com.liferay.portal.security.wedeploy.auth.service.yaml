@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.security.wedeploy.auth.service
 versioning:
   latest: 4.0.1
-  release: 4.0.1
+  release: 2.0.24
   versions:
   - 1.0.0
   - 1.0.1
@@ -85,4 +84,5 @@ versioning:
   - 3.0.14
   - 3.0.15
   - 4.0.1
-  lastUpdated: 20200213020858
+  - 2.0.24
+  lastUpdated: 20200226070056
