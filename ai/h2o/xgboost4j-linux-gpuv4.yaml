@@ -3,8 +3,8 @@
 groupId: ai.h2o
 artifactId: xgboost4j-linux-gpuv4
 versioning:
-  latest: 0.90.6
-  release: 0.90.6
+  latest: 1.0.0.11
+  release: 1.0.0.11
   versions:
   - 0.7.2
   - 0.7.3
@@ -24,4 +24,6 @@ versioning:
   - 0.90.3
   - 0.90.5
   - 0.90.6
-  lastUpdated: 20191211182207
+  - 1.0.0.9
+  - 1.0.0.11
+  lastUpdated: 20200227204311

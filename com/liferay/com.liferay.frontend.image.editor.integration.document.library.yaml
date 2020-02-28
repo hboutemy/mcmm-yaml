@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.image.editor.integration.document.library
 versioning:
   latest: 4.0.3
-  release: 4.0.3
+  release: 3.0.10
   versions:
   - 1.0.0
   - 1.0.1
@@ -63,4 +62,5 @@ versioning:
   - 4.0.1
   - 4.0.2
   - 4.0.3
-  lastUpdated: 20200213095523
+  - 3.0.10
+  lastUpdated: 20200227023141

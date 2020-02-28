@@ -3,8 +3,8 @@
 groupId: net.nemerosa.ontrack
 artifactId: ontrack-extension-influxdb
 versioning:
-  latest: 3.41-beta.12
-  release: 3.41-beta.12
+  latest: 3.41-beta.15
+  release: 3.41-beta.15
   versions:
   - feature-732-back-to-central-5e58285
   - feature-735-ui-publication-7c8bc12
@@ -112,4 +112,7 @@ versioning:
   - 3.41-beta.10
   - 3.41-beta.11
   - 3.41-beta.12
-  lastUpdated: 20200226110402
+  - 3.41-beta.13
+  - 3.41-beta.14
+  - 3.41-beta.15
+  lastUpdated: 20200227172959
