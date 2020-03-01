@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.layout.type.controller.control.panel
 versioning:
   latest: 5.0.0
-  release: 5.0.0
+  release: 5.0.1
   versions:
   - 1.0.0
   - 2.0.0
@@ -27,4 +26,5 @@ versioning:
   - 4.0.4
   - 4.0.5
   - 4.0.6
-  lastUpdated: 20200214114221
+  - 5.0.1
+  lastUpdated: 20200229163517

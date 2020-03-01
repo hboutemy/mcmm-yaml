@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.microsoft.translator
 versioning:
   latest: 4.0.2
-  release: 4.0.2
+  release: 4.0.3
   versions:
   - 1.0.0
   - 1.0.1
@@ -44,4 +43,5 @@ versioning:
   - 3.0.10
   - 4.0.1
   - 4.0.2
-  lastUpdated: 20200213035808
+  - 4.0.3
+  lastUpdated: 20200229161414

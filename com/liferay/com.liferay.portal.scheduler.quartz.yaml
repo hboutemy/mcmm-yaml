@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.scheduler.quartz
 versioning:
   latest: 6.0.1
-  release: 6.0.1
+  release: 6.0.2
   versions:
   - 1.0.0
   - 2.0.0
@@ -63,4 +62,5 @@ versioning:
   - 5.0.8
   - 5.0.9
   - 6.0.1
-  lastUpdated: 20200214060516
+  - 6.0.2
+  lastUpdated: 20200229175824

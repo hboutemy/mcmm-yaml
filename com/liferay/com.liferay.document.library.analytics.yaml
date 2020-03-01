@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.document.library.analytics
 versioning:
   latest: 4.0.1
-  release: 4.0.1
+  release: 4.0.2
   versions:
   - 1.0.0
   - 1.0.1
@@ -36,4 +35,5 @@ versioning:
   - 3.0.10
   - 3.0.11
   - 4.0.1
-  lastUpdated: 20200212203822
+  - 4.0.2
+  lastUpdated: 20200229051657

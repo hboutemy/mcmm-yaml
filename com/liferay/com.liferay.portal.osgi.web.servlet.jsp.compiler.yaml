@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.osgi.web.servlet.jsp.compiler
 versioning:
   latest: 5.0.1
-  release: 5.0.1
+  release: 5.0.2
   versions:
   - 1.0.6
   - 1.0.7
@@ -108,4 +107,5 @@ versioning:
   - 4.0.19
   - 4.0.20
   - 5.0.1
-  lastUpdated: 20200214064737
+  - 5.0.2
+  lastUpdated: 20200229055657

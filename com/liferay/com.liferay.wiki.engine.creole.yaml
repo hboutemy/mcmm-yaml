@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.wiki.engine.creole
 versioning:
   latest: 5.0.1
-  release: 5.0.1
+  release: 5.0.2
   versions:
   - 1.0.0
   - 2.0.0
@@ -62,4 +61,5 @@ versioning:
   - 4.0.9
   - 4.0.10
   - 5.0.1
-  lastUpdated: 20200213174137
+  - 5.0.2
+  lastUpdated: 20200229184157

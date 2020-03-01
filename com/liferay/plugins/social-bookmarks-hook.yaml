@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.plugins
 artifactId: social-bookmarks-hook
 versioning:
   latest: 7.3.10.1
-  release: 7.3.10.1
+  release: 7.3.10.2
   versions:
   - 7.0.0.1
   - 7.0.0.2
@@ -31,4 +30,5 @@ versioning:
   - 7.2.0.3
   - 7.2.0.4
   - 7.2.10.5
-  lastUpdated: 20200213123458
+  - 7.3.10.2
+  lastUpdated: 20200229055304

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.external.reference.api
 versioning:
   latest: 3.0.0
-  release: 3.0.0
+  release: 3.0.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -24,4 +23,5 @@ versioning:
   - 2.0.5
   - 2.0.6
   - 2.0.7
-  lastUpdated: 20200212202918
+  - 3.0.1
+  lastUpdated: 20200229051911

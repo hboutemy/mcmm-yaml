@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.dependency.manager.component.executor.factory
 versioning:
   latest: 2.0.1
-  release: 2.0.1
+  release: 2.0.2
   versions:
   - 1.0.0
   - 1.0.1
@@ -14,4 +13,5 @@ versioning:
   - 1.0.4
   - 1.0.5
   - 2.0.1
-  lastUpdated: 20200212010853
+  - 2.0.2
+  lastUpdated: 20200229055555

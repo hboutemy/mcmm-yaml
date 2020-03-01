@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.site.navigation.breadcrumb.web
 versioning:
   latest: 6.0.0
-  release: 6.0.0
+  release: 6.0.1
   versions:
   - 1.0.0
   - 2.0.0
@@ -71,4 +70,5 @@ versioning:
   - 5.0.15
   - 5.0.16
   - 5.0.17
-  lastUpdated: 20200213222900
+  - 6.0.1
+  lastUpdated: 20200229195529

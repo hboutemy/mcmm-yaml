@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.configuration.module.configuration
 versioning:
   latest: 5.0.1
-  release: 5.0.1
+  release: 5.0.2
   versions:
   - 1.0.0
   - 1.0.1
@@ -49,4 +48,5 @@ versioning:
   - 4.0.6
   - 4.0.7
   - 5.0.1
-  lastUpdated: 20200214073734
+  - 5.0.2
+  lastUpdated: 20200229161905
