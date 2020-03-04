@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud
 artifactId: spring-cloud-stream-dependencies
 versioning:
-  latest: 3.0.2.RELEASE
-  release: 3.0.2.RELEASE
+  latest: 3.0.3.RELEASE
+  release: 3.0.3.RELEASE
   versions:
   - Brooklyn.RELEASE
   - Brooklyn.SR1
@@ -32,9 +32,11 @@ versioning:
   - Horsham.RELEASE
   - Horsham.SR1
   - Horsham.SR2
+  - Horsham.SR3
   - 1.0.0.RELEASE
   - 1.0.1.RELEASE
   - 1.0.2.RELEASE
   - 1.0.3.RELEASE
   - 3.0.2.RELEASE
-  lastUpdated: 20200213141519
+  - 3.0.3.RELEASE
+  lastUpdated: 20200303175348

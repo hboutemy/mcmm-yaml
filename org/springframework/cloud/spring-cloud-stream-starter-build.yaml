@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud
 artifactId: spring-cloud-stream-starter-build
 versioning:
-  latest: 3.0.2.RELEASE
-  release: 3.0.2.RELEASE
+  latest: 3.0.3.RELEASE
+  release: 3.0.3.RELEASE
   versions:
   - Brooklyn.RELEASE
   - Brooklyn.SR1
@@ -32,5 +32,7 @@ versioning:
   - Horsham.RELEASE
   - Horsham.SR1
   - Horsham.SR2
+  - Horsham.SR3
   - 3.0.2.RELEASE
-  lastUpdated: 20200213141523
+  - 3.0.3.RELEASE
+  lastUpdated: 20200303175348
