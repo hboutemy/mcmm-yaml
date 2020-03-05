@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-cloudiot
 versioning:
-  latest: v1-rev20200120-1.30.8
-  release: v1-rev20200120-1.30.8
+  latest: v1-rev20200220-1.30.8
+  release: v1-rev20200220-1.30.8
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.20.0
@@ -353,6 +353,8 @@ versioning:
   - v1-rev95-1.25.0
   - v1-rev96-1.18.0-rc
   - v1-rev96-1.25.0
+  - v1-rev97-1.18.0-rc
+  - v1-rev97-1.25.0
   - v1-rev20170922-1.22.0
   - v1-rev20180926-1.26.0
   - v1-rev20180926-1.27.0
@@ -395,4 +397,5 @@ versioning:
   - v1-rev20191203-1.29.2
   - v1-rev20191203-1.30.3
   - v1-rev20200120-1.30.8
-  lastUpdated: 20200227183416
+  - v1-rev20200220-1.30.8
+  lastUpdated: 20200304130737

@@ -1,17 +1,12 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.glassfish.tyrus.tests
 artifactId: tyrus-tests-e2e-auth-digest
 versioning:
-  latest: 1.15
-  release: 1.15
+  latest: 1.16
+  release: 1.16
   versions:
-  - 1.8
-  - 1.8.1
-  - 1.8.2
-  - 1.8.3
-  - 1.9
+  - 1.16
   - 1.10
   - 1.11
   - 1.11.1
@@ -20,4 +15,9 @@ versioning:
   - 1.13.1
   - 1.14
   - 1.15
-  lastUpdated: 20190125173607
+  - 1.8
+  - 1.8.1
+  - 1.8.2
+  - 1.8.3
+  - 1.9
+  lastUpdated: 20200304125902

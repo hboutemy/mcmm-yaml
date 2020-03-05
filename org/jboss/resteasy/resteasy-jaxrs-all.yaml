@@ -3,8 +3,8 @@
 groupId: org.jboss.resteasy
 artifactId: resteasy-jaxrs-all
 versioning:
-  latest: 4.5.1.Final
-  release: 4.5.1.Final
+  latest: 4.5.2.Final
+  release: 4.5.2.Final
   versions:
   - 1.0-beta-6
   - 1.0-beta-7
@@ -104,6 +104,7 @@ versioning:
   - 3.6.1.SP5
   - 3.6.1.SP6
   - 3.6.1.SP7
+  - 3.6.1.SP8
   - 3.6.2.Final
   - 3.6.3.Final
   - 3.6.3.SP1
@@ -140,4 +141,5 @@ versioning:
   - 4.4.2.Final
   - 4.5.0.Final
   - 4.5.1.Final
-  lastUpdated: 20200226081752
+  - 4.5.2.Final
+  lastUpdated: 20200304105043

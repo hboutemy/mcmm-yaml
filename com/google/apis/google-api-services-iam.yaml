@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-iam
 versioning:
-  latest: v1-rev20200131-1.30.8
-  release: v1-rev20200131-1.30.8
+  latest: v1-rev20200221-1.30.8
+  release: v1-rev20200221-1.30.8
   versions:
   - v1alpha1-rev1-1.18.0-rc
   - v1alpha1-rev1-1.19.1
@@ -409,6 +409,8 @@ versioning:
   - v1-rev310-1.25.0
   - v1-rev311-1.18.0-rc
   - v1-rev311-1.25.0
+  - v1-rev312-1.18.0-rc
+  - v1-rev312-1.25.0
   - v1-rev20181005-1.26.0
   - v1-rev20181005-1.27.0
   - v1-rev20190111-1.26.0
@@ -479,4 +481,5 @@ versioning:
   - v1-rev20191213-1.28.0
   - v1-rev20191213-1.29.2
   - v1-rev20200131-1.30.8
-  lastUpdated: 20200226224924
+  - v1-rev20200221-1.30.8
+  lastUpdated: 20200304144642

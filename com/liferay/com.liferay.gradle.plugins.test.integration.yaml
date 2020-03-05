@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.gradle.plugins.test.integration
 versioning:
   latest: 3.0.1
-  release: 3.0.1
+  release: 3.0.2
   versions:
   - 1.0.0
   - 1.0.1
@@ -35,4 +34,5 @@ versioning:
   - 2.4.6
   - 3.0.0
   - 3.0.1
-  lastUpdated: 20200214165540
+  - 3.0.2
+  lastUpdated: 20200304202705
