@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.output.stream.container
 versioning:
   latest: 6.0.1
-  release: 6.0.1
+  release: 6.0.2
   versions:
   - 1.0.0
   - 2.0.0
@@ -34,4 +33,5 @@ versioning:
   - 5.0.5
   - 5.0.6
   - 6.0.1
-  lastUpdated: 20200214062921
+  - 6.0.2
+  lastUpdated: 20200305061503

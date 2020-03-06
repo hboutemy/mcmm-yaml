@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.osgi.web.jasper.plugins.taglib
 versioning:
   latest: 4.0.0
-  release: 4.0.0
+  release: 4.0.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -16,4 +15,5 @@ versioning:
   - 2.0.2
   - 3.0.0
   - 3.0.1
-  lastUpdated: 20200115012554
+  - 4.0.1
+  lastUpdated: 20200305085215

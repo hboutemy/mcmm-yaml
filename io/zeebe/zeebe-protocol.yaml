@@ -3,8 +3,8 @@
 groupId: io.zeebe
 artifactId: zeebe-protocol
 versioning:
-  latest: 0.23.0-alpha1
-  release: 0.23.0-alpha1
+  latest: 0.23.0-alpha2
+  release: 0.23.0-alpha2
   versions:
   - 0.17.0
   - 0.18.0
@@ -24,4 +24,5 @@ versioning:
   - 0.22.0
   - 0.22.1
   - 0.23.0-alpha1
-  lastUpdated: 20200205151645
+  - 0.23.0-alpha2
+  lastUpdated: 20200305161108

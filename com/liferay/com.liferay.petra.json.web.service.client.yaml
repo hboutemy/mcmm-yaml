@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.petra.json.web.service.client
 versioning:
   latest: 15.0.1
-  release: 15.0.1
+  release: 15.0.2
   versions:
   - 1.0.0
   - 1.0.1
@@ -106,4 +105,5 @@ versioning:
   - 14.0.15
   - 14.0.16
   - 15.0.1
-  lastUpdated: 20200214083849
+  - 15.0.2
+  lastUpdated: 20200305060532

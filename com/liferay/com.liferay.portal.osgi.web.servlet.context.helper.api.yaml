@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.osgi.web.servlet.context.helper.api
 versioning:
   latest: 3.0.0
-  release: 3.0.0
+  release: 3.0.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -24,4 +23,5 @@ versioning:
   - 2.1.1
   - 2.1.2
   - 2.1.3
-  lastUpdated: 20200212185305
+  - 3.0.1
+  lastUpdated: 20200305085340

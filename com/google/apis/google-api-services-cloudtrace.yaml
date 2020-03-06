@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-cloudtrace
 versioning:
-  latest: v2-rev20200218-1.30.8
-  release: v2-rev20200218-1.30.8
+  latest: v2-rev20200225-1.30.9
+  release: v2-rev20200225-1.30.9
   versions:
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.19.0
@@ -367,6 +367,8 @@ versioning:
   - v1-rev169-1.25.0
   - v1-rev170-1.18.0-rc
   - v1-rev170-1.25.0
+  - v1-rev171-1.18.0-rc
+  - v1-rev171-1.25.0
   - v1-rev20180910-1.26.0
   - v1-rev20180910-1.27.0
   - v1-rev20180910-1.28.0
@@ -377,14 +379,18 @@ versioning:
   - v1-rev20190917-1.30.3
   - v1-rev20200203-1.30.8
   - v1-rev20200218-1.30.8
+  - v1-rev20200225-1.30.9
   - v2beta1-rev1-1.18.0-rc
   - v2beta1-rev1-1.25.0
   - v2beta1-rev2-1.18.0-rc
   - v2beta1-rev2-1.25.0
   - v2beta1-rev3-1.18.0-rc
   - v2beta1-rev3-1.25.0
+  - v2beta1-rev4-1.18.0-rc
+  - v2beta1-rev4-1.25.0
   - v2beta1-rev20200212-1.30.8
   - v2beta1-rev20200218-1.30.8
+  - v2beta1-rev20200225-1.30.9
   - v2-rev1-1.18.0-rc
   - v2-rev1-1.20.0
   - v2-rev1-1.21.0
@@ -667,6 +673,8 @@ versioning:
   - v2-rev101-1.25.0
   - v2-rev102-1.18.0-rc
   - v2-rev102-1.25.0
+  - v2-rev103-1.18.0-rc
+  - v2-rev103-1.25.0
   - v2-rev20180820-1.26.0
   - v2-rev20180820-1.27.0
   - v2-rev20190102-1.26.0
@@ -691,4 +699,5 @@ versioning:
   - v2-rev20191202-1.30.3
   - v2-rev20200203-1.30.8
   - v2-rev20200218-1.30.8
-  lastUpdated: 20200304114422
+  - v2-rev20200225-1.30.9
+  lastUpdated: 20200305233031
