@@ -3,8 +3,8 @@
 groupId: org.teiid.connectors
 artifactId: couchbase
 versioning:
-  latest: 13.0.2
-  release: 13.0.2
+  latest: 13.1.0
+  release: 13.1.0
   versions:
   - 10.0.0.Alpha2
   - 10.0.0.Beta1
@@ -57,4 +57,5 @@ versioning:
   - 12.3.2
   - 13.0.1
   - 13.0.2
-  lastUpdated: 20200304003753
+  - 13.1.0
+  lastUpdated: 20200306134251

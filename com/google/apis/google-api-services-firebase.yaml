@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-firebase
 versioning:
-  latest: v1beta1-rev20200210-1.30.8
-  release: v1beta1-rev20200210-1.30.8
+  latest: v1beta1-rev20200215-1.30.9
+  release: v1beta1-rev20200215-1.30.9
   versions:
   - v1beta1-rev18-1.25.0
   - v1beta1-rev63-1.18.0-rc
@@ -52,6 +52,8 @@ versioning:
   - v1beta1-rev86-1.25.0
   - v1beta1-rev87-1.18.0-rc
   - v1beta1-rev87-1.25.0
+  - v1beta1-rev88-1.18.0-rc
+  - v1beta1-rev88-1.25.0
   - v1beta1-rev20190618-1.26.0
   - v1beta1-rev20190618-1.27.0
   - v1beta1-rev20190618-1.28.0
@@ -87,4 +89,5 @@ versioning:
   - v1beta1-rev20191217-1.30.3
   - v1beta1-rev20191217-1.30.8
   - v1beta1-rev20200210-1.30.8
-  lastUpdated: 20200305201019
+  - v1beta1-rev20200215-1.30.9
+  lastUpdated: 20200306233834

@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-kogito-deployment
 versioning:
-  latest: 1.3.0.Alpha2
-  release: 1.3.0.Alpha2
+  latest: 1.3.0.CR1
+  release: 1.3.0.CR1
   versions:
   - 0.17.0
   - 0.18.0
@@ -37,4 +37,5 @@ versioning:
   - 1.2.1.Final
   - 1.3.0.Alpha1
   - 1.3.0.Alpha2
-  lastUpdated: 20200219090551
+  - 1.3.0.CR1
+  lastUpdated: 20200306013629

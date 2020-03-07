@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-safebrowsing
 versioning:
-  latest: v4-rev20200210-1.30.8
-  release: v4-rev20200210-1.30.8
+  latest: v4-rev20200210-1.30.9
+  release: v4-rev20200210-1.30.9
   versions:
   - v4-rev1-1.18.0-rc
   - v4-rev1-1.19.1
@@ -358,6 +358,8 @@ versioning:
   - v4-rev129-1.25.0
   - v4-rev130-1.18.0-rc
   - v4-rev130-1.25.0
+  - v4-rev131-1.18.0-rc
+  - v4-rev131-1.25.0
   - v4-rev20180626-1.26.0
   - v4-rev20180626-1.27.0
   - v4-rev20180626-1.28.0
@@ -371,4 +373,5 @@ versioning:
   - v4-rev20190923-1.30.3
   - v4-rev20190923-1.30.8
   - v4-rev20200210-1.30.8
-  lastUpdated: 20200304230052
+  - v4-rev20200210-1.30.9
+  lastUpdated: 20200306093350
