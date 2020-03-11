@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-billingbudgets
 versioning:
-  latest: v1beta1-rev20200229-1.30.9
-  release: v1beta1-rev20200229-1.30.9
+  latest: v1beta1-rev20200308-1.30.9
+  release: v1beta1-rev20200308-1.30.9
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.25.0
@@ -16,6 +16,8 @@ versioning:
   - v1beta1-rev4-1.25.0
   - v1beta1-rev5-1.18.0-rc
   - v1beta1-rev5-1.25.0
+  - v1beta1-rev6-1.18.0-rc
+  - v1beta1-rev6-1.25.0
   - v1beta1-rev20191118-1.28.0
   - v1beta1-rev20191118-1.29.2
   - v1beta1-rev20191118-1.30.3
@@ -23,4 +25,5 @@ versioning:
   - v1beta1-rev20200215-1.30.8
   - v1beta1-rev20200229-1.30.8
   - v1beta1-rev20200229-1.30.9
-  lastUpdated: 20200305222152
+  - v1beta1-rev20200308-1.30.9
+  lastUpdated: 20200310200633
