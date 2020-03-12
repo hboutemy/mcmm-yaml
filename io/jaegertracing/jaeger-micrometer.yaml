@@ -3,8 +3,8 @@
 groupId: io.jaegertracing
 artifactId: jaeger-micrometer
 versioning:
-  latest: 1.1.0
-  release: 1.1.0
+  latest: 1.2.0
+  release: 1.2.0
   versions:
   - 0.27.0-RC1
   - 0.27.0
@@ -33,4 +33,5 @@ versioning:
   - 0.35.5
   - 1.0.0
   - 1.1.0
-  lastUpdated: 20200217093905
+  - 1.2.0
+  lastUpdated: 20200311090757

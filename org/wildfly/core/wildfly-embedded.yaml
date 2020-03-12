@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-embedded
 versioning:
-  latest: 11.0.0.Beta10
-  release: 11.0.0.Beta10
+  latest: 11.0.0.Final
+  release: 11.0.0.Final
   versions:
   - 1.0.0.Beta1
   - 1.0.0.Beta2
@@ -237,4 +237,5 @@ versioning:
   - 11.0.0.Beta8
   - 11.0.0.Beta9
   - 11.0.0.Beta10
-  lastUpdated: 20200305101816
+  - 11.0.0.Final
+  lastUpdated: 20200311162921

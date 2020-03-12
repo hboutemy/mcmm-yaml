@@ -3,8 +3,8 @@
 groupId: com.codacy
 artifactId: codacy-plugins-runner-kubernetes_2.12
 versioning:
-  latest: 12.0.8-testnewcodacysbt.02fec220_play_2.7
-  release: 12.0.8-testnewcodacysbt.02fec220_play_2.7
+  latest: 12.0.9_play_2.7
+  release: 12.0.9_play_2.7
   versions:
   - 7.4.1_play_2.6
   - 7.4.1_play_2.7
@@ -235,6 +235,10 @@ versioning:
   - 12.0.5_play_2.7
   - 12.0.7_play_2.6
   - 12.0.7_play_2.7
+  - 12.0.8_play_2.6
+  - 12.0.8_play_2.7
   - 12.0.8-testnewcodacysbt.02fec220_play_2.6
   - 12.0.8-testnewcodacysbt.02fec220_play_2.7
-  lastUpdated: 20200310120341
+  - 12.0.9_play_2.6
+  - 12.0.9_play_2.7
+  lastUpdated: 20200311103708

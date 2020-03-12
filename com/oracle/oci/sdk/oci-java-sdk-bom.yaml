@@ -3,8 +3,8 @@
 groupId: com.oracle.oci.sdk
 artifactId: oci-java-sdk-bom
 versioning:
-  latest: 1.13.2
-  release: 1.13.2
+  latest: 1.14.0.1
+  release: 1.14.0.1
   versions:
   - 1.5.2
   - 1.5.4
@@ -46,4 +46,6 @@ versioning:
   - 1.13.0
   - 1.13.1
   - 1.13.2
-  lastUpdated: 20200303211738
+  - 1.14.0
+  - 1.14.0.1
+  lastUpdated: 20200311214959

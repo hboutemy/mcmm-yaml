@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-firebaserules
 versioning:
-  latest: v1-rev20200206-1.30.9
-  release: v1-rev20200206-1.30.9
+  latest: v1-rev20200303-1.30.9
+  release: v1-rev20200303-1.30.9
   versions:
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.20.0
@@ -397,6 +397,8 @@ versioning:
   - v1-rev304-1.25.0
   - v1-rev305-1.18.0-rc
   - v1-rev305-1.25.0
+  - v1-rev306-1.18.0-rc
+  - v1-rev306-1.25.0
   - v1-rev20181005-1.26.0
   - v1-rev20181005-1.27.0
   - v1-rev20181005-1.28.0
@@ -420,4 +422,5 @@ versioning:
   - v1-rev20191209-1.30.8
   - v1-rev20200206-1.30.8
   - v1-rev20200206-1.30.9
-  lastUpdated: 20200306010039
+  - v1-rev20200303-1.30.9
+  lastUpdated: 20200311201450

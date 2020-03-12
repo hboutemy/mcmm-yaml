@@ -3,8 +3,8 @@
 groupId: com.netflix.conductor
 artifactId: conductor-postgres-persistence
 versioning:
-  latest: 2.25.5
-  release: 2.25.5
+  latest: 2.25.6
+  release: 2.25.6
   versions:
   - 2.21.0-alpha
   - 2.21.0
@@ -33,4 +33,5 @@ versioning:
   - 2.25.3
   - 2.25.4
   - 2.25.5
-  lastUpdated: 20200226000501
+  - 2.25.6
+  lastUpdated: 20200311014638

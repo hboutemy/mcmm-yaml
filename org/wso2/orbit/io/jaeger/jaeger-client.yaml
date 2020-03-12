@@ -1,11 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.wso2.orbit.io.jaeger
 artifactId: jaeger-client
 versioning:
-  latest: 0.32.0.wso2v1
+  latest: 0.32.0.wso2v2
   release: 0.32.0.wso2v2
   versions:
   - 0.32.0.wso2v1
   - 0.32.0.wso2v2
-  lastUpdated: 20200310074706
+  lastUpdated: 20200311024118
