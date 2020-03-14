@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-pubsub
 versioning:
-  latest: v1-rev20200218-1.30.9
-  release: v1-rev20200218-1.30.9
+  latest: v1-rev20200303-1.30.9
+  release: v1-rev20200303-1.30.9
   versions:
   - v1beta1a-rev1-1.17.0-rc
   - v1beta1a-rev1-1.18.0-rc
@@ -375,6 +375,8 @@ versioning:
   - v1beta1a-rev460-1.25.0
   - v1beta1a-rev461-1.18.0-rc
   - v1beta1a-rev461-1.25.0
+  - v1beta1a-rev462-1.18.0-rc
+  - v1beta1a-rev462-1.25.0
   - v1beta1a-rev20180604-1.26.0
   - v1beta1a-rev20180604-1.27.0
   - v1beta1a-rev20180604-1.28.0
@@ -859,6 +861,8 @@ versioning:
   - v1beta2-rev457-1.25.0
   - v1beta2-rev458-1.18.0-rc
   - v1beta2-rev458-1.25.0
+  - v1beta2-rev459-1.18.0-rc
+  - v1beta2-rev459-1.25.0
   - v1beta2-rev20180723-1.26.0
   - v1beta2-rev20180723-1.27.0
   - v1beta2-rev20180723-1.28.0
@@ -900,6 +904,7 @@ versioning:
   - v1beta2-rev20200121-1.30.8
   - v1beta2-rev20200211-1.30.8
   - v1beta2-rev20200211-1.30.9
+  - v1beta2-rev20200303-1.30.9
   - v1-rev2-1.18.0-rc
   - v1-rev2-1.19.0
   - v1-rev2-1.19.1
@@ -1226,6 +1231,8 @@ versioning:
   - v1-rev450-1.25.0
   - v1-rev451-1.18.0-rc
   - v1-rev451-1.25.0
+  - v1-rev452-1.18.0-rc
+  - v1-rev452-1.25.0
   - v1-rev20180828-1.26.0
   - v1-rev20181105-1.26.0
   - v1-rev20181105-1.27.0
@@ -1295,8 +1302,9 @@ versioning:
   - v1-rev20200121-1.30.8
   - v1-rev20200211-1.30.8
   - v1-rev20200218-1.30.9
+  - v1-rev20200303-1.30.9
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.19.0
   - v1-rev1-1.19.1
   - v1-rev1-1.20.0
-  lastUpdated: 20200308173506
+  lastUpdated: 20200313202620
