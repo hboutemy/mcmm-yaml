@@ -3,8 +3,8 @@
 groupId: com.netflix.conductor
 artifactId: conductor-redis-lock
 versioning:
-  latest: 2.25.6
-  release: 2.25.6
+  latest: 2.25.7
+  release: 2.25.7
   versions:
   - 2.16.6-alpha
   - 2.16.6-alpha.1
@@ -39,4 +39,5 @@ versioning:
   - 2.25.4
   - 2.25.5
   - 2.25.6
-  lastUpdated: 20200311014640
+  - 2.25.7
+  lastUpdated: 20200314003318

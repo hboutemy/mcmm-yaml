@@ -3,8 +3,10 @@
 groupId: io.github.podile
 artifactId: cassandra-exporter-parent
 versioning:
-  latest: 0.9.11
-  release: 0.9.11
+  latest: 0.9.11.1
+  release: 0.9.11.1
   versions:
   - 0.9.11
-  lastUpdated: 20200313141920
+  - 0.9.11.1
+  - 0.9.11.0
+  lastUpdated: 20200314191955
