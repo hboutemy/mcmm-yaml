@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.wso2.carbon.apimgt
 artifactId: org.wso2.carbon.apimgt.rest.api.store.feature
 versioning:
@@ -1134,6 +1135,13 @@ versioning:
   - 6.6.143
   - 6.6.144
   - 6.6.145
+  - 6.6.146
+  - 6.6.147
+  - 6.6.149
+  - 6.6.150
+  - 6.6.151
+  - 6.6.152
+  - 6.6.153
   - 7.0.1
   - 7.0.2
   - 7.0.3
@@ -1379,4 +1387,5 @@ versioning:
   - 7.0.246
   - 7.0.247
   - 7.0.248
-  lastUpdated: 20200315045130
+  - 6.6.148
+  lastUpdated: 20200316192559

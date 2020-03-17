@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat
 artifactId: tomcat-i18n-ru
 versioning:
-  latest: 10.0.0-M1
-  release: 10.0.0-M1
+  latest: 10.0.0-M3
+  release: 10.0.0-M3
   versions:
   - 7.0.91
   - 7.0.92
@@ -29,6 +29,7 @@ versioning:
   - 8.5.49
   - 8.5.50
   - 8.5.51
+  - 8.5.53
   - 9.0.11
   - 9.0.12
   - 9.0.13
@@ -45,5 +46,7 @@ versioning:
   - 9.0.29
   - 9.0.30
   - 9.0.31
+  - 9.0.33
   - 10.0.0-M1
-  lastUpdated: 20200220163135
+  - 10.0.0-M3
+  lastUpdated: 20200316091634
