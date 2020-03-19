@@ -3,8 +3,8 @@
 groupId: com.guicedee.services
 artifactId: jakarta.mail
 versioning:
-  latest: 1.0.5.2-jre13
-  release: 1.0.5.2-jre13
+  latest: 1.0.5.3-jre13
+  release: 1.0.5.3-jre13
   versions:
   - 1.0.1.0
   - 1.0.1.0-jre8
@@ -98,4 +98,7 @@ versioning:
   - 1.0.5.2
   - 1.0.5.2-jre12
   - 1.0.5.2-jre13
-  lastUpdated: 20200315152053
+  - 1.0.5.3
+  - 1.0.5.3-jre12
+  - 1.0.5.3-jre13
+  lastUpdated: 20200318211828
