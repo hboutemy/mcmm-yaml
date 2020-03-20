@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-cloudbuild
 versioning:
-  latest: v1-rev20200308-1.30.9
-  release: v1-rev20200308-1.30.9
+  latest: v1-rev20200317-1.30.9
+  release: v1-rev20200317-1.30.9
   versions:
   - v1alpha1-rev5-1.18.0-rc
   - v1alpha1-rev22-1.18.0-rc
@@ -175,6 +175,8 @@ versioning:
   - v1alpha1-rev74-1.25.0
   - v1alpha1-rev75-1.18.0-rc
   - v1alpha1-rev75-1.25.0
+  - v1alpha1-rev76-1.18.0-rc
+  - v1alpha1-rev76-1.25.0
   - v1alpha1-rev20181211-1.26.0
   - v1alpha1-rev20181211-1.27.0
   - v1alpha1-rev20181215-1.26.0
@@ -214,6 +216,7 @@ versioning:
   - v1alpha1-rev20200220-1.30.8
   - v1alpha1-rev20200229-1.30.9
   - v1alpha1-rev20200308-1.30.9
+  - v1alpha1-rev20200317-1.30.9
   - v1alpha2-rev2-1.18.0-rc
   - v1alpha2-rev2-1.25.0
   - v1alpha2-rev3-1.18.0-rc
@@ -224,10 +227,13 @@ versioning:
   - v1alpha2-rev5-1.25.0
   - v1alpha2-rev6-1.18.0-rc
   - v1alpha2-rev6-1.25.0
+  - v1alpha2-rev7-1.18.0-rc
+  - v1alpha2-rev7-1.25.0
   - v1alpha2-rev20200108-1.30.8
   - v1alpha2-rev20200220-1.30.8
   - v1alpha2-rev20200229-1.30.9
   - v1alpha2-rev20200308-1.30.9
+  - v1alpha2-rev20200317-1.30.9
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.19.1
   - v1-rev1-1.20.0
@@ -1854,6 +1860,8 @@ versioning:
   - v1-rev878-1.25.0
   - v1-rev879-1.18.0-rc
   - v1-rev879-1.25.0
+  - v1-rev880-1.18.0-rc
+  - v1-rev880-1.25.0
   - v1-rev20181017-1.26.0
   - v1-rev20181017-1.27.0
   - v1-rev20181017-1.28.0
@@ -1897,4 +1905,5 @@ versioning:
   - v1-rev20200220-1.30.8
   - v1-rev20200229-1.30.9
   - v1-rev20200308-1.30.9
-  lastUpdated: 20200310202019
+  - v1-rev20200317-1.30.9
+  lastUpdated: 20200319202357

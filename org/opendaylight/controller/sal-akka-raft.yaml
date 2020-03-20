@@ -3,8 +3,8 @@
 groupId: org.opendaylight.controller
 artifactId: sal-akka-raft
 versioning:
-  latest: 1.10.2
-  release: 1.10.2
+  latest: 1.11.0
+  release: 1.11.0
   versions:
   - 1.1-Helium
   - 1.1.1-Helium-SR1
@@ -52,4 +52,5 @@ versioning:
   - 1.10.0
   - 1.10.1
   - 1.10.2
-  lastUpdated: 20200212035938
+  - 1.11.0
+  lastUpdated: 20200319132733

@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-bigqueryreservation
 versioning:
-  latest: v1-rev20200220-1.30.9
-  release: v1-rev20200220-1.30.9
+  latest: v1-rev20200315-1.30.9
+  release: v1-rev20200315-1.30.9
   versions:
   - v1alpha2-rev8-1.18.0-rc
   - v1alpha2-rev8-1.25.0
@@ -18,6 +18,8 @@ versioning:
   - v1alpha2-rev13-1.25.0
   - v1alpha2-rev14-1.18.0-rc
   - v1alpha2-rev14-1.25.0
+  - v1alpha2-rev15-1.18.0-rc
+  - v1alpha2-rev15-1.25.0
   - v1alpha2-rev20190816-1.28.0
   - v1alpha2-rev20190816-1.29.2
   - v1alpha2-rev20190816-1.30.1
@@ -45,6 +47,8 @@ versioning:
   - v1beta1-rev10-1.25.0
   - v1beta1-rev11-1.18.0-rc
   - v1beta1-rev11-1.25.0
+  - v1beta1-rev12-1.18.0-rc
+  - v1beta1-rev12-1.25.0
   - v1beta1-rev20191203-1.28.0
   - v1beta1-rev20191203-1.29.2
   - v1beta1-rev20191203-1.30.3
@@ -55,6 +59,7 @@ versioning:
   - v1beta1-rev20200205-1.30.8
   - v1beta1-rev20200220-1.30.8
   - v1beta1-rev20200229-1.30.9
+  - v1beta1-rev20200315-1.30.9
   - v1-rev8-1.18.0-rc
   - v1-rev8-1.25.0
   - v1-rev9-1.18.0-rc
@@ -67,6 +72,8 @@ versioning:
   - v1-rev13-1.25.0
   - v1-rev14-1.18.0-rc
   - v1-rev14-1.25.0
+  - v1-rev15-1.18.0-rc
+  - v1-rev15-1.25.0
   - v1-rev20190816-1.28.0
   - v1-rev20190816-1.29.2
   - v1-rev20190816-1.30.1
@@ -80,4 +87,5 @@ versioning:
   - v1-rev20200116-1.30.8
   - v1-rev20200220-1.30.8
   - v1-rev20200220-1.30.9
-  lastUpdated: 20200305222017
+  - v1-rev20200315-1.30.9
+  lastUpdated: 20200319200718
