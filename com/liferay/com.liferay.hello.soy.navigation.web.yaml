@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.hello.soy.navigation.web
 versioning:
   latest: 4.0.1
-  release: 4.0.1
+  release: 3.0.15
   versions:
   - 1.0.0
   - 1.0.1
@@ -43,4 +42,5 @@ versioning:
   - 3.0.13
   - 3.0.14
   - 4.0.1
-  lastUpdated: 20200213011202
+  - 3.0.15
+  lastUpdated: 20200320024830
