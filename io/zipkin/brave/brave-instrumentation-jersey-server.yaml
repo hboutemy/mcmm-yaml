@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-instrumentation-jersey-server
 versioning:
-  latest: 5.10.1
-  release: 5.10.1
+  latest: 5.10.2
+  release: 5.10.2
   versions:
   - 4.16.0
   - 4.16.1
@@ -61,4 +61,5 @@ versioning:
   - 5.9.5
   - 5.10.0
   - 5.10.1
-  lastUpdated: 20200227041150
+  - 5.10.2
+  lastUpdated: 20200321135055
