@@ -3,8 +3,8 @@
 groupId: net.quasardb
 artifactId: kafka-connect-qdb
 versioning:
-  latest: 3.7.0
-  release: 3.7.0
+  latest: 3.8.0-rc1
+  release: 3.8.0-rc1
   versions:
   - 3.0.0
   - 3.1.0
@@ -20,4 +20,5 @@ versioning:
   - 3.6.0-rc2
   - 3.6.0
   - 3.7.0
-  lastUpdated: 20200303153036
+  - 3.8.0-rc1
+  lastUpdated: 20200323171301

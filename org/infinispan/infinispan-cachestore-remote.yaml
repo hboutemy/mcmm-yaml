@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-cachestore-remote
 versioning:
-  latest: 11.0.0.Alpha2
-  release: 11.0.0.Alpha2
+  latest: 11.0.0.Dev03
+  release: 11.0.0.Dev03
   versions:
   - 5.0.0.FINAL
   - 5.0.1.FINAL
@@ -247,4 +247,5 @@ versioning:
   - 11.0.0.Alpha
   - 11.0.0.Alpha1
   - 11.0.0.Alpha2
-  lastUpdated: 20200316092603
+  - 11.0.0.Dev03
+  lastUpdated: 20200323105744
