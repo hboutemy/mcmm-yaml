@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-kudu
 versioning:
-  latest: 0.233
-  release: 0.233
+  latest: 0.233.1
+  release: 0.233.1
   versions:
   - 0.209
   - 0.210
@@ -33,4 +33,5 @@ versioning:
   - 0.231.1
   - 0.232
   - 0.233
-  lastUpdated: 20200318221343
+  - 0.233.1
+  lastUpdated: 20200324072517

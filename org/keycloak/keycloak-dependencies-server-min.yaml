@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-dependencies-server-min
 versioning:
-  latest: 9.0.0
-  release: 9.0.0
+  latest: 9.0.2
+  release: 9.0.2
   versions:
   - 1.0-beta-4
   - 1.0-rc-1
@@ -103,5 +103,6 @@ versioning:
   - 8.0.1
   - 8.0.2
   - 9.0.0
+  - 9.0.2
   - 1.5.0-Final
-  lastUpdated: 20200217122723
+  lastUpdated: 20200324063103

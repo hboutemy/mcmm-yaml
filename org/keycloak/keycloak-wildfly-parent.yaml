@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-wildfly-parent
 versioning:
-  latest: 9.0.0
-  release: 9.0.0
+  latest: 9.0.2
+  release: 9.0.2
   versions:
   - 1.7.0.CR1
   - 1.7.0.Final
@@ -79,4 +79,5 @@ versioning:
   - 8.0.1
   - 8.0.2
   - 9.0.0
-  lastUpdated: 20200217122837
+  - 9.0.2
+  lastUpdated: 20200324063157

@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-composer
 versioning:
-  latest: v1-rev20200207-1.30.9
-  release: v1-rev20200207-1.30.9
+  latest: v1-rev20200313-1.30.9
+  release: v1-rev20200313-1.30.9
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.22.0
@@ -115,6 +115,7 @@ versioning:
   - v1beta1-rev20190827-1.30.8
   - v1beta1-rev20200207-1.30.8
   - v1beta1-rev20200219-1.30.9
+  - v1beta1-rev20200313-1.30.9
   - v1-rev2-1.25.0
   - v1-rev3-1.18.0-rc
   - v1-rev3-1.22.0
@@ -197,4 +198,5 @@ versioning:
   - v1-rev20190827-1.30.8
   - v1-rev20200207-1.30.8
   - v1-rev20200207-1.30.9
-  lastUpdated: 20200305233457
+  - v1-rev20200313-1.30.9
+  lastUpdated: 20200324080602

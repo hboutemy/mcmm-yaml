@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: devicefarm
 versioning:
-  latest: 2.11.0
-  release: 2.11.0
+  latest: 2.11.1
+  release: 2.11.1
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -296,4 +296,5 @@ versioning:
   - 2.10.90
   - 2.10.91
   - 2.11.0
-  lastUpdated: 20200323191243
+  - 2.11.1
+  lastUpdated: 20200324190643

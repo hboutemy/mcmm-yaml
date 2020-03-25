@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-connector-postgres
 versioning:
-  latest: 1.1.0.CR1
-  release: 1.1.0.CR1
+  latest: 1.1.0.Final
+  release: 1.1.0.Final
   versions:
   - 0.4.0
   - 0.4.1
@@ -58,4 +58,5 @@ versioning:
   - 1.1.0.Beta1
   - 1.1.0.Beta2
   - 1.1.0.CR1
-  lastUpdated: 20200312082900
+  - 1.1.0.Final
+  lastUpdated: 20200324053450
