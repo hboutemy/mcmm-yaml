@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty
 artifactId: jetty-maven-plugin
 versioning:
-  latest: 10.0.0.alpha1
-  release: 10.0.0.alpha1
+  latest: 10.0.0.alpha2
+  release: 10.0.0.alpha2
   versions:
   - 9.0.0.M2
   - 9.0.0.M3
@@ -164,4 +164,5 @@ versioning:
   - 9.4.27.v20200227
   - 10.0.0-alpha0
   - 10.0.0.alpha1
-  lastUpdated: 20200228075020
+  - 10.0.0.alpha2
+  lastUpdated: 20200325212413

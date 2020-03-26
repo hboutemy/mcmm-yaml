@@ -3,8 +3,8 @@
 groupId: org.http4s
 artifactId: http4s-dropwizard-metrics_2.12
 versioning:
-  latest: 0.21.1
-  release: 0.21.1
+  latest: 0.21.2
+  release: 0.21.2
   versions:
   - 0.19.0-M4
   - 0.19.0
@@ -36,6 +36,7 @@ versioning:
   - 0.20.17
   - 0.20.18
   - 0.20.19
+  - 0.20.20
   - 0.21.0-M1
   - 0.21.0-M2
   - 0.21.0-M3
@@ -49,4 +50,5 @@ versioning:
   - 0.21.0-RC5
   - 0.21.0
   - 0.21.1
-  lastUpdated: 20200214033227
+  - 0.21.2
+  lastUpdated: 20200325012303
