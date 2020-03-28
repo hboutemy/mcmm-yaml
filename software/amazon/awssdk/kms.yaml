@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: kms
 versioning:
-  latest: 2.11.3
-  release: 2.11.3
+  latest: 2.11.4
+  release: 2.11.4
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -299,4 +299,5 @@ versioning:
   - 2.11.1
   - 2.11.2
   - 2.11.3
-  lastUpdated: 20200326190245
+  - 2.11.4
+  lastUpdated: 20200327191701
