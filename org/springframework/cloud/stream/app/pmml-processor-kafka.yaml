@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud.stream.app
 artifactId: pmml-processor-kafka
 versioning:
-  latest: 2.1.1.RELEASE
-  release: 2.1.1.RELEASE
+  latest: 2.1.2.RELEASE
+  release: 2.1.2.RELEASE
   versions:
   - 1.1.0.RELEASE
   - 2.0.0.RELEASE
@@ -12,4 +12,5 @@ versioning:
   - 2.0.2.RELEASE
   - 2.1.0.RELEASE
   - 2.1.1.RELEASE
-  lastUpdated: 20191002193043
+  - 2.1.2.RELEASE
+  lastUpdated: 20200330203534
