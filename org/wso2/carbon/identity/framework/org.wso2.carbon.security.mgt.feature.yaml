@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.security.mgt.feature
 versioning:
-  latest: 5.17.17
-  release: 5.17.17
+  latest: 5.17.19
+  release: 5.17.19
   versions:
   - 5.5.0
   - 5.5.1
@@ -1239,4 +1239,6 @@ versioning:
   - 5.17.15
   - 5.17.16
   - 5.17.17
-  lastUpdated: 20200327140957
+  - 5.17.18
+  - 5.17.19
+  lastUpdated: 20200331132106

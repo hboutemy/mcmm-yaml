@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch
 versioning:
-  latest: 7.6.1
-  release: 7.6.1
+  latest: 7.6.2
+  release: 7.6.2
   versions:
   - 0.6.0
   - 0.7.0
@@ -250,6 +250,7 @@ versioning:
   - 6.8.5
   - 6.8.6
   - 6.8.7
+  - 6.8.8
   - 7.0.0-alpha1
   - 7.0.0-alpha2
   - 7.0.0-beta1
@@ -272,4 +273,5 @@ versioning:
   - 7.5.2
   - 7.6.0
   - 7.6.1
-  lastUpdated: 20200304172518
+  - 7.6.2
+  lastUpdated: 20200331155928
