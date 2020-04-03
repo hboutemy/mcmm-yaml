@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-appengine
 versioning:
-  latest: v1-rev20200215-1.30.9
-  release: v1-rev20200215-1.30.9
+  latest: v1-rev20200329-1.30.9
+  release: v1-rev20200329-1.30.9
   versions:
   - v1alpha-rev1-1.18.0-rc
   - v1alpha-rev1-1.20.0
@@ -400,6 +400,7 @@ versioning:
   - v1alpha-rev20190531-1.30.8
   - v1alpha-rev20200215-1.30.8
   - v1alpha-rev20200215-1.30.9
+  - v1alpha-rev20200329-1.30.9
   - v1beta4-rev1-1.18.0-rc
   - v1beta4-rev1-1.19.0
   - v1beta4-rev1-1.19.1
@@ -1582,6 +1583,7 @@ versioning:
   - v1beta-rev20191114-1.30.3
   - v1beta-rev20200122-1.30.8
   - v1beta-rev20200215-1.30.9
+  - v1beta-rev20200329-1.30.9
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.20.0
   - v1-rev1-1.21.0
@@ -2023,4 +2025,5 @@ versioning:
   - v1-rev20191114-1.30.8
   - v1-rev20200215-1.30.8
   - v1-rev20200215-1.30.9
-  lastUpdated: 20200401073317
+  - v1-rev20200329-1.30.9
+  lastUpdated: 20200402201213
