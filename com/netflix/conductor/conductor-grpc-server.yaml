@@ -3,8 +3,8 @@
 groupId: com.netflix.conductor
 artifactId: conductor-grpc-server
 versioning:
-  latest: 2.25.8
-  release: 2.25.8
+  latest: 2.25.9
+  release: 2.25.9
   versions:
   - 2.0.0-rc3
   - 2.0.0-rc4
@@ -134,4 +134,5 @@ versioning:
   - 2.25.6
   - 2.25.7
   - 2.25.8
-  lastUpdated: 20200320104705
+  - 2.25.9
+  lastUpdated: 20200403023846
