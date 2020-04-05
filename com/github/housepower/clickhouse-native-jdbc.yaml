@@ -3,8 +3,8 @@
 groupId: com.github.housepower
 artifactId: clickhouse-native-jdbc
 versioning:
-  latest: 2.0-stable
-  release: 2.0-stable
+  latest: 2.1-stable
+  release: 2.1-stable
   versions:
   - 1.0-testing
   - 1.1-testing
@@ -15,4 +15,5 @@ versioning:
   - 1.6-stable
   - 1.7-stable
   - 2.0-stable
-  lastUpdated: 20191221142251
+  - 2.1-stable
+  lastUpdated: 20200404100241
