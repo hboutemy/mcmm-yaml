@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.am.microgw
 artifactId: org.wso2.micro.gateway.core
 versioning:
-  latest: 3.1.0-m2
-  release: 3.1.0-m2
+  latest: 3.1.0
+  release: 3.1.0
   versions:
   - 2.5.0-beta
   - 2.5.0-m1
@@ -27,5 +27,6 @@ versioning:
   - 3.1.0-alpha
   - 3.1.0-beta
   - 3.1.0-m2
+  - 3.1.0
   - 2.5.1
-  lastUpdated: 20200304045511
+  lastUpdated: 20200406041325
