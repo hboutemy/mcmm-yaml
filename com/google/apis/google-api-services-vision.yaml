@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-vision
 versioning:
-  latest: v1-rev20200229-1.30.9
-  release: v1-rev20200229-1.30.9
+  latest: v1-rev20200405-1.30.9
+  release: v1-rev20200405-1.30.9
   versions:
   - v1p1beta1-rev1-1.18.0-rc
   - v1p1beta1-rev1-1.21.0
@@ -497,6 +497,7 @@ versioning:
   - v1p2beta1-rev20191105-1.30.8
   - v1p2beta1-rev20200229-1.30.8
   - v1p2beta1-rev20200229-1.30.9
+  - v1p2beta1-rev20200405-1.30.9
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.19.1
   - v1-rev1-1.20.0
@@ -981,4 +982,5 @@ versioning:
   - v1-rev20191213-1.30.8
   - v1-rev20200229-1.30.8
   - v1-rev20200229-1.30.9
-  lastUpdated: 20200310064348
+  - v1-rev20200405-1.30.9
+  lastUpdated: 20200407205745
