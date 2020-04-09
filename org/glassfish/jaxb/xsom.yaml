@@ -1,14 +1,14 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.glassfish.jaxb
 artifactId: xsom
 versioning:
-  latest: 2.4.0-b180830.0438
-  release: 2.4.0-b180830.0438
+  latest: 3.0.0-M1
+  release: 3.0.0-M1
   versions:
-  - 2.3.0-b170127.1453
+  - 3.0.0-M1
   - 2.3.0
+  - 2.3.0-b170127.1453
   - 2.3.0.1
   - 2.3.1
   - 2.3.2
@@ -16,4 +16,4 @@ versioning:
   - 2.3.3-b02
   - 2.4.0-b180725.0644
   - 2.4.0-b180830.0438
-  lastUpdated: 20191203072210
+  lastUpdated: 20200408075841

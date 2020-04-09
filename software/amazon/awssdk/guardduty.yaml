@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: guardduty
 versioning:
-  latest: 2.11.11
-  release: 2.11.11
+  latest: 2.11.12
+  release: 2.11.12
   versions:
   - 2.0.0-preview-8
   - 2.0.0-preview-9
@@ -300,4 +300,5 @@ versioning:
   - 2.11.9
   - 2.11.10
   - 2.11.11
-  lastUpdated: 20200407190257
+  - 2.11.12
+  lastUpdated: 20200408191854

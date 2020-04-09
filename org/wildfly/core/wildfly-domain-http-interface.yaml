@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-domain-http-interface
 versioning:
-  latest: 11.0.0.Final
-  release: 11.0.0.Final
+  latest: 12.0.0.Beta1
+  release: 12.0.0.Beta1
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -256,4 +256,5 @@ versioning:
   - 11.0.0.Beta9
   - 11.0.0.Beta10
   - 11.0.0.Final
-  lastUpdated: 20200311162920
+  - 12.0.0.Beta1
+  lastUpdated: 20200408143011
