@@ -3,8 +3,8 @@
 groupId: com.github.shynixn.workbench
 artifactId: workbench-bukkit-particle
 versioning:
-  latest: 0.0.17
-  release: 0.0.17
+  latest: 0.0.19
+  release: 0.0.19
   versions:
   - 0.0.$TRAVIS_BUILD_NUMBER
   - 0.0.CurrentBuildNumber
@@ -17,4 +17,5 @@ versioning:
   - 0.0.15
   - 0.0.16
   - 0.0.17
-  lastUpdated: 20200408184422
+  - 0.0.19
+  lastUpdated: 20200409185603

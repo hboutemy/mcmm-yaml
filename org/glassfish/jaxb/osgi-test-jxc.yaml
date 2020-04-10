@@ -1,17 +1,18 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.jaxb
 artifactId: osgi-test-jxc
 versioning:
   latest: 3.0.0-M1
   release: 3.0.0-M1
   versions:
-  - 3.0.0-M1
-  - 2.3.0
   - 2.3.0-b170127.1453
+  - 2.3.0
   - 2.3.0.1
   - 2.3.2
   - 2.3.3-b01
   - 2.3.3-b02
   - 2.4.0-b180725.0644
-  lastUpdated: 20200408075840
+  - 3.0.0-M1
+  lastUpdated: 20200409185138

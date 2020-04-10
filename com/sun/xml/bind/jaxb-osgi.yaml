@@ -1,23 +1,25 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.sun.xml.bind
 artifactId: jaxb-osgi
 versioning:
   latest: 3.0.0-M1
   release: 3.0.0-M1
   versions:
-  - 2.3.2
-  - 2.3.3-b01
-  - 2.3.3-b02
-  - 3.0.0-M1
   - 2.1.10
   - 2.1.11
   - 2.1.14
   - 2.1.15
   - 2.1.16
   - 2.1.17
-  - 2.2
   - 2.2-EA
+  - 2.2-promoted-b3
+  - 2.2-promoted-b4
+  - 2.2-promoted-b6
+  - 2.2-promoted-b7
+  - 2.2-promoted-b8
+  - 2.2-promoted-b9
   - 2.2-promoted-b10
   - 2.2-promoted-b11
   - 2.2-promoted-b12
@@ -28,7 +30,6 @@ versioning:
   - 2.2-promoted-b17
   - 2.2-promoted-b26
   - 2.2-promoted-b29
-  - 2.2-promoted-b3
   - 2.2-promoted-b30
   - 2.2-promoted-b33
   - 2.2-promoted-b34
@@ -36,7 +37,6 @@ versioning:
   - 2.2-promoted-b36
   - 2.2-promoted-b38
   - 2.2-promoted-b39
-  - 2.2-promoted-b4
   - 2.2-promoted-b40
   - 2.2-promoted-b41
   - 2.2-promoted-b42
@@ -56,16 +56,12 @@ versioning:
   - 2.2-promoted-b57
   - 2.2-promoted-b58
   - 2.2-promoted-b59
-  - 2.2-promoted-b6
   - 2.2-promoted-b60
   - 2.2-promoted-b61
   - 2.2-promoted-b62
   - 2.2-promoted-b63
   - 2.2-promoted-b64
   - 2.2-promoted-b65
-  - 2.2-promoted-b7
-  - 2.2-promoted-b8
-  - 2.2-promoted-b9
   - 2.2.1
   - 2.2.1-promoted-b66
   - 2.2.1-promoted-b67
@@ -82,10 +78,6 @@ versioning:
   - 2.2.1.1
   - 2.2.1.1-promoted-b1
   - 2.2.1.1-promoted-b2
-  - 2.2.10
-  - 2.2.10-b140310.1920
-  - 2.2.10-b140802.1033
-  - 2.2.11
   - 2.2.2
   - 2.2.2-promoted-b83
   - 2.2.2-promoted-b85
@@ -102,17 +94,11 @@ versioning:
   - 2.2.2-promoted-b98
   - 2.2.2-promoted-b99
   - 2.2.3
+  - 2.2.3U1
   - 2.2.3-1
   - 2.2.3-2
-  - 2.2.3U1
   - 2.2.4
   - 2.2.4-1
-  - 2.2.5
-  - 2.2.5-1
-  - 2.2.5-2
-  - 2.2.5-3
-  - 2.2.5-4
-  - 2.2.5-5
   - 2.2.5-b01
   - 2.2.5-b02
   - 2.2.5-b03
@@ -123,11 +109,15 @@ versioning:
   - 2.2.5-b08
   - 2.2.5-b09
   - 2.2.5-b10
-  - 2.2.5.1
-  - 2.2.6
+  - 2.2.5
+  - 2.2.5-1
+  - 2.2.5-2
+  - 2.2.5-3
+  - 2.2.5-4
+  - 2.2.5-5
   - 2.2.6-b31
   - 2.2.6-b35
-  - 2.2.7
+  - 2.2.6
   - 2.2.7-b41
   - 2.2.7-b52
   - 2.2.7-b53
@@ -137,11 +127,22 @@ versioning:
   - 2.2.7-b60
   - 2.2.7-b61
   - 2.2.7-b63
+  - 2.2.7
   - 2.2.8-b01
-  - 2.3.0
+  - 2.2.10-b140310.1920
+  - 2.2.10-b140802.1033
+  - 2.2.10
+  - 2.2.11
   - 2.3.0-b170127.1453
+  - 2.3.0
   - 2.3.0.1
   - 2.3.1
+  - 2.3.2
+  - 2.3.3-b01
+  - 2.3.3-b02
   - 2.4.0-b180725.0644
   - 2.4.0-b180830.0438
-  lastUpdated: 20200407152755
+  - 3.0.0-M1
+  - 2.2
+  - 2.2.5.1
+  lastUpdated: 20200409185158
