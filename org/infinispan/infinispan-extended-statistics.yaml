@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-extended-statistics
 versioning:
-  latest: 11.0.0.Dev03
-  release: 11.0.0.Dev03
+  latest: 11.0.0.Dev04
+  release: 11.0.0.Dev04
   versions:
   - 6.0.0.Alpha1
   - 6.0.0.Alpha2
@@ -132,6 +132,7 @@ versioning:
   - 9.3.5.Final
   - 9.3.6.Final
   - 9.3.8.Final
+  - 9.3.9.Final
   - 9.4.0.Alpha1
   - 9.4.0.Beta1
   - 9.4.0.CR1
@@ -177,8 +178,10 @@ versioning:
   - 10.1.3.Final
   - 10.1.4.Final
   - 10.1.5.Final
+  - 10.1.6.Final
   - 11.0.0.Alpha
   - 11.0.0.Alpha1
   - 11.0.0.Alpha2
   - 11.0.0.Dev03
-  lastUpdated: 20200323105757
+  - 11.0.0.Dev04
+  lastUpdated: 20200410190827
