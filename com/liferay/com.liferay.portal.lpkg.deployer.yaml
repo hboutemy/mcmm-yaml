@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.lpkg.deployer
 versioning:
   latest: 2.1.21
-  release: 2.1.21
+  release: 2.1.22
   versions:
   - 1.0.0
   - 1.0.1
@@ -57,4 +56,5 @@ versioning:
   - 2.1.19
   - 2.1.20
   - 2.1.21
-  lastUpdated: 20200213092234
+  - 2.1.22
+  lastUpdated: 20200411175740
