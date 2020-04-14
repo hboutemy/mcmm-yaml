@@ -3,8 +3,8 @@
 groupId: com.github.yuyenews
 artifactId: mars-redis
 versioning:
-  latest: 3.0.15
-  release: 3.0.15
+  latest: 3.0.15-HOTFIX
+  release: 3.0.15-HOTFIX
   versions:
   - 2.1.0
   - 2.1.2
@@ -27,4 +27,5 @@ versioning:
   - 3.0.12
   - 3.0.13
   - 3.0.15
-  lastUpdated: 20200412072940
+  - 3.0.15-HOTFIX
+  lastUpdated: 20200413110826
