@@ -3,8 +3,8 @@
 groupId: io.dropwizard
 artifactId: dropwizard-jdbi3
 versioning:
-  latest: 2.0.7
-  release: 2.0.7
+  latest: 2.0.8
+  release: 2.0.8
   versions:
   - 1.3.0-rc4
   - 1.3.0-rc5
@@ -33,6 +33,7 @@ versioning:
   - 1.3.20
   - 1.3.21
   - 1.3.22
+  - 1.3.23
   - 2.0.0-rc0+test8
   - 2.0.0-rc1
   - 2.0.0-rc2
@@ -53,4 +54,5 @@ versioning:
   - 2.0.5
   - 2.0.6
   - 2.0.7
-  lastUpdated: 20200410072819
+  - 2.0.8
+  lastUpdated: 20200414194014
