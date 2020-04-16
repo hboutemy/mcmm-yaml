@@ -3,8 +3,8 @@
 groupId: com.yugabyte
 artifactId: cassandra-driver-mapping
 versioning:
-  latest: 3.2.0-yb-19
-  release: 3.2.0-yb-19
+  latest: 3.8.0-yb-2-RC1
+  release: 3.8.0-yb-2-RC1
   versions:
   - 3.2.0-yb-8
   - 3.2.0-yb-9
@@ -18,4 +18,5 @@ versioning:
   - 3.2.0-yb-17
   - 3.2.0-yb-18
   - 3.2.0-yb-19
-  lastUpdated: 20190111055615
+  - 3.8.0-yb-2-RC1
+  lastUpdated: 20200415010110
