@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.ant.mirrors.get
 versioning:
   latest: 1.2.8
-  release: 1.2.8
+  release: 1.2.9
   versions:
   - 1.0.0
   - 1.0.1
@@ -21,4 +20,5 @@ versioning:
   - 1.2.6
   - 1.2.7
   - 1.2.8
-  lastUpdated: 20200213044622
+  - 1.2.9
+  lastUpdated: 20200416013301

@@ -3,8 +3,8 @@
 groupId: io.zipkin.aws
 artifactId: zipkin-collector-kinesis
 versioning:
-  latest: 0.20.0
-  release: 0.20.0
+  latest: 0.21.0
+  release: 0.21.0
   versions:
   - 0.3.0
   - 0.3.1
@@ -69,4 +69,5 @@ versioning:
   - 0.19.0
   - 0.19.1
   - 0.20.0
-  lastUpdated: 20200228085606
+  - 0.21.0
+  lastUpdated: 20200416100328

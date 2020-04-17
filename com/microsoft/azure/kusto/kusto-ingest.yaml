@@ -6,6 +6,7 @@ versioning:
   latest: 2.0.1
   release: 2.0.1
   versions:
+  - ${revision}
   - 1.0.0-BETA-02
   - 1.0.0-BETA-03
   - 1.0.0-BETA-04
@@ -20,4 +21,4 @@ versioning:
   - 1.4.2
   - 2.0.0
   - 2.0.1
-  lastUpdated: 20200412121835
+  lastUpdated: 20200416124523
