@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.ws
 artifactId: spring-ws
 versioning:
-  latest: 3.0.8.RELEASE
-  release: 3.0.8.RELEASE
+  latest: 3.0.9.RELEASE
+  release: 3.0.9.RELEASE
   versions:
   - 1.0-m2
   - 1.0-m3
@@ -45,6 +45,7 @@ versioning:
   - 2.4.4.RELEASE
   - 2.4.5.RELEASE
   - 2.4.6.RELEASE
+  - 2.4.7.RELEASE
   - 3.0.0.RELEASE
   - 3.0.1.RELEASE
   - 3.0.2.RELEASE
@@ -54,4 +55,5 @@ versioning:
   - 3.0.6.RELEASE
   - 3.0.7.RELEASE
   - 3.0.8.RELEASE
-  lastUpdated: 20191104162335
+  - 3.0.9.RELEASE
+  lastUpdated: 20200417164948
