@@ -3,8 +3,8 @@
 groupId: org.liquibase
 artifactId: liquibase-cdi
 versioning:
-  latest: 3.8.9
-  release: 3.8.9
+  latest: 4.0.0-beta1
+  release: 4.0.0-beta1
   versions:
   - 3.0.6
   - 3.0.7
@@ -44,4 +44,5 @@ versioning:
   - 3.8.7
   - 3.8.8
   - 3.8.9
-  lastUpdated: 20200407145400
+  - 4.0.0-beta1
+  lastUpdated: 20200420192649

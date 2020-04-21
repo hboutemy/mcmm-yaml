@@ -3,8 +3,8 @@
 groupId: com.hotels.beans
 artifactId: bull-map-transformer
 versioning:
-  latest: 1.7.0-RC
-  release: 1.7.0-RC
+  latest: 1.7.0-jdk8
+  release: 1.7.0-jdk8
   versions:
   - 1.1.25-RC
   - 1.1.25
@@ -34,4 +34,6 @@ versioning:
   - 1.6.5-jdk8
   - 1.6.6
   - 1.7.0-RC
-  lastUpdated: 20200414065808
+  - 1.7.0.0
+  - 1.7.0-jdk8
+  lastUpdated: 20200420092527
