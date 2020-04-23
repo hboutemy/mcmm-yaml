@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.arquillian.testng
 artifactId: arquillian-testng-container
 versioning:
-  latest: 1.6.0.Final
-  release: 1.6.0.Final
+  latest: 1.7.0.Alpha1
+  release: 1.7.0.Alpha1
   versions:
   - 1.0.0.Beta1
   - 1.0.0.Beta2
@@ -48,4 +48,5 @@ versioning:
   - 1.4.1.Final
   - 1.5.0.Final
   - 1.6.0.Final
-  lastUpdated: 20200117212328
+  - 1.7.0.Alpha1
+  lastUpdated: 20200422161148

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: eventbridge
 versioning:
-  latest: 2.13.0
-  release: 2.13.0
+  latest: 2.13.1
+  release: 2.13.1
   versions:
   - 2.7.4
   - 2.7.5
@@ -184,4 +184,5 @@ versioning:
   - 2.11.14
   - 2.12.0
   - 2.13.0
-  lastUpdated: 20200421190544
+  - 2.13.1
+  lastUpdated: 20200422190150

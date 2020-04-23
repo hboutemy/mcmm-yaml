@@ -3,8 +3,8 @@
 groupId: com.netflix.conductor
 artifactId: conductor-jersey
 versioning:
-  latest: 2.26.0-beta
-  release: 2.26.0-beta
+  latest: 2.26.0-beta.1
+  release: 2.26.0-beta.1
   versions:
   - 0.0.4
   - 1.5.0
@@ -244,4 +244,5 @@ versioning:
   - 2.25.10
   - 2.25.11
   - 2.26.0-beta
-  lastUpdated: 20200420194850
+  - 2.26.0-beta.1
+  lastUpdated: 20200422225549
