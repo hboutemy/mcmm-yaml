@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-vault-parent
 versioning:
-  latest: 1.4.0.CR1
-  release: 1.4.0.CR1
+  latest: 1.4.0.Final
+  release: 1.4.0.Final
   versions:
   - 0.26.0
   - 0.26.1
@@ -29,4 +29,5 @@ versioning:
   - 1.3.1.Final
   - 1.3.2.Final
   - 1.4.0.CR1
-  lastUpdated: 20200415070302
+  - 1.4.0.Final
+  lastUpdated: 20200423090950
