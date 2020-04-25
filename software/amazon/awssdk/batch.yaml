@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: batch
 versioning:
-  latest: 2.13.2
-  release: 2.13.2
+  latest: 2.13.3
+  release: 2.13.3
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -314,4 +314,5 @@ versioning:
   - 2.13.0
   - 2.13.1
   - 2.13.2
-  lastUpdated: 20200423191623
+  - 2.13.3
+  lastUpdated: 20200424190813

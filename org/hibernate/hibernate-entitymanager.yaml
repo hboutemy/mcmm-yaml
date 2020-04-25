@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.hibernate
 artifactId: hibernate-entitymanager
 versioning:
-  latest: 6.0.0.Alpha4
-  release: 6.0.0.Alpha4
+  latest: 6.0.0.Alpha5
+  release: 6.0.0.Alpha5
   versions:
   - 3.2.0.cr2
   - 3.2.0.ga
@@ -208,6 +208,7 @@ versioning:
   - 5.4.14.Final
   - 6.0.0.Alpha3
   - 6.0.0.Alpha4
+  - 6.0.0.Alpha5
   - 4.1.2
   - 5.1.13.Final
   - 5.1.14.Final
@@ -218,4 +219,4 @@ versioning:
   - 5.2.15.Final
   - 5.2.16.Final
   - 5.2.17.Final
-  lastUpdated: 20200406174429
+  lastUpdated: 20200424191422

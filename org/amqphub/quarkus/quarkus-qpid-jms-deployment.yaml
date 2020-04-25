@@ -3,8 +3,8 @@
 groupId: org.amqphub.quarkus
 artifactId: quarkus-qpid-jms-deployment
 versioning:
-  latest: 0.13.2
-  release: 0.13.2
+  latest: 0.14.0
+  release: 0.14.0
   versions:
   - 0.1.0
   - 0.2.0
@@ -25,4 +25,5 @@ versioning:
   - 0.13.0
   - 0.13.1
   - 0.13.2
-  lastUpdated: 20200413120132
+  - 0.14.0
+  lastUpdated: 20200424092310
