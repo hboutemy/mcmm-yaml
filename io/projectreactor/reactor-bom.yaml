@@ -3,8 +3,8 @@
 groupId: io.projectreactor
 artifactId: reactor-bom
 versioning:
-  latest: Dysprosium-SR6
-  release: Dysprosium-SR6
+  latest: Dysprosium-SR7
+  release: Dysprosium-SR7
   versions:
   - Aluminium-RELEASE
   - Aluminium-SR1
@@ -46,6 +46,7 @@ versioning:
   - Californium-SR15
   - Californium-SR16
   - Californium-SR17
+  - Californium-SR18
   - Dysprosium-RELEASE
   - Dysprosium-SR1
   - Dysprosium-SR2
@@ -53,4 +54,5 @@ versioning:
   - Dysprosium-SR4
   - Dysprosium-SR5
   - Dysprosium-SR6
-  lastUpdated: 20200323165729
+  - Dysprosium-SR7
+  lastUpdated: 20200427120208
