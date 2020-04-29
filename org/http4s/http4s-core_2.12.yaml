@@ -3,8 +3,8 @@
 groupId: org.http4s
 artifactId: http4s-core_2.12
 versioning:
-  latest: 0.21.3
-  release: 0.21.3
+  latest: 0.21.4
+  release: 0.21.4
   versions:
   - 0.15.0
   - 0.15.0a
@@ -150,6 +150,8 @@ versioning:
   - 0.20.19
   - 0.20.20
   - 0.20.21
+  - 0.20.22
+  - 0.20.23
   - 0.21.0-M1
   - 0.21.0-M2
   - 0.21.0-M3
@@ -165,4 +167,5 @@ versioning:
   - 0.21.1
   - 0.21.2
   - 0.21.3
-  lastUpdated: 20200402045144
+  - 0.21.4
+  lastUpdated: 20200428182934
