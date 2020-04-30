@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.integration
 artifactId: spring-integration-jmx
 versioning:
-  latest: 5.2.5.RELEASE
-  release: 5.2.5.RELEASE
+  latest: 5.2.6.RELEASE
+  release: 5.2.6.RELEASE
   versions:
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
@@ -117,11 +117,13 @@ versioning:
   - 5.1.7.RELEASE
   - 5.1.8.RELEASE
   - 5.1.9.RELEASE
+  - 5.1.10.RELEASE
   - 5.2.0.RELEASE
   - 5.2.1.RELEASE
   - 5.2.2.RELEASE
   - 5.2.3.RELEASE
   - 5.2.4.RELEASE
   - 5.2.5.RELEASE
+  - 5.2.6.RELEASE
   - 4.0.0.M3
-  lastUpdated: 20200325185736
+  lastUpdated: 20200429154026

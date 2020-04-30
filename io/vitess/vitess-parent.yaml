@@ -3,8 +3,8 @@
 groupId: io.vitess
 artifactId: vitess-parent
 versioning:
-  latest: 4.0
-  release: 4.0
+  latest: 6.0.0
+  release: 6.0.0
   versions:
   - 2.1.0-rc.1
   - 2.1.0
@@ -15,4 +15,5 @@ versioning:
   - 3.0.0
   - 3.1.0
   - 4.0
-  lastUpdated: 20191105164346
+  - 6.0.0
+  lastUpdated: 20200429114633

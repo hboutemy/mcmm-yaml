@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-request-controller
 versioning:
-  latest: 12.0.0.Beta1
-  release: 12.0.0.Beta1
+  latest: 12.0.0.Beta2
+  release: 12.0.0.Beta2
   versions:
   - 1.0.0.Alpha5
   - 1.0.0.Alpha6
@@ -253,5 +253,7 @@ versioning:
   - 11.0.0.Beta9
   - 11.0.0.Beta10
   - 11.0.0.Final
+  - 11.1.0.Final
   - 12.0.0.Beta1
-  lastUpdated: 20200408143020
+  - 12.0.0.Beta2
+  lastUpdated: 20200429154619

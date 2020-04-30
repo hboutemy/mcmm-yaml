@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-as7-adapter-dist
 versioning:
-  latest: 9.0.3
-  release: 9.0.3
+  latest: 10.0.0
+  release: 10.0.0
   versions:
   - 1.0-beta-1
   - 1.0-beta-2
@@ -108,5 +108,6 @@ versioning:
   - 9.0.0
   - 9.0.2
   - 9.0.3
+  - 10.0.0
   - 1.5.0-Final
-  lastUpdated: 20200414095457
+  lastUpdated: 20200429084557
