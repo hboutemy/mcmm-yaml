@@ -3,8 +3,8 @@
 groupId: org.hibernate
 artifactId: hibernate-orm-jbossmodules
 versioning:
-  latest: 5.4.14.Final
-  release: 5.4.14.Final
+  latest: 5.4.15.Final
+  release: 5.4.15.Final
   versions:
   - 5.3.0.CR2
   - 5.3.0.Final
@@ -24,6 +24,7 @@ versioning:
   - 5.3.14.Final
   - 5.3.15.Final
   - 5.3.16.Final
+  - 5.3.17.Final
   - 5.4.0.CR1
   - 5.4.0.CR2
   - 5.4.0.Final
@@ -41,4 +42,5 @@ versioning:
   - 5.4.12.Final
   - 5.4.13.Final
   - 5.4.14.Final
-  lastUpdated: 20200406174440
+  - 5.4.15.Final
+  lastUpdated: 20200430214043
