@@ -3,8 +3,8 @@
 groupId: com.graphhopper
 artifactId: graphhopper-navigation
 versioning:
-  latest: 1.0-pre38
-  release: 1.0-pre38
+  latest: 1.0-pre38-navfix.1
+  release: 1.0-pre38-navfix.1
   versions:
   - feature_1850_01
   - feature_1850_02
@@ -72,4 +72,5 @@ versioning:
   - 1.0-pre35
   - 1.0-pre37
   - 1.0-pre38
-  lastUpdated: 20200427190527
+  - 1.0-pre38-navfix.1
+  lastUpdated: 20200502213730
