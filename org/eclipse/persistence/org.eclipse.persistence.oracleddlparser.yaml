@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.eclipse.persistence
 artifactId: org.eclipse.persistence.oracleddlparser
 versioning:
-  latest: 2.7.6
-  release: 2.7.6
+  latest: 2.7.7-RC1
+  release: 2.7.7-RC1
   versions:
   - 2.4.2
   - 2.5.0-RC1
@@ -66,4 +67,5 @@ versioning:
   - 2.7.6-RC2
   - 2.7.6-RC3
   - 2.7.6
-  lastUpdated: 20200131151048
+  - 2.7.7-RC1
+  lastUpdated: 20200504201253

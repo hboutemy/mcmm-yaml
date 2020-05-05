@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.archetypes
 artifactId: nexus-format-archetype
 versioning:
-  latest: 1.0.30
-  release: 1.0.30
+  latest: 1.0.32
+  release: 1.0.32
   versions:
   - 1.0.1
   - 1.0.3
@@ -30,4 +30,6 @@ versioning:
   - 1.0.28
   - 1.0.29
   - 1.0.30
-  lastUpdated: 20200429191446
+  - 1.0.31
+  - 1.0.32
+  lastUpdated: 20200504192635

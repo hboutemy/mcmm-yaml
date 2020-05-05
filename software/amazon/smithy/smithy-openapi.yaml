@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.smithy
 artifactId: smithy-openapi
 versioning:
-  latest: 0.9.9
-  release: 0.9.9
+  latest: 1.0.0
+  release: 1.0.0
   versions:
   - 0.8.0
   - 0.9.0
@@ -17,4 +17,5 @@ versioning:
   - 0.9.7
   - 0.9.8
   - 0.9.9
-  lastUpdated: 20200401201626
+  - 1.0.0
+  lastUpdated: 20200504214756
