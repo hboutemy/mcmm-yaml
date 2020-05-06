@@ -3,8 +3,8 @@
 groupId: com.nimbusds
 artifactId: infinispan-cachestore-dynamodb
 versioning:
-  latest: 3.5.2
-  release: 3.5.2
+  latest: 3.6.1
+  release: 3.6.1
   versions:
   - 1.0
   - 1.2
@@ -40,4 +40,6 @@ versioning:
   - 3.5
   - 3.5.1
   - 3.5.2
-  lastUpdated: 20191231132741
+  - 3.6
+  - 3.6.1
+  lastUpdated: 20200505075456

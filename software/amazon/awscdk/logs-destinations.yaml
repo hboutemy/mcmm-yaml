@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: logs-destinations
 versioning:
-  latest: 1.36.1
-  release: 1.36.1
+  latest: 1.37.0
+  release: 1.37.0
   versions:
   - 0.33.0
   - 0.34.0
@@ -66,4 +66,5 @@ versioning:
   - 1.35.0
   - 1.36.0
   - 1.36.1
-  lastUpdated: 20200429235257
+  - 1.37.0
+  lastUpdated: 20200505164458

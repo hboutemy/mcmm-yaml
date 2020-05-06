@@ -3,8 +3,10 @@
 groupId: org.wildfly.archetype
 artifactId: wildfly-jakartaee-ear-archetype
 versioning:
-  latest: 18.0.0.Final
-  release: 18.0.0.Final
+  latest: 19.1.0.Final
+  release: 19.1.0.Final
   versions:
   - 18.0.0.Final
-  lastUpdated: 20191014191240
+  - 19.0.0.Final
+  - 19.1.0.Final
+  lastUpdated: 20200505135607
