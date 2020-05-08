@@ -3,8 +3,8 @@
 groupId: com.netflix.evcache
 artifactId: evcache-zipkin-tracing
 versioning:
-  latest: 5.14.5-rc.1
-  release: 5.14.5-rc.1
+  latest: 5.14.7-rc.1
+  release: 5.14.7-rc.1
   versions:
   - 5.12.19
   - 5.12.20
@@ -29,4 +29,6 @@ versioning:
   - 5.14.3
   - 5.14.4
   - 5.14.5-rc.1
-  lastUpdated: 20200506162901
+  - 5.14.6
+  - 5.14.7-rc.1
+  lastUpdated: 20200507023514

@@ -3,8 +3,8 @@
 groupId: com.yugabyte
 artifactId: cassandra-driver-extras
 versioning:
-  latest: 3.8.0-yb-3-RC2
-  release: 3.8.0-yb-3-RC2
+  latest: 3.8.0-yb-4
+  release: 3.8.0-yb-4
   versions:
   - 3.2.0-yb-8
   - 3.2.0-yb-9
@@ -20,4 +20,5 @@ versioning:
   - 3.2.0-yb-19
   - 3.8.0-yb-2-RC1
   - 3.8.0-yb-3-RC2
-  lastUpdated: 20200506044149
+  - 3.8.0-yb-4
+  lastUpdated: 20200507222641

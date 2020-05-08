@@ -3,8 +3,8 @@
 groupId: com.weicoder
 artifactId: netty3
 versioning:
-  latest: 3.3.8
-  release: 3.3.8
+  latest: 3.3.8-jdk8
+  release: 3.3.8-jdk8
   versions:
   - 2.6.1
   - 3.3.4
@@ -12,4 +12,5 @@ versioning:
   - 3.3.6
   - 3.3.7
   - 3.3.8
-  lastUpdated: 20200506023224
+  - 3.3.8-jdk8
+  lastUpdated: 20200507073552
