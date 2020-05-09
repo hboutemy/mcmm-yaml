@@ -3,8 +3,8 @@
 groupId: io.gravitee.gateway.services
 artifactId: gravitee-gateway-services-endpoint-discovery
 versioning:
-  latest: 3.0.0-alpha
-  release: 3.0.0-alpha
+  latest: 3.0.0-beta
+  release: 3.0.0-beta
   versions:
   - 1.22.0
   - 1.22.1
@@ -73,4 +73,5 @@ versioning:
   - 1.30.9
   - 1.30.10
   - 3.0.0-alpha
-  lastUpdated: 20200506150513
+  - 3.0.0-beta
+  lastUpdated: 20200508091439

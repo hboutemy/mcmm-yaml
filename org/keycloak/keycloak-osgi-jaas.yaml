@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-osgi-jaas
 versioning:
-  latest: 10.0.0
-  release: 10.0.0
+  latest: 10.0.1
+  release: 10.0.1
   versions:
   - 1.1.0.Beta2
   - 1.1.0.Final
@@ -96,5 +96,6 @@ versioning:
   - 9.0.2
   - 9.0.3
   - 10.0.0
+  - 10.0.1
   - 1.5.0-Final
-  lastUpdated: 20200429084657
+  lastUpdated: 20200508093039

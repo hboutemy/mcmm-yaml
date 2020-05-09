@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-sssd-federation
 versioning:
-  latest: 10.0.0
-  release: 10.0.0
+  latest: 10.0.1
+  release: 10.0.1
   versions:
   - 2.2.0.CR1
   - 2.2.0.Final
@@ -61,4 +61,5 @@ versioning:
   - 9.0.2
   - 9.0.3
   - 10.0.0
-  lastUpdated: 20200429084749
+  - 10.0.1
+  lastUpdated: 20200508093116

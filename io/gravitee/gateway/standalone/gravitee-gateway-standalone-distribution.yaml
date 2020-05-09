@@ -3,8 +3,8 @@
 groupId: io.gravitee.gateway.standalone
 artifactId: gravitee-gateway-standalone-distribution
 versioning:
-  latest: 3.0.0-alpha
-  release: 3.0.0-alpha
+  latest: 3.0.0-beta
+  release: 3.0.0-beta
   versions:
   - 0.2.0
   - 0.3.0
@@ -194,4 +194,5 @@ versioning:
   - 1.30.9
   - 1.30.10
   - 3.0.0-alpha
-  lastUpdated: 20200506150526
+  - 3.0.0-beta
+  lastUpdated: 20200508091448
