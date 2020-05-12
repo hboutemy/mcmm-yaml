@@ -3,8 +3,8 @@
 groupId: org.springframework.security.oauth.boot
 artifactId: spring-security-oauth2-autoconfigure
 versioning:
-  latest: 2.2.6.RELEASE
-  release: 2.2.6.RELEASE
+  latest: 2.2.7.RELEASE
+  release: 2.2.7.RELEASE
   versions:
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
@@ -30,6 +30,7 @@ versioning:
   - 2.1.11.RELEASE
   - 2.1.12.RELEASE
   - 2.1.13.RELEASE
+  - 2.1.14.RELEASE
   - 2.2.0.RELEASE
   - 2.2.1.RELEASE
   - 2.2.2.RELEASE
@@ -37,4 +38,5 @@ versioning:
   - 2.2.4.RELEASE
   - 2.2.5.RELEASE
   - 2.2.6.RELEASE
-  lastUpdated: 20200329031329
+  - 2.2.7.RELEASE
+  lastUpdated: 20200511184035
