@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: rekognition
 versioning:
-  latest: 2.13.14
-  release: 2.13.14
+  latest: 2.13.15
+  release: 2.13.15
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -326,4 +326,5 @@ versioning:
   - 2.13.12
   - 2.13.13
   - 2.13.14
-  lastUpdated: 20200511190608
+  - 2.13.15
+  lastUpdated: 20200512190532
