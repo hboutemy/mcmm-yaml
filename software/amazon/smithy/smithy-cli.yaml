@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.smithy
 artifactId: smithy-cli
 versioning:
-  latest: 1.0.0
-  release: 1.0.0
+  latest: 1.0.1
+  release: 1.0.1
   versions:
   - 0.8.0
   - 0.9.0
@@ -18,4 +18,5 @@ versioning:
   - 0.9.8
   - 0.9.9
   - 1.0.0
-  lastUpdated: 20200504214754
+  - 1.0.1
+  lastUpdated: 20200513194841
