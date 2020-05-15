@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-run
 versioning:
-  latest: v1-rev20200415-1.30.9
-  release: v1-rev20200415-1.30.9
+  latest: v1-rev20200505-1.30.9
+  release: v1-rev20200505-1.30.9
   versions:
   - v1alpha1-rev1-1.18.0-rc
   - v1alpha1-rev1-1.22.0
@@ -126,6 +126,7 @@ versioning:
   - v1alpha1-rev20200302-1.30.9
   - v1alpha1-rev20200407-1.30.9
   - v1alpha1-rev20200415-1.30.9
+  - v1alpha1-rev20200505-1.30.9
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.25.0
   - v1beta1-rev12-1.18.0-rc
@@ -242,4 +243,5 @@ versioning:
   - v1-rev20200327-1.30.9
   - v1-rev20200407-1.30.9
   - v1-rev20200415-1.30.9
-  lastUpdated: 20200421202002
+  - v1-rev20200505-1.30.9
+  lastUpdated: 20200514211541
