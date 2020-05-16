@@ -3,8 +3,8 @@
 groupId: com.playtika.testcontainers
 artifactId: embedded-elasticsearch
 versioning:
-  latest: 1.64
-  release: 1.64
+  latest: 1.66
+  release: 1.66
   versions:
   - 1.8
   - 1.9
@@ -39,4 +39,6 @@ versioning:
   - 1.62
   - 1.63
   - 1.64
-  lastUpdated: 20200513163640
+  - 1.65
+  - 1.66
+  lastUpdated: 20200515101029

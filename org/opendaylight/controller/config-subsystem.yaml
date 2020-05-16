@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.controller
 artifactId: config-subsystem
 versioning:
-  latest: 0.12.0
-  release: 0.12.0
+  latest: 0.12.1
+  release: 0.12.1
   versions:
   - 0.2.3
   - 0.2.5-Helium
@@ -55,4 +55,5 @@ versioning:
   - 0.11.1
   - 0.11.2
   - 0.12.0
-  lastUpdated: 20200319131101
+  - 0.12.1
+  lastUpdated: 20200515005627

@@ -3,8 +3,8 @@
 groupId: com.codacy
 artifactId: foundation-play-json_2.11
 versioning:
-  latest: 9.7.3-bumpcodacysbt.2.56da00c_play_2.7
-  release: 9.7.3-bumpcodacysbt.2.56da00c_play_2.7
+  latest: 9.7.4_play_2.7
+  release: 9.7.4_play_2.7
   versions:
   - 9.3.1-publishsonatype.a27ebe6
   - 9.3.1-publishsonatype.a27ebe6_play_2.5
@@ -52,4 +52,8 @@ versioning:
   - 9.7.3-bumpcodacysbt.2.56da00c_play_2.5
   - 9.7.3-bumpcodacysbt.2.56da00c_play_2.6
   - 9.7.3-bumpcodacysbt.2.56da00c_play_2.7
-  lastUpdated: 20200512165959
+  - 9.7.4
+  - 9.7.4_play_2.5
+  - 9.7.4_play_2.6
+  - 9.7.4_play_2.7
+  lastUpdated: 20200515162858

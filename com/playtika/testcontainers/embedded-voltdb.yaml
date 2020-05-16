@@ -3,8 +3,8 @@
 groupId: com.playtika.testcontainers
 artifactId: embedded-voltdb
 versioning:
-  latest: 1.64
-  release: 1.64
+  latest: 1.66
+  release: 1.66
   versions:
   - 1.14
   - 1.17
@@ -35,4 +35,6 @@ versioning:
   - 1.62
   - 1.63
   - 1.64
-  lastUpdated: 20200513163655
+  - 1.65
+  - 1.66
+  lastUpdated: 20200515101044
