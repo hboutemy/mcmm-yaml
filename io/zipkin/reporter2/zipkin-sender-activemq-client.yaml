@@ -3,8 +3,8 @@
 groupId: io.zipkin.reporter2
 artifactId: zipkin-sender-activemq-client
 versioning:
-  latest: 2.14.0
-  release: 2.14.0
+  latest: 2.15.0
+  release: 2.15.0
   versions:
   - 2.9.0
   - 2.10.0
@@ -21,4 +21,5 @@ versioning:
   - 2.13.1
   - 2.13.2
   - 2.14.0
-  lastUpdated: 20200514092654
+  - 2.15.0
+  lastUpdated: 20200517081209

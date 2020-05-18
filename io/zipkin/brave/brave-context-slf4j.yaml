@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-context-slf4j
 versioning:
-  latest: 5.12.0
-  release: 5.12.0
+  latest: 5.12.1
+  release: 5.12.1
   versions:
   - 4.3.0
   - 4.3.1
@@ -101,4 +101,5 @@ versioning:
   - 5.11.1
   - 5.11.2
   - 5.12.0
-  lastUpdated: 20200514130336
+  - 5.12.1
+  lastUpdated: 20200517111627
