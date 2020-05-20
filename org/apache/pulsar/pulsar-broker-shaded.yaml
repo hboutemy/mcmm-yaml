@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: pulsar-broker-shaded
 versioning:
-  latest: 2.5.1
-  release: 2.5.1
+  latest: 2.5.2
+  release: 2.5.2
   versions:
   - 1.21.0-incubating
   - 1.22.0-incubating
@@ -23,4 +23,5 @@ versioning:
   - 2.4.2
   - 2.5.0
   - 2.5.1
-  lastUpdated: 20200423094906
+  - 2.5.2
+  lastUpdated: 20200518235008

@@ -3,8 +3,8 @@
 groupId: io.gravitee.gateway.services
 artifactId: gravitee-gateway-services-heartbeat
 versioning:
-  latest: 3.0.0-beta
-  release: 3.0.0-beta
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 1.20.0
   - 1.20.1
@@ -100,4 +100,5 @@ versioning:
   - 1.30.10
   - 3.0.0-alpha
   - 3.0.0-beta
-  lastUpdated: 20200508091441
+  - 3.0.0
+  lastUpdated: 20200519223350
