@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.identity.user.store.count
 versioning:
-  latest: 5.17.90
-  release: 5.17.90
+  latest: 5.17.93
+  release: 5.17.93
   versions:
   - 5.5.0
   - 5.5.1
@@ -1312,4 +1312,7 @@ versioning:
   - 5.17.88
   - 5.17.89
   - 5.17.90
-  lastUpdated: 20200519183925
+  - 5.17.91
+  - 5.17.92
+  - 5.17.93
+  lastUpdated: 20200520154229

@@ -3,8 +3,8 @@
 groupId: org.eclipse.che.multiuser
 artifactId: che-multiuser-keycloak-shared
 versioning:
-  latest: 7.13.0
-  release: 7.13.0
+  latest: 7.13.1
+  release: 7.13.1
   versions:
   - 6.10.0
   - 6.11.0
@@ -66,4 +66,5 @@ versioning:
   - 7.12.1
   - 7.12.2
   - 7.13.0
-  lastUpdated: 20200514115425
+  - 7.13.1
+  lastUpdated: 20200520193537
