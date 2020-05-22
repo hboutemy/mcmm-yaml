@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-testing-server-launcher
 versioning:
-  latest: 0.235
-  release: 0.235
+  latest: 0.235.1
+  release: 0.235.1
   versions:
   - 0.114
   - 0.115
@@ -140,5 +140,7 @@ versioning:
   - 0.234
   - 0.234.1
   - 0.234.2
+  - 0.234.3
   - 0.235
-  lastUpdated: 20200518005049
+  - 0.235.1
+  lastUpdated: 20200521190404
