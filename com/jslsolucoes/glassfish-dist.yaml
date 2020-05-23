@@ -3,8 +3,10 @@
 groupId: com.jslsolucoes
 artifactId: glassfish-dist
 versioning:
-  latest: 5.0.1
-  release: 5.0.1
+  latest: 5.1.0-patched
+  release: 5.1.0-patched
   versions:
   - 5.0.1
-  lastUpdated: 20200521223044
+  - 5.1.0
+  - 5.1.0-patched
+  lastUpdated: 20200522225316

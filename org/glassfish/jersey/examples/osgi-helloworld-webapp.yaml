@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.examples
 artifactId: osgi-helloworld-webapp
 versioning:
-  latest: 2.30.1
-  release: 2.30.1
+  latest: 2.31
+  release: 2.31
   versions:
   - 2.0-m03
   - 2.0-m04
@@ -92,4 +92,5 @@ versioning:
   - 2.29.1
   - 2.30
   - 2.30.1
-  lastUpdated: 20200221105724
+  - 2.31
+  lastUpdated: 20200522211019
