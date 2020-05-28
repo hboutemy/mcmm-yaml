@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: aws-sdk-java
 versioning:
-  latest: 2.13.24
-  release: 2.13.24
+  latest: 2.13.25
+  release: 2.13.25
   versions:
   - 2.0.0
   - 2.0.0-preview-1
@@ -343,4 +343,5 @@ versioning:
   - 2.13.22
   - 2.13.23
   - 2.13.24
-  lastUpdated: 20200526190454
+  - 2.13.25
+  lastUpdated: 20200527190640

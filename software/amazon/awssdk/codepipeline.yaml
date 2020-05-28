@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: codepipeline
 versioning:
-  latest: 2.13.24
-  release: 2.13.24
+  latest: 2.13.25
+  release: 2.13.25
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -336,4 +336,5 @@ versioning:
   - 2.13.22
   - 2.13.23
   - 2.13.24
-  lastUpdated: 20200526190512
+  - 2.13.25
+  lastUpdated: 20200527190658
