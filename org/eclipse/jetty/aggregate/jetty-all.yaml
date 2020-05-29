@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty.aggregate
 artifactId: jetty-all
 versioning:
-  latest: 10.0.0.alpha2
-  release: 10.0.0.alpha2
+  latest: 10.0.0.beta0
+  release: 10.0.0.beta0
   versions:
   - 7.0.0.M3
   - 7.0.0.M4
@@ -269,4 +269,5 @@ versioning:
   - 10.0.0-alpha0
   - 10.0.0.alpha1
   - 10.0.0.alpha2
-  lastUpdated: 20200521204753
+  - 10.0.0.beta0
+  lastUpdated: 20200528073205

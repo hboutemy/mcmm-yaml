@@ -3,8 +3,8 @@
 groupId: org.cloudfoundry
 artifactId: cloudfoundry-java-client
 versioning:
-  latest: 4.6.0.RELEASE
-  release: 4.6.0.RELEASE
+  latest: 4.7.0.RELEASE
+  release: 4.7.0.RELEASE
   versions:
   - 2.0.0.M1
   - 2.0.0.M2
@@ -80,6 +80,7 @@ versioning:
   - 3.21.0.RELEASE
   - 3.22.0.RELEASE
   - 3.23.0.RELEASE
+  - 3.24.0.RELEASE
   - 4.0.1.RELEASE
   - 4.1.0.RELEASE
   - 4.2.0.RELEASE
@@ -87,4 +88,5 @@ versioning:
   - 4.4.0.RELEASE
   - 4.5.0.RELEASE
   - 4.6.0.RELEASE
-  lastUpdated: 20200421153704
+  - 4.7.0.RELEASE
+  lastUpdated: 20200528141125

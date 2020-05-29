@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.eclipse.jetty.osgi
 artifactId: jetty-osgi-project
 versioning:
-  latest: 10.0.0.alpha2
-  release: 10.0.0.alpha2
+  latest: 10.0.0.beta0
+  release: 10.0.0.beta0
   versions:
   - 7.0.2.RC0
   - 7.0.2.v20100331
@@ -267,4 +267,5 @@ versioning:
   - 10.0.0-alpha0
   - 10.0.0.alpha1
   - 10.0.0.alpha2
-  lastUpdated: 20200521204816
+  - 10.0.0.beta0
+  lastUpdated: 20200528073226

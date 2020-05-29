@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty.osgi
 artifactId: test-jetty-osgi
 versioning:
-  latest: 10.0.0.alpha2
-  release: 10.0.0.alpha2
+  latest: 10.0.0.beta0
+  release: 10.0.0.beta0
   versions:
   - 7.1.6.v20100715
   - 7.2.0.RC0
@@ -231,4 +231,5 @@ versioning:
   - 10.0.0-alpha0
   - 10.0.0.alpha1
   - 10.0.0.alpha2
-  lastUpdated: 20200521204816
+  - 10.0.0.beta0
+  lastUpdated: 20200528073226

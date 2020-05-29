@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty.http2
 artifactId: http2-http-client-transport
 versioning:
-  latest: 10.0.0.alpha2
-  release: 10.0.0.alpha2
+  latest: 10.0.0.beta0
+  release: 10.0.0.beta0
   versions:
   - 9.3.0.M2
   - 9.3.0.RC0
@@ -104,4 +104,5 @@ versioning:
   - 10.0.0-alpha0
   - 10.0.0.alpha1
   - 10.0.0.alpha2
-  lastUpdated: 20200521204755
+  - 10.0.0.beta0
+  lastUpdated: 20200528073208

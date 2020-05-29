@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty
 artifactId: jetty-cdi
 versioning:
-  latest: 10.0.0.alpha2
-  release: 10.0.0.alpha2
+  latest: 10.0.0.beta0
+  release: 10.0.0.beta0
   versions:
   - 9.2.4.v20141103
   - 9.2.5.v20141112
@@ -49,4 +49,5 @@ versioning:
   - 9.4.29.v20200521
   - 10.0.0.alpha1
   - 10.0.0.alpha2
-  lastUpdated: 20200521204800
+  - 10.0.0.beta0
+  lastUpdated: 20200528073211
