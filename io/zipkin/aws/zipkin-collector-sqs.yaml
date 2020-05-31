@@ -3,8 +3,8 @@
 groupId: io.zipkin.aws
 artifactId: zipkin-collector-sqs
 versioning:
-  latest: 0.21.1
-  release: 0.21.1
+  latest: 0.21.2
+  release: 0.21.2
   versions:
   - 0.0.3
   - 0.2.0
@@ -78,4 +78,5 @@ versioning:
   - 0.20.0
   - 0.21.0
   - 0.21.1
-  lastUpdated: 20200514162356
+  - 0.21.2
+  lastUpdated: 20200530034549
