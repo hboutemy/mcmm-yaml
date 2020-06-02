@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: aws-core
 versioning:
-  latest: 2.13.26
-  release: 2.13.26
+  latest: 2.13.27
+  release: 2.13.27
   versions:
   - 2.0.0
   - 2.0.0-preview-10
@@ -336,4 +336,5 @@ versioning:
   - 2.13.24
   - 2.13.25
   - 2.13.26
-  lastUpdated: 20200528194055
+  - 2.13.27
+  lastUpdated: 20200601190600

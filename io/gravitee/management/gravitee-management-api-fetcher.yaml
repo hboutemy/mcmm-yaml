@@ -3,8 +3,8 @@
 groupId: io.gravitee.management
 artifactId: gravitee-management-api-fetcher
 versioning:
-  latest: 1.30.10
-  release: 1.30.10
+  latest: 1.30.11
+  release: 1.30.11
   versions:
   - 0.17.0
   - 0.18.0
@@ -142,6 +142,7 @@ versioning:
   - 1.25.23
   - 1.25.24
   - 1.25.25
+  - 1.25.26
   - 1.26.0
   - 1.26.1
   - 1.27.0
@@ -172,4 +173,5 @@ versioning:
   - 1.30.7
   - 1.30.9
   - 1.30.10
-  lastUpdated: 20200506152006
+  - 1.30.11
+  lastUpdated: 20200601113454
