@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-as7-subsystem
 versioning:
-  latest: 10.0.1
-  release: 10.0.1
+  latest: 10.0.2
+  release: 10.0.2
   versions:
   - 1.0-alpha-2
   - 1.0-alpha-3
@@ -115,5 +115,6 @@ versioning:
   - 9.0.3
   - 10.0.0
   - 10.0.1
+  - 10.0.2
   - 1.5.0-Final
-  lastUpdated: 20200508093016
+  lastUpdated: 20200602103411

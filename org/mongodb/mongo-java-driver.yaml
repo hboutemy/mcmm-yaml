@@ -3,8 +3,8 @@
 groupId: org.mongodb
 artifactId: mongo-java-driver
 versioning:
-  latest: 3.12.4
-  release: 3.12.4
+  latest: 3.12.5
+  release: 3.12.5
   versions:
   - 2.7.0-rc1
   - 2.7.0-rc2
@@ -115,6 +115,7 @@ versioning:
   - 3.12.2
   - 3.12.3
   - 3.12.4
+  - 3.12.5
   - 0.11
   - 0.9.1
   - 1.0
@@ -141,4 +142,4 @@ versioning:
   - 2.6.2
   - 2.6.3
   - 2.6.5
-  lastUpdated: 20200506173830
+  lastUpdated: 20200602123314

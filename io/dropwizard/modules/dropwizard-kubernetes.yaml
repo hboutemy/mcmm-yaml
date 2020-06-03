@@ -3,9 +3,11 @@
 groupId: io.dropwizard.modules
 artifactId: dropwizard-kubernetes
 versioning:
-  latest: 1.4.0
-  release: 1.4.0
+  latest: 1.4.2
+  release: 1.4.2
   versions:
   - 1.3.13-1
   - 1.4.0
-  lastUpdated: 20200105211453
+  - 1.4.1
+  - 1.4.2
+  lastUpdated: 20200602192846

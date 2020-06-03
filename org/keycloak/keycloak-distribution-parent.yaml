@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-distribution-parent
 versioning:
-  latest: 10.0.1
-  release: 10.0.1
+  latest: 10.0.2
+  release: 10.0.2
   versions:
   - 1.9.0.CR1
   - 1.9.0.Final
@@ -75,4 +75,5 @@ versioning:
   - 9.0.3
   - 10.0.0
   - 10.0.1
-  lastUpdated: 20200508093023
+  - 10.0.2
+  lastUpdated: 20200602103417

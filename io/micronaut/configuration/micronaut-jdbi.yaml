@@ -3,10 +3,12 @@
 groupId: io.micronaut.configuration
 artifactId: micronaut-jdbi
 versioning:
-  latest: 2.2.4
-  release: 2.2.4
+  latest: 2.2.5
+  release: 2.2.5
   versions:
   - 1.4.0
+  - 1.4.1
+  - 1.4.1.TEST
   - 2.0.0.RC1
   - 2.0.0
   - 2.1.0
@@ -15,4 +17,5 @@ versioning:
   - 2.2.2
   - 2.2.3
   - 2.2.4
-  lastUpdated: 20200529102321
+  - 2.2.5
+  lastUpdated: 20200602153209
