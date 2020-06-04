@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.wso2.orbit.org.apache.tomcat
 artifactId: jdbc-pool
 versioning:
-  latest: 7.0.81.wso2v2
-  release: 7.0.81.wso2v2
+  latest: 9.0.16.wso2v1
+  release: 9.0.35.wso2v1
   versions:
   - 7.0.81.wso2v1
   - 7.0.81.wso2v2
-  lastUpdated: 20171206200749
+  - 9.0.35.wso2v1
+  lastUpdated: 20200603104011

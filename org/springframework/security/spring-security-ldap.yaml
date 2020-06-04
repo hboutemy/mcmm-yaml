@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.security
 artifactId: spring-security-ldap
 versioning:
-  latest: 5.3.2.RELEASE
-  release: 5.3.2.RELEASE
+  latest: 5.3.3.RELEASE
+  release: 5.3.3.RELEASE
   versions:
   - 3.0.0.RELEASE
   - 3.0.1.RELEASE
@@ -63,6 +63,7 @@ versioning:
   - 4.2.14.RELEASE
   - 4.2.15.RELEASE
   - 4.2.16.RELEASE
+  - 4.2.17.RELEASE
   - 5.0.0.RELEASE
   - 5.0.1.RELEASE
   - 5.0.2.RELEASE
@@ -80,6 +81,7 @@ versioning:
   - 5.0.14.RELEASE
   - 5.0.15.RELEASE
   - 5.0.16.RELEASE
+  - 5.0.17.RELEASE
   - 5.1.0.RELEASE
   - 5.1.1.RELEASE
   - 5.1.2.RELEASE
@@ -91,12 +93,15 @@ versioning:
   - 5.1.8.RELEASE
   - 5.1.9.RELEASE
   - 5.1.10.RELEASE
+  - 5.1.11.RELEASE
   - 5.2.0.RELEASE
   - 5.2.1.RELEASE
   - 5.2.2.RELEASE
   - 5.2.3.RELEASE
   - 5.2.4.RELEASE
+  - 5.2.5.RELEASE
   - 5.3.0.RELEASE
   - 5.3.1.RELEASE
   - 5.3.2.RELEASE
-  lastUpdated: 20200506204305
+  - 5.3.3.RELEASE
+  lastUpdated: 20200603224923
