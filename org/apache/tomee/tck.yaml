@@ -1,12 +1,14 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.apache.tomee
 artifactId: tck
 versioning:
-  latest: 8.0.1
-  release: 8.0.1
+  latest: 8.0.2
+  release: 8.0.2
   versions:
   - 7.0.0-M1
+  - 7.0.0-M2
   - 7.0.0-M3
   - 7.0.0
   - 7.0.1
@@ -26,4 +28,5 @@ versioning:
   - 8.0.0-M3
   - 8.0.0
   - 8.0.1
-  lastUpdated: 20200527145123
+  - 8.0.2
+  lastUpdated: 20200604172739

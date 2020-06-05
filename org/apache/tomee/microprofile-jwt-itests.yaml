@@ -1,12 +1,14 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.apache.tomee
 artifactId: microprofile-jwt-itests
 versioning:
-  latest: 8.0.1
-  release: 8.0.1
+  latest: 8.0.2
+  release: 8.0.2
   versions:
   - 8.0.0-M3
   - 8.0.0
   - 8.0.1
-  lastUpdated: 20200120095724
+  - 8.0.2
+  lastUpdated: 20200604171152
