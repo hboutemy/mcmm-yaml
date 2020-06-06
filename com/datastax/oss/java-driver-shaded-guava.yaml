@@ -3,9 +3,10 @@
 groupId: com.datastax.oss
 artifactId: java-driver-shaded-guava
 versioning:
-  latest: 25.1-jre
-  release: 25.1-jre
+  latest: 25.1-jre-graal-sub-1
+  release: 25.1-jre-graal-sub-1
   versions:
   - 24.1-jre
   - 25.1-jre
-  lastUpdated: 20180615215545
+  - 25.1-jre-graal-sub-1
+  lastUpdated: 20200605091418
