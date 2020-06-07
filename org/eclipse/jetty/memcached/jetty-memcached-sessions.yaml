@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty.memcached
 artifactId: jetty-memcached-sessions
 versioning:
-  latest: 10.0.0.beta0
-  release: 10.0.0.beta0
+  latest: 11.0.0-alpha0
+  release: 11.0.0-alpha0
   versions:
   - 9.4.0.M0
   - 9.4.0.M1
@@ -61,4 +61,5 @@ versioning:
   - 10.0.0.alpha1
   - 10.0.0.alpha2
   - 10.0.0.beta0
-  lastUpdated: 20200528073225
+  - 11.0.0-alpha0
+  lastUpdated: 20200606011057
