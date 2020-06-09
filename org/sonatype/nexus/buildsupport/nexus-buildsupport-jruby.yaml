@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.buildsupport
 artifactId: nexus-buildsupport-jruby
 versioning:
-  latest: 3.24.0-01
-  release: 3.24.0-01
+  latest: 3.24.0-02
+  release: 3.24.0-02
   versions:
   - 3.0.2-02
   - 3.1.0-04
@@ -61,4 +61,5 @@ versioning:
   - 3.23.0-01
   - 3.23.0-03
   - 3.24.0-01
-  lastUpdated: 20200603144820
+  - 3.24.0-02
+  lastUpdated: 20200608204334

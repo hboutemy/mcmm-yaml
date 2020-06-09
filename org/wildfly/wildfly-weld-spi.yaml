@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-weld-spi
 versioning:
-  latest: 20.0.0.Beta1
-  release: 20.0.0.Beta1
+  latest: 20.0.0.Final
+  release: 20.0.0.Final
   versions:
   - 11.0.0.Alpha1
   - 11.0.0.Beta1
@@ -36,4 +36,5 @@ versioning:
   - 19.0.0.Final
   - 19.1.0.Final
   - 20.0.0.Beta1
-  lastUpdated: 20200520233017
+  - 20.0.0.Final
+  lastUpdated: 20200607211906

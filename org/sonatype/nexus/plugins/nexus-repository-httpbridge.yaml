@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.plugins
 artifactId: nexus-repository-httpbridge
 versioning:
-  latest: 3.24.0-01
-  release: 3.24.0-01
+  latest: 3.24.0-02
+  release: 3.24.0-02
   versions:
   - 3.0.0-b2015020701
   - 3.0.0-b2015061001
@@ -68,4 +68,5 @@ versioning:
   - 3.23.0-01
   - 3.23.0-03
   - 3.24.0-01
-  lastUpdated: 20200603144915
+  - 3.24.0-02
+  lastUpdated: 20200608204412

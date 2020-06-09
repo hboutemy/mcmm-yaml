@@ -3,8 +3,8 @@
 groupId: org.wildfly.bom
 artifactId: wildfly-jms-client-bom-builder
 versioning:
-  latest: 20.0.0.Beta1
-  release: 20.0.0.Beta1
+  latest: 20.0.0.Final
+  release: 20.0.0.Final
   versions:
   - 17.0.0.Beta1
   - 17.0.0.Final
@@ -19,4 +19,5 @@ versioning:
   - 19.0.1.Final
   - 19.1.0.Final
   - 20.0.0.Beta1
-  lastUpdated: 20200521191633
+  - 20.0.0.Final
+  lastUpdated: 20200608101839
