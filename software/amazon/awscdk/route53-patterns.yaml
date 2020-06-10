@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: route53-patterns
 versioning:
-  latest: 1.44.0
-  release: 1.44.0
+  latest: 1.45.0
+  release: 1.45.0
   versions:
   - 1.9.0.DEVPREVIEW
   - 1.10.0.DEVPREVIEW
@@ -56,4 +56,5 @@ versioning:
   - 1.42.1
   - 1.43.0
   - 1.44.0
-  lastUpdated: 20200604153032
+  - 1.45.0
+  lastUpdated: 20200609175139
