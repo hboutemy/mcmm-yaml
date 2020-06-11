@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.data
 artifactId: spring-data-gemfire
 versioning:
-  latest: 2.3.0.RELEASE
-  release: 2.3.0.RELEASE
+  latest: 2.3.1.RELEASE
+  release: 2.3.1.RELEASE
   versions:
   - 1.1.0.RELEASE
   - 1.1.1.RELEASE
@@ -106,6 +106,7 @@ versioning:
   - 2.1.15.RELEASE
   - 2.1.16.RELEASE
   - 2.1.17.RELEASE
+  - 2.1.18.RELEASE
   - 2.2.0.RELEASE
   - 2.2.1.RELEASE
   - 2.2.2.RELEASE
@@ -114,5 +115,7 @@ versioning:
   - 2.2.5.RELEASE
   - 2.2.6.RELEASE
   - 2.2.7.RELEASE
+  - 2.2.8.RELEASE
   - 2.3.0.RELEASE
-  lastUpdated: 20200512110204
+  - 2.3.1.RELEASE
+  lastUpdated: 20200610132215

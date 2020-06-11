@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.integration
 artifactId: spring-integration-ftp
 versioning:
-  latest: 5.3.0.RELEASE
-  release: 5.3.0.RELEASE
+  latest: 5.3.1.RELEASE
+  release: 5.3.1.RELEASE
   versions:
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
@@ -118,6 +118,7 @@ versioning:
   - 5.1.8.RELEASE
   - 5.1.9.RELEASE
   - 5.1.10.RELEASE
+  - 5.1.11.RELEASE
   - 5.2.0.RELEASE
   - 5.2.1.RELEASE
   - 5.2.2.RELEASE
@@ -125,6 +126,8 @@ versioning:
   - 5.2.4.RELEASE
   - 5.2.5.RELEASE
   - 5.2.6.RELEASE
+  - 5.2.7.RELEASE
   - 5.3.0.RELEASE
+  - 5.3.1.RELEASE
   - 4.0.0.M3
-  lastUpdated: 20200513231129
+  lastUpdated: 20200610184216
