@@ -3,9 +3,11 @@
 groupId: org.apache.giraph
 artifactId: giraph-block-app
 versioning:
-  latest: 1.2.0-hadoop2
-  release: 1.2.0-hadoop2
+  latest: 1.3.0-hadoop2
+  release: 1.3.0-hadoop2
   versions:
   - 1.2.0
   - 1.2.0-hadoop2
-  lastUpdated: 20161022042025
+  - 1.3.0-hadoop1
+  - 1.3.0-hadoop2
+  lastUpdated: 20200611225151

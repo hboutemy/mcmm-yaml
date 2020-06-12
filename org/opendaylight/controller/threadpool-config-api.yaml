@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.controller
 artifactId: threadpool-config-api
 versioning:
-  latest: 0.13.1
-  release: 0.13.1
+  latest: 0.13.2
+  release: 0.13.2
   versions:
   - 0.2.3
   - 0.2.5-Helium
@@ -59,4 +59,5 @@ versioning:
   - 0.12.1
   - 0.13.0
   - 0.13.1
-  lastUpdated: 20200531094635
+  - 0.13.2
+  lastUpdated: 20200611220255

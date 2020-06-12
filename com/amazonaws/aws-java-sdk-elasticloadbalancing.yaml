@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-elasticloadbalancing
 versioning:
-  latest: 1.11.800
-  release: 1.11.800
+  latest: 1.11.801
+  release: 1.11.801
   versions:
   - 1.9.0
   - 1.9.1
@@ -934,4 +934,5 @@ versioning:
   - 1.11.798
   - 1.11.799
   - 1.11.800
-  lastUpdated: 20200610203503
+  - 1.11.801
+  lastUpdated: 20200611203624

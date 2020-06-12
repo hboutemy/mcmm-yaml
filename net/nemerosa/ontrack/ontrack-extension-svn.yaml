@@ -3,8 +3,8 @@
 groupId: net.nemerosa.ontrack
 artifactId: ontrack-extension-svn
 versioning:
-  latest: 3.42.8
-  release: 3.42.8
+  latest: 3.42.9-dirty
+  release: 3.42.9-dirty
   versions:
   - experimental-pipeline-a6e0b79
   - experimental-pipeline-a8ce70d
@@ -359,4 +359,6 @@ versioning:
   - 3.42.6
   - 3.42.7
   - 3.42.8
-  lastUpdated: 20200610190916
+  - 3.42.9
+  - 3.42.9-dirty
+  lastUpdated: 20200611195832

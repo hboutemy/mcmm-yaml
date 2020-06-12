@@ -3,8 +3,8 @@
 groupId: org.eclipse.che.multiuser
 artifactId: che-multiuser-postgresql-tck
 versioning:
-  latest: 7.14.1
-  release: 7.14.1
+  latest: 7.14.2
+  release: 7.14.2
   versions:
   - 6.10.0
   - 6.11.0
@@ -70,4 +70,5 @@ versioning:
   - 7.13.2
   - 7.14.0
   - 7.14.1
-  lastUpdated: 20200605102812
+  - 7.14.2
+  lastUpdated: 20200611074251

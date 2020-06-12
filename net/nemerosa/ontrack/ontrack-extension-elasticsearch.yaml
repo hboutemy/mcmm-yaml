@@ -3,8 +3,8 @@
 groupId: net.nemerosa.ontrack
 artifactId: ontrack-extension-elasticsearch
 versioning:
-  latest: 3.42.8
-  release: 3.42.8
+  latest: 3.42.9-dirty
+  release: 3.42.9-dirty
   versions:
   - feature-732-back-to-central-5e58285
   - feature-735-ui-publication-7c8bc12
@@ -55,4 +55,6 @@ versioning:
   - 3.42.6
   - 3.42.7
   - 3.42.8
-  lastUpdated: 20200610190850
+  - 3.42.9
+  - 3.42.9-dirty
+  lastUpdated: 20200611195810
