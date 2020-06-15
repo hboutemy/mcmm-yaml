@@ -3,8 +3,8 @@
 groupId: com.thesamet.scalapb
 artifactId: scalapb-runtime-grpc_2.12
 versioning:
-  latest: 0.10.4
-  release: 0.10.4
+  latest: 0.10.4.tmp9
+  release: 0.10.4.tmp9
   versions:
   - 0.7.0-rc1
   - 0.7.0-rc2
@@ -53,4 +53,6 @@ versioning:
   - 0.10.2
   - 0.10.3
   - 0.10.4
-  lastUpdated: 20200607142616
+  - 0.10.4.tmp8
+  - 0.10.4.tmp9
+  lastUpdated: 20200614205541
