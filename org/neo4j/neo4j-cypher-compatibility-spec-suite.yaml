@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-cypher-compatibility-spec-suite
 versioning:
-  latest: 4.0.5
-  release: 4.0.5
+  latest: 4.0.6
+  release: 4.0.6
   versions:
   - 3.1.5
   - 3.1.6
@@ -117,4 +117,5 @@ versioning:
   - 4.0.3
   - 4.0.4
   - 4.0.5
-  lastUpdated: 20200615132138
+  - 4.0.6
+  lastUpdated: 20200616163124
