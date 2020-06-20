@@ -3,8 +3,8 @@
 groupId: com.atlassian.bamboo
 artifactId: bamboo-specs-internal
 versioning:
-  latest: 7.1.0-rc1
-  release: 7.1.0-rc1
+  latest: 7.1.0-BAM-19753-1
+  release: 7.1.0-BAM-19753-1
   versions:
   - 6.2.6
   - 6.2.7
@@ -63,6 +63,8 @@ versioning:
   - 7.0.4
   - 7.0.4-BDEV-15887-1
   - 7.1.0-rc1
+  - 7.1.0-BAM-14321-webhooks
+  - 7.1.0-BAM-19753-1
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -81,4 +83,4 @@ versioning:
   - 6.2.4
   - 6.2.5
   - 6.3.0-rc3
-  lastUpdated: 20200603124715
+  lastUpdated: 20200619095658

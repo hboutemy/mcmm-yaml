@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-quarkus-outbox
 versioning:
-  latest: 1.2.0.CR1
-  release: 1.2.0.CR1
+  latest: 1.2.0.CR2
+  release: 1.2.0.CR2
   versions:
   - 1.1.0.Alpha1
   - 1.1.0.Beta1
@@ -17,4 +17,5 @@ versioning:
   - 1.2.0.Beta1
   - 1.2.0.Beta2
   - 1.2.0.CR1
-  lastUpdated: 20200611064401
+  - 1.2.0.CR2
+  lastUpdated: 20200619050910
