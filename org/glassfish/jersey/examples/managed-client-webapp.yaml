@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.examples
 artifactId: managed-client-webapp
 versioning:
-  latest: 3.0.0-M1
-  release: 3.0.0-M1
+  latest: 3.0.0-M6
+  release: 3.0.0-M6
   versions:
   - 2.0-m12
   - 2.0-m12-1
@@ -78,4 +78,5 @@ versioning:
   - 2.30.1
   - 2.31
   - 3.0.0-M1
-  lastUpdated: 20200522211018
+  - 3.0.0-M6
+  lastUpdated: 20200622135442
