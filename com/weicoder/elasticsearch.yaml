@@ -3,8 +3,8 @@
 groupId: com.weicoder
 artifactId: elasticsearch
 versioning:
-  latest: 3.3.9-jdk8
-  release: 3.3.9-jdk8
+  latest: 3.4.0-jdk8
+  release: 3.4.0-jdk8
   versions:
   - 2.6.0
   - 2.6.1
@@ -27,4 +27,6 @@ versioning:
   - 3.3.8-jdk8
   - 3.3.9
   - 3.3.9-jdk8
-  lastUpdated: 20200525005042
+  - 3.4.0
+  - 3.4.0-jdk8
+  lastUpdated: 20200623101229
