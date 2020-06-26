@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-redshift
 versioning:
-  latest: 1.11.810
-  release: 1.11.810
+  latest: 1.11.811
+  release: 1.11.811
   versions:
   - 1.9.0
   - 1.9.1
@@ -944,4 +944,5 @@ versioning:
   - 1.11.808
   - 1.11.809
   - 1.11.810
-  lastUpdated: 20200624212024
+  - 1.11.811
+  lastUpdated: 20200625214004

@@ -1,16 +1,17 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.glassfish.hk2
 artifactId: hk2-runlevel-extras
 versioning:
-  latest: 2.6.1
-  release: 2.6.1
+  latest: 3.0.0-M2
+  release: 3.0.0-M2
   versions:
+  - 3.0.0-M2
+  - 2.2.0
   - 2.2.0-b25
   - 2.2.0-b26
   - 2.2.0-b27
-  - 2.2.0
+  - 2.3.0
   - 2.3.0-b01
   - 2.3.0-b03
   - 2.3.0-b04
@@ -20,7 +21,7 @@ versioning:
   - 2.3.0-b08
   - 2.3.0-b09
   - 2.3.0-b10
-  - 2.3.0
+  - 2.4.0
   - 2.4.0-b01
   - 2.4.0-b02
   - 2.4.0-b03
@@ -54,7 +55,7 @@ versioning:
   - 2.4.0-b32
   - 2.4.0-b33
   - 2.4.0-b34
-  - 2.4.0
+  - 2.5.0
   - 2.5.0-b01
   - 2.5.0-b02
   - 2.5.0-b03
@@ -115,7 +116,6 @@ versioning:
   - 2.5.0-b61
   - 2.5.0-b62
   - 2.5.0-b63
-  - 2.5.0
   - 2.6.0
   - 2.6.1
-  lastUpdated: 20190823175809
+  lastUpdated: 20200625135831
