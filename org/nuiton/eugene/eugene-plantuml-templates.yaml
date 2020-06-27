@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.nuiton.eugene
 artifactId: eugene-plantuml-templates
 versioning:
   latest: 3.0-alpha-10
-  release: 3.0-alpha-10
+  release: 3.0
   versions:
   - 2.6.3
   - 2.7
@@ -31,4 +30,5 @@ versioning:
   - 3.0-alpha-8
   - 3.0-alpha-9
   - 3.0-alpha-10
-  lastUpdated: 20180330172952
+  - 3.0
+  lastUpdated: 20200624115456
