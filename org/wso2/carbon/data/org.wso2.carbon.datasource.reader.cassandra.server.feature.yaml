@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.data
 artifactId: org.wso2.carbon.datasource.reader.cassandra.server.feature
 versioning:
-  latest: 4.5.1484
-  release: 4.5.1484
+  latest: 4.5.1486
+  release: 4.5.1486
   versions:
   - 4.3.1
   - 4.3.2
@@ -136,4 +136,6 @@ versioning:
   - 4.5.1482
   - 4.5.1483
   - 4.5.1484
-  lastUpdated: 20200628210659
+  - 4.5.1485
+  - 4.5.1486
+  lastUpdated: 20200629105003

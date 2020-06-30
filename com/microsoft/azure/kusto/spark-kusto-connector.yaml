@@ -3,8 +3,8 @@
 groupId: com.microsoft.azure.kusto
 artifactId: spark-kusto-connector
 versioning:
-  latest: 1.1.6
-  release: 1.1.6
+  latest: 2.0.0
+  release: 2.0.0
   versions:
   - 1.0.0-BETA-03
   - 1.0.0-BETA-04
@@ -19,4 +19,5 @@ versioning:
   - 1.1.4
   - 1.1.5
   - 1.1.6
-  lastUpdated: 20200628170258
+  - 2.0.0
+  lastUpdated: 20200629122705
