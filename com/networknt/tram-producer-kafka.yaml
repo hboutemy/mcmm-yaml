@@ -3,8 +3,8 @@
 groupId: com.networknt
 artifactId: tram-producer-kafka
 versioning:
-  latest: 2.0.14
-  release: 2.0.14
+  latest: 2.0.15
+  release: 2.0.15
   versions:
   - 1.5.27
   - 1.5.28
@@ -35,6 +35,7 @@ versioning:
   - 1.6.21
   - 1.6.22
   - 1.6.23
+  - 1.6.24
   - 2.0.1
   - 2.0.2
   - 2.0.3
@@ -48,4 +49,5 @@ versioning:
   - 2.0.11
   - 2.0.13
   - 2.0.14
-  lastUpdated: 20200623032132
+  - 2.0.15
+  lastUpdated: 20200701230053

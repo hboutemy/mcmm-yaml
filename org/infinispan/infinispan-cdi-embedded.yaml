@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-cdi-embedded
 versioning:
-  latest: 11.0.0.Dev05
-  release: 11.0.0.Dev05
+  latest: 11.0.1.Final
+  release: 11.0.1.Final
   versions:
   - 8.1.0.Beta1
   - 8.1.0.CR1
@@ -140,4 +140,5 @@ versioning:
   - 11.0.0.Dev03
   - 11.0.0.Dev04
   - 11.0.0.Dev05
-  lastUpdated: 20200614205956
+  - 11.0.1.Final
+  lastUpdated: 20200630190924

@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-endpoint-interop-it
 versioning:
-  latest: 11.0.0.Dev05
-  release: 11.0.0.Dev05
+  latest: 11.0.1.Final
+  release: 11.0.1.Final
   versions:
   - 9.4.0.CR3
   - 9.4.0.Final
@@ -59,4 +59,5 @@ versioning:
   - 11.0.0.Dev03
   - 11.0.0.Dev04
   - 11.0.0.Dev05
-  lastUpdated: 20200614210004
+  - 11.0.1.Final
+  lastUpdated: 20200630190933
