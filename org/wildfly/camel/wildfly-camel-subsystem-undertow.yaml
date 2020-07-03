@@ -3,8 +3,8 @@
 groupId: org.wildfly.camel
 artifactId: wildfly-camel-subsystem-undertow
 versioning:
-  latest: 11.1.0
-  release: 11.1.0
+  latest: 12.0.0
+  release: 12.0.0
   versions:
   - 3.0.0.redhat-1
   - 3.0.1.redhat-1
@@ -37,4 +37,5 @@ versioning:
   - 11.0.0
   - 11.0.1
   - 11.1.0
-  lastUpdated: 20200401122544
+  - 12.0.0
+  lastUpdated: 20200702100618
