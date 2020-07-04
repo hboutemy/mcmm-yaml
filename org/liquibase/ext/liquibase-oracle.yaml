@@ -3,8 +3,8 @@
 groupId: org.liquibase.ext
 artifactId: liquibase-oracle
 versioning:
-  latest: 3.10.0
-  release: 3.10.0
+  latest: 4.0.0-beta2
+  release: 4.0.0-beta2
   versions:
   - 1.2.0
   - 3.0.0
@@ -12,4 +12,5 @@ versioning:
   - 3.2
   - 3.9.0
   - 3.10.0
-  lastUpdated: 20200615162118
+  - 4.0.0-beta2
+  lastUpdated: 20200703235043

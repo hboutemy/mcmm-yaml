@@ -3,9 +3,10 @@
 groupId: org.neo4j
 artifactId: neo4j-ogm-bolt-driver
 versioning:
-  latest: 3.2.12
-  release: 3.2.12
+  latest: 3.2.13
+  release: 3.2.13
   versions:
+  - v3.2.13
   - 2.0.0-M04
   - 2.0.0
   - 2.0.1
@@ -77,4 +78,5 @@ versioning:
   - 3.2.10
   - 3.2.11
   - 3.2.12
-  lastUpdated: 20200529124956
+  - 3.2.13
+  lastUpdated: 20200703120935
