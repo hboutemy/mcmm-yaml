@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.nuiton.eugene
 artifactId: eugene-java-templates
 versioning:
-  latest: 3.0-alpha-10
+  latest: 3.0
   release: 3.0
   versions:
   - 2.5.5
@@ -37,4 +38,4 @@ versioning:
   - 3.0-alpha-9
   - 3.0-alpha-10
   - 3.0
-  lastUpdated: 20200624115447
+  lastUpdated: 20200703233234

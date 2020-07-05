@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.nuiton
 artifactId: eugene
 versioning:
-  latest: 3.0-alpha-10
+  latest: 3.0
   release: 3.0
   versions:
   - 1.0.0
@@ -60,4 +61,4 @@ versioning:
   - 3.0-alpha-9
   - 3.0-alpha-10
   - 3.0
-  lastUpdated: 20200624115414
+  lastUpdated: 20200703233250
