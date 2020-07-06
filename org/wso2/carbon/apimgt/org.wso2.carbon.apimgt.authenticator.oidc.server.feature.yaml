@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.apimgt
 artifactId: org.wso2.carbon.apimgt.authenticator.oidc.server.feature
 versioning:
-  latest: 6.7.72
-  release: 6.7.72
+  latest: 6.7.73
+  release: 6.7.73
   versions:
   - 2.0.0
   - 2.0.1
@@ -1340,4 +1340,5 @@ versioning:
   - 6.7.70
   - 6.7.71
   - 6.7.72
-  lastUpdated: 20200704171602
+  - 6.7.73
+  lastUpdated: 20200705174317

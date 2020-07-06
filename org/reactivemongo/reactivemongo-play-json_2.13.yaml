@@ -3,8 +3,8 @@
 groupId: org.reactivemongo
 artifactId: reactivemongo-play-json_2.13
 versioning:
-  latest: 0.20.12-play29
-  release: 0.20.12-play29
+  latest: 0.20.12-play29-fix1
+  release: 0.20.12-play29-fix1
   versions:
   - 0.18.0-play27
   - 0.18.1-play27
@@ -52,6 +52,9 @@ versioning:
   - 0.20.11-play27
   - 0.20.11-play28
   - 0.20.12-play27
+  - 0.20.12-play27-fix1
   - 0.20.12-play28
+  - 0.20.12-play28-fix1
   - 0.20.12-play29
-  lastUpdated: 20200704192203
+  - 0.20.12-play29-fix1
+  lastUpdated: 20200705121511

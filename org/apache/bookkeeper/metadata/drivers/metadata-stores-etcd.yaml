@@ -3,11 +3,12 @@
 groupId: org.apache.bookkeeper.metadata.drivers
 artifactId: metadata-stores-etcd
 versioning:
-  latest: 4.10.0
-  release: 4.10.0
+  latest: 4.11.0
+  release: 4.11.0
   versions:
   - 4.9.0
   - 4.9.1
   - 4.9.2
   - 4.10.0
-  lastUpdated: 20191106114351
+  - 4.11.0
+  lastUpdated: 20200705184023
