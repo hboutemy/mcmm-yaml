@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.data
 artifactId: org.wso2.carbon.cassandra-jdbc-1.2.5.server.feature
 versioning:
-  latest: 4.5.1501
-  release: 4.5.1501
+  latest: 4.5.1505
+  release: 4.5.1505
   versions:
   - 4.3.0
   - 4.3.1
@@ -153,4 +153,8 @@ versioning:
   - 4.5.1499
   - 4.5.1500
   - 4.5.1501
-  lastUpdated: 20200705174734
+  - 4.5.1502
+  - 4.5.1503
+  - 4.5.1504
+  - 4.5.1505
+  lastUpdated: 20200706213712

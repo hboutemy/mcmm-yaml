@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.arquillian.protocol
 artifactId: arquillian-protocol-servlet
 versioning:
-  latest: 1.7.0.Alpha1
-  release: 1.7.0.Alpha1
+  latest: 1.7.0.Alpha2
+  release: 1.7.0.Alpha2
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha5
@@ -51,4 +51,5 @@ versioning:
   - 1.5.0.Final
   - 1.6.0.Final
   - 1.7.0.Alpha1
-  lastUpdated: 20200422161141
+  - 1.7.0.Alpha2
+  lastUpdated: 20200706185012
