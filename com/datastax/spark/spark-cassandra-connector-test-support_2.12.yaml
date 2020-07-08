@@ -3,11 +3,12 @@
 groupId: com.datastax.spark
 artifactId: spark-cassandra-connector-test-support_2.12
 versioning:
-  latest: 3.0.0-alpha2
-  release: 3.0.0-alpha2
+  latest: 3.0.0-beta
+  release: 3.0.0-beta
   versions:
   - v3.0.0-alpha2
   - 2.5.0
   - 3.0-alpha
   - 3.0.0-alpha2
-  lastUpdated: 20200428184048
+  - 3.0.0-beta
+  lastUpdated: 20200707123504

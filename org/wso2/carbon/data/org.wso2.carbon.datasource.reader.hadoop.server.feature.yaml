@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.data
 artifactId: org.wso2.carbon.datasource.reader.hadoop.server.feature
 versioning:
-  latest: 4.5.1505
-  release: 4.5.1505
+  latest: 4.5.1507
+  release: 4.5.1507
   versions:
   - 4.3.1
   - 4.3.2
@@ -156,4 +156,6 @@ versioning:
   - 4.5.1503
   - 4.5.1504
   - 4.5.1505
-  lastUpdated: 20200706213731
+  - 4.5.1506
+  - 4.5.1507
+  lastUpdated: 20200707112450

@@ -3,9 +3,10 @@
 groupId: com.datastax.oss.quarkus
 artifactId: cassandra-quarkus-bom-deployment
 versioning:
-  latest: 1.0.0-alpha2
-  release: 1.0.0-alpha2
+  latest: 1.0.0-alpha3
+  release: 1.0.0-alpha3
   versions:
   - 1.0.0-alpha1
   - 1.0.0-alpha2
-  lastUpdated: 20200702190717
+  - 1.0.0-alpha3
+  lastUpdated: 20200707200412
