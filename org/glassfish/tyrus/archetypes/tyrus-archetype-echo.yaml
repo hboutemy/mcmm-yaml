@@ -3,13 +3,14 @@
 groupId: org.glassfish.tyrus.archetypes
 artifactId: tyrus-archetype-echo
 versioning:
-  latest: 2.0.0-M2
-  release: 2.0.0-M2
+  latest: 2.0.0-M3
+  release: 2.0.0-M3
   versions:
   - 1.16
   - 1.17
   - 2.0.0-M1
   - 2.0.0-M2
+  - 2.0.0-M3
   - 1.10
   - 1.11
   - 1.11.1
@@ -26,4 +27,4 @@ versioning:
   - 1.8.2
   - 1.8.3
   - 1.9
-  lastUpdated: 20200612074604
+  lastUpdated: 20200709174405

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: lambda-event-sources
 versioning:
-  latest: 1.50.0
-  release: 1.50.0
+  latest: 1.51.0
+  release: 1.51.0
   versions:
   - 0.15.0
   - 0.15.1
@@ -108,4 +108,5 @@ versioning:
   - 1.49.0
   - 1.49.1
   - 1.50.0
-  lastUpdated: 20200707144057
+  - 1.51.0
+  lastUpdated: 20200709143735
