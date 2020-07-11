@@ -3,8 +3,8 @@
 groupId: org.mongodb.scala
 artifactId: mongo-scala-bson_2.13
 versioning:
-  latest: 4.1.0-beta2
-  release: 4.1.0-beta2
+  latest: 4.1.0-rc0
+  release: 4.1.0-rc0
   versions:
   - 2.7.0
   - 2.8.0
@@ -19,4 +19,5 @@ versioning:
   - 4.0.5
   - 4.1.0-beta1
   - 4.1.0-beta2
-  lastUpdated: 20200708100640
+  - 4.1.0-rc0
+  lastUpdated: 20200710191636
