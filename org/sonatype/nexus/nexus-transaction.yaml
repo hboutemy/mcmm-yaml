@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus
 artifactId: nexus-transaction
 versioning:
-  latest: 3.24.0-02
-  release: 3.24.0-02
+  latest: 3.25.0-03
+  release: 3.25.0-03
   versions:
   - 3.0.0-b2015091801
   - 3.0.0-b2015110601
@@ -67,4 +67,6 @@ versioning:
   - 3.23.0-03
   - 3.24.0-01
   - 3.24.0-02
-  lastUpdated: 20200608204405
+  - 3.25.0-02
+  - 3.25.0-03
+  lastUpdated: 20200713203623

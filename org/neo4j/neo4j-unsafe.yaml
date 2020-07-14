@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-unsafe
 versioning:
-  latest: 4.1.0
-  release: 4.1.0
+  latest: 4.1.1
+  release: 4.1.1
   versions:
   - 2.2.1
   - 2.2.2
@@ -187,6 +187,7 @@ versioning:
   - 3.5.17
   - 3.5.18
   - 3.5.19
+  - 3.5.20
   - 4.0.0-rc01
   - 4.0.0
   - 4.0.1
@@ -196,4 +197,5 @@ versioning:
   - 4.0.5
   - 4.0.6
   - 4.1.0
-  lastUpdated: 20200623163019
+  - 4.1.1
+  lastUpdated: 20200713133914

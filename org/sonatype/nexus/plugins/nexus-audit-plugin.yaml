@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.plugins
 artifactId: nexus-audit-plugin
 versioning:
-  latest: 3.24.0-02
-  release: 3.24.0-02
+  latest: 3.25.0-03
+  release: 3.25.0-03
   versions:
   - 3.1.0-04
   - 3.2.0-01
@@ -61,4 +61,6 @@ versioning:
   - 3.23.0-03
   - 3.24.0-01
   - 3.24.0-02
-  lastUpdated: 20200608204407
+  - 3.25.0-02
+  - 3.25.0-03
+  lastUpdated: 20200713203626
