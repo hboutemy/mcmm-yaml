@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-cloudidentity
 versioning:
-  latest: v1-rev20200622-1.30.9
-  release: v1-rev20200622-1.30.9
+  latest: v1-rev20200622-1.30.10
+  release: v1-rev20200622-1.30.10
   versions:
   - v1beta1-rev2-1.24.1
   - v1beta1-rev14-1.18.0-rc
@@ -226,6 +226,7 @@ versioning:
   - v1beta1-rev20200612-1.30.9
   - v1beta1-rev20200622-1.30.9
   - v1beta1-rev20200629-1.30.9
+  - v1beta1-rev20200629-1.30.10
   - v1-rev12-1.18.0-rc
   - v1-rev12-1.22.0
   - v1-rev12-1.23.0
@@ -431,4 +432,5 @@ versioning:
   - v1-rev20200401-1.30.9
   - v1-rev20200612-1.30.9
   - v1-rev20200622-1.30.9
-  lastUpdated: 20200701201136
+  - v1-rev20200622-1.30.10
+  lastUpdated: 20200714092237
