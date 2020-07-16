@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.windup.web
 artifactId: windup-web-tests-wildfly-dist
 versioning:
-  latest: 5.0.0.Beta1
-  release: 5.0.0.Beta1
+  latest: 5.0.0.Final
+  release: 5.0.0.Final
   versions:
   - 4.0.0.Beta1
   - 4.0.0.Beta2
@@ -28,4 +28,5 @@ versioning:
   - 4.3.1.Final
   - 5.0.0.Alpha1
   - 5.0.0.Beta1
-  lastUpdated: 20200713084444
+  - 5.0.0.Final
+  lastUpdated: 20200715090117

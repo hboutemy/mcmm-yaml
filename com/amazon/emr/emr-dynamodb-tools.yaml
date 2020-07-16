@@ -3,9 +3,14 @@
 groupId: com.amazon.emr
 artifactId: emr-dynamodb-tools
 versioning:
-  latest: 4.12.0
-  release: 4.12.0
+  latest: 4.14.0
+  release: 4.14.0
   versions:
+  - 4.13.0
+  - 4.14.0
+  - 4.10.0
+  - 4.11.0
+  - 4.12.0
   - 4.2.0
   - 4.3.0
   - 4.4.0
@@ -14,7 +19,4 @@ versioning:
   - 4.7.0
   - 4.8.0
   - 4.9.0
-  - 4.10.0
-  - 4.11.0
-  - 4.12.0
-  lastUpdated: 20191001181349
+  lastUpdated: 20200715192725
