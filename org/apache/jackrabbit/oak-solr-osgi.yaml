@@ -3,8 +3,8 @@
 groupId: org.apache.jackrabbit
 artifactId: oak-solr-osgi
 versioning:
-  latest: 1.26.0
-  release: 1.26.0
+  latest: 1.32.0
+  release: 1.32.0
   versions:
   - 0.19
   - 0.20.0
@@ -210,6 +210,7 @@ versioning:
   - 1.8.19
   - 1.8.20
   - 1.8.21
+  - 1.8.22
   - 1.9.0
   - 1.9.1
   - 1.9.2
@@ -245,5 +246,5 @@ versioning:
   - 1.24.0
   - 1.26.0
   - 1.30.0
-  - 1.8.22
-  lastUpdated: 20200421104346
+  - 1.32.0
+  lastUpdated: 20200716073229

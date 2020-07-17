@@ -3,12 +3,16 @@
 groupId: de.derivo.graph-app
 artifactId: semspect-neo4j-plugin-distribution
 versioning:
-  latest: 3.14.0-beta
-  release: 3.14.0-beta
+  latest: 3.15.0-neo4j-4.1
+  release: 3.15.0-neo4j-4.1
   versions:
   - 3.13.1-alpha
   - 3.13.2-alpha
   - 3.13.3-alpha
   - 3.13.3-beta
   - 3.14.0-beta
-  lastUpdated: 20200529175805
+  - 3.15.0-neo4j-3.4
+  - 3.15.0-neo4j-3.5
+  - 3.15.0-neo4j-4.0
+  - 3.15.0-neo4j-4.1
+  lastUpdated: 20200716143402

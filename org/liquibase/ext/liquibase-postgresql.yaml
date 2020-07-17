@@ -3,12 +3,13 @@
 groupId: org.liquibase.ext
 artifactId: liquibase-postgresql
 versioning:
-  latest: 4.0.0-beta2
-  release: 4.0.0-beta2
+  latest: 4.0.0
+  release: 4.0.0
   versions:
   - 3.0
   - 3.9
   - 3.10.0
   - 3.10.1
   - 4.0.0-beta2
-  lastUpdated: 20200706192504
+  - 4.0.0
+  lastUpdated: 20200716034753

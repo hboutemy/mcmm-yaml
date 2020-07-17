@@ -3,8 +3,8 @@
 groupId: org.liquibase.ext
 artifactId: liquibase-redshift
 versioning:
-  latest: 4.0.0-beta2
-  release: 4.0.0-beta2
+  latest: 4.0.0
+  release: 4.0.0
   versions:
   - 1.0
   - 1.1
@@ -12,4 +12,5 @@ versioning:
   - 3.10.0
   - 3.10.1
   - 4.0.0-beta2
-  lastUpdated: 20200706192505
+  - 4.0.0
+  lastUpdated: 20200716035313
