@@ -3,8 +3,8 @@
 groupId: org.reactivemongo
 artifactId: play2-reactivemongo_2.12
 versioning:
-  latest: 0.20.12-play28-fix1
-  release: 0.20.12-play28-fix1
+  latest: 1.0.0-play28-rc.1
+  release: 1.0.0-play28-rc.1
   versions:
   - 0.12.4
   - 0.12.4-fix26
@@ -108,4 +108,7 @@ versioning:
   - 0.20.12-play27-fix1
   - 0.20.12-play28
   - 0.20.12-play28-fix1
-  lastUpdated: 20200705121627
+  - 1.0.0-play26-rc.1
+  - 1.0.0-play27-rc.1
+  - 1.0.0-play28-rc.1
+  lastUpdated: 20200717130815

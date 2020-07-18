@@ -3,8 +3,8 @@
 groupId: org.reactivemongo
 artifactId: reactivemongo-akkastream_2.11
 versioning:
-  latest: 0.20.12-fix1
-  release: 0.20.12-fix1
+  latest: 1.0.0-rc.1
+  release: 1.0.0-rc.1
   versions:
   - 0.12-RC0
   - 0.12-RC1
@@ -60,4 +60,5 @@ versioning:
   - 0.20.11
   - 0.20.12
   - 0.20.12-fix1
-  lastUpdated: 20200705121400
+  - 1.0.0-rc.1
+  lastUpdated: 20200717130528

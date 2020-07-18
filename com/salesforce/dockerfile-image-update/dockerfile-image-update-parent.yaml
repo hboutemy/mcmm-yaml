@@ -3,8 +3,8 @@
 groupId: com.salesforce.dockerfile-image-update
 artifactId: dockerfile-image-update-parent
 versioning:
-  latest: 1.0.80
-  release: 1.0.80
+  latest: 1.0.83
+  release: 1.0.83
   versions:
   - 1.0.2
   - 1.0.3
@@ -58,4 +58,7 @@ versioning:
   - 1.0.77
   - 1.0.79
   - 1.0.80
-  lastUpdated: 20200711201830
+  - 1.0.81
+  - 1.0.82
+  - 1.0.83
+  lastUpdated: 20200717171119

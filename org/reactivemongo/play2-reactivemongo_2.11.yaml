@@ -3,8 +3,8 @@
 groupId: org.reactivemongo
 artifactId: play2-reactivemongo_2.11
 versioning:
-  latest: 0.20.12-play27-fix1
-  release: 0.20.12-play27-fix1
+  latest: 1.0.0-play27-rc.1
+  release: 1.0.0-play27-rc.1
   versions:
   - 0.10.5.0.akka23
   - 0.11.0.play23-M2
@@ -205,4 +205,7 @@ versioning:
   - 0.20.12-play26-fix1
   - 0.20.12-play27
   - 0.20.12-play27-fix1
-  lastUpdated: 20200705121623
+  - 1.0.0-play25-rc.1
+  - 1.0.0-play26-rc.1
+  - 1.0.0-play27-rc.1
+  lastUpdated: 20200717130812

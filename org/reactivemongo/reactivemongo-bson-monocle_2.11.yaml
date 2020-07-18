@@ -3,8 +3,8 @@
 groupId: org.reactivemongo
 artifactId: reactivemongo-bson-monocle_2.11
 versioning:
-  latest: 0.20.12-noshaded
-  release: 0.20.12-noshaded
+  latest: 1.0.0-noshaded-rc.1
+  release: 1.0.0-noshaded-rc.1
   versions:
   - 0.18.5
   - 0.18.6
@@ -36,4 +36,6 @@ versioning:
   - 0.20.11-noshaded
   - 0.20.12
   - 0.20.12-noshaded
-  lastUpdated: 20200704191828
+  - 1.0.0-rc.1
+  - 1.0.0-noshaded-rc.1
+  lastUpdated: 20200717130237
