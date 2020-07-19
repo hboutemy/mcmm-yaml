@@ -3,8 +3,8 @@
 groupId: io.floodplain
 artifactId: kafka-converter
 versioning:
-  latest: 0.9.12
-  release: 0.9.12
+  latest: 0.9.17
+  release: 0.9.17
   versions:
   - 0.8.17
   - 0.8.24
@@ -21,4 +21,7 @@ versioning:
   - 0.9.10
   - 0.9.11
   - 0.9.12
-  lastUpdated: 20200716220326
+  - 0.9.14
+  - 0.9.16
+  - 0.9.17
+  lastUpdated: 20200718220737
