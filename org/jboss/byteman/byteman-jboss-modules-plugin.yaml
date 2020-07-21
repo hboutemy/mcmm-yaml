@@ -3,8 +3,8 @@
 groupId: org.jboss.byteman
 artifactId: byteman-jboss-modules-plugin
 versioning:
-  latest: 4.0.11
-  release: 4.0.11
+  latest: 4.0.12
+  release: 4.0.12
   versions:
   - 3.0.3
   - 3.0.4
@@ -21,6 +21,7 @@ versioning:
   - 3.0.16
   - 3.0.17
   - 3.0.18
+  - 3.0.19
   - 4.0.0-ALPHA
   - 4.0.0-BETA0
   - 4.0.0-BETA1
@@ -40,4 +41,5 @@ versioning:
   - 4.0.9
   - 4.0.10
   - 4.0.11
-  lastUpdated: 20200319100144
+  - 4.0.12
+  lastUpdated: 20200720095330
