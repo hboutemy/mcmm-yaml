@@ -3,8 +3,8 @@
 groupId: pl.allegro.tech.servicemesh
 artifactId: envoy-control-tests
 versioning:
-  latest: 0.9.1
-  release: 0.9.1
+  latest: 0.10.1
+  release: 0.10.1
   versions:
   - 0.8.1
   - 0.8.2
@@ -58,4 +58,6 @@ versioning:
   - 0.8.50
   - 0.9.0
   - 0.9.1
-  lastUpdated: 20200716094751
+  - 0.10.0
+  - 0.10.1
+  lastUpdated: 20200721142252

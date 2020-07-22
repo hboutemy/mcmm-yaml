@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-s3-fs-hadoop
 versioning:
-  latest: 1.11.0
-  release: 1.11.0
+  latest: 1.11.1
+  release: 1.11.1
   versions:
   - 1.4.0
   - 1.4.1
@@ -35,4 +35,5 @@ versioning:
   - 1.10.0
   - 1.10.1
   - 1.11.0
-  lastUpdated: 20200706092159
+  - 1.11.1
+  lastUpdated: 20200721060934
