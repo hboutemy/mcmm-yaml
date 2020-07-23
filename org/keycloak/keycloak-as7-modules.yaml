@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-as7-modules
 versioning:
-  latest: 10.0.2
-  release: 10.0.2
+  latest: 11.0.0
+  release: 11.0.0
   versions:
   - 1.3.0.Final
   - 1.3.1.Final
@@ -92,5 +92,6 @@ versioning:
   - 10.0.0
   - 10.0.1
   - 10.0.2
+  - 11.0.0
   - 1.5.0-Final
-  lastUpdated: 20200602103411
+  lastUpdated: 20200722102107

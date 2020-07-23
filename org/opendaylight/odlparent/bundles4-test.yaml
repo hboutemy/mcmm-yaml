@@ -3,8 +3,8 @@
 groupId: org.opendaylight.odlparent
 artifactId: bundles4-test
 versioning:
-  latest: 7.0.4
-  release: 7.0.4
+  latest: 7.0.5
+  release: 7.0.5
   versions:
   - 1.8.0-Carbon
   - 1.8.1-Carbon
@@ -60,6 +60,7 @@ versioning:
   - 5.0.7
   - 5.0.8
   - 5.0.9
+  - 5.0.10
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -71,9 +72,11 @@ versioning:
   - 6.0.8
   - 6.0.9
   - 6.0.10
+  - 6.0.11
   - 7.0.0
   - 7.0.1
   - 7.0.2
   - 7.0.3
   - 7.0.4
-  lastUpdated: 20200717143143
+  - 7.0.5
+  lastUpdated: 20200722122017

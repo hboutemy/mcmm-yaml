@@ -3,8 +3,8 @@
 groupId: org.opendaylight.yangtools
 artifactId: yang-model-export
 versioning:
-  latest: 5.0.4
-  release: 5.0.4
+  latest: 5.0.5
+  release: 5.0.5
   versions:
   - 0.7.0-Lithium
   - 0.7.1-Lithium-SR1
@@ -95,6 +95,7 @@ versioning:
   - 3.0.12
   - 3.0.13
   - 3.0.14
+  - 3.0.15
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -108,9 +109,11 @@ versioning:
   - 4.0.10
   - 4.0.11
   - 4.0.12
+  - 4.0.13
   - 5.0.0
   - 5.0.1
   - 5.0.2
   - 5.0.3
   - 5.0.4
-  lastUpdated: 20200717163255
+  - 5.0.5
+  lastUpdated: 20200722152519

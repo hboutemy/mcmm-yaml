@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.codehaus.groovy
 artifactId: groovy-jsr223
 versioning:
-  latest: 3.0.4
-  release: 3.0.4
+  latest: 3.0.5
+  release: 3.0.5
   versions:
   - 2.0.0-rc-1
   - 2.0.0-rc-2
@@ -85,6 +85,7 @@ versioning:
   - 2.4.17
   - 2.4.18
   - 2.4.19
+  - 2.4.20
   - 2.5.0-alpha-1
   - 2.5.0-beta-1
   - 2.5.0-beta-2
@@ -105,6 +106,7 @@ versioning:
   - 2.5.10
   - 2.5.11
   - 2.5.12
+  - 2.5.13
   - 2.6.0-alpha-1
   - 2.6.0-alpha-2
   - 2.6.0-alpha-3
@@ -124,4 +126,5 @@ versioning:
   - 3.0.2
   - 3.0.3
   - 3.0.4
-  lastUpdated: 20200521123606
+  - 3.0.5
+  lastUpdated: 20200722131104
