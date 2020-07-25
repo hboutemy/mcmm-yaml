@@ -3,8 +3,8 @@
 groupId: io.nextflow
 artifactId: nf-httpfs
 versioning:
-  latest: 20.07.0-RC1
-  release: 20.07.0-RC1
+  latest: 20.07.1
+  release: 20.07.1
   versions:
   - 19.01.0
   - 19.01.0-edge
@@ -39,4 +39,6 @@ versioning:
   - 20.05.0-edge
   - 20.06.0-edge
   - 20.07.0-RC1
-  lastUpdated: 20200719192531
+  - 20.07.0
+  - 20.07.1
+  lastUpdated: 20200724153803
