@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.eclipse.scout.rt
 artifactId: org.eclipse.scout.rt.ui.html
 versioning:
-  latest: 11.0.0-alpha.0
-  release: 11.0.0-alpha.0
+  latest: 11.0.0-alpha.4
+  release: 11.0.0-alpha.4
   versions:
   - 5.2.0.M3
   - 5.2.0.M4
@@ -130,6 +130,10 @@ versioning:
   - 10.0.26
   - 10.0.27
   - 11.0.0-alpha.0
+  - 11.0.0-alpha.1
+  - 11.0.0-alpha.2
+  - 11.0.0-alpha.3
+  - 11.0.0-alpha.4
   - 6.0.0.M6_RelengTest
   - 6.0.0.M6_RelengTest3
-  lastUpdated: 20200723130717
+  lastUpdated: 20200725215228
