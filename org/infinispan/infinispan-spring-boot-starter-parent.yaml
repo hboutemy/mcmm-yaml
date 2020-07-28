@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-spring-boot-starter-parent
 versioning:
-  latest: 2.3.1.Final
-  release: 2.3.1.Final
+  latest: 12.0.0.Dev01
+  release: 12.0.0.Dev01
   versions:
   - 1.0.0.Beta1
   - 1.0.0.CR1
@@ -37,4 +37,5 @@ versioning:
   - 2.2.4.Final
   - 2.3.0.Final
   - 2.3.1.Final
-  lastUpdated: 20200701102713
+  - 12.0.0.Dev01
+  lastUpdated: 20200726210406

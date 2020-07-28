@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-build-configuration-parent
 versioning:
-  latest: 11.0.1.Final
-  release: 11.0.1.Final
+  latest: 12.0.0.Dev01
+  release: 12.0.0.Dev01
   versions:
   - 9.4.0.Final
   - 9.4.1.Final
@@ -59,4 +59,5 @@ versioning:
   - 11.0.0.Dev04
   - 11.0.0.Dev05
   - 11.0.1.Final
-  lastUpdated: 20200630190921
+  - 12.0.0.Dev01
+  lastUpdated: 20200726210324
