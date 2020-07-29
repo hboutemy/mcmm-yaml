@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-deploymentmanager
 versioning:
-  latest: v2-rev20200512-1.30.9
-  release: v2-rev20200512-1.30.9
+  latest: v2-rev20200519-1.30.10
+  release: v2-rev20200519-1.30.10
   versions:
   - alpha-rev1-1.18.0-rc
   - alpha-rev1-1.20.0
@@ -123,6 +123,7 @@ versioning:
   - alpha-rev20181207-1.30.8
   - alpha-rev20181207-1.30.9
   - alpha-rev20200512-1.30.9
+  - alpha-rev20200512-1.30.10
   - v2beta1-rev1-1.15.0-rc
   - v2beta1-rev1-1.16.0-rc
   - v2beta1-rev1-1.17.0-rc
@@ -469,6 +470,7 @@ versioning:
   - v2beta-rev20181207-1.30.8
   - v2beta-rev20181207-1.30.9
   - v2beta-rev20200512-1.30.9
+  - v2beta-rev20200512-1.30.10
   - v2-rev1-1.18.0-rc
   - v2-rev1-1.19.0
   - v2-rev1-1.19.1
@@ -732,4 +734,5 @@ versioning:
   - v2-rev20181207-1.30.8
   - v2-rev20181207-1.30.9
   - v2-rev20200512-1.30.9
-  lastUpdated: 20200529214115
+  - v2-rev20200519-1.30.10
+  lastUpdated: 20200728202812

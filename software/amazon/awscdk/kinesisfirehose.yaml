@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: kinesisfirehose
 versioning:
-  latest: 1.54.0
-  release: 1.54.0
+  latest: 1.55.0
+  release: 1.55.0
   versions:
   - 0.8.0
   - 0.8.1
@@ -124,4 +124,5 @@ versioning:
   - 1.52.0
   - 1.53.0
   - 1.54.0
-  lastUpdated: 20200722110928
+  - 1.55.0
+  lastUpdated: 20200728224406

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: ecr-assets
 versioning:
-  latest: 1.54.0
-  release: 1.54.0
+  latest: 1.55.0
+  release: 1.55.0
   versions:
   - 0.35.0
   - 0.36.0
@@ -85,4 +85,5 @@ versioning:
   - 1.52.0
   - 1.53.0
   - 1.54.0
-  lastUpdated: 20200722110920
+  - 1.55.0
+  lastUpdated: 20200728224358
