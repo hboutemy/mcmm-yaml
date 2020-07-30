@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus
 artifactId: nexus-thread
 versioning:
-  latest: 3.25.0-03
-  release: 3.25.0-03
+  latest: 3.25.1-02
+  release: 3.25.1-02
   versions:
   - 3.0.0-b2015061001
   - 3.0.0-b2015091801
@@ -70,4 +70,6 @@ versioning:
   - 3.24.0-02
   - 3.25.0-02
   - 3.25.0-03
-  lastUpdated: 20200713203622
+  - 3.25.1-01
+  - 3.25.1-02
+  lastUpdated: 20200729192624

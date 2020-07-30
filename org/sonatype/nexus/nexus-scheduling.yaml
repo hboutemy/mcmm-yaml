@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus
 artifactId: nexus-scheduling
 versioning:
-  latest: 3.25.0-03
-  release: 3.25.0-03
+  latest: 3.25.1-02
+  release: 3.25.1-02
   versions:
   - 3.0.0-b2015020701
   - 3.0.0-b2015061001
@@ -71,4 +71,6 @@ versioning:
   - 3.24.0-02
   - 3.25.0-02
   - 3.25.0-03
-  lastUpdated: 20200713203616
+  - 3.25.1-01
+  - 3.25.1-02
+  lastUpdated: 20200729192617
