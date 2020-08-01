@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-kubernetes
 versioning:
-  latest: 1.6.1.Final
-  release: 1.6.1.Final
+  latest: 1.7.0.CR1
+  release: 1.7.0.CR1
   versions:
   - 0.13.0
   - 0.13.1
@@ -63,4 +63,5 @@ versioning:
   - 1.6.0.CR1
   - 1.6.0.Final
   - 1.6.1.Final
-  lastUpdated: 20200721105006
+  - 1.7.0.CR1
+  lastUpdated: 20200731161638

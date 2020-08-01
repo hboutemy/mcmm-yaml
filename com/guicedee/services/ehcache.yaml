@@ -3,8 +3,8 @@
 groupId: com.guicedee.services
 artifactId: ehcache
 versioning:
-  latest: 1.0.15.1-jre14
-  release: 1.0.15.1-jre14
+  latest: 1.0.15.2-jre14
+  release: 1.0.15.2-jre14
   versions:
   - 1.0.13.3
   - 1.0.13.3-jre14
@@ -31,4 +31,8 @@ versioning:
   - 1.0.15.1-jre12
   - 1.0.15.1-jre13
   - 1.0.15.1-jre14
-  lastUpdated: 20200726164608
+  - 1.0.15.2
+  - 1.0.15.2-jre8
+  - 1.0.15.2-jre12
+  - 1.0.15.2-jre14
+  lastUpdated: 20200731040801

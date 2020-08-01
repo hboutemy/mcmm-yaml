@@ -3,8 +3,8 @@
 groupId: com.guicedee.services
 artifactId: jakarta.servlet-api
 versioning:
-  latest: 1.0.15.1-jre14
-  release: 1.0.15.1-jre14
+  latest: 1.0.15.2-jre14
+  release: 1.0.15.2-jre14
   versions:
   - 1.0.10.0
   - 1.0.10.0-jre13
@@ -87,4 +87,8 @@ versioning:
   - 1.0.15.1-jre12
   - 1.0.15.1-jre13
   - 1.0.15.1-jre14
-  lastUpdated: 20200726164631
+  - 1.0.15.2
+  - 1.0.15.2-jre8
+  - 1.0.15.2-jre12
+  - 1.0.15.2-jre14
+  lastUpdated: 20200731040837
