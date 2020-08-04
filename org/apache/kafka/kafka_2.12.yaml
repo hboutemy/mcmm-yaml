@@ -3,8 +3,8 @@
 groupId: org.apache.kafka
 artifactId: kafka_2.12
 versioning:
-  latest: 2.5.0
-  release: 2.5.0
+  latest: 2.6.0
+  release: 2.6.0
   versions:
   - 0.10.1.1
   - 0.10.2.0
@@ -31,4 +31,5 @@ versioning:
   - 2.4.0
   - 2.4.1
   - 2.5.0
-  lastUpdated: 20200414202506
+  - 2.6.0
+  lastUpdated: 20200803200100

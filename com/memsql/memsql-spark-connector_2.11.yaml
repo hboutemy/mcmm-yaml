@@ -3,8 +3,8 @@
 groupId: com.memsql
 artifactId: memsql-spark-connector_2.11
 versioning:
-  latest: 3.0.1-spark-2.4.4
-  release: 3.0.1-spark-2.4.4
+  latest: 3.0.2-spark-2.4.4
+  release: 3.0.2-spark-2.4.4
   versions:
   - 3.0.0-beta2-spark-2.3.4
   - 3.0.0-beta2-spark-2.4.4
@@ -36,4 +36,6 @@ versioning:
   - 3.0.0-spark-2.4.4
   - 3.0.1-spark-2.3.4
   - 3.0.1-spark-2.4.4
-  lastUpdated: 20200612203839
+  - 3.0.2-spark-2.3.4
+  - 3.0.2-spark-2.4.4
+  lastUpdated: 20200803210139
