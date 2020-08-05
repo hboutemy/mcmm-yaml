@@ -3,8 +3,8 @@
 groupId: net.java.dev.activeobjects
 artifactId: activeobjects-integration-test-model
 versioning:
-  latest: 3.2.9
-  release: 3.2.9
+  latest: 3.2.10
+  release: 3.2.10
   versions:
   - 0.9-m10
   - 0.9-m11
@@ -164,6 +164,7 @@ versioning:
   - 3.0.0-m01
   - 3.0.0-m02
   - 3.0.0
+  - 3.0.4
   - 3.0.4-9f17bf01
   - 3.1.2
   - 3.1.5
@@ -171,6 +172,7 @@ versioning:
   - 3.1.7
   - 3.1.8
   - 3.1.9
+  - 3.1.10
   - 3.1.10-2c0613d2
   - 3.2.0
   - 3.2.1
@@ -183,4 +185,5 @@ versioning:
   - 3.2.7
   - 3.2.8
   - 3.2.9
-  lastUpdated: 20200723104419
+  - 3.2.10
+  lastUpdated: 20200804105132

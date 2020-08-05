@@ -3,8 +3,8 @@
 groupId: io.zeebe
 artifactId: zeebe-legacy-toml-config
 versioning:
-  latest: 0.24.1
-  release: 0.24.1
+  latest: 0.25.0-alpha1
+  release: 0.25.0-alpha1
   versions:
   - 0.23.0-alpha2
   - 0.23.0
@@ -16,4 +16,5 @@ versioning:
   - 0.24.0-alpha2
   - 0.24.0
   - 0.24.1
-  lastUpdated: 20200715133243
+  - 0.25.0-alpha1
+  lastUpdated: 20200804141113

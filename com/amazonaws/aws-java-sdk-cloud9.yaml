@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-cloud9
 versioning:
-  latest: 1.11.832
-  release: 1.11.832
+  latest: 1.11.834
+  release: 1.11.834
   versions:
   - 1.11.240
   - 1.11.241
@@ -600,4 +600,6 @@ versioning:
   - 1.11.830
   - 1.11.831
   - 1.11.832
-  lastUpdated: 20200731211907
+  - 1.11.833
+  - 1.11.834
+  lastUpdated: 20200804211708

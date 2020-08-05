@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-translate
 versioning:
-  latest: v3-rev20200515-1.30.10
-  release: v3-rev20200515-1.30.10
+  latest: v3-rev20200730-1.30.10
+  release: v3-rev20200730-1.30.10
   versions:
   - v2-rev10-1.13.2-beta
   - v2-rev10-1.14.1-beta
@@ -231,6 +231,7 @@ versioning:
   - v3beta1-rev20200221-1.30.8
   - v3beta1-rev20200221-1.30.9
   - v3beta1-rev20200221-1.30.10
+  - v3beta1-rev20200730-1.30.10
   - v3-rev2-1.18.0-rc
   - v3-rev2-1.25.0
   - v3-rev3-1.18.0-rc
@@ -259,4 +260,5 @@ versioning:
   - v3-rev20200306-1.30.9
   - v3-rev20200515-1.30.9
   - v3-rev20200515-1.30.10
-  lastUpdated: 20200711002213
+  - v3-rev20200730-1.30.10
+  lastUpdated: 20200804211129
