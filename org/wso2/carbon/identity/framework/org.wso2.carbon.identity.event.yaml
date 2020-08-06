@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.identity.event
 versioning:
-  latest: 5.18.33
-  release: 5.18.33
+  latest: 5.18.35
+  release: 5.18.35
   versions:
   - 5.5.0
   - 5.5.1
@@ -1373,4 +1373,6 @@ versioning:
   - 5.18.31
   - 5.18.32
   - 5.18.33
-  lastUpdated: 20200731105219
+  - 5.18.34
+  - 5.18.35
+  lastUpdated: 20200805182913

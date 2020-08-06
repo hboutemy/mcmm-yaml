@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.plugins
 artifactId: nexus-repository-base
 versioning:
-  latest: 1.1.16
-  release: 1.1.16
+  latest: 1.1.17
+  release: 1.1.17
   versions:
   - 1.0.0
   - 1.0.2
@@ -22,6 +22,7 @@ versioning:
   - 1.0.14
   - 1.0.15
   - 1.0.16
+  - 1.0.17
   - 1.1.0
   - 1.1.1
   - 1.1.2
@@ -39,4 +40,5 @@ versioning:
   - 1.1.14
   - 1.1.15
   - 1.1.16
-  lastUpdated: 20200730131410
+  - 1.1.17
+  lastUpdated: 20200805220146
