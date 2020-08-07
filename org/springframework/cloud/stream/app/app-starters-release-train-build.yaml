@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud.stream.app
 artifactId: app-starters-release-train-build
 versioning:
-  latest: Einstein.SR7
-  release: Einstein.SR7
+  latest: Einstein.SR8
+  release: Einstein.SR8
   versions:
   - Avogadro.RELEASE
   - Avogadro.SR1
@@ -25,4 +25,5 @@ versioning:
   - Einstein.SR5
   - Einstein.SR6
   - Einstein.SR7
-  lastUpdated: 20200730203552
+  - Einstein.SR8
+  lastUpdated: 20200806143528

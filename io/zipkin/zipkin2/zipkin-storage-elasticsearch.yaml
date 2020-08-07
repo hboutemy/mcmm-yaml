@@ -3,8 +3,8 @@
 groupId: io.zipkin.zipkin2
 artifactId: zipkin-storage-elasticsearch
 versioning:
-  latest: 2.21.5
-  release: 2.21.5
+  latest: 2.21.6
+  release: 2.21.6
   versions:
   - 2.0.0
   - 2.0.1
@@ -102,4 +102,5 @@ versioning:
   - 2.21.3
   - 2.21.4
   - 2.21.5
-  lastUpdated: 20200704002032
+  - 2.21.6
+  lastUpdated: 20200806020239
