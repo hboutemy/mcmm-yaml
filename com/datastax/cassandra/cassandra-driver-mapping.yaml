@@ -3,8 +3,8 @@
 groupId: com.datastax.cassandra
 artifactId: cassandra-driver-mapping
 versioning:
-  latest: 3.10.0
-  release: 3.10.0
+  latest: 3.10.1
+  release: 3.10.1
   versions:
   - 2.1.0-beta1
   - 2.1.0-rc1
@@ -60,5 +60,6 @@ versioning:
   - 3.8.0
   - 3.9.0
   - 3.10.0
+  - 3.10.1
   - 2.2.0-rc1
-  lastUpdated: 20200728205512
+  lastUpdated: 20200807190022

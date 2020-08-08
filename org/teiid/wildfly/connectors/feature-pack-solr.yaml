@@ -3,8 +3,8 @@
 groupId: org.teiid.wildfly.connectors
 artifactId: feature-pack-solr
 versioning:
-  latest: 14.0.1
-  release: 14.0.1
+  latest: 15.0.0
+  release: 15.0.0
   versions:
   - 12.0.0
   - 12.0.1
@@ -26,4 +26,5 @@ versioning:
   - 13.1.1
   - 14.0.0
   - 14.0.1
-  lastUpdated: 20200730211505
+  - 15.0.0
+  lastUpdated: 20200807173719
