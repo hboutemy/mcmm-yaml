@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: fr.ird.observe
 artifactId: observe
 versioning:
-  latest: 8.0.0-RC-8
-  release: 8.0.0-RC-8
+  latest: 8.0.0
+  release: 8.0.0
   versions:
   - 1.1.0
   - 1.2
@@ -90,6 +90,7 @@ versioning:
   - 7.6.2
   - 7.6.3
   - 7.6.4
+  - 7.6.5
   - 8.0-RC-1
   - 8.0-RC-2
   - 8.0-RC-3
@@ -98,5 +99,6 @@ versioning:
   - 8.0-RC-6
   - 8.0-RC-7
   - 8.0.0-RC-8
+  - 8.0.0
   - 7.0-RC-4
-  lastUpdated: 20200710173321
+  lastUpdated: 20200810122614

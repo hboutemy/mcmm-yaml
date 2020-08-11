@@ -3,8 +3,8 @@
 groupId: io.ktor
 artifactId: ktor-server-jetty-test-http2-metadata
 versioning:
-  latest: 1.3.1
-  release: 1.3.1
+  latest: 1.3.2-1.4.0-rc
+  release: 1.3.2-1.4.0-rc
   versions:
   - 1.1.1
   - 1.1.2
@@ -24,4 +24,5 @@ versioning:
   - 1.3.0-rc2
   - 1.3.0
   - 1.3.1
-  lastUpdated: 20200226133801
+  - 1.3.2-1.4.0-rc
+  lastUpdated: 20200810115823

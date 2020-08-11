@@ -3,8 +3,8 @@
 groupId: org.opendaylight.controller
 artifactId: distribution.opendaylight-karaf
 versioning:
-  latest: 1.14.1
-  release: 1.14.1
+  latest: 1.14.2
+  release: 1.14.2
   versions:
   - 1.4.2-Helium
   - 1.4.3-Helium-SR1
@@ -55,4 +55,5 @@ versioning:
   - 1.13.3
   - 1.14.0
   - 1.14.1
-  lastUpdated: 20200529005102
+  - 1.14.2
+  lastUpdated: 20200810083331

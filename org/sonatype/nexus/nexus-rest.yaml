@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus
 artifactId: nexus-rest
 versioning:
-  latest: 3.26.0-02
-  release: 3.26.0-02
+  latest: 3.26.0-04
+  release: 3.26.0-04
   versions:
   - 3.0.0-b2015110601
   - 3.0.0-b2016011501
@@ -74,4 +74,6 @@ versioning:
   - 3.25.1-04
   - 3.26.0-01
   - 3.26.0-02
-  lastUpdated: 20200807145150
+  - 3.26.0-03
+  - 3.26.0-04
+  lastUpdated: 20200810154556

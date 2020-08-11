@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.plugins
 artifactId: nexus-restore-raw
 versioning:
-  latest: 3.26.0-02
-  release: 3.26.0-02
+  latest: 3.26.0-04
+  release: 3.26.0-04
   versions:
   - 3.15.0-01
   - 3.15.1-01
@@ -46,4 +46,6 @@ versioning:
   - 3.25.1-04
   - 3.26.0-01
   - 3.26.0-02
-  lastUpdated: 20200807145222
+  - 3.26.0-03
+  - 3.26.0-04
+  lastUpdated: 20200810154623
