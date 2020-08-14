@@ -3,8 +3,8 @@
 groupId: org.openjdk.jmh
 artifactId: jmh-groovy-benchmark-archetype
 versioning:
-  latest: 1.24
-  release: 1.24
+  latest: 1.25
+  release: 1.25
   versions:
   - 0.5
   - 0.5.2
@@ -83,5 +83,6 @@ versioning:
   - 1.22
   - 1.23
   - 1.24
+  - 1.25
   - 1.10
-  lastUpdated: 20200805090144
+  lastUpdated: 20200813093521

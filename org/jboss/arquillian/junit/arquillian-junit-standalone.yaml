@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.arquillian.junit
 artifactId: arquillian-junit-standalone
 versioning:
-  latest: 1.7.0.Alpha2
-  release: 1.7.0.Alpha2
+  latest: 1.7.0.Alpha3
+  release: 1.7.0.Alpha3
   versions:
   - 1.0.0.Beta1
   - 1.0.0.Beta2
@@ -50,4 +50,5 @@ versioning:
   - 1.6.0.Final
   - 1.7.0.Alpha1
   - 1.7.0.Alpha2
-  lastUpdated: 20200706185010
+  - 1.7.0.Alpha3
+  lastUpdated: 20200813103500
