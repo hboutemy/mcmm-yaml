@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.identity.application.default.auth.sequence.mgt.stub
 versioning:
-  latest: 5.18.54
-  release: 5.18.54
+  latest: 5.18.56
+  release: 5.18.56
   versions:
   - 5.15.34
   - 5.15.35
@@ -273,4 +273,6 @@ versioning:
   - 5.18.52
   - 5.18.53
   - 5.18.54
-  lastUpdated: 20200815212902
+  - 5.18.55
+  - 5.18.56
+  lastUpdated: 20200816141521
