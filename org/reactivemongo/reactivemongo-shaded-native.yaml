@@ -3,8 +3,8 @@
 groupId: org.reactivemongo
 artifactId: reactivemongo-shaded-native
 versioning:
-  latest: 1.0.0-rc.2-osx-x86-64
-  release: 1.0.0-rc.2-osx-x86-64
+  latest: 1.0.0-rc.3-osx-x86-64
+  release: 1.0.0-rc.3-osx-x86-64
   versions:
   - 0.15.0-linux-x86-64
   - 0.15.0-osx-x86-64
@@ -82,4 +82,6 @@ versioning:
   - 1.0.0-rc.1-osx-x86-64
   - 1.0.0-rc.2-linux-x86-64
   - 1.0.0-rc.2-osx-x86-64
-  lastUpdated: 20200718202548
+  - 1.0.0-rc.3-linux-x86-64
+  - 1.0.0-rc.3-osx-x86-64
+  lastUpdated: 20200817181312
