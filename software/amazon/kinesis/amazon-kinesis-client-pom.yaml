@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.kinesis
 artifactId: amazon-kinesis-client-pom
 versioning:
-  latest: 2.2.11
-  release: 2.2.11
+  latest: 2.3.0
+  release: 2.3.0
   versions:
   - 2.0.0
   - 2.0.1
@@ -36,4 +36,5 @@ versioning:
   - 2.2.9
   - 2.2.10
   - 2.2.11
-  lastUpdated: 20200528194816
+  - 2.3.0
+  lastUpdated: 20200818001228

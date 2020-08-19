@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.identity.inbound.auth.oauth2
 artifactId: org.wso2.carbon.identity.oauth.scope.endpoint
 versioning:
-  latest: 6.4.52
-  release: 6.4.52
+  latest: 6.4.54
+  release: 6.4.54
   versions:
   - 5.4.14
   - 5.4.15
@@ -596,4 +596,6 @@ versioning:
   - 6.4.50
   - 6.4.51
   - 6.4.52
-  lastUpdated: 20200815185909
+  - 6.4.53
+  - 6.4.54
+  lastUpdated: 20200818092822
