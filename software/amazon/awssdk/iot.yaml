@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: iot
 versioning:
-  latest: 2.14.1
-  release: 2.14.1
+  latest: 2.14.2
+  release: 2.14.2
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -390,4 +390,5 @@ versioning:
   - 2.13.76
   - 2.14.0
   - 2.14.1
-  lastUpdated: 20200818190956
+  - 2.14.2
+  lastUpdated: 20200819191023
