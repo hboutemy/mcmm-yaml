@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.kie
 artifactId: kie-api-parent
 versioning:
-  latest: 7.41.0.t20200723
-  release: 7.41.0.t20200723
+  latest: 7.42.0.Final
+  release: 7.42.0.Final
   versions:
   - 6.0.0.Alpha4
   - 6.0.0.Alpha5
@@ -121,6 +121,7 @@ versioning:
   - 7.40.0.20200703
   - 7.41.0.Final
   - 7.41.0.t20200723
+  - 7.42.0.Final
   - 6.0.0.Alpha7
   - 6.0.0.Alpha8
-  lastUpdated: 20200731083237
+  lastUpdated: 20200820072935

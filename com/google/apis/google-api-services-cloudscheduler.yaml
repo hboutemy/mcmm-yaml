@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-cloudscheduler
 versioning:
-  latest: v1-rev20200716-1.30.10
-  release: v1-rev20200716-1.30.10
+  latest: v1-rev20200814-1.30.10
+  release: v1-rev20200814-1.30.10
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.22.0
@@ -91,6 +91,7 @@ versioning:
   - v1beta1-rev20200618-1.30.10
   - v1beta1-rev20200703-1.30.10
   - v1beta1-rev20200716-1.30.10
+  - v1beta1-rev20200814-1.30.10
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.22.0
   - v1-rev1-1.23.0
@@ -143,4 +144,5 @@ versioning:
   - v1-rev20200618-1.30.10
   - v1-rev20200703-1.30.10
   - v1-rev20200716-1.30.10
-  lastUpdated: 20200728200752
+  - v1-rev20200814-1.30.10
+  lastUpdated: 20200820200632

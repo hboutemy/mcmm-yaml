@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jbpm
 artifactId: jbpm-distribution
 versioning:
-  latest: 7.41.0.t20200723
-  release: 7.41.0.t20200723
+  latest: 7.42.0.Final
+  release: 7.42.0.Final
   versions:
   - 5.1.0.M1
   - 5.1.0.CR1
@@ -129,5 +129,6 @@ versioning:
   - 7.40.0.20200703
   - 7.41.0.Final
   - 7.41.0.t20200723
+  - 7.42.0.Final
   - 6.0.0.Alpha7
-  lastUpdated: 20200731082954
+  lastUpdated: 20200820072644

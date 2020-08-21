@@ -4,14 +4,15 @@ modelVersion: 1.1.0
 groupId: com.amazon.opendistroforelasticsearch
 artifactId: opendistro-job-scheduler-spi
 versioning:
-  latest: 1.9.0.0
-  release: 1.9.0.0
+  latest: 1.10.0.0
+  release: 1.10.0.0
   versions:
   - 1.0.0.1
   - 1.1.0.0
   - 1.2.0.0
   - 1.2.1.0
   - 1.9.0.0
+  - 1.10.0.0
   - 0.10.0.2
   - 1.0.0.2
   - 1.1.0.1
@@ -21,4 +22,4 @@ versioning:
   - 1.6.0.0
   - 1.7.0.0
   - 1.8.0.0
-  lastUpdated: 20200622195843
+  lastUpdated: 20200820214828
