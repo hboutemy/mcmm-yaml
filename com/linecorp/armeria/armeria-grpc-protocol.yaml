@@ -3,8 +3,8 @@
 groupId: com.linecorp.armeria
 artifactId: armeria-grpc-protocol
 versioning:
-  latest: 0.99.9
-  release: 0.99.9
+  latest: 1.0.0
+  release: 1.0.0
   versions:
   - 0.84.0
   - 0.85.0
@@ -42,4 +42,5 @@ versioning:
   - 0.99.7
   - 0.99.8
   - 0.99.9
-  lastUpdated: 20200804052256
+  - 1.0.0
+  lastUpdated: 20200821103106

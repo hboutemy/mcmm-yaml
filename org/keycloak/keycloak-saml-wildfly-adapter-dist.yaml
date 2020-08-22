@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-saml-wildfly-adapter-dist
 versioning:
-  latest: 11.0.0
-  release: 11.0.0
+  latest: 11.0.1
+  release: 11.0.1
   versions:
   - 1.7.0.CR1
   - 1.7.0.Final
@@ -85,4 +85,5 @@ versioning:
   - 10.0.1
   - 10.0.2
   - 11.0.0
-  lastUpdated: 20200722102346
+  - 11.0.1
+  lastUpdated: 20200821083300
