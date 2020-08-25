@@ -3,8 +3,8 @@
 groupId: io.zipkin.aws
 artifactId: brave-propagation-aws
 versioning:
-  latest: 0.21.2
-  release: 0.21.2
+  latest: 0.21.3
+  release: 0.21.3
   versions:
   - 0.11.0
   - 0.11.2
@@ -39,4 +39,5 @@ versioning:
   - 0.21.0
   - 0.21.1
   - 0.21.2
-  lastUpdated: 20200530034543
+  - 0.21.3
+  lastUpdated: 20200824072617
