@@ -3,8 +3,8 @@
 groupId: io.gravitee.gateway.standalone
 artifactId: gravitee-gateway-standalone-bootstrap
 versioning:
-  latest: 3.1.2
-  release: 3.1.2
+  latest: 3.1.3
+  release: 3.1.3
   versions:
   - 0.2.0
   - 0.3.0
@@ -203,6 +203,7 @@ versioning:
   - 1.30.17
   - 1.30.18
   - 1.30.19
+  - 1.30.20
   - 3.0.0-alpha
   - 3.0.0-beta
   - 3.0.0
@@ -216,4 +217,5 @@ versioning:
   - 3.1.0
   - 3.1.1
   - 3.1.2
-  lastUpdated: 20200819125505
+  - 3.1.3
+  lastUpdated: 20200828131152

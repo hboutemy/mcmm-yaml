@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-ogm-core
 versioning:
-  latest: 3.2.14
-  release: 3.2.14
+  latest: 3.2.15
+  release: 3.2.15
   versions:
   - v3.2.13
   - 2.0.0-M01
@@ -60,6 +60,7 @@ versioning:
   - 3.1.18
   - 3.1.19
   - 3.1.20
+  - 3.1.21
   - 3.2.0-alpha01
   - 3.2.0-alpha02
   - 3.2.0-alpha03
@@ -83,4 +84,5 @@ versioning:
   - 3.2.12
   - 3.2.13
   - 3.2.14
-  lastUpdated: 20200708103733
+  - 3.2.15
+  lastUpdated: 20200828104544

@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-server-kinesis
 versioning:
-  latest: 1.3.0.Alpha1
-  release: 1.3.0.Alpha1
+  latest: 1.3.0.Beta1
+  release: 1.3.0.Beta1
   versions:
   - 1.2.0.CR1
   - 1.2.0.CR2
@@ -12,4 +12,5 @@ versioning:
   - 1.2.1.Final
   - 1.2.2.Final
   - 1.3.0.Alpha1
-  lastUpdated: 20200825063648
+  - 1.3.0.Beta1
+  lastUpdated: 20200828093741
