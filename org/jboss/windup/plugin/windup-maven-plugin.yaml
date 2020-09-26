@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.windup.plugin
 artifactId: windup-maven-plugin
 versioning:
-  latest: 5.0.1.Final
-  release: 5.0.1.Final
+  latest: 5.0.1.Alpha1
+  release: 5.0.1.Alpha1
   versions:
   - 2.5.0.CR2
   - 2.5.0.Final
@@ -36,5 +36,6 @@ versioning:
   - 5.0.0.Alpha1
   - 5.0.0.Beta1
   - 5.0.0.Final
+  - 5.0.1.Alpha1
   - 4.0.0.BETA1
-  lastUpdated: 20200914084945
+  lastUpdated: 20200901095934
