@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-server-testdriver-junit5
 versioning:
-  latest: 12.0.0.Dev02
-  release: 12.0.0.Dev02
+  latest: 12.0.0.Dev03
+  release: 12.0.0.Dev03
   versions:
   - 11.0.0.CR1
   - 11.0.0.Final
@@ -13,4 +14,4 @@ versioning:
   - 11.0.3.Final
   - 12.0.0.Dev01
   - 12.0.0.Dev02
-  lastUpdated: 20200817112415
+  lastUpdated: 20200913074709

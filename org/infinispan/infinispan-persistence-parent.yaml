@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-persistence-parent
 versioning:
-  latest: 12.0.0.Dev02
-  release: 12.0.0.Dev02
+  latest: 12.0.0.Dev03
+  release: 12.0.0.Dev03
   versions:
   - 6.0.0.Beta1
   - 6.0.0.Beta2
@@ -192,4 +193,4 @@ versioning:
   - 11.0.3.Final
   - 12.0.0.Dev01
   - 12.0.0.Dev02
-  lastUpdated: 20200817112343
+  lastUpdated: 20200913074102

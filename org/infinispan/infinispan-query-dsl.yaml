@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-query-dsl
 versioning:
-  latest: 12.0.0.Dev02
-  release: 12.0.0.Dev02
+  latest: 12.0.0.Dev03
+  release: 12.0.0.Dev03
   versions:
   - 6.0.0.Alpha3
   - 6.0.0.Alpha4
@@ -194,4 +195,4 @@ versioning:
   - 11.0.3.Final
   - 12.0.0.Dev01
   - 12.0.0.Dev02
-  lastUpdated: 20200817112349
+  lastUpdated: 20200913073628

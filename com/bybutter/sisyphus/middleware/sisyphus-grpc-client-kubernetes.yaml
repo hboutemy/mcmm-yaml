@@ -3,8 +3,8 @@
 groupId: com.bybutter.sisyphus.middleware
 artifactId: sisyphus-grpc-client-kubernetes
 versioning:
-  latest: 0.0.6
-  release: 0.0.6
+  latest: 0.0.9-M2
+  release: 0.0.9-M2
   versions:
   - 0.0.4
   - 0.0.5
@@ -13,4 +13,6 @@ versioning:
   - 0.0.6-M2
   - 0.0.6-M3
   - 0.0.6
-  lastUpdated: 20200828141441
+  - 0.0.7
+  - 0.0.8
+  lastUpdated: 20200911073528
