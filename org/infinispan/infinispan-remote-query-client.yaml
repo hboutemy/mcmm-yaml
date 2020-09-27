@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-remote-query-client
 versioning:
-  latest: 12.0.0.Dev3
-  release: 12.0.0.Dev3
+  latest: 12.0.0.Dev03
+  release: 12.0.0.Dev03
   versions:
   - 6.0.0.Alpha4
   - 6.0.0.Beta1
@@ -193,6 +194,6 @@ versioning:
   - 11.0.3.Final
   - 12.0.0.Dev01
   - 12.0.0.Dev02
-  - 12.0.0.Dev3
   - 12.0.0.Dev03
-  lastUpdated: 20200907175537
+  - 12.0.0.Dev3
+  lastUpdated: 20200913073906

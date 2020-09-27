@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-commons-jdk11
 versioning:
-  latest: 12.0.0.Dev3
-  release: 12.0.0.Dev3
+  latest: 12.0.0.Dev03
+  release: 12.0.0.Dev03
   versions:
   - 11.0.0.CR1
   - 11.0.0.Final
@@ -15,6 +16,6 @@ versioning:
   - 11.0.3.Final
   - 12.0.0.Dev01
   - 12.0.0.Dev02
-  - 12.0.0.Dev3
   - 12.0.0.Dev03
-  lastUpdated: 20200907175511
+  - 12.0.0.Dev3
+  lastUpdated: 20200913074135
