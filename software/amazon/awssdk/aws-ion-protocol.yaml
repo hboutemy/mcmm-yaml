@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: aws-ion-protocol
 versioning:
-  latest: 2.14.10
-  release: 2.14.10
+  latest: 2.14.11
+  release: 2.14.11
   versions:
   - 2.0.0-preview-13
   - 2.1.0
@@ -387,4 +387,5 @@ versioning:
   - 2.14.8
   - 2.14.9
   - 2.14.10
-  lastUpdated: 20200902190501
+  - 2.14.11
+  lastUpdated: 20200903192042
