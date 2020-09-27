@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-spring-boot-starter-embedded
 versioning:
-  latest: 12.0.0.Dev03
-  release: 12.0.0.Dev03
+  latest: 12.0.0.Dev3
+  release: 12.0.0.Dev3
   versions:
   - 1.0.1.Final
   - 1.0.2.Final
@@ -39,4 +38,5 @@ versioning:
   - 2.3.3.Final
   - 12.0.0.Dev01
   - 12.0.0.Dev02
-  lastUpdated: 20200913073648
+  - 12.0.0.Dev3
+  lastUpdated: 20200907175546
