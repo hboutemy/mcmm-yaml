@@ -1,17 +1,19 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.dynamic.data.mapping.spi
 versioning:
-  release: 1.2.3
+  latest: 1.2.5
+  release: 1.2.5
   versions:
+  - 1.0.0
   - 1.0.1
   - 1.1.0
   - 1.2.0
   - 1.2.1
   - 1.2.2
   - 1.2.3
-  - 1.0.0
   - 1.2.4
   - 1.2.5
-  lastUpdated: 20200625233003
+  lastUpdated: 20200915185327

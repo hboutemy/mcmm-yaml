@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.portal
 artifactId: com.liferay.support.tomcat
 versioning:
-  latest: 4.0.1
-  release: 4.0.1
+  latest: 4.0.3
+  release: 4.0.3
   versions:
   - 1.0.0
   - 1.0.1
@@ -26,4 +27,4 @@ versioning:
   - 4.0.1
   - 4.0.2
   - 4.0.3
-  lastUpdated: 20200229045049
+  lastUpdated: 20200915193333

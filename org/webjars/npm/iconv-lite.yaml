@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.webjars.npm
 artifactId: iconv-lite
 versioning:
-  latest: 0.5.2
-  release: 0.5.2
+  latest: 0.6.2
+  release: 0.6.2
   versions:
   - 0.2.11
   - 0.4.3
@@ -20,4 +21,5 @@ versioning:
   - 0.5.0
   - 0.5.1
   - 0.5.2
-  lastUpdated: 20200622143010
+  - 0.6.2
+  lastUpdated: 20200915144622

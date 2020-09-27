@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.project.templates.api
 versioning:
-  latest: 1.0.99
+  latest: 1.0.108
   release: 1.0.108
   versions:
   - 1.0.0
@@ -115,4 +116,4 @@ versioning:
   - 1.0.106
   - 1.0.107
   - 1.0.108
-  lastUpdated: 20200914032706
+  lastUpdated: 20200915210937

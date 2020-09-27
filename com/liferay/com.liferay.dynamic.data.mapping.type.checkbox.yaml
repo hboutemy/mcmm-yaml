@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.dynamic.data.mapping.type.checkbox
 versioning:
   latest: 3.0.1
-  release: 2.0.24
+  release: 3.0.1
   versions:
   - 1.0.0
   - 2.0.0
@@ -31,8 +32,8 @@ versioning:
   - 2.0.21
   - 2.0.22
   - 2.0.23
-  - 3.0.0
-  - 3.0.1
   - 2.0.24
   - 2.0.25
-  lastUpdated: 20200606051407
+  - 3.0.0
+  - 3.0.1
+  lastUpdated: 20200915160009

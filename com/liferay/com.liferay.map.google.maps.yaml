@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.map.google.maps
 versioning:
-  latest: 4.0.7
+  latest: 4.0.11
   release: 4.0.11
   versions:
   - 1.0.0
@@ -87,4 +88,4 @@ versioning:
   - 4.0.9
   - 4.0.10
   - 4.0.11
-  lastUpdated: 20200914195659
+  lastUpdated: 20200915201615

@@ -3,8 +3,8 @@
 groupId: org.springframework
 artifactId: spring-webflux
 versioning:
-  latest: 5.2.8.RELEASE
-  release: 5.2.8.RELEASE
+  latest: 5.2.9.RELEASE
+  release: 5.2.9.RELEASE
   versions:
   - 5.0.0.RELEASE
   - 5.0.1.RELEASE
@@ -25,6 +25,7 @@ versioning:
   - 5.0.16.RELEASE
   - 5.0.17.RELEASE
   - 5.0.18.RELEASE
+  - 5.0.19.RELEASE
   - 5.1.0.RELEASE
   - 5.1.1.RELEASE
   - 5.1.2.RELEASE
@@ -43,6 +44,7 @@ versioning:
   - 5.1.15.RELEASE
   - 5.1.16.RELEASE
   - 5.1.17.RELEASE
+  - 5.1.18.RELEASE
   - 5.2.0.RELEASE
   - 5.2.1.RELEASE
   - 5.2.2.RELEASE
@@ -52,4 +54,5 @@ versioning:
   - 5.2.6.RELEASE
   - 5.2.7.RELEASE
   - 5.2.8.RELEASE
-  lastUpdated: 20200721090213
+  - 5.2.9.RELEASE
+  lastUpdated: 20200915112313

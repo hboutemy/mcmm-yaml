@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.webjars
 artifactId: com.liferay.webjars.alloy-ui
 versioning:
-  latest: 3.1.0-deprecated.74
-  release: 3.1.0-deprecated.77
+  latest: 3.1.0-deprecated.78
+  release: 3.1.0-deprecated.78
   versions:
   - 3.0.3-deprecated.11
   - 3.0.3-deprecated.12
@@ -93,6 +94,8 @@ versioning:
   - 3.0.3-deprecated.96
   - 3.0.3-deprecated.97
   - 3.0.3-deprecated.98
+  - 3.0.3-deprecated.99
+  - 3.0.3-deprecated.100
   - 3.1.0-deprecated.1
   - 3.1.0-deprecated.2
   - 3.1.0-deprecated.3
@@ -166,10 +169,8 @@ versioning:
   - 3.1.0-deprecated.72
   - 3.1.0-deprecated.73
   - 3.1.0-deprecated.74
-  - 3.0.3-deprecated.99
-  - 3.0.3-deprecated.100
   - 3.1.0-deprecated.75
   - 3.1.0-deprecated.76
   - 3.1.0-deprecated.77
   - 3.1.0-deprecated.78
-  lastUpdated: 20200701031017
+  lastUpdated: 20200915205653

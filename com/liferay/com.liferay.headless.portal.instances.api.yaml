@@ -1,16 +1,18 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.headless.portal.instances.api
 versioning:
-  release: 2.0.0
+  latest: 2.1.1
+  release: 2.1.1
   versions:
+  - 1.0.0
   - 1.0.1
   - 1.0.2
   - 2.0.0
-  - 1.0.0
   - 2.0.1
   - 2.0.2
   - 2.1.0
   - 2.1.1
-  lastUpdated: 20200626064546
+  lastUpdated: 20200915170055

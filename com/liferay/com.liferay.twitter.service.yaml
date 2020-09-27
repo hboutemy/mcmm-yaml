@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.twitter.service
 versioning:
-  latest: 2.0.34
-  release: 2.0.40
+  latest: 2.0.43
+  release: 2.0.43
   versions:
   - 1.0.0
   - 1.0.1
@@ -70,4 +71,4 @@ versioning:
   - 2.0.41
   - 2.0.42
   - 2.0.43
-  lastUpdated: 20200624202830
+  lastUpdated: 20200915185848

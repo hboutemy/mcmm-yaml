@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.data.engine.rest.client
 versioning:
-  latest: 2.0.13
-  release: 1.0.24
+  latest: 2.0.18
+  release: 2.0.18
   versions:
   - 1.0.0
   - 1.0.1
@@ -28,6 +29,9 @@ versioning:
   - 1.0.19
   - 1.0.20
   - 1.0.21
+  - 1.0.22
+  - 1.0.23
+  - 1.0.24
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -42,12 +46,9 @@ versioning:
   - 2.0.11
   - 2.0.12
   - 2.0.13
-  - 1.0.22
   - 2.0.14
   - 2.0.15
-  - 1.0.23
   - 2.0.16
   - 2.0.17
   - 2.0.18
-  - 1.0.24
-  lastUpdated: 20200914040919
+  lastUpdated: 20200915210818

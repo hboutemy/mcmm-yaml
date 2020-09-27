@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.portal
 artifactId: release.dxp.api
 versioning:
-  latest: 7.2.10.1
-  release: 7.0.10.14
+  latest: 7.3.10-ep5
+  release: 7.3.10-ep5
   versions:
   - 7.0.10.fp83
   - 7.0.10.fp84
@@ -14,20 +15,21 @@ versioning:
   - 7.0.10.fp86-1
   - 7.0.10.fp87
   - 7.0.10.fp87-1
+  - 7.0.10.fp93
+  - 7.0.10.fp94
+  - 7.0.10.14
   - 7.1.10.fp12
   - 7.1.10.fp13
   - 7.1.10.fp14
   - 7.1.10.fp17
+  - 7.1.10.fp18
+  - 7.1.10.fp19
   - 7.2.10
   - 7.2.10.fp1
   - 7.2.10.fp1-1
   - 7.2.10.fp2
+  - 7.2.10.fp7
   - 7.2.10.1
   - 7.3.10-ep4
-  - 7.1.10.fp18
-  - 7.2.10.fp7
   - 7.3.10-ep5
-  - 7.0.10.fp94
-  - 7.0.10.fp93
-  - 7.0.10.14
-  lastUpdated: 20200910125405
+  lastUpdated: 20200915193458

@@ -3,8 +3,8 @@
 groupId: com.google.cloud.sql
 artifactId: postgres-socket-factory
 versioning:
-  latest: 1.0.16
-  release: 1.0.16
+  latest: 1.1.0
+  release: 1.1.0
   versions:
   - 1.0.3
   - 1.0.4
@@ -19,4 +19,5 @@ versioning:
   - 1.0.14
   - 1.0.15
   - 1.0.16
-  lastUpdated: 20200423234807
+  - 1.1.0
+  lastUpdated: 20200915222548

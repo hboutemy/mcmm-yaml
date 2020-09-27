@@ -1,16 +1,18 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.bean.portlet.spring.extension
 versioning:
-  release: 1.0.4
+  latest: 1.0.7
+  release: 1.0.7
   versions:
+  - 1.0.0
   - 1.0.1
   - 1.0.2
   - 1.0.3
   - 1.0.4
-  - 1.0.0
   - 1.0.5
   - 1.0.6
   - 1.0.7
-  lastUpdated: 20200625223219
+  lastUpdated: 20200915155349

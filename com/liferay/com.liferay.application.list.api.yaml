@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.application.list.api
 versioning:
-  latest: 5.0.2
-  release: 5.2.1
+  latest: 6.1.2
+  release: 6.1.2
   versions:
   - 1.0.0
   - 2.0.0
@@ -57,19 +58,19 @@ versioning:
   - 4.2.5
   - 4.2.6
   - 4.2.7
+  - 4.2.8
+  - 4.2.9
   - 5.0.0
   - 5.0.1
   - 5.0.2
   - 5.0.3
-  - 4.2.8
   - 5.1.0
   - 5.1.1
   - 5.2.0
   - 5.2.1
-  - 4.2.9
   - 6.0.0
   - 6.0.1
   - 6.1.0
   - 6.1.1
   - 6.1.2
-  lastUpdated: 20200625215235
+  lastUpdated: 20200915200545
