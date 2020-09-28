@@ -3,8 +3,8 @@
 groupId: com.guicedee.services
 artifactId: log4j-core
 versioning:
-  latest: 1.0.18.0-jre15
-  release: 1.0.18.0-jre15
+  latest: 1.0.18.1-jre15
+  release: 1.0.18.1-jre15
   versions:
   - 1.0.2.15
   - 1.0.2.15-jre13
@@ -232,6 +232,12 @@ versioning:
   - 1.0.17.1
   - 1.0.17.1-jre8
   - 1.0.17.1-jre14
+  - 1.0.18.0
+  - 1.0.18.0-jre8
   - 1.0.18.0-jre14
   - 1.0.18.0-jre15
-  lastUpdated: 20200920210026
+  - 1.0.18.1
+  - 1.0.18.1-jre8
+  - 1.0.18.1-jre14
+  - 1.0.18.1-jre15
+  lastUpdated: 20200921062706
