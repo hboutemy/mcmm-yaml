@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.workflow.task.web
 versioning:
   latest: 4.0.25
-  release: 1.0.60
+  release: 4.0.25
   versions:
   - 1.0.0
   - 1.0.1
@@ -66,6 +67,7 @@ versioning:
   - 1.0.57
   - 1.0.58
   - 1.0.59
+  - 1.0.60
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -163,5 +165,4 @@ versioning:
   - 4.0.23
   - 4.0.24
   - 4.0.25
-  - 1.0.60
-  lastUpdated: 20200916200930
+  lastUpdated: 20200923031825

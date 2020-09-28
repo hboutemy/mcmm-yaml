@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.scheduler
 versioning:
-  latest: 7.0.9
-  release: 6.0.17
+  latest: 7.0.10
+  release: 7.0.10
   versions:
   - 1.0.0
   - 2.0.0
@@ -82,6 +83,7 @@ versioning:
   - 6.0.14
   - 6.0.15
   - 6.0.16
+  - 6.0.17
   - 7.0.0
   - 7.0.1
   - 7.0.2
@@ -93,5 +95,4 @@ versioning:
   - 7.0.8
   - 7.0.9
   - 7.0.10
-  - 6.0.17
-  lastUpdated: 20200918162139
+  lastUpdated: 20200923012730

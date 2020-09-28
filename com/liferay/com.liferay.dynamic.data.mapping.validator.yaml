@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.dynamic.data.mapping.validator
 versioning:
-  latest: 5.0.13
+  latest: 5.0.14
   release: 5.0.14
   versions:
   - 1.0.0
@@ -62,6 +63,7 @@ versioning:
   - 4.0.14
   - 4.0.15
   - 4.0.16
+  - 4.0.17
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -76,6 +78,5 @@ versioning:
   - 5.0.11
   - 5.0.12
   - 5.0.13
-  - 4.0.17
   - 5.0.14
-  lastUpdated: 20200921172544
+  lastUpdated: 20200923024803

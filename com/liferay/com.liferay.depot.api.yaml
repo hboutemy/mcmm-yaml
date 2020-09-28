@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.depot.api
 versioning:
-  latest: 1.5.4
+  latest: 1.6.0
   release: 1.6.0
   versions:
   - 1.0.0
@@ -21,4 +22,4 @@ versioning:
   - 1.5.3
   - 1.5.4
   - 1.6.0
-  lastUpdated: 20200917184517
+  lastUpdated: 20200923032542

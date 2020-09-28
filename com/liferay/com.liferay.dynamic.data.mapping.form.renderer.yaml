@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.dynamic.data.mapping.form.renderer
 versioning:
   latest: 5.0.34
-  release: 3.0.54
+  release: 5.0.34
   versions:
   - 1.0.0
   - 2.0.0
@@ -116,6 +117,7 @@ versioning:
   - 3.0.51
   - 3.0.52
   - 3.0.53
+  - 3.0.54
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -170,6 +172,7 @@ versioning:
   - 4.0.51
   - 4.0.52
   - 4.0.53
+  - 4.0.54
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -205,6 +208,4 @@ versioning:
   - 5.0.32
   - 5.0.33
   - 5.0.34
-  - 4.0.54
-  - 3.0.54
-  lastUpdated: 20200918160856
+  lastUpdated: 20200923011744

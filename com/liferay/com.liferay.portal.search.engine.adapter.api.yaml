@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.search.engine.adapter.api
 versioning:
   latest: 4.5.0
-  release: 4.5.0
+  release: 4.6.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -60,4 +59,5 @@ versioning:
   - 4.4.0
   - 4.4.1
   - 4.5.0
-  lastUpdated: 20200915192247
+  - 4.6.0
+  lastUpdated: 20200923165054

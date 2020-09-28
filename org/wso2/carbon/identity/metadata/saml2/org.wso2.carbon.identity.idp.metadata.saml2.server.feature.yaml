@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.metadata.saml2
 artifactId: org.wso2.carbon.identity.idp.metadata.saml2.server.feature
 versioning:
-  latest: 1.4.0
-  release: 1.4.0
+  latest: 1.4.1
+  release: 1.4.1
   versions:
   - 1.0.3
   - 1.0.4
@@ -16,4 +16,5 @@ versioning:
   - 1.0.10
   - 1.3.2
   - 1.4.0
-  lastUpdated: 20200302142830
+  - 1.4.1
+  lastUpdated: 20200923171330
