@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.staging.processes.web
 versioning:
   latest: 4.0.20
-  release: 4.0.20
+  release: 1.0.54
   versions:
   - 1.0.0
   - 1.0.1
@@ -141,4 +140,5 @@ versioning:
   - 4.0.18
   - 4.0.19
   - 4.0.20
-  lastUpdated: 20200915215838
+  - 1.0.54
+  lastUpdated: 20200918025231
