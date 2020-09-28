@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-cassandra
 versioning:
-  latest: 0.240.1
-  release: 0.240.1
+  latest: 0.241
+  release: 0.241
   versions:
   - 0.58
   - 0.59
@@ -217,4 +217,5 @@ versioning:
   - 0.239.3
   - 0.240
   - 0.240.1
-  lastUpdated: 20200922180650
+  - 0.241
+  lastUpdated: 20200924234859

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.project.templates.war.core.ext
 versioning:
   latest: 1.0.75
-  release: 1.0.75
+  release: 1.0.76
   versions:
   - 1.0.0
   - 1.0.1
@@ -83,4 +82,5 @@ versioning:
   - 1.0.73
   - 1.0.74
   - 1.0.75
-  lastUpdated: 20200923022359
+  - 1.0.76
+  lastUpdated: 20200924183441

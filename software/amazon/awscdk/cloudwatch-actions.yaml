@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: cloudwatch-actions
 versioning:
-  latest: 1.63.0
-  release: 1.63.0
+  latest: 1.64.0
+  release: 1.64.0
   versions:
   - 0.34.0
   - 0.35.0
@@ -96,4 +96,5 @@ versioning:
   - 1.61.1
   - 1.62.0
   - 1.63.0
-  lastUpdated: 20200914090750
+  - 1.64.0
+  lastUpdated: 20200924084418

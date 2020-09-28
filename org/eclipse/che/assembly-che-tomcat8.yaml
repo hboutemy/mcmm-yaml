@@ -3,8 +3,8 @@
 groupId: org.eclipse.che
 artifactId: assembly-che-tomcat8
 versioning:
-  latest: 7.19.0
-  release: 7.19.0
+  latest: 7.19.1
+  release: 7.19.1
   versions:
   - 7.3.0
   - 7.3.1
@@ -47,4 +47,5 @@ versioning:
   - 7.18.1
   - 7.18.2
   - 7.19.0
-  lastUpdated: 20200917094350
+  - 7.19.1
+  lastUpdated: 20200924185403
