@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.taglib
 versioning:
   latest: 5.4.3
-  release: 5.4.3
+  release: 4.0.48
   versions:
   - 1.0.0
   - 1.0.1
@@ -201,4 +200,5 @@ versioning:
   - 5.4.1
   - 5.4.2
   - 5.4.3
-  lastUpdated: 20200915225812
+  - 4.0.48
+  lastUpdated: 20200916204345

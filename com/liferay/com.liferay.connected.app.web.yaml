@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.connected.app.web
 versioning:
   latest: 2.0.13
-  release: 2.0.13
+  release: 1.0.21
   versions:
   - 1.0.0
   - 1.0.1
@@ -42,4 +41,5 @@ versioning:
   - 2.0.11
   - 2.0.12
   - 2.0.13
-  lastUpdated: 20200915182227
+  - 1.0.21
+  lastUpdated: 20200916205505

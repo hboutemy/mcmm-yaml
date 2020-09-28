@@ -3,8 +3,8 @@
 groupId: org.cloudfoundry
 artifactId: cloudfoundry-operations
 versioning:
-  latest: 4.9.0.RELEASE
-  release: 4.9.0.RELEASE
+  latest: 4.10.0.RELEASE
+  release: 4.10.0.RELEASE
   versions:
   - 2.0.0.M1
   - 2.0.0.M2
@@ -83,6 +83,7 @@ versioning:
   - 3.24.0.RELEASE
   - 3.25.0.RELEASE
   - 3.26.0.RELEASE
+  - 3.27.0.RELEASE
   - 4.0.1.RELEASE
   - 4.1.0.RELEASE
   - 4.2.0.RELEASE
@@ -93,4 +94,5 @@ versioning:
   - 4.7.0.RELEASE
   - 4.8.0.RELEASE
   - 4.9.0.RELEASE
-  lastUpdated: 20200814175930
+  - 4.10.0.RELEASE
+  lastUpdated: 20200916170732

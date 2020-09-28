@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.jenkins.results.parser
 versioning:
   latest: 1.0.675
-  release: 1.0.675
+  release: 1.0.677
   versions:
   - 1.0.0
   - 1.0.1
@@ -682,4 +681,6 @@ versioning:
   - 1.0.673
   - 1.0.674
   - 1.0.675
-  lastUpdated: 20200915195401
+  - 1.0.676
+  - 1.0.677
+  lastUpdated: 20200916175312
