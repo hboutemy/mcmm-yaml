@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.trash.taglib
 versioning:
   latest: 5.0.10
-  release: 5.0.10
+  release: 4.0.12
   versions:
   - 1.0.0
   - 2.0.0
@@ -56,4 +55,5 @@ versioning:
   - 5.0.8
   - 5.0.9
   - 5.0.10
-  lastUpdated: 20200915202359
+  - 4.0.12
+  lastUpdated: 20200917171734

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.flags.taglib
 versioning:
   latest: 5.0.20
-  release: 5.0.20
+  release: 4.2.16
   versions:
   - 1.0.0
   - 2.0.0
@@ -109,4 +108,5 @@ versioning:
   - 5.0.18
   - 5.0.19
   - 5.0.20
-  lastUpdated: 20200915182713
+  - 4.2.16
+  lastUpdated: 20200917173313

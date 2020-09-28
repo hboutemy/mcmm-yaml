@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld
 artifactId: weld-jboss-runner-tck
 versioning:
-  latest: 4.0.0.Alpha3
-  release: 4.0.0.Alpha3
+  latest: 4.0.0.Beta1
+  release: 4.0.0.Beta1
   versions:
   - 2.2.7.Final
   - 2.2.8.Final
@@ -77,4 +77,5 @@ versioning:
   - 3.1.5.SP1
   - 4.0.0.Alpha2
   - 4.0.0.Alpha3
-  lastUpdated: 20200828084722
+  - 4.0.0.Beta1
+  lastUpdated: 20200917132026

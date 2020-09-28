@@ -3,8 +3,8 @@
 groupId: org.springframework.session
 artifactId: spring-session-bom
 versioning:
-  latest: Dragonfruit-RELEASE
-  release: Dragonfruit-RELEASE
+  latest: Dragonfruit-SR1
+  release: Dragonfruit-SR1
   versions:
   - Apple-RELEASE
   - Apple-SR1
@@ -28,9 +28,12 @@ versioning:
   - Bean-SR9
   - Bean-SR10
   - Bean-SR11
+  - Bean-SR12
   - Corn-RELEASE
   - Corn-SR1
   - Corn-SR2
   - Corn-SR3
+  - Corn-SR4
   - Dragonfruit-RELEASE
-  lastUpdated: 20200626131926
+  - Dragonfruit-SR1
+  lastUpdated: 20200917060820

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld.module
 artifactId: weld-jta
 versioning:
-  latest: 4.0.0.Alpha3
-  release: 4.0.0.Alpha3
+  latest: 4.0.0.Beta1
+  release: 4.0.0.Beta1
   versions:
   - 3.0.0.Alpha6
   - 3.0.0.Alpha7
@@ -40,4 +40,5 @@ versioning:
   - 4.0.0.Alpha1
   - 4.0.0.Alpha2
   - 4.0.0.Alpha3
-  lastUpdated: 20200828084656
+  - 4.0.0.Beta1
+  lastUpdated: 20200917132002

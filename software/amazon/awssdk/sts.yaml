@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: sts
 versioning:
-  latest: 2.14.19
-  release: 2.14.19
+  latest: 2.14.20
+  release: 2.14.20
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -408,4 +408,5 @@ versioning:
   - 2.14.17
   - 2.14.18
   - 2.14.19
-  lastUpdated: 20200916193907
+  - 2.14.20
+  lastUpdated: 20200917192209

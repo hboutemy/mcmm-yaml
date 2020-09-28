@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld
 artifactId: weld-core-test
 versioning:
-  latest: 4.0.0.Alpha3
-  release: 4.0.0.Alpha3
+  latest: 4.0.0.Beta1
+  release: 4.0.0.Beta1
   versions:
   - 1.0.0-CR1
   - 1.0.0-CR1-SP1
@@ -177,4 +177,5 @@ versioning:
   - 3.1.5.SP1
   - 4.0.0.Alpha2
   - 4.0.0.Alpha3
-  lastUpdated: 20200828084716
+  - 4.0.0.Beta1
+  lastUpdated: 20200917132022

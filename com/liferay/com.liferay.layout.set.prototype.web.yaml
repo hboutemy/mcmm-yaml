@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.layout.set.prototype.web
 versioning:
   latest: 4.0.14
-  release: 4.0.14
+  release: 2.0.17
   versions:
   - 1.0.0
   - 1.0.1
@@ -87,4 +86,7 @@ versioning:
   - 4.0.12
   - 4.0.13
   - 4.0.14
-  lastUpdated: 20200915205216
+  - 1.0.30
+  - 3.0.18
+  - 2.0.17
+  lastUpdated: 20200917173844

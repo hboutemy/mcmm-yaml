@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.social.privatemessaging.web
 versioning:
   latest: 1.0.54
-  release: 1.0.54
+  release: 1.0.55
   versions:
   - 1.0.0
   - 1.0.1
@@ -62,4 +61,5 @@ versioning:
   - 1.0.52
   - 1.0.53
   - 1.0.54
-  lastUpdated: 20200915182901
+  - 1.0.55
+  lastUpdated: 20200917171355

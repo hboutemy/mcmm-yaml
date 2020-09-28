@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld.probe
 artifactId: weld-probe-core
 versioning:
-  latest: 4.0.0.Alpha3
-  release: 4.0.0.Alpha3
+  latest: 4.0.0.Beta1
+  release: 4.0.0.Beta1
   versions:
   - 2.3.0.Beta1
   - 2.3.0.Beta2
@@ -64,4 +64,5 @@ versioning:
   - 4.0.0.Alpha1
   - 4.0.0.Alpha2
   - 4.0.0.Alpha3
-  lastUpdated: 20200828084659
+  - 4.0.0.Beta1
+  lastUpdated: 20200917132004
