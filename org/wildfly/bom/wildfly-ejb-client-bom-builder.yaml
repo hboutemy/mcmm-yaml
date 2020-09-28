@@ -3,8 +3,8 @@
 groupId: org.wildfly.bom
 artifactId: wildfly-ejb-client-bom-builder
 versioning:
-  latest: 20.0.1.Final
-  release: 20.0.1.Final
+  latest: 21.0.0.Beta1
+  release: 21.0.0.Beta1
   versions:
   - 17.0.0.Beta1
   - 17.0.0.Final
@@ -21,4 +21,5 @@ versioning:
   - 20.0.0.Beta1
   - 20.0.0.Final
   - 20.0.1.Final
-  lastUpdated: 20200709160500
+  - 21.0.0.Beta1
+  lastUpdated: 20200922172851

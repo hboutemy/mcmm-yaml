@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.project.templates.spring.mvc.portlet
 versioning:
-  latest: 1.0.102
+  latest: 1.0.103
   release: 1.0.103
   versions:
   - 1.0.0
@@ -110,4 +111,4 @@ versioning:
   - 1.0.101
   - 1.0.102
   - 1.0.103
-  lastUpdated: 20200916022611
+  lastUpdated: 20200922212440

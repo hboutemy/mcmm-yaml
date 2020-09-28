@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.roles.admin.web
 versioning:
-  latest: 4.0.32
-  release: 4.0.33
+  latest: 4.0.34
+  release: 4.0.34
   versions:
   - 1.0.0
   - 1.0.1
@@ -142,6 +143,7 @@ versioning:
   - 2.0.54
   - 2.0.55
   - 2.0.56
+  - 2.0.57
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -187,6 +189,8 @@ versioning:
   - 3.0.42
   - 3.0.43
   - 3.0.44
+  - 3.0.45
+  - 3.0.46
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -220,6 +224,6 @@ versioning:
   - 4.0.30
   - 4.0.31
   - 4.0.32
-  - 3.0.45
   - 4.0.33
-  lastUpdated: 20200917024918
+  - 4.0.34
+  lastUpdated: 20200922220957

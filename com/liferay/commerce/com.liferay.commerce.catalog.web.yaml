@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.catalog.web
 versioning:
-  latest: 3.0.9
+  latest: 3.0.10
   release: 3.0.10
   versions:
   - 1.0.0
@@ -42,6 +43,7 @@ versioning:
   - 1.0.33
   - 1.0.34
   - 1.0.35
+  - 1.0.36
   - 2.0.0
   - 3.0.0
   - 3.0.1
@@ -53,6 +55,5 @@ versioning:
   - 3.0.7
   - 3.0.8
   - 3.0.9
-  - 1.0.36
   - 3.0.10
-  lastUpdated: 20200917191634
+  lastUpdated: 20200922210613
