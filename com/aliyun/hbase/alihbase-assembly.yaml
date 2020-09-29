@@ -3,8 +3,8 @@
 groupId: com.aliyun.hbase
 artifactId: alihbase-assembly
 versioning:
-  latest: 2.8.1
-  release: 2.8.1
+  latest: 2.8.2
+  release: 2.8.2
   versions:
   - 1.1.7
   - 1.1.8
@@ -15,6 +15,7 @@ versioning:
   - 1.1.13
   - 1.8.0
   - 1.8.1
+  - 1.8.2
   - 2.0.0
   - 2.0.2
   - 2.0.3
@@ -27,4 +28,5 @@ versioning:
   - 2.0.10
   - 2.8.0
   - 2.8.1
-  lastUpdated: 20200730025323
+  - 2.8.2
+  lastUpdated: 20200927123856
