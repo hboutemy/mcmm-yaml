@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.app.builder.web
 versioning:
   latest: 1.0.54
-  release: 1.0.54
+  release: 1.0.57
   versions:
   - 1.0.0
   - 1.0.1
@@ -62,4 +61,7 @@ versioning:
   - 1.0.52
   - 1.0.53
   - 1.0.54
-  lastUpdated: 20200922222208
+  - 1.0.55
+  - 1.0.56
+  - 1.0.57
+  lastUpdated: 20200928204245

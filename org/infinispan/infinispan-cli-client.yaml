@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-cli-client
 versioning:
-  latest: 12.0.0.Dev03
-  release: 12.0.0.Dev03
+  latest: 12.0.0.Dev04
+  release: 12.0.0.Dev04
   versions:
   - 5.2.0.ALPHA1
   - 5.2.0.ALPHA2
@@ -238,5 +238,6 @@ versioning:
   - 12.0.0.Dev01
   - 12.0.0.Dev02
   - 12.0.0.Dev03
+  - 12.0.0.Dev04
   - 12.0.0.Dev3
-  lastUpdated: 20200913074547
+  lastUpdated: 20200928192424

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: identity-core-feature
 versioning:
-  latest: 5.18.100
-  release: 5.18.100
+  latest: 5.18.102
+  release: 5.18.102
   versions:
   - 5.5.0
   - 5.5.1
@@ -1440,4 +1440,6 @@ versioning:
   - 5.18.98
   - 5.18.99
   - 5.18.100
-  lastUpdated: 20200924085008
+  - 5.18.101
+  - 5.18.102
+  lastUpdated: 20200928115401

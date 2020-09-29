@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.asset.display.page.api
 versioning:
   latest: 6.6.2
-  release: 6.6.2
+  release: 6.6.3
   versions:
   - 1.0.0
   - 1.0.1
@@ -73,4 +72,5 @@ versioning:
   - 6.6.0
   - 6.6.1
   - 6.6.2
-  lastUpdated: 20200915170436
+  - 6.6.3
+  lastUpdated: 20200928233024
