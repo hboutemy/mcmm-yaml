@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.odlparent
 artifactId: features-test
 versioning:
-  latest: 7.0.6
-  release: 7.0.6
+  latest: 8.0.0
+  release: 8.0.0
   versions:
   - 1.5.0-Lithium
   - 1.5.1-Lithium-SR1
@@ -97,4 +97,5 @@ versioning:
   - 7.0.4
   - 7.0.5
   - 7.0.6
-  lastUpdated: 20200921102225
+  - 8.0.0
+  lastUpdated: 20200929125956

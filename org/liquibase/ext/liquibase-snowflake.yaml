@@ -3,8 +3,8 @@
 groupId: org.liquibase.ext
 artifactId: liquibase-snowflake
 versioning:
-  latest: 4.0.0
-  release: 4.0.0
+  latest: 4.1.0
+  release: 4.1.0
   versions:
   - 3.9.0
   - 3.10.0
@@ -12,4 +12,5 @@ versioning:
   - 3.10.2
   - 4.0.0-beta2
   - 4.0.0
-  lastUpdated: 20200728163305
+  - 4.1.0
+  lastUpdated: 20200929184443
