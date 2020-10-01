@@ -3,8 +3,8 @@
 groupId: org.testcontainers
 artifactId: mockserver
 versioning:
-  latest: 1.15.0-rc1
-  release: 1.15.0-rc1
+  latest: 1.15.0-rc2
+  release: 1.15.0-rc2
   versions:
   - 1.7.3
   - 1.8.0
@@ -38,4 +38,5 @@ versioning:
   - 1.14.2
   - 1.14.3
   - 1.15.0-rc1
-  lastUpdated: 20200720071501
+  - 1.15.0-rc2
+  lastUpdated: 20200930123845

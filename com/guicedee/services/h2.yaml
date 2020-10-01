@@ -3,8 +3,8 @@
 groupId: com.guicedee.services
 artifactId: h2
 versioning:
-  latest: 1.0.19.1-jre15
-  release: 1.0.19.1-jre15
+  latest: 1.0.19.2-jre15
+  release: 1.0.19.2-jre15
   versions:
   - 1.0.14.0-RC1-jre8
   - 1.0.14.0-RC1-jre14
@@ -54,7 +54,13 @@ versioning:
   - 1.0.19.0-jre15
   - 1.0.19.1
   - 1.0.19.1-jre8
+  - 1.0.19.1-jre12
   - 1.0.19.1-jre13
   - 1.0.19.1-jre14
   - 1.0.19.1-jre15
-  lastUpdated: 20200929120241
+  - 1.0.19.2
+  - 1.0.19.2-jre8
+  - 1.0.19.2-jre13
+  - 1.0.19.2-jre14
+  - 1.0.19.2-jre15
+  lastUpdated: 20200930140245

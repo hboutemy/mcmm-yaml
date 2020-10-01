@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.wiki.service
 versioning:
   latest: 4.0.20
-  release: 4.0.20
+  release: 4.0.21
   versions:
   - 1.0.0
   - 1.0.1
@@ -273,4 +272,5 @@ versioning:
   - 4.0.18
   - 4.0.19
   - 4.0.20
-  lastUpdated: 20200922202901
+  - 4.0.21
+  lastUpdated: 20200930051653

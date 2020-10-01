@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: backup
 versioning:
-  latest: 2.14.28
-  release: 2.14.28
+  latest: 2.15.0
+  release: 2.15.0
   versions:
   - 2.3.3
   - 2.3.4
@@ -395,4 +395,5 @@ versioning:
   - 2.14.26
   - 2.14.27
   - 2.14.28
-  lastUpdated: 20200929195049
+  - 2.15.0
+  lastUpdated: 20200930200205

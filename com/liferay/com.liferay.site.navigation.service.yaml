@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.site.navigation.service
 versioning:
   latest: 3.0.15
-  release: 3.0.15
+  release: 3.0.16
   versions:
   - 1.0.0
   - 1.0.1
@@ -105,4 +104,5 @@ versioning:
   - 3.0.13
   - 3.0.14
   - 3.0.15
-  lastUpdated: 20200915160324
+  - 3.0.16
+  lastUpdated: 20200930051507

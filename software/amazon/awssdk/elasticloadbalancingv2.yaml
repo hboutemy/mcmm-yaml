@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: elasticloadbalancingv2
 versioning:
-  latest: 2.14.28
-  release: 2.14.28
+  latest: 2.15.0
+  release: 2.15.0
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -417,4 +417,5 @@ versioning:
   - 2.14.26
   - 2.14.27
   - 2.14.28
-  lastUpdated: 20200929195115
+  - 2.15.0
+  lastUpdated: 20200930200233

@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud.stream.app
 artifactId: spring-cloud-starter-stream-source-jdbc
 versioning:
-  latest: 2.1.6.RELEASE
-  release: 2.1.6.RELEASE
+  latest: 2.1.7.RELEASE
+  release: 2.1.7.RELEASE
   versions:
   - 1.0.0.RELEASE
   - 1.0.2.RELEASE
@@ -24,4 +24,5 @@ versioning:
   - 2.1.4.RELEASE
   - 2.1.5.RELEASE
   - 2.1.6.RELEASE
-  lastUpdated: 20200805213733
+  - 2.1.7.RELEASE
+  lastUpdated: 20200930215037

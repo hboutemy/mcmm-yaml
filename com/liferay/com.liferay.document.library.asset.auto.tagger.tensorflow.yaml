@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.document.library.asset.auto.tagger.tensorflow
 versioning:
   latest: 2.0.11
-  release: 2.0.11
+  release: 2.0.12
   versions:
   - 1.0.0
   - 1.0.1
@@ -41,4 +40,5 @@ versioning:
   - 2.0.9
   - 2.0.10
   - 2.0.11
-  lastUpdated: 20200915223235
+  - 2.0.12
+  lastUpdated: 20200930050320

@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud.stream.app
 artifactId: jdbc-sink-rabbit
 versioning:
-  latest: 2.1.6.RELEASE
-  release: 2.1.6.RELEASE
+  latest: 2.1.7.RELEASE
+  release: 2.1.7.RELEASE
   versions:
   - 1.0.2.RELEASE
   - 1.0.4.RELEASE
@@ -23,4 +23,5 @@ versioning:
   - 2.1.4.RELEASE
   - 2.1.5.RELEASE
   - 2.1.6.RELEASE
-  lastUpdated: 20200805213717
+  - 2.1.7.RELEASE
+  lastUpdated: 20200930215022
