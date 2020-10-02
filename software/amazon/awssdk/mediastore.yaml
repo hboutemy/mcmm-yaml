@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: mediastore
 versioning:
-  latest: 2.15.0
-  release: 2.15.0
+  latest: 2.15.1
+  release: 2.15.1
   versions:
   - 2.0.0-preview-8
   - 2.0.0-preview-9
@@ -411,4 +411,5 @@ versioning:
   - 2.14.27
   - 2.14.28
   - 2.15.0
-  lastUpdated: 20200930200251
+  - 2.15.1
+  lastUpdated: 20201001191025

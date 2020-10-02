@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.plugins
 artifactId: nexus-repository-helm
 versioning:
-  latest: 1.0.21
-  release: 1.0.21
+  latest: 3.28.0-01
+  release: 3.28.0-01
   versions:
   - 0.0.13
   - 1.0.0
@@ -28,4 +28,5 @@ versioning:
   - 1.0.19
   - 1.0.20
   - 1.0.21
-  lastUpdated: 20200918152843
+  - 3.28.0-01
+  lastUpdated: 20201001201254

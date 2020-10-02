@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: auth
 versioning:
-  latest: 2.15.0
-  release: 2.15.0
+  latest: 2.15.1
+  release: 2.15.1
   versions:
   - 2.0.0
   - 2.0.0-preview-10
@@ -416,4 +416,5 @@ versioning:
   - 2.14.27
   - 2.14.28
   - 2.15.0
-  lastUpdated: 20200930200203
+  - 2.15.1
+  lastUpdated: 20201001190939
