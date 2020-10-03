@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.store.s3
 versioning:
   latest: 5.0.15
-  release: 5.0.15
+  release: 2.0.43
   versions:
   - 1.0.0
   - 2.0.0
@@ -141,4 +140,5 @@ versioning:
   - 5.0.13
   - 5.0.14
   - 5.0.15
-  lastUpdated: 20200915230114
+  - 2.0.43
+  lastUpdated: 20201002163905

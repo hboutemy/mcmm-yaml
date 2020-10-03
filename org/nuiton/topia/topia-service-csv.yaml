@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.nuiton.topia
 artifactId: topia-service-csv
 versioning:
   latest: 3.7
-  release: 3.7
+  release: 3.8
   versions:
   - 3.0-alpha-8
   - 3.0-alpha-9
@@ -46,4 +45,5 @@ versioning:
   - 3.5
   - 3.6
   - 3.7
-  lastUpdated: 20191103232242
+  - 3.8
+  lastUpdated: 20201002165829

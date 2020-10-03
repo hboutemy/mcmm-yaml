@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.couchbase.lite
 artifactId: couchbase-lite-android
 versioning:
-  latest: 2.8.0
-  release: 2.8.0
+  latest: 2.7.1
+  release: 2.7.1
   versions:
   - 1.1.0
   - 1.2.0
@@ -29,4 +30,4 @@ versioning:
   - 2.7.0
   - 2.7.1
   - 2.8.0
-  lastUpdated: 20201001025558
+  lastUpdated: 20201002153700
