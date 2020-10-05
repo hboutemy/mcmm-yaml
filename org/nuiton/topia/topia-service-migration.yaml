@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.nuiton.topia
 artifactId: topia-service-migration
 versioning:
-  latest: 3.7
+  latest: 3.8
   release: 3.8
   versions:
   - 2.2.0
@@ -122,4 +123,4 @@ versioning:
   - 3.6
   - 3.7
   - 3.8
-  lastUpdated: 20201002165751
+  lastUpdated: 20201004011617
