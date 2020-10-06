@@ -3,11 +3,12 @@
 groupId: org.wildfly.plugins
 artifactId: wildfly-bom-builder-plugin
 versioning:
-  latest: 2.0.0.CR2
-  release: 2.0.0.CR2
+  latest: 2.0.0.Final
+  release: 2.0.0.Final
   versions:
   - 2.0.0.Alpha1
   - 2.0.0.Beta1
   - 2.0.0.CR1
   - 2.0.0.CR2
-  lastUpdated: 20200304185959
+  - 2.0.0.Final
+  lastUpdated: 20201005142546

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.apimgt
 artifactId: org.wso2.carbon.apimgt.hybrid.gateway.tenant.initializer
 versioning:
-  latest: 6.8.40
-  release: 6.8.40
+  latest: 6.8.42
+  release: 6.8.42
   versions:
   - 6.4.140
   - 6.4.141
@@ -808,4 +808,6 @@ versioning:
   - 6.8.38
   - 6.8.39
   - 6.8.40
-  lastUpdated: 20201002120443
+  - 6.8.41
+  - 6.8.42
+  lastUpdated: 20201005130854

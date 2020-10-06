@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.portal
 artifactId: release.portal.api
 versioning:
   latest: 7.3.4-ga5
-  release: 7.3.4-ga5
+  release: 7.3.5-ga6
   versions:
   - 7.0.6-ga7
   - 7.1.1
@@ -20,4 +19,5 @@ versioning:
   - 7.3.2-ga3
   - 7.3.3-ga4
   - 7.3.4-ga5
-  lastUpdated: 20200915193833
+  - 7.3.5-ga6
+  lastUpdated: 20201005221239
