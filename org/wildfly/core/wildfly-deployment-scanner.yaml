@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-deployment-scanner
 versioning:
-  latest: 13.0.0.Beta6
-  release: 13.0.0.Beta6
+  latest: 13.0.0.Final
+  release: 13.0.0.Final
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -272,4 +272,5 @@ versioning:
   - 13.0.0.Beta4
   - 13.0.0.Beta5
   - 13.0.0.Beta6
-  lastUpdated: 20200915134010
+  - 13.0.0.Final
+  lastUpdated: 20201006115346
