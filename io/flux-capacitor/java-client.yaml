@@ -3,9 +3,10 @@
 groupId: io.flux-capacitor
 artifactId: java-client
 versioning:
-  latest: 0.223
-  release: 0.223
+  latest: 0.224
+  release: 0.224
   versions:
+  - apply-by-entity
   - v0.1
   - 0.0.6
   - 0.0.8
@@ -220,4 +221,5 @@ versioning:
   - 0.221
   - 0.222
   - 0.223
-  lastUpdated: 20200904155014
+  - 0.224
+  lastUpdated: 20201008083731

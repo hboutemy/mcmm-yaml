@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: glacier
 versioning:
-  latest: 2.15.5
-  release: 2.15.5
+  latest: 2.15.6
+  release: 2.15.6
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -423,4 +423,5 @@ versioning:
   - 2.15.3
   - 2.15.4
   - 2.15.5
-  lastUpdated: 20201007190030
+  - 2.15.6
+  lastUpdated: 20201008192807

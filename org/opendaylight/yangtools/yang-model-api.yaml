@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.yangtools
 artifactId: yang-model-api
 versioning:
-  latest: 5.0.6
-  release: 5.0.6
+  latest: 6.0.0
+  release: 6.0.0
   versions:
   - 0.5.8
   - 0.6.0
@@ -129,4 +129,5 @@ versioning:
   - 5.0.4
   - 5.0.5
   - 5.0.6
-  lastUpdated: 20200921124153
+  - 6.0.0
+  lastUpdated: 20201008152722
