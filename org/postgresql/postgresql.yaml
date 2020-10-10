@@ -3,8 +3,8 @@
 groupId: org.postgresql
 artifactId: postgresql
 versioning:
-  latest: 42.2.16.jre7
-  release: 42.2.16.jre7
+  latest: 42.2.17.jre7
+  release: 42.2.17.jre7
   versions:
   - 9.2-1002-jdbc4
   - 9.2-1003-jdbc3
@@ -131,4 +131,7 @@ versioning:
   - 42.2.16
   - 42.2.16.jre6
   - 42.2.16.jre7
-  lastUpdated: 20200821193306
+  - 42.2.17
+  - 42.2.17.jre6
+  - 42.2.17.jre7
+  lastUpdated: 20201009134301
