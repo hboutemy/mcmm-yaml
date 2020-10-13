@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.remote.cors.impl
 versioning:
   latest: 2.0.15
-  release: 2.0.15
+  release: 2.0.16
   versions:
   - 1.0.0
   - 1.0.1
@@ -36,4 +35,5 @@ versioning:
   - 2.0.13
   - 2.0.14
   - 2.0.15
-  lastUpdated: 20200923034536
+  - 2.0.16
+  lastUpdated: 20201012213138

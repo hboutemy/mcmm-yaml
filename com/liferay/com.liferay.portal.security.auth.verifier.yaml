@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.security.auth.verifier
 versioning:
   latest: 5.0.10
-  release: 5.0.10
+  release: 5.0.11
   versions:
   - 1.0.0
   - 2.0.0
@@ -90,4 +89,5 @@ versioning:
   - 5.0.8
   - 5.0.9
   - 5.0.10
-  lastUpdated: 20200915174758
+  - 5.0.11
+  lastUpdated: 20201012213346

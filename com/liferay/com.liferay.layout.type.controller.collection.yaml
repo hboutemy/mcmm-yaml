@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.layout.type.controller.collection
 versioning:
   latest: 1.0.9
-  release: 1.0.9
+  release: 1.0.10
   versions:
   - 1.0.0
   - 1.0.1
@@ -17,4 +16,5 @@ versioning:
   - 1.0.7
   - 1.0.8
   - 1.0.9
-  lastUpdated: 20200915213647
+  - 1.0.10
+  lastUpdated: 20201012224706

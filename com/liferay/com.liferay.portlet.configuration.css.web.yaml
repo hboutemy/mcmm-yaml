@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portlet.configuration.css.web
 versioning:
   latest: 5.0.22
-  release: 5.0.22
+  release: 2.0.35
   versions:
   - 1.0.0
   - 2.0.0
@@ -131,4 +130,5 @@ versioning:
   - 5.0.20
   - 5.0.21
   - 5.0.22
-  lastUpdated: 20200915154738
+  - 2.0.35
+  lastUpdated: 20201012034745

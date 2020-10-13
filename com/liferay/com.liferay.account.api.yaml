@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.account.api
 versioning:
   latest: 1.9.3
-  release: 1.9.3
+  release: 1.9.4
   versions:
   - 1.0.0
   - 1.0.1
@@ -24,4 +23,5 @@ versioning:
   - 1.9.1
   - 1.9.2
   - 1.9.3
-  lastUpdated: 20200915184122
+  - 1.9.4
+  lastUpdated: 20201012202049

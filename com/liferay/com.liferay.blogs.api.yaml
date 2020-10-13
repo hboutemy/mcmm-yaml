@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.blogs.api
 versioning:
   latest: 6.4.5
-  release: 6.4.5
+  release: 6.4.6
   versions:
   - 1.0.0
   - 1.0.1
@@ -99,4 +98,5 @@ versioning:
   - 6.4.3
   - 6.4.4
   - 6.4.5
-  lastUpdated: 20200923031035
+  - 6.4.6
+  lastUpdated: 20201012202625

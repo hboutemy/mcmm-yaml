@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.blogs.layout.prototype
 versioning:
   latest: 5.0.8
-  release: 5.0.8
+  release: 5.0.9
   versions:
   - 1.0.0
   - 2.0.0
@@ -56,4 +55,5 @@ versioning:
   - 5.0.6
   - 5.0.7
   - 5.0.8
-  lastUpdated: 20200915164637
+  - 5.0.9
+  lastUpdated: 20201012211825
