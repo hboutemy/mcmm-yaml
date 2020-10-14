@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-clustering-marshalling-api
 versioning:
-  latest: 21.0.0.Beta1
-  release: 21.0.0.Beta1
+  latest: 21.0.0.Final
+  release: 21.0.0.Final
   versions:
   - 10.0.0.CR1
   - 10.0.0.CR2
@@ -47,4 +47,5 @@ versioning:
   - 20.0.0.Final
   - 20.0.1.Final
   - 21.0.0.Beta1
-  lastUpdated: 20200918195648
+  - 21.0.0.Final
+  lastUpdated: 20201013003453

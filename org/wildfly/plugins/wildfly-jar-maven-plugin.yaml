@@ -3,8 +3,8 @@
 groupId: org.wildfly.plugins
 artifactId: wildfly-jar-maven-plugin
 versioning:
-  latest: 2.0.0.Beta9
-  release: 2.0.0.Beta9
+  latest: 2.0.0.Final
+  release: 2.0.0.Final
   versions:
   - 1.0.0.Alpha3
   - 1.0.0.Alpha4
@@ -23,4 +23,5 @@ versioning:
   - 2.0.0.Beta7
   - 2.0.0.Beta8
   - 2.0.0.Beta9
-  lastUpdated: 20201005094440
+  - 2.0.0.Final
+  lastUpdated: 20201013092139
