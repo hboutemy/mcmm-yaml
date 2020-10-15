@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-managedidentities
 versioning:
-  latest: v1-rev20200925-1.30.10
-  release: v1-rev20200925-1.30.10
+  latest: v1-rev20201007-1.30.10
+  release: v1-rev20201007-1.30.10
   versions:
   - v1alpha1-rev2-1.18.0-rc
   - v1alpha1-rev2-1.25.0
@@ -29,6 +29,7 @@ versioning:
   - v1beta1-rev20200727-1.30.10
   - v1beta1-rev20200824-1.30.10
   - v1beta1-rev20200925-1.30.10
+  - v1beta1-rev20201007-1.30.10
   - v1-rev2-1.18.0-rc
   - v1-rev2-1.25.0
   - v1-rev20200219-1.30.8
@@ -39,4 +40,5 @@ versioning:
   - v1-rev20200622-1.30.10
   - v1-rev20200727-1.30.10
   - v1-rev20200925-1.30.10
-  lastUpdated: 20201013202304
+  - v1-rev20201007-1.30.10
+  lastUpdated: 20201014204106

@@ -3,8 +3,8 @@
 groupId: io.zeebe
 artifactId: zeebe-expression-language
 versioning:
-  latest: 0.25.0-alpha2
-  release: 0.25.0-alpha2
+  latest: 0.25.0-rc1
+  release: 0.25.0-rc1
   versions:
   - 0.23.0
   - 0.23.1
@@ -21,4 +21,5 @@ versioning:
   - 0.24.3
   - 0.25.0-alpha1
   - 0.25.0-alpha2
-  lastUpdated: 20200911115701
+  - 0.25.0-rc1
+  lastUpdated: 20201014151351

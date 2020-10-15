@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-smallrye-reactive-messaging-mqtt-parent
 versioning:
-  latest: 1.9.0.CR1
-  release: 1.9.0.CR1
+  latest: 1.9.0.Final
+  release: 1.9.0.Final
   versions:
   - 0.19.0
   - 0.19.1
@@ -67,4 +67,5 @@ versioning:
   - 1.8.2.Final
   - 1.8.3.Final
   - 1.9.0.CR1
-  lastUpdated: 20201009122046
+  - 1.9.0.Final
+  lastUpdated: 20201014141600

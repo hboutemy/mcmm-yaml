@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-instrumentation-vertx-web
 versioning:
-  latest: 5.12.6
-  release: 5.12.6
+  latest: 5.12.7
+  release: 5.12.7
   versions:
   - 4.15.0
   - 4.15.1
@@ -74,4 +74,5 @@ versioning:
   - 5.12.4
   - 5.12.5
   - 5.12.6
-  lastUpdated: 20200912013238
+  - 5.12.7
+  lastUpdated: 20201014091121

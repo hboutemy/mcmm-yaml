@@ -3,8 +3,8 @@
 groupId: io.zeebe
 artifactId: zeebe-build-tools
 versioning:
-  latest: 0.25.0-alpha2
-  release: 0.25.0-alpha2
+  latest: 0.25.0-rc1
+  release: 0.25.0-rc1
   versions:
   - 0.17.0
   - 0.18.0
@@ -48,4 +48,5 @@ versioning:
   - 0.24.3
   - 0.25.0-alpha1
   - 0.25.0-alpha2
-  lastUpdated: 20200911115644
+  - 0.25.0-rc1
+  lastUpdated: 20201014151334

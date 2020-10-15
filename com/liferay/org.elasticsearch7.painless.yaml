@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: org.elasticsearch7.painless
 versioning:
   latest: 7.3.0.LIFERAY-PATCHED-2
-  release: 7.3.0.LIFERAY-PATCHED-2
+  release: 7.9.0.LIFERAY-PATCHED-1
   versions:
   - 7.3.0.LIFERAY-PATCHED-2
-  lastUpdated: 20200113201339
+  - 7.9.0.LIFERAY-PATCHED-1
+  lastUpdated: 20201014184232
