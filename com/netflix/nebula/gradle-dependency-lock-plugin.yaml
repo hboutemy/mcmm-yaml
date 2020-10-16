@@ -3,8 +3,8 @@
 groupId: com.netflix.nebula
 artifactId: gradle-dependency-lock-plugin
 versioning:
-  latest: 10.2.1
-  release: 10.2.1
+  latest: 11.0.0-rc.2
+  release: 11.0.0-rc.2
   versions:
   - 1.9.5
   - 1.9.6
@@ -105,4 +105,6 @@ versioning:
   - 10.2.0-rc.1
   - 10.2.0
   - 10.2.1
-  lastUpdated: 20201006172717
+  - 11.0.0-rc.1
+  - 11.0.0-rc.2
+  lastUpdated: 20201015221820

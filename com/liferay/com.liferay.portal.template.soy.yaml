@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.template.soy
 versioning:
   latest: 2.4.43
-  release: 2.4.43
+  release: 2.4.44
   versions:
   - 1.0.0
   - 2.0.0
@@ -64,4 +63,5 @@ versioning:
   - 2.4.41
   - 2.4.42
   - 2.4.43
-  lastUpdated: 20200915205450
+  - 2.4.44
+  lastUpdated: 20201015213842
