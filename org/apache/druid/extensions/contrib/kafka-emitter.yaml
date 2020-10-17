@@ -3,8 +3,8 @@
 groupId: org.apache.druid.extensions.contrib
 artifactId: kafka-emitter
 versioning:
-  latest: 0.19.0
-  release: 0.19.0
+  latest: 0.20.0
+  release: 0.20.0
   versions:
   - 0.13.0-incubating
   - 0.14.0-incubating
@@ -19,4 +19,5 @@ versioning:
   - 0.18.0
   - 0.18.1
   - 0.19.0
-  lastUpdated: 20200720032120
+  - 0.20.0
+  lastUpdated: 20201015225400

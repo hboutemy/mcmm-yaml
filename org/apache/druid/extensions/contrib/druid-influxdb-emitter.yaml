@@ -3,8 +3,8 @@
 groupId: org.apache.druid.extensions.contrib
 artifactId: druid-influxdb-emitter
 versioning:
-  latest: 0.19.0
-  release: 0.19.0
+  latest: 0.20.0
+  release: 0.20.0
   versions:
   - 0.16.0-incubating
   - 0.16.1-incubating
@@ -13,4 +13,5 @@ versioning:
   - 0.18.0
   - 0.18.1
   - 0.19.0
-  lastUpdated: 20200720032006
+  - 0.20.0
+  lastUpdated: 20201015225128

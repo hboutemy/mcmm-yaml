@@ -3,8 +3,8 @@
 groupId: cn.wizzer
 artifactId: wk-framework
 versioning:
-  latest: 5.2.7-zookeeper
-  release: 5.2.7-zookeeper
+  latest: 5.2.8-zookeeper
+  release: 5.2.8-zookeeper
   versions:
   - 5.0.5
   - 5.0.6
@@ -24,4 +24,6 @@ versioning:
   - 5.2.6
   - 5.2.7-nacos
   - 5.2.7-zookeeper
-  lastUpdated: 20200912105551
+  - 5.2.8-nacos
+  - 5.2.8-zookeeper
+  lastUpdated: 20201016100935
