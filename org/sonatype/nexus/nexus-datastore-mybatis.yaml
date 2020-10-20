@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus
 artifactId: nexus-datastore-mybatis
 versioning:
-  latest: 3.28.0-01
-  release: 3.28.0-01
+  latest: 3.28.1-01
+  release: 3.28.1-01
   versions:
   - 3.19.0-01
   - 3.19.1-01
@@ -40,4 +40,5 @@ versioning:
   - 3.27.0-02
   - 3.27.0-03
   - 3.28.0-01
-  lastUpdated: 20201001201218
+  - 3.28.1-01
+  lastUpdated: 20201019141642

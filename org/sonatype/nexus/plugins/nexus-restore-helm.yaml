@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.plugins
 artifactId: nexus-restore-helm
 versioning:
-  latest: 3.28.0-01
-  release: 3.28.0-01
+  latest: 3.28.1-01
+  release: 3.28.1-01
   versions:
   - 1.0.0
   - 1.0.2
@@ -28,4 +28,5 @@ versioning:
   - 1.0.20
   - 1.0.21
   - 3.28.0-01
-  lastUpdated: 20201001201300
+  - 3.28.1-01
+  lastUpdated: 20201019141731
