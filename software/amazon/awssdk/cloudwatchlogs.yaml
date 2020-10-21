@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: cloudwatchlogs
 versioning:
-  latest: 2.15.10
-  release: 2.15.10
+  latest: 2.15.11
+  release: 2.15.11
   versions:
   - 2.0.0-preview-12
   - 2.0.0-preview-13
@@ -417,4 +417,5 @@ versioning:
   - 2.15.8
   - 2.15.9
   - 2.15.10
-  lastUpdated: 20201019190235
+  - 2.15.11
+  lastUpdated: 20201020192109

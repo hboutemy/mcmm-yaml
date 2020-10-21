@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-server-parent
 versioning:
-  latest: 12.0.0.Dev04
-  release: 12.0.0.Dev04
+  latest: 12.0.0.Dev05
+  release: 12.0.0.Dev05
   versions:
   - 5.0.0.FINAL
   - 5.0.1.FINAL
@@ -267,5 +267,6 @@ versioning:
   - 12.0.0.Dev02
   - 12.0.0.Dev03
   - 12.0.0.Dev04
+  - 12.0.0.Dev05
   - 12.0.0.Dev3
-  lastUpdated: 20201002163402
+  lastUpdated: 20201020062058
