@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-subsystem-test
 versioning:
-  latest: 13.0.1.Final
-  release: 13.0.1.Final
+  latest: 14.0.0.Beta1
+  release: 14.0.0.Beta1
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -274,4 +274,5 @@ versioning:
   - 13.0.0.Beta6
   - 13.0.0.Final
   - 13.0.1.Final
-  lastUpdated: 20201008091119
+  - 14.0.0.Beta1
+  lastUpdated: 20201021122910
