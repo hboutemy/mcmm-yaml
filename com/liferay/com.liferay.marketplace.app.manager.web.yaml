@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.marketplace.app.manager.web
 versioning:
   latest: 4.0.17
-  release: 4.0.17
+  release: 1.0.60
   versions:
   - 1.0.0
   - 1.0.1
@@ -153,4 +152,8 @@ versioning:
   - 4.0.15
   - 4.0.16
   - 4.0.17
-  lastUpdated: 20200923013949
+  - 2.0.38
+  - 3.0.30
+  - 4.0.18
+  - 1.0.60
+  lastUpdated: 20201022165744

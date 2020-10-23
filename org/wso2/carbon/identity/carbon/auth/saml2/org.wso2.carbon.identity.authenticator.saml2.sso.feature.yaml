@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.carbon.auth.saml2
 artifactId: org.wso2.carbon.identity.authenticator.saml2.sso.feature
 versioning:
-  latest: 5.5.1
-  release: 5.5.1
+  latest: 5.5.2
+  release: 5.5.2
   versions:
   - 5.1.5
   - 5.1.6
@@ -28,4 +28,5 @@ versioning:
   - 5.4.10
   - 5.5.0
   - 5.5.1
-  lastUpdated: 20200826100024
+  - 5.5.2
+  lastUpdated: 20201022165306

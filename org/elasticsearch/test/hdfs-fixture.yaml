@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.test
 artifactId: hdfs-fixture
 versioning:
-  latest: 7.9.2
-  release: 7.9.2
+  latest: 7.9.3
+  release: 7.9.3
   versions:
   - 5.0.0-alpha1
   - 5.0.0-alpha2
@@ -99,6 +99,7 @@ versioning:
   - 6.8.10
   - 6.8.11
   - 6.8.12
+  - 6.8.13
   - 7.0.0-alpha1
   - 7.0.0-alpha2
   - 7.0.0-beta1
@@ -129,4 +130,5 @@ versioning:
   - 7.9.0
   - 7.9.1
   - 7.9.2
-  lastUpdated: 20200924133223
+  - 7.9.3
+  lastUpdated: 20201022132116

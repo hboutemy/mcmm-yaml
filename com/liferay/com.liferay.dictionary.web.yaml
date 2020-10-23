@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.dictionary.web
 versioning:
   latest: 4.0.8
-  release: 4.0.8
+  release: 4.0.9
   versions:
   - 1.0.0
   - 1.0.1
@@ -54,4 +53,8 @@ versioning:
   - 4.0.6
   - 4.0.7
   - 4.0.8
-  lastUpdated: 20200915201854
+  - 2.0.6
+  - 1.0.19
+  - 3.0.13
+  - 4.0.9
+  lastUpdated: 20201022083350

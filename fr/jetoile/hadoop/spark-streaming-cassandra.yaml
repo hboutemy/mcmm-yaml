@@ -3,8 +3,8 @@
 groupId: fr.jetoile.hadoop
 artifactId: spark-streaming-cassandra
 versioning:
-  latest: 3.7
-  release: 3.7
+  latest: 3.8
+  release: 3.8
   versions:
   - 1.5
   - 2.0
@@ -27,4 +27,5 @@ versioning:
   - 3.5
   - 3.6
   - 3.7
-  lastUpdated: 20191127144946
+  - 3.8
+  lastUpdated: 20201022124046

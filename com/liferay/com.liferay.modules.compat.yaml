@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.modules.compat
 versioning:
   latest: 2.0.20
-  release: 2.0.20
+  release: 2.0.21
   versions:
   - 1.0.0
   - 1.0.1
@@ -30,4 +29,5 @@ versioning:
   - 2.0.18
   - 2.0.19
   - 2.0.20
-  lastUpdated: 20200915170045
+  - 2.0.21
+  lastUpdated: 20201022053228

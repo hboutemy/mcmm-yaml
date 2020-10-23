@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.asset.tags.admin.web
 versioning:
   latest: 4.0.15
-  release: 4.0.15
+  release: 4.0.16
   versions:
   - 1.0.0
   - 1.0.1
@@ -108,4 +107,8 @@ versioning:
   - 4.0.13
   - 4.0.14
   - 4.0.15
-  lastUpdated: 20200923010300
+  - 2.0.25
+  - 1.0.33
+  - 3.0.27
+  - 4.0.16
+  lastUpdated: 20201022095435
