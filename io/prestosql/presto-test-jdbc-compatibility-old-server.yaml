@@ -3,10 +3,11 @@
 groupId: io.prestosql
 artifactId: presto-test-jdbc-compatibility-old-server
 versioning:
-  latest: 344
-  release: 344
+  latest: 345
+  release: 345
   versions:
   - 342
   - 343
   - 344
-  lastUpdated: 20201010025446
+  - 345
+  lastUpdated: 20201023184927
