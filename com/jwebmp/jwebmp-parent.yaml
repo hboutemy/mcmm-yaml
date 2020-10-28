@@ -3,8 +3,8 @@
 groupId: com.jwebmp
 artifactId: jwebmp-parent
 versioning:
-  latest: 1.0.19.13-jre8
-  release: 1.0.19.13-jre8
+  latest: 1.0.19.13-jre15
+  release: 1.0.19.13-jre15
   versions:
   - 0.58.0.2.RC1
   - 0.58.0.4-RCTEST1
@@ -310,5 +310,8 @@ versioning:
   - 1.0.19.11-jre14
   - 1.0.19.12-jre8
   - 1.0.19.12-jre14
+  - 1.0.19.13
   - 1.0.19.13-jre8
-  lastUpdated: 20201026234102
+  - 1.0.19.13-jre14
+  - 1.0.19.13-jre15
+  lastUpdated: 20201027093510

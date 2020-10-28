@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework
 artifactId: spring-aspects
 versioning:
-  latest: 5.2.9.RELEASE
-  release: 5.2.9.RELEASE
+  latest: 5.3.0
+  release: 5.3.0
   versions:
   - 2.0-m1
   - 2.0-m2
@@ -159,6 +159,7 @@ versioning:
   - 5.1.16.RELEASE
   - 5.1.17.RELEASE
   - 5.1.18.RELEASE
+  - 5.1.19.RELEASE
   - 5.2.0.RELEASE
   - 5.2.1.RELEASE
   - 5.2.2.RELEASE
@@ -169,9 +170,11 @@ versioning:
   - 5.2.7.RELEASE
   - 5.2.8.RELEASE
   - 5.2.9.RELEASE
+  - 5.2.10.RELEASE
+  - 5.3.0
   - 2.0-m3
   - 2.0-m4
   - 2.0-m5
   - 2.0-rc1
   - 2.0-rc2
-  lastUpdated: 20200915114211
+  lastUpdated: 20201027155003
