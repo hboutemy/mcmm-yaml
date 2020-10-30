@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.batch.engine.service
 versioning:
   latest: 3.0.14
-  release: 3.0.14
+  release: 1.0.21
   versions:
   - 1.0.0
   - 1.0.1
@@ -62,4 +61,5 @@ versioning:
   - 3.0.12
   - 3.0.13
   - 3.0.14
-  lastUpdated: 20200915195642
+  - 1.0.21
+  lastUpdated: 20201029232135
