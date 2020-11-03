@@ -3,8 +3,8 @@
 groupId: io.vertx
 artifactId: vertx-service-discovery-bridge-zookeeper
 versioning:
-  latest: 4.0.0-milestone5
-  release: 4.0.0-milestone5
+  latest: 4.0.0.CR1
+  release: 4.0.0.CR1
   versions:
   - 3.4.0.Beta1
   - 3.4.0
@@ -47,4 +47,5 @@ versioning:
   - 4.0.0-milestone3
   - 4.0.0-milestone4
   - 4.0.0-milestone5
-  lastUpdated: 20201015085917
+  - 4.0.0.CR1
+  lastUpdated: 20201102133935

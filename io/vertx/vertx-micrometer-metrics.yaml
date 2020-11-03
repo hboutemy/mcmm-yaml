@@ -3,8 +3,8 @@
 groupId: io.vertx
 artifactId: vertx-micrometer-metrics
 versioning:
-  latest: 4.0.0-milestone5
-  release: 4.0.0-milestone5
+  latest: 4.0.0.CR1
+  release: 4.0.0.CR1
   versions:
   - 3.5.1
   - 3.5.2.CR1
@@ -41,4 +41,5 @@ versioning:
   - 4.0.0-milestone3
   - 4.0.0-milestone4
   - 4.0.0-milestone5
-  lastUpdated: 20201015085830
+  - 4.0.0.CR1
+  lastUpdated: 20201102133851

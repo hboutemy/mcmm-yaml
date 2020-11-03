@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin
 artifactId: kotlin-osgi-bundle
 versioning:
-  latest: 1.4.20-M1
-  release: 1.4.20-M1
+  latest: 1.4.20-RC
+  release: 1.4.20-RC
   versions:
   - 1.0.0-beta-1038
   - 1.0.0-beta-1103
@@ -82,4 +82,6 @@ versioning:
   - 1.4.0
   - 1.4.10
   - 1.4.20-M1
-  lastUpdated: 20201030183906
+  - 1.4.20-M2
+  - 1.4.20-RC
+  lastUpdated: 20201102160433
