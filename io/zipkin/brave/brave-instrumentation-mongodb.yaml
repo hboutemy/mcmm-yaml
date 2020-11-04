@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-instrumentation-mongodb
 versioning:
-  latest: 5.12.7
-  release: 5.12.7
+  latest: 5.13.0
+  release: 5.13.0
   versions:
   - 5.11.0
   - 5.11.1
@@ -17,4 +17,5 @@ versioning:
   - 5.12.5
   - 5.12.6
   - 5.12.7
-  lastUpdated: 20201014091100
+  - 5.13.0
+  lastUpdated: 20201103074955

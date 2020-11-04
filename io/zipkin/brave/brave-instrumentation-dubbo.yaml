@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-instrumentation-dubbo
 versioning:
-  latest: 5.12.7
-  release: 5.12.7
+  latest: 5.13.0
+  release: 5.13.0
   versions:
   - 5.8.0
   - 5.9.0
@@ -27,4 +27,5 @@ versioning:
   - 5.12.5
   - 5.12.6
   - 5.12.7
-  lastUpdated: 20201014091044
+  - 5.13.0
+  lastUpdated: 20201103074940
