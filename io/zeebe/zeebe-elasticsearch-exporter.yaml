@@ -3,8 +3,8 @@
 groupId: io.zeebe
 artifactId: zeebe-elasticsearch-exporter
 versioning:
-  latest: 0.25.0
-  release: 0.25.0
+  latest: 0.26.0-alpha1
+  release: 0.26.0-alpha1
   versions:
   - 0.17.0
   - 0.18.0
@@ -52,4 +52,5 @@ versioning:
   - 0.25.0-alpha2
   - 0.25.0-rc1
   - 0.25.0
-  lastUpdated: 20201023135422
+  - 0.26.0-alpha1
+  lastUpdated: 20201104095010
