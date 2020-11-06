@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-osgi-pom
 versioning:
-  latest: 11.0.2
-  release: 11.0.2
+  latest: 11.0.3
+  release: 11.0.3
   versions:
   - 1.1.0.Beta2
   - 1.1.0.Final
@@ -101,5 +101,6 @@ versioning:
   - 11.0.0
   - 11.0.1
   - 11.0.2
+  - 11.0.3
   - 1.5.0-Final
-  lastUpdated: 20200831080908
+  lastUpdated: 20201105140029

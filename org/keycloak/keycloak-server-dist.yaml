@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-server-dist
 versioning:
-  latest: 11.0.2
-  release: 11.0.2
+  latest: 11.0.3
+  release: 11.0.3
   versions:
   - 1.2.0.CR1
   - 1.2.0.Final
@@ -97,5 +97,6 @@ versioning:
   - 11.0.0
   - 11.0.1
   - 11.0.2
+  - 11.0.3
   - 1.5.0-Final
-  lastUpdated: 20200831081008
+  lastUpdated: 20201105140054

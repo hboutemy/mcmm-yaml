@@ -3,8 +3,8 @@
 groupId: io.zipkin.reporter2
 artifactId: zipkin-sender-urlconnection
 versioning:
-  latest: 2.15.4
-  release: 2.15.4
+  latest: 2.16.0
+  release: 2.16.0
   versions:
   - 2.0.0
   - 2.0.1
@@ -67,4 +67,5 @@ versioning:
   - 2.15.2
   - 2.15.3
   - 2.15.4
-  lastUpdated: 20201102053435
+  - 2.16.0
+  lastUpdated: 20201105023729

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.openflowplugin
 artifactId: sample-consumer
 versioning:
-  latest: 0.11.0
-  release: 0.11.0
+  latest: 0.11.1
+  release: 0.11.1
   versions:
   - 0.0.1
   - 0.0.2
@@ -61,4 +61,5 @@ versioning:
   - 0.10.1
   - 0.10.2
   - 0.11.0
-  lastUpdated: 20200918063941
+  - 0.11.1
+  lastUpdated: 20201105154441

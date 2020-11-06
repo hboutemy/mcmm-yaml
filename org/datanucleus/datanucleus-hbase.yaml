@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.datanucleus
 artifactId: datanucleus-hbase
 versioning:
-  latest: 5.2.0-release
-  release: 5.2.0-release
+  latest: 5.2.1
+  release: 5.2.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -77,4 +77,5 @@ versioning:
   - 5.1.0-m4
   - 5.1.0-release
   - 5.2.0-release
-  lastUpdated: 20200912171622
+  - 5.2.1
+  lastUpdated: 20201105135412
