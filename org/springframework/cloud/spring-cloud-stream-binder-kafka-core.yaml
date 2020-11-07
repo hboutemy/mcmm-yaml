@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud
 artifactId: spring-cloud-stream-binder-kafka-core
 versioning:
-  latest: 3.0.8.RELEASE
-  release: 3.0.8.RELEASE
+  latest: 3.0.9.RELEASE
+  release: 3.0.9.RELEASE
   versions:
   - 1.2.0.RELEASE
   - 1.2.1.RELEASE
@@ -33,4 +33,5 @@ versioning:
   - 3.0.6.RELEASE
   - 3.0.7.RELEASE
   - 3.0.8.RELEASE
-  lastUpdated: 20200828182540
+  - 3.0.9.RELEASE
+  lastUpdated: 20201106142632

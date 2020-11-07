@@ -3,8 +3,8 @@
 groupId: com.guicedee.services
 artifactId: hibernate-ehcache
 versioning:
-  latest: 1.0.20.1-jre8
-  release: 1.0.20.1-jre8
+  latest: 1.0.20.1-jre15
+  release: 1.0.20.1-jre15
   versions:
   - 1.0.14.0-RC1-jre8
   - 1.0.14.0-RC1-jre14
@@ -105,5 +105,8 @@ versioning:
   - 1.0.20.0-jre8
   - 1.0.20.0-jre14
   - 1.0.20.0-jre15
+  - 1.0.20.1
   - 1.0.20.1-jre8
-  lastUpdated: 20201105234051
+  - 1.0.20.1-jre14
+  - 1.0.20.1-jre15
+  lastUpdated: 20201106012230

@@ -3,8 +3,8 @@
 groupId: org.testcontainers
 artifactId: oracle-xe
 versioning:
-  latest: 1.15.0-rc2
-  release: 1.15.0-rc2
+  latest: 1.15.0
+  release: 1.15.0
   versions:
   - 0.9.6
   - 0.9.7
@@ -65,4 +65,5 @@ versioning:
   - 1.14.3
   - 1.15.0-rc1
   - 1.15.0-rc2
-  lastUpdated: 20200930123851
+  - 1.15.0
+  lastUpdated: 20201106100754

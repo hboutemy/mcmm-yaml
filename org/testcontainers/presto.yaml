@@ -3,8 +3,8 @@
 groupId: org.testcontainers
 artifactId: presto
 versioning:
-  latest: 1.15.0-rc2
-  release: 1.15.0-rc2
+  latest: 1.15.0
+  release: 1.15.0
   versions:
   - 1.13.0
   - 1.14.0
@@ -13,4 +13,5 @@ versioning:
   - 1.14.3
   - 1.15.0-rc1
   - 1.15.0-rc2
-  lastUpdated: 20200930123855
+  - 1.15.0
+  lastUpdated: 20201106100757

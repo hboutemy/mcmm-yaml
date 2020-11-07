@@ -3,8 +3,8 @@
 groupId: org.testcontainers
 artifactId: pulsar
 versioning:
-  latest: 1.15.0-rc2
-  release: 1.15.0-rc2
+  latest: 1.15.0
+  release: 1.15.0
   versions:
   - 1.8.0
   - 1.8.1
@@ -38,4 +38,5 @@ versioning:
   - 1.14.3
   - 1.15.0-rc1
   - 1.15.0-rc2
-  lastUpdated: 20200930123856
+  - 1.15.0
+  lastUpdated: 20201106100758
