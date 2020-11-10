@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-spark-common
 versioning:
-  latest: 0.243
-  release: 0.243
+  latest: 0.243.1
+  release: 0.243.1
   versions:
   - 0.240
   - 0.240.1
@@ -12,4 +12,5 @@ versioning:
   - 0.242
   - 0.242.1
   - 0.243
-  lastUpdated: 20201104224917
+  - 0.243.1
+  lastUpdated: 20201109233354

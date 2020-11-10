@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: pulsar-broker-auth-athenz
 versioning:
-  latest: 2.6.1
-  release: 2.6.1
+  latest: 2.6.2
+  release: 2.6.2
   versions:
   - 1.19.0-incubating
   - 1.20.0-incubating
@@ -28,4 +28,5 @@ versioning:
   - 2.5.2
   - 2.6.0
   - 2.6.1
-  lastUpdated: 20200821040608
+  - 2.6.2
+  lastUpdated: 20201109051452
