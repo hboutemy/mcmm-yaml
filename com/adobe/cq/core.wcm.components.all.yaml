@@ -3,9 +3,16 @@
 groupId: com.adobe.cq
 artifactId: core.wcm.components.all
 versioning:
-  latest: 2.12.1
-  release: 2.12.1
+  latest: 2.12.2
+  release: 2.12.2
   versions:
+  - 2.12.2
+  - 2.10.0
+  - 2.11.0
+  - 2.11.0-b001
+  - 2.11.1
+  - 2.12.0
+  - 2.12.1
   - 2.2.0
   - 2.2.2
   - 2.3.0
@@ -18,10 +25,4 @@ versioning:
   - 2.8.1-SNAPSHOT-20200410121300
   - 2.9.0
   - 2.9.2
-  - 2.10.0
-  - 2.11.0-b001
-  - 2.11.0
-  - 2.11.1
-  - 2.12.0
-  - 2.12.1
-  lastUpdated: 20201105161404
+  lastUpdated: 20201110170443

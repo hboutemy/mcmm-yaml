@@ -3,8 +3,8 @@
 groupId: io.fabric8
 artifactId: kubernetes-model-admissionregistration
 versioning:
-  latest: 4.12.0
-  release: 4.12.0
+  latest: 4.13.0
+  release: 4.13.0
   versions:
   - 4.10.0
   - 4.10.1
@@ -13,4 +13,5 @@ versioning:
   - 4.11.0
   - 4.11.1
   - 4.12.0
-  lastUpdated: 20201002093058
+  - 4.13.0
+  lastUpdated: 20201110124013
