@@ -3,8 +3,8 @@
 groupId: org.springframework.kafka
 artifactId: spring-kafka-test
 versioning:
-  latest: 2.6.2
-  release: 2.6.2
+  latest: 2.6.3
+  release: 2.6.3
   versions:
   - 1.0.0.RELEASE
   - 1.0.1.RELEASE
@@ -101,6 +101,7 @@ versioning:
   - 2.4.8.RELEASE
   - 2.4.9.RELEASE
   - 2.4.10.RELEASE
+  - 2.4.11.RELEASE
   - 2.5.0.RELEASE
   - 2.5.1.RELEASE
   - 2.5.2.RELEASE
@@ -109,7 +110,9 @@ versioning:
   - 2.5.5.RELEASE
   - 2.5.6.RELEASE
   - 2.5.7.RELEASE
+  - 2.5.8.RELEASE
   - 2.6.0
   - 2.6.1
   - 2.6.2
-  lastUpdated: 20201028191522
+  - 2.6.3
+  lastUpdated: 20201111180351

@@ -3,8 +3,8 @@
 groupId: com.google.cloud
 artifactId: google-cloud-bigtable-deps-bom
 versioning:
-  latest: 1.17.1
-  release: 1.17.1
+  latest: 1.17.3
+  release: 1.17.3
   versions:
   - 1.9.0
   - 1.9.1
@@ -22,4 +22,6 @@ versioning:
   - 1.16.2
   - 1.17.0
   - 1.17.1
-  lastUpdated: 20201102194636
+  - 1.17.2
+  - 1.17.3
+  lastUpdated: 20201111185211

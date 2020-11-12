@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-cloudasset
 versioning:
-  latest: v1-rev20201030-1.30.10
-  release: v1-rev20201030-1.30.10
+  latest: v1-rev20201106-1.30.10
+  release: v1-rev20201106-1.30.10
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.22.0
@@ -180,6 +180,7 @@ versioning:
   - v1beta1-rev20200810-1.30.10
   - v1beta1-rev20200828-1.30.10
   - v1beta1-rev20201030-1.30.10
+  - v1beta1-rev20201106-1.30.10
   - v1p1beta1-rev4-1.18.0-rc
   - v1p1beta1-rev20200309-1.30.9
   - v1p1beta1-rev20200330-1.30.9
@@ -190,6 +191,7 @@ versioning:
   - v1p1beta1-rev20200605-1.30.10
   - v1p1beta1-rev20200810-1.30.10
   - v1p1beta1-rev20201030-1.30.10
+  - v1p1beta1-rev20201106-1.30.10
   - v1p4beta1-rev20200403-1.30.9
   - v1p4beta1-rev20200515-1.30.9
   - v1p4beta1-rev20200605-1.30.9
@@ -202,11 +204,13 @@ versioning:
   - v1p4beta1-rev20200911-1.30.10
   - v1p4beta1-rev20201003-1.30.10
   - v1p4beta1-rev20201030-1.30.10
+  - v1p4beta1-rev20201106-1.30.10
   - v1p5beta1-rev20200717-1.30.10
   - v1p5beta1-rev20200731-1.30.10
   - v1p5beta1-rev20200810-1.30.10
   - v1p5beta1-rev20200828-1.30.10
   - v1p5beta1-rev20201030-1.30.10
+  - v1p5beta1-rev20201106-1.30.10
   - v1-rev2-1.23.0
   - v1-rev2-1.24.1
   - v1-rev2-1.25.0
@@ -334,4 +338,5 @@ versioning:
   - v1-rev20200911-1.30.10
   - v1-rev20201023-1.30.10
   - v1-rev20201030-1.30.10
-  lastUpdated: 20201105091006
+  - v1-rev20201106-1.30.10
+  lastUpdated: 20201111212421

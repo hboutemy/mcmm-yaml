@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.adobe.cq
 artifactId: core.wcm.components.core
 versioning:
   latest: 2.12.2
   release: 2.12.2
   versions:
-  - 2.12.2
   - 1.0.0
   - 1.0.2
   - 1.0.4
@@ -18,11 +18,6 @@ versioning:
   - 2.0.6
   - 2.0.8
   - 2.1.0
-  - 2.10.0
-  - 2.11.0
-  - 2.11.1
-  - 2.12.0
-  - 2.12.1
   - 2.2.0
   - 2.2.2
   - 2.3.0
@@ -35,4 +30,10 @@ versioning:
   - 2.8.1-SNAPSHOT-20200410121300
   - 2.9.0
   - 2.9.2
-  lastUpdated: 20201110170445
+  - 2.10.0
+  - 2.11.0
+  - 2.11.1
+  - 2.12.0
+  - 2.12.1
+  - 2.12.2
+  lastUpdated: 20201111172400

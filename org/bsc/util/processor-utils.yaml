@@ -3,8 +3,8 @@
 groupId: org.bsc.util
 artifactId: processor-utils
 versioning:
-  latest: 4.4
-  release: 4.4
+  latest: 4.4-jdk8
+  release: 4.4-jdk8
   versions:
   - 1.0.0
   - 4.0-beta1
@@ -17,4 +17,5 @@ versioning:
   - 4.2-jdk8
   - 4.3
   - 4.4
-  lastUpdated: 20201006082629
+  - 4.4-jdk8
+  lastUpdated: 20201111140210
