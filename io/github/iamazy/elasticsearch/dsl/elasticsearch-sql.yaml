@@ -3,8 +3,8 @@
 groupId: io.github.iamazy.elasticsearch.dsl
 artifactId: elasticsearch-sql
 versioning:
-  latest: 7.9.1
-  release: 7.9.1
+  latest: 7.10.0.2
+  release: 7.10.0.2
   versions:
   - 0.0.4
   - 6.6.2
@@ -31,4 +31,9 @@ versioning:
   - 7.8.1.1
   - 7.9.0
   - 7.9.1
-  lastUpdated: 20200906113938
+  - 7.9.2
+  - 7.9.3
+  - 7.10.0
+  - 7.10.0.1
+  - 7.10.0.2
+  lastUpdated: 20201114152625
