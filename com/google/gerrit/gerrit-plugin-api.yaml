@@ -3,8 +3,8 @@
 groupId: com.google.gerrit
 artifactId: gerrit-plugin-api
 versioning:
-  latest: 3.3.0-rc5
-  release: 3.3.0-rc5
+  latest: 3.3.0-rc6
+  release: 3.3.0-rc6
   versions:
   - 2.9-rc1
   - 2.9-rc2
@@ -113,6 +113,7 @@ versioning:
   - 2.15.18
   - 2.15.19
   - 2.15.20
+  - 2.15.21
   - 2.16-rc0
   - 2.16-rc1
   - 2.16-rc2
@@ -142,6 +143,7 @@ versioning:
   - 2.16.22
   - 2.16.23
   - 2.16.24
+  - 2.16.25
   - 3.0.0-rc0
   - 3.0.0-rc1
   - 3.0.0-rc2
@@ -161,6 +163,7 @@ versioning:
   - 3.0.12
   - 3.0.13
   - 3.0.14
+  - 3.0.15
   - 3.1.0-rc0
   - 3.1.0-rc1
   - 3.1.0-rc2
@@ -193,6 +196,7 @@ versioning:
   - 3.3.0-rc3
   - 3.3.0-rc4
   - 3.3.0-rc5
+  - 3.3.0-rc6
   - 2.10.5
   - 2.11.1
-  lastUpdated: 20201114013123
+  lastUpdated: 20201116221335
