@@ -3,8 +3,8 @@
 groupId: org.graalvm.nativeimage
 artifactId: svm-hosted-native-linux-amd64
 versioning:
-  latest: 20.2.0
-  release: 20.2.0
+  latest: 20.3.0
+  release: 20.3.0
   versions:
   - 19.3.0
   - 19.3.0.2
@@ -15,4 +15,5 @@ versioning:
   - 20.0.0
   - 20.1.0
   - 20.2.0
-  lastUpdated: 20201103214614
+  - 20.3.0
+  lastUpdated: 20201117175105

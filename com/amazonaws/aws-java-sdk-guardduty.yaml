@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-guardduty
 versioning:
-  latest: 1.11.902
-  release: 1.11.902
+  latest: 1.11.903
+  release: 1.11.903
   versions:
   - 1.11.237
   - 1.11.238
@@ -672,4 +672,5 @@ versioning:
   - 1.11.900
   - 1.11.901
   - 1.11.902
-  lastUpdated: 20201116213449
+  - 1.11.903
+  lastUpdated: 20201117212615
