@@ -3,8 +3,8 @@
 groupId: org.hibernate
 artifactId: hibernate-search-jbossmodules-engine
 versioning:
-  latest: 5.11.6.Final
-  release: 5.11.6.Final
+  latest: 5.11.7.Final
+  release: 5.11.7.Final
   versions:
   - 5.9.0.Final
   - 5.9.1.Final
@@ -23,6 +23,7 @@ versioning:
   - 5.10.7.Final
   - 5.10.8.Final
   - 5.10.9.Final
+  - 5.10.10.Final
   - 5.11.0.CR1
   - 5.11.0.Final
   - 5.11.1.Final
@@ -31,4 +32,5 @@ versioning:
   - 5.11.4.Final
   - 5.11.5.Final
   - 5.11.6.Final
-  lastUpdated: 20201116134852
+  - 5.11.7.Final
+  lastUpdated: 20201118175508
