@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlinx
 artifactId: kotlinx-coroutines-core-js
 versioning:
-  latest: 1.4.1
-  release: 1.4.1
+  latest: 1.4.1-native-mt
+  release: 1.4.1-native-mt
   versions:
   - 0.21
   - 0.21.1
@@ -74,4 +74,5 @@ versioning:
   - 1.4.0-M1
   - 1.4.0
   - 1.4.1
-  lastUpdated: 20201104103808
+  - 1.4.1-native-mt
+  lastUpdated: 20201119145421

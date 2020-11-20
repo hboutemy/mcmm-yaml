@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlinx
 artifactId: kotlinx-coroutines-core-macosx64
 versioning:
-  latest: 1.4.1
-  release: 1.4.1
+  latest: 1.4.1-native-mt
+  release: 1.4.1-native-mt
   versions:
   - 1.2.0-alpha
   - 1.2.0-alpha-2
@@ -37,4 +37,5 @@ versioning:
   - 1.4.0-M1
   - 1.4.0
   - 1.4.1
-  lastUpdated: 20201104103813
+  - 1.4.1-native-mt
+  lastUpdated: 20201119145427
