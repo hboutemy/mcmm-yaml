@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-tpch
 versioning:
-  latest: 0.243.2
-  release: 0.243.2
+  latest: 0.243.3
+  release: 0.243.3
   versions:
   - 0.60
   - 0.61
@@ -216,4 +216,5 @@ versioning:
   - 0.243
   - 0.243.1
   - 0.243.2
-  lastUpdated: 20201111230912
+  - 0.243.3
+  lastUpdated: 20201120070651

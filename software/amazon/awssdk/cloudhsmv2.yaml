@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: cloudhsmv2
 versioning:
-  latest: 2.15.32
-  release: 2.15.32
+  latest: 2.15.33
+  release: 2.15.33
   versions:
   - 2.0.0-preview-8
   - 2.0.0-preview-9
@@ -443,4 +443,5 @@ versioning:
   - 2.15.30
   - 2.15.31
   - 2.15.32
-  lastUpdated: 20201119205946
+  - 2.15.33
+  lastUpdated: 20201120205643
