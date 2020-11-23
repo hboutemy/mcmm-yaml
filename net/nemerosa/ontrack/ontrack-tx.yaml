@@ -3,8 +3,8 @@
 groupId: net.nemerosa.ontrack
 artifactId: ontrack-tx
 versioning:
-  latest: 4.0-alpha.1
-  release: 4.0-alpha.1
+  latest: 4.0-beta.0
+  release: 4.0-beta.0
   versions:
   - experimental-pipeline-a6e0b79
   - experimental-pipeline-a8ce70d
@@ -377,4 +377,6 @@ versioning:
   - 4.0-alpha.0
   - 4.0-alpha.0-dirty
   - 4.0-alpha.1
-  lastUpdated: 20201111152800
+  - 4.0-alpha.2
+  - 4.0-beta.0
+  lastUpdated: 20201122112407

@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-postgresql
 versioning:
-  latest: 0.243.3
-  release: 0.243.3
+  latest: 0.244
+  release: 0.244
   versions:
   - 0.76
   - 0.77
@@ -203,4 +203,5 @@ versioning:
   - 0.243.1
   - 0.243.2
   - 0.243.3
-  lastUpdated: 20201120070453
+  - 0.244
+  lastUpdated: 20201122060609
