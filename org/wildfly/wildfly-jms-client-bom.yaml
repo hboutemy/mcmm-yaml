@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-jms-client-bom
 versioning:
-  latest: 21.0.0.Final
-  release: 21.0.0.Final
+  latest: 21.0.1.Final
+  release: 21.0.1.Final
   versions:
   - 8.0.0.Alpha1
   - 8.0.0.Alpha2
@@ -74,4 +74,5 @@ versioning:
   - 20.0.1.Final
   - 21.0.0.Beta1
   - 21.0.0.Final
-  lastUpdated: 20201013080254
+  - 21.0.1.Final
+  lastUpdated: 20201123174357

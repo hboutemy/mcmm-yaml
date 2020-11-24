@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.ext
 artifactId: jersey-mvc
 versioning:
-  latest: 3.0.0-M6
-  release: 3.0.0-M6
+  latest: 3.0.0-RC2
+  release: 3.0.0-RC2
   versions:
   - 2.0-m13-3
   - 2.0-rc1
@@ -74,5 +74,6 @@ versioning:
   - 2.32
   - 3.0.0-M1
   - 3.0.0-M6
+  - 3.0.0-RC2
   - 2.25.1
-  lastUpdated: 20200925122604
+  lastUpdated: 20201123140435

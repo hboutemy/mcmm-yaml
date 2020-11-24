@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.examples
 artifactId: entity-filtering-security
 versioning:
-  latest: 3.0.0-M6
-  release: 3.0.0-M6
+  latest: 3.0.0-RC2
+  release: 3.0.0-RC2
   versions:
   - 2.3
   - 2.3.1
@@ -68,4 +68,5 @@ versioning:
   - 2.31
   - 2.32
   - 3.0.0-M6
-  lastUpdated: 20200925122550
+  - 3.0.0-RC2
+  lastUpdated: 20201123140423

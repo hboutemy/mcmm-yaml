@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.examples
 artifactId: bookmark-em
 versioning:
-  latest: 3.0.0-M6
-  release: 3.0.0-M6
+  latest: 3.0.0-RC2
+  release: 3.0.0-RC2
   versions:
   - 2.0-m05-2
   - 2.0-m06
@@ -90,4 +90,5 @@ versioning:
   - 2.32
   - 3.0.0-M1
   - 3.0.0-M6
-  lastUpdated: 20200925122549
+  - 3.0.0-RC2
+  lastUpdated: 20201123140422
