@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-instrumentation-messaging
 versioning:
-  latest: 5.13.1
-  release: 5.13.1
+  latest: 5.13.2
+  release: 5.13.2
   versions:
   - 5.9.0
   - 5.9.1
@@ -28,4 +28,5 @@ versioning:
   - 5.12.7
   - 5.13.0
   - 5.13.1
-  lastUpdated: 20201105071152
+  - 5.13.2
+  lastUpdated: 20201124041327

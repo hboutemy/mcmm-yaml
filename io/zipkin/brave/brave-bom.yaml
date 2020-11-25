@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-bom
 versioning:
-  latest: 5.13.1
-  release: 5.13.1
+  latest: 5.13.2
+  release: 5.13.2
   versions:
   - 4.17.0
   - 4.17.1
@@ -72,4 +72,5 @@ versioning:
   - 5.12.7
   - 5.13.0
   - 5.13.1
-  lastUpdated: 20201105071323
+  - 5.13.2
+  lastUpdated: 20201124041652

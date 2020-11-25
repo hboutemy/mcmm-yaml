@@ -3,8 +3,8 @@
 groupId: org.wildfly.bom
 artifactId: wildfly-microprofile-builder
 versioning:
-  latest: 21.0.1.Final
-  release: 21.0.1.Final
+  latest: 22.0.0.Alpha1
+  release: 22.0.0.Alpha1
   versions:
   - 19.0.0.Beta3
   - 19.0.0.Final
@@ -16,4 +16,5 @@ versioning:
   - 21.0.0.Beta1
   - 21.0.0.Final
   - 21.0.1.Final
-  lastUpdated: 20201123174356
+  - 22.0.0.Alpha1
+  lastUpdated: 20201124091849

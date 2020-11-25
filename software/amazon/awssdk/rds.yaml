@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: rds
 versioning:
-  latest: 2.15.34
-  release: 2.15.34
+  latest: 2.15.35
+  release: 2.15.35
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -452,4 +452,5 @@ versioning:
   - 2.15.32
   - 2.15.33
   - 2.15.34
-  lastUpdated: 20201123200627
+  - 2.15.35
+  lastUpdated: 20201124201409
