@@ -3,8 +3,8 @@
 groupId: io.zipkin.aws
 artifactId: zipkin-storage-xray-udp
 versioning:
-  latest: 0.22.1
-  release: 0.22.1
+  latest: 0.23.0
+  release: 0.23.0
   versions:
   - 0.8.0
   - 0.8.1
@@ -62,4 +62,5 @@ versioning:
   - 0.21.3
   - 0.22.0
   - 0.22.1
-  lastUpdated: 20201101133639
+  - 0.23.0
+  lastUpdated: 20201125034253

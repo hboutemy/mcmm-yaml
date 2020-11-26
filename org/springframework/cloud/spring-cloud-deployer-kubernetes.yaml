@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud
 artifactId: spring-cloud-deployer-kubernetes
 versioning:
-  latest: 2.4.3
-  release: 2.4.3
+  latest: 2.5.0
+  release: 2.5.0
   versions:
   - 1.0.0.RELEASE
   - 1.0.1.RELEASE
@@ -48,4 +48,5 @@ versioning:
   - 2.4.1
   - 2.4.2
   - 2.4.3
-  lastUpdated: 20201124162047
+  - 2.5.0
+  lastUpdated: 20201125051857
