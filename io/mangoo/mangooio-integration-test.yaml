@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.mangoo
 artifactId: mangooio-integration-test
 versioning:
-  latest: 6.5.0-RC1
-  release: 6.5.0-RC1
+  latest: 6.5.0-RC3
+  release: 6.5.0-RC3
   versions:
   - 1.0.0-RC4
   - 1.0.0-RC5
@@ -287,5 +287,7 @@ versioning:
   - 6.4.0-RC2
   - 6.4.0
   - 6.5.0-RC1
+  - 6.5.0-RC2
+  - 6.5.0-RC3
   - 4.0.0-Aplha1
-  lastUpdated: 20201112135426
+  lastUpdated: 20201126114739

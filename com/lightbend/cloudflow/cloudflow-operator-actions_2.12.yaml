@@ -3,12 +3,14 @@
 groupId: com.lightbend.cloudflow
 artifactId: cloudflow-operator-actions_2.12
 versioning:
-  latest: 2.0.15-NIGHTLY-01
-  release: 2.0.15-NIGHTLY-01
+  latest: 2.0.19-RC4
+  release: 2.0.19-RC4
   versions:
   - 0.0.0-NIGHTLY12112020
   - 0.0.0-NIGHTLY13112020
   - 0.0.0-NIGHTLY25112020
+  - 0.0.0-NIGHTLY26112020
+  - 0.0.0-T261120201419
   - 2.0.12-NIGHTLY03112020
   - 2.0.12-NIGHTLY04112020
   - 2.0.12-NIGHTLY06112020
@@ -26,4 +28,8 @@ versioning:
   - 2.0.14-RC1
   - 2.0.14
   - 2.0.15-NIGHTLY-01
-  lastUpdated: 20201125005643
+  - 2.0.19-RC1
+  - 2.0.19-RC2
+  - 2.0.19-RC3
+  - 2.0.19-RC4
+  lastUpdated: 20201126181005

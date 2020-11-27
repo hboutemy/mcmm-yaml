@@ -3,8 +3,8 @@
 groupId: com.lightbend.cloudflow
 artifactId: cloudflow-localrunner_2.12
 versioning:
-  latest: 2.0.18
-  release: 2.0.18
+  latest: 2.0.19-RC4
+  release: 2.0.19-RC4
   versions:
   - 0.0.0-NIGHTLY12112020
   - 0.0.0-NIGHTLY13112020
@@ -17,6 +17,8 @@ versioning:
   - 0.0.0-NIGHTLY23112020
   - 0.0.0-NIGHTLY24112020
   - 0.0.0-NIGHTLY25112020
+  - 0.0.0-NIGHTLY26112020
+  - 0.0.0-T261120201419
   - 0.0.1-RC-TEST-RELEASE
   - 0.0.1-RC-TEST-RELEASE2
   - 0.0.1-RC-TEST-RELEASE3
@@ -107,4 +109,8 @@ versioning:
   - 2.0.15-NIGHTLY-01
   - 2.0.16
   - 2.0.18
-  lastUpdated: 20201125005640
+  - 2.0.19-RC1
+  - 2.0.19-RC2
+  - 2.0.19-RC3
+  - 2.0.19-RC4
+  lastUpdated: 20201126181003

@@ -3,8 +3,8 @@
 groupId: com.lightbend.cloudflow
 artifactId: cloudflow-blueprint_2.13
 versioning:
-  latest: 2.0.18
-  release: 2.0.18
+  latest: 2.0.19-RC4
+  release: 2.0.19-RC4
   versions:
   - 0.0.0-NIGHTLY17112020
   - 0.0.0-NIGHTLY18112020
@@ -15,6 +15,8 @@ versioning:
   - 0.0.0-NIGHTLY23112020
   - 0.0.0-NIGHTLY24112020
   - 0.0.0-NIGHTLY25112020
+  - 0.0.0-NIGHTLY26112020
+  - 0.0.0-T261120201419
   - 2.0.15-RC1
   - 2.0.15
   - 2.0.15-AP-17112020
@@ -22,4 +24,8 @@ versioning:
   - 2.0.15-CF-7
   - 2.0.16
   - 2.0.18
-  lastUpdated: 20201125005635
+  - 2.0.19-RC1
+  - 2.0.19-RC2
+  - 2.0.19-RC3
+  - 2.0.19-RC4
+  lastUpdated: 20201126180958

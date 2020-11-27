@@ -3,8 +3,8 @@
 groupId: io.cloudevents
 artifactId: cloudevents-kafka
 versioning:
-  latest: 2.0.0-milestone4
-  release: 2.0.0-milestone4
+  latest: 2.0.0.RC1
+  release: 2.0.0.RC1
   versions:
   - 0.3.0
   - 0.3.1
@@ -16,4 +16,5 @@ versioning:
   - 2.0.0-milestone2
   - 2.0.0-milestone3
   - 2.0.0-milestone4
-  lastUpdated: 20201109131122
+  - 2.0.0.RC1
+  lastUpdated: 20201126154138
