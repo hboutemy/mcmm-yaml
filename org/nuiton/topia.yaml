@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.nuiton
 artifactId: topia
 versioning:
   latest: 3.8
-  release: 3.8
+  release: 3.8.1
   versions:
   - 2.2.0
   - 2.2.1
@@ -122,5 +121,6 @@ versioning:
   - 3.6
   - 3.7
   - 3.8
+  - 3.8.1
   - 2.3.0-beta-9
-  lastUpdated: 20201004012717
+  lastUpdated: 20201127102822

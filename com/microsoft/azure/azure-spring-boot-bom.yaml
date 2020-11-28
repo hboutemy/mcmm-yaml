@@ -3,8 +3,8 @@
 groupId: com.microsoft.azure
 artifactId: azure-spring-boot-bom
 versioning:
-  latest: 2.3.5
-  release: 2.3.5
+  latest: 3.0.0-beta.1
+  release: 3.0.0-beta.1
   versions:
   - 0.1.8
   - 0.1.9
@@ -51,4 +51,5 @@ versioning:
   - 2.3.2
   - 2.3.3
   - 2.3.5
-  lastUpdated: 20200916020941
+  - 3.0.0-beta.1
+  lastUpdated: 20201127054556

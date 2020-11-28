@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlinx
 artifactId: kotlinx-coroutines-android
 versioning:
-  latest: 1.4.2
-  release: 1.4.2
+  latest: 1.4.2-native-mt
+  release: 1.4.2-native-mt
   versions:
   - 0.19-alpha-4
   - 0.19
@@ -82,4 +82,5 @@ versioning:
   - 1.4.1
   - 1.4.1-native-mt
   - 1.4.2
-  lastUpdated: 20201126172221
+  - 1.4.2-native-mt
+  lastUpdated: 20201127135452
