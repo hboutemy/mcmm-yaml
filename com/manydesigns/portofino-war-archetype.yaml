@@ -3,8 +3,8 @@
 groupId: com.manydesigns
 artifactId: portofino-war-archetype
 versioning:
-  latest: 5.1.4
-  release: 5.1.4
+  latest: 5.2.0-archetype-fix
+  release: 5.2.0-archetype-fix
   versions:
   - 4.1.beta5
   - 4.1.beta6
@@ -31,4 +31,6 @@ versioning:
   - 5.1.2
   - 5.1.3
   - 5.1.4
-  lastUpdated: 20200704214537
+  - 5.2.0
+  - 5.2.0-archetype-fix
+  lastUpdated: 20201129205120

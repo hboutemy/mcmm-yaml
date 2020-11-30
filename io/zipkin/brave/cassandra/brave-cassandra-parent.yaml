@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave.cassandra
 artifactId: brave-cassandra-parent
 versioning:
-  latest: 0.10.6
-  release: 0.10.6
+  latest: 0.11.0
+  release: 0.11.0
   versions:
   - 0.1.0
   - 0.1.1
@@ -23,4 +23,5 @@ versioning:
   - 0.10.3
   - 0.10.5
   - 0.10.6
-  lastUpdated: 20201110062046
+  - 0.11.0
+  lastUpdated: 20201128235532
