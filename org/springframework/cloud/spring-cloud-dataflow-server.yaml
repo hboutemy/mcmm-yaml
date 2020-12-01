@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud
 artifactId: spring-cloud-dataflow-server
 versioning:
-  latest: 2.6.3
-  release: 2.6.3
+  latest: 2.7.0
+  release: 2.7.0
   versions:
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
@@ -30,4 +30,6 @@ versioning:
   - 2.6.1
   - 2.6.2
   - 2.6.3
-  lastUpdated: 20200929174335
+  - 2.6.4
+  - 2.7.0
+  lastUpdated: 20201130112907
