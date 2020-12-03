@@ -3,14 +3,16 @@
 groupId: org.glassfish.tyrus.tests.servlet
 artifactId: tyrus-tests-servlet-autobahn-server
 versioning:
-  latest: 2.0.0-M3
-  release: 2.0.0-M3
+  latest: 2.0.0
+  release: 2.0.0
   versions:
   - 1.16
   - 1.17
   - 2.0.0-M1
   - 2.0.0-M2
   - 2.0.0-M3
+  - 2.0.0-RC1
+  - 2.0.0
   - 1.0
   - 1.0-b14
   - 1.0-rc1
@@ -42,4 +44,4 @@ versioning:
   - 1.8.2
   - 1.8.3
   - 1.9
-  lastUpdated: 20200709174411
+  lastUpdated: 20201202093707
