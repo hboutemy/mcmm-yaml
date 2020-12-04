@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.containers
 artifactId: jersey-container-jetty-servlet
 versioning:
-  latest: 3.0.0-M1
-  release: 3.0.0-M1
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 2.5
   - 2.5.1
@@ -64,4 +64,5 @@ versioning:
   - 2.31
   - 2.32
   - 3.0.0-M1
-  lastUpdated: 20200925122546
+  - 3.0.0
+  lastUpdated: 20201203104552

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.examples
 artifactId: json-processing-webapp
 versioning:
-  latest: 3.0.0-RC2
-  release: 3.0.0-RC2
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 2.0-m13
   - 2.0-m13-1
@@ -77,4 +77,5 @@ versioning:
   - 2.31
   - 2.32
   - 3.0.0-RC2
-  lastUpdated: 20201123140428
+  - 3.0.0
+  lastUpdated: 20201203104600

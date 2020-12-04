@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.connectors
 artifactId: jersey-netty-connector
 versioning:
-  latest: 3.0.0-RC2
-  release: 3.0.0-RC2
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 2.23.2
   - 2.24
@@ -34,4 +34,5 @@ versioning:
   - 3.0.0-M1
   - 3.0.0-M6
   - 3.0.0-RC2
-  lastUpdated: 20201123140419
+  - 3.0.0
+  lastUpdated: 20201203104551

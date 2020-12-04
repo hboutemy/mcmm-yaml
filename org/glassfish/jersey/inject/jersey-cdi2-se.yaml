@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.inject
 artifactId: jersey-cdi2-se
 versioning:
-  latest: 3.0.0-RC2
-  release: 3.0.0-RC2
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 2.26-b05
   - 2.26-b06
@@ -25,4 +25,5 @@ versioning:
   - 3.0.0-M1
   - 3.0.0-M6
   - 3.0.0-RC2
-  lastUpdated: 20201123140438
+  - 3.0.0
+  lastUpdated: 20201203104609

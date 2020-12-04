@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.codehaus.groovy
 artifactId: groovy-ant
 versioning:
-  latest: 3.0.6
-  release: 3.0.6
+  latest: 3.0.7
+  release: 3.0.7
   versions:
   - 2.0.0-rc-1
   - 2.0.0-rc-2
@@ -86,6 +86,7 @@ versioning:
   - 2.4.18
   - 2.4.19
   - 2.4.20
+  - 2.4.21
   - 2.5.0-alpha-1
   - 2.5.0-beta-1
   - 2.5.0-beta-2
@@ -107,6 +108,7 @@ versioning:
   - 2.5.11
   - 2.5.12
   - 2.5.13
+  - 2.5.14
   - 2.6.0-alpha-1
   - 2.6.0-alpha-2
   - 2.6.0-alpha-3
@@ -128,4 +130,5 @@ versioning:
   - 3.0.4
   - 3.0.5
   - 3.0.6
-  lastUpdated: 20200929094624
+  - 3.0.7
+  lastUpdated: 20201203131749

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.archetypes
 artifactId: jersey-quickstart-webapp
 versioning:
-  latest: 3.0.0-RC2
-  release: 3.0.0-RC2
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 2.0-m03
   - 2.0-m04
@@ -96,5 +96,6 @@ versioning:
   - 3.0.0-M1
   - 3.0.0-M6
   - 3.0.0-RC2
+  - 3.0.0
   - 2.10.1
-  lastUpdated: 20201123140417
+  lastUpdated: 20201203104549

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.examples
 artifactId: http-patch
 versioning:
-  latest: 3.0.0-RC2
-  release: 3.0.0-RC2
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 2.6
   - 2.7
@@ -62,4 +62,5 @@ versioning:
   - 2.32
   - 3.0.0-M6
   - 3.0.0-RC2
-  lastUpdated: 20201123140425
+  - 3.0.0
+  lastUpdated: 20201203104558

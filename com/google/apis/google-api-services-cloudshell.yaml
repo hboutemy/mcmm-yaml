@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-cloudshell
 versioning:
-  latest: v1-rev20201003-1.30.10
-  release: v1-rev20201003-1.30.10
+  latest: v1-rev20201003-1.31.0
+  release: v1-rev20201003-1.31.0
   versions:
   - v1alpha1-rev1-1.18.0-rc
   - v1alpha1-rev1-1.21.0
@@ -425,6 +425,7 @@ versioning:
   - v1alpha1-rev20200512-1.30.9
   - v1alpha1-rev20200721-1.30.10
   - v1alpha1-rev20200803-1.30.10
+  - v1alpha1-rev20200803-1.31.0
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.21.0
   - v1-rev1-1.22.0
@@ -844,4 +845,5 @@ versioning:
   - v1-rev20200721-1.30.10
   - v1-rev20200803-1.30.10
   - v1-rev20201003-1.30.10
-  lastUpdated: 20201007201018
+  - v1-rev20201003-1.31.0
+  lastUpdated: 20201203140358
