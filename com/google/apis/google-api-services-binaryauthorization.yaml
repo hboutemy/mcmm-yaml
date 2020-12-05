@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-binaryauthorization
 versioning:
-  latest: v1-rev20201113-1.30.10
-  release: v1-rev20201113-1.30.10
+  latest: v1-rev20201113-1.31.0
+  release: v1-rev20201113-1.31.0
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.22.0
@@ -230,6 +230,7 @@ versioning:
   - v1beta1-rev20201016-1.30.10
   - v1beta1-rev20201030-1.30.10
   - v1beta1-rev20201113-1.30.10
+  - v1beta1-rev20201113-1.31.0
   - v1-rev8-1.18.0-rc
   - v1-rev8-1.25.0
   - v1-rev9-1.18.0-rc
@@ -286,4 +287,5 @@ versioning:
   - v1-rev20201016-1.30.10
   - v1-rev20201030-1.30.10
   - v1-rev20201113-1.30.10
-  lastUpdated: 20201120211225
+  - v1-rev20201113-1.31.0
+  lastUpdated: 20201204213429
