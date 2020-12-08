@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty
 artifactId: jetty-annotations
 versioning:
-  latest: 11.0.0.beta3
-  release: 11.0.0.beta3
+  latest: 11.0.0
+  release: 11.0.0
   versions:
   - 7.0.0.M0
   - 7.0.0.M1
@@ -294,8 +294,10 @@ versioning:
   - 10.0.0.beta1
   - 10.0.0.beta2
   - 10.0.0.beta3
+  - 10.0.0
   - 11.0.0-alpha0
   - 11.0.0.beta1
   - 11.0.0.beta2
   - 11.0.0.beta3
-  lastUpdated: 20201123164246
+  - 11.0.0
+  lastUpdated: 20201207144808
