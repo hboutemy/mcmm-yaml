@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-ecr
 versioning:
-  latest: 1.11.913
-  release: 1.11.913
+  latest: 1.11.915
+  release: 1.11.915
   versions:
   - 1.10.43
   - 1.10.44
@@ -958,4 +958,6 @@ versioning:
   - 1.11.911
   - 1.11.912
   - 1.11.913
-  lastUpdated: 20201204213204
+  - 1.11.914
+  - 1.11.915
+  lastUpdated: 20201208211507

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-comprehend
 versioning:
-  latest: 1.11.913
-  release: 1.11.913
+  latest: 1.11.915
+  release: 1.11.915
   versions:
   - 1.11.238
   - 1.11.239
@@ -682,4 +682,6 @@ versioning:
   - 1.11.911
   - 1.11.912
   - 1.11.913
-  lastUpdated: 20201204213156
+  - 1.11.914
+  - 1.11.915
+  lastUpdated: 20201208211500
