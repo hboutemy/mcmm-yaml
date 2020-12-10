@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework
 artifactId: spring-orm
 versioning:
-  latest: 5.3.1
-  release: 5.3.1
+  latest: 5.3.2
+  release: 5.3.2
   versions:
   - 1.0-rc1
   - 1.0
@@ -132,6 +132,7 @@ versioning:
   - 4.3.27.RELEASE
   - 4.3.28.RELEASE
   - 4.3.29.RELEASE
+  - 4.3.30.RELEASE
   - 5.0.0.RELEASE
   - 5.0.1.RELEASE
   - 5.0.2.RELEASE
@@ -152,6 +153,7 @@ versioning:
   - 5.0.17.RELEASE
   - 5.0.18.RELEASE
   - 5.0.19.RELEASE
+  - 5.0.20.RELEASE
   - 5.1.0.RELEASE
   - 5.1.1.RELEASE
   - 5.1.2.RELEASE
@@ -172,6 +174,7 @@ versioning:
   - 5.1.17.RELEASE
   - 5.1.18.RELEASE
   - 5.1.19.RELEASE
+  - 5.1.20.RELEASE
   - 5.2.0.RELEASE
   - 5.2.1.RELEASE
   - 5.2.2.RELEASE
@@ -184,6 +187,8 @@ versioning:
   - 5.2.9.RELEASE
   - 5.2.10.RELEASE
   - 5.2.11.RELEASE
+  - 5.2.12.RELEASE
   - 5.3.0
   - 5.3.1
-  lastUpdated: 20201110100546
+  - 5.3.2
+  lastUpdated: 20201209092338

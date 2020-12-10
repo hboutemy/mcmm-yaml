@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-geo
 versioning:
-  latest: 7.10.0
-  release: 7.10.0
+  latest: 7.10.1
+  release: 7.10.1
   versions:
   - 7.0.0-beta1
   - 7.0.0-rc1
@@ -36,4 +36,5 @@ versioning:
   - 7.9.2
   - 7.9.3
   - 7.10.0
-  lastUpdated: 20201111134758
+  - 7.10.1
+  lastUpdated: 20201209142626

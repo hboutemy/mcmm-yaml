@@ -3,8 +3,8 @@
 groupId: org.openjdk.jmh
 artifactId: jmh-java-benchmark-archetype
 versioning:
-  latest: 1.26
-  release: 1.26
+  latest: 1.27
+  release: 1.27
   versions:
   - 0.5
   - 0.5.2
@@ -87,5 +87,6 @@ versioning:
   - 1.25.1
   - 1.25.2
   - 1.26
+  - 1.27
   - 1.10
-  lastUpdated: 20201009111008
+  lastUpdated: 20201209123109

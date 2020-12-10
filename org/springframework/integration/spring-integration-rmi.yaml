@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.integration
 artifactId: spring-integration-rmi
 versioning:
-  latest: 5.4.1
-  release: 5.4.1
+  latest: 5.4.2
+  release: 5.4.2
   versions:
   - 1.0.1.RELEASE
   - 1.0.2.RELEASE
@@ -137,6 +137,7 @@ versioning:
   - 5.2.7.RELEASE
   - 5.2.8.RELEASE
   - 5.2.9.RELEASE
+  - 5.2.10.RELEASE
   - 5.3.0.RELEASE
   - 5.3.1.RELEASE
   - 5.3.2.RELEASE
@@ -144,5 +145,6 @@ versioning:
   - 5.3.4.RELEASE
   - 5.4.0
   - 5.4.1
+  - 5.4.2
   - 4.0.0.M3
-  lastUpdated: 20201111203448
+  lastUpdated: 20201209220404
