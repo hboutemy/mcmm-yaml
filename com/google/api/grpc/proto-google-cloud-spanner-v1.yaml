@@ -3,8 +3,8 @@
 groupId: com.google.api.grpc
 artifactId: proto-google-cloud-spanner-v1
 versioning:
-  latest: 3.0.5
-  release: 3.0.5
+  latest: 3.1.1
+  release: 3.1.1
   versions:
   - 0.1.9
   - 0.1.10
@@ -139,4 +139,6 @@ versioning:
   - 3.0.3
   - 3.0.4
   - 3.0.5
-  lastUpdated: 20201204040450
+  - 3.1.0
+  - 3.1.1
+  lastUpdated: 20201210051340
