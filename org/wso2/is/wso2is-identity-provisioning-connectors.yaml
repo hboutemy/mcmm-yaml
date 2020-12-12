@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.is
 artifactId: wso2is-identity-provisioning-connectors
 versioning:
-  latest: 5.12.0-m2
-  release: 5.12.0-m2
+  latest: 5.12.0-m3
+  release: 5.12.0-m3
   versions:
   - 5.4.0-alpha4
   - 5.4.0-alpha5
@@ -146,4 +146,5 @@ versioning:
   - 5.11.0-m35
   - 5.12.0-m1
   - 5.12.0-m2
-  lastUpdated: 20201203050544
+  - 5.12.0-m3
+  lastUpdated: 20201211001808

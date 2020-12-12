@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.controller
 artifactId: netty-config-api
 versioning:
-  latest: 0.12.2
-  release: 0.12.2
+  latest: 0.12.3
+  release: 0.12.3
   versions:
   - 0.2.3
   - 0.2.5-Helium
@@ -59,4 +59,5 @@ versioning:
   - 0.12.0
   - 0.12.1
   - 0.12.2
-  lastUpdated: 20200821084333
+  - 0.12.3
+  lastUpdated: 20201211105030

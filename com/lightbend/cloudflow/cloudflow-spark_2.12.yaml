@@ -3,8 +3,8 @@
 groupId: com.lightbend.cloudflow
 artifactId: cloudflow-spark_2.12
 versioning:
-  latest: 2.0.19
-  release: 2.0.19
+  latest: 2.0.20
+  release: 2.0.20
   versions:
   - 0.0.0-NIGHTLY01122020
   - 0.0.0-NIGHTLY02122020
@@ -13,6 +13,7 @@ versioning:
   - 0.0.0-NIGHTLY07122020
   - 0.0.0-NIGHTLY08122020
   - 0.0.0-NIGHTLY09122020
+  - 0.0.0-NIGHTLY11122020
   - 0.0.0-NIGHTLY12112020
   - 0.0.0-NIGHTLY13112020
   - 0.0.0-NIGHTLY17112020
@@ -177,4 +178,6 @@ versioning:
   - 2.0.19-RC4
   - 2.0.19-RC5
   - 2.0.19
-  lastUpdated: 20201209010557
+  - 2.0.20-RC1
+  - 2.0.20
+  lastUpdated: 20201211142552

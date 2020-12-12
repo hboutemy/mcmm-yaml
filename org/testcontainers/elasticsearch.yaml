@@ -3,8 +3,8 @@
 groupId: org.testcontainers
 artifactId: elasticsearch
 versioning:
-  latest: 1.15.0
-  release: 1.15.0
+  latest: 1.15.1
+  release: 1.15.1
   versions:
   - 1.10.0
   - 1.10.1
@@ -33,4 +33,5 @@ versioning:
   - 1.15.0-rc1
   - 1.15.0-rc2
   - 1.15.0
-  lastUpdated: 20201106100739
+  - 1.15.1
+  lastUpdated: 20201211171327
