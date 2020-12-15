@@ -3,8 +3,8 @@
 groupId: com.google.guava
 artifactId: guava-bom
 versioning:
-  latest: 30.0-jre
-  release: 30.0-jre
+  latest: 30.1-jre
+  release: 30.1-jre
   versions:
   - 27.1-android
   - 27.1-jre
@@ -18,4 +18,6 @@ versioning:
   - 29.0-jre
   - 30.0-android
   - 30.0-jre
-  lastUpdated: 20201016213907
+  - 30.1-android
+  - 30.1-jre
+  lastUpdated: 20201214164953
