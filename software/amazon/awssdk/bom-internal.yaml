@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: bom-internal
 versioning:
-  latest: 2.15.47
-  release: 2.15.47
+  latest: 2.15.48
+  release: 2.15.48
   versions:
   - 2.4.4
   - 2.4.5
@@ -432,4 +432,5 @@ versioning:
   - 2.15.45
   - 2.15.46
   - 2.15.47
-  lastUpdated: 20201215203108
+  - 2.15.48
+  lastUpdated: 20201216200412

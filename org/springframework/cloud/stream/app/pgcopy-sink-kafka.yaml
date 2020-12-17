@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud.stream.app
 artifactId: pgcopy-sink-kafka
 versioning:
-  latest: 2.1.7.RELEASE
-  release: 2.1.7.RELEASE
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
@@ -17,4 +17,5 @@ versioning:
   - 2.1.5.RELEASE
   - 2.1.6.RELEASE
   - 2.1.7.RELEASE
-  lastUpdated: 20200930215030
+  - 3.0.0
+  lastUpdated: 20201216010915

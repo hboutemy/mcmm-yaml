@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-clustering-infinispan-client
 versioning:
-  latest: 22.0.0.Alpha1
-  release: 22.0.0.Alpha1
+  latest: 22.0.0.Beta1
+  release: 22.0.0.Beta1
   versions:
   - 17.0.0.Beta1
   - 17.0.0.Final
@@ -23,5 +23,7 @@ versioning:
   - 21.0.0.Beta1
   - 21.0.0.Final
   - 21.0.1.Final
+  - 21.0.2.Final
   - 22.0.0.Alpha1
-  lastUpdated: 20201119231740
+  - 22.0.0.Beta1
+  lastUpdated: 20201216212035

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld
 artifactId: weld-osgi-bundle
 versioning:
-  latest: 4.0.0.CR1
-  release: 4.0.0.CR1
+  latest: 4.0.0.Final
+  release: 4.0.0.Final
   versions:
   - 1.0.0-CR1
   - 1.0.0-CR1-SP1
@@ -189,4 +189,5 @@ versioning:
   - 4.0.0.Beta4
   - 4.0.0.Beta5
   - 4.0.0.CR1
-  lastUpdated: 20201204191447
+  - 4.0.0.Final
+  lastUpdated: 20201216150434
