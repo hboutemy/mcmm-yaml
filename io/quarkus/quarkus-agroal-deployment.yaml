@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-agroal-deployment
 versioning:
-  latest: 1.10.4.Final
-  release: 1.10.4.Final
+  latest: 1.11.0.Beta1
+  release: 1.11.0.Beta1
   versions:
   - 0.13.0
   - 0.13.1
@@ -87,4 +87,6 @@ versioning:
   - 1.10.2.Final
   - 1.10.3.Final
   - 1.10.4.Final
-  lastUpdated: 20201216105539
+  - 1.10.5.Final
+  - 1.11.0.Beta1
+  lastUpdated: 20201217122757
