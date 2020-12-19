@@ -3,8 +3,8 @@
 groupId: com.lightbend.cloudflow
 artifactId: cloudflow-spark-testkit_2.12
 versioning:
-  latest: 2.0.21-RC1
-  release: 2.0.21-RC1
+  latest: 2.0.21
+  release: 2.0.21
   versions:
   - 0.0.0-NIGHTLY01122020
   - 0.0.0-NIGHTLY02122020
@@ -23,6 +23,7 @@ versioning:
   - 0.0.0-NIGHTLY17112020
   - 0.0.0-NIGHTLY17122020
   - 0.0.0-NIGHTLY18112020
+  - 0.0.0-NIGHTLY18122020
   - 0.0.0-NIGHTLY19112020
   - 0.0.0-NIGHTLY20112020
   - 0.0.0-NIGHTLY21112020
@@ -186,4 +187,6 @@ versioning:
   - 2.0.20-RC1
   - 2.0.20
   - 2.0.21-RC1
-  lastUpdated: 20201217093942
+  - 2.0.21-RC2
+  - 2.0.21
+  lastUpdated: 20201218123248
