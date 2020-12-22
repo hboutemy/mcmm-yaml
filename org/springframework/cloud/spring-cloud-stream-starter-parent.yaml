@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud
 artifactId: spring-cloud-stream-starter-parent
 versioning:
-  latest: 3.0.3.RELEASE
-  release: 3.0.3.RELEASE
+  latest: 3.1.0
+  release: 3.1.0
   versions:
   - Fishtown.RELEASE
   - Fishtown.SR1
@@ -26,4 +26,5 @@ versioning:
   - Horsham.SR10
   - 3.0.2.RELEASE
   - 3.0.3.RELEASE
-  lastUpdated: 20201123141942
+  - 3.1.0
+  lastUpdated: 20201221133850

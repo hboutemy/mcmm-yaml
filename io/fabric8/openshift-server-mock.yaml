@@ -3,8 +3,8 @@
 groupId: io.fabric8
 artifactId: openshift-server-mock
 versioning:
-  latest: 5.0.0-alpha-3
-  release: 5.0.0-alpha-3
+  latest: 5.0.0-beta-1
+  release: 5.0.0-beta-1
   versions:
   - 1.0.81
   - 1.0.82
@@ -84,4 +84,5 @@ versioning:
   - 5.0.0-alpha-1
   - 5.0.0-alpha-2
   - 5.0.0-alpha-3
-  lastUpdated: 20201210154249
+  - 5.0.0-beta-1
+  lastUpdated: 20201221172312

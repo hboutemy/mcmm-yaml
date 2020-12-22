@@ -3,8 +3,8 @@
 groupId: io.fabric8
 artifactId: kubernetes-model-rbac
 versioning:
-  latest: 5.0.0-alpha-3
-  release: 5.0.0-alpha-3
+  latest: 5.0.0-beta-1
+  release: 5.0.0-beta-1
   versions:
   - 4.10.0
   - 4.10.1
@@ -17,4 +17,5 @@ versioning:
   - 5.0.0-alpha-1
   - 5.0.0-alpha-2
   - 5.0.0-alpha-3
-  lastUpdated: 20201210154223
+  - 5.0.0-beta-1
+  lastUpdated: 20201221172245
