@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud
 artifactId: spring-cloud-consul-dependencies
 versioning:
-  latest: 2.2.5.RELEASE
-  release: 2.2.5.RELEASE
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 1.0.0.RELEASE
   - 1.0.1.RELEASE
@@ -41,4 +41,5 @@ versioning:
   - 2.2.3.RELEASE
   - 2.2.4.RELEASE
   - 2.2.5.RELEASE
-  lastUpdated: 20201109151035
+  - 3.0.0
+  lastUpdated: 20201222150030
