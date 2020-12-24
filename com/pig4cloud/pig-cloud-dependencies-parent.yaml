@@ -3,8 +3,8 @@
 groupId: com.pig4cloud
 artifactId: pig-cloud-dependencies-parent
 versioning:
-  latest: 2.10.3
-  release: 2.10.3
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - Greenwich.RELEASE
   - Hoxton.RELEASE
@@ -20,4 +20,7 @@ versioning:
   - 2.10.1
   - 2.10.2
   - 2.10.3
-  lastUpdated: 20201126040947
+  - 2.11.RC
+  - 3.0.0.RC
+  - 3.0.0
+  lastUpdated: 20201223052249

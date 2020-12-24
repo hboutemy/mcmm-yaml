@@ -3,8 +3,8 @@
 groupId: com.microsoft.azure
 artifactId: applicationinsights-agent
 versioning:
-  latest: 3.0.1-BETA
-  release: 3.0.1-BETA
+  latest: 3.0.1-BETA.2
+  release: 3.0.1-BETA.2
   versions:
   - 2.4.1
   - 2.5.0-BETA
@@ -27,4 +27,5 @@ versioning:
   - 2.6.2
   - 3.0.0
   - 3.0.1-BETA
-  lastUpdated: 20201216192602
+  - 3.0.1-BETA.2
+  lastUpdated: 20201223021431
