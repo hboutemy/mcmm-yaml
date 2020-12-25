@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-logging-gelf-deployment
 versioning:
-  latest: 1.11.0.Beta1
-  release: 1.11.0.Beta1
+  latest: 1.11.0.Beta2
+  release: 1.11.0.Beta2
   versions:
   - 1.1.0.CR1
   - 1.1.0.Final
@@ -58,4 +58,5 @@ versioning:
   - 1.10.4.Final
   - 1.10.5.Final
   - 1.11.0.Beta1
-  lastUpdated: 20201217123243
+  - 1.11.0.Beta2
+  lastUpdated: 20201224162820

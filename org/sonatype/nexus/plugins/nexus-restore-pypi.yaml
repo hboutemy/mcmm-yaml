@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.plugins
 artifactId: nexus-restore-pypi
 versioning:
-  latest: 3.29.0-02
-  release: 3.29.0-02
+  latest: 3.29.1-01
+  release: 3.29.1-01
   versions:
   - 3.14.0-04
   - 3.15.0-01
@@ -55,4 +55,5 @@ versioning:
   - 3.28.0-01
   - 3.28.1-01
   - 3.29.0-02
-  lastUpdated: 20201204160008
+  - 3.29.1-01
+  lastUpdated: 20201224192353

@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-hibernate-orm-deployment
 versioning:
-  latest: 1.11.0.Beta1
-  release: 1.11.0.Beta1
+  latest: 1.11.0.Beta2
+  release: 1.11.0.Beta2
   versions:
   - 0.13.0
   - 0.13.1
@@ -89,4 +89,5 @@ versioning:
   - 1.10.4.Final
   - 1.10.5.Final
   - 1.11.0.Beta1
-  lastUpdated: 20201217123049
+  - 1.11.0.Beta2
+  lastUpdated: 20201224162643
