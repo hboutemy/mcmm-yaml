@@ -3,8 +3,10 @@
 groupId: com.highgo
 artifactId: HgdbJdbc
 versioning:
-  latest: 5.0.0.jre6
-  release: 5.0.0.jre6
+  latest: 5.0.0.jre8
+  release: 5.0.0.jre8
   versions:
   - 5.0.0.jre6
-  lastUpdated: 20200911090842
+  - 5.0.0.jre7
+  - 5.0.0.jre8
+  lastUpdated: 20201228090722
