@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.site.navigation.taglib
 versioning:
   latest: 5.1.2
-  release: 5.1.2
+  release: 5.1.3
   versions:
   - 1.0.0
   - 2.0.0
@@ -69,4 +68,7 @@ versioning:
   - 5.1.0
   - 5.1.1
   - 5.1.2
-  lastUpdated: 20200915212124
+  - 3.0.16
+  - 4.0.15
+  - 5.1.3
+  lastUpdated: 20201217063056

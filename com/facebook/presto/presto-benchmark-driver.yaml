@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-benchmark-driver
 versioning:
-  latest: 0.245
-  release: 0.245
+  latest: 0.245.1
+  release: 0.245.1
   versions:
   - 0.89
   - 0.90
@@ -197,4 +197,5 @@ versioning:
   - 0.244
   - 0.244.1
   - 0.245
-  lastUpdated: 20201216024132
+  - 0.245.1
+  lastUpdated: 20210105080125
