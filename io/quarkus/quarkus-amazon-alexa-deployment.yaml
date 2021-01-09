@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-amazon-alexa-deployment
 versioning:
-  latest: 1.11.0.Beta2
-  release: 1.11.0.Beta2
+  latest: 1.11.0.CR1
+  release: 1.11.0.CR1
   versions:
   - 1.4.0.CR1
   - 1.4.0.Final
@@ -44,4 +44,5 @@ versioning:
   - 1.10.5.Final
   - 1.11.0.Beta1
   - 1.11.0.Beta2
-  lastUpdated: 20201224162417
+  - 1.11.0.CR1
+  lastUpdated: 20210107071213

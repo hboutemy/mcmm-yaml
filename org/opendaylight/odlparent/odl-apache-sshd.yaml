@@ -3,8 +3,8 @@
 groupId: org.opendaylight.odlparent
 artifactId: odl-apache-sshd
 versioning:
-  latest: 7.0.7
-  release: 7.0.7
+  latest: 7.0.8
+  release: 7.0.8
   versions:
   - 3.1.4
   - 3.1.5
@@ -53,6 +53,7 @@ versioning:
   - 6.0.10
   - 6.0.11
   - 6.0.12
+  - 6.0.13
   - 7.0.0
   - 7.0.1
   - 7.0.2
@@ -61,4 +62,5 @@ versioning:
   - 7.0.5
   - 7.0.6
   - 7.0.7
-  lastUpdated: 20201109165124
+  - 7.0.8
+  lastUpdated: 20210107132352

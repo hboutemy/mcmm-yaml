@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: cloudfront
 versioning:
-  latest: 2.15.60
-  release: 2.15.60
+  latest: 2.15.61
+  release: 2.15.61
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -478,4 +478,5 @@ versioning:
   - 2.15.58
   - 2.15.59
   - 2.15.60
-  lastUpdated: 20210106200951
+  - 2.15.61
+  lastUpdated: 20210107200845

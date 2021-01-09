@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-api
 versioning:
-  latest: 1.4.0.CR1
-  release: 1.4.0.CR1
+  latest: 1.4.0.Final
+  release: 1.4.0.Final
   versions:
   - 1.1.0.CR1
   - 1.1.0.Final
@@ -31,4 +31,5 @@ versioning:
   - 1.4.0.Alpha2
   - 1.4.0.Beta1
   - 1.4.0.CR1
-  lastUpdated: 20201216194416
+  - 1.4.0.Final
+  lastUpdated: 20210107091028
