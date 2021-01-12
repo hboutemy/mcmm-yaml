@@ -3,8 +3,8 @@
 groupId: org.eclipse.che
 artifactId: assembly-root-war
 versioning:
-  latest: 7.24.0
-  release: 7.24.0
+  latest: 7.24.1
+  release: 7.24.1
   versions:
   - 7.0.0-rc-4.0
   - 7.0.0
@@ -65,4 +65,5 @@ versioning:
   - 7.23.1
   - 7.23.2
   - 7.24.0
-  lastUpdated: 20210106090621
+  - 7.24.1
+  lastUpdated: 20210111110741

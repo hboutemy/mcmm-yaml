@@ -3,8 +3,8 @@
 groupId: org.scorexfoundation
 artifactId: sigma-state_2.11
 versioning:
-  latest: 4.0
-  release: 4.0
+  latest: 4.0.0-java8
+  release: 4.0.0-java8
   versions:
   - 3.1.1-RC1
   - 3.1.1
@@ -16,5 +16,7 @@ versioning:
   - 3.3.3
   - 3.3.4-RC4
   - 4.0
+  - 4.0.0-J8
+  - 4.0.0-java8
   - 4.0.0
-  lastUpdated: 20210105140127
+  lastUpdated: 20210111182942
