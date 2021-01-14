@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.windup.decompiler
 artifactId: decompiler-procyon
 versioning:
-  latest: 5.1.0.Final
-  release: 5.1.0.Final
+  latest: 5.1.1.Alpha1
+  release: 5.1.1.Alpha1
   versions:
   - 2.0.0.Beta1
   - 2.0.0.Beta2
@@ -64,4 +64,5 @@ versioning:
   - 5.1.0.Alpha2
   - 5.1.0.Beta1
   - 5.1.0.Final
-  lastUpdated: 20201201095840
+  - 5.1.1.Alpha1
+  lastUpdated: 20210113083847

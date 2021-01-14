@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-cmp
 versioning:
-  latest: 22.0.0.Beta1
-  release: 22.0.0.Beta1
+  latest: 22.0.0.Final
+  release: 22.0.0.Final
   versions:
   - 8.0.0.Alpha1
   - 8.0.0.Alpha2
@@ -80,4 +80,5 @@ versioning:
   - 21.0.2.Final
   - 22.0.0.Alpha1
   - 22.0.0.Beta1
-  lastUpdated: 20201216212045
+  - 22.0.0.Final
+  lastUpdated: 20210113150004

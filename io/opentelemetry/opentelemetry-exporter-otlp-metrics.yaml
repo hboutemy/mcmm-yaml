@@ -3,9 +3,11 @@
 groupId: io.opentelemetry
 artifactId: opentelemetry-exporter-otlp-metrics
 versioning:
-  latest: 0.13.1-alpha
-  release: 0.13.1-alpha
+  latest: 0.14.1-alpha
+  release: 0.14.1-alpha
   versions:
   - 0.13.0-alpha
   - 0.13.1-alpha
-  lastUpdated: 20201217223911
+  - 0.14.0-alpha
+  - 0.14.1-alpha
+  lastUpdated: 20210113190500

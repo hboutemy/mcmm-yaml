@@ -3,12 +3,14 @@
 groupId: io.opentelemetry
 artifactId: opentelemetry-opencensus-shim
 versioning:
-  latest: 0.13.1
-  release: 0.13.1
+  latest: 0.14.1-alpha
+  release: 0.14.1-alpha
   versions:
   - 0.10.0
   - 0.11.0
   - 0.12.0
   - 0.13.0
   - 0.13.1
-  lastUpdated: 20201217223918
+  - 0.14.0-alpha
+  - 0.14.1-alpha
+  lastUpdated: 20210113190508

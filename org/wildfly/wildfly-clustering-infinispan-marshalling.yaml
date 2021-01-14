@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-clustering-infinispan-marshalling
 versioning:
-  latest: 22.0.0.Beta1
-  release: 22.0.0.Beta1
+  latest: 22.0.0.Final
+  release: 22.0.0.Final
   versions:
   - 20.0.0.Beta1
   - 20.0.0.Final
@@ -15,4 +15,5 @@ versioning:
   - 21.0.2.Final
   - 22.0.0.Alpha1
   - 22.0.0.Beta1
-  lastUpdated: 20201216212036
+  - 22.0.0.Final
+  lastUpdated: 20210113145911

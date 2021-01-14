@@ -3,8 +3,8 @@
 groupId: org.springframework.amqp
 artifactId: spring-rabbit-junit
 versioning:
-  latest: 2.3.2
-  release: 2.3.2
+  latest: 2.3.4
+  release: 2.3.4
   versions:
   - 1.7.0.RELEASE
   - 1.7.1.RELEASE
@@ -55,6 +55,7 @@ versioning:
   - 2.1.15.RELEASE
   - 2.1.16.RELEASE
   - 2.1.17.RELEASE
+  - 2.1.18.RELEASE
   - 2.2.0.RELEASE
   - 2.2.1.RELEASE
   - 2.2.2.RELEASE
@@ -69,7 +70,10 @@ versioning:
   - 2.2.11.RELEASE
   - 2.2.12.RELEASE
   - 2.2.13.RELEASE
+  - 2.2.14.RELEASE
   - 2.3.0
   - 2.3.1
   - 2.3.2
-  lastUpdated: 20201209180428
+  - 2.3.3
+  - 2.3.4
+  lastUpdated: 20210113193213

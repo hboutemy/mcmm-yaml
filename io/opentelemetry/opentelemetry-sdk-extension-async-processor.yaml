@@ -3,8 +3,8 @@
 groupId: io.opentelemetry
 artifactId: opentelemetry-sdk-extension-async-processor
 versioning:
-  latest: 0.13.1
-  release: 0.13.1
+  latest: 0.14.1-alpha
+  release: 0.14.1-alpha
   versions:
   - 0.6.0
   - 0.7.0
@@ -16,4 +16,6 @@ versioning:
   - 0.12.0
   - 0.13.0
   - 0.13.1
-  lastUpdated: 20201217223924
+  - 0.14.0-alpha
+  - 0.14.1-alpha
+  lastUpdated: 20210113190513

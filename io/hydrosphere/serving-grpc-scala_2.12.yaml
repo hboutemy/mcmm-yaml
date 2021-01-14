@@ -3,8 +3,8 @@
 groupId: io.hydrosphere
 artifactId: serving-grpc-scala_2.12
 versioning:
-  latest: 2.4.0
-  release: 2.4.0
+  latest: 3.0.0-dev1
+  release: 3.0.0-dev1
   versions:
   - dev
   - 0.0.10
@@ -65,4 +65,5 @@ versioning:
   - 2.4.0-rc1
   - 2.4.0-rc2
   - 2.4.0
-  lastUpdated: 20200925081329
+  - 3.0.0-dev1
+  lastUpdated: 20210113122322

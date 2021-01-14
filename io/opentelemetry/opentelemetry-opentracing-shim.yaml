@@ -3,8 +3,8 @@
 groupId: io.opentelemetry
 artifactId: opentelemetry-opentracing-shim
 versioning:
-  latest: 0.13.1
-  release: 0.13.1
+  latest: 0.14.1-alpha
+  release: 0.14.1-alpha
   versions:
   - 0.2.0
   - 0.2.1
@@ -23,4 +23,6 @@ versioning:
   - 0.12.0
   - 0.13.0
   - 0.13.1
-  lastUpdated: 20201217223919
+  - 0.14.0-alpha
+  - 0.14.1-alpha
+  lastUpdated: 20210113190509

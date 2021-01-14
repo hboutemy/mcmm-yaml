@@ -3,11 +3,13 @@
 groupId: org.apache.qpid
 artifactId: qpid-broker-plugins-prometheus-exporter
 versioning:
-  latest: 8.0.2
-  release: 8.0.2
+  latest: 8.0.3
+  release: 8.0.3
   versions:
   - 7.1.9
   - 7.1.10
+  - 7.1.11
   - 8.0.1
   - 8.0.2
-  lastUpdated: 20201021212113
+  - 8.0.3
+  lastUpdated: 20210113005050
