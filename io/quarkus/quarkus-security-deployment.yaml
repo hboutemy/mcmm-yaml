@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-security-deployment
 versioning:
-  latest: 1.11.0.CR1
-  release: 1.11.0.CR1
+  latest: 1.11.0.Final
+  release: 1.11.0.Final
   versions:
   - 0.24.0
   - 0.25.0
@@ -71,4 +71,5 @@ versioning:
   - 1.11.0.Beta1
   - 1.11.0.Beta2
   - 1.11.0.CR1
-  lastUpdated: 20210107072020
+  - 1.11.0.Final
+  lastUpdated: 20210114072020

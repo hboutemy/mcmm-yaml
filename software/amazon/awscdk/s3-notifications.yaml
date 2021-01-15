@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: s3-notifications
 versioning:
-  latest: 1.84.0
-  release: 1.84.0
+  latest: 1.85.0
+  release: 1.85.0
   versions:
   - 0.8.2
   - 0.9.0
@@ -154,4 +154,5 @@ versioning:
   - 1.82.0
   - 1.83.0
   - 1.84.0
-  lastUpdated: 20210112222626
+  - 1.85.0
+  lastUpdated: 20210114222334

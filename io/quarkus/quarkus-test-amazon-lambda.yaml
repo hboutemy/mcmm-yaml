@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-test-amazon-lambda
 versioning:
-  latest: 1.11.0.CR1
-  release: 1.11.0.CR1
+  latest: 1.11.0.Final
+  release: 1.11.0.Final
   versions:
   - 0.14.0
   - 0.15.0
@@ -87,4 +87,5 @@ versioning:
   - 1.11.0.Beta1
   - 1.11.0.Beta2
   - 1.11.0.CR1
-  lastUpdated: 20210107072141
+  - 1.11.0.Final
+  lastUpdated: 20210114072156

@@ -3,8 +3,8 @@
 groupId: io.soabase.record-builder
 artifactId: record-builder
 versioning:
-  latest: 1.14.ea
-  release: 1.14.ea
+  latest: 1.15.jdk14
+  release: 1.15.jdk14
   versions:
   - 1.0.ea
   - 1.1.ea
@@ -21,4 +21,5 @@ versioning:
   - 1.12.ea
   - 1.13.ea
   - 1.14.ea
-  lastUpdated: 20201212003117
+  - 1.15.jdk14
+  lastUpdated: 20210114160616
