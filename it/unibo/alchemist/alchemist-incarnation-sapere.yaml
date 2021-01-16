@@ -1,28 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: it.unibo.alchemist
 artifactId: alchemist-incarnation-sapere
 versioning:
   latest: 10.0.0-dev03+5f5df154c
   release: 10.0.0-dev03+5f5df154c
   versions:
-  - 9.3.0-dev22v+26e4b28e4
-  - 9.3.0-dev22w+761765904
-  - 9.3.0-dev23b+8a36b0aec
-  - 9.3.0-dev23c+8995aab81
-  - 9.3.0-dev23d+0478a1897
-  - 9.3.0-dev23i+d119d4b77
-  - 9.3.0-dev23j+ac48dcced
-  - 9.3.0-dev23j+e89e58fef
-  - 9.3.0-dev23k+16f7db0d8
-  - 9.3.0-dev23l+da66b3667
-  - 9.3.0-dev23m+8c22de417
-  - 9.3.0-dev236+a599e4383
-  - 9.3.0-dev237+9996a70f3
-  - 9.3.0-dev238+bc18dca17
-  - 10.0.0
-  - 10.0.0-dev01+5296a854e
-  - 10.0.0-dev03+5f5df154c
   - 0.0.0
   - 0.0.1
   - 0.0.2
@@ -54,13 +38,13 @@ versioning:
   - 7.0.0
   - 7.0.1
   - 7.0.2
+  - 8.0.0-beta-b76701c
+  - 8.0.0-beta-j8+002.6f
   - 8.0.0
   - 8.0.0-beta+0q8.31ea0
   - 8.0.0-beta+0qh.c614c
   - 8.0.0-beta+0sb.6f040
   - 8.0.0-beta+0t3.1fcab
-  - 8.0.0-beta-b76701c
-  - 8.0.0-beta-j8+002.6f
   - 8.0.0-j8
   - 8.0.1
   - 8.0.1-j8
@@ -83,27 +67,41 @@ versioning:
   - 9.2.1-dev2a+66d8306e
   - 9.2.1-dev2c+2424904e
   - 9.3.0
-  - 9.3.0-dev197+283eea26e
-  - 9.3.0-dev198+b6c1cfaa1
   - 9.3.0-dev1bc+fd2c3a1c0
   - 9.3.0-dev1bn+1fc9a8ebd
   - 9.3.0-dev1z1+0f186c167
-  - 9.3.0-dev1z1+6808faab9
-  - 9.3.0-dev1z1+782c1887e
   - 9.3.0-dev1z1+90fa840e0
+  - 9.3.0-dev1z1+782c1887e
+  - 9.3.0-dev1z1+6808faab9
+  - 9.3.0-dev7n+933c849e
+  - 9.3.0-dev7o+98eac70a
+  - 9.3.0-dev22v+26e4b28e4
+  - 9.3.0-dev22w+761765904
+  - 9.3.0-dev23b+8a36b0aec
+  - 9.3.0-dev23c+8995aab81
+  - 9.3.0-dev23d+0478a1897
+  - 9.3.0-dev23i+d119d4b77
+  - 9.3.0-dev23j+ac48dcced
+  - 9.3.0-dev23j+e89e58fef
+  - 9.3.0-dev23k+16f7db0d8
+  - 9.3.0-dev23l+da66b3667
+  - 9.3.0-dev23m+8c22de417
+  - 9.3.0-dev197+283eea26e
+  - 9.3.0-dev198+b6c1cfaa1
   - 9.3.0-dev215+d1843ee73
   - 9.3.0-dev215+f6af96c91
   - 9.3.0-dev216+1c2ff1416
-  - 9.3.0-dev216+413552bd2
   - 9.3.0-dev216+5d2454b4e
+  - 9.3.0-dev216+413552bd2
   - 9.3.0-dev216+fe036e454
-  - 9.3.0-dev217+1426d14e0
   - 9.3.0-dev217+890bb540f
+  - 9.3.0-dev217+1426d14e0
   - 9.3.0-dev217+f771e9d22
   - 9.3.0-dev218+9228c97f6
   - 9.3.0-dev218+bb50ca6a3
-  - 9.3.0-dev7n+933c849e
-  - 9.3.0-dev7o+98eac70a
+  - 9.3.0-dev236+a599e4383
+  - 9.3.0-dev237+9996a70f3
+  - 9.3.0-dev238+bc18dca17
   - 9.3.0-deveh+c334ca936
   - 9.3.0-devej+a0050f05c
   - 9.3.0-devz9+f5bf339a9
@@ -119,4 +117,7 @@ versioning:
   - 9.3.0-devzg+8bb2d40dd
   - 9.3.0-devzh+01e204054
   - 9.3.0-devzi+8b1358f87
-  lastUpdated: 20210114230322
+  - 10.0.0
+  - 10.0.0-dev01+5296a854e
+  - 10.0.0-dev03+5f5df154c
+  lastUpdated: 20210115130325

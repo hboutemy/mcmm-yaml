@@ -3,8 +3,8 @@
 groupId: org.eclipse.hono
 artifactId: hono-adapter-amqp-vertx
 versioning:
-  latest: 1.5.0
-  release: 1.5.0
+  latest: 1.5.1
+  release: 1.5.1
   versions:
   - 0.7
   - 0.8-M1
@@ -46,4 +46,5 @@ versioning:
   - 1.4.3
   - 1.4.4
   - 1.5.0
-  lastUpdated: 20201216190613
+  - 1.5.1
+  lastUpdated: 20210115231549

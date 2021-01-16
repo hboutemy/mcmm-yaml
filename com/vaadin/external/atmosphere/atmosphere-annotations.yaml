@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.vaadin.external.atmosphere
 artifactId: atmosphere-annotations
 versioning:
-  latest: 2.4.30.vaadin1
-  release: 2.4.30.vaadin1
+  latest: 2.4.30.vaadin2
+  release: 2.4.30.vaadin2
   versions:
   - 1.0.14-vaadin1
   - 1.0.14.vaadin2
@@ -51,5 +51,6 @@ versioning:
   - 2.4.24.vaadin1
   - 2.4.30.slf4jvaadin1
   - 2.4.30.vaadin1
+  - 2.4.30.vaadin2
   - 1.0.14-vaadin2
-  lastUpdated: 20190531105922
+  lastUpdated: 20210115131338
