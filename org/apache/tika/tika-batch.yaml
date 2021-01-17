@@ -3,8 +3,8 @@
 groupId: org.apache.tika
 artifactId: tika-batch
 versioning:
-  latest: 1.25
-  release: 1.25
+  latest: 2.0.0-ALPHA
+  release: 2.0.0-ALPHA
   versions:
   - 1.8
   - 1.9
@@ -26,4 +26,5 @@ versioning:
   - 1.24
   - 1.24.1
   - 1.25
-  lastUpdated: 20201130142816
+  - 2.0.0-ALPHA
+  lastUpdated: 20210116160851
