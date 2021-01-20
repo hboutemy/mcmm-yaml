@@ -3,10 +3,12 @@
 groupId: org.graalvm.nativeimage
 artifactId: jvmti-agent-base
 versioning:
-  latest: 20.3.0
-  release: 20.3.0
+  latest: 21.0.0
+  release: 21.0.0
   versions:
   - 20.1.0
   - 20.2.0
   - 20.3.0
-  lastUpdated: 20201117175052
+  - 20.3.1
+  - 21.0.0
+  lastUpdated: 20210119202529

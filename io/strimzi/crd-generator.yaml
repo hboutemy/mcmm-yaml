@@ -3,8 +3,8 @@
 groupId: io.strimzi
 artifactId: crd-generator
 versioning:
-  latest: 0.21.0
-  release: 0.21.0
+  latest: 0.21.1
+  release: 0.21.1
   versions:
   - 0.9.0
   - 0.10.0
@@ -28,4 +28,5 @@ versioning:
   - 0.20.0
   - 0.20.1
   - 0.21.0
-  lastUpdated: 20210115222043
+  - 0.21.1
+  lastUpdated: 20210119130812

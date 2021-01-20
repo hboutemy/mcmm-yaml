@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.windup.config
 artifactId: windup-config-tests
 versioning:
-  latest: 5.1.1.Alpha1
-  release: 5.1.1.Alpha1
+  latest: 5.1.1.Final
+  release: 5.1.1.Final
   versions:
   - 2.0.0.Beta1
   - 2.0.0.Beta2
@@ -65,4 +65,5 @@ versioning:
   - 5.1.0.Beta1
   - 5.1.0.Final
   - 5.1.1.Alpha1
-  lastUpdated: 20210113083839
+  - 5.1.1.Final
+  lastUpdated: 20210119105303

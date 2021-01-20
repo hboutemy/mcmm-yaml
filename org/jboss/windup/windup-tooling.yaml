@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.windup
 artifactId: windup-tooling
 versioning:
-  latest: 5.1.1.Alpha1
-  release: 5.1.1.Alpha1
+  latest: 5.1.1.Final
+  release: 5.1.1.Final
   versions:
   - 2.3.0.Final
   - 2.4.0.CR1
@@ -53,4 +53,5 @@ versioning:
   - 5.1.0.Beta1
   - 5.1.0.Final
   - 5.1.1.Alpha1
-  lastUpdated: 20210113084005
+  - 5.1.1.Final
+  lastUpdated: 20210119105436
