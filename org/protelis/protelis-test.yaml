@@ -1,17 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.protelis
 artifactId: protelis-test
 versioning:
   latest: 14.1.5-dev01+f9ad5293
   release: 14.1.5-dev01+f9ad5293
   versions:
-  - 14.1.3-dev03+a1eacd5b
-  - 14.1.4
-  - 14.1.4-dev01+909683d4
-  - 14.1.4-dev02+d26e13e3
-  - 14.1.5
-  - 14.1.5-dev01+f9ad5293
   - 10.0.0
   - 10.1.0
   - 10.1.1
@@ -66,4 +61,10 @@ versioning:
   - 14.1.2-dev02+e9c98b7b
   - 14.1.3
   - 14.1.3-dev02+cff33bf9
-  lastUpdated: 20210113115521
+  - 14.1.3-dev03+a1eacd5b
+  - 14.1.4
+  - 14.1.4-dev01+909683d4
+  - 14.1.4-dev02+d26e13e3
+  - 14.1.5
+  - 14.1.5-dev01+f9ad5293
+  lastUpdated: 20210120152900
