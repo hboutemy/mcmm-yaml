@@ -3,8 +3,8 @@
 groupId: com.liferay
 artifactId: com.liferay.organizations.api
 versioning:
-  latest: 5.0.9
-  release: 5.0.11
+  latest: 5.0.13
+  release: 5.0.15
   versions:
   - 1.0.0
   - 1.0.1
@@ -23,6 +23,8 @@ versioning:
   - 3.0.2
   - 3.0.3
   - 3.0.4
+  - 3.0.5
+  - 3.0.6
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -30,6 +32,8 @@ versioning:
   - 4.0.4
   - 4.0.5
   - 4.0.6
+  - 4.0.7
+  - 4.0.8
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -41,11 +45,8 @@ versioning:
   - 5.0.8
   - 5.0.9
   - 5.0.10
-  - 4.0.7
-  - 3.0.5
-  - 4.0.8
   - 5.0.11
-  - 3.0.6
   - 5.0.12
   - 5.0.13
-  lastUpdated: 20201022065403
+  - 5.0.15
+  lastUpdated: 20210121132208
