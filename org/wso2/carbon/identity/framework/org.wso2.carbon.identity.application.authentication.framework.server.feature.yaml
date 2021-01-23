@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.identity.application.authentication.framework.server.feature
 versioning:
-  latest: 5.19.0
-  release: 5.19.0
+  latest: 5.19.1
+  release: 5.19.1
   versions:
   - 5.5.0
   - 5.5.1
@@ -1574,4 +1574,5 @@ versioning:
   - 5.18.233
   - 5.18.234
   - 5.19.0
-  lastUpdated: 20210121232221
+  - 5.19.1
+  lastUpdated: 20210122055810
