@@ -3,8 +3,8 @@
 groupId: org.wso2.identity.apps
 artifactId: myaccount
 versioning:
-  latest: 1.1.13
-  release: 1.1.13
+  latest: 1.1.15
+  release: 1.1.15
   versions:
   - 0.0.55
   - 0.0.56
@@ -85,6 +85,10 @@ versioning:
   - 0.0.132
   - 0.0.133
   - 0.0.134
+  - 0.0.135
+  - 0.0.136
+  - 0.0.137
+  - 0.0.138
   - 1.0.381
   - 1.0.382
   - 1.0.383
@@ -377,4 +381,6 @@ versioning:
   - 1.1.11
   - 1.1.12
   - 1.1.13
-  lastUpdated: 20210122194632
+  - 1.1.14
+  - 1.1.15
+  lastUpdated: 20210124183205
