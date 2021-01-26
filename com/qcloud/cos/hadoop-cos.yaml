@@ -3,8 +3,8 @@
 groupId: com.qcloud.cos
 artifactId: hadoop-cos
 versioning:
-  latest: 3.1.0-5.8.7
-  release: 3.1.0-5.8.7
+  latest: 3.1.0-5.9.1
+  release: 3.1.0-5.9.1
   versions:
   - 2.6.5-5.8.5
   - 2.6.5-5.8.7
@@ -14,4 +14,6 @@ versioning:
   - 2.8.5-5.8.7
   - 3.1.0-5.8.5
   - 3.1.0-5.8.7
-  lastUpdated: 20201114092457
+  - 3.1.0-5.9.1
+  - 2.8.5-5.9.1
+  lastUpdated: 20210125164835
