@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.test-framework.maven
 artifactId: project
 versioning:
-  latest: 3.0.0
-  release: 3.0.0
+  latest: 3.0.1
+  release: 3.0.1
   versions:
   - 2.22
   - 2.22.1
@@ -43,4 +43,5 @@ versioning:
   - 3.0.0-M6
   - 3.0.0-RC2
   - 3.0.0
-  lastUpdated: 20201218130618
+  - 3.0.1
+  lastUpdated: 20210127084517

@@ -3,8 +3,8 @@
 groupId: org.graylog
 artifactId: graylog-parent
 versioning:
-  latest: 4.0.1
-  release: 4.0.1
+  latest: 4.0.2
+  release: 4.0.2
   versions:
   - 2.2.0-alpha.1
   - 2.2.0-alpha.2
@@ -92,8 +92,10 @@ versioning:
   - 3.3.7
   - 3.3.8
   - 3.3.9
+  - 3.3.10
   - 4.0.0-rc.1
   - 4.0.0-rc.2
   - 4.0.0
   - 4.0.1
-  lastUpdated: 20201125185805
+  - 4.0.2
+  lastUpdated: 20210127185213

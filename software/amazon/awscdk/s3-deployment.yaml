@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: s3-deployment
 versioning:
-  latest: 1.86.0
-  release: 1.86.0
+  latest: 1.87.0
+  release: 1.87.0
   versions:
   - 0.13.0
   - 0.14.0
@@ -149,4 +149,5 @@ versioning:
   - 1.84.0
   - 1.85.0
   - 1.86.0
-  lastUpdated: 20210121150815
+  - 1.87.0
+  lastUpdated: 20210127123846
