@@ -3,8 +3,8 @@
 groupId: com.hpe.adm.octane.ideplugins
 artifactId: octane-plugin-common
 versioning:
-  latest: 1.6.6
-  release: 1.6.6
+  latest: 1.6.6-signing-test
+  release: 1.6.6-signing-test
   versions:
   - 1.4.1
   - 1.4.3
@@ -23,4 +23,5 @@ versioning:
   - 1.6.4
   - 1.6.5
   - 1.6.6
-  lastUpdated: 20210114152700
+  - 1.6.6-signing-test
+  lastUpdated: 20210128124125

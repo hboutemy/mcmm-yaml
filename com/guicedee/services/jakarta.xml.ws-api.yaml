@@ -3,8 +3,8 @@
 groupId: com.guicedee.services
 artifactId: jakarta.xml.ws-api
 versioning:
-  latest: 1.1.0.7-jre15
-  release: 1.1.0.7-jre15
+  latest: 1.1.0.8-SNAPSHOT-jre14
+  release: 1.1.0.8-SNAPSHOT-jre14
   versions:
   - 1.0.20.0
   - 1.0.20.0-jre8
@@ -41,4 +41,5 @@ versioning:
   - 1.1.0.7-jre8
   - 1.1.0.7-jre14
   - 1.1.0.7-jre15
-  lastUpdated: 20210101022353
+  - 1.1.0.8-SNAPSHOT-jre14
+  lastUpdated: 20210128000152

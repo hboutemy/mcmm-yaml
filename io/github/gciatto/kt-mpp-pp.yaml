@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: io.github.gciatto
 artifactId: kt-mpp-pp
 versioning:
-  latest: 0.2.9
-  release: 0.2.9
+  latest: 0.3.1
+  release: 0.3.1
   versions:
   - 0.1.1
   - 0.1.2
@@ -26,4 +27,5 @@ versioning:
   - 0.2.8
   - 0.2.9
   - 0.3.0
-  lastUpdated: 20201207142116
+  - 0.3.1
+  lastUpdated: 20210128095242

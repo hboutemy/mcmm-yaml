@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.notification.api
 versioning:
   latest: 6.0.5
-  release: 6.0.5
+  release: 6.0.6
   versions:
   - 1.0.0
   - 1.0.1
@@ -39,4 +38,5 @@ versioning:
   - 6.0.3
   - 6.0.4
   - 6.0.5
-  lastUpdated: 20200915161638
+  - 6.0.6
+  lastUpdated: 20210128144454
