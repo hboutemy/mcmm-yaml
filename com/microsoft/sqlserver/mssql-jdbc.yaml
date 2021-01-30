@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.microsoft.sqlserver
 artifactId: mssql-jdbc
 versioning:
-  latest: 9.1.1.jre15-preview
-  release: 9.1.1.jre15-preview
+  latest: 9.2.0.jre15
+  release: 9.2.0.jre15
   versions:
   - 6.1.0.jre7
   - 6.1.0.jre8
@@ -118,7 +118,10 @@ versioning:
   - 9.1.1.jre8-preview
   - 9.1.1.jre11-preview
   - 9.1.1.jre15-preview
+  - 9.2.0.jre8
+  - 9.2.0.jre11
+  - 9.2.0.jre15
   - 8.1.1.jre11
   - 8.1.1.jre13
   - 8.1.1.jre8
-  lastUpdated: 20201203043032
+  lastUpdated: 20210129144648

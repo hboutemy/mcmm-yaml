@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.identity.application.authentication.framework.stub
 versioning:
-  latest: 5.19.6
-  release: 5.19.6
+  latest: 5.19.9
+  release: 5.19.9
   versions:
   - 5.11.198
   - 5.11.199
@@ -958,4 +958,7 @@ versioning:
   - 5.19.4
   - 5.19.5
   - 5.19.6
-  lastUpdated: 20210127153311
+  - 5.19.7
+  - 5.19.8
+  - 5.19.9
+  lastUpdated: 20210129153922
