@@ -3,8 +3,8 @@
 groupId: com.squareup.okhttp3
 artifactId: okhttp-bom
 versioning:
-  latest: 4.10.0-RC1
-  release: 4.10.0-RC1
+  latest: 5.0.0-alpha.2
+  release: 5.0.0-alpha.2
   versions:
   - 3.12.0
   - 3.12.1
@@ -19,6 +19,7 @@ versioning:
   - 3.12.10
   - 3.12.11
   - 3.12.12
+  - 3.12.13
   - 4.4.0
   - 4.4.1
   - 4.5.0-RC1
@@ -30,5 +31,8 @@ versioning:
   - 4.8.0
   - 4.8.1
   - 4.9.0
+  - 4.9.1
   - 4.10.0-RC1
-  lastUpdated: 20201007032757
+  - 5.0.0-alpha.1
+  - 5.0.0-alpha.2
+  lastUpdated: 20210130185606

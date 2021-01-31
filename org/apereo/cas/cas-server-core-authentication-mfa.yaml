@@ -3,8 +3,8 @@
 groupId: org.apereo.cas
 artifactId: cas-server-core-authentication-mfa
 versioning:
-  latest: 6.3.0
-  release: 6.3.0
+  latest: 6.4.0-RC1
+  release: 6.4.0-RC1
   versions:
   - 5.2.0
   - 5.2.1
@@ -89,4 +89,6 @@ versioning:
   - 6.3.0-RC4
   - 6.3.0-RC5
   - 6.3.0
-  lastUpdated: 20201231140114
+  - 6.3.1
+  - 6.4.0-RC1
+  lastUpdated: 20210130152258

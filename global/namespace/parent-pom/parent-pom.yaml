@@ -3,8 +3,8 @@
 groupId: global.namespace.parent-pom
 artifactId: parent-pom
 versioning:
-  latest: 12
-  release: 12
+  latest: 14
+  release: 14
   versions:
   - 2
   - 3
@@ -17,4 +17,6 @@ versioning:
   - 10
   - 11
   - 12
-  lastUpdated: 20210116104034
+  - 13
+  - 14
+  lastUpdated: 20210130154229

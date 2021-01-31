@@ -3,8 +3,8 @@
 groupId: org.apereo.cas
 artifactId: cas-server-support-ws-idp
 versioning:
-  latest: 6.3.0
-  release: 6.3.0
+  latest: 6.4.0-RC1
+  release: 6.4.0-RC1
   versions:
   - 5.1.0-RC3
   - 5.1.0-RC4
@@ -105,4 +105,6 @@ versioning:
   - 6.3.0-RC4
   - 6.3.0-RC5
   - 6.3.0
-  lastUpdated: 20201231141355
+  - 6.3.1
+  - 6.4.0-RC1
+  lastUpdated: 20210130153725
