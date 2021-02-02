@@ -3,8 +3,8 @@
 groupId: com.nepxion
 artifactId: discovery-common-nacos
 versioning:
-  latest: 6.5.0
-  release: 6.5.0
+  latest: 6.6.0
+  release: 6.6.0
   versions:
   - Edgware.1.0.0
   - Finchley.1.0.0
@@ -138,6 +138,7 @@ versioning:
   - 3.20.2
   - 3.20.3
   - 3.21.0
+  - 3.22.0
   - 4.1.7
   - 4.1.8
   - 4.1.9
@@ -318,4 +319,5 @@ versioning:
   - 6.3.2
   - 6.3.3
   - 6.5.0
-  lastUpdated: 20210101015523
+  - 6.6.0
+  lastUpdated: 20210201035246
