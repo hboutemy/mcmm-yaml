@@ -3,8 +3,8 @@
 groupId: io.zeebe
 artifactId: zeebe-protocol-impl
 versioning:
-  latest: 0.26.0
-  release: 0.26.0
+  latest: 1.0.0-alpha1
+  release: 1.0.0-alpha1
   versions:
   - 0.17.0
   - 0.18.0
@@ -63,4 +63,5 @@ versioning:
   - 0.26.0-alpha2
   - 0.26.0-rc1
   - 0.26.0
-  lastUpdated: 20210107063116
+  - 1.0.0-alpha1
+  lastUpdated: 20210202145051

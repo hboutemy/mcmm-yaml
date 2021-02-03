@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.danilopianini
 artifactId: publish-on-central
 versioning:
-  latest: 0.4.0-dev05-057388d
-  release: 0.4.0-dev05-057388d
+  latest: 0.4.2
+  release: 0.4.2
   versions:
   - 0.1.2-dev0t+cd469de
   - 0.2.3
@@ -14,6 +15,7 @@ versioning:
   - 0.3.0-dev0y-7354c80
   - 0.3.0-dev0z-a3d13d0
   - 0.4.0
+  - 0.4.0-dev0j-c377852
   - 0.4.0-dev01-c7fc5c9
   - 0.4.0-dev01-c97bafa
   - 0.4.0-dev01-5c4d45d
@@ -25,13 +27,13 @@ versioning:
   - 0.4.0-dev04-9ca8353
   - 0.4.0-dev05-a4e967d
   - 0.4.0-dev05-057388d
-  - 0.1.1
-  - 0.4.0-dev0j-c377852
   - 0.4.1
   - 0.4.1-dev01-030476c
+  - 0.4.1-dev02-1fb8824
   - 0.4.1-dev02-08c7590
   - 0.4.1-dev02-097aec0
-  - 0.4.1-dev02-1fb8824
   - 0.4.1-dev03-246f752
   - 0.4.1-dev03-8533087
-  lastUpdated: 20201208152706
+  - 0.4.2
+  - 0.1.1
+  lastUpdated: 20210202204255

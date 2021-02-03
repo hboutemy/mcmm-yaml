@@ -1,14 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.springframework.session
 artifactId: spring-session-data-mongodb
 versioning:
   latest: 2.4.3
   release: 2.4.3
   versions:
-  - 0.0.0.0.2.4.2
-  - 0.0.0.0.2.4.3
-  - 0.0.0.2.4.2
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
   - 2.0.2.RELEASE
@@ -36,4 +34,7 @@ versioning:
   - 2.4.1
   - 2.4.2
   - 2.4.3
-  lastUpdated: 20210125164653
+  - 0.0.0.0.2.4.2
+  - 0.0.0.0.2.4.3
+  - 0.0.0.2.4.2
+  lastUpdated: 20210202185935

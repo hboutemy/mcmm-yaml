@@ -3,8 +3,8 @@
 groupId: io.smallrye.reactive
 artifactId: smallrye-reactive-messaging-aws-sns
 versioning:
-  latest: 3.0.0.RC1
-  release: 3.0.0.RC1
+  latest: 3.0.0.RC2
+  release: 3.0.0.RC2
   versions:
   - 1.0.4
   - 1.0.6
@@ -27,5 +27,7 @@ versioning:
   - 2.6.1
   - 2.7.0
   - 2.7.1
+  - 2.8.0
   - 3.0.0.RC1
-  lastUpdated: 20210127151143
+  - 3.0.0.RC2
+  lastUpdated: 20210202145903
