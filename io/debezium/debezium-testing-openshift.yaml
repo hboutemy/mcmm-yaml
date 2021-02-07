@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-testing-openshift
 versioning:
-  latest: 1.4.1.Final
-  release: 1.4.1.Final
+  latest: 1.5.0.Alpha1
+  release: 1.5.0.Alpha1
   versions:
   - 1.0.2.Final
   - 1.0.3.Final
@@ -35,4 +35,5 @@ versioning:
   - 1.4.0.CR1
   - 1.4.0.Final
   - 1.4.1.Final
-  lastUpdated: 20210128130655
+  - 1.5.0.Alpha1
+  lastUpdated: 20210206070420
