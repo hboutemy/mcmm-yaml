@@ -3,8 +3,8 @@
 groupId: com.salesforce.dockerfile-image-update
 artifactId: dockerfile-image-update-itest
 versioning:
-  latest: 1.0.125
-  release: 1.0.125
+  latest: 1.0.127
+  release: 1.0.127
   versions:
   - 1.0.2
   - 1.0.3
@@ -98,4 +98,6 @@ versioning:
   - 1.0.120
   - 1.0.121
   - 1.0.125
-  lastUpdated: 20210206024926
+  - 1.0.126
+  - 1.0.127
+  lastUpdated: 20210207205428
