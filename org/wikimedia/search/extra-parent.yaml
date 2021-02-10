@@ -3,8 +3,8 @@
 groupId: org.wikimedia.search
 artifactId: extra-parent
 versioning:
-  latest: 6.5.4-wmf11
-  release: 6.5.4-wmf11
+  latest: 6.5.4-wmf13
+  release: 6.5.4-wmf13
   versions:
   - 5.5.2.5
   - 5.5.2.6
@@ -19,4 +19,5 @@ versioning:
   - 6.5.4
   - 6.5.4-wmf9
   - 6.5.4-wmf11
-  lastUpdated: 20200716152224
+  - 6.5.4-wmf13
+  lastUpdated: 20210209101256

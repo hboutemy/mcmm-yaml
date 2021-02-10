@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.sonatype.sisu
 artifactId: sisu-bundle-launcher-servlet
 versioning:
-  latest: 1.9
-  release: 1.9
+  latest: 1.11.0-01
+  release: 1.11.0-01
   versions:
   - 1.2
   - 1.2.1
@@ -19,4 +19,5 @@ versioning:
   - 1.7
   - 1.8
   - 1.9
-  lastUpdated: 20150309142157
+  - 1.11.0-01
+  lastUpdated: 20210209172854
