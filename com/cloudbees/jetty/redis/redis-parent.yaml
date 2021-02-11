@@ -3,10 +3,13 @@
 groupId: com.cloudbees.jetty.redis
 artifactId: redis-parent
 versioning:
-  latest: 9.4.2
-  release: 9.4.2
+  latest: 9.4.36.2
+  release: 9.4.36.2
   versions:
   - 9.4.0
   - 9.4.1
   - 9.4.2
-  lastUpdated: 20190510153507
+  - 9.4.36
+  - 9.4.36.1
+  - 9.4.36.2
+  lastUpdated: 20210210201120

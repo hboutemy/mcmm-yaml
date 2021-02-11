@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.plugin
 artifactId: transport-nio-client
 versioning:
-  latest: 7.10.2
-  release: 7.10.2
+  latest: 7.11.0
+  release: 7.11.0
   versions:
   - 7.0.0-rc1
   - 7.0.0-rc2
@@ -37,4 +37,5 @@ versioning:
   - 7.10.0
   - 7.10.1
   - 7.10.2
-  lastUpdated: 20210114185406
+  - 7.11.0
+  lastUpdated: 20210210143842

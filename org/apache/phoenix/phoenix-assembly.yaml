@@ -3,8 +3,8 @@
 groupId: org.apache.phoenix
 artifactId: phoenix-assembly
 versioning:
-  latest: 4.7.0-HBase-1.1
-  release: 4.7.0-HBase-1.1
+  latest: 5.1.0
+  release: 5.1.0
   versions:
   - 4.4.0-HBase-0.98
   - 4.4.0-HBase-1.0
@@ -24,4 +24,5 @@ versioning:
   - 4.7.0-HBase-0.98
   - 4.7.0-HBase-1.0
   - 4.7.0-HBase-1.1
-  lastUpdated: 20160302000352
+  - 5.1.0
+  lastUpdated: 20210210073436
