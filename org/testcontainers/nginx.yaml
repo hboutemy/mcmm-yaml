@@ -3,8 +3,8 @@
 groupId: org.testcontainers
 artifactId: nginx
 versioning:
-  latest: 1.15.1
-  release: 1.15.1
+  latest: 1.15.2
+  release: 1.15.2
   versions:
   - 0.9.6
   - 0.9.7
@@ -75,4 +75,5 @@ versioning:
   - 1.15.0-rc2
   - 1.15.0
   - 1.15.1
-  lastUpdated: 20201211171341
+  - 1.15.2
+  lastUpdated: 20210211153847

@@ -3,8 +3,8 @@
 groupId: org.wildfly.bom
 artifactId: wildfly-jakartaee8-with-tools
 versioning:
-  latest: 22.0.0.Final
-  release: 22.0.0.Final
+  latest: 22.0.1.Final
+  release: 22.0.1.Final
   versions:
   - 18.0.0.Final
   - 18.0.1.Final
@@ -24,4 +24,5 @@ versioning:
   - 22.0.0.Alpha1
   - 22.0.0.Beta1
   - 22.0.0.Final
-  lastUpdated: 20210113154207
+  - 22.0.1.Final
+  lastUpdated: 20210211200214
