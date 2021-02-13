@@ -3,8 +3,8 @@
 groupId: com.guicedee.persistence
 artifactId: guiced-hazelcast-hibernate
 versioning:
-  latest: 1.1.0.8-SNAPSHOT-jre14
-  release: 1.1.0.8-SNAPSHOT-jre14
+  latest: 1.1.1.0-SNAPSHOT-jre15
+  release: 1.1.1.0-SNAPSHOT-jre15
   versions:
   - 1.0.9.7-jre14
   - 1.0.9.10
@@ -212,4 +212,6 @@ versioning:
   - 1.1.0.7-jre14
   - 1.1.0.7-jre15
   - 1.1.0.8-SNAPSHOT-jre14
-  lastUpdated: 20210128000025
+  - 1.1.1.0-SNAPSHOT-jre14
+  - 1.1.1.0-SNAPSHOT-jre15
+  lastUpdated: 20210212214736

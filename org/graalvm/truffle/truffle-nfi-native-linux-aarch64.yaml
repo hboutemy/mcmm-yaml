@@ -3,8 +3,8 @@
 groupId: org.graalvm.truffle
 artifactId: truffle-nfi-native-linux-aarch64
 versioning:
-  latest: 21.0.0
-  release: 21.0.0
+  latest: 21.0.0.2
+  release: 21.0.0.2
   versions:
   - 1.0.0-rc15
   - 1.0.0-rc16
@@ -27,5 +27,7 @@ versioning:
   - 20.2.0
   - 20.3.0
   - 20.3.1
+  - 20.3.1.2
   - 21.0.0
-  lastUpdated: 20210119202607
+  - 21.0.0.2
+  lastUpdated: 20210212221059

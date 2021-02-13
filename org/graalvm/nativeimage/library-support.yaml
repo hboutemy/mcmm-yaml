@@ -3,8 +3,8 @@
 groupId: org.graalvm.nativeimage
 artifactId: library-support
 versioning:
-  latest: 21.0.0
-  release: 21.0.0
+  latest: 21.0.0.2
+  release: 21.0.0.2
   versions:
   - 19.3.0
   - 19.3.0.2
@@ -18,5 +18,7 @@ versioning:
   - 20.2.0
   - 20.3.0
   - 20.3.1
+  - 20.3.1.2
   - 21.0.0
-  lastUpdated: 20210119202530
+  - 21.0.0.2
+  lastUpdated: 20210212221030

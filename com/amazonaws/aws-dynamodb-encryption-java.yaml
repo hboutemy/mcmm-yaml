@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-dynamodb-encryption-java
 versioning:
-  latest: 2.0.0
-  release: 2.0.0
+  latest: 2.0.1
+  release: 2.0.1
   versions:
   - 1.11.0
   - 1.11.1
@@ -15,5 +15,7 @@ versioning:
   - 1.14.0
   - 1.14.1
   - 1.15.0
+  - 1.15.1
   - 2.0.0
-  lastUpdated: 20210204222310
+  - 2.0.1
+  lastUpdated: 20210212191522

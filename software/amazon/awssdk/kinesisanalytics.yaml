@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: kinesisanalytics
 versioning:
-  latest: 2.15.80
-  release: 2.15.80
+  latest: 2.15.81
+  release: 2.15.81
   versions:
   - 2.0.0-preview-11
   - 2.0.0-preview-12
@@ -488,4 +488,5 @@ versioning:
   - 2.15.78
   - 2.15.79
   - 2.15.80
-  lastUpdated: 20210211203650
+  - 2.15.81
+  lastUpdated: 20210212201250

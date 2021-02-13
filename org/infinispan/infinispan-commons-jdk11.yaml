@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-commons-jdk11
 versioning:
-  latest: 12.0.0.Dev07
-  release: 12.0.0.Dev07
+  latest: 12.0.1.Final
+  release: 12.0.1.Final
   versions:
   - 11.0.0.CR1
   - 11.0.0.Final
@@ -29,5 +29,6 @@ versioning:
   - 12.0.0.Dev05
   - 12.0.0.Dev06
   - 12.0.0.Dev07
+  - 12.0.1.Final
   - 12.0.0.Dev3
-  lastUpdated: 20210124201230
+  lastUpdated: 20210212105405
