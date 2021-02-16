@@ -3,8 +3,8 @@
 groupId: org.apache.nifi
 artifactId: nifi-mongodb-processors
 versioning:
-  latest: 1.12.1
-  release: 1.12.1
+  latest: 1.13.0
+  release: 1.13.0
   versions:
   - 0.2.0-incubating
   - 0.2.1
@@ -44,4 +44,5 @@ versioning:
   - 1.11.4
   - 1.12.0
   - 1.12.1
-  lastUpdated: 20200928175932
+  - 1.13.0
+  lastUpdated: 20210215170430
