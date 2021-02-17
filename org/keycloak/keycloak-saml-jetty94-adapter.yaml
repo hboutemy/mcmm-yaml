@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-saml-jetty94-adapter
 versioning:
-  latest: 12.0.2
-  release: 12.0.2
+  latest: 12.0.3
+  release: 12.0.3
   versions:
   - 3.0.0.CR1
   - 3.0.0.Final
@@ -58,4 +58,5 @@ versioning:
   - 12.0.0
   - 12.0.1
   - 12.0.2
-  lastUpdated: 20210118155216
+  - 12.0.3
+  lastUpdated: 20210216080905

@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-saml-wildfly-subsystem
 versioning:
-  latest: 12.0.2
-  release: 12.0.2
+  latest: 12.0.3
+  release: 12.0.3
   versions:
   - 1.7.0.CR1
   - 1.7.0.Final
@@ -91,4 +91,5 @@ versioning:
   - 12.0.0
   - 12.0.1
   - 12.0.2
-  lastUpdated: 20210118155240
+  - 12.0.3
+  lastUpdated: 20210216080916

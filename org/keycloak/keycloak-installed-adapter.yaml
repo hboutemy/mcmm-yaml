@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-installed-adapter
 versioning:
-  latest: 12.0.2
-  release: 12.0.2
+  latest: 12.0.3
+  release: 12.0.3
   versions:
   - 1.0-beta-1
   - 1.0-beta-2
@@ -118,5 +118,6 @@ versioning:
   - 12.0.0
   - 12.0.1
   - 12.0.2
+  - 12.0.3
   - 1.5.0-Final
-  lastUpdated: 20210118155054
+  lastUpdated: 20210216080826
