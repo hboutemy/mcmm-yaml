@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: elastictranscoder
 versioning:
-  latest: 2.16.0
-  release: 2.16.0
+  latest: 2.16.1
+  release: 2.16.1
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -501,4 +501,5 @@ versioning:
   - 2.15.81
   - 2.15.82
   - 2.16.0
-  lastUpdated: 20210216201055
+  - 2.16.1
+  lastUpdated: 20210217224010

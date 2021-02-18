@@ -3,8 +3,8 @@
 groupId: io.prestodb.tempto
 artifactId: tempto-runner
 versioning:
-  latest: 1.50
-  release: 1.50
+  latest: 1.51
+  release: 1.51
   versions:
   - 1.41
   - 1.42
@@ -14,4 +14,5 @@ versioning:
   - 1.47
   - 1.49
   - 1.50
-  lastUpdated: 20181026132001
+  - 1.51
+  lastUpdated: 20210217223227

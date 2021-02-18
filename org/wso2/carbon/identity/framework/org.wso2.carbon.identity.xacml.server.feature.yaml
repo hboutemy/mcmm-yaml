@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.identity.xacml.server.feature
 versioning:
-  latest: 5.19.34
-  release: 5.19.34
+  latest: 5.19.35
+  release: 5.19.35
   versions:
   - 5.5.0
   - 5.5.1
@@ -1608,4 +1608,5 @@ versioning:
   - 5.19.32
   - 5.19.33
   - 5.19.34
-  lastUpdated: 20210216212937
+  - 5.19.35
+  lastUpdated: 20210217121724

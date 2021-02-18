@@ -3,8 +3,8 @@
 groupId: io.micrometer
 artifactId: micrometer-registry-azure-monitor
 versioning:
-  latest: 1.6.3
-  release: 1.6.3
+  latest: 1.6.4
+  release: 1.6.4
   versions:
   - 1.1.0
   - 1.1.1
@@ -45,6 +45,7 @@ versioning:
   - 1.3.14
   - 1.3.15
   - 1.3.16
+  - 1.3.17
   - 1.4.0
   - 1.4.1
   - 1.4.2
@@ -59,8 +60,10 @@ versioning:
   - 1.5.8
   - 1.5.9
   - 1.5.10
+  - 1.5.11
   - 1.6.0
   - 1.6.1
   - 1.6.2
   - 1.6.3
-  lastUpdated: 20210112134526
+  - 1.6.4
+  lastUpdated: 20210217120450
