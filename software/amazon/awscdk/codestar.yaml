@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: codestar
 versioning:
-  latest: 1.90.0
-  release: 1.90.0
+  latest: 1.90.1
+  release: 1.90.1
   versions:
   - 1.4.0.DEVPREVIEW
   - 1.5.0.DEVPREVIEW
@@ -113,4 +113,5 @@ versioning:
   - 1.88.0
   - 1.89.0
   - 1.90.0
-  lastUpdated: 20210217235847
+  - 1.90.1
+  lastUpdated: 20210219194923

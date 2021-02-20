@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.instrumentation
 artifactId: opentelemetry-runtime-metrics
 versioning:
-  latest: 0.16.1
-  release: 0.16.1
+  latest: 0.17.0-alpha
+  release: 0.17.0-alpha
   versions:
   - 0.12.0
   - 0.12.1
@@ -15,4 +15,5 @@ versioning:
   - 0.15.1
   - 0.16.0
   - 0.16.1
-  lastUpdated: 20210212103807
+  - 0.17.0-alpha
+  lastUpdated: 20210219090818
