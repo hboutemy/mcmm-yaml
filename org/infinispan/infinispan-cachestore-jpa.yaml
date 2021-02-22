@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-cachestore-jpa
 versioning:
-  latest: 12.0.1.Final
-  release: 12.0.1.Final
+  latest: 12.1.0.Dev01
+  release: 12.1.0.Dev01
   versions:
   - 5.3.0.CR1
   - 5.3.0.CR2
@@ -205,5 +205,6 @@ versioning:
   - 12.0.0.Dev06
   - 12.0.0.Dev07
   - 12.0.1.Final
+  - 12.1.0.Dev01
   - 12.0.0.Dev3
-  lastUpdated: 20210212105356
+  lastUpdated: 20210221143124
