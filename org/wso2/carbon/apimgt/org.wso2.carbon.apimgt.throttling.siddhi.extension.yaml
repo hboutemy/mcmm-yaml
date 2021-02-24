@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.apimgt
 artifactId: org.wso2.carbon.apimgt.throttling.siddhi.extension
 versioning:
-  latest: 8.0.3
-  release: 8.0.3
+  latest: 8.1.0
+  release: 8.1.0
   versions:
   - 6.0.0
   - 6.0.1
@@ -1704,6 +1704,12 @@ versioning:
   - 6.8.239
   - 6.8.240
   - 6.8.241
+  - 6.8.242
+  - 6.8.243
+  - 6.8.244
+  - 6.8.245
+  - 6.8.246
+  - 6.8.247
   - 7.0.24
   - 7.0.25
   - 7.0.26
@@ -1930,4 +1936,5 @@ versioning:
   - 8.0.1
   - 8.0.2
   - 8.0.3
-  lastUpdated: 20210222222547
+  - 8.1.0
+  lastUpdated: 20210223231724
