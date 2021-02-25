@@ -3,8 +3,8 @@
 groupId: org.wildfly.clustering
 artifactId: wildfly-clustering-tomcat-10.0-hotrod
 versioning:
-  latest: 12.0.0.Beta1
-  release: 12.0.0.Beta1
+  latest: 12.0.0.Final
+  release: 12.0.0.Final
   versions:
   - 10.0.0.Beta1
   - 10.0.0.Final
@@ -13,4 +13,5 @@ versioning:
   - 11.0.2.Final
   - 11.0.3.Final
   - 12.0.0.Beta1
-  lastUpdated: 20201217022341
+  - 12.0.0.Final
+  lastUpdated: 20210224195758

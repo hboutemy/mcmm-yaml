@@ -3,8 +3,8 @@
 groupId: io.dekorate
 artifactId: knative-annotations
 versioning:
-  latest: 2.0.0.beta8
-  release: 2.0.0.beta8
+  latest: 2.0.0.rc-1
+  release: 2.0.0.rc-1
   versions:
   - 0.9.0
   - 0.9.1
@@ -71,4 +71,5 @@ versioning:
   - 2.0.0.beta6
   - 2.0.0.beta7
   - 2.0.0.beta8
-  lastUpdated: 20210204120700
+  - 2.0.0.rc-1
+  lastUpdated: 20210224195811

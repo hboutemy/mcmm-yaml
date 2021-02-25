@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.identity.inbound.authentication.category.feature
 versioning:
-  latest: 5.19.38
-  release: 5.19.38
+  latest: 5.19.41
+  release: 5.19.41
   versions:
   - 5.5.0
   - 5.5.1
@@ -1611,4 +1611,7 @@ versioning:
   - 5.19.36
   - 5.19.37
   - 5.19.38
-  lastUpdated: 20210223071336
+  - 5.19.39
+  - 5.19.40
+  - 5.19.41
+  lastUpdated: 20210224145252

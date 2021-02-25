@@ -3,8 +3,8 @@
 groupId: org.wildfly.security.elytron-web
 artifactId: undertow-server
 versioning:
-  latest: 2.0.0.Alpha5
-  release: 2.0.0.Alpha5
+  latest: 2.0.0.Alpha6
+  release: 2.0.0.Alpha6
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -62,9 +62,11 @@ versioning:
   - 1.7.1.Final
   - 1.8.0.Final
   - 1.9.0.CR1
+  - 1.9.0.Final
   - 2.0.0.Alpha1
   - 2.0.0.Alpha2
   - 2.0.0.Alpha3
   - 2.0.0.Alpha4
   - 2.0.0.Alpha5
-  lastUpdated: 20210217221308
+  - 2.0.0.Alpha6
+  lastUpdated: 20210224220209

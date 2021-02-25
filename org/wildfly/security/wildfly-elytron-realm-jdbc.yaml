@@ -3,8 +3,8 @@
 groupId: org.wildfly.security
 artifactId: wildfly-elytron-realm-jdbc
 versioning:
-  latest: 2.0.0.Alpha9
-  release: 2.0.0.Alpha9
+  latest: 2.0.0.Alpha10
+  release: 2.0.0.Alpha10
   versions:
   - 1.9.0.CR1
   - 1.9.0.CR2
@@ -57,6 +57,7 @@ versioning:
   - 1.14.1.Final
   - 1.14.2.Final
   - 1.15.0.CR1
+  - 1.15.0.Final
   - 2.0.0.Alpha1
   - 2.0.0.Alpha2
   - 2.0.0.Alpha3
@@ -66,4 +67,5 @@ versioning:
   - 2.0.0.Alpha7
   - 2.0.0.Alpha8
   - 2.0.0.Alpha9
-  lastUpdated: 20210217210119
+  - 2.0.0.Alpha10
+  lastUpdated: 20210224220232

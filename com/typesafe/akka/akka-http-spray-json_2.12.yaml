@@ -3,8 +3,8 @@
 groupId: com.typesafe.akka
 artifactId: akka-http-spray-json_2.12
 versioning:
-  latest: 10.2.3
-  release: 10.2.3
+  latest: 10.2.4
+  release: 10.2.4
   versions:
   - 10.0.0-RC2
   - 10.0.0
@@ -39,6 +39,7 @@ versioning:
   - 10.1.11
   - 10.1.12
   - 10.1.13
+  - 10.1.14
   - 10.2.0-M1
   - 10.2.0-RC1
   - 10.2.0-RC2
@@ -46,4 +47,5 @@ versioning:
   - 10.2.1
   - 10.2.2
   - 10.2.3
-  lastUpdated: 20210118173426
+  - 10.2.4
+  lastUpdated: 20210224174610
