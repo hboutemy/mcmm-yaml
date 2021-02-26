@@ -3,8 +3,8 @@
 groupId: com.jwebmp
 artifactId: jwebmp-bom
 versioning:
-  latest: 1.1.1.0-SNAPSHOT-jre15
-  release: 1.1.1.0-SNAPSHOT-jre15
+  latest: 1.1.1.0-jre15
+  release: 1.1.1.0-jre15
   versions:
   - 0.57.0.24
   - 0.58.0.1.RC1
@@ -334,4 +334,5 @@ versioning:
   - 1.1.1.0-SNAPSHOT-jre8
   - 1.1.1.0-SNAPSHOT-jre14
   - 1.1.1.0-SNAPSHOT-jre15
-  lastUpdated: 20210213060942
+  - 1.1.1.0-jre15
+  lastUpdated: 20210225222435

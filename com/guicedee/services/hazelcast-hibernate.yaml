@@ -3,8 +3,8 @@
 groupId: com.guicedee.services
 artifactId: hazelcast-hibernate
 versioning:
-  latest: 1.1.1.0-SNAPSHOT-jre15
-  release: 1.1.1.0-SNAPSHOT-jre15
+  latest: 1.1.1.0-jre15
+  release: 1.1.1.0-jre15
   versions:
   - 1.0.9.10
   - 1.0.9.10-jre14
@@ -214,4 +214,5 @@ versioning:
   - 1.1.1.0-SNAPSHOT-jre8
   - 1.1.1.0-SNAPSHOT-jre14
   - 1.1.1.0-SNAPSHOT-jre15
-  lastUpdated: 20210213061227
+  - 1.1.1.0-jre15
+  lastUpdated: 20210225222730
