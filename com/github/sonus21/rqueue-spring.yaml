@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.github.sonus21
 artifactId: rqueue-spring
 versioning:
-  latest: 2.6.0-RELEASE
-  release: 2.6.0-RELEASE
+  latest: 2.6.1-RC
+  release: 2.6.1-RC
   versions:
   - 1.0-RELEASE
   - 1.1-RELEASE
@@ -26,6 +27,8 @@ versioning:
   - 2.2.0-RELEASE
   - 2.3.0-RELEASE
   - 2.4.0-RELEASE
+  - 2.6.1-RC
   - 2.5.0-RELEASE
   - 2.6.0-RELEASE
-  lastUpdated: 20210222163748
+  - 2.6.1-RC2
+  lastUpdated: 20210226164601

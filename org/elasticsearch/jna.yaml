@@ -3,11 +3,13 @@
 groupId: org.elasticsearch
 artifactId: jna
 versioning:
-  latest: 5.5.0
-  release: 5.5.0
+  latest: 5.7.0-1
+  release: 5.7.0-1
   versions:
   - 4.4.0
   - 4.4.0-1
   - 4.5.1
   - 5.5.0
-  lastUpdated: 20200616020001
+  - 5.7.0
+  - 5.7.0-1
+  lastUpdated: 20210226195631
