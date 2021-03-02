@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-wildfly-adapter
 versioning:
-  latest: 12.0.3
-  release: 12.0.3
+  latest: 12.0.4
+  release: 12.0.4
   versions:
   - 1.0-alpha-3
   - 1.0-alpha-4
@@ -123,5 +123,6 @@ versioning:
   - 12.0.1
   - 12.0.2
   - 12.0.3
+  - 12.0.4
   - 1.5.0-Final
-  lastUpdated: 20210216080957
+  lastUpdated: 20210301080518

@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.apimgt
 artifactId: org.wso2.carbon.apimgt.throttle.service.interceptors
 versioning:
-  latest: 9.0.7
-  release: 9.0.7
+  latest: 9.0.12
+  release: 9.0.12
   versions:
   - 6.0.0
   - 6.0.1
@@ -1716,6 +1716,7 @@ versioning:
   - 8.0.3
   - 8.1.0
   - 8.1.1
+  - 8.2.0
   - 9.0.0
   - 9.0.1
   - 9.0.2
@@ -1724,4 +1725,9 @@ versioning:
   - 9.0.5
   - 9.0.6
   - 9.0.7
-  lastUpdated: 20210226104706
+  - 9.0.8
+  - 9.0.9
+  - 9.0.10
+  - 9.0.11
+  - 9.0.12
+  lastUpdated: 20210301232749
