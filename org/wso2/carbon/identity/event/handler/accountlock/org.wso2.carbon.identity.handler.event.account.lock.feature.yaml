@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.event.handler.accountlock
 artifactId: org.wso2.carbon.identity.handler.event.account.lock.feature
 versioning:
-  latest: 1.4.18
-  release: 1.4.18
+  latest: 1.4.19
+  release: 1.4.19
   versions:
   - 1.0.0
   - 1.0.1
@@ -52,4 +52,5 @@ versioning:
   - 1.4.16
   - 1.4.17
   - 1.4.18
-  lastUpdated: 20210301112323
+  - 1.4.19
+  lastUpdated: 20210302041713
