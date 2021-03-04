@@ -3,8 +3,8 @@
 groupId: com.spotify
 artifactId: scio-cassandra3_2.12
 versioning:
-  latest: 0.10.0-beta3
-  release: 0.10.0-beta3
+  latest: 0.10.0
+  release: 0.10.0
   versions:
   - 0.4.0-beta2
   - 0.4.0
@@ -58,4 +58,5 @@ versioning:
   - 0.10.0-beta1
   - 0.10.0-beta2
   - 0.10.0-beta3
-  lastUpdated: 20210129183619
+  - 0.10.0
+  lastUpdated: 20210303183353
