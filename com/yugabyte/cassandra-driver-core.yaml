@@ -3,8 +3,8 @@
 groupId: com.yugabyte
 artifactId: cassandra-driver-core
 versioning:
-  latest: 3.8.0-yb-6
-  release: 3.8.0-yb-6
+  latest: 3.8.0-yb-7
+  release: 3.8.0-yb-7
   versions:
   - 3.2.0-yb-8
   - 3.2.0-yb-9
@@ -23,4 +23,5 @@ versioning:
   - 3.8.0-yb-4
   - 3.8.0-yb-5
   - 3.8.0-yb-6
-  lastUpdated: 20210202233931
+  - 3.8.0-yb-7
+  lastUpdated: 20210304220333
