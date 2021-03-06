@@ -3,8 +3,8 @@
 groupId: io.syndesis.connector
 artifactId: connector-fhir
 versioning:
-  latest: 1.10.0
-  release: 1.10.0
+  latest: 1.11.0
+  release: 1.11.0
   versions:
   - 1.5.5
   - 1.5.6
@@ -48,4 +48,5 @@ versioning:
   - 1.8.13
   - 1.9.0
   - 1.10.0
-  lastUpdated: 20200630170633
+  - 1.11.0
+  lastUpdated: 20210305201824

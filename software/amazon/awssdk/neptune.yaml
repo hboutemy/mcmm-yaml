@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: neptune
 versioning:
-  latest: 2.16.12
-  release: 2.16.12
+  latest: 2.16.13
+  release: 2.16.13
   versions:
   - 2.1.1
   - 2.1.2
@@ -499,4 +499,5 @@ versioning:
   - 2.16.10
   - 2.16.11
   - 2.16.12
-  lastUpdated: 20210304201017
+  - 2.16.13
+  lastUpdated: 20210305205035

@@ -3,8 +3,8 @@
 groupId: org.apereo.cas
 artifactId: cas-server-support-cassandra-service-registry
 versioning:
-  latest: 6.4.0-RC1
-  release: 6.4.0-RC1
+  latest: 6.4.0-RC2
+  release: 6.4.0-RC2
   versions:
   - 6.1.0-RC2
   - 6.1.0-RC3
@@ -44,4 +44,5 @@ versioning:
   - 6.3.1
   - 6.3.2
   - 6.4.0-RC1
-  lastUpdated: 20210213173540
+  - 6.4.0-RC2
+  lastUpdated: 20210305121809

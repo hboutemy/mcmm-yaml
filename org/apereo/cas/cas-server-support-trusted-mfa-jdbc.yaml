@@ -3,8 +3,8 @@
 groupId: org.apereo.cas
 artifactId: cas-server-support-trusted-mfa-jdbc
 versioning:
-  latest: 6.4.0-RC1
-  release: 6.4.0-RC1
+  latest: 6.4.0-RC2
+  release: 6.4.0-RC2
   versions:
   - 5.0.0.RC2
   - 5.0.0.RC3
@@ -126,4 +126,5 @@ versioning:
   - 6.3.1
   - 6.3.2
   - 6.4.0-RC1
-  lastUpdated: 20210213174352
+  - 6.4.0-RC2
+  lastUpdated: 20210305122533
