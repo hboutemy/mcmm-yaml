@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.apimgt
 artifactId: org.wso2.carbon.apimgt.rest.api.dcr.feature
 versioning:
-  latest: 9.0.31
-  release: 9.0.31
+  latest: 9.0.34
+  release: 9.0.34
   versions:
   - 5.0.0
   - 5.0.1
@@ -1724,6 +1724,7 @@ versioning:
   - 8.1.1
   - 8.2.0
   - 8.2.1
+  - 8.2.2
   - 9.0.0
   - 9.0.1
   - 9.0.2
@@ -1756,4 +1757,7 @@ versioning:
   - 9.0.29
   - 9.0.30
   - 9.0.31
-  lastUpdated: 20210307044050
+  - 9.0.32
+  - 9.0.33
+  - 9.0.34
+  lastUpdated: 20210308163133

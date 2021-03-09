@@ -3,10 +3,14 @@
 groupId: cz.o2.proxima
 artifactId: proxima-direct-io-bulkfs
 versioning:
-  latest: 0.5.1
-  release: 0.5.1
+  latest: 0.6.1-jdk11
+  release: 0.6.1-jdk11
   versions:
   - 0.4.0
   - 0.5.0
   - 0.5.1
-  lastUpdated: 20201103220815
+  - 0.6.0
+  - 0.6.0-jdk11
+  - 0.6.1
+  - 0.6.1-jdk11
+  lastUpdated: 20210308172545
