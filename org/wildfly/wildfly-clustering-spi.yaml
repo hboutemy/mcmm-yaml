@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-clustering-spi
 versioning:
-  latest: 23.0.0.Beta1
-  release: 23.0.0.Beta1
+  latest: 23.0.0.Final
+  release: 23.0.0.Final
   versions:
   - 9.0.0.Alpha1
   - 9.0.0.Beta1
@@ -71,4 +71,5 @@ versioning:
   - 22.0.0.Final
   - 22.0.1.Final
   - 23.0.0.Beta1
-  lastUpdated: 20210225022810
+  - 23.0.0.Final
+  lastUpdated: 20210310222357

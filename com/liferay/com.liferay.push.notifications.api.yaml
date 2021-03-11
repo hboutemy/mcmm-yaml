@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.push.notifications.api
 versioning:
   latest: 4.2.6
-  release: 4.2.6
+  release: 1.4.19
   versions:
   - 1.0.0
   - 1.0.1
@@ -85,4 +84,5 @@ versioning:
   - 4.2.4
   - 4.2.5
   - 4.2.6
-  lastUpdated: 20200915180440
+  - 1.4.19
+  lastUpdated: 20210310011315
