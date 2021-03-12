@@ -3,8 +3,8 @@
 groupId: org.eclipse.che.multiuser
 artifactId: che-multiuser-keycloak-token-provider
 versioning:
-  latest: 7.27.0
-  release: 7.27.0
+  latest: 7.27.1
+  release: 7.27.1
   versions:
   - 6.10.0
   - 6.11.0
@@ -108,4 +108,5 @@ versioning:
   - 7.26.1
   - 7.26.2
   - 7.27.0
-  lastUpdated: 20210303112628
+  - 7.27.1
+  lastUpdated: 20210311122545

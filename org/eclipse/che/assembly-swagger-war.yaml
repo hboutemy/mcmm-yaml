@@ -3,8 +3,8 @@
 groupId: org.eclipse.che
 artifactId: assembly-swagger-war
 versioning:
-  latest: 7.27.0
-  release: 7.27.0
+  latest: 7.27.1
+  release: 7.27.1
   versions:
   - 7.3.0
   - 7.3.1
@@ -70,4 +70,5 @@ versioning:
   - 7.26.1
   - 7.26.2
   - 7.27.0
-  lastUpdated: 20210303112521
+  - 7.27.1
+  lastUpdated: 20210311122438
