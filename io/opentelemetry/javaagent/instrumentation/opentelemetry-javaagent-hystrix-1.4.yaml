@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-hystrix-1.4
 versioning:
-  latest: 1.0.0-alpha
-  release: 1.0.0-alpha
+  latest: 1.0.1-alpha
+  release: 1.0.1-alpha
   versions:
   - 0.12.0
   - 0.12.1
@@ -17,4 +17,5 @@ versioning:
   - 0.16.1
   - 0.17.0-alpha
   - 1.0.0-alpha
-  lastUpdated: 20210305232050
+  - 1.0.1-alpha
+  lastUpdated: 20210312060148
