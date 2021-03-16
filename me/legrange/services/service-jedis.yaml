@@ -3,8 +3,8 @@
 groupId: me.legrange.services
 artifactId: service-jedis
 versioning:
-  latest: 3.6.1
-  release: 3.6.1
+  latest: 3.6.3
+  release: 3.6.3
   versions:
   - 3.2.9
   - 3.2.10
@@ -25,4 +25,6 @@ versioning:
   - 3.5.2
   - 3.5.3
   - 3.6.1
-  lastUpdated: 20210304214924
+  - 3.6.2
+  - 3.6.3
+  lastUpdated: 20210315184825

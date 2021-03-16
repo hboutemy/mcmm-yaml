@@ -3,8 +3,8 @@
 groupId: com.johnsnowlabs.nlp
 artifactId: spark-nlp-gpu-spark23_2.11
 versioning:
-  latest: 3.0.0-rc6
-  release: 3.0.0-rc6
+  latest: 3.0.0-rc8
+  release: 3.0.0-rc8
   versions:
   - 2.5.4
   - 2.5.5
@@ -28,4 +28,6 @@ versioning:
   - 3.0.0-rc4
   - 3.0.0-rc5
   - 3.0.0-rc6
-  lastUpdated: 20210313132933
+  - 3.0.0-rc7
+  - 3.0.0-rc8
+  lastUpdated: 20210315231823
