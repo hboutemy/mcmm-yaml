@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.apimgt
 artifactId: org.wso2.carbon.apimgt.persistence.feature
 versioning:
-  latest: 9.0.55
-  release: 9.0.55
+  latest: 9.0.62
+  release: 9.0.62
   versions:
   - 6.8.143
   - 6.8.144
@@ -122,6 +122,7 @@ versioning:
   - 8.2.3
   - 8.2.4
   - 8.2.5
+  - 8.2.6
   - 9.0.0
   - 9.0.1
   - 9.0.2
@@ -178,4 +179,11 @@ versioning:
   - 9.0.53
   - 9.0.54
   - 9.0.55
-  lastUpdated: 20210315193805
+  - 9.0.56
+  - 9.0.57
+  - 9.0.58
+  - 9.0.59
+  - 9.0.60
+  - 9.0.61
+  - 9.0.62
+  lastUpdated: 20210316192002

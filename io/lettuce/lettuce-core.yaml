@@ -3,8 +3,8 @@
 groupId: io.lettuce
 artifactId: lettuce-core
 versioning:
-  latest: 6.1.0.M1
-  release: 6.1.0.M1
+  latest: 6.1.0.RC1
+  release: 6.1.0.RC1
   versions:
   - 5.0.0.M2
   - 5.0.0.RC1
@@ -42,5 +42,7 @@ versioning:
   - 6.0.0.RELEASE
   - 6.0.1.RELEASE
   - 6.0.2.RELEASE
+  - 6.0.3.RELEASE
   - 6.1.0.M1
-  lastUpdated: 20210208083707
+  - 6.1.0.RC1
+  lastUpdated: 20210316113740
