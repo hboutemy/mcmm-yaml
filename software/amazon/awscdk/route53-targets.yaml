@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: route53-targets
 versioning:
-  latest: 1.94.0
-  release: 1.94.0
+  latest: 1.94.1
+  release: 1.94.1
   versions:
   - 0.32.0
   - 0.33.0
@@ -132,4 +132,5 @@ versioning:
   - 1.92.0
   - 1.93.0
   - 1.94.0
-  lastUpdated: 20210316163949
+  - 1.94.1
+  lastUpdated: 20210317013655

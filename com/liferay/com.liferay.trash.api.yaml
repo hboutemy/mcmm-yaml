@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.trash.api
 versioning:
   latest: 3.4.4
-  release: 3.4.4
+  release: 1.0.22
   versions:
   - 1.0.0
   - 1.0.1
@@ -58,4 +57,5 @@ versioning:
   - 3.4.2
   - 3.4.3
   - 3.4.4
-  lastUpdated: 20200915170128
+  - 1.0.22
+  lastUpdated: 20210317020315

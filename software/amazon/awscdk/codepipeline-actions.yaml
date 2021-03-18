@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: codepipeline-actions
 versioning:
-  latest: 1.94.0
-  release: 1.94.0
+  latest: 1.94.1
+  release: 1.94.1
   versions:
   - 0.28.0
   - 0.29.0
@@ -136,4 +136,5 @@ versioning:
   - 1.92.0
   - 1.93.0
   - 1.94.0
-  lastUpdated: 20210316163921
+  - 1.94.1
+  lastUpdated: 20210317013626

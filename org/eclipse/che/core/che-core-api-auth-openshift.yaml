@@ -3,8 +3,8 @@
 groupId: org.eclipse.che.core
 artifactId: che-core-api-auth-openshift
 versioning:
-  latest: 7.27.1
-  release: 7.27.1
+  latest: 7.27.2
+  release: 7.27.2
   versions:
   - 7.10.0
   - 7.11.0
@@ -55,4 +55,5 @@ versioning:
   - 7.26.2
   - 7.27.0
   - 7.27.1
-  lastUpdated: 20210311122446
+  - 7.27.2
+  lastUpdated: 20210317180559
