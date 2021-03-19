@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.hibernate
 artifactId: hibernate-jpamodelgen
 versioning:
-  latest: 6.0.0.Alpha6
-  release: 6.0.0.Alpha6
+  latest: 6.0.0.Alpha7
+  release: 6.0.0.Alpha7
   versions:
   - 1.0.0.Beta1
   - 1.0.0-Beta-2
@@ -142,6 +142,7 @@ versioning:
   - 6.0.0.Alpha4
   - 6.0.0.Alpha5
   - 6.0.0.Alpha6
+  - 6.0.0.Alpha7
   - 5.1.13.Final
   - 5.1.14.Final
   - 5.1.15.Final
@@ -151,4 +152,4 @@ versioning:
   - 5.2.15.Final
   - 5.2.16.Final
   - 5.2.17.Final
-  lastUpdated: 20210303120138
+  lastUpdated: 20210318212155

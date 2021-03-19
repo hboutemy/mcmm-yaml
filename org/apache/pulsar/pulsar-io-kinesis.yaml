@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: pulsar-io-kinesis
 versioning:
-  latest: 2.7.0
-  release: 2.7.0
+  latest: 2.7.1
+  release: 2.7.1
   versions:
   - 2.1.0-incubating
   - 2.1.1-incubating
@@ -24,4 +24,5 @@ versioning:
   - 2.6.2
   - 2.6.3
   - 2.7.0
-  lastUpdated: 20210121035844
+  - 2.7.1
+  lastUpdated: 20210318100429
