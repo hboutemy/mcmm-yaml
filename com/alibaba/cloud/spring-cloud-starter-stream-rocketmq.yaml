@@ -3,8 +3,8 @@
 groupId: com.alibaba.cloud
 artifactId: spring-cloud-starter-stream-rocketmq
 versioning:
-  latest: 2.2.5.RELEASE
-  release: 2.2.5.RELEASE
+  latest: 2020.0.RC1
+  release: 2020.0.RC1
   versions:
   - 1.5.0.RELEASE
   - 1.5.1.RELEASE
@@ -12,6 +12,7 @@ versioning:
   - 2.0.1.RELEASE
   - 2.0.2.RELEASE
   - 2.0.3.RELEASE
+  - 2.0.4.RELEASE
   - 2.1.0.RELEASE
   - 2.1.1.RELEASE
   - 2.1.2.RELEASE
@@ -25,4 +26,5 @@ versioning:
   - 2.2.5.RC1
   - 2.2.5.RC2
   - 2.2.5.RELEASE
-  lastUpdated: 20210226032453
+  - 2020.0.RC1
+  lastUpdated: 20210321055846

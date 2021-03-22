@@ -3,8 +3,8 @@
 groupId: com.pig4cloud.nacos
 artifactId: nacos-istio
 versioning:
-  latest: 2.0.0
-  release: 2.0.0
+  latest: 2.0.0.RELEASE
+  release: 2.0.0.RELEASE
   versions:
   - 0.3.0
   - 1.2.1
@@ -14,4 +14,5 @@ versioning:
   - 1.4.0
   - 1.4.1
   - 2.0.0
-  lastUpdated: 20210320234219
+  - 2.0.0.RELEASE
+  lastUpdated: 20210321072125
