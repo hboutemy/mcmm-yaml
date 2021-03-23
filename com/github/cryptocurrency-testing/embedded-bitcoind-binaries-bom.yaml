@@ -3,9 +3,12 @@
 groupId: com.github.cryptocurrency-testing
 artifactId: embedded-bitcoind-binaries-bom
 versioning:
-  latest: 0.19.1-fromsrc
-  release: 0.19.1-fromsrc
+  latest: 0.21.0-fromsrc
+  release: 0.21.0-fromsrc
   versions:
   - 0.19.0.1-fromsrc
   - 0.19.1-fromsrc
-  lastUpdated: 20210316174620
+  - 0.20.0-fromsrc
+  - 0.20.1-fromsrc
+  - 0.21.0-fromsrc
+  lastUpdated: 20210322171215
