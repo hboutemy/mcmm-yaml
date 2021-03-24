@@ -3,9 +3,10 @@
 groupId: io.memoria
 artifactId: jbom
 versioning:
-  latest: 0.26.0
-  release: 0.26.0
+  latest: 0.32.0
+  release: 0.32.0
   versions:
+  - v0.31.0
   - 0.6.3
   - 0.6.7
   - 0.7.0
@@ -28,4 +29,7 @@ versioning:
   - 0.24.0
   - 0.25.0
   - 0.26.0
-  lastUpdated: 20210321163206
+  - 0.29.0
+  - 0.30.0
+  - 0.32.0
+  lastUpdated: 20210323204354
