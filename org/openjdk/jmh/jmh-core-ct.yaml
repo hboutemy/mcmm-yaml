@@ -3,8 +3,8 @@
 groupId: org.openjdk.jmh
 artifactId: jmh-core-ct
 versioning:
-  latest: 1.28
-  release: 1.28
+  latest: 1.29
+  release: 1.29
   versions:
   - 0.6
   - 0.7
@@ -82,5 +82,6 @@ versioning:
   - 1.26
   - 1.27
   - 1.28
+  - 1.29
   - 1.10
-  lastUpdated: 20210301122748
+  lastUpdated: 20210324102254

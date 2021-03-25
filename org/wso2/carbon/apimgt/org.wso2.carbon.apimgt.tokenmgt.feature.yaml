@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.apimgt
 artifactId: org.wso2.carbon.apimgt.tokenmgt.feature
 versioning:
-  latest: 9.0.76
-  release: 9.0.76
+  latest: 9.0.78
+  release: 9.0.78
   versions:
   - 6.7.7
   - 6.7.8
@@ -467,6 +467,7 @@ versioning:
   - 8.2.5
   - 8.2.6
   - 8.2.7
+  - 8.2.8
   - 9.0.0
   - 9.0.1
   - 9.0.2
@@ -544,4 +545,6 @@ versioning:
   - 9.0.74
   - 9.0.75
   - 9.0.76
-  lastUpdated: 20210323020824
+  - 9.0.77
+  - 9.0.78
+  lastUpdated: 20210324182617
