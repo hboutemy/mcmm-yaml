@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: athena
 versioning:
-  latest: 1.94.1
-  release: 1.94.1
+  latest: 1.95.0
+  release: 1.95.0
   versions:
   - 0.8.0
   - 0.8.1
@@ -169,4 +169,5 @@ versioning:
   - 1.93.0
   - 1.94.0
   - 1.94.1
-  lastUpdated: 20210317013615
+  - 1.95.0
+  lastUpdated: 20210325125528

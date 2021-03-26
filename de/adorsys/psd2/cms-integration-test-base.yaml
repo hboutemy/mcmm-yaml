@@ -3,8 +3,8 @@
 groupId: de.adorsys.psd2
 artifactId: cms-integration-test-base
 versioning:
-  latest: 9.10
-  release: 9.10
+  latest: 11.0
+  release: 11.0
   versions:
   - 7.3
   - 7.4
@@ -34,6 +34,7 @@ versioning:
   - 8.9
   - 8.10
   - 8.11
+  - 8.12
   - 9.0
   - 9.1
   - 9.2
@@ -45,4 +46,6 @@ versioning:
   - 9.8
   - 9.9
   - 9.10
-  lastUpdated: 20210310140311
+  - 10.0
+  - 11.0
+  lastUpdated: 20210325171501
