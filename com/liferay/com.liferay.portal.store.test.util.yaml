@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.store.test.util
 versioning:
   latest: 2.1.4
-  release: 2.1.4
+  release: 3.0.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -21,4 +20,5 @@ versioning:
   - 2.1.2
   - 2.1.3
   - 2.1.4
-  lastUpdated: 20200915184338
+  - 3.0.0
+  lastUpdated: 20210326030001
