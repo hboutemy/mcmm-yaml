@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.talend.job.deployer.api
 versioning:
   latest: 3.0.6
-  release: 3.0.6
+  release: 4.0.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -21,4 +20,5 @@ versioning:
   - 3.0.4
   - 3.0.5
   - 3.0.6
-  lastUpdated: 20200915161127
+  - 4.0.0
+  lastUpdated: 20210327061923

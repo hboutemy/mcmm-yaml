@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portlet.display.template.web
 versioning:
   latest: 5.0.7
-  release: 5.0.7
+  release: 6.0.0
   versions:
   - 1.0.0
   - 2.0.0
@@ -57,4 +56,5 @@ versioning:
   - 5.0.5
   - 5.0.6
   - 5.0.7
-  lastUpdated: 20200915201631
+  - 6.0.0
+  lastUpdated: 20210327012516

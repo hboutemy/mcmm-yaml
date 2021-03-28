@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.headless.common.spi
 versioning:
   latest: 7.1.1
-  release: 7.1.1
+  release: 8.0.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -51,4 +50,5 @@ versioning:
   - 7.0.3
   - 7.1.0
   - 7.1.1
-  lastUpdated: 20200915211035
+  - 8.0.0
+  lastUpdated: 20210326235527
