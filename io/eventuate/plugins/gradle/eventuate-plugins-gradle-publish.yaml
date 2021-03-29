@@ -3,8 +3,13 @@
 groupId: io.eventuate.plugins.gradle
 artifactId: eventuate-plugins-gradle-publish
 versioning:
-  latest: 0.5.0.TEST.RELEASE
-  release: 0.5.0.TEST.RELEASE
+  latest: 0.6.4.RELEASE
+  release: 0.6.4.RELEASE
   versions:
   - 0.5.0.TEST.RELEASE
-  lastUpdated: 20210316170338
+  - 0.6.0.RELEASE
+  - 0.6.1.RELEASE
+  - 0.6.2.RELEASE
+  - 0.6.3.RELEASE
+  - 0.6.4.RELEASE
+  lastUpdated: 20210328203835
