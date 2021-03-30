@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.eclipse.jetty
 artifactId: jetty-continuation
 versioning:
-  latest: 9.4.38.v20210224
-  release: 9.4.38.v20210224
+  latest: 9.4.39.v20210325
+  release: 9.4.39.v20210325
   versions:
   - 7.0.0.M0
   - 7.0.0.M1
@@ -291,4 +291,5 @@ versioning:
   - 9.4.36.v20210114
   - 9.4.37.v20210219
   - 9.4.38.v20210224
-  lastUpdated: 20210226190158
+  - 9.4.39.v20210325
+  lastUpdated: 20210329023525
