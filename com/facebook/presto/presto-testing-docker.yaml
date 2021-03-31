@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-testing-docker
 versioning:
-  latest: 0.249.1
-  release: 0.249.1
+  latest: 0.250
+  release: 0.250
   versions:
   - 0.225
   - 0.226
@@ -55,4 +55,5 @@ versioning:
   - 0.248.1
   - 0.249
   - 0.249.1
-  lastUpdated: 20210322181503
+  - 0.250
+  lastUpdated: 20210330182722
