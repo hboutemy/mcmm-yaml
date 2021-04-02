@@ -3,8 +3,8 @@
 groupId: software.amazon.awscdk
 artifactId: cdk-lambda-layer-awscli
 versioning:
-  latest: 1.95.1
-  release: 1.95.1
+  latest: 1.96.0
+  release: 1.96.0
   versions:
   - 1.81.0
   - 1.82.0
@@ -25,4 +25,6 @@ versioning:
   - 1.94.1
   - 1.95.0
   - 1.95.1
-  lastUpdated: 20210326010841
+  - 1.95.2
+  - 1.96.0
+  lastUpdated: 20210401153559

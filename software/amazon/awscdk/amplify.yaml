@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: amplify
 versioning:
-  latest: 1.95.1
-  release: 1.95.1
+  latest: 1.96.0
+  release: 1.96.0
   versions:
   - 0.35.0
   - 0.36.0
@@ -132,4 +132,6 @@ versioning:
   - 1.94.1
   - 1.95.0
   - 1.95.1
-  lastUpdated: 20210326010834
+  - 1.95.2
+  - 1.96.0
+  lastUpdated: 20210401153552
