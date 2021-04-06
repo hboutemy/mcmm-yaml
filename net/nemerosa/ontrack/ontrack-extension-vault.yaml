@@ -3,8 +3,8 @@
 groupId: net.nemerosa.ontrack
 artifactId: ontrack-extension-vault
 versioning:
-  latest: 4.0-beta.22
-  release: 4.0-beta.22
+  latest: 4.0-beta.23
+  release: 4.0-beta.23
   versions:
   - experimental-pipeline-a6e0b79
   - experimental-pipeline-a8ce70d
@@ -240,6 +240,7 @@ versioning:
   - 3.43.5
   - 3.43.6
   - 3.43.7
+  - 3.43.8
   - 4.0-alpha.0
   - 4.0-alpha.0-dirty
   - 4.0-alpha.1
@@ -267,4 +268,5 @@ versioning:
   - 4.0-beta.20
   - 4.0-beta.21
   - 4.0-beta.22
-  lastUpdated: 20210331121122
+  - 4.0-beta.23
+  lastUpdated: 20210405081217
