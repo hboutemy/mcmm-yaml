@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-shaded-netty
 versioning:
-  latest: 4.1.49.Final-12.0
-  release: 4.1.49.Final-12.0
+  latest: 4.1.49.Final-13.0
+  release: 4.1.49.Final-13.0
   versions:
   - 4.0.27.Final-1.0
   - 4.0.27.Final-2.0
@@ -18,4 +18,5 @@ versioning:
   - 4.1.39.Final-10.0
   - 4.1.39.Final-11.0
   - 4.1.49.Final-12.0
-  lastUpdated: 20201005142905
+  - 4.1.49.Final-13.0
+  lastUpdated: 20210406082232

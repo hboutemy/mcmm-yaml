@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: ioteventsdata
 versioning:
-  latest: 2.16.34
-  release: 2.16.34
+  latest: 2.16.36
+  release: 2.16.36
   versions:
   - 2.5.54
   - 2.5.55
@@ -435,4 +435,6 @@ versioning:
   - 2.16.32
   - 2.16.33
   - 2.16.34
-  lastUpdated: 20210402191237
+  - 2.16.35
+  - 2.16.36
+  lastUpdated: 20210406202009

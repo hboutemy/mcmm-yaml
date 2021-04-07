@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat.embed
 artifactId: tomcat-embed-el
 versioning:
-  latest: 10.0.4
-  release: 10.0.4
+  latest: 10.0.5
+  release: 10.0.5
   versions:
   - 7.0.52
   - 7.0.53
@@ -142,6 +142,7 @@ versioning:
   - 8.5.61
   - 8.5.63
   - 8.5.64
+  - 8.5.65
   - 9.0.0.M1
   - 9.0.0.M3
   - 9.0.0.M4
@@ -196,6 +197,7 @@ versioning:
   - 9.0.41
   - 9.0.43
   - 9.0.44
+  - 9.0.45
   - 10.0.0-M1
   - 10.0.0-M3
   - 10.0.0-M4
@@ -208,4 +210,5 @@ versioning:
   - 10.0.0
   - 10.0.2
   - 10.0.4
-  lastUpdated: 20210310114823
+  - 10.0.5
+  lastUpdated: 20210406111433
