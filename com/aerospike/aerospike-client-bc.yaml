@@ -3,8 +3,8 @@
 groupId: com.aerospike
 artifactId: aerospike-client-bc
 versioning:
-  latest: 5.0.6
-  release: 5.0.6
+  latest: 5.0.6.dbg
+  release: 5.0.6.dbg
   versions:
   - 4.1.11
   - 4.2.0
@@ -39,4 +39,5 @@ versioning:
   - 5.0.4
   - 5.0.5
   - 5.0.6
-  lastUpdated: 20210331234201
+  - 5.0.6.dbg
+  lastUpdated: 20210407022530
