@@ -3,8 +3,8 @@
 groupId: de.adorsys.ledgers
 artifactId: gateway-app-embedded
 versioning:
-  latest: 11.0
-  release: 11.0
+  latest: 11.1
+  release: 11.1
   versions:
   - 4.5
   - 4.6
@@ -59,6 +59,7 @@ versioning:
   - 8.10
   - 8.11
   - 8.12
+  - 8.13
   - 9.0
   - 9.1
   - 9.2
@@ -71,5 +72,7 @@ versioning:
   - 9.9
   - 9.10
   - 10.0
+  - 10.1
   - 11.0
-  lastUpdated: 20210325194830
+  - 11.1
+  lastUpdated: 20210408153910

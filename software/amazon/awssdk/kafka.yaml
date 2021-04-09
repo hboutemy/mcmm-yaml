@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: kafka
 versioning:
-  latest: 2.16.37
-  release: 2.16.37
+  latest: 2.16.38
+  release: 2.16.38
   versions:
   - 2.1.3
   - 2.1.4
@@ -522,4 +522,5 @@ versioning:
   - 2.16.35
   - 2.16.36
   - 2.16.37
-  lastUpdated: 20210407192446
+  - 2.16.38
+  lastUpdated: 20210408192529
