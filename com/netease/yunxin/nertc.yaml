@@ -3,9 +3,11 @@
 groupId: com.netease.yunxin
 artifactId: nertc
 versioning:
-  latest: 4.1.0
-  release: 4.1.0
+  latest: 4.1.0-maven
+  release: 4.1.0-maven
   versions:
+  - 1.1.0-maven
   - 1.1.0-test
   - 4.1.0
-  lastUpdated: 20210408031452
+  - 4.1.0-maven
+  lastUpdated: 20210409110628
