@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish
 artifactId: jakarta.faces
 versioning:
-  latest: 3.0.0
-  release: 3.0.0
+  latest: 4.0.0-M1
+  release: 4.0.0-M1
   versions:
   - 2.3.9
   - 2.3.10
@@ -16,4 +16,5 @@ versioning:
   - 3.0.0-RC1
   - 3.0.0-RC3
   - 3.0.0
-  lastUpdated: 20210317174124
+  - 4.0.0-M1
+  lastUpdated: 20210411171125

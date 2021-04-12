@@ -3,8 +3,8 @@
 groupId: net.nemerosa.ontrack
 artifactId: ontrack-extension-ldap
 versioning:
-  latest: 4.0-beta.25
-  release: 4.0-beta.25
+  latest: 4.0-beta.26
+  release: 4.0-beta.26
   versions:
   - experimental-pipeline-a6e0b79
   - experimental-pipeline-a8ce70d
@@ -379,6 +379,7 @@ versioning:
   - 3.43.6
   - 3.43.7
   - 3.43.8
+  - 3.43.9
   - 4.0-alpha.0
   - 4.0-alpha.0-dirty
   - 4.0-alpha.1
@@ -409,4 +410,5 @@ versioning:
   - 4.0-beta.23
   - 4.0-beta.24
   - 4.0-beta.25
-  lastUpdated: 20210406182513
+  - 4.0-beta.26
+  lastUpdated: 20210411080610
