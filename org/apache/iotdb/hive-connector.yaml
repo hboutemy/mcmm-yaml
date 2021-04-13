@@ -3,8 +3,8 @@
 groupId: org.apache.iotdb
 artifactId: hive-connector
 versioning:
-  latest: 0.11.2
-  release: 0.11.2
+  latest: 0.12.0
+  release: 0.12.0
   versions:
   - 0.9.0
   - 0.9.1
@@ -15,4 +15,6 @@ versioning:
   - 0.11.0
   - 0.11.1
   - 0.11.2
-  lastUpdated: 20210122112950
+  - 0.11.3
+  - 0.12.0
+  lastUpdated: 20210412145828
