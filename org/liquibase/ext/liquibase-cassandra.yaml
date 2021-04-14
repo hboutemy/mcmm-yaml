@@ -3,8 +3,8 @@
 groupId: org.liquibase.ext
 artifactId: liquibase-cassandra
 versioning:
-  latest: 4.3.2.2
-  release: 4.3.2.2
+  latest: 4.3.3
+  release: 4.3.3
   versions:
   - 3.9.0
   - 3.10.0
@@ -24,4 +24,5 @@ versioning:
   - 4.3.1
   - 4.3.2
   - 4.3.2.2
-  lastUpdated: 20210406160856
+  - 4.3.3
+  lastUpdated: 20210413185315

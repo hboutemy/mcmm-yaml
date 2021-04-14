@@ -3,8 +3,8 @@
 groupId: io.zeebe.spring.examples
 artifactId: spring-zeebe-example-worker
 versioning:
-  latest: 0.26.2
-  release: 0.26.2
+  latest: 1.0.0-alpha5
+  release: 1.0.0-alpha5
   versions:
   - 0.1.0
   - 0.2.0
@@ -19,4 +19,5 @@ versioning:
   - 0.24.0
   - 0.25.0
   - 0.26.2
-  lastUpdated: 20210116150314
+  - 1.0.0-alpha5
+  lastUpdated: 20210413144246

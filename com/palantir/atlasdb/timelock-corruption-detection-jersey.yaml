@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: timelock-corruption-detection-jersey
 versioning:
-  latest: 0.321.5
-  release: 0.321.5
+  latest: 0.322.1
+  release: 0.322.1
   versions:
   - 0.312.2-rc2
   - 0.312.2-rc3
@@ -23,4 +23,6 @@ versioning:
   - 0.321.3
   - 0.321.4
   - 0.321.5
-  lastUpdated: 20210412101238
+  - 0.322.0
+  - 0.322.1
+  lastUpdated: 20210413171618

@@ -1,10 +1,14 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: dev.mlnr
 artifactId: BotListHandler-javacord
 versioning:
-  latest: 2.0.0_DEV1
-  release: 2.0.0_DEV1
+  latest: 2.0.0_2
+  release: 2.0.0_2
   versions:
+  - 2.0.0_1
+  - 2.0.0_2
   - 2.0.0_DEV1
-  lastUpdated: 20210412163835
+  - 2.0.0_DEV4
+  lastUpdated: 20210413230314
