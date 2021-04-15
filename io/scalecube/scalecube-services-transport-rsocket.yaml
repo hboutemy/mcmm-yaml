@@ -3,8 +3,8 @@
 groupId: io.scalecube
 artifactId: scalecube-services-transport-rsocket
 versioning:
-  latest: 2.10.17
-  release: 2.10.17
+  latest: 2.10.18-test-RC1
+  release: 2.10.18-test-RC1
   versions:
   - 2.4.1
   - 2.4.2
@@ -84,4 +84,6 @@ versioning:
   - 2.10.14
   - 2.10.15
   - 2.10.17
-  lastUpdated: 20210409160019
+  - 2.10.18
+  - 2.10.18-test-RC1
+  lastUpdated: 20210414153957

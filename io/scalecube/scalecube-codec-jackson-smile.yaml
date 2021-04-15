@@ -3,8 +3,8 @@
 groupId: io.scalecube
 artifactId: scalecube-codec-jackson-smile
 versioning:
-  latest: 2.6.8
-  release: 2.6.8
+  latest: 2.6.9-test-rc1
+  release: 2.6.9-test-rc1
   versions:
   - 2.4.10-RC9
   - 2.4.10-RC11
@@ -29,4 +29,6 @@ versioning:
   - 2.6.7.RC1
   - 2.6.7
   - 2.6.8
-  lastUpdated: 20210412132715
+  - 2.6.9
+  - 2.6.9-test-rc1
+  lastUpdated: 20210414131142
