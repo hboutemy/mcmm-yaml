@@ -3,8 +3,8 @@
 groupId: com.codacy
 artifactId: codacy-analysis-core_2.12
 versioning:
-  latest: 6.1.0-skipqatests.8.8b34bb7
-  release: 6.1.0-skipqatests.8.8b34bb7
+  latest: 6.2.2
+  release: 6.2.2
   versions:
   - 0.1.0-alpha3.140
   - 0.1.0-alpha3.152
@@ -136,4 +136,10 @@ versioning:
   - 6.0.0
   - 6.1.0
   - 6.1.0-skipqatests.8.8b34bb7
-  lastUpdated: 20210409101222
+  - 6.2.0
+  - 6.2.0-hackaccountapiendpoints.1.317db26
+  - 6.2.0-hackaccountapiendpoints.2.63bc2d5
+  - 6.2.1
+  - 6.2.1-cleancircleprs.1.3f1b71c
+  - 6.2.2
+  lastUpdated: 20210415170239
