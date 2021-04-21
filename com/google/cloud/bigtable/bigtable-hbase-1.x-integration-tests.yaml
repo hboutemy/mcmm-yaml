@@ -3,8 +3,8 @@
 groupId: com.google.cloud.bigtable
 artifactId: bigtable-hbase-1.x-integration-tests
 versioning:
-  latest: 1.19.1
-  release: 1.19.1
+  latest: 1.19.2
+  release: 1.19.2
   versions:
   - 1.1.1
   - 1.1.2
@@ -32,4 +32,5 @@ versioning:
   - 1.18.2
   - 1.19.0
   - 1.19.1
-  lastUpdated: 20210319161916
+  - 1.19.2
+  lastUpdated: 20210420184652

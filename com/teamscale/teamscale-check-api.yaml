@@ -3,8 +3,8 @@
 groupId: com.teamscale
 artifactId: teamscale-check-api
 versioning:
-  latest: 7.0.0-rc1
-  release: 7.0.0-rc1
+  latest: 7.0.0-rc2
+  release: 7.0.0-rc2
   versions:
   - 5.9.0-rc1
   - 5.9.0-rc3
@@ -112,6 +112,7 @@ versioning:
   - 6.6.7
   - 6.6.8
   - 6.6.9
+  - 6.6.10
   - 6.7.0-rc1
   - 6.7.0-rc2
   - 6.7.0-rc3
@@ -119,5 +120,7 @@ versioning:
   - 6.7.1
   - 6.7.2
   - 6.7.3
+  - 6.7.4
   - 7.0.0-rc1
-  lastUpdated: 20210414094626
+  - 7.0.0-rc2
+  lastUpdated: 20210420095158

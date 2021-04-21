@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: appstream
 versioning:
-  latest: 1.99.0
-  release: 1.99.0
+  latest: 1.100.0
+  release: 1.100.0
   versions:
   - 0.15.0
   - 0.15.1
@@ -164,4 +164,5 @@ versioning:
   - 1.97.0
   - 1.98.0
   - 1.99.0
-  lastUpdated: 20210419104952
+  - 1.100.0
+  lastUpdated: 20210420180513
