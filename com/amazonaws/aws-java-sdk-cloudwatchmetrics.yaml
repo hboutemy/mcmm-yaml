@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-cloudwatchmetrics
 versioning:
-  latest: 1.11.1001
-  release: 1.11.1001
+  latest: 1.11.1002
+  release: 1.11.1002
   versions:
   - 1.9.0
   - 1.9.1
@@ -1134,4 +1134,5 @@ versioning:
   - 1.11.999
   - 1.11.1000
   - 1.11.1001
-  lastUpdated: 20210419193515
+  - 1.11.1002
+  lastUpdated: 20210421221704

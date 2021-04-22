@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-logging-sentry-deployment
 versioning:
-  latest: 1.13.2.Final
-  release: 1.13.2.Final
+  latest: 2.0.0.Alpha1
+  release: 2.0.0.Alpha1
   versions:
   - 1.1.0.CR1
   - 1.1.0.Final
@@ -75,4 +75,5 @@ versioning:
   - 1.13.0.Final
   - 1.13.1.Final
   - 1.13.2.Final
-  lastUpdated: 20210414130630
+  - 2.0.0.Alpha1
+  lastUpdated: 20210421184408

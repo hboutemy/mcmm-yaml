@@ -3,8 +3,8 @@
 groupId: io.micronaut.micrometer
 artifactId: micronaut-micrometer-registry-stackdriver
 versioning:
-  latest: 3.3.0-TEST
-  release: 3.3.0-TEST
+  latest: 3.4.0
+  release: 3.4.0
   versions:
   - 2.0.0.RC2
   - 2.0.0.RC3
@@ -18,4 +18,5 @@ versioning:
   - 3.2.0
   - 3.3.0
   - 3.3.0-TEST
-  lastUpdated: 20210218111838
+  - 3.4.0
+  lastUpdated: 20210421143049

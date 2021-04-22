@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-serviceconsumermanagement
 versioning:
-  latest: v1-rev20210410-1.31.0
-  release: v1-rev20210410-1.31.0
+  latest: v1-rev20210417-1.31.0
+  release: v1-rev20210417-1.31.0
   versions:
   - v1alpha-rev1-1.18.0-rc
   - v1alpha-rev1-1.21.0
@@ -48,6 +48,7 @@ versioning:
   - v1beta1-rev20210319-1.31.0
   - v1beta1-rev20210326-1.31.0
   - v1beta1-rev20210410-1.31.0
+  - v1beta1-rev20210417-1.31.0
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.21.0
   - v1-rev1-1.22.0
@@ -954,4 +955,5 @@ versioning:
   - v1-rev20210319-1.31.0
   - v1-rev20210326-1.31.0
   - v1-rev20210410-1.31.0
-  lastUpdated: 20210413202948
+  - v1-rev20210417-1.31.0
+  lastUpdated: 20210421203534
