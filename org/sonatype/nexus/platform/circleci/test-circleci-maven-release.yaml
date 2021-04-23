@@ -1,8 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.sonatype.nexus.platform.circleci
 artifactId: test-circleci-maven-release
 versioning:
+  latest: 0.0.8
   release: 0.0.8
   versions:
   - 0.0.0
@@ -14,4 +16,4 @@ versioning:
   - 0.0.6
   - 0.0.7
   - 0.0.8
-  lastUpdated: 20200324210059
+  lastUpdated: 20210422185243
