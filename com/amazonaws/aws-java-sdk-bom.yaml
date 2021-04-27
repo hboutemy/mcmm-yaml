@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-bom
 versioning:
-  latest: 1.11.1004
-  release: 1.11.1004
+  latest: 1.11.1005
+  release: 1.11.1005
   versions:
   - 1.10.6
   - 1.10.7
@@ -1086,4 +1086,5 @@ versioning:
   - 1.11.1002
   - 1.11.1003
   - 1.11.1004
-  lastUpdated: 20210423212126
+  - 1.11.1005
+  lastUpdated: 20210426205602

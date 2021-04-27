@@ -3,12 +3,13 @@
 groupId: io.github.hlfsousa
 artifactId: ncml-annotation
 versioning:
-  latest: 0.5.1
-  release: 0.5.1
+  latest: 0.5.1-downgraded
+  release: 0.5.1-downgraded
   versions:
   - 0.1.0
   - 0.4.0
   - 0.5.0
   - 0.5.0-downgraded
   - 0.5.1
-  lastUpdated: 20210327151327
+  - 0.5.1-downgraded
+  lastUpdated: 20210426102824
