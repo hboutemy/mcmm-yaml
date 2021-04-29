@@ -3,8 +3,8 @@
 groupId: com.amazon.deequ
 artifactId: deequ
 versioning:
-  latest: 1.2.1-spark-3.0
-  release: 1.2.1-spark-3.0
+  latest: 1.2.2-spark-3.0
+  release: 1.2.2-spark-3.0
   versions:
   - 1.0.3-RC1
   - 1.0.3-rc2
@@ -22,6 +22,9 @@ versioning:
   - 1.2.1-spark-2.3
   - 1.2.1-spark-2.4
   - 1.2.1-spark-3.0
+  - 1.2.2-spark-2.2
+  - 1.2.2-spark-2.4
+  - 1.2.2-spark-3.0
   - 1.0-alpha-1
   - 1.0.0
   - 1.0.0-rc0
@@ -32,4 +35,4 @@ versioning:
   - 1.0.0-rc5
   - 1.0.1
   - 1.0.2
-  lastUpdated: 20210421124027
+  lastUpdated: 20210428131002
