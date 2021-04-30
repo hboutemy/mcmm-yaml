@@ -3,11 +3,12 @@
 groupId: org.apache.flink
 artifactId: flink-sql-avro-confluent-registry
 versioning:
-  latest: 1.12.3
-  release: 1.12.3
+  latest: 1.13.0
+  release: 1.13.0
   versions:
   - 1.12.0
   - 1.12.1
   - 1.12.2
   - 1.12.3
-  lastUpdated: 20210428142728
+  - 1.13.0
+  lastUpdated: 20210429134559

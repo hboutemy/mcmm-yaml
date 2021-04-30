@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-bigqueryreservation
 versioning:
-  latest: v1-rev20210416-1.31.0
-  release: v1-rev20210416-1.31.0
+  latest: v1-rev20210423-1.31.0
+  release: v1-rev20210423-1.31.0
   versions:
   - v1alpha2-rev8-1.18.0-rc
   - v1alpha2-rev8-1.25.0
@@ -80,6 +80,7 @@ versioning:
   - v1beta1-rev20210217-1.31.0
   - v1beta1-rev20210324-1.31.0
   - v1beta1-rev20210416-1.31.0
+  - v1beta1-rev20210423-1.31.0
   - v1-rev8-1.18.0-rc
   - v1-rev8-1.25.0
   - v1-rev9-1.18.0-rc
@@ -122,4 +123,5 @@ versioning:
   - v1-rev20210217-1.31.0
   - v1-rev20210324-1.31.0
   - v1-rev20210416-1.31.0
-  lastUpdated: 20210423201137
+  - v1-rev20210423-1.31.0
+  lastUpdated: 20210429200316

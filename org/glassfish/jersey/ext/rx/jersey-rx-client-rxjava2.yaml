@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.ext.rx
 artifactId: jersey-rx-client-rxjava2
 versioning:
-  latest: 3.0.1
-  release: 3.0.1
+  latest: 3.0.2
+  release: 3.0.2
   versions:
   - 2.26-b02
   - 2.26-b03
@@ -32,4 +32,5 @@ versioning:
   - 3.0.0-RC2
   - 3.0.0
   - 3.0.1
-  lastUpdated: 20210420191903
+  - 3.0.2
+  lastUpdated: 20210429124151
