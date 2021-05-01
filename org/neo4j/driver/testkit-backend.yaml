@@ -3,8 +3,8 @@
 groupId: org.neo4j.driver
 artifactId: testkit-backend
 versioning:
-  latest: 4.3.0-alpha01
-  release: 4.3.0-alpha01
+  latest: 4.3.0-beta01
+  release: 4.3.0-beta01
   versions:
   - 4.2.0-alpha01
   - 4.2.0
@@ -14,4 +14,5 @@ versioning:
   - 4.2.4
   - 4.2.5
   - 4.3.0-alpha01
-  lastUpdated: 20210422112437
+  - 4.3.0-beta01
+  lastUpdated: 20210430122225
