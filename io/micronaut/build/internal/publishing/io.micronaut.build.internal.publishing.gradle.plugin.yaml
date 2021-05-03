@@ -3,8 +3,8 @@
 groupId: io.micronaut.build.internal.publishing
 artifactId: io.micronaut.build.internal.publishing.gradle.plugin
 versioning:
-  latest: 3.0.4
-  release: 3.0.4
+  latest: 4.0.0.RC3
+  release: 4.0.0.RC3
   versions:
   - 3.0.0-M1
   - 3.0.0
@@ -12,4 +12,7 @@ versioning:
   - 3.0.2
   - 3.0.3
   - 3.0.4
-  lastUpdated: 20210423100035
+  - 4.0.0.RC1
+  - 4.0.0.RC2
+  - 4.0.0.RC3
+  lastUpdated: 20210502194940
