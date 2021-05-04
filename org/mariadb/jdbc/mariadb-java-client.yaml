@@ -3,8 +3,8 @@
 groupId: org.mariadb.jdbc
 artifactId: mariadb-java-client
 versioning:
-  latest: 2.7.2
-  release: 2.7.2
+  latest: 3.0.0-alpha
+  release: 3.0.0-alpha
   versions:
   - 1.1.7
   - 1.1.8
@@ -86,5 +86,6 @@ versioning:
   - 2.7.0
   - 2.7.1
   - 2.7.2
+  - 3.0.0-alpha
   - 1.1.9
-  lastUpdated: 20210129164206
+  lastUpdated: 20210503191435

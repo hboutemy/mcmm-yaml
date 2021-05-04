@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: chime
 versioning:
-  latest: 2.16.52
-  release: 2.16.52
+  latest: 2.16.54
+  release: 2.16.54
   versions:
   - 2.1.0
   - 2.1.1
@@ -540,4 +540,6 @@ versioning:
   - 2.16.50
   - 2.16.51
   - 2.16.52
-  lastUpdated: 20210430191028
+  - 2.16.53
+  - 2.16.54
+  lastUpdated: 20210503220143

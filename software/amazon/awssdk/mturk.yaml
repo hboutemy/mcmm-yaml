@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: mturk
 versioning:
-  latest: 2.16.52
-  release: 2.16.52
+  latest: 2.16.54
+  release: 2.16.54
   versions:
   - 2.0.0-preview-12
   - 2.0.0-preview-13
@@ -542,4 +542,6 @@ versioning:
   - 2.16.50
   - 2.16.51
   - 2.16.52
-  lastUpdated: 20210430191114
+  - 2.16.53
+  - 2.16.54
+  lastUpdated: 20210503220230
