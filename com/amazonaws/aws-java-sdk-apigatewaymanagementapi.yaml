@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-apigatewaymanagementapi
 versioning:
-  latest: 1.11.1009
-  release: 1.11.1009
+  latest: 1.11.1011
+  release: 1.11.1011
   versions:
   - 1.11.472
   - 1.11.473
@@ -544,4 +544,6 @@ versioning:
   - 1.11.1007
   - 1.11.1008
   - 1.11.1009
-  lastUpdated: 20210430204114
+  - 1.11.1010
+  - 1.11.1011
+  lastUpdated: 20210504194539

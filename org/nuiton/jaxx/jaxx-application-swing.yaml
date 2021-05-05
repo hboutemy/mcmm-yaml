@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.nuiton.jaxx
 artifactId: jaxx-application-swing
 versioning:
   latest: 3.0-alpha-1
-  release: 2.46
+  release: 3.0-alpha-1
   versions:
   - 2.8
   - 2.8.1
@@ -59,6 +60,6 @@ versioning:
   - 2.44
   - 2.45
   - 3.0-alpha-1
-  - 2.46
   - 2.42
-  lastUpdated: 20210427135838
+  - 2.46
+  lastUpdated: 20210503232035

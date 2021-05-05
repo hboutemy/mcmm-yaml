@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-server-memcached
 versioning:
-  latest: 12.1.1.Final
-  release: 12.1.1.Final
+  latest: 12.1.2.Final
+  release: 12.1.2.Final
   versions:
   - 5.0.0.FINAL
   - 5.0.1.FINAL
@@ -287,5 +287,6 @@ versioning:
   - 12.1.0.Final
   - 12.1.0.Dev01
   - 12.1.1.Final
+  - 12.1.2.Final
   - 12.0.0.Dev3
-  lastUpdated: 20210413182619
+  lastUpdated: 20210504170044
