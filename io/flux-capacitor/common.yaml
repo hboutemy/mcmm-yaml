@@ -3,9 +3,10 @@
 groupId: io.flux-capacitor
 artifactId: common
 versioning:
-  latest: 0.293
-  release: 0.293
+  latest: 0.294
+  release: 0.294
   versions:
+  - add-index-to-aggregate
   - add-previous-aggregate
   - apply-by-entity
   - entities-take2
@@ -295,4 +296,5 @@ versioning:
   - 0.291
   - 0.292
   - 0.293
-  lastUpdated: 20210428074046
+  - 0.294
+  lastUpdated: 20210505172425

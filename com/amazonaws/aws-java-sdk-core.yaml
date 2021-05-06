@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-core
 versioning:
-  latest: 1.11.1011
-  release: 1.11.1011
+  latest: 1.11.1013
+  release: 1.11.1013
   versions:
   - 1.8.10
   - 1.8.10.1
@@ -1149,4 +1149,6 @@ versioning:
   - 1.11.1009
   - 1.11.1010
   - 1.11.1011
-  lastUpdated: 20210504194605
+  - 1.11.1012
+  - 1.11.1013
+  lastUpdated: 20210505211148

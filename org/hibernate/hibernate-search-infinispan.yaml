@@ -3,8 +3,8 @@
 groupId: org.hibernate
 artifactId: hibernate-search-infinispan
 versioning:
-  latest: 5.11.8.Final
-  release: 5.11.8.Final
+  latest: 5.11.9.Final
+  release: 5.11.9.Final
   versions:
   - 3.3.0.Final
   - 3.4.0.CR1
@@ -141,6 +141,7 @@ versioning:
   - 5.10.8.Final
   - 5.10.9.Final
   - 5.10.10.Final
+  - 5.10.11.Final
   - 5.11.0.CR1
   - 5.11.0.Final
   - 5.11.1.Final
@@ -151,4 +152,5 @@ versioning:
   - 5.11.6.Final
   - 5.11.7.Final
   - 5.11.8.Final
-  lastUpdated: 20210105080726
+  - 5.11.9.Final
+  lastUpdated: 20210505145015

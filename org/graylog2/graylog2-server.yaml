@@ -3,8 +3,8 @@
 groupId: org.graylog2
 artifactId: graylog2-server
 versioning:
-  latest: 4.0.6
-  release: 4.0.6
+  latest: 4.0.7
+  release: 4.0.7
   versions:
   - 0.20.0-rc.1-1
   - 0.21.0-beta2
@@ -173,6 +173,7 @@ versioning:
   - 3.3.10
   - 3.3.11
   - 3.3.12
+  - 3.3.13
   - 4.0.0-beta.4
   - 4.0.0-rc.1
   - 4.0.0-rc.2
@@ -183,7 +184,8 @@ versioning:
   - 4.0.4
   - 4.0.5
   - 4.0.6
+  - 4.0.7
   - 1.1.2
   - 1.1.3
   - 3.0.0-beta.3
-  lastUpdated: 20210414172243
+  lastUpdated: 20210505154944

@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-cypher-interpreted-runtime
 versioning:
-  latest: 4.2.5
-  release: 4.2.5
+  latest: 4.2.6
+  release: 4.2.6
   versions:
   - 3.4.0-alpha01
   - 3.4.0-alpha02
@@ -108,4 +108,5 @@ versioning:
   - 4.2.3
   - 4.2.4
   - 4.2.5
-  lastUpdated: 20210420120824
+  - 4.2.6
+  lastUpdated: 20210505114349

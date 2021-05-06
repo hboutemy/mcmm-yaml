@@ -3,8 +3,8 @@
 groupId: software.amazon.awssdk
 artifactId: cloudwatch-metric-publisher
 versioning:
-  latest: 2.16.55
-  release: 2.16.55
+  latest: 2.16.57
+  release: 2.16.57
   versions:
   - 2.13.52-PREVIEW
   - 2.13.53-PREVIEW
@@ -199,4 +199,6 @@ versioning:
   - 2.16.53
   - 2.16.54
   - 2.16.55
-  lastUpdated: 20210504193545
+  - 2.16.56
+  - 2.16.57
+  lastUpdated: 20210505203457
