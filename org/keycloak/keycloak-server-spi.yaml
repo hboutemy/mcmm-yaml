@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-server-spi
 versioning:
-  latest: 12.0.4
-  release: 12.0.4
+  latest: 13.0.0
+  release: 13.0.0
   versions:
   - 1.9.0.CR1
   - 1.9.0.Final
@@ -85,4 +85,5 @@ versioning:
   - 12.0.2
   - 12.0.3
   - 12.0.4
-  lastUpdated: 20210301080439
+  - 13.0.0
+  lastUpdated: 20210506121608

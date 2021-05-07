@@ -3,8 +3,8 @@
 groupId: com.lightbend.cloudflow
 artifactId: cloudflow-crd_2.13
 versioning:
-  latest: 2.0.26-RC42
-  release: 2.0.26-RC42
+  latest: 2.1.0-RC1
+  release: 2.1.0-RC1
   versions:
   - back-to-core-0.0.1
   - 0.0.1-back-to-core-20210504
@@ -20,6 +20,7 @@ versioning:
   - 2.0.25-NIGHTLY20210503
   - 2.0.25-NIGHTLY20210504
   - 2.0.25-NIGHTLY20210505
+  - 2.0.25-NIGHTLY20210506
   - 2.0.26-RC22
   - 2.0.26-RC26
   - 2.0.26-RC27
@@ -36,4 +37,5 @@ versioning:
   - 2.0.26-RC40
   - 2.0.26-RC41
   - 2.0.26-RC42
-  lastUpdated: 20210505114742
+  - 2.1.0-RC1
+  lastUpdated: 20210506131737

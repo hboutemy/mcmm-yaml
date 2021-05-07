@@ -3,8 +3,8 @@
 groupId: com.lightbend.cloudflow
 artifactId: cloudflow-runner-config_2.12
 versioning:
-  latest: 2.0.26-RC42
-  release: 2.0.26-RC42
+  latest: 2.1.0-RC1
+  release: 2.1.0-RC1
   versions:
   - back-to-core-SNAPSHOT-1
   - back-to-core-SNAPSHOT-2
@@ -38,6 +38,7 @@ versioning:
   - 2.0.25-NIGHTLY20210503
   - 2.0.25-NIGHTLY20210504
   - 2.0.25-NIGHTLY20210505
+  - 2.0.25-NIGHTLY20210506
   - 2.0.26-RC11
   - 2.0.26-RC12
   - 2.0.26-RC13
@@ -61,4 +62,5 @@ versioning:
   - 2.0.26-RC40
   - 2.0.26-RC41
   - 2.0.26-RC42
-  lastUpdated: 20210505114755
+  - 2.1.0-RC1
+  lastUpdated: 20210506131749

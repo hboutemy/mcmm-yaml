@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-adapter-core
 versioning:
-  latest: 12.0.4
-  release: 12.0.4
+  latest: 13.0.0
+  release: 13.0.0
   versions:
   - 1.0-alpha-1
   - 1.0-alpha-2
@@ -126,5 +126,6 @@ versioning:
   - 12.0.2
   - 12.0.3
   - 12.0.4
+  - 13.0.0
   - 1.5.0-Final
-  lastUpdated: 20210301080221
+  lastUpdated: 20210506121445
