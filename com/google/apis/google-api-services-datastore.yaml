@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-datastore
 versioning:
-  latest: v1-rev20210326-1.31.0
-  release: v1-rev20210326-1.31.0
+  latest: v1-rev20210426-1.31.0
+  release: v1-rev20210426-1.31.0
   versions:
   - v1beta1-rev1-1.13.2-beta
   - v1beta1-rev1-1.14.2-beta
@@ -832,6 +832,7 @@ versioning:
   - v1beta3-rev20201017-1.30.10
   - v1beta3-rev20201017-1.31.0
   - v1beta3-rev20210326-1.31.0
+  - v1beta3-rev20210426-1.31.0
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.20.0
   - v1-rev1-1.21.0
@@ -1125,4 +1126,5 @@ versioning:
   - v1-rev20201017-1.30.10
   - v1-rev20201017-1.31.0
   - v1-rev20210326-1.31.0
-  lastUpdated: 20210413201452
+  - v1-rev20210426-1.31.0
+  lastUpdated: 20210507205831
