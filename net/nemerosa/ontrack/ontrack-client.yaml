@@ -3,8 +3,8 @@
 groupId: net.nemerosa.ontrack
 artifactId: ontrack-client
 versioning:
-  latest: 4.0-beta.33
-  release: 4.0-beta.33
+  latest: 4.0-beta.34
+  release: 4.0-beta.34
   versions:
   - experimental-pipeline-a6e0b79
   - experimental-pipeline-a8ce70d
@@ -391,6 +391,7 @@ versioning:
   - 3.43.12
   - 3.43.13
   - 3.43.14
+  - 3.43.15
   - 4.0-alpha.0
   - 4.0-alpha.0-dirty
   - 4.0-alpha.1
@@ -429,4 +430,5 @@ versioning:
   - 4.0-beta.31
   - 4.0-beta.32
   - 4.0-beta.33
-  lastUpdated: 20210504141029
+  - 4.0-beta.34
+  lastUpdated: 20210508193420
