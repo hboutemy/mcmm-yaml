@@ -3,8 +3,8 @@
 groupId: org.apache.tinkerpop
 artifactId: hadoop-gremlin
 versioning:
-  latest: 3.4.10
-  release: 3.4.10
+  latest: 3.5.0
+  release: 3.5.0
   versions:
   - 3.0.0.M8-incubating
   - 3.0.0.M9-incubating
@@ -55,4 +55,6 @@ versioning:
   - 3.4.8
   - 3.4.9
   - 3.4.10
-  lastUpdated: 20210122121118
+  - 3.4.11
+  - 3.5.0
+  lastUpdated: 20210510115830

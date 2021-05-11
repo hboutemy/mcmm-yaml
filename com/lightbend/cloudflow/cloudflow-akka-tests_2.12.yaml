@@ -3,8 +3,8 @@
 groupId: com.lightbend.cloudflow
 artifactId: cloudflow-akka-tests_2.12
 versioning:
-  latest: 2.1.0-RC1
-  release: 2.1.0-RC1
+  latest: 2.1.0
+  release: 2.1.0
   versions:
   - 0.0.0-NIGHTLY01122020
   - 0.0.0-NIGHTLY02122020
@@ -338,6 +338,7 @@ versioning:
   - 2.0.25-NIGHTLY20210506
   - 2.0.25-NIGHTLY20210508
   - 2.0.25-NIGHTLY20210509
+  - 2.0.25-NIGHTLY20210510
   - 2.0.25-SNAP1
   - 2.0.25-SNAP2
   - 2.0.25-SNAP3
@@ -382,9 +383,10 @@ versioning:
   - 2.0.26-SNAP10
   - 2.0.26-SNAP11
   - 2.1.0-RC1
+  - 2.1.0
   - back-to-core-0.0.1
   - back-to-core-SNAPSHOT-1
   - back-to-core-SNAPSHOT-2
   - back-to-core-SNAPSHOT-3
   - back-to-core-SNAPSHOT-4
-  lastUpdated: 20210509012021
+  lastUpdated: 20210510081814

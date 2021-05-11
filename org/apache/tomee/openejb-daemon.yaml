@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.apache.tomee
 artifactId: openejb-daemon
 versioning:
-  latest: 8.0.6
-  release: 8.0.6
+  latest: 8.0.7
+  release: 8.0.7
   versions:
   - 7.0.0-M1
   - 7.0.0-M2
@@ -35,4 +35,5 @@ versioning:
   - 8.0.4
   - 8.0.5
   - 8.0.6
-  lastUpdated: 20210125154217
+  - 8.0.7
+  lastUpdated: 20210510210821
