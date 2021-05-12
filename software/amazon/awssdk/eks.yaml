@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: eks
 versioning:
-  latest: 2.16.60
-  release: 2.16.60
+  latest: 2.16.61
+  release: 2.16.61
   versions:
   - 2.1.0
   - 2.1.1
@@ -548,4 +548,5 @@ versioning:
   - 2.16.58
   - 2.16.59
   - 2.16.60
-  lastUpdated: 20210510191340
+  - 2.16.61
+  lastUpdated: 20210511191222

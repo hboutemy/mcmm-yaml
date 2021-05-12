@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-container-test-utils
 versioning:
-  latest: 0.335.3
-  release: 0.335.3
+  latest: 0.336.4-rc1
+  release: 0.336.4-rc1
   versions:
   - 0.312.2-rc2
   - 0.312.2-rc3
@@ -47,4 +47,9 @@ versioning:
   - 0.335.0
   - 0.335.2
   - 0.335.3
-  lastUpdated: 20210510165036
+  - 0.336.0
+  - 0.336.1
+  - 0.336.2
+  - 0.336.3
+  - 0.336.4-rc1
+  lastUpdated: 20210511160519
