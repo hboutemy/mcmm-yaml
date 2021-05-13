@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework
 artifactId: spring-beans
 versioning:
-  latest: 5.3.6
-  release: 5.3.6
+  latest: 5.3.7
+  release: 5.3.7
   versions:
   - 1.0-m4
   - 1.0-rc1
@@ -195,6 +195,7 @@ versioning:
   - 5.2.12.RELEASE
   - 5.2.13.RELEASE
   - 5.2.14.RELEASE
+  - 5.2.15.RELEASE
   - 5.3.0
   - 5.3.1
   - 5.3.2
@@ -202,8 +203,9 @@ versioning:
   - 5.3.4
   - 5.3.5
   - 5.3.6
+  - 5.3.7
   - 2.0-m3
   - 2.0-m5
   - 2.0-rc1
   - 2.0-rc2
-  lastUpdated: 20210413120416
+  lastUpdated: 20210512063021
