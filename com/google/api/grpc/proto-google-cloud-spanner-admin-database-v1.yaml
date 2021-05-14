@@ -3,8 +3,8 @@
 groupId: com.google.api.grpc
 artifactId: proto-google-cloud-spanner-admin-database-v1
 versioning:
-  latest: 4.0.3
-  release: 4.0.3
+  latest: 6.4.1
+  release: 6.4.1
   versions:
   - 0.1.9
   - 0.1.10
@@ -147,11 +147,7 @@ versioning:
   - 3.3.0
   - 3.3.1
   - 3.3.2
-  - 3.3.3
   - 4.0.0
-  - 4.0.1
-  - 4.0.2
-  - 4.0.3
   - 5.0.0
   - 5.1.0
   - 5.2.0
@@ -165,4 +161,10 @@ versioning:
   - 6.3.2
   - 6.3.3
   - 6.4.0
-  lastUpdated: 20210507061511
+  - 6.4.1
+  - 3.3.3
+  - 3.3.3-sp.1
+  - 4.0.1
+  - 4.0.2
+  - 4.0.3
+  lastUpdated: 20210513172446

@@ -3,8 +3,8 @@
 groupId: org.neo4j.driver
 artifactId: neo4j-java-driver-parent
 versioning:
-  latest: 4.3.0-beta01
-  release: 4.3.0-beta01
+  latest: 4.3.0-rc01
+  release: 4.3.0-rc01
   versions:
   - 1.0.0-M01
   - 1.0.0-M02
@@ -110,4 +110,5 @@ versioning:
   - 4.2.5
   - 4.3.0-alpha01
   - 4.3.0-beta01
-  lastUpdated: 20210507224850
+  - 4.3.0-rc01
+  lastUpdated: 20210513170657

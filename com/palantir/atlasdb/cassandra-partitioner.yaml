@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: cassandra-partitioner
 versioning:
-  latest: 0.336.4
-  release: 0.336.4
+  latest: 0.337.0
+  release: 0.337.0
   versions:
   - 0.312.2-rc2
   - 0.312.2-rc3
@@ -53,4 +53,5 @@ versioning:
   - 0.336.3
   - 0.336.4-rc1
   - 0.336.4
-  lastUpdated: 20210512150315
+  - 0.337.0
+  lastUpdated: 20210513152416
