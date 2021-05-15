@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jaxb
 artifactId: osgi-test-jxc
 versioning:
-  latest: 3.0.1
-  release: 3.0.1
+  latest: 3.0.2-b01
+  release: 3.0.2-b01
   versions:
   - 2.3.0-b170127.1453
   - 2.3.0
@@ -23,4 +23,5 @@ versioning:
   - 3.0.0-M5
   - 3.0.0
   - 3.0.1
-  lastUpdated: 20210427112547
+  - 3.0.2-b01
+  lastUpdated: 20210514043258

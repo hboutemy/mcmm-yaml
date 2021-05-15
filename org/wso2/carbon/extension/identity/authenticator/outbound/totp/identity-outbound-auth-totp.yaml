@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.extension.identity.authenticator.outbound.totp
 artifactId: identity-outbound-auth-totp
 versioning:
-  latest: 3.0.5
-  release: 3.0.5
+  latest: 3.0.7
+  release: 3.0.7
   versions:
   - 2.0.2
   - 2.0.3
@@ -43,4 +43,6 @@ versioning:
   - 3.0.3
   - 3.0.4
   - 3.0.5
-  lastUpdated: 20210318190331
+  - 3.0.6
+  - 3.0.7
+  lastUpdated: 20210514144550
