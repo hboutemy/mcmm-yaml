@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlinx
 artifactId: kotlinx-coroutines-debug
 versioning:
-  latest: 1.5.0
-  release: 1.5.0
+  latest: 1.5.0-native-mt
+  release: 1.5.0-native-mt
   versions:
   - 1.1.0-alpha
   - 1.1.0
@@ -49,4 +49,5 @@ versioning:
   - 1.5.0-RC
   - 1.5.0-RC-native-mt
   - 1.5.0
-  lastUpdated: 20210514144941
+  - 1.5.0-native-mt
+  lastUpdated: 20210516205040
