@@ -3,8 +3,8 @@
 groupId: com.google.api
 artifactId: gax-bom
 versioning:
-  latest: 1.64.0
-  release: 1.64.0
+  latest: 1.64.0-sp.1
+  release: 1.64.0-sp.1
   versions:
   - 1.34.0
   - 1.35.0
@@ -51,4 +51,5 @@ versioning:
   - 1.63.3
   - 1.63.4
   - 1.64.0
-  lastUpdated: 20210510203333
+  - 1.64.0-sp.1
+  lastUpdated: 20210517183958
