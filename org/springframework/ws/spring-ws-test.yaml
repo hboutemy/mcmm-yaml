@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.ws
 artifactId: spring-ws-test
 versioning:
-  latest: 3.0.10.RELEASE
-  release: 3.0.10.RELEASE
+  latest: 3.1.1
+  release: 3.1.1
   versions:
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
@@ -44,4 +44,6 @@ versioning:
   - 3.0.8.RELEASE
   - 3.0.9.RELEASE
   - 3.0.10.RELEASE
-  lastUpdated: 20200915182901
+  - 3.1.0
+  - 3.1.1
+  lastUpdated: 20210518184015

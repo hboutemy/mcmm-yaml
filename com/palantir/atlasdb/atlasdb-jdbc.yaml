@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-jdbc
 versioning:
-  latest: 0.338.2
-  release: 0.338.2
+  latest: 0.339.1-rc1
+  release: 0.339.1-rc1
   versions:
   - 0.312.2-rc2
   - 0.312.2-rc3
@@ -58,4 +58,6 @@ versioning:
   - 0.338.0
   - 0.338.1
   - 0.338.2
-  lastUpdated: 20210517144345
+  - 0.339.0
+  - 0.339.1-rc1
+  lastUpdated: 20210518193435

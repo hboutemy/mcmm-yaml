@@ -3,8 +3,8 @@
 groupId: org.eclipse.hono
 artifactId: hono-adapter-coap-vertx-base
 versioning:
-  latest: 1.7.1
-  release: 1.7.1
+  latest: 1.7.3
+  release: 1.7.3
   versions:
   - 0.8-M1_1
   - 1.1.0-M2
@@ -34,4 +34,6 @@ versioning:
   - 1.6.2
   - 1.7.0
   - 1.7.1
-  lastUpdated: 20210426161126
+  - 1.7.2
+  - 1.7.3
+  lastUpdated: 20210518161525

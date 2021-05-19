@@ -3,8 +3,8 @@
 groupId: com.google.gerrit
 artifactId: gerrit-acceptance-framework
 versioning:
-  latest: 3.4.0-rc5
-  release: 3.4.0-rc5
+  latest: 3.4.0
+  release: 3.4.0
   versions:
   - 2.12-rc0
   - 2.12
@@ -175,6 +175,7 @@ versioning:
   - 3.2.7
   - 3.2.8
   - 3.2.9
+  - 3.2.10
   - 3.3.0-rc0
   - 3.3.0-rc1
   - 3.3.0-rc2
@@ -187,10 +188,12 @@ versioning:
   - 3.3.1
   - 3.3.2
   - 3.3.3
+  - 3.3.4
   - 3.4.0-rc0
   - 3.4.0-rc1
   - 3.4.0-rc2
   - 3.4.0-rc3
   - 3.4.0-rc4
   - 3.4.0-rc5
-  lastUpdated: 20210517210939
+  - 3.4.0
+  lastUpdated: 20210518045403

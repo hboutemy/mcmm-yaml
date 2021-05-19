@@ -3,8 +3,8 @@
 groupId: com.avast
 artifactId: sst-cassandra-datastax-driver-pureconfig_2.12
 versioning:
-  latest: 0.9.1
-  release: 0.9.1
+  latest: 0.10.1
+  release: 0.10.1
   versions:
   - 0.1.13
   - 0.1.14
@@ -61,4 +61,6 @@ versioning:
   - 0.8.0
   - 0.9.0
   - 0.9.1
-  lastUpdated: 20210517092312
+  - 0.10.0
+  - 0.10.1
+  lastUpdated: 20210518103011
