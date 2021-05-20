@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-cli-distribution
 versioning:
-  latest: 0.339.1-rc1
-  release: 0.339.1-rc1
+  latest: 0.339.1
+  release: 0.339.1
   versions:
   - 0.312.2-rc2
   - 0.312.2-rc3
@@ -60,4 +60,5 @@ versioning:
   - 0.338.2
   - 0.339.0
   - 0.339.1-rc1
-  lastUpdated: 20210518193354
+  - 0.339.1
+  lastUpdated: 20210519130239
