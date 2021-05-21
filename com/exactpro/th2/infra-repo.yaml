@@ -3,8 +3,8 @@
 groupId: com.exactpro.th2
 artifactId: infra-repo
 versioning:
-  latest: 1.0.11
-  release: 1.0.11
+  latest: 1.0.12-validation
+  release: 1.0.12-validation
   versions:
   - 1.0.5
   - 1.0.6
@@ -19,4 +19,6 @@ versioning:
   - 1.0.10-refactoring
   - 1.0.10-refactoring-1
   - 1.0.11
-  lastUpdated: 20210519152115
+  - 1.0.12
+  - 1.0.12-validation
+  lastUpdated: 20210520144656

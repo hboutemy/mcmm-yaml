@@ -3,8 +3,8 @@
 groupId: de.adorsys.psd2.sandbox
 artifactId: tpp-rest-api
 versioning:
-  latest: 5.10
-  release: 5.10
+  latest: 5.11
+  release: 5.11
   versions:
   - 1.1
   - 1.2
@@ -44,6 +44,7 @@ versioning:
   - 4.6
   - 4.8
   - 4.9
+  - 4.10
   - 5.0
   - 5.2
   - 5.4
@@ -57,4 +58,5 @@ versioning:
   - 5.8.2
   - 5.9
   - 5.10
-  lastUpdated: 20210423124724
+  - 5.11
+  lastUpdated: 20210520143837
