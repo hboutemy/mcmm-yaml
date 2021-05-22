@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty.websocket
 artifactId: websocket-jetty-server
 versioning:
-  latest: 11.0.2
-  release: 11.0.2
+  latest: 11.0.3
+  release: 11.0.3
   versions:
   - 10.0.0.alpha2
   - 10.0.0.beta0
@@ -14,6 +14,7 @@ versioning:
   - 10.0.0
   - 10.0.1
   - 10.0.2
+  - 10.0.3
   - 11.0.0-alpha0
   - 11.0.0.beta1
   - 11.0.0.beta2
@@ -21,4 +22,5 @@ versioning:
   - 11.0.0
   - 11.0.1
   - 11.0.2
-  lastUpdated: 20210329024611
+  - 11.0.3
+  lastUpdated: 20210521150107

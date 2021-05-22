@@ -3,8 +3,8 @@
 groupId: com.yahoo.vespa
 artifactId: zookeeper-server
 versioning:
-  latest: 7.404.59
-  release: 7.404.59
+  latest: 7.406.26
+  release: 7.406.26
   versions:
   - 7.125.11
   - 7.126.14
@@ -196,4 +196,6 @@ versioning:
   - 7.401.18
   - 7.403.18
   - 7.404.59
-  lastUpdated: 20210519015414
+  - 7.405.22
+  - 7.406.26
+  lastUpdated: 20210521003107
