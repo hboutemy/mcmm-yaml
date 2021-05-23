@@ -3,8 +3,8 @@
 groupId: io.gravitee.repository
 artifactId: gravitee-repository-jdbc
 versioning:
-  latest: 3.8.1
-  release: 3.8.1
+  latest: 3.8.2
+  release: 3.8.2
   versions:
   - 0.3.0
   - 1.15.0
@@ -66,6 +66,7 @@ versioning:
   - 3.0.9
   - 3.0.10
   - 3.0.11
+  - 3.0.12
   - 3.1.0
   - 3.1.1
   - 3.1.2
@@ -92,4 +93,5 @@ versioning:
   - 3.7.2
   - 3.8.0
   - 3.8.1
-  lastUpdated: 20210511010556
+  - 3.8.2
+  lastUpdated: 20210522134412
