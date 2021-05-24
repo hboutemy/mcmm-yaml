@@ -3,18 +3,22 @@
 groupId: com.google.apis
 artifactId: google-api-services-servicedirectory
 versioning:
-  latest: v1-rev20210407-1.31.0
-  release: v1-rev20210407-1.31.0
+  latest: v1beta1-rev20210512-1.31.0
+  release: v1beta1-rev20210512-1.31.0
   versions:
+  - v1beta1-rev20210512-1.31.0
+  - v1-rev20201112-1.31.0
+  - v1-rev20210127-1.31.0
+  - v1-rev20210203-1.31.0
+  - v1-rev20210310-1.31.0
+  - v1-rev20210324-1.31.0
+  - v1-rev20210407-1.31.0
   - v1beta1-rev2-1.18.0-rc
   - v1beta1-rev2-1.25.0
-  - v1beta1-rev6-1.18.0-rc
-  - v1beta1-rev6-1.25.0
-  - v1beta1-rev7-1.25.0
   - v1beta1-rev20200312-1.30.9
   - v1beta1-rev20200415-1.30.9
-  - v1beta1-rev20200429-1.30.9
   - v1beta1-rev20200429-1.30.10
+  - v1beta1-rev20200429-1.30.9
   - v1beta1-rev20200803-1.30.10
   - v1beta1-rev20200826-1.30.10
   - v1beta1-rev20201029-1.30.10
@@ -27,10 +31,7 @@ versioning:
   - v1beta1-rev20210324-1.31.0
   - v1beta1-rev20210407-1.31.0
   - v1beta1-rev20210422-1.31.0
-  - v1-rev20201112-1.31.0
-  - v1-rev20210127-1.31.0
-  - v1-rev20210203-1.31.0
-  - v1-rev20210310-1.31.0
-  - v1-rev20210324-1.31.0
-  - v1-rev20210407-1.31.0
-  lastUpdated: 20210501202621
+  - v1beta1-rev6-1.18.0-rc
+  - v1beta1-rev6-1.25.0
+  - v1beta1-rev7-1.25.0
+  lastUpdated: 20210523200300
