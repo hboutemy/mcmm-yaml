@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-jetty92-adapter
 versioning:
-  latest: 13.0.0
-  release: 13.0.0
+  latest: 13.0.1
+  release: 13.0.1
   versions:
   - 1.1.0.Beta2
   - 1.1.0.Final
@@ -108,5 +108,6 @@ versioning:
   - 12.0.3
   - 12.0.4
   - 13.0.0
+  - 13.0.1
   - 1.5.0-Final
-  lastUpdated: 20210506121507
+  lastUpdated: 20210525094438

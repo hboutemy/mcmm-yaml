@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-kerberos-federation
 versioning:
-  latest: 13.0.0
-  release: 13.0.0
+  latest: 13.0.1
+  release: 13.0.1
   versions:
   - 1.2.0.Beta1
   - 1.2.0.CR1
@@ -105,5 +105,6 @@ versioning:
   - 12.0.3
   - 12.0.4
   - 13.0.0
+  - 13.0.1
   - 1.5.0-Final
-  lastUpdated: 20210506121515
+  lastUpdated: 20210525094449

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-as7-eap6-adapter-dist-pom
 versioning:
-  latest: 13.0.0
-  release: 13.0.0
+  latest: 13.0.1
+  release: 13.0.1
   versions:
   - 1.3.0.Final
   - 1.3.1.Final
@@ -102,5 +102,6 @@ versioning:
   - 12.0.3
   - 12.0.4
   - 13.0.0
+  - 13.0.1
   - 1.5.0-Final
-  lastUpdated: 20210506121451
+  lastUpdated: 20210525094411
