@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: opsworks
 versioning:
-  latest: 1.106.0
-  release: 1.106.0
+  latest: 1.106.1
+  release: 1.106.1
   versions:
   - 0.8.0
   - 0.8.1
@@ -183,4 +183,5 @@ versioning:
   - 1.104.0
   - 1.105.0
   - 1.106.0
-  lastUpdated: 20210525195901
+  - 1.106.1
+  lastUpdated: 20210526212021

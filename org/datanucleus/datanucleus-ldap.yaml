@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.datanucleus
 artifactId: datanucleus-ldap
 versioning:
-  latest: 5.1.0-release
-  release: 5.1.0-release
+  latest: 6.0.0-m1
+  release: 6.0.0-m1
   versions:
   - 1.0.2
   - 1.0.3
@@ -73,4 +73,5 @@ versioning:
   - 5.0.1
   - 5.1.0-m1
   - 5.1.0-release
-  lastUpdated: 20170715083449
+  - 6.0.0-m1
+  lastUpdated: 20210526080004
