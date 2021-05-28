@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-presto-connector-original
 versioning:
-  latest: 2.8.0-rc-202105262207
-  release: 2.8.0-rc-202105262207
+  latest: 2.8.0-rc-202105272208
+  release: 2.8.0-rc-202105272208
   versions:
   - 2.6.3.1
   - 2.6.3.4
@@ -33,6 +33,7 @@ versioning:
   - 2.7.2.2-rc-202105210936
   - 2.7.2.2-rc-202105211617
   - 2.7.2.2
+  - 2.7.2.3
   - 2.8.0-rc-202105092228
   - 2.8.0-rc-202105122233
   - 2.8.0-rc-202105130146
@@ -52,4 +53,5 @@ versioning:
   - 2.8.0-rc-202105251229
   - 2.8.0-rc-202105252205
   - 2.8.0-rc-202105262207
-  lastUpdated: 20210526223257
+  - 2.8.0-rc-202105272208
+  lastUpdated: 20210527223215

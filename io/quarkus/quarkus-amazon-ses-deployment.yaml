@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-amazon-ses-deployment
 versioning:
-  latest: 2.0.0.CR1
-  release: 2.0.0.CR1
+  latest: 2.0.0.CR2
+  release: 2.0.0.CR2
   versions:
   - 1.5.0.Final
   - 1.5.1.Final
@@ -59,8 +59,10 @@ versioning:
   - 1.13.3.Final
   - 1.13.4.Final
   - 1.13.5.Final
+  - 1.13.6.Final
   - 2.0.0.Alpha1
   - 2.0.0.Alpha2
   - 2.0.0.Alpha3
   - 2.0.0.CR1
-  lastUpdated: 20210526164648
+  - 2.0.0.CR2
+  lastUpdated: 20210527151414
