@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud.stream.app
 artifactId: aggregator-processor-kafka
 versioning:
-  latest: 3.0.1
-  release: 3.0.1
+  latest: 3.0.2
+  release: 3.0.2
   versions:
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
@@ -17,4 +17,5 @@ versioning:
   - 2.1.5.RELEASE
   - 3.0.0
   - 3.0.1
-  lastUpdated: 20210226185548
+  - 3.0.2
+  lastUpdated: 20210528152552

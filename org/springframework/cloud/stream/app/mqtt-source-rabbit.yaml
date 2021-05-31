@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud.stream.app
 artifactId: mqtt-source-rabbit
 versioning:
-  latest: 3.0.1
-  release: 3.0.1
+  latest: 3.0.2
+  release: 3.0.2
   versions:
   - 1.0.0.RELEASE
   - 1.0.1.RELEASE
@@ -17,4 +17,5 @@ versioning:
   - 2.1.4.RELEASE
   - 3.0.0
   - 3.0.1
-  lastUpdated: 20210226163545
+  - 3.0.2
+  lastUpdated: 20210528135136
