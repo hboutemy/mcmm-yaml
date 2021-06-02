@@ -3,8 +3,8 @@
 groupId: io.buoyant
 artifactId: telemetry-prometheus_2.12
 versioning:
-  latest: 1.7.4
-  release: 1.7.4
+  latest: 1.7.5-rc1
+  release: 1.7.5-rc1
   versions:
   - 1.0.2
   - 1.1.0
@@ -44,4 +44,5 @@ versioning:
   - 1.7.2
   - 1.7.3
   - 1.7.4
-  lastUpdated: 20200610221600
+  - 1.7.5-rc1
+  lastUpdated: 20210601184201

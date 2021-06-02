@@ -3,8 +3,8 @@
 groupId: org.apache.bookkeeper.stats
 artifactId: prometheus-metrics-provider
 versioning:
-  latest: 4.14.0
-  release: 4.14.0
+  latest: 4.14.1
+  release: 4.14.1
   versions:
   - 4.5.0
   - 4.5.1
@@ -28,4 +28,5 @@ versioning:
   - 4.12.1
   - 4.13.0
   - 4.14.0
-  lastUpdated: 20210518230637
+  - 4.14.1
+  lastUpdated: 20210531233736

@@ -3,8 +3,8 @@
 groupId: love.forte.simple-robot
 artifactId: core
 versioning:
-  latest: 2.0.8
-  release: 2.0.8
+  latest: 2.0.9-dev.1
+  release: 2.0.9-dev.1
   versions:
   - 2.0.0-ALPHA.1
   - 2.0.0-ALPHA.2
@@ -44,4 +44,6 @@ versioning:
   - 2.0.6
   - 2.0.7
   - 2.0.8
-  lastUpdated: 20210527150502
+  - 2.0.9-snapshot
+  - 2.0.9-dev.1
+  lastUpdated: 20210601150704
