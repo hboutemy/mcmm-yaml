@@ -3,8 +3,8 @@
 groupId: com.tencent.bk.devops.ci.worker
 artifactId: worker-common
 versioning:
-  latest: 1.5.0-alpha.5-RELEASE
-  release: 1.5.0-alpha.5-RELEASE
+  latest: 1.5.0-RC.2-RELEASE
+  release: 1.5.0-RC.2-RELEASE
   versions:
   - 1.1.2-RELEASE
   - 1.1.10-RELEASE
@@ -18,4 +18,5 @@ versioning:
   - 1.5.0-alpha.1-RELEASE
   - 1.5.0-alpha.3-RELEASE
   - 1.5.0-alpha.5-RELEASE
-  lastUpdated: 20210517135030
+  - 1.5.0-RC.2-RELEASE
+  lastUpdated: 20210602084648
