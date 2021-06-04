@@ -3,8 +3,8 @@
 groupId: org.opendaylight.neutron
 artifactId: neutron-hostconfig-ovs
 versioning:
-  latest: 0.16.0
-  release: 0.16.0
+  latest: 0.16.1
+  release: 0.16.1
   versions:
   - 0.8.0-Carbon
   - 0.8.1-Carbon
@@ -42,4 +42,5 @@ versioning:
   - 0.15.2
   - 0.15.3
   - 0.16.0
-  lastUpdated: 20210330051734
+  - 0.16.1
+  lastUpdated: 20210603054450
