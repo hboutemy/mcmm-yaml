@@ -3,8 +3,8 @@
 groupId: com.redislabs
 artifactId: spring-batch-redis
 versioning:
-  latest: 2.12.3
-  release: 2.12.3
+  latest: 2.13.0
+  release: 2.13.0
   versions:
   - 2.0.0
   - 2.1.0
@@ -71,4 +71,6 @@ versioning:
   - 2.12.1
   - 2.12.2
   - 2.12.3
-  lastUpdated: 20210513000233
+  - 2.12.4
+  - 2.13.0
+  lastUpdated: 20210604055309

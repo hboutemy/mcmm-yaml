@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.nuiton
 artifactId: nuiton-csv
 versioning:
-  latest: 3.0
+  latest: 3.1
   release: 3.1
   versions:
   - 2.4
@@ -45,4 +46,4 @@ versioning:
   - 3.0-rc-6
   - 3.0
   - 3.1
-  lastUpdated: 20210505073824
+  lastUpdated: 20210603231813

@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-galleon-pack
 versioning:
-  latest: 23.0.2.Final
-  release: 23.0.2.Final
+  latest: 24.0.0.Beta1
+  release: 24.0.0.Beta1
   versions:
   - 13.0.0.Beta1
   - 13.0.0.Final
@@ -43,4 +43,5 @@ versioning:
   - 23.0.0.Final
   - 23.0.1.Final
   - 23.0.2.Final
-  lastUpdated: 20210428100428
+  - 24.0.0.Beta1
+  lastUpdated: 20210604074317

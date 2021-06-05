@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-container-image-s2i
 versioning:
-  latest: 2.0.0.CR2
-  release: 2.0.0.CR2
+  latest: 2.0.0.CR3
+  release: 2.0.0.CR3
   versions:
   - 1.3.0.CR1
   - 1.3.0.CR2
@@ -77,4 +77,5 @@ versioning:
   - 2.0.0.Alpha3
   - 2.0.0.CR1
   - 2.0.0.CR2
-  lastUpdated: 20210527151426
+  - 2.0.0.CR3
+  lastUpdated: 20210604110600
