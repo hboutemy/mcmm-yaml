@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-record-decoder
 versioning:
-  latest: 0.254
-  release: 0.254
+  latest: 0.254.1
+  release: 0.254.1
   versions:
   - 0.119
   - 0.120
@@ -178,4 +178,5 @@ versioning:
   - 0.253
   - 0.253.1
   - 0.254
-  lastUpdated: 20210602130457
+  - 0.254.1
+  lastUpdated: 20210606220234
