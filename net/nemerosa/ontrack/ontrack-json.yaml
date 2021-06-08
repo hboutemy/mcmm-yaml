@@ -3,8 +3,8 @@
 groupId: net.nemerosa.ontrack
 artifactId: ontrack-json
 versioning:
-  latest: 4.0.4
-  release: 4.0.4
+  latest: 4.0.5
+  release: 4.0.5
   versions:
   - experimental-pipeline-a6e0b79
   - experimental-pipeline-a8ce70d
@@ -392,6 +392,8 @@ versioning:
   - 3.43.13
   - 3.43.14
   - 3.43.15
+  - 3.43.16
+  - 3.43.17
   - 4.0-alpha.0
   - 4.0-alpha.0-dirty
   - 4.0-alpha.1
@@ -436,4 +438,5 @@ versioning:
   - 4.0.2
   - 4.0.3
   - 4.0.4
-  lastUpdated: 20210605093213
+  - 4.0.5
+  lastUpdated: 20210607193910

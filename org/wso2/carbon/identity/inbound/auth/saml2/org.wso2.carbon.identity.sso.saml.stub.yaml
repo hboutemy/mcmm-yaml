@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.identity.inbound.auth.saml2
 artifactId: org.wso2.carbon.identity.sso.saml.stub
 versioning:
-  latest: 5.8.28
-  release: 5.8.28
+  latest: 5.8.30
+  release: 5.8.30
   versions:
   - 5.3.15
   - 5.3.16
@@ -131,4 +131,6 @@ versioning:
   - 5.8.26
   - 5.8.27
   - 5.8.28
-  lastUpdated: 20210604063253
+  - 5.8.29
+  - 5.8.30
+  lastUpdated: 20210607045216
