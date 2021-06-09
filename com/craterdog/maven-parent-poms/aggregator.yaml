@@ -3,8 +3,8 @@
 groupId: com.craterdog.maven-parent-poms
 artifactId: aggregator
 versioning:
-  latest: 3.17
-  release: 3.17
+  latest: 3.19
+  release: 3.19
   versions:
   - 3.3
   - 3.4
@@ -21,4 +21,6 @@ versioning:
   - 3.15
   - 3.16
   - 3.17
-  lastUpdated: 20151117013042
+  - 3.18
+  - 3.19
+  lastUpdated: 20210608231406

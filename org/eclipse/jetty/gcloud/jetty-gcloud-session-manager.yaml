@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty.gcloud
 artifactId: jetty-gcloud-session-manager
 versioning:
-  latest: 11.0.3
-  release: 11.0.3
+  latest: 11.0.4
+  release: 11.0.4
   versions:
   - 9.3.7.v20160115
   - 9.3.8.v20160314
@@ -100,6 +100,7 @@ versioning:
   - 9.4.39.v20210325
   - 9.4.40.v20210413
   - 9.4.41.v20210516
+  - 9.4.42.v20210604
   - 10.0.0-alpha0
   - 10.0.0.alpha1
   - 10.0.0.alpha2
@@ -111,6 +112,7 @@ versioning:
   - 10.0.1
   - 10.0.2
   - 10.0.3
+  - 10.0.4
   - 11.0.0-alpha0
   - 11.0.0.beta1
   - 11.0.0.beta2
@@ -119,4 +121,5 @@ versioning:
   - 11.0.1
   - 11.0.2
   - 11.0.3
-  lastUpdated: 20210521150047
+  - 11.0.4
+  lastUpdated: 20210608224204
