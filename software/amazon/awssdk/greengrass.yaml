@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: greengrass
 versioning:
-  latest: 2.16.80
-  release: 2.16.80
+  latest: 2.16.81
+  release: 2.16.81
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -581,4 +581,5 @@ versioning:
   - 2.16.78
   - 2.16.79
   - 2.16.80
-  lastUpdated: 20210608212014
+  - 2.16.81
+  lastUpdated: 20210609192210

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-elasticsearch
 versioning:
-  latest: 1.12.2
-  release: 1.12.2
+  latest: 1.12.3
+  release: 1.12.3
   versions:
   - 1.10.22
   - 1.10.23
@@ -1102,4 +1102,5 @@ versioning:
   - 1.11.1034
   - 1.12.1
   - 1.12.2
-  lastUpdated: 20210608214812
+  - 1.12.3
+  lastUpdated: 20210609221352

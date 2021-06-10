@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.identity.consent.mgt
 versioning:
-  latest: 5.20.78
-  release: 5.20.78
+  latest: 5.20.80
+  release: 5.20.80
   versions:
   - 5.11.100
   - 5.11.101
@@ -1183,4 +1183,6 @@ versioning:
   - 5.20.76
   - 5.20.77
   - 5.20.78
-  lastUpdated: 20210608175820
+  - 5.20.79
+  - 5.20.80
+  lastUpdated: 20210609122043

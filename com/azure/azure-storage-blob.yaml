@@ -3,8 +3,8 @@
 groupId: com.azure
 artifactId: azure-storage-blob
 versioning:
-  latest: 12.12.0-beta.1
-  release: 12.12.0-beta.1
+  latest: 12.12.0
+  release: 12.12.0
   versions:
   - 12.0.0
   - 12.0.0-preview.1
@@ -38,4 +38,5 @@ versioning:
   - 12.11.0
   - 12.11.1
   - 12.12.0-beta.1
-  lastUpdated: 20210514010053
+  - 12.12.0
+  lastUpdated: 20210609173236
