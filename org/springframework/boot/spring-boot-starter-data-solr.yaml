@@ -3,8 +3,8 @@
 groupId: org.springframework.boot
 artifactId: spring-boot-starter-data-solr
 versioning:
-  latest: 2.4.6
-  release: 2.4.6
+  latest: 2.4.7
+  release: 2.4.7
   versions:
   - 1.1.0.RELEASE
   - 1.1.1.RELEASE
@@ -123,6 +123,7 @@ versioning:
   - 2.3.9.RELEASE
   - 2.3.10.RELEASE
   - 2.3.11.RELEASE
+  - 2.3.12.RELEASE
   - 2.4.0
   - 2.4.1
   - 2.4.2
@@ -130,4 +131,5 @@ versioning:
   - 2.4.4
   - 2.4.5
   - 2.4.6
-  lastUpdated: 20210520105616
+  - 2.4.7
+  lastUpdated: 20210610115824

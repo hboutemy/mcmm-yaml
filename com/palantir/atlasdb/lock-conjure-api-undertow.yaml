@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: lock-conjure-api-undertow
 versioning:
-  latest: 0.350.0
-  release: 0.350.0
+  latest: 0.351.0
+  release: 0.351.0
   versions:
   - 0.312.2-rc2
   - 0.312.2-rc3
@@ -79,5 +79,8 @@ versioning:
   - 0.347.0
   - 0.348.0-rc1
   - 0.348.0
+  - 0.349.0-rc1
+  - 0.349.0-rc4
   - 0.350.0
-  lastUpdated: 20210609165848
+  - 0.351.0
+  lastUpdated: 20210610175938
