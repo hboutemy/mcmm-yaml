@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: fsx
 versioning:
-  latest: 1.108.0
-  release: 1.108.0
+  latest: 1.108.1
+  release: 1.108.1
   versions:
   - 0.25.0
   - 0.25.1
@@ -160,4 +160,5 @@ versioning:
   - 1.106.1
   - 1.107.0
   - 1.108.0
-  lastUpdated: 20210609123349
+  - 1.108.1
+  lastUpdated: 20210611165129

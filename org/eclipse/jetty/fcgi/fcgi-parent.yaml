@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty.fcgi
 artifactId: fcgi-parent
 versioning:
-  latest: 11.0.4
-  release: 11.0.4
+  latest: 11.0.5
+  release: 11.0.5
   versions:
   - 9.1.4.v20140401
   - 9.1.5.v20140505
@@ -168,6 +168,7 @@ versioning:
   - 10.0.2
   - 10.0.3
   - 10.0.4
+  - 10.0.5
   - 11.0.0-alpha0
   - 11.0.0.beta1
   - 11.0.0.beta2
@@ -177,4 +178,5 @@ versioning:
   - 11.0.2
   - 11.0.3
   - 11.0.4
-  lastUpdated: 20210608224204
+  - 11.0.5
+  lastUpdated: 20210611182907

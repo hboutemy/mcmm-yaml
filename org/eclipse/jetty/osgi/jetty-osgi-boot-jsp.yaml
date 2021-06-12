@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty.osgi
 artifactId: jetty-osgi-boot-jsp
 versioning:
-  latest: 11.0.4
-  release: 11.0.4
+  latest: 11.0.5
+  release: 11.0.5
   versions:
   - 7.0.2.RC0
   - 7.0.2.v20100331
@@ -288,6 +288,7 @@ versioning:
   - 10.0.2
   - 10.0.3
   - 10.0.4
+  - 10.0.5
   - 11.0.0-alpha0
   - 11.0.0.beta1
   - 11.0.0.beta2
@@ -297,4 +298,5 @@ versioning:
   - 11.0.2
   - 11.0.3
   - 11.0.4
-  lastUpdated: 20210608224220
+  - 11.0.5
+  lastUpdated: 20210611182924
