@@ -3,9 +3,10 @@
 groupId: org.apereo.cas
 artifactId: cas-server-core-events-api
 versioning:
-  latest: 6.4.0-RC4
-  release: 6.4.0-RC4
+  latest: 6.4.0-RC5
+  release: 6.4.0-RC5
   versions:
+  - v6.4.0-RC5
   - 6.1.0-RC5
   - 6.1.0-RC6
   - 6.1.0
@@ -46,4 +47,5 @@ versioning:
   - 6.4.0-RC2
   - 6.4.0-RC3
   - 6.4.0-RC4
-  lastUpdated: 20210509102715
+  - 6.4.0-RC5
+  lastUpdated: 20210612172438

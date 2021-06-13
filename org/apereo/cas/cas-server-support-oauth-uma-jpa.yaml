@@ -3,9 +3,10 @@
 groupId: org.apereo.cas
 artifactId: cas-server-support-oauth-uma-jpa
 versioning:
-  latest: 6.4.0-RC4
-  release: 6.4.0-RC4
+  latest: 6.4.0-RC5
+  release: 6.4.0-RC5
   versions:
+  - v6.4.0-RC5
   - 6.2.0-RC3
   - 6.2.0-RC4
   - 6.2.0-RC5
@@ -32,4 +33,5 @@ versioning:
   - 6.4.0-RC2
   - 6.4.0-RC3
   - 6.4.0-RC4
-  lastUpdated: 20210509103330
+  - 6.4.0-RC5
+  lastUpdated: 20210612173033
