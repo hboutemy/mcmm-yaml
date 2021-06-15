@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-aws2-s3-deployment
 versioning:
-  latest: 2.0.0-M1
-  release: 2.0.0-M1
+  latest: 2.0.0-M2
+  release: 2.0.0-M2
   versions:
   - 1.0.0-M7
   - 1.0.0-CR2
@@ -21,4 +21,5 @@ versioning:
   - 1.8.0
   - 1.8.1
   - 2.0.0-M1
-  lastUpdated: 20210528210951
+  - 2.0.0-M2
+  lastUpdated: 20210614075555

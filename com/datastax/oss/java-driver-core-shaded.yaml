@@ -3,8 +3,8 @@
 groupId: com.datastax.oss
 artifactId: java-driver-core-shaded
 versioning:
-  latest: 4.11.1
-  release: 4.11.1
+  latest: 4.12.0
+  release: 4.12.0
   versions:
   - 4.0.0-beta1
   - 4.0.0-beta2
@@ -31,4 +31,6 @@ versioning:
   - 4.10.0
   - 4.11.0
   - 4.11.1
-  lastUpdated: 20210428100312
+  - 4.11.2
+  - 4.12.0
+  lastUpdated: 20210614135704

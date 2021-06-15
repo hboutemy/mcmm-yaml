@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.apimgt
 artifactId: org.wso2.carbon.apimgt.gateway.feature
 versioning:
-  latest: 9.0.210
-  release: 9.0.210
+  latest: 9.0.212
+  release: 9.0.212
   versions:
   - 1.3.0
   - 1.3.1
@@ -1763,6 +1763,7 @@ versioning:
   - 8.2.26
   - 8.2.27
   - 8.2.28
+  - 8.2.29
   - 9.0.0
   - 9.0.1
   - 9.0.2
@@ -1973,4 +1974,6 @@ versioning:
   - 9.0.208
   - 9.0.209
   - 9.0.210
-  lastUpdated: 20210611080536
+  - 9.0.211
+  - 9.0.212
+  lastUpdated: 20210614115605

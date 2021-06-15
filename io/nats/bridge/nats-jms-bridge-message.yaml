@@ -3,8 +3,8 @@
 groupId: io.nats.bridge
 artifactId: nats-jms-bridge-message
 versioning:
-  latest: 0.29.0-beta-28
-  release: 0.29.0-beta-28
+  latest: 1.0.0
+  release: 1.0.0
   versions:
   - 0.0.0-notforuse-01
   - 0.0.0-notforuse-02
@@ -41,4 +41,5 @@ versioning:
   - 0.29.0-beta26
   - 0.29.0-beta27
   - 0.29.0-beta-28
-  lastUpdated: 20210612154605
+  - 1.0.0
+  lastUpdated: 20210614172133
