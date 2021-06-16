@@ -3,12 +3,14 @@
 groupId: com.datastax.oss.quarkus
 artifactId: cassandra-quarkus-parent
 versioning:
-  latest: 1.0.1
-  release: 1.0.1
+  latest: 1.1.0-rc1
+  release: 1.1.0-rc1
   versions:
   - 1.0.0-alpha1
   - 1.0.0-alpha2
   - 1.0.0-alpha3
   - 1.0.0
   - 1.0.1
-  lastUpdated: 20210326103004
+  - 1.0.2
+  - 1.1.0-rc1
+  lastUpdated: 20210615123121

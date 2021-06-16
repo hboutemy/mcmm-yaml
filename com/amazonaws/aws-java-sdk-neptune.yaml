@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-neptune
 versioning:
-  latest: 1.12.6
-  release: 1.12.6
+  latest: 1.12.7
+  release: 1.12.7
   versions:
   - 1.11.339
   - 1.11.340
@@ -708,4 +708,5 @@ versioning:
   - 1.12.4
   - 1.12.5
   - 1.12.6
-  lastUpdated: 20210614195841
+  - 1.12.7
+  lastUpdated: 20210615195241

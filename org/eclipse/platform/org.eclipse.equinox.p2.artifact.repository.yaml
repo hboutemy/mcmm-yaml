@@ -3,8 +3,8 @@
 groupId: org.eclipse.platform
 artifactId: org.eclipse.equinox.p2.artifact.repository
 versioning:
-  latest: 1.4.0
-  release: 1.4.0
+  latest: 1.4.100
+  release: 1.4.100
   versions:
   - 1.1.500
   - 1.1.600
@@ -19,4 +19,5 @@ versioning:
   - 1.3.400
   - 1.3.500
   - 1.4.0
-  lastUpdated: 20210316130504
+  - 1.4.100
+  lastUpdated: 20210615191900
