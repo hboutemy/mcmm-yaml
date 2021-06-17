@@ -3,16 +3,25 @@
 groupId: com.google.apis
 artifactId: google-api-services-networkmanagement
 versioning:
-  latest: v1-rev20210429-1.31.0
-  release: v1-rev20210429-1.31.0
+  latest: v1-rev20210610-1.31.0
+  release: v1-rev20210610-1.31.0
   versions:
-  - v1beta1-rev3-1.18.0-rc
-  - v1beta1-rev3-1.25.0
-  - v1beta1-rev4-1.25.0
-  - v1beta1-rev5-1.25.0
+  - v1beta1-rev20210610-1.31.0
+  - v1-rev20210610-1.31.0
+  - v1-rev2-1.25.0
+  - v1-rev20200505-1.30.10
+  - v1-rev20200505-1.30.9
+  - v1-rev20200615-1.30.10
+  - v1-rev20200820-1.30.10
+  - v1-rev20201029-1.30.10
+  - v1-rev20201029-1.31.0
+  - v1-rev20210316-1.31.0
+  - v1-rev20210401-1.31.0
+  - v1-rev20210408-1.31.0
+  - v1-rev20210429-1.31.0
   - v1beta1-rev20200303-1.30.9
-  - v1beta1-rev20200505-1.30.9
   - v1beta1-rev20200505-1.30.10
+  - v1beta1-rev20200505-1.30.9
   - v1beta1-rev20200615-1.30.10
   - v1beta1-rev20200820-1.30.10
   - v1beta1-rev20200910-1.30.10
@@ -22,15 +31,8 @@ versioning:
   - v1beta1-rev20210401-1.31.0
   - v1beta1-rev20210408-1.31.0
   - v1beta1-rev20210429-1.31.0
-  - v1-rev2-1.25.0
-  - v1-rev20200505-1.30.9
-  - v1-rev20200505-1.30.10
-  - v1-rev20200615-1.30.10
-  - v1-rev20200820-1.30.10
-  - v1-rev20201029-1.30.10
-  - v1-rev20201029-1.31.0
-  - v1-rev20210316-1.31.0
-  - v1-rev20210401-1.31.0
-  - v1-rev20210408-1.31.0
-  - v1-rev20210429-1.31.0
-  lastUpdated: 20210508082203
+  - v1beta1-rev3-1.18.0-rc
+  - v1beta1-rev3-1.25.0
+  - v1beta1-rev4-1.25.0
+  - v1beta1-rev5-1.25.0
+  lastUpdated: 20210616200900

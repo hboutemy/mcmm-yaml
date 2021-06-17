@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: pulsar-io-jdbc-clickhouse
 versioning:
-  latest: 2.7.2
-  release: 2.7.2
+  latest: 2.8.0
+  release: 2.8.0
   versions:
   - 2.6.0
   - 2.6.1
@@ -14,4 +14,5 @@ versioning:
   - 2.7.0
   - 2.7.1
   - 2.7.2
-  lastUpdated: 20210602170955
+  - 2.8.0
+  lastUpdated: 20210616063805
