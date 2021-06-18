@@ -3,8 +3,8 @@
 groupId: ru.mail
 artifactId: libnotify
 versioning:
-  latest: 0.2.1-firebase
-  release: 0.2.1-firebase
+  latest: 0.2.1-firebase-debug
+  release: 0.2.1-firebase-debug
   versions:
   - 0.1.163-firebase-support-notify-support-v81
   - 0.1.163-firebase-support-notify-support-v92
@@ -256,4 +256,5 @@ versioning:
   - 0.1.186-huawei-notify-support-v185-sdk-26
   - 0.2.0-firebase
   - 0.2.1-firebase
-  lastUpdated: 20210610163759
+  - 0.2.1-firebase-debug
+  lastUpdated: 20210617084400

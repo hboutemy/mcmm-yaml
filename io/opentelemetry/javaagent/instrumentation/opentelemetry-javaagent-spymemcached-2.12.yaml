@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-spymemcached-2.12
 versioning:
-  latest: 1.2.0-alpha
-  release: 1.2.0-alpha
+  latest: 1.3.0-alpha
+  release: 1.3.0-alpha
   versions:
   - 0.12.0
   - 0.12.1
@@ -20,4 +20,5 @@ versioning:
   - 1.0.1-alpha
   - 1.1.0-alpha
   - 1.2.0-alpha
-  lastUpdated: 20210514075852
+  - 1.3.0-alpha
+  lastUpdated: 20210617131239

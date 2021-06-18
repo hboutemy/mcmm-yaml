@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.is
 artifactId: wso2is-identity-local-authenticators
 versioning:
-  latest: 5.12.0-m24
-  release: 5.12.0-m24
+  latest: 5.12.0-m25
+  release: 5.12.0-m25
   versions:
   - 5.4.0-alpha4
   - 5.4.0-alpha5
@@ -168,4 +168,5 @@ versioning:
   - 5.12.0-m22
   - 5.12.0-m23
   - 5.12.0-m24
-  lastUpdated: 20210610024939
+  - 5.12.0-m25
+  lastUpdated: 20210617025129

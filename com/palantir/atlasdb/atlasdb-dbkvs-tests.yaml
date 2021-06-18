@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-dbkvs-tests
 versioning:
-  latest: 0.356.0
-  release: 0.356.0
+  latest: 0.358.0-rc1
+  release: 0.358.0-rc1
   versions:
   - 0.312.2-rc2
   - 0.312.2-rc3
@@ -84,4 +84,5 @@ versioning:
   - 0.350.0
   - 0.351.0
   - 0.356.0
-  lastUpdated: 20210615191754
+  - 0.358.0-rc1
+  lastUpdated: 20210617165705

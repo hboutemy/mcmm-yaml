@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-microprofile-opentracing-smallrye
 versioning:
-  latest: 24.0.0.Beta1
-  release: 24.0.0.Beta1
+  latest: 24.0.0.Final
+  release: 24.0.0.Final
   versions:
   - 14.0.0.Beta2
   - 14.0.0.Final
@@ -42,4 +42,5 @@ versioning:
   - 23.0.1.Final
   - 23.0.2.Final
   - 24.0.0.Beta1
-  lastUpdated: 20210604074331
+  - 24.0.0.Final
+  lastUpdated: 20210616232943

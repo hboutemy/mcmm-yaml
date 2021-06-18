@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: autoscaling-hooktargets
 versioning:
-  latest: 1.108.1
-  release: 1.108.1
+  latest: 1.109.0
+  release: 1.109.0
   versions:
   - 0.33.0
   - 0.34.0
@@ -150,4 +150,5 @@ versioning:
   - 1.107.0
   - 1.108.0
   - 1.108.1
-  lastUpdated: 20210611165107
+  - 1.109.0
+  lastUpdated: 20210617015926

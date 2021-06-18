@@ -3,8 +3,8 @@
 groupId: org.wildfly.plugins
 artifactId: wildfly-jar-parent
 versioning:
-  latest: 5.0.0.Beta1
-  release: 5.0.0.Beta1
+  latest: 5.0.0.Final
+  release: 5.0.0.Final
   versions:
   - 1.0.0.Alpha3
   - 1.0.0.Alpha4
@@ -36,4 +36,5 @@ versioning:
   - 4.0.2.Final
   - 4.0.3.Final
   - 5.0.0.Beta1
-  lastUpdated: 20210604120807
+  - 5.0.0.Final
+  lastUpdated: 20210617112437
