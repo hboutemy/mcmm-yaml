@@ -3,11 +3,13 @@
 groupId: com.google.apis
 artifactId: google-api-services-doubleclickbidmanager
 versioning:
-  latest: v1.1-rev20210525-1.31.0
-  release: v1.1-rev20210525-1.31.0
+  latest: v1.1-rev20210525-1.31.5
+  release: v1.1-rev20210525-1.31.5
   versions:
+  - v1-rev20210420-1.31.5
   - v1.1-rev20210524-1.31.0
   - v1.1-rev20210525-1.31.0
+  - v1.1-rev20210525-1.31.5
   - v1-rev1-1.13.2-beta
   - v1-rev1-1.14.2-beta
   - v1-rev1-1.15.0-rc
@@ -365,4 +367,4 @@ versioning:
   - v1.1-rev3-1.25.0
   - v1.1-rev4-1.18.0-rc
   - v1.1-rev4-1.25.0
-  lastUpdated: 20210602200314
+  lastUpdated: 20210618213228

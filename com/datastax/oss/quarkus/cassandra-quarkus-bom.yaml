@@ -3,8 +3,8 @@
 groupId: com.datastax.oss.quarkus
 artifactId: cassandra-quarkus-bom
 versioning:
-  latest: 1.1.0-rc1
-  release: 1.1.0-rc1
+  latest: 1.1.0-rc2
+  release: 1.1.0-rc2
   versions:
   - 1.0.0-alpha1
   - 1.0.0-alpha2
@@ -12,5 +12,7 @@ versioning:
   - 1.0.0
   - 1.0.1
   - 1.0.2
+  - 1.0.3
   - 1.1.0-rc1
-  lastUpdated: 20210615123113
+  - 1.1.0-rc2
+  lastUpdated: 20210618091017

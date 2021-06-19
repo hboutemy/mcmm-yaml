@@ -3,14 +3,16 @@
 groupId: com.google.apis
 artifactId: google-api-services-redis
 versioning:
-  latest: v1-rev20210615-1.31.0
-  release: v1-rev20210615-1.31.0
+  latest: v1-rev20210615-1.31.5
+  release: v1-rev20210615-1.31.5
   versions:
   - v1beta1-rev20210511-1.31.0
   - v1beta1-rev20210525-1.31.0
   - v1beta1-rev20210615-1.31.0
+  - v1beta1-rev20210615-1.31.5
   - v1-rev20210525-1.31.0
   - v1-rev20210615-1.31.0
+  - v1-rev20210615-1.31.5
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.22.0
   - v1-rev1-1.23.0
@@ -243,4 +245,4 @@ versioning:
   - v1beta1-rev9-1.23.0
   - v1beta1-rev9-1.24.1
   - v1beta1-rev9-1.25.0
-  lastUpdated: 20210617201210
+  lastUpdated: 20210618223221

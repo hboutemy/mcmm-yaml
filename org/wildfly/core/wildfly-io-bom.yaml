@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-io-bom
 versioning:
-  latest: 16.0.0.Final
-  release: 16.0.0.Final
+  latest: 17.0.0.Beta1
+  release: 17.0.0.Beta1
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -291,4 +291,5 @@ versioning:
   - 16.0.0.Beta4
   - 16.0.0.Beta5
   - 16.0.0.Final
-  lastUpdated: 20210611102844
+  - 17.0.0.Beta1
+  lastUpdated: 20210618130848

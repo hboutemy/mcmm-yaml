@@ -3,8 +3,8 @@
 groupId: org.graylog.plugins
 artifactId: graylog-plugin-parent
 versioning:
-  latest: 4.1.0-beta.2
-  release: 4.1.0-beta.2
+  latest: 4.1.0-rc.1
+  release: 4.1.0-rc.1
   versions:
   - 2.2.0-alpha.1
   - 2.2.0-alpha.2
@@ -110,4 +110,5 @@ versioning:
   - 4.0.8
   - 4.1.0-beta.1
   - 4.1.0-beta.2
-  lastUpdated: 20210616192913
+  - 4.1.0-rc.1
+  lastUpdated: 20210618172347

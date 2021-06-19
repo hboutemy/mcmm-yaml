@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: lock-conjure-api-jersey
 versioning:
-  latest: 0.358.0-rc1
-  release: 0.358.0-rc1
+  latest: 0.358.0
+  release: 0.358.0
   versions:
   - 0.312.2-rc2
   - 0.312.2-rc3
@@ -85,4 +85,5 @@ versioning:
   - 0.351.0
   - 0.356.0
   - 0.358.0-rc1
-  lastUpdated: 20210617165800
+  - 0.358.0
+  lastUpdated: 20210618095605

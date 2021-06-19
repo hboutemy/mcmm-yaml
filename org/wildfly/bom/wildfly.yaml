@@ -3,8 +3,8 @@
 groupId: org.wildfly.bom
 artifactId: wildfly
 versioning:
-  latest: 24.0.0.Final
-  release: 24.0.0.Final
+  latest: 24.0.0.SP1
+  release: 24.0.0.SP1
   versions:
   - 11.0.0.Alpha1
   - 11.0.0.Alpha2
@@ -57,4 +57,5 @@ versioning:
   - 23.0.2.Final
   - 24.0.0.Beta1
   - 24.0.0.Final
-  lastUpdated: 20210617104750
+  - 24.0.0.SP1
+  lastUpdated: 20210618092750

@@ -3,15 +3,25 @@
 groupId: com.google.apis
 artifactId: google-api-services-admin-reports
 versioning:
-  latest: reports_v1-rev20210413-1.31.0
-  release: reports_v1-rev20210413-1.31.0
+  latest: reports_v1-rev20210413-1.31.5
+  release: reports_v1-rev20210413-1.31.5
   versions:
+  - reports_v1-rev20210413-1.31.5
   - reports_v1-rev11-1.17.0-rc
   - reports_v1-rev12-1.17.0-rc
   - reports_v1-rev16-1.17.0-rc
   - reports_v1-rev18-1.17.0-rc
   - reports_v1-rev19-1.17.0-rc
   - reports_v1-rev20-1.17.0-rc
+  - reports_v1-rev20190521-1.28.0
+  - reports_v1-rev20190521-1.29.2
+  - reports_v1-rev20190521-1.30.1
+  - reports_v1-rev20190521-1.30.3
+  - reports_v1-rev20191014-1.30.8
+  - reports_v1-rev20201208-1.31.0
+  - reports_v1-rev20210302-1.31.0
+  - reports_v1-rev20210323-1.31.0
+  - reports_v1-rev20210413-1.31.0
   - reports_v1-rev21-1.17.0-rc
   - reports_v1-rev22-1.17.0-rc
   - reports_v1-rev24-1.17.0-rc
@@ -203,13 +213,4 @@ versioning:
   - reports_v1-rev83-1.25.0
   - reports_v1-rev89-1.18.0-rc
   - reports_v1-rev89-1.25.0
-  - reports_v1-rev20190521-1.28.0
-  - reports_v1-rev20190521-1.29.2
-  - reports_v1-rev20190521-1.30.1
-  - reports_v1-rev20190521-1.30.3
-  - reports_v1-rev20191014-1.30.8
-  - reports_v1-rev20201208-1.31.0
-  - reports_v1-rev20210302-1.31.0
-  - reports_v1-rev20210323-1.31.0
-  - reports_v1-rev20210413-1.31.0
-  lastUpdated: 20210417080148
+  lastUpdated: 20210618201518

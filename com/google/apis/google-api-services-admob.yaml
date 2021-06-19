@@ -3,11 +3,13 @@
 groupId: com.google.apis
 artifactId: google-api-services-admob
 versioning:
-  latest: v1-rev20210615-1.31.0
-  release: v1-rev20210615-1.31.0
+  latest: v1-rev20210615-1.31.5
+  release: v1-rev20210615-1.31.5
   versions:
   - v1beta-rev20210615-1.31.0
+  - v1beta-rev20210615-1.31.5
   - v1-rev20210615-1.31.0
+  - v1-rev20210615-1.31.5
   - v1-rev10-1.18.0-rc
   - v1-rev10-1.25.0
   - v1-rev11-1.18.0-rc
@@ -85,4 +87,4 @@ versioning:
   - v1beta-rev20201231-1.31.0
   - v1beta-rev20210227-1.31.0
   - v1beta-rev20210512-1.31.0
-  lastUpdated: 20210617200004
+  lastUpdated: 20210618201621
