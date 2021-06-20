@@ -3,8 +3,8 @@
 groupId: de.mklinger.tomcat
 artifactId: tomcat-juli-slf4j
 versioning:
-  latest: 9.0.46
-  release: 9.0.46
+  latest: 9.0.48
+  release: 9.0.48
   versions:
   - 7.0.69
   - 7.0.70
@@ -94,6 +94,7 @@ versioning:
   - 8.5.64
   - 8.5.65
   - 8.5.66
+  - 8.5.68
   - 9.0.1
   - 9.0.2
   - 9.0.4
@@ -128,4 +129,5 @@ versioning:
   - 9.0.44
   - 9.0.45
   - 9.0.46
-  lastUpdated: 20210601081751
+  - 9.0.48
+  lastUpdated: 20210619103727

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.yangtools
 artifactId: yang-parser-impl
 versioning:
-  latest: 7.0.2
-  release: 7.0.2
+  latest: 7.0.3
+  release: 7.0.3
   versions:
   - 0.5.8
   - 0.6.0
@@ -145,4 +145,5 @@ versioning:
   - 7.0.0
   - 7.0.1
   - 7.0.2
-  lastUpdated: 20210608083421
+  - 7.0.3
+  lastUpdated: 20210619092927
