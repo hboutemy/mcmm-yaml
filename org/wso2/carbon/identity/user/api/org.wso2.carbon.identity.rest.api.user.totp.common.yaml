@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.identity.user.api
 artifactId: org.wso2.carbon.identity.rest.api.user.totp.common
 versioning:
-  latest: 1.1.25
-  release: 1.1.25
+  latest: 1.1.27
+  release: 1.1.27
   versions:
   - 1.0.43
   - 1.0.44
@@ -48,4 +48,6 @@ versioning:
   - 1.1.23
   - 1.1.24
   - 1.1.25
-  lastUpdated: 20210611202458
+  - 1.1.26
+  - 1.1.27
+  lastUpdated: 20210620082303
