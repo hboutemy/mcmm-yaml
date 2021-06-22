@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.arquillian.container
 artifactId: arquillian-container-test-impl-base
 versioning:
-  latest: 1.7.0.Alpha9
-  release: 1.7.0.Alpha9
+  latest: 1.7.0.Alpha10
+  release: 1.7.0.Alpha10
   versions:
   - 1.0.0.Beta1
   - 1.0.0.Beta2
@@ -57,4 +57,5 @@ versioning:
   - 1.7.0.Alpha7
   - 1.7.0.Alpha8
   - 1.7.0.Alpha9
-  lastUpdated: 20210322212007
+  - 1.7.0.Alpha10
+  lastUpdated: 20210621122503
