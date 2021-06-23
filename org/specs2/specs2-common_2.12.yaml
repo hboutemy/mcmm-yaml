@@ -3,8 +3,8 @@
 groupId: org.specs2
 artifactId: specs2-common_2.12
 versioning:
-  latest: 4.12.1
-  release: 4.12.1
+  latest: 4.12.1-junit-5
+  release: 4.12.1-junit-5
   versions:
   - 2.4.17
   - 2.5
@@ -115,4 +115,5 @@ versioning:
   - 4.11.0
   - 4.12.0
   - 4.12.1
-  lastUpdated: 20210613071000
+  - 4.12.1-junit-5
+  lastUpdated: 20210622073453

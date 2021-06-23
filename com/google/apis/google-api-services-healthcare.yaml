@@ -3,15 +3,17 @@
 groupId: com.google.apis
 artifactId: google-api-services-healthcare
 versioning:
-  latest: v1-rev20210603-1.31.5
-  release: v1-rev20210603-1.31.5
+  latest: v1-rev20210611-1.31.5
+  release: v1-rev20210611-1.31.5
   versions:
   - v1beta1-rev20210507-1.31.0
   - v1beta1-rev20210603-1.31.0
   - v1beta1-rev20210603-1.31.5
+  - v1beta1-rev20210611-1.31.5
   - v1-rev20210507-1.31.0
   - v1-rev20210603-1.31.0
   - v1-rev20210603-1.31.5
+  - v1-rev20210611-1.31.5
   - v1-rev20200327-1.30.9
   - v1-rev20200414-1.30.9
   - v1-rev20200501-1.30.9
@@ -279,4 +281,4 @@ versioning:
   - v1beta1-rev7-1.25.0
   - v1beta1-rev9-1.18.0-rc
   - v1beta1-rev9-1.25.0
-  lastUpdated: 20210618215630
+  lastUpdated: 20210622200854

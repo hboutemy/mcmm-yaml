@@ -3,8 +3,8 @@
 groupId: io.javalin
 artifactId: javalin-without-jetty
 versioning:
-  latest: 4.0.0.ALPHA2
-  release: 4.0.0.ALPHA2
+  latest: 4.0.0.ALPHA3
+  release: 4.0.0.ALPHA3
   versions:
   - 3.9.0
   - 3.9.1
@@ -22,7 +22,9 @@ versioning:
   - 3.13.5
   - 3.13.6
   - 3.13.7
+  - 3.13.8
   - 4.0.0.ALPHA0
   - 4.0.0.ALPHA1
   - 4.0.0.ALPHA2
-  lastUpdated: 20210526193130
+  - 4.0.0.ALPHA3
+  lastUpdated: 20210622192253

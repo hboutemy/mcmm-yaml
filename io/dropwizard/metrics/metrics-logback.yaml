@@ -3,8 +3,8 @@
 groupId: io.dropwizard.metrics
 artifactId: metrics-logback
 versioning:
-  latest: 4.2.1
-  release: 4.2.1
+  latest: 4.2.2
+  release: 4.2.2
   versions:
   - 3.1.0
   - 3.1.1
@@ -61,6 +61,7 @@ versioning:
   - 4.1.21
   - 4.1.22
   - 4.1.23
+  - 4.1.24
   - 4.2.0-beta.1
   - 4.2.0-beta.2
   - 4.2.0-beta.3
@@ -70,4 +71,5 @@ versioning:
   - 4.2.0-rc.3
   - 4.2.0
   - 4.2.1
-  lastUpdated: 20210616151745
+  - 4.2.2
+  lastUpdated: 20210622113603

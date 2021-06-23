@@ -3,10 +3,11 @@
 groupId: com.google.apis
 artifactId: google-api-services-datacatalog
 versioning:
-  latest: v1beta1-rev20210429-1.31.5
-  release: v1beta1-rev20210429-1.31.5
+  latest: v1-rev20210601-1.31.5
+  release: v1-rev20210601-1.31.5
   versions:
   - v1beta1-rev20210429-1.31.5
+  - v1-rev20210601-1.31.5
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.25.0
   - v1beta1-rev10-1.18.0-rc
@@ -75,4 +76,4 @@ versioning:
   - v1beta1-rev8-1.25.0
   - v1beta1-rev9-1.18.0-rc
   - v1beta1-rev9-1.25.0
-  lastUpdated: 20210618211001
+  lastUpdated: 20210622200214
