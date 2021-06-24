@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.identity.entitlement.endpoint
 versioning:
-  latest: 5.20.90
-  release: 5.20.90
+  latest: 5.20.92
+  release: 5.20.92
   versions:
   - 5.5.2
   - 5.5.3
@@ -1721,4 +1721,6 @@ versioning:
   - 5.20.88
   - 5.20.89
   - 5.20.90
-  lastUpdated: 20210622175518
+  - 5.20.91
+  - 5.20.92
+  lastUpdated: 20210623170312

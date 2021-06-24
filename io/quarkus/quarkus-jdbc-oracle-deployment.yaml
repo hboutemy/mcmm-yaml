@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-jdbc-oracle-deployment
 versioning:
-  latest: 2.0.0.CR3
-  release: 2.0.0.CR3
+  latest: 2.0.0.Final
+  release: 2.0.0.Final
   versions:
   - 1.13.2.Final
   - 1.13.3.Final
@@ -18,4 +18,5 @@ versioning:
   - 2.0.0.CR1
   - 2.0.0.CR2
   - 2.0.0.CR3
-  lastUpdated: 20210609103110
+  - 2.0.0.Final
+  lastUpdated: 20210623110519

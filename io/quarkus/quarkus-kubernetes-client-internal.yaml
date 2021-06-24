@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-kubernetes-client-internal
 versioning:
-  latest: 2.0.0.CR3
-  release: 2.0.0.CR3
+  latest: 2.0.0.Final
+  release: 2.0.0.Final
   versions:
   - 1.3.0.CR1
   - 1.3.0.CR2
@@ -79,4 +79,5 @@ versioning:
   - 2.0.0.CR1
   - 2.0.0.CR2
   - 2.0.0.CR3
-  lastUpdated: 20210609103119
+  - 2.0.0.Final
+  lastUpdated: 20210623110525

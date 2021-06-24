@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.integration
 artifactId: spring-integration-test
 versioning:
-  latest: 5.5.0
-  release: 5.5.0
+  latest: 5.5.1
+  release: 5.5.1
   versions:
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
@@ -147,11 +147,13 @@ versioning:
   - 5.4.2
   - 5.4.3
   - 5.4.7
+  - 5.4.8
   - 5.5.0
+  - 5.5.1
   - 4.0.0.M3
   - 5.3.6.RELEASE
   - 5.3.7.RELEASE
   - 5.4.4
   - 5.4.5
   - 5.4.6
-  lastUpdated: 20210609194141
+  lastUpdated: 20210623221341
