@@ -3,8 +3,8 @@
 groupId: org.nervos.ckb
 artifactId: example
 versioning:
-  latest: 0.41.1
-  release: 0.41.1
+  latest: 0.42.1-snapshot
+  release: 0.42.1-snapshot
   versions:
   - 0.24.1
   - 0.24.5
@@ -39,4 +39,6 @@ versioning:
   - 0.41.0
   - 0.41.1-snapshot
   - 0.41.1
-  lastUpdated: 20210621024914
+  - 0.42.0-snapshot
+  - 0.42.1-snapshot
+  lastUpdated: 20210624185844
