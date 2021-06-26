@@ -3,12 +3,13 @@
 groupId: com.datastax.oss.quarkus
 artifactId: cassandra-quarkus-integration-tests-metrics-microprofile
 versioning:
-  latest: 1.1.0-rc2
-  release: 1.1.0-rc2
+  latest: 1.1.0
+  release: 1.1.0
   versions:
   - 1.0.1
   - 1.0.2
   - 1.0.3
   - 1.1.0-rc1
   - 1.1.0-rc2
-  lastUpdated: 20210618091028
+  - 1.1.0
+  lastUpdated: 20210625190151

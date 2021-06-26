@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-snowball
 versioning:
-  latest: 1.12.12
-  release: 1.12.12
+  latest: 1.12.13
+  release: 1.12.13
   versions:
   - 1.11.26
   - 1.11.27
@@ -1027,4 +1027,5 @@ versioning:
   - 1.12.10
   - 1.12.11
   - 1.12.12
-  lastUpdated: 20210624212847
+  - 1.12.13
+  lastUpdated: 20210625194719

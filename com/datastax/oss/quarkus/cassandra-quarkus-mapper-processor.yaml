@@ -3,8 +3,8 @@
 groupId: com.datastax.oss.quarkus
 artifactId: cassandra-quarkus-mapper-processor
 versioning:
-  latest: 1.1.0-rc2
-  release: 1.1.0-rc2
+  latest: 1.1.0
+  release: 1.1.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -12,4 +12,5 @@ versioning:
   - 1.0.3
   - 1.1.0-rc1
   - 1.1.0-rc2
-  lastUpdated: 20210618091031
+  - 1.1.0
+  lastUpdated: 20210625190153

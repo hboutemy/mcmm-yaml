@@ -3,9 +3,10 @@
 groupId: com.datastax.oss.quarkus
 artifactId: cassandra-quarkus-integration-tests-no-mapper
 versioning:
-  latest: 1.1.0-rc2
-  release: 1.1.0-rc2
+  latest: 1.1.0
+  release: 1.1.0
   versions:
   - 1.0.3
   - 1.1.0-rc2
-  lastUpdated: 20210618091030
+  - 1.1.0
+  lastUpdated: 20210625190152
