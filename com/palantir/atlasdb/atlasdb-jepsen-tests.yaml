@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-jepsen-tests
 versioning:
-  latest: 0.364.0
-  release: 0.364.0
+  latest: 0.365.0
+  release: 0.365.0
   versions:
   - 0.312.2-rc2
   - 0.314.0
@@ -91,4 +91,5 @@ versioning:
   - 0.362.0
   - 0.363.0
   - 0.364.0
-  lastUpdated: 20210625105212
+  - 0.365.0
+  lastUpdated: 20210626105431
