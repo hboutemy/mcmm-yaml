@@ -3,13 +3,14 @@
 groupId: com.networknt
 artifactId: kafka-producer
 versioning:
-  latest: 2.0.27
-  release: 2.0.27
+  latest: 2.0.28
+  release: 2.0.28
   versions:
   - 1.6.32
   - 1.6.33
   - 1.6.34
   - 1.6.35
+  - 1.6.36
   - 2.0.18
   - 2.0.19
   - 2.0.20
@@ -20,4 +21,5 @@ versioning:
   - 2.0.25
   - 2.0.26
   - 2.0.27
-  lastUpdated: 20210525231336
+  - 2.0.28
+  lastUpdated: 20210627134021
