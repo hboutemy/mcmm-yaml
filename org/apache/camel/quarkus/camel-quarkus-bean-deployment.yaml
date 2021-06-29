@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-bean-deployment
 versioning:
-  latest: 2.0.0-M2
-  release: 2.0.0-M2
+  latest: 2.0.0
+  release: 2.0.0
   versions:
   - 0.1.0
   - 0.2.0
@@ -33,4 +33,5 @@ versioning:
   - 1.8.1
   - 2.0.0-M1
   - 2.0.0-M2
-  lastUpdated: 20210614075608
+  - 2.0.0
+  lastUpdated: 20210628143659

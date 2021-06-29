@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-fhir-parent
 versioning:
-  latest: 2.0.0-M2
-  release: 2.0.0-M2
+  latest: 2.0.0
+  release: 2.0.0
   versions:
   - 0.3.0
   - 0.3.1
@@ -31,4 +31,5 @@ versioning:
   - 1.8.1
   - 2.0.0-M1
   - 2.0.0-M2
-  lastUpdated: 20210614075741
+  - 2.0.0
+  lastUpdated: 20210628143801

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: cdk-customresources
 versioning:
-  latest: 1.110.0
-  release: 1.110.0
+  latest: 1.110.1
+  release: 1.110.1
   versions:
   - 0.36.0
   - 0.36.1
@@ -149,4 +149,5 @@ versioning:
   - 1.108.1
   - 1.109.0
   - 1.110.0
-  lastUpdated: 20210624120940
+  - 1.110.1
+  lastUpdated: 20210628225404

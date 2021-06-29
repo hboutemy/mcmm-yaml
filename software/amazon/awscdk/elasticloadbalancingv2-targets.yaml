@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: elasticloadbalancingv2-targets
 versioning:
-  latest: 1.110.0
-  release: 1.110.0
+  latest: 1.110.1
+  release: 1.110.1
   versions:
   - 1.6.0.DEVPREVIEW
   - 1.6.1.DEVPREVIEW
@@ -137,4 +137,5 @@ versioning:
   - 1.108.1
   - 1.109.0
   - 1.110.0
-  lastUpdated: 20210624120957
+  - 1.110.1
+  lastUpdated: 20210628225421
