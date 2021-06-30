@@ -1,35 +1,34 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-datafusion
 versioning:
   latest: v1-rev20210322-1.31.5
   release: v1-rev20210322-1.31.5
   versions:
-  - v1beta1-rev20210322-1.31.5
-  - v1-rev20210322-1.31.5
-  - v1-rev20200609-1.30.10
-  - v1-rev20200803-1.30.10
-  - v1-rev20200901-1.30.10
-  - v1-rev20200928-1.30.10
-  - v1-rev20200928-1.31.0
-  - v1-rev20210107-1.31.0
-  - v1-rev20210311-1.31.0
-  - v1-rev20210322-1.31.0
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.22.0
   - v1beta1-rev1-1.23.0
   - v1beta1-rev1-1.24.1
   - v1beta1-rev1-1.25.0
-  - v1beta1-rev10-1.18.0-rc
-  - v1beta1-rev10-1.25.0
-  - v1beta1-rev11-1.18.0-rc
-  - v1beta1-rev11-1.25.0
   - v1beta1-rev2-1.18.0-rc
   - v1beta1-rev2-1.22.0
   - v1beta1-rev2-1.23.0
   - v1beta1-rev2-1.24.1
   - v1beta1-rev2-1.25.0
+  - v1beta1-rev3-1.18.0-rc
+  - v1beta1-rev3-1.25.0
+  - v1beta1-rev5-1.18.0-rc
+  - v1beta1-rev5-1.25.0
+  - v1beta1-rev8-1.18.0-rc
+  - v1beta1-rev8-1.25.0
+  - v1beta1-rev9-1.18.0-rc
+  - v1beta1-rev9-1.25.0
+  - v1beta1-rev10-1.18.0-rc
+  - v1beta1-rev10-1.25.0
+  - v1beta1-rev11-1.18.0-rc
+  - v1beta1-rev11-1.25.0
   - v1beta1-rev20190424-1.26.0
   - v1beta1-rev20190424-1.27.0
   - v1beta1-rev20190424-1.28.0
@@ -49,8 +48,8 @@ versioning:
   - v1beta1-rev20200122-1.30.8
   - v1beta1-rev20200122-1.30.9
   - v1beta1-rev20200311-1.30.9
-  - v1beta1-rev20200609-1.30.10
   - v1beta1-rev20200609-1.30.9
+  - v1beta1-rev20200609-1.30.10
   - v1beta1-rev20200803-1.30.10
   - v1beta1-rev20200901-1.30.10
   - v1beta1-rev20200901-1.31.0
@@ -58,12 +57,14 @@ versioning:
   - v1beta1-rev20210218-1.31.0
   - v1beta1-rev20210311-1.31.0
   - v1beta1-rev20210322-1.31.0
-  - v1beta1-rev3-1.18.0-rc
-  - v1beta1-rev3-1.25.0
-  - v1beta1-rev5-1.18.0-rc
-  - v1beta1-rev5-1.25.0
-  - v1beta1-rev8-1.18.0-rc
-  - v1beta1-rev8-1.25.0
-  - v1beta1-rev9-1.18.0-rc
-  - v1beta1-rev9-1.25.0
-  lastUpdated: 20210618211147
+  - v1beta1-rev20210322-1.31.5
+  - v1-rev20200609-1.30.10
+  - v1-rev20200803-1.30.10
+  - v1-rev20200901-1.30.10
+  - v1-rev20200928-1.30.10
+  - v1-rev20200928-1.31.0
+  - v1-rev20210107-1.31.0
+  - v1-rev20210311-1.31.0
+  - v1-rev20210322-1.31.0
+  - v1-rev20210322-1.31.5
+  lastUpdated: 20210629191943

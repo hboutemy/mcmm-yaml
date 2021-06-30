@@ -1,18 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-workflows
 versioning:
   latest: v1-rev20210422-1.31.5
   release: v1-rev20210422-1.31.5
   versions:
-  - v1beta-rev20210422-1.31.5
-  - v1-rev20210422-1.31.5
-  - v1-rev20210126-1.31.0
-  - v1-rev20210304-1.31.0
-  - v1-rev20210310-1.31.0
-  - v1-rev20210408-1.31.0
-  - v1-rev20210422-1.31.0
   - v1beta-rev20200828-1.30.10
   - v1beta-rev20201008-1.30.10
   - v1beta-rev20201008-1.31.0
@@ -21,4 +15,11 @@ versioning:
   - v1beta-rev20210310-1.31.0
   - v1beta-rev20210408-1.31.0
   - v1beta-rev20210422-1.31.0
-  lastUpdated: 20210618231509
+  - v1beta-rev20210422-1.31.5
+  - v1-rev20210126-1.31.0
+  - v1-rev20210304-1.31.0
+  - v1-rev20210310-1.31.0
+  - v1-rev20210408-1.31.0
+  - v1-rev20210422-1.31.0
+  - v1-rev20210422-1.31.5
+  lastUpdated: 20210629190759

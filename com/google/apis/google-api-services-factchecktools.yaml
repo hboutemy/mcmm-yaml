@@ -1,113 +1,76 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-factchecktools
 versioning:
   latest: v1alpha1-rev20210403-1.31.5
   release: v1alpha1-rev20210403-1.31.5
   versions:
-  - v1alpha1-rev20210403-1.31.5
+  - v1alpha1-rev2-1.18.0-rc
+  - v1alpha1-rev2-1.22.0
+  - v1alpha1-rev2-1.23.0
+  - v1alpha1-rev2-1.24.1
+  - v1alpha1-rev2-1.25.0
+  - v1alpha1-rev3-1.18.0-rc
+  - v1alpha1-rev3-1.22.0
+  - v1alpha1-rev3-1.23.0
+  - v1alpha1-rev3-1.24.1
+  - v1alpha1-rev3-1.25.0
+  - v1alpha1-rev4-1.18.0-rc
+  - v1alpha1-rev4-1.22.0
+  - v1alpha1-rev4-1.23.0
+  - v1alpha1-rev4-1.24.1
+  - v1alpha1-rev4-1.25.0
+  - v1alpha1-rev5-1.18.0-rc
+  - v1alpha1-rev5-1.22.0
+  - v1alpha1-rev5-1.23.0
+  - v1alpha1-rev5-1.24.1
+  - v1alpha1-rev5-1.25.0
+  - v1alpha1-rev6-1.18.0-rc
+  - v1alpha1-rev6-1.22.0
+  - v1alpha1-rev6-1.23.0
+  - v1alpha1-rev6-1.25.0
+  - v1alpha1-rev8-1.18.0-rc
+  - v1alpha1-rev8-1.22.0
+  - v1alpha1-rev8-1.23.0
+  - v1alpha1-rev8-1.24.1
+  - v1alpha1-rev8-1.25.0
+  - v1alpha1-rev9-1.18.0-rc
+  - v1alpha1-rev9-1.22.0
+  - v1alpha1-rev9-1.23.0
+  - v1alpha1-rev9-1.24.1
+  - v1alpha1-rev9-1.25.0
   - v1alpha1-rev10-1.18.0-rc
   - v1alpha1-rev10-1.22.0
   - v1alpha1-rev10-1.23.0
   - v1alpha1-rev10-1.24.1
   - v1alpha1-rev10-1.25.0
-  - v1alpha1-rev111-1.18.0-rc
-  - v1alpha1-rev111-1.25.0
-  - v1alpha1-rev112-1.18.0-rc
-  - v1alpha1-rev112-1.25.0
-  - v1alpha1-rev113-1.18.0-rc
-  - v1alpha1-rev113-1.25.0
-  - v1alpha1-rev114-1.18.0-rc
-  - v1alpha1-rev114-1.25.0
-  - v1alpha1-rev115-1.18.0-rc
-  - v1alpha1-rev115-1.25.0
-  - v1alpha1-rev116-1.18.0-rc
-  - v1alpha1-rev116-1.25.0
-  - v1alpha1-rev118-1.18.0-rc
-  - v1alpha1-rev118-1.25.0
-  - v1alpha1-rev119-1.18.0-rc
-  - v1alpha1-rev119-1.25.0
   - v1alpha1-rev12-1.18.0-rc
   - v1alpha1-rev12-1.22.0
   - v1alpha1-rev12-1.23.0
   - v1alpha1-rev12-1.24.1
   - v1alpha1-rev12-1.25.0
-  - v1alpha1-rev120-1.18.0-rc
-  - v1alpha1-rev120-1.25.0
-  - v1alpha1-rev121-1.18.0-rc
-  - v1alpha1-rev121-1.25.0
-  - v1alpha1-rev122-1.18.0-rc
-  - v1alpha1-rev122-1.25.0
-  - v1alpha1-rev123-1.18.0-rc
-  - v1alpha1-rev123-1.25.0
-  - v1alpha1-rev124-1.18.0-rc
-  - v1alpha1-rev124-1.25.0
-  - v1alpha1-rev125-1.18.0-rc
-  - v1alpha1-rev125-1.25.0
-  - v1alpha1-rev126-1.18.0-rc
-  - v1alpha1-rev126-1.25.0
-  - v1alpha1-rev127-1.18.0-rc
-  - v1alpha1-rev127-1.25.0
-  - v1alpha1-rev128-1.18.0-rc
-  - v1alpha1-rev128-1.25.0
-  - v1alpha1-rev129-1.18.0-rc
-  - v1alpha1-rev129-1.25.0
   - v1alpha1-rev13-1.18.0-rc
   - v1alpha1-rev13-1.22.0
   - v1alpha1-rev13-1.23.0
   - v1alpha1-rev13-1.24.1
   - v1alpha1-rev13-1.25.0
-  - v1alpha1-rev130-1.18.0-rc
-  - v1alpha1-rev130-1.25.0
-  - v1alpha1-rev131-1.18.0-rc
-  - v1alpha1-rev131-1.25.0
-  - v1alpha1-rev132-1.18.0-rc
-  - v1alpha1-rev132-1.25.0
-  - v1alpha1-rev133-1.18.0-rc
-  - v1alpha1-rev133-1.25.0
-  - v1alpha1-rev134-1.18.0-rc
-  - v1alpha1-rev134-1.25.0
-  - v1alpha1-rev135-1.18.0-rc
-  - v1alpha1-rev135-1.25.0
-  - v1alpha1-rev136-1.18.0-rc
-  - v1alpha1-rev136-1.25.0
-  - v1alpha1-rev137-1.18.0-rc
-  - v1alpha1-rev137-1.25.0
-  - v1alpha1-rev138-1.18.0-rc
-  - v1alpha1-rev138-1.25.0
-  - v1alpha1-rev139-1.18.0-rc
-  - v1alpha1-rev139-1.25.0
   - v1alpha1-rev14-1.18.0-rc
   - v1alpha1-rev14-1.22.0
   - v1alpha1-rev14-1.23.0
   - v1alpha1-rev14-1.24.1
   - v1alpha1-rev14-1.25.0
-  - v1alpha1-rev140-1.18.0-rc
-  - v1alpha1-rev140-1.25.0
-  - v1alpha1-rev141-1.18.0-rc
-  - v1alpha1-rev141-1.25.0
-  - v1alpha1-rev142-1.18.0-rc
-  - v1alpha1-rev142-1.25.0
-  - v1alpha1-rev143-1.18.0-rc
-  - v1alpha1-rev143-1.25.0
-  - v1alpha1-rev148-1.18.0-rc
-  - v1alpha1-rev148-1.25.0
-  - v1alpha1-rev149-1.18.0-rc
-  - v1alpha1-rev149-1.25.0
   - v1alpha1-rev15-1.18.0-rc
   - v1alpha1-rev15-1.22.0
   - v1alpha1-rev15-1.23.0
   - v1alpha1-rev15-1.24.1
   - v1alpha1-rev15-1.25.0
-  - v1alpha1-rev151-1.18.0-rc
   - v1alpha1-rev17-1.18.0-rc
   - v1alpha1-rev17-1.22.0
   - v1alpha1-rev17-1.23.0
   - v1alpha1-rev17-1.24.1
   - v1alpha1-rev17-1.25.0
-  - v1alpha1-rev171-1.18.0-rc
-  - v1alpha1-rev171-1.25.0
   - v1alpha1-rev18-1.18.0-rc
   - v1alpha1-rev18-1.22.0
   - v1alpha1-rev18-1.23.0
@@ -118,35 +81,11 @@ versioning:
   - v1alpha1-rev19-1.23.0
   - v1alpha1-rev19-1.24.1
   - v1alpha1-rev19-1.25.0
-  - v1alpha1-rev2-1.18.0-rc
-  - v1alpha1-rev2-1.22.0
-  - v1alpha1-rev2-1.23.0
-  - v1alpha1-rev2-1.24.1
-  - v1alpha1-rev2-1.25.0
   - v1alpha1-rev20-1.18.0-rc
   - v1alpha1-rev20-1.22.0
   - v1alpha1-rev20-1.23.0
   - v1alpha1-rev20-1.24.1
   - v1alpha1-rev20-1.25.0
-  - v1alpha1-rev20190325-1.26.0
-  - v1alpha1-rev20190325-1.27.0
-  - v1alpha1-rev20190325-1.28.0
-  - v1alpha1-rev20190328-1.26.0
-  - v1alpha1-rev20190328-1.27.0
-  - v1alpha1-rev20190328-1.28.0
-  - v1alpha1-rev20190328-1.29.2
-  - v1alpha1-rev20190328-1.30.1
-  - v1alpha1-rev20190821-1.28.0
-  - v1alpha1-rev20190821-1.29.2
-  - v1alpha1-rev20190821-1.30.1
-  - v1alpha1-rev20190821-1.30.8
-  - v1alpha1-rev20200210-1.30.8
-  - v1alpha1-rev20200212-1.30.8
-  - v1alpha1-rev20200215-1.30.10
-  - v1alpha1-rev20200215-1.30.9
-  - v1alpha1-rev20200801-1.30.10
-  - v1alpha1-rev20200801-1.31.0
-  - v1alpha1-rev20210403-1.31.0
   - v1alpha1-rev21-1.18.0-rc
   - v1alpha1-rev21-1.22.0
   - v1alpha1-rev21-1.23.0
@@ -184,11 +123,6 @@ versioning:
   - v1alpha1-rev27-1.25.0
   - v1alpha1-rev28-1.18.0-rc
   - v1alpha1-rev28-1.25.0
-  - v1alpha1-rev3-1.18.0-rc
-  - v1alpha1-rev3-1.22.0
-  - v1alpha1-rev3-1.23.0
-  - v1alpha1-rev3-1.24.1
-  - v1alpha1-rev3-1.25.0
   - v1alpha1-rev31-1.18.0-rc
   - v1alpha1-rev31-1.25.0
   - v1alpha1-rev32-1.18.0-rc
@@ -205,29 +139,15 @@ versioning:
   - v1alpha1-rev37-1.25.0
   - v1alpha1-rev38-1.18.0-rc
   - v1alpha1-rev38-1.25.0
-  - v1alpha1-rev4-1.18.0-rc
-  - v1alpha1-rev4-1.22.0
-  - v1alpha1-rev4-1.23.0
-  - v1alpha1-rev4-1.24.1
-  - v1alpha1-rev4-1.25.0
   - v1alpha1-rev44-1.18.0-rc
   - v1alpha1-rev44-1.25.0
   - v1alpha1-rev45-1.18.0-rc
   - v1alpha1-rev45-1.25.0
   - v1alpha1-rev46-1.18.0-rc
   - v1alpha1-rev46-1.25.0
-  - v1alpha1-rev5-1.18.0-rc
-  - v1alpha1-rev5-1.22.0
-  - v1alpha1-rev5-1.23.0
-  - v1alpha1-rev5-1.24.1
-  - v1alpha1-rev5-1.25.0
   - v1alpha1-rev51-1.18.0-rc
   - v1alpha1-rev53-1.18.0-rc
   - v1alpha1-rev53-1.25.0
-  - v1alpha1-rev6-1.18.0-rc
-  - v1alpha1-rev6-1.22.0
-  - v1alpha1-rev6-1.23.0
-  - v1alpha1-rev6-1.25.0
   - v1alpha1-rev61-1.18.0-rc
   - v1alpha1-rev61-1.25.0
   - v1alpha1-rev63-1.18.0-rc
@@ -237,14 +157,95 @@ versioning:
   - v1alpha1-rev68-1.25.0
   - v1alpha1-rev70-1.18.0-rc
   - v1alpha1-rev78-1.18.0-rc
-  - v1alpha1-rev8-1.18.0-rc
-  - v1alpha1-rev8-1.22.0
-  - v1alpha1-rev8-1.23.0
-  - v1alpha1-rev8-1.24.1
-  - v1alpha1-rev8-1.25.0
-  - v1alpha1-rev9-1.18.0-rc
-  - v1alpha1-rev9-1.22.0
-  - v1alpha1-rev9-1.23.0
-  - v1alpha1-rev9-1.24.1
-  - v1alpha1-rev9-1.25.0
-  lastUpdated: 20210618213657
+  - v1alpha1-rev111-1.18.0-rc
+  - v1alpha1-rev111-1.25.0
+  - v1alpha1-rev112-1.18.0-rc
+  - v1alpha1-rev112-1.25.0
+  - v1alpha1-rev113-1.18.0-rc
+  - v1alpha1-rev113-1.25.0
+  - v1alpha1-rev114-1.18.0-rc
+  - v1alpha1-rev114-1.25.0
+  - v1alpha1-rev115-1.18.0-rc
+  - v1alpha1-rev115-1.25.0
+  - v1alpha1-rev116-1.18.0-rc
+  - v1alpha1-rev116-1.25.0
+  - v1alpha1-rev118-1.18.0-rc
+  - v1alpha1-rev118-1.25.0
+  - v1alpha1-rev119-1.18.0-rc
+  - v1alpha1-rev119-1.25.0
+  - v1alpha1-rev120-1.18.0-rc
+  - v1alpha1-rev120-1.25.0
+  - v1alpha1-rev121-1.18.0-rc
+  - v1alpha1-rev121-1.25.0
+  - v1alpha1-rev122-1.18.0-rc
+  - v1alpha1-rev122-1.25.0
+  - v1alpha1-rev123-1.18.0-rc
+  - v1alpha1-rev123-1.25.0
+  - v1alpha1-rev124-1.18.0-rc
+  - v1alpha1-rev124-1.25.0
+  - v1alpha1-rev125-1.18.0-rc
+  - v1alpha1-rev125-1.25.0
+  - v1alpha1-rev126-1.18.0-rc
+  - v1alpha1-rev126-1.25.0
+  - v1alpha1-rev127-1.18.0-rc
+  - v1alpha1-rev127-1.25.0
+  - v1alpha1-rev128-1.18.0-rc
+  - v1alpha1-rev128-1.25.0
+  - v1alpha1-rev129-1.18.0-rc
+  - v1alpha1-rev129-1.25.0
+  - v1alpha1-rev130-1.18.0-rc
+  - v1alpha1-rev130-1.25.0
+  - v1alpha1-rev131-1.18.0-rc
+  - v1alpha1-rev131-1.25.0
+  - v1alpha1-rev132-1.18.0-rc
+  - v1alpha1-rev132-1.25.0
+  - v1alpha1-rev133-1.18.0-rc
+  - v1alpha1-rev133-1.25.0
+  - v1alpha1-rev134-1.18.0-rc
+  - v1alpha1-rev134-1.25.0
+  - v1alpha1-rev135-1.18.0-rc
+  - v1alpha1-rev135-1.25.0
+  - v1alpha1-rev136-1.18.0-rc
+  - v1alpha1-rev136-1.25.0
+  - v1alpha1-rev137-1.18.0-rc
+  - v1alpha1-rev137-1.25.0
+  - v1alpha1-rev138-1.18.0-rc
+  - v1alpha1-rev138-1.25.0
+  - v1alpha1-rev139-1.18.0-rc
+  - v1alpha1-rev139-1.25.0
+  - v1alpha1-rev140-1.18.0-rc
+  - v1alpha1-rev140-1.25.0
+  - v1alpha1-rev141-1.18.0-rc
+  - v1alpha1-rev141-1.25.0
+  - v1alpha1-rev142-1.18.0-rc
+  - v1alpha1-rev142-1.25.0
+  - v1alpha1-rev143-1.18.0-rc
+  - v1alpha1-rev143-1.25.0
+  - v1alpha1-rev148-1.18.0-rc
+  - v1alpha1-rev148-1.25.0
+  - v1alpha1-rev149-1.18.0-rc
+  - v1alpha1-rev149-1.25.0
+  - v1alpha1-rev151-1.18.0-rc
+  - v1alpha1-rev171-1.18.0-rc
+  - v1alpha1-rev171-1.25.0
+  - v1alpha1-rev20190325-1.26.0
+  - v1alpha1-rev20190325-1.27.0
+  - v1alpha1-rev20190325-1.28.0
+  - v1alpha1-rev20190328-1.26.0
+  - v1alpha1-rev20190328-1.27.0
+  - v1alpha1-rev20190328-1.28.0
+  - v1alpha1-rev20190328-1.29.2
+  - v1alpha1-rev20190328-1.30.1
+  - v1alpha1-rev20190821-1.28.0
+  - v1alpha1-rev20190821-1.29.2
+  - v1alpha1-rev20190821-1.30.1
+  - v1alpha1-rev20190821-1.30.8
+  - v1alpha1-rev20200210-1.30.8
+  - v1alpha1-rev20200212-1.30.8
+  - v1alpha1-rev20200215-1.30.9
+  - v1alpha1-rev20200215-1.30.10
+  - v1alpha1-rev20200801-1.30.10
+  - v1alpha1-rev20200801-1.31.0
+  - v1alpha1-rev20210403-1.31.0
+  - v1alpha1-rev20210403-1.31.5
+  lastUpdated: 20210629192327

@@ -1,47 +1,20 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-policytroubleshooter
 versioning:
   latest: v1-rev20210319-1.31.5
   release: v1-rev20210319-1.31.5
   versions:
-  - v1beta-rev20210319-1.31.5
-  - v1-rev20210319-1.31.5
-  - v1-rev1-1.18.0-rc
-  - v1-rev1-1.25.0
-  - v1-rev10-1.18.0-rc
-  - v1-rev10-1.25.0
-  - v1-rev2-1.18.0-rc
-  - v1-rev2-1.25.0
-  - v1-rev20191206-1.28.0
-  - v1-rev20191206-1.29.2
-  - v1-rev20191206-1.30.3
-  - v1-rev20200120-1.28.0
-  - v1-rev20200120-1.29.2
-  - v1-rev20200120-1.30.8
-  - v1-rev20200210-1.30.8
-  - v1-rev20200210-1.30.9
-  - v1-rev20200504-1.30.9
-  - v1-rev20200606-1.30.10
-  - v1-rev20200606-1.30.9
-  - v1-rev20200801-1.30.10
-  - v1-rev20201031-1.30.10
-  - v1-rev20201107-1.30.10
-  - v1-rev20201107-1.31.0
-  - v1-rev20210319-1.31.0
-  - v1-rev3-1.18.0-rc
-  - v1-rev3-1.25.0
-  - v1-rev4-1.18.0-rc
-  - v1-rev4-1.25.0
-  - v1-rev5-1.18.0-rc
-  - v1-rev5-1.25.0
-  - v1-rev6-1.18.0-rc
-  - v1-rev6-1.25.0
-  - v1-rev7-1.18.0-rc
-  - v1-rev7-1.25.0
-  - v1-rev8-1.18.0-rc
-  - v1-rev8-1.25.0
+  - v1beta-rev6-1.18.0-rc
+  - v1beta-rev6-1.25.0
+  - v1beta-rev7-1.18.0-rc
+  - v1beta-rev7-1.25.0
+  - v1beta-rev8-1.18.0-rc
+  - v1beta-rev8-1.25.0
+  - v1beta-rev9-1.18.0-rc
+  - v1beta-rev9-1.25.0
   - v1beta-rev10-1.18.0-rc
   - v1beta-rev10-1.25.0
   - v1beta-rev11-1.18.0-rc
@@ -75,19 +48,47 @@ versioning:
   - v1beta-rev20200210-1.30.8
   - v1beta-rev20200210-1.30.9
   - v1beta-rev20200504-1.30.9
-  - v1beta-rev20200606-1.30.10
   - v1beta-rev20200606-1.30.9
+  - v1beta-rev20200606-1.30.10
   - v1beta-rev20200801-1.30.10
   - v1beta-rev20201031-1.30.10
   - v1beta-rev20201107-1.30.10
   - v1beta-rev20201107-1.31.0
   - v1beta-rev20210319-1.31.0
-  - v1beta-rev6-1.18.0-rc
-  - v1beta-rev6-1.25.0
-  - v1beta-rev7-1.18.0-rc
-  - v1beta-rev7-1.25.0
-  - v1beta-rev8-1.18.0-rc
-  - v1beta-rev8-1.25.0
-  - v1beta-rev9-1.18.0-rc
-  - v1beta-rev9-1.25.0
-  lastUpdated: 20210618222355
+  - v1beta-rev20210319-1.31.5
+  - v1-rev1-1.18.0-rc
+  - v1-rev1-1.25.0
+  - v1-rev2-1.18.0-rc
+  - v1-rev2-1.25.0
+  - v1-rev3-1.18.0-rc
+  - v1-rev3-1.25.0
+  - v1-rev4-1.18.0-rc
+  - v1-rev4-1.25.0
+  - v1-rev5-1.18.0-rc
+  - v1-rev5-1.25.0
+  - v1-rev6-1.18.0-rc
+  - v1-rev6-1.25.0
+  - v1-rev7-1.18.0-rc
+  - v1-rev7-1.25.0
+  - v1-rev8-1.18.0-rc
+  - v1-rev8-1.25.0
+  - v1-rev10-1.18.0-rc
+  - v1-rev10-1.25.0
+  - v1-rev20191206-1.28.0
+  - v1-rev20191206-1.29.2
+  - v1-rev20191206-1.30.3
+  - v1-rev20200120-1.28.0
+  - v1-rev20200120-1.29.2
+  - v1-rev20200120-1.30.8
+  - v1-rev20200210-1.30.8
+  - v1-rev20200210-1.30.9
+  - v1-rev20200504-1.30.9
+  - v1-rev20200606-1.30.9
+  - v1-rev20200606-1.30.10
+  - v1-rev20200801-1.30.10
+  - v1-rev20201031-1.30.10
+  - v1-rev20201107-1.30.10
+  - v1-rev20201107-1.31.0
+  - v1-rev20210319-1.31.0
+  - v1-rev20210319-1.31.5
+  lastUpdated: 20210629183138

@@ -1,23 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-sts
 versioning:
   latest: v1-rev20210613-1.31.5
   release: v1-rev20210613-1.31.5
   versions:
-  - v1beta-rev20210508-1.31.0
-  - v1beta-rev20210517-1.31.0
-  - v1beta-rev20210517-1.31.5
-  - v1-rev20210508-1.31.0
-  - v1-rev20210517-1.31.0
-  - v1-rev20210517-1.31.5
-  - v1-rev20210613-1.31.5
-  - v1-rev20200908-1.30.10
-  - v1-rev20201004-1.30.10
-  - v1-rev20201004-1.31.0
-  - v1-rev20210130-1.31.0
-  - v1-rev20210206-1.31.0
   - v1beta-rev20200908-1.30.10
   - v1beta-rev20200919-1.30.10
   - v1beta-rev20201004-1.30.10
@@ -25,4 +14,16 @@ versioning:
   - v1beta-rev20201009-1.31.0
   - v1beta-rev20210116-1.31.0
   - v1beta-rev20210206-1.31.0
-  lastUpdated: 20210619200607
+  - v1beta-rev20210508-1.31.0
+  - v1beta-rev20210517-1.31.0
+  - v1beta-rev20210517-1.31.5
+  - v1-rev20200908-1.30.10
+  - v1-rev20201004-1.30.10
+  - v1-rev20201004-1.31.0
+  - v1-rev20210130-1.31.0
+  - v1-rev20210206-1.31.0
+  - v1-rev20210508-1.31.0
+  - v1-rev20210517-1.31.0
+  - v1-rev20210517-1.31.5
+  - v1-rev20210613-1.31.5
+  lastUpdated: 20210629191956

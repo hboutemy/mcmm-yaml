@@ -1,69 +1,16 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-admin-directory
 versioning:
   latest: directory_v1-rev20210622-1.31.5
   release: directory_v1-rev20210622-1.31.5
   versions:
-  - directory_v1-rev20210531-1.31.0
-  - directory_v1-rev20210531-1.31.5
-  - directory_v1-rev20210622-1.31.5
-  - directory_v1-rev100-1.21.0
-  - directory_v1-rev100-1.22.0
-  - directory_v1-rev100-1.23.0
-  - directory_v1-rev101-1.21.0
-  - directory_v1-rev101-1.22.0
-  - directory_v1-rev101-1.23.0
-  - directory_v1-rev102-1.22.0
-  - directory_v1-rev102-1.23.0
-  - directory_v1-rev102-1.24.1
-  - directory_v1-rev103-1.22.0
-  - directory_v1-rev103-1.23.0
-  - directory_v1-rev103-1.24.1
-  - directory_v1-rev103-1.25.0
-  - directory_v1-rev104-1.22.0
-  - directory_v1-rev104-1.23.0
-  - directory_v1-rev104-1.24.1
-  - directory_v1-rev104-1.25.0
-  - directory_v1-rev105-1.22.0
-  - directory_v1-rev105-1.23.0
-  - directory_v1-rev105-1.24.1
-  - directory_v1-rev105-1.25.0
-  - directory_v1-rev108-1.22.0
-  - directory_v1-rev108-1.23.0
-  - directory_v1-rev108-1.24.1
-  - directory_v1-rev108-1.25.0
-  - directory_v1-rev109-1.22.0
-  - directory_v1-rev109-1.23.0
-  - directory_v1-rev109-1.24.1
-  - directory_v1-rev109-1.25.0
-  - directory_v1-rev110-1.25.0
-  - directory_v1-rev117-1.25.0
-  - directory_v1-rev118-1.25.0
   - directory_v1-rev14-1.17.0-rc
   - directory_v1-rev15-1.17.0-rc
   - directory_v1-rev16-1.17.0-rc
   - directory_v1-rev18-1.17.0-rc
-  - directory_v1-rev20190708-1.28.0
-  - directory_v1-rev20190708-1.29.2
-  - directory_v1-rev20190708-1.30.1
-  - directory_v1-rev20190806-1.28.0
-  - directory_v1-rev20190806-1.29.2
-  - directory_v1-rev20190806-1.30.3
-  - directory_v1-rev20191003-1.30.8
-  - directory_v1-rev20201124-1.31.0
-  - directory_v1-rev20201215-1.31.0
-  - directory_v1-rev20210105-1.31.0
-  - directory_v1-rev20210216-1.31.0
-  - directory_v1-rev20210223-1.31.0
-  - directory_v1-rev20210302-1.31.0
-  - directory_v1-rev20210309-1.31.0
-  - directory_v1-rev20210316-1.31.0
-  - directory_v1-rev20210323-1.31.0
-  - directory_v1-rev20210413-1.31.0
-  - directory_v1-rev20210420-1.31.0
-  - directory_v1-rev20210427-1.31.0
   - directory_v1-rev21-1.17.0-rc
   - directory_v1-rev22-1.17.0-rc
   - directory_v1-rev24-1.17.0-rc
@@ -251,4 +198,58 @@ versioning:
   - directory_v1-rev98-1.21.0
   - directory_v1-rev98-1.22.0
   - directory_v1-rev99-1.23.0
-  lastUpdated: 20210623200019
+  - directory_v1-rev100-1.21.0
+  - directory_v1-rev100-1.22.0
+  - directory_v1-rev100-1.23.0
+  - directory_v1-rev101-1.21.0
+  - directory_v1-rev101-1.22.0
+  - directory_v1-rev101-1.23.0
+  - directory_v1-rev102-1.22.0
+  - directory_v1-rev102-1.23.0
+  - directory_v1-rev102-1.24.1
+  - directory_v1-rev103-1.22.0
+  - directory_v1-rev103-1.23.0
+  - directory_v1-rev103-1.24.1
+  - directory_v1-rev103-1.25.0
+  - directory_v1-rev104-1.22.0
+  - directory_v1-rev104-1.23.0
+  - directory_v1-rev104-1.24.1
+  - directory_v1-rev104-1.25.0
+  - directory_v1-rev105-1.22.0
+  - directory_v1-rev105-1.23.0
+  - directory_v1-rev105-1.24.1
+  - directory_v1-rev105-1.25.0
+  - directory_v1-rev108-1.22.0
+  - directory_v1-rev108-1.23.0
+  - directory_v1-rev108-1.24.1
+  - directory_v1-rev108-1.25.0
+  - directory_v1-rev109-1.22.0
+  - directory_v1-rev109-1.23.0
+  - directory_v1-rev109-1.24.1
+  - directory_v1-rev109-1.25.0
+  - directory_v1-rev110-1.25.0
+  - directory_v1-rev117-1.25.0
+  - directory_v1-rev118-1.25.0
+  - directory_v1-rev20190708-1.28.0
+  - directory_v1-rev20190708-1.29.2
+  - directory_v1-rev20190708-1.30.1
+  - directory_v1-rev20190806-1.28.0
+  - directory_v1-rev20190806-1.29.2
+  - directory_v1-rev20190806-1.30.3
+  - directory_v1-rev20191003-1.30.8
+  - directory_v1-rev20201124-1.31.0
+  - directory_v1-rev20201215-1.31.0
+  - directory_v1-rev20210105-1.31.0
+  - directory_v1-rev20210216-1.31.0
+  - directory_v1-rev20210223-1.31.0
+  - directory_v1-rev20210302-1.31.0
+  - directory_v1-rev20210309-1.31.0
+  - directory_v1-rev20210316-1.31.0
+  - directory_v1-rev20210323-1.31.0
+  - directory_v1-rev20210413-1.31.0
+  - directory_v1-rev20210420-1.31.0
+  - directory_v1-rev20210427-1.31.0
+  - directory_v1-rev20210531-1.31.0
+  - directory_v1-rev20210531-1.31.5
+  - directory_v1-rev20210622-1.31.5
+  lastUpdated: 20210629173425

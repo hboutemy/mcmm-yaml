@@ -1,20 +1,21 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-gmailpostmastertools
 versioning:
   latest: v1-rev20210112-1.31.5
   release: v1-rev20210112-1.31.5
   versions:
-  - v1beta1-rev20201123-1.31.5
-  - v1-rev20210112-1.31.5
-  - v1-rev20210112-1.31.0
-  - v1beta1-rev20200629-1.30.10
   - v1beta1-rev20200629-1.30.9
+  - v1beta1-rev20200629-1.30.10
   - v1beta1-rev20200719-1.30.10
   - v1beta1-rev20200801-1.30.10
   - v1beta1-rev20200811-1.30.10
   - v1beta1-rev20200817-1.30.10
   - v1beta1-rev20201012-1.30.10
   - v1beta1-rev20201123-1.31.0
-  lastUpdated: 20210618215400
+  - v1beta1-rev20201123-1.31.5
+  - v1-rev20210112-1.31.0
+  - v1-rev20210112-1.31.5
+  lastUpdated: 20210629192005

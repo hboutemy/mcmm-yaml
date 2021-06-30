@@ -1,26 +1,23 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-firebaseml
 versioning:
   latest: v1-rev20210322-1.31.5
   release: v1-rev20210322-1.31.5
   versions:
-  - v1beta2-rev20210322-1.31.5
-  - v1-rev20210322-1.31.5
-  - v1-rev20200519-1.30.10
-  - v1-rev20200519-1.30.9
-  - v1-rev20200803-1.30.10
-  - v1-rev20200803-1.31.0
-  - v1-rev20210322-1.31.0
+  - v1beta2-rev2-1.18.0-rc
+  - v1beta2-rev2-1.25.0
+  - v1beta2-rev4-1.25.0
   - v1beta2-rev11-1.18.0-rc
   - v1beta2-rev11-1.25.0
   - v1beta2-rev16-1.18.0-rc
   - v1beta2-rev16-1.25.0
-  - v1beta2-rev2-1.18.0-rc
-  - v1beta2-rev2-1.25.0
-  - v1beta2-rev20200415-1.30.10
+  - v1beta2-rev21-1.18.0-rc
+  - v1beta2-rev21-1.25.0
   - v1beta2-rev20200415-1.30.9
+  - v1beta2-rev20200415-1.30.10
   - v1beta2-rev20200722-1.30.10
   - v1beta2-rev20200803-1.30.10
   - v1beta2-rev20200814-1.30.10
@@ -28,7 +25,11 @@ versioning:
   - v1beta2-rev20200905-1.31.0
   - v1beta2-rev20210203-1.31.0
   - v1beta2-rev20210322-1.31.0
-  - v1beta2-rev21-1.18.0-rc
-  - v1beta2-rev21-1.25.0
-  - v1beta2-rev4-1.25.0
-  lastUpdated: 20210618214251
+  - v1beta2-rev20210322-1.31.5
+  - v1-rev20200519-1.30.9
+  - v1-rev20200519-1.30.10
+  - v1-rev20200803-1.30.10
+  - v1-rev20200803-1.31.0
+  - v1-rev20210322-1.31.0
+  - v1-rev20210322-1.31.5
+  lastUpdated: 20210629194626

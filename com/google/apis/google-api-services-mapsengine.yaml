@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-mapsengine
 versioning:
@@ -118,6 +119,9 @@ versioning:
   - exp2-rev31-1.19.0
   - exp2-rev31-1.19.1
   - exp2-rev31-1.20.0
+  - exp2-rev32-1.19.0
+  - exp2-rev32-1.19.1
+  - exp2-rev32-1.20.0
   - exp2-rev33-1.19.0
   - exp2-rev33-1.19.1
   - exp2-rev33-1.20.0
@@ -361,6 +365,9 @@ versioning:
   - v1-rev61-1.19.0
   - v1-rev61-1.19.1
   - v1-rev61-1.20.0
+  - v1-rev62-1.19.0
+  - v1-rev62-1.19.1
+  - v1-rev62-1.20.0
   - v1-rev63-1.19.0
   - v1-rev63-1.19.1
   - v1-rev63-1.20.0
@@ -374,10 +381,4 @@ versioning:
   - v1-rev66-1.19.1
   - v1-rev66-1.20.0
   - v1-rev66-1.21.0
-  - exp2-rev32-1.19.0
-  - exp2-rev32-1.19.1
-  - exp2-rev32-1.20.0
-  - v1-rev62-1.19.0
-  - v1-rev62-1.19.1
-  - v1-rev62-1.20.0
-  lastUpdated: 20160112025604
+  lastUpdated: 20210629194017

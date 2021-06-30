@@ -1,130 +1,57 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-accesscontextmanager
 versioning:
   latest: v1-rev20210412-1.31.5
   release: v1-rev20210412-1.31.5
   versions:
-  - v1beta-rev20210319-1.31.5
-  - v1-rev20210412-1.31.5
-  - v1-rev1-1.18.0-rc
-  - v1-rev1-1.22.0
-  - v1-rev1-1.23.0
-  - v1-rev10-1.18.0-rc
-  - v1-rev10-1.22.0
-  - v1-rev10-1.23.0
-  - v1-rev10-1.24.1
-  - v1-rev10-1.25.0
-  - v1-rev11-1.18.0-rc
-  - v1-rev11-1.22.0
-  - v1-rev11-1.23.0
-  - v1-rev11-1.24.1
-  - v1-rev11-1.25.0
-  - v1-rev12-1.18.0-rc
-  - v1-rev12-1.22.0
-  - v1-rev12-1.23.0
-  - v1-rev12-1.24.1
-  - v1-rev12-1.25.0
-  - v1-rev13-1.18.0-rc
-  - v1-rev13-1.25.0
-  - v1-rev14-1.18.0-rc
-  - v1-rev14-1.25.0
-  - v1-rev15-1.18.0-rc
-  - v1-rev15-1.25.0
-  - v1-rev17-1.18.0-rc
-  - v1-rev2-1.18.0-rc
-  - v1-rev2-1.22.0
-  - v1-rev2-1.23.0
-  - v1-rev2-1.24.1
-  - v1-rev2-1.25.0
-  - v1-rev20190306-1.26.0
-  - v1-rev20190306-1.27.0
-  - v1-rev20190306-1.28.0
-  - v1-rev20190307-1.26.0
-  - v1-rev20190307-1.27.0
-  - v1-rev20190307-1.28.0
-  - v1-rev20190507-1.26.0
-  - v1-rev20190507-1.27.0
-  - v1-rev20190507-1.28.0
-  - v1-rev20190529-1.26.0
-  - v1-rev20190529-1.27.0
-  - v1-rev20190529-1.28.0
-  - v1-rev20190529-1.29.2
-  - v1-rev20190529-1.30.1
-  - v1-rev20190704-1.28.0
-  - v1-rev20190704-1.29.2
-  - v1-rev20190704-1.30.1
-  - v1-rev20191012-1.28.0
-  - v1-rev20191012-1.29.2
-  - v1-rev20191012-1.30.3
-  - v1-rev20200120-1.30.3
-  - v1-rev20200120-1.30.8
-  - v1-rev20200210-1.30.8
-  - v1-rev20200224-1.30.9
-  - v1-rev20200229-1.30.9
-  - v1-rev20200405-1.30.10
-  - v1-rev20200405-1.30.9
-  - v1-rev20200801-1.30.10
-  - v1-rev20200825-1.30.10
-  - v1-rev20200927-1.30.10
-  - v1-rev20200927-1.31.0
-  - v1-rev20201210-1.31.0
-  - v1-rev20210319-1.31.0
-  - v1-rev20210412-1.31.0
-  - v1-rev3-1.18.0-rc
-  - v1-rev3-1.22.0
-  - v1-rev3-1.23.0
-  - v1-rev3-1.24.1
-  - v1-rev3-1.25.0
-  - v1-rev34-1.18.0-rc
-  - v1-rev34-1.25.0
-  - v1-rev35-1.18.0-rc
-  - v1-rev35-1.25.0
-  - v1-rev37-1.18.0-rc
-  - v1-rev37-1.25.0
-  - v1-rev38-1.18.0-rc
-  - v1-rev38-1.25.0
-  - v1-rev39-1.18.0-rc
-  - v1-rev39-1.25.0
-  - v1-rev4-1.18.0-rc
-  - v1-rev4-1.22.0
-  - v1-rev4-1.23.0
-  - v1-rev4-1.25.0
-  - v1-rev40-1.18.0-rc
-  - v1-rev40-1.25.0
-  - v1-rev41-1.18.0-rc
-  - v1-rev41-1.25.0
-  - v1-rev5-1.18.0-rc
-  - v1-rev5-1.22.0
-  - v1-rev5-1.23.0
-  - v1-rev5-1.24.1
-  - v1-rev5-1.25.0
-  - v1-rev6-1.18.0-rc
-  - v1-rev6-1.22.0
-  - v1-rev6-1.23.0
-  - v1-rev6-1.24.1
-  - v1-rev6-1.25.0
-  - v1-rev7-1.18.0-rc
-  - v1-rev7-1.22.0
-  - v1-rev7-1.23.0
-  - v1-rev7-1.24.1
-  - v1-rev7-1.25.0
-  - v1-rev8-1.18.0-rc
-  - v1-rev8-1.22.0
-  - v1-rev8-1.23.0
-  - v1-rev8-1.24.1
-  - v1-rev8-1.25.0
-  - v1-rev9-1.18.0-rc
-  - v1-rev9-1.22.0
-  - v1-rev9-1.23.0
-  - v1-rev9-1.24.1
-  - v1-rev9-1.25.0
   - v1beta-rev1-1.18.0-rc
   - v1beta-rev1-1.22.0
   - v1beta-rev1-1.23.0
   - v1beta-rev1-1.24.1
   - v1beta-rev1-1.25.0
+  - v1beta-rev2-1.18.0-rc
+  - v1beta-rev2-1.22.0
+  - v1beta-rev2-1.23.0
+  - v1beta-rev2-1.24.1
+  - v1beta-rev2-1.25.0
+  - v1beta-rev3-1.18.0-rc
+  - v1beta-rev3-1.22.0
+  - v1beta-rev3-1.23.0
+  - v1beta-rev3-1.24.1
+  - v1beta-rev3-1.25.0
+  - v1beta-rev4-1.18.0-rc
+  - v1beta-rev4-1.22.0
+  - v1beta-rev4-1.23.0
+  - v1beta-rev4-1.24.1
+  - v1beta-rev4-1.25.0
+  - v1beta-rev5-1.18.0-rc
+  - v1beta-rev5-1.22.0
+  - v1beta-rev5-1.23.0
+  - v1beta-rev5-1.24.1
+  - v1beta-rev5-1.25.0
+  - v1beta-rev6-1.18.0-rc
+  - v1beta-rev6-1.22.0
+  - v1beta-rev6-1.23.0
+  - v1beta-rev6-1.24.1
+  - v1beta-rev6-1.25.0
+  - v1beta-rev7-1.18.0-rc
+  - v1beta-rev7-1.22.0
+  - v1beta-rev7-1.23.0
+  - v1beta-rev7-1.24.1
+  - v1beta-rev7-1.25.0
+  - v1beta-rev8-1.18.0-rc
+  - v1beta-rev8-1.22.0
+  - v1beta-rev8-1.23.0
+  - v1beta-rev8-1.24.1
+  - v1beta-rev8-1.25.0
+  - v1beta-rev9-1.18.0-rc
+  - v1beta-rev9-1.22.0
+  - v1beta-rev9-1.23.0
+  - v1beta-rev9-1.24.1
+  - v1beta-rev9-1.25.0
   - v1beta-rev14-1.18.0-rc
   - v1beta-rev14-1.22.0
   - v1beta-rev14-1.23.0
@@ -140,64 +67,6 @@ versioning:
   - v1beta-rev19-1.23.0
   - v1beta-rev19-1.24.1
   - v1beta-rev19-1.25.0
-  - v1beta-rev2-1.18.0-rc
-  - v1beta-rev2-1.22.0
-  - v1beta-rev2-1.23.0
-  - v1beta-rev2-1.24.1
-  - v1beta-rev2-1.25.0
-  - v1beta-rev20181013-1.26.0
-  - v1beta-rev20181013-1.27.0
-  - v1beta-rev20181219-1.26.0
-  - v1beta-rev20181219-1.27.0
-  - v1beta-rev20181219-1.28.0
-  - v1beta-rev20190121-1.26.0
-  - v1beta-rev20190121-1.27.0
-  - v1beta-rev20190121-1.28.0
-  - v1beta-rev20190204-1.26.0
-  - v1beta-rev20190204-1.27.0
-  - v1beta-rev20190204-1.28.0
-  - v1beta-rev20190306-1.26.0
-  - v1beta-rev20190306-1.27.0
-  - v1beta-rev20190306-1.28.0
-  - v1beta-rev20190307-1.26.0
-  - v1beta-rev20190307-1.27.0
-  - v1beta-rev20190307-1.28.0
-  - v1beta-rev20190507-1.26.0
-  - v1beta-rev20190507-1.27.0
-  - v1beta-rev20190507-1.28.0
-  - v1beta-rev20190529-1.26.0
-  - v1beta-rev20190529-1.27.0
-  - v1beta-rev20190529-1.28.0
-  - v1beta-rev20190617-1.26.0
-  - v1beta-rev20190617-1.27.0
-  - v1beta-rev20190617-1.28.0
-  - v1beta-rev20190617-1.29.2
-  - v1beta-rev20190617-1.30.1
-  - v1beta-rev20190704-1.28.0
-  - v1beta-rev20190704-1.29.2
-  - v1beta-rev20190704-1.30.1
-  - v1beta-rev20191012-1.28.0
-  - v1beta-rev20191012-1.29.2
-  - v1beta-rev20191012-1.30.3
-  - v1beta-rev20191018-1.28.0
-  - v1beta-rev20191018-1.29.2
-  - v1beta-rev20191018-1.30.3
-  - v1beta-rev20200120-1.30.3
-  - v1beta-rev20200128-1.30.8
-  - v1beta-rev20200210-1.30.8
-  - v1beta-rev20200224-1.30.9
-  - v1beta-rev20200229-1.30.9
-  - v1beta-rev20200405-1.30.10
-  - v1beta-rev20200405-1.30.9
-  - v1beta-rev20200801-1.30.10
-  - v1beta-rev20200825-1.30.10
-  - v1beta-rev20200825-1.31.0
-  - v1beta-rev20210319-1.31.0
-  - v1beta-rev3-1.18.0-rc
-  - v1beta-rev3-1.22.0
-  - v1beta-rev3-1.23.0
-  - v1beta-rev3-1.24.1
-  - v1beta-rev3-1.25.0
   - v1beta-rev37-1.18.0-rc
   - v1beta-rev37-1.22.0
   - v1beta-rev37-1.23.0
@@ -213,11 +82,6 @@ versioning:
   - v1beta-rev39-1.23.0
   - v1beta-rev39-1.24.1
   - v1beta-rev39-1.25.0
-  - v1beta-rev4-1.18.0-rc
-  - v1beta-rev4-1.22.0
-  - v1beta-rev4-1.23.0
-  - v1beta-rev4-1.24.1
-  - v1beta-rev4-1.25.0
   - v1beta-rev40-1.18.0-rc
   - v1beta-rev40-1.22.0
   - v1beta-rev40-1.23.0
@@ -268,11 +132,6 @@ versioning:
   - v1beta-rev49-1.23.0
   - v1beta-rev49-1.24.1
   - v1beta-rev49-1.25.0
-  - v1beta-rev5-1.18.0-rc
-  - v1beta-rev5-1.22.0
-  - v1beta-rev5-1.23.0
-  - v1beta-rev5-1.24.1
-  - v1beta-rev5-1.25.0
   - v1beta-rev50-1.18.0-rc
   - v1beta-rev50-1.22.0
   - v1beta-rev50-1.23.0
@@ -298,16 +157,6 @@ versioning:
   - v1beta-rev56-1.25.0
   - v1beta-rev57-1.18.0-rc
   - v1beta-rev57-1.25.0
-  - v1beta-rev6-1.18.0-rc
-  - v1beta-rev6-1.22.0
-  - v1beta-rev6-1.23.0
-  - v1beta-rev6-1.24.1
-  - v1beta-rev6-1.25.0
-  - v1beta-rev7-1.18.0-rc
-  - v1beta-rev7-1.22.0
-  - v1beta-rev7-1.23.0
-  - v1beta-rev7-1.24.1
-  - v1beta-rev7-1.25.0
   - v1beta-rev74-1.18.0-rc
   - v1beta-rev74-1.25.0
   - v1beta-rev75-1.18.0-rc
@@ -317,20 +166,172 @@ versioning:
   - v1beta-rev78-1.18.0-rc
   - v1beta-rev78-1.25.0
   - v1beta-rev79-1.18.0-rc
-  - v1beta-rev8-1.18.0-rc
-  - v1beta-rev8-1.22.0
-  - v1beta-rev8-1.23.0
-  - v1beta-rev8-1.24.1
-  - v1beta-rev8-1.25.0
   - v1beta-rev80-1.18.0-rc
   - v1beta-rev80-1.25.0
   - v1beta-rev81-1.18.0-rc
   - v1beta-rev81-1.25.0
   - v1beta-rev82-1.18.0-rc
   - v1beta-rev82-1.25.0
-  - v1beta-rev9-1.18.0-rc
-  - v1beta-rev9-1.22.0
-  - v1beta-rev9-1.23.0
-  - v1beta-rev9-1.24.1
-  - v1beta-rev9-1.25.0
-  lastUpdated: 20210618201026
+  - v1beta-rev20181013-1.26.0
+  - v1beta-rev20181013-1.27.0
+  - v1beta-rev20181219-1.26.0
+  - v1beta-rev20181219-1.27.0
+  - v1beta-rev20181219-1.28.0
+  - v1beta-rev20190121-1.26.0
+  - v1beta-rev20190121-1.27.0
+  - v1beta-rev20190121-1.28.0
+  - v1beta-rev20190204-1.26.0
+  - v1beta-rev20190204-1.27.0
+  - v1beta-rev20190204-1.28.0
+  - v1beta-rev20190306-1.26.0
+  - v1beta-rev20190306-1.27.0
+  - v1beta-rev20190306-1.28.0
+  - v1beta-rev20190307-1.26.0
+  - v1beta-rev20190307-1.27.0
+  - v1beta-rev20190307-1.28.0
+  - v1beta-rev20190507-1.26.0
+  - v1beta-rev20190507-1.27.0
+  - v1beta-rev20190507-1.28.0
+  - v1beta-rev20190529-1.26.0
+  - v1beta-rev20190529-1.27.0
+  - v1beta-rev20190529-1.28.0
+  - v1beta-rev20190617-1.26.0
+  - v1beta-rev20190617-1.27.0
+  - v1beta-rev20190617-1.28.0
+  - v1beta-rev20190617-1.29.2
+  - v1beta-rev20190617-1.30.1
+  - v1beta-rev20190704-1.28.0
+  - v1beta-rev20190704-1.29.2
+  - v1beta-rev20190704-1.30.1
+  - v1beta-rev20191012-1.28.0
+  - v1beta-rev20191012-1.29.2
+  - v1beta-rev20191012-1.30.3
+  - v1beta-rev20191018-1.28.0
+  - v1beta-rev20191018-1.29.2
+  - v1beta-rev20191018-1.30.3
+  - v1beta-rev20200120-1.30.3
+  - v1beta-rev20200128-1.30.8
+  - v1beta-rev20200210-1.30.8
+  - v1beta-rev20200224-1.30.9
+  - v1beta-rev20200229-1.30.9
+  - v1beta-rev20200405-1.30.9
+  - v1beta-rev20200405-1.30.10
+  - v1beta-rev20200801-1.30.10
+  - v1beta-rev20200825-1.30.10
+  - v1beta-rev20200825-1.31.0
+  - v1beta-rev20210319-1.31.0
+  - v1beta-rev20210319-1.31.5
+  - v1-rev1-1.18.0-rc
+  - v1-rev1-1.22.0
+  - v1-rev1-1.23.0
+  - v1-rev2-1.18.0-rc
+  - v1-rev2-1.22.0
+  - v1-rev2-1.23.0
+  - v1-rev2-1.24.1
+  - v1-rev2-1.25.0
+  - v1-rev3-1.18.0-rc
+  - v1-rev3-1.22.0
+  - v1-rev3-1.23.0
+  - v1-rev3-1.24.1
+  - v1-rev3-1.25.0
+  - v1-rev4-1.18.0-rc
+  - v1-rev4-1.22.0
+  - v1-rev4-1.23.0
+  - v1-rev4-1.25.0
+  - v1-rev5-1.18.0-rc
+  - v1-rev5-1.22.0
+  - v1-rev5-1.23.0
+  - v1-rev5-1.24.1
+  - v1-rev5-1.25.0
+  - v1-rev6-1.18.0-rc
+  - v1-rev6-1.22.0
+  - v1-rev6-1.23.0
+  - v1-rev6-1.24.1
+  - v1-rev6-1.25.0
+  - v1-rev7-1.18.0-rc
+  - v1-rev7-1.22.0
+  - v1-rev7-1.23.0
+  - v1-rev7-1.24.1
+  - v1-rev7-1.25.0
+  - v1-rev8-1.18.0-rc
+  - v1-rev8-1.22.0
+  - v1-rev8-1.23.0
+  - v1-rev8-1.24.1
+  - v1-rev8-1.25.0
+  - v1-rev9-1.18.0-rc
+  - v1-rev9-1.22.0
+  - v1-rev9-1.23.0
+  - v1-rev9-1.24.1
+  - v1-rev9-1.25.0
+  - v1-rev10-1.18.0-rc
+  - v1-rev10-1.22.0
+  - v1-rev10-1.23.0
+  - v1-rev10-1.24.1
+  - v1-rev10-1.25.0
+  - v1-rev11-1.18.0-rc
+  - v1-rev11-1.22.0
+  - v1-rev11-1.23.0
+  - v1-rev11-1.24.1
+  - v1-rev11-1.25.0
+  - v1-rev12-1.18.0-rc
+  - v1-rev12-1.22.0
+  - v1-rev12-1.23.0
+  - v1-rev12-1.24.1
+  - v1-rev12-1.25.0
+  - v1-rev13-1.18.0-rc
+  - v1-rev13-1.25.0
+  - v1-rev14-1.18.0-rc
+  - v1-rev14-1.25.0
+  - v1-rev15-1.18.0-rc
+  - v1-rev15-1.25.0
+  - v1-rev17-1.18.0-rc
+  - v1-rev34-1.18.0-rc
+  - v1-rev34-1.25.0
+  - v1-rev35-1.18.0-rc
+  - v1-rev35-1.25.0
+  - v1-rev37-1.18.0-rc
+  - v1-rev37-1.25.0
+  - v1-rev38-1.18.0-rc
+  - v1-rev38-1.25.0
+  - v1-rev39-1.18.0-rc
+  - v1-rev39-1.25.0
+  - v1-rev40-1.18.0-rc
+  - v1-rev40-1.25.0
+  - v1-rev41-1.18.0-rc
+  - v1-rev41-1.25.0
+  - v1-rev20190306-1.26.0
+  - v1-rev20190306-1.27.0
+  - v1-rev20190306-1.28.0
+  - v1-rev20190307-1.26.0
+  - v1-rev20190307-1.27.0
+  - v1-rev20190307-1.28.0
+  - v1-rev20190507-1.26.0
+  - v1-rev20190507-1.27.0
+  - v1-rev20190507-1.28.0
+  - v1-rev20190529-1.26.0
+  - v1-rev20190529-1.27.0
+  - v1-rev20190529-1.28.0
+  - v1-rev20190529-1.29.2
+  - v1-rev20190529-1.30.1
+  - v1-rev20190704-1.28.0
+  - v1-rev20190704-1.29.2
+  - v1-rev20190704-1.30.1
+  - v1-rev20191012-1.28.0
+  - v1-rev20191012-1.29.2
+  - v1-rev20191012-1.30.3
+  - v1-rev20200120-1.30.3
+  - v1-rev20200120-1.30.8
+  - v1-rev20200210-1.30.8
+  - v1-rev20200224-1.30.9
+  - v1-rev20200229-1.30.9
+  - v1-rev20200405-1.30.9
+  - v1-rev20200405-1.30.10
+  - v1-rev20200801-1.30.10
+  - v1-rev20200825-1.30.10
+  - v1-rev20200927-1.30.10
+  - v1-rev20200927-1.31.0
+  - v1-rev20201210-1.31.0
+  - v1-rev20210319-1.31.0
+  - v1-rev20210412-1.31.0
+  - v1-rev20210412-1.31.5
+  lastUpdated: 20210629173029

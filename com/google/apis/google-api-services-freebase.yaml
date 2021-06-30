@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-freebase
 versioning:
@@ -404,7 +405,6 @@ versioning:
   - v1sandbox-rev60-1.18.0-rc
   - v1sandbox-rev60-1.19.0
   - v1sandbox-rev60-1.19.1
-  - v1sandbox-rev60-1.20.0
   - v1sandbox-rev61-1.18.0-rc
   - v1sandbox-rev61-1.19.0
   - v1sandbox-rev61-1.19.1
@@ -417,4 +417,5 @@ versioning:
   - v1sandbox-rev63-1.19.0
   - v1sandbox-rev63-1.19.1
   - v1sandbox-rev63-1.20.0
-  lastUpdated: 20160518070758
+  - v1sandbox-rev60-1.20.0
+  lastUpdated: 20210629184942

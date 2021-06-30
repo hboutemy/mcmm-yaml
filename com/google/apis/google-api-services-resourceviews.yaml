@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-resourceviews
 versioning:
@@ -151,7 +152,6 @@ versioning:
   - v1beta2-rev3-1.17.0-rc
   - v1beta2-rev3-1.18.0-rc
   - v1beta2-rev3-1.19.0
-  - v1beta2-rev4-1.15.0-rc
   - v1beta2-rev4-1.16.0-rc
   - v1beta2-rev4-1.17.0-rc
   - v1beta2-rev4-1.18.0-rc
@@ -225,4 +225,5 @@ versioning:
   - v1beta2-rev21-1.21.0
   - v1beta2-rev21-1.22.0
   - v1beta2-rev21-1.23.0
-  lastUpdated: 20180503231230
+  - v1beta2-rev4-1.15.0-rc
+  lastUpdated: 20210629190026

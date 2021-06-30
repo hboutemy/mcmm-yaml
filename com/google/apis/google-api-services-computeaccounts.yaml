@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-computeaccounts
 versioning:
@@ -22,6 +23,10 @@ versioning:
   - alpha-rev4-1.19.0
   - alpha-rev4-1.19.1
   - alpha-rev4-1.20.0
+  - alpha-rev5-1.18.0-rc
+  - alpha-rev5-1.19.0
+  - alpha-rev5-1.19.1
+  - alpha-rev5-1.20.0
   - alpha-rev6-1.18.0-rc
   - alpha-rev6-1.19.0
   - alpha-rev6-1.19.1
@@ -34,8 +39,4 @@ versioning:
   - alpha-rev8-1.19.0
   - alpha-rev8-1.19.1
   - alpha-rev8-1.20.0
-  - alpha-rev5-1.18.0-rc
-  - alpha-rev5-1.19.0
-  - alpha-rev5-1.19.1
-  - alpha-rev5-1.20.0
-  lastUpdated: 20150907150618
+  lastUpdated: 20210629181245

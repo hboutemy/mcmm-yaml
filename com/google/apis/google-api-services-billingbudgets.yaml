@@ -1,30 +1,26 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-billingbudgets
 versioning:
   latest: v1-rev20210621-1.31.5
   release: v1-rev20210621-1.31.5
   versions:
-  - v1beta1-rev20210412-1.31.5
-  - v1beta1-rev20210621-1.31.5
-  - v1-rev20210412-1.31.5
-  - v1-rev20210621-1.31.5
-  - v1-rev20200919-1.30.10
-  - v1-rev20201012-1.30.10
-  - v1-rev20201026-1.30.10
-  - v1-rev20201107-1.30.10
-  - v1-rev20201107-1.31.0
-  - v1-rev20210131-1.31.0
-  - v1-rev20210213-1.31.0
-  - v1-rev20210220-1.31.0
-  - v1-rev20210319-1.31.0
-  - v1-rev20210403-1.31.0
-  - v1-rev20210412-1.31.0
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.25.0
   - v1beta1-rev2-1.18.0-rc
   - v1beta1-rev2-1.25.0
+  - v1beta1-rev3-1.18.0-rc
+  - v1beta1-rev3-1.25.0
+  - v1beta1-rev4-1.18.0-rc
+  - v1beta1-rev4-1.25.0
+  - v1beta1-rev5-1.18.0-rc
+  - v1beta1-rev5-1.25.0
+  - v1beta1-rev6-1.18.0-rc
+  - v1beta1-rev6-1.25.0
+  - v1beta1-rev8-1.18.0-rc
+  - v1beta1-rev8-1.25.0
   - v1beta1-rev20191118-1.28.0
   - v1beta1-rev20191118-1.29.2
   - v1beta1-rev20191118-1.30.3
@@ -36,8 +32,8 @@ versioning:
   - v1beta1-rev20200315-1.30.9
   - v1beta1-rev20200516-1.30.9
   - v1beta1-rev20200522-1.30.9
-  - v1beta1-rev20200626-1.30.10
   - v1beta1-rev20200626-1.30.9
+  - v1beta1-rev20200626-1.30.10
   - v1beta1-rev20200711-1.30.10
   - v1beta1-rev20200801-1.30.10
   - v1beta1-rev20200821-1.30.10
@@ -52,14 +48,19 @@ versioning:
   - v1beta1-rev20210319-1.31.0
   - v1beta1-rev20210403-1.31.0
   - v1beta1-rev20210412-1.31.0
-  - v1beta1-rev3-1.18.0-rc
-  - v1beta1-rev3-1.25.0
-  - v1beta1-rev4-1.18.0-rc
-  - v1beta1-rev4-1.25.0
-  - v1beta1-rev5-1.18.0-rc
-  - v1beta1-rev5-1.25.0
-  - v1beta1-rev6-1.18.0-rc
-  - v1beta1-rev6-1.25.0
-  - v1beta1-rev8-1.18.0-rc
-  - v1beta1-rev8-1.25.0
-  lastUpdated: 20210623200229
+  - v1beta1-rev20210412-1.31.5
+  - v1beta1-rev20210621-1.31.5
+  - v1-rev20200919-1.30.10
+  - v1-rev20201012-1.30.10
+  - v1-rev20201026-1.30.10
+  - v1-rev20201107-1.30.10
+  - v1-rev20201107-1.31.0
+  - v1-rev20210131-1.31.0
+  - v1-rev20210213-1.31.0
+  - v1-rev20210220-1.31.0
+  - v1-rev20210319-1.31.0
+  - v1-rev20210403-1.31.0
+  - v1-rev20210412-1.31.0
+  - v1-rev20210412-1.31.5
+  - v1-rev20210621-1.31.5
+  lastUpdated: 20210629170857
