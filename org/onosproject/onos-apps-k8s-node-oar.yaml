@@ -3,8 +3,8 @@
 groupId: org.onosproject
 artifactId: onos-apps-k8s-node-oar
 versioning:
-  latest: 2.5.2-b2
-  release: 2.5.2-b2
+  latest: 2.6.0-rc3
+  release: 2.6.0-rc3
   versions:
   - 2.1.0-rc1
   - 2.1.0-rc2
@@ -56,4 +56,5 @@ versioning:
   - 2.5.1
   - 2.5.2-b1
   - 2.5.2-b2
-  lastUpdated: 20210407014828
+  - 2.6.0-rc3
+  lastUpdated: 20210701193533
