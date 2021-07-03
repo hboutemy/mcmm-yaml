@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-package-bookkeeper-storage
 versioning:
-  latest: 2.9.0-rc-202106302205
-  release: 2.9.0-rc-202106302205
+  latest: 2.9.0-rc-202107022206
+  release: 2.9.0-rc-202107022206
   versions:
   - v2.8.0-rc-202106091140
   - v2.8.0-rc-202106121853
@@ -46,6 +46,7 @@ versioning:
   - 2.8.0.1
   - 2.8.0.2
   - 2.8.0.3
+  - 2.8.0.4
   - 2.9.0-rc-202106092205
   - 2.9.0-rc-202106122205
   - 2.9.0-rc-202106132205
@@ -63,4 +64,5 @@ versioning:
   - 2.9.0-rc-202106282205
   - 2.9.0-rc-202106292205
   - 2.9.0-rc-202106302205
-  lastUpdated: 20210630224306
+  - 2.9.0-rc-202107022206
+  lastUpdated: 20210702224633

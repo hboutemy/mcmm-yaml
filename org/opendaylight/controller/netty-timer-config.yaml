@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.controller
 artifactId: netty-timer-config
 versioning:
-  latest: 0.14.8
-  release: 0.14.8
+  latest: 0.15.0
+  release: 0.15.0
   versions:
   - 0.2.3
   - 0.2.5-Helium
@@ -78,4 +78,5 @@ versioning:
   - 0.14.6
   - 0.14.7
   - 0.14.8
-  lastUpdated: 20210518201009
+  - 0.15.0
+  lastUpdated: 20210702150549

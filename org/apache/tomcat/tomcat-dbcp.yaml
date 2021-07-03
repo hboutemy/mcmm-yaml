@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat
 artifactId: tomcat-dbcp
 versioning:
-  latest: 10.1.0-M1
-  release: 10.1.0-M1
+  latest: 10.1.0-M2
+  release: 10.1.0-M2
   versions:
   - 7.0.0
   - 7.0.2
@@ -239,6 +239,7 @@ versioning:
   - 9.0.45
   - 9.0.46
   - 9.0.48
+  - 9.0.50
   - 10.0.0-M1
   - 10.0.0-M3
   - 10.0.0-M4
@@ -255,4 +256,5 @@ versioning:
   - 10.0.6
   - 10.0.7
   - 10.1.0-M1
-  lastUpdated: 20210615213004
+  - 10.1.0-M2
+  lastUpdated: 20210702135730

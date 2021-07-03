@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-genomics
 versioning:
-  latest: v2alpha1-rev20210605-1.31.5
-  release: v2alpha1-rev20210605-1.31.5
+  latest: v2alpha1-rev20210605-1.32.1
+  release: v2alpha1-rev20210605-1.32.1
   versions:
   - v1alpha2-rev1-1.18.0-rc
   - v1alpha2-rev1-1.19.1
@@ -3149,4 +3149,5 @@ versioning:
   - v2alpha1-rev20210512-1.31.0
   - v2alpha1-rev20210605-1.31.0
   - v2alpha1-rev20210605-1.31.5
-  lastUpdated: 20210629194459
+  - v2alpha1-rev20210605-1.32.1
+  lastUpdated: 20210702213818
