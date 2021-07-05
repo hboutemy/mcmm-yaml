@@ -3,8 +3,8 @@
 groupId: org.opendaylight.netconf
 artifactId: ietf-restconf-monitoring
 versioning:
-  latest: 1.13.2
-  release: 1.13.2
+  latest: 2.0.0
+  release: 2.0.0
   versions:
   - 1.4.3-Boron-SR3
   - 1.4.4-Boron-SR4
@@ -49,4 +49,5 @@ versioning:
   - 1.13.0
   - 1.13.1
   - 1.13.2
-  lastUpdated: 20210608191203
+  - 2.0.0
+  lastUpdated: 20210704093404

@@ -3,8 +3,8 @@
 groupId: org.opendaylight.netconf
 artifactId: restconf-nb-rfc8040
 versioning:
-  latest: 1.13.2
-  release: 1.13.2
+  latest: 2.0.0
+  release: 2.0.0
   versions:
   - 1.7.0
   - 1.7.1
@@ -38,4 +38,5 @@ versioning:
   - 1.13.0
   - 1.13.1
   - 1.13.2
-  lastUpdated: 20210608194235
+  - 2.0.0
+  lastUpdated: 20210704101237

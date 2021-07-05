@@ -3,8 +3,8 @@
 groupId: org.opendaylight.netconf
 artifactId: mdsal-netconf-monitoring
 versioning:
-  latest: 1.13.2
-  release: 1.13.2
+  latest: 2.0.0
+  release: 2.0.0
   versions:
   - 1.0.0-Beryllium
   - 1.0.1-Beryllium-SR1
@@ -57,4 +57,5 @@ versioning:
   - 1.13.0
   - 1.13.1
   - 1.13.2
-  lastUpdated: 20210608191527
+  - 2.0.0
+  lastUpdated: 20210704093816
