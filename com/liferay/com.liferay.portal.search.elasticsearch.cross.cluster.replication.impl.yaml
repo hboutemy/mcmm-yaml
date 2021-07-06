@@ -4,7 +4,7 @@ groupId: com.liferay
 artifactId: com.liferay.portal.search.elasticsearch.cross.cluster.replication.impl
 versioning:
   latest: 5.0.2
-  release: 7.0.1
+  release: 5.0.11
   versions:
   - 2.0.21
   - 2.0.22
@@ -50,4 +50,6 @@ versioning:
   - 6.0.1
   - 8.0.2
   - 7.0.1
-  lastUpdated: 20210625041333
+  - 6.0.2
+  - 5.0.11
+  lastUpdated: 20210705231758

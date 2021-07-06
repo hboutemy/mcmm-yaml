@@ -3,8 +3,8 @@
 groupId: com.palantir.sls-packaging
 artifactId: gradle-recommended-product-dependencies
 versioning:
-  latest: 6.0.0
-  release: 6.0.0
+  latest: 6.1.0
+  release: 6.1.0
   versions:
   - 4.10.0
   - 4.10.1
@@ -56,4 +56,5 @@ versioning:
   - 5.9.0
   - 5.10.0-rc1
   - 6.0.0
-  lastUpdated: 20210628150238
+  - 6.1.0
+  lastUpdated: 20210705145353
