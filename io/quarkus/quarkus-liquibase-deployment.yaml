@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-liquibase-deployment
 versioning:
-  latest: 2.0.0.Final
-  release: 2.0.0.Final
+  latest: 2.0.1.Final
+  release: 2.0.1.Final
   versions:
   - 1.3.0.CR2
   - 1.3.0.Final
@@ -79,4 +79,5 @@ versioning:
   - 2.0.0.CR2
   - 2.0.0.CR3
   - 2.0.0.Final
-  lastUpdated: 20210623110527
+  - 2.0.1.Final
+  lastUpdated: 20210706122702
