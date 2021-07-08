@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.plugin
 artifactId: x-pack-sql-jdbc
 versioning:
-  latest: 7.13.2
-  release: 7.13.2
+  latest: 7.13.3
+  release: 7.13.3
   versions:
   - 6.8.11
   - 6.8.12
@@ -12,6 +12,7 @@ versioning:
   - 6.8.14
   - 6.8.15
   - 6.8.16
+  - 6.8.17
   - 7.8.1
   - 7.9.0
   - 7.9.1
@@ -28,4 +29,5 @@ versioning:
   - 7.13.0
   - 7.13.1
   - 7.13.2
-  lastUpdated: 20210614184559
+  - 7.13.3
+  lastUpdated: 20210707140201
