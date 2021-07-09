@@ -3,8 +3,8 @@
 groupId: io.provenance.p8e
 artifactId: p8e-sdk
 versioning:
-  latest: 0.8.0-smartkey-7
-  release: 0.8.0-smartkey-7
+  latest: 0.8.2-npe-2
+  release: 0.8.2-npe-2
   versions:
   - maven-local-try-1
   - maven-local-try-2
@@ -14,4 +14,8 @@ versioning:
   - 0.8.0-smartkey-5
   - 0.8.0-smartkey-6
   - 0.8.0-smartkey-7
-  lastUpdated: 20210630230104
+  - 0.8.1
+  - 0.8.1-temp-heartbeat-logging
+  - 0.8.2-npe
+  - 0.8.2-npe-2
+  lastUpdated: 20210708170951
