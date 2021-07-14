@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.identity.inbound.auth.oauth2
 artifactId: org.wso2.carbon.identity.oauth2.dcr.endpoint
 versioning:
-  latest: 6.6.36
-  release: 6.6.36
+  latest: 6.7.1
+  release: 6.7.1
   versions:
   - 5.4.32
   - 5.4.33
@@ -739,4 +739,7 @@ versioning:
   - 6.6.34
   - 6.6.35
   - 6.6.36
-  lastUpdated: 20210707141056
+  - 6.6.37
+  - 6.7.0
+  - 6.7.1
+  lastUpdated: 20210713175716

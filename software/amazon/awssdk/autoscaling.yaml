@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: autoscaling
 versioning:
-  latest: 2.16.100
-  release: 2.16.100
+  latest: 2.16.101
+  release: 2.16.101
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -601,4 +601,5 @@ versioning:
   - 2.16.98
   - 2.16.99
   - 2.16.100
-  lastUpdated: 20210712191845
+  - 2.16.101
+  lastUpdated: 20210713200603
