@@ -3,8 +3,8 @@
 groupId: org.apache.nifi
 artifactId: nifi-hbase_1_1_2-client-service-bundle
 versioning:
-  latest: 1.13.2
-  release: 1.13.2
+  latest: 1.14.0
+  release: 1.14.0
   versions:
   - 0.4.0
   - 0.4.1
@@ -45,4 +45,5 @@ versioning:
   - 1.13.0
   - 1.13.1
   - 1.13.2
-  lastUpdated: 20210319183524
+  - 1.14.0
+  lastUpdated: 20210714134259

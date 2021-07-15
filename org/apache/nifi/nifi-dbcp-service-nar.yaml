@@ -3,8 +3,8 @@
 groupId: org.apache.nifi
 artifactId: nifi-dbcp-service-nar
 versioning:
-  latest: 1.13.2
-  release: 1.13.2
+  latest: 1.14.0
+  release: 1.14.0
   versions:
   - 0.2.0-incubating
   - 0.2.1
@@ -48,4 +48,5 @@ versioning:
   - 1.13.0
   - 1.13.1
   - 1.13.2
-  lastUpdated: 20210319183444
+  - 1.14.0
+  lastUpdated: 20210714134206

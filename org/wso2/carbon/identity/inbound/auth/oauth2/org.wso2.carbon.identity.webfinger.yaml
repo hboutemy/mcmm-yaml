@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.identity.inbound.auth.oauth2
 artifactId: org.wso2.carbon.identity.webfinger
 versioning:
-  latest: 6.7.1
-  release: 6.7.1
+  latest: 6.7.4
+  release: 6.7.4
   versions:
   - 5.5.17
   - 5.5.18
@@ -659,4 +659,7 @@ versioning:
   - 6.6.37
   - 6.7.0
   - 6.7.1
-  lastUpdated: 20210713175719
+  - 6.7.2
+  - 6.7.3
+  - 6.7.4
+  lastUpdated: 20210714145252

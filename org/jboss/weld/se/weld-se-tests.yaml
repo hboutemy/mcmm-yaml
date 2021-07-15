@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld.se
 artifactId: weld-se-tests
 versioning:
-  latest: 4.0.1.SP1
-  release: 4.0.1.SP1
+  latest: 4.0.2.Final
+  release: 4.0.2.Final
   versions:
   - 2.3.1.Final
   - 2.3.2.Final
@@ -49,6 +49,7 @@ versioning:
   - 3.1.6.Final
   - 3.1.7.Final
   - 3.1.7.SP1
+  - 3.1.8.Final
   - 4.0.0.Alpha1
   - 4.0.0.Alpha2
   - 4.0.0.Alpha3
@@ -61,4 +62,5 @@ versioning:
   - 4.0.0.Final
   - 4.0.1.Final
   - 4.0.1.SP1
-  lastUpdated: 20210414113343
+  - 4.0.2.Final
+  lastUpdated: 20210714142329
