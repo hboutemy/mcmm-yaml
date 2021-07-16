@@ -3,9 +3,10 @@
 groupId: com.yugabyte
 artifactId: jdbc-yugabytedb
 versioning:
-  latest: 42.2.7-yb-5-beta
-  release: 42.2.7-yb-5-beta
+  latest: 42.2.7-yb-5-beta.1
+  release: 42.2.7-yb-5-beta.1
   versions:
   - 42.2.7-yb-3
   - 42.2.7-yb-5-beta
-  lastUpdated: 20210709112750
+  - 42.2.7-yb-5-beta.1
+  lastUpdated: 20210715164104

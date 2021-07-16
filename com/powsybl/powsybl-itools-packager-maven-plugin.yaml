@@ -3,8 +3,8 @@
 groupId: com.powsybl
 artifactId: powsybl-itools-packager-maven-plugin
 versioning:
-  latest: 4.3.0-RC2
-  release: 4.3.0-RC2
+  latest: 4.3.1
+  release: 4.3.1
   versions:
   - 2.0.0
   - 2.1.0
@@ -43,4 +43,6 @@ versioning:
   - 4.3.0-alpha-1
   - 4.3.0-RC1
   - 4.3.0-RC2
-  lastUpdated: 20210707132034
+  - 4.3.0
+  - 4.3.1
+  lastUpdated: 20210715161406
