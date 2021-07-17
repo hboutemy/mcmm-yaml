@@ -3,8 +3,8 @@
 groupId: org.onosproject
 artifactId: io_grpc_grpc_netty
 versioning:
-  latest: 2.6.0-rc4
-  release: 2.6.0-rc4
+  latest: 2.6.0
+  release: 2.6.0
   versions:
   - 2.2.3
   - 2.2.4-b3
@@ -31,4 +31,6 @@ versioning:
   - 2.5.2
   - 2.6.0-rc3
   - 2.6.0-rc4
-  lastUpdated: 20210713215021
+  - 2.6.0-rc5
+  - 2.6.0
+  lastUpdated: 20210716143423

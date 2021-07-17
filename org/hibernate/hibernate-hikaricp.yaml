@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.hibernate
 artifactId: hibernate-hikaricp
 versioning:
-  latest: 5.3.0.Beta1
-  release: 5.3.0.Beta1
+  latest: 6.0.0.Alpha8
+  release: 6.0.0.Alpha8
   versions:
   - 4.3.6.Final
   - 4.3.7.Final
@@ -44,10 +45,6 @@ versioning:
   - 5.1.10.Final
   - 5.1.11.Final
   - 5.1.12.Final
-  - 5.1.13.Final
-  - 5.1.14.Final
-  - 5.1.15.Final
-  - 5.1.16.Final
   - 5.1.17.Final
   - 5.2.0.Final
   - 5.2.1.Final
@@ -62,11 +59,6 @@ versioning:
   - 5.2.10.Final
   - 5.2.11.Final
   - 5.2.12.Final
-  - 5.2.13.Final
-  - 5.2.14.Final
-  - 5.2.15.Final
-  - 5.2.16.Final
-  - 5.2.17.Final
   - 5.2.18.Final
   - 5.3.0.Beta1
   - 5.3.0.Beta2
@@ -74,6 +66,14 @@ versioning:
   - 5.3.0.CR2
   - 5.3.0.Final
   - 5.3.1.Final
+  - 5.3.2.Final
+  - 5.3.3.Final
+  - 5.3.4.Final
+  - 5.3.5.Final
+  - 5.3.6.Final
+  - 5.3.7.Final
+  - 5.3.8.Final
+  - 5.3.9.Final
   - 5.3.10.Final
   - 5.3.11.Final
   - 5.3.12.Final
@@ -84,19 +84,20 @@ versioning:
   - 5.3.17.Final
   - 5.3.18.Final
   - 5.3.19.Final
-  - 5.3.2.Final
   - 5.3.20.Final
-  - 5.3.3.Final
-  - 5.3.4.Final
-  - 5.3.5.Final
-  - 5.3.6.Final
-  - 5.3.7.Final
-  - 5.3.8.Final
-  - 5.3.9.Final
+  - 5.3.21.Final
   - 5.4.0.CR1
   - 5.4.0.CR2
   - 5.4.0.Final
   - 5.4.1.Final
+  - 5.4.2.Final
+  - 5.4.3.Final
+  - 5.4.4.Final
+  - 5.4.5.Final
+  - 5.4.6.Final
+  - 5.4.7.Final
+  - 5.4.8.Final
+  - 5.4.9.Final
   - 5.4.10.Final
   - 5.4.11.Final
   - 5.4.12.Final
@@ -107,7 +108,6 @@ versioning:
   - 5.4.17.Final
   - 5.4.18.Final
   - 5.4.19.Final
-  - 5.4.2.Final
   - 5.4.20.Final
   - 5.4.21.Final
   - 5.4.22.Final
@@ -119,16 +119,9 @@ versioning:
   - 5.4.27.SP1
   - 5.4.28.Final
   - 5.4.29.Final
-  - 5.4.3.Final
   - 5.4.30.Final
   - 5.4.31.Final
   - 5.4.32.Final
-  - 5.4.4.Final
-  - 5.4.5.Final
-  - 5.4.6.Final
-  - 5.4.7.Final
-  - 5.4.8.Final
-  - 5.4.9.Final
   - 5.5.0.Alpha1
   - 5.5.0.Beta1
   - 5.5.0.CR1
@@ -142,4 +135,13 @@ versioning:
   - 6.0.0.Alpha6
   - 6.0.0.Alpha7
   - 6.0.0.Alpha8
-  lastUpdated: 20181129013610
+  - 5.1.13.Final
+  - 5.1.14.Final
+  - 5.1.15.Final
+  - 5.1.16.Final
+  - 5.2.13.Final
+  - 5.2.14.Final
+  - 5.2.15.Final
+  - 5.2.16.Final
+  - 5.2.17.Final
+  lastUpdated: 20210716204433

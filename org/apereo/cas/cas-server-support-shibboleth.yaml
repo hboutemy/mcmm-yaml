@@ -3,10 +3,11 @@
 groupId: org.apereo.cas
 artifactId: cas-server-support-shibboleth
 versioning:
-  latest: 6.4.0-RC5
-  release: 6.4.0-RC5
+  latest: 6.4.0-RC6
+  release: 6.4.0-RC6
   versions:
   - v6.4.0-RC5
+  - v6.4.0-RC6
   - 5.1.0-RC4
   - 5.1.0
   - 5.1.1
@@ -116,4 +117,5 @@ versioning:
   - 6.4.0-RC3
   - 6.4.0-RC4
   - 6.4.0-RC5
-  lastUpdated: 20210618095151
+  - 6.4.0-RC6
+  lastUpdated: 20210716114541
