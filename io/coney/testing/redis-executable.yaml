@@ -3,8 +3,10 @@
 groupId: io.coney.testing
 artifactId: redis-executable
 versioning:
-  latest: 5.0.10
-  release: 5.0.10
+  latest: 5.0.10.1
+  release: 5.0.10.1
   versions:
   - 5.0.10
-  lastUpdated: 20210711061701
+  - 5.0.10-libc-2.17
+  - 5.0.10.1
+  lastUpdated: 20210720163907

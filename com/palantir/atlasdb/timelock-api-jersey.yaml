@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: timelock-api-jersey
 versioning:
-  latest: 0.380.0
-  release: 0.380.0
+  latest: 0.383.0-rc2
+  release: 0.383.0-rc2
   versions:
   - 0.312.2-rc2
   - 0.312.2-rc3
@@ -108,4 +108,7 @@ versioning:
   - 0.376.0
   - 0.377.0
   - 0.380.0
-  lastUpdated: 20210715145551
+  - 0.382.0
+  - 0.383.0-rc1
+  - 0.383.0-rc2
+  lastUpdated: 20210720203411

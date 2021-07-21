@@ -3,8 +3,8 @@
 groupId: org.apache.hbase
 artifactId: hbase-shaded-testing-util
 versioning:
-  latest: 2.4.4
-  release: 2.4.4
+  latest: 3.0.0-alpha-1
+  release: 3.0.0-alpha-1
   versions:
   - 1.4.11
   - 1.4.12
@@ -35,4 +35,5 @@ versioning:
   - 2.4.2
   - 2.4.3
   - 2.4.4
-  lastUpdated: 20210615001028
+  - 3.0.0-alpha-1
+  lastUpdated: 20210720022324
