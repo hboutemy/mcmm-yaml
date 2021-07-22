@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-shaded-force-shading
 versioning:
-  latest: 13.0
-  release: 13.0
+  latest: 14.0
+  release: 14.0
   versions:
   - 3.0
   - 4.0
@@ -17,4 +17,5 @@ versioning:
   - 11.0
   - 12.0
   - 13.0
-  lastUpdated: 20210406082229
+  - 14.0
+  lastUpdated: 20210721072557

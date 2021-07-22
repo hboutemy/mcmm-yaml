@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: qldb
 versioning:
-  latest: 1.114.0
-  release: 1.114.0
+  latest: 1.115.0
+  release: 1.115.0
   versions:
   - 1.9.0.DEVPREVIEW
   - 1.10.0.DEVPREVIEW
@@ -138,4 +138,5 @@ versioning:
   - 1.112.0
   - 1.113.0
   - 1.114.0
-  lastUpdated: 20210715135425
+  - 1.115.0
+  lastUpdated: 20210721173852

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: snowball
 versioning:
-  latest: 2.17.1
-  release: 2.17.1
+  latest: 2.17.2
+  release: 2.17.2
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -607,4 +607,5 @@ versioning:
   - 2.16.104
   - 2.17.0
   - 2.17.1
-  lastUpdated: 20210720191729
+  - 2.17.2
+  lastUpdated: 20210721191829

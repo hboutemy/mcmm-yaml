@@ -3,8 +3,8 @@
 groupId: com.google.cloud.bigtable
 artifactId: bigtable-hbase-1.x-shaded
 versioning:
-  latest: 1.23.0
-  release: 1.23.0
+  latest: 2.0.0-alpha1
+  release: 2.0.0-alpha1
   versions:
   - 1.0.0
   - 1.0.0-pre1
@@ -42,8 +42,9 @@ versioning:
   - 1.21.1
   - 1.22.0
   - 1.23.0
+  - 2.0.0-alpha1
   - 1.19.1
   - 1.19.2
   - 1.20.0
   - 1.20.1
-  lastUpdated: 20210714202854
+  lastUpdated: 20210721183000
