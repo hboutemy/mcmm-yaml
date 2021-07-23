@@ -3,8 +3,8 @@
 groupId: io.provenance.p8e
 artifactId: p8e-contract-base
 versioning:
-  latest: 0.8.3
-  release: 0.8.3
+  latest: 0.9.0-grpc
+  release: 0.9.0-grpc
   versions:
   - 0.7.3
   - 0.7.4
@@ -17,4 +17,5 @@ versioning:
   - 0.8.2-npe
   - 0.8.2-npe-2
   - 0.8.3
-  lastUpdated: 20210715183508
+  - 0.9.0-grpc
+  lastUpdated: 20210722150105
