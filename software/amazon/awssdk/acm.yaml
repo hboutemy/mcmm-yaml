@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: acm
 versioning:
-  latest: 2.17.4
-  release: 2.17.4
+  latest: 2.17.5
+  release: 2.17.5
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -609,4 +609,5 @@ versioning:
   - 2.17.2
   - 2.17.3
   - 2.17.4
-  lastUpdated: 20210723192731
+  - 2.17.5
+  lastUpdated: 20210726200027

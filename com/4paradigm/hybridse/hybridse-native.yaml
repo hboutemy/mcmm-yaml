@@ -3,8 +3,8 @@
 groupId: com.4paradigm.hybridse
 artifactId: hybridse-native
 versioning:
-  latest: 0.2.0-macos
-  release: 0.2.0-macos
+  latest: 0.2.1-beta1-macos
+  release: 0.2.1-beta1-macos
   versions:
   - 0.1.3
   - 0.1.3-allinone
@@ -25,4 +25,7 @@ versioning:
   - 0.2.0-allinone
   - 0.2.0-llvm
   - 0.2.0-macos
-  lastUpdated: 20210721041011
+  - 0.2.1-beta1
+  - 0.2.1-beta1-allinone
+  - 0.2.1-beta1-macos
+  lastUpdated: 20210726191111

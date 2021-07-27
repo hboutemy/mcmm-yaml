@@ -3,8 +3,8 @@
 groupId: org.apache.cassandra
 artifactId: cassandra-all
 versioning:
-  latest: 4.0-rc2
-  release: 4.0-rc2
+  latest: 4.0.0
+  release: 4.0.0
   versions:
   - 0.7.0-rc4
   - 0.7.0
@@ -230,4 +230,5 @@ versioning:
   - 4.0-beta4
   - 4.0-rc1
   - 4.0-rc2
-  lastUpdated: 20210627153359
+  - 4.0.0
+  lastUpdated: 20210726185903

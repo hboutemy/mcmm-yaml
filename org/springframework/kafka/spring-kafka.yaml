@@ -3,8 +3,8 @@
 groupId: org.springframework.kafka
 artifactId: spring-kafka
 versioning:
-  latest: 2.7.4
-  release: 2.7.4
+  latest: 2.7.5
+  release: 2.7.5
   versions:
   - 1.0.0.RELEASE
   - 1.0.1.RELEASE
@@ -92,6 +92,7 @@ versioning:
   - 2.3.11.RELEASE
   - 2.3.12.RELEASE
   - 2.3.13.RELEASE
+  - 2.3.14.RELEASE
   - 2.4.0.RELEASE
   - 2.4.1.RELEASE
   - 2.4.2.RELEASE
@@ -105,6 +106,7 @@ versioning:
   - 2.4.10.RELEASE
   - 2.4.11.RELEASE
   - 2.4.12.RELEASE
+  - 2.4.13.RELEASE
   - 2.5.0.RELEASE
   - 2.5.1.RELEASE
   - 2.5.2.RELEASE
@@ -119,6 +121,7 @@ versioning:
   - 2.5.11.RELEASE
   - 2.5.13.RELEASE
   - 2.5.14.RELEASE
+  - 2.5.15.RELEASE
   - 2.6.0
   - 2.6.1
   - 2.6.2
@@ -127,12 +130,14 @@ versioning:
   - 2.6.5
   - 2.6.8
   - 2.6.9
+  - 2.6.10
   - 2.7.0
   - 2.7.1
   - 2.7.2
   - 2.7.3
   - 2.7.4
+  - 2.7.5
   - 2.5.12.RELEASE
   - 2.6.6
   - 2.6.7
-  lastUpdated: 20210719154638
+  lastUpdated: 20210726171033
