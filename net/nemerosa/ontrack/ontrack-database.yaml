@@ -3,8 +3,8 @@
 groupId: net.nemerosa.ontrack
 artifactId: ontrack-database
 versioning:
-  latest: 4.0.15
-  release: 4.0.15
+  latest: 4.0.16
+  release: 4.0.16
   versions:
   - feature-732-back-to-central-5e58285
   - feature-735-ui-publication-7c8bc12
@@ -249,6 +249,7 @@ versioning:
   - 3.43.20
   - 3.43.21
   - 3.43.22
+  - 3.43.23
   - 4.0-alpha.0
   - 4.0-alpha.0-dirty
   - 4.0-alpha.1
@@ -304,4 +305,5 @@ versioning:
   - 4.0.13
   - 4.0.14
   - 4.0.15
-  lastUpdated: 20210726142524
+  - 4.0.16
+  lastUpdated: 20210727120931

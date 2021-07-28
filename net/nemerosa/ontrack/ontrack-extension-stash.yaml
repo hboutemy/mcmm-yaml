@@ -3,8 +3,8 @@
 groupId: net.nemerosa.ontrack
 artifactId: ontrack-extension-stash
 versioning:
-  latest: 4.0.15
-  release: 4.0.15
+  latest: 4.0.16
+  release: 4.0.16
   versions:
   - experimental-pipeline-a6e0b79
   - experimental-pipeline-a8ce70d
@@ -393,6 +393,7 @@ versioning:
   - 3.43.20
   - 3.43.21
   - 3.43.22
+  - 3.43.23
   - 4.0-alpha.0
   - 4.0-alpha.0-dirty
   - 4.0-alpha.1
@@ -448,4 +449,5 @@ versioning:
   - 4.0.13
   - 4.0.14
   - 4.0.15
-  lastUpdated: 20210726142547
+  - 4.0.16
+  lastUpdated: 20210727121021

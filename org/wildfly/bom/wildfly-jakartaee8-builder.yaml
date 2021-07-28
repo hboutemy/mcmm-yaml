@@ -3,8 +3,8 @@
 groupId: org.wildfly.bom
 artifactId: wildfly-jakartaee8-builder
 versioning:
-  latest: 24.0.0.SP1
-  release: 24.0.0.SP1
+  latest: 24.0.1.Final
+  release: 24.0.1.Final
   versions:
   - 18.0.0.Final
   - 18.0.1.Final
@@ -32,4 +32,5 @@ versioning:
   - 24.0.0.Beta1
   - 24.0.0.Final
   - 24.0.0.SP1
-  lastUpdated: 20210618092750
+  - 24.0.1.Final
+  lastUpdated: 20210727165004
