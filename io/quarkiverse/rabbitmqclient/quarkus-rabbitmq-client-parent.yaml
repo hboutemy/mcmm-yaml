@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.rabbitmqclient
 artifactId: quarkus-rabbitmq-client-parent
 versioning:
-  latest: 0.4.0.CR1
-  release: 0.4.0.CR1
+  latest: 0.4.0.Final
+  release: 0.4.0.Final
   versions:
   - 0.1.0
   - 0.1.1
@@ -13,4 +13,5 @@ versioning:
   - 0.2.2
   - 0.3.0.CR3
   - 0.4.0.CR1
-  lastUpdated: 20210720115406
+  - 0.4.0.Final
+  lastUpdated: 20210728140959

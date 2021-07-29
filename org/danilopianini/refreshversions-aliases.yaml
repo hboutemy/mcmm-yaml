@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.danilopianini
 artifactId: refreshversions-aliases
 versioning:
-  latest: 0.1.5-dev18+de18194
-  release: 0.1.5-dev18+de18194
+  latest: 0.1.7
+  release: 0.1.7
   versions:
   - 0.1.0
   - 0.1.0-archeo+04ab03c
@@ -24,8 +25,10 @@ versioning:
   - 0.1.5-dev1c+b786a93
   - 0.1.5-dev1d+7b8d4a6
   - 0.1.5-dev1d+cb7eb5f
-  - 0.1.5-dev18+4b80f3e
-  - 0.1.5-dev18+de18194
   - 0.1.5-dev1o+b70a5f2
   - 0.1.5-dev1p+3cc88b8
-  lastUpdated: 20201208161208
+  - 0.1.5-dev18+4b80f3e
+  - 0.1.5-dev18+de18194
+  - 0.1.6
+  - 0.1.7
+  lastUpdated: 20210728103443

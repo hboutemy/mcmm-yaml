@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-route53resolver
 versioning:
-  latest: 1.12.32
-  release: 1.12.32
+  latest: 1.12.35
+  release: 1.12.35
   versions:
   - 1.11.451
   - 1.11.452
@@ -622,4 +622,7 @@ versioning:
   - 1.12.30
   - 1.12.31
   - 1.12.32
-  lastUpdated: 20210726200354
+  - 1.12.33
+  - 1.12.34
+  - 1.12.35
+  lastUpdated: 20210728195320
