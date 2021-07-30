@@ -3,8 +3,8 @@
 groupId: io.janstenpickle
 artifactId: trace4cats-stackdriver-http-exporter_2.12
 versioning:
-  latest: 0.12.0-RC2
-  release: 0.12.0-RC2
+  latest: 0.12.0-RC2+10-bef51d81
+  release: 0.12.0-RC2+10-bef51d81
   versions:
   - 0.0.0+1-7a9df181
   - 0.0.0+2-30d846cc
@@ -364,6 +364,7 @@ versioning:
   - 0.10.1+136-caf318e4
   - 0.10.1+138-1fb11d87
   - 0.11.0
+  - 0.11.0+79-d21ea0df
   - 0.12.0-RC1
   - 0.12.0-RC1+2-7529693c
   - 0.12.0-RC1+4-3678a569
@@ -391,4 +392,5 @@ versioning:
   - 0.12.0-RC1+150-44d78e6d
   - 0.12.0-RC1+152-e3a578e1
   - 0.12.0-RC2
-  lastUpdated: 20210706115311
+  - 0.12.0-RC2+10-bef51d81
+  lastUpdated: 20210729123333
