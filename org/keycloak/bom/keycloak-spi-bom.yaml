@@ -3,8 +3,8 @@
 groupId: org.keycloak.bom
 artifactId: keycloak-spi-bom
 versioning:
-  latest: 14.0.0
-  release: 14.0.0
+  latest: 15.0.0
+  release: 15.0.0
   versions:
   - 2.5.4.Final
   - 2.5.5.Final
@@ -65,4 +65,5 @@ versioning:
   - 13.0.0
   - 13.0.1
   - 14.0.0
-  lastUpdated: 20210618082731
+  - 15.0.0
+  lastUpdated: 20210730115943
