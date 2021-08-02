@@ -3,8 +3,8 @@
 groupId: org.nervos.ckb
 artifactId: serialization
 versioning:
-  latest: 0.43.0-snapshot
-  release: 0.43.0-snapshot
+  latest: 0.43.1
+  release: 0.43.1
   versions:
   - 0.22.0
   - 0.23.0
@@ -48,4 +48,6 @@ versioning:
   - 0.42.0
   - 0.42.1-snapshot
   - 0.43.0-snapshot
-  lastUpdated: 20210707120602
+  - 0.43.0
+  - 0.43.1
+  lastUpdated: 20210801121028
