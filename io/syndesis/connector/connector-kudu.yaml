@@ -3,8 +3,8 @@
 groupId: io.syndesis.connector
 artifactId: connector-kudu
 versioning:
-  latest: 1.12.0
-  release: 1.12.0
+  latest: 1.12.1
+  release: 1.12.1
   versions:
   - 1.6.0
   - 1.6.1
@@ -44,4 +44,5 @@ versioning:
   - 1.10.0
   - 1.11.0
   - 1.12.0
-  lastUpdated: 20210622115759
+  - 1.12.1
+  lastUpdated: 20210802151344
