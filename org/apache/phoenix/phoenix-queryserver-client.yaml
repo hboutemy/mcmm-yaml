@@ -3,8 +3,8 @@
 groupId: org.apache.phoenix
 artifactId: phoenix-queryserver-client
 versioning:
-  latest: 5.0.0-HBase-2.0
-  release: 5.0.0-HBase-2.0
+  latest: 6.0.0
+  release: 6.0.0
   versions:
   - 4.8.0-HBase-0.98
   - 4.8.0-HBase-1.0
@@ -55,4 +55,5 @@ versioning:
   - 4.14.3-HBase-1.4
   - 5.0.0-alpha-HBase-2.0
   - 5.0.0-HBase-2.0
-  lastUpdated: 20190820234333
+  - 6.0.0
+  lastUpdated: 20210803053034

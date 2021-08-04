@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jaxb
 artifactId: xsom
 versioning:
-  latest: 3.0.2-b01
-  release: 3.0.2-b01
+  latest: 3.0.2
+  release: 3.0.2
   versions:
   - 2.3.0-b170127.1453
   - 2.3.0
@@ -16,6 +16,7 @@ versioning:
   - 2.3.3-b02
   - 2.3.3
   - 2.3.4
+  - 2.3.5
   - 2.4.0-b180725.0644
   - 2.4.0-b180830.0438
   - 3.0.0-M1
@@ -24,6 +25,8 @@ versioning:
   - 3.0.0-M4
   - 3.0.0-M5
   - 3.0.0
+  - 3.0.1-b02
   - 3.0.1
   - 3.0.2-b01
-  lastUpdated: 20210514043300
+  - 3.0.2
+  lastUpdated: 20210803081327

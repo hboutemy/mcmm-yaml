@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-ssl-config
 versioning:
-  latest: 7.13.4
-  release: 7.13.4
+  latest: 7.14.0
+  release: 7.14.0
   versions:
   - 6.7.0
   - 6.7.1
@@ -27,6 +27,7 @@ versioning:
   - 6.8.15
   - 6.8.16
   - 6.8.17
+  - 6.8.18
   - 7.0.0-rc1
   - 7.0.0-rc2
   - 7.0.0
@@ -68,4 +69,5 @@ versioning:
   - 7.13.2
   - 7.13.3
   - 7.13.4
-  lastUpdated: 20210720125736
+  - 7.14.0
+  lastUpdated: 20210803132131

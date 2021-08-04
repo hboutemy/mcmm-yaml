@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: sagemaker
 versioning:
-  latest: 2.17.10
-  release: 2.17.10
+  latest: 2.17.11
+  release: 2.17.11
   versions:
   - 2.0.0-preview-8
   - 2.0.0-preview-9
@@ -609,4 +609,5 @@ versioning:
   - 2.17.8
   - 2.17.9
   - 2.17.10
-  lastUpdated: 20210802192120
+  - 2.17.11
+  lastUpdated: 20210803192357
