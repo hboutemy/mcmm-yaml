@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus
 artifactId: nexus-elasticsearch
 versioning:
-  latest: 3.32.0-03
-  release: 3.32.0-03
+  latest: 3.33.0-01
+  release: 3.33.0-01
   versions:
   - 3.0.0-b2015061001
   - 3.0.0-b2015091801
@@ -91,4 +91,5 @@ versioning:
   - 3.31.0-01
   - 3.31.1-01
   - 3.32.0-03
-  lastUpdated: 20210708154846
+  - 3.33.0-01
+  lastUpdated: 20210804135922

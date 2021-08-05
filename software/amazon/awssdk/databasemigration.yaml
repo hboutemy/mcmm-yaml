@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: databasemigration
 versioning:
-  latest: 2.17.11
-  release: 2.17.11
+  latest: 2.17.12
+  release: 2.17.12
   versions:
   - 2.0.0-preview-12
   - 2.0.0-preview-13
@@ -606,4 +606,5 @@ versioning:
   - 2.17.9
   - 2.17.10
   - 2.17.11
-  lastUpdated: 20210803192304
+  - 2.17.12
+  lastUpdated: 20210804191456
