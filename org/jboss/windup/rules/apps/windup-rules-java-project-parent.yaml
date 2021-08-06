@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.windup.rules.apps
 artifactId: windup-rules-java-project-parent
 versioning:
-  latest: 5.2.0.Alpha1
-  release: 5.2.0.Alpha1
+  latest: 5.2.0.Final
+  release: 5.2.0.Final
   versions:
   - 2.2.0.Final
   - 2.3.0.Final
@@ -62,4 +62,5 @@ versioning:
   - 5.1.4.Alpha1
   - 5.1.4.Final
   - 5.2.0.Alpha1
-  lastUpdated: 20210721094601
+  - 5.2.0.Final
+  lastUpdated: 20210805094134

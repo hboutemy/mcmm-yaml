@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: net.bytebuddy
 artifactId: byte-buddy-android
 versioning:
-  latest: 1.11.10
-  release: 1.11.10
+  latest: 1.11.12
+  release: 1.11.12
   versions:
   - 0.5
   - 0.5.1
@@ -225,4 +225,6 @@ versioning:
   - 1.11.8
   - 1.11.9
   - 1.11.10
-  lastUpdated: 20210804193425
+  - 1.11.11
+  - 1.11.12
+  lastUpdated: 20210805222758
