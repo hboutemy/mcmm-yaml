@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-model-infinispan
 versioning:
-  latest: 15.0.0
-  release: 15.0.0
+  latest: 15.0.1
+  release: 15.0.1
   versions:
   - 1.9.0.CR1
   - 1.9.0.Final
@@ -89,4 +89,5 @@ versioning:
   - 13.0.1
   - 14.0.0
   - 15.0.0
-  lastUpdated: 20210730120028
+  - 15.0.1
+  lastUpdated: 20210806125831

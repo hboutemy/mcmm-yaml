@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-datasync
 versioning:
-  latest: 1.12.41
-  release: 1.12.41
+  latest: 1.12.42
+  release: 1.12.42
   versions:
   - 1.11.456
   - 1.11.457
@@ -626,4 +626,5 @@ versioning:
   - 1.12.39
   - 1.12.40
   - 1.12.41
-  lastUpdated: 20210805215448
+  - 1.12.42
+  lastUpdated: 20210806200111
