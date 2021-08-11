@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.distribution.integ-test-zip
 artifactId: elasticsearch
 versioning:
-  latest: 7.14.0
-  release: 7.14.0
+  latest: 8.0.0-alpha1
+  release: 8.0.0-alpha1
   versions:
   - 5.0.0-alpha1
   - 5.0.0-alpha2
@@ -150,4 +150,5 @@ versioning:
   - 7.13.3
   - 7.13.4
   - 7.14.0
-  lastUpdated: 20210803132113
+  - 8.0.0-alpha1
+  lastUpdated: 20210810154448

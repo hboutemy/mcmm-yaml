@@ -3,11 +3,12 @@
 groupId: com.wavemaker.app.build
 artifactId: wavemaker-app-build-maven-plugin
 versioning:
-  latest: 10.7.5
-  release: 10.7.5
+  latest: 10.8.0.ee
+  release: 10.8.0.ee
   versions:
   - 9.4.0.10
   - 9.4.0.12
+  - 9.4.0.13
   - 9.4.9.9-20201011200802
   - 9.9.9-20201009170109
   - 9.9.9-20201011200802
@@ -30,4 +31,6 @@ versioning:
   - 10.7.3
   - 10.7.4
   - 10.7.5
-  lastUpdated: 20210802102153
+  - 10.8.0
+  - 10.8.0.ee
+  lastUpdated: 20210810155619

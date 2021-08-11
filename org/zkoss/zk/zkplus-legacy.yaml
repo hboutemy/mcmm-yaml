@@ -3,8 +3,8 @@
 groupId: org.zkoss.zk
 artifactId: zkplus-legacy
 versioning:
-  latest: 9.5.0.3
-  release: 9.5.0.3
+  latest: 9.6.0-jakarta
+  release: 9.6.0-jakarta
   versions:
   - 9.0.0-RC
   - 9.0.0
@@ -13,4 +13,6 @@ versioning:
   - 9.5.0.1
   - 9.5.0.2
   - 9.5.0.3
-  lastUpdated: 20210326171356
+  - 9.6.0
+  - 9.6.0-jakarta
+  lastUpdated: 20210810074106

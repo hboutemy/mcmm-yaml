@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-billingbudgets
 versioning:
-  latest: v1-rev20210621-1.32.1
-  release: v1-rev20210621-1.32.1
+  latest: v1-rev20210806-1.32.1
+  release: v1-rev20210806-1.32.1
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.25.0
@@ -51,6 +51,7 @@ versioning:
   - v1beta1-rev20210412-1.31.5
   - v1beta1-rev20210621-1.31.5
   - v1beta1-rev20210621-1.32.1
+  - v1beta1-rev20210806-1.32.1
   - v1-rev20200919-1.30.10
   - v1-rev20201012-1.30.10
   - v1-rev20201026-1.30.10
@@ -65,4 +66,5 @@ versioning:
   - v1-rev20210412-1.31.5
   - v1-rev20210621-1.31.5
   - v1-rev20210621-1.32.1
-  lastUpdated: 20210702202419
+  - v1-rev20210806-1.32.1
+  lastUpdated: 20210810200237
