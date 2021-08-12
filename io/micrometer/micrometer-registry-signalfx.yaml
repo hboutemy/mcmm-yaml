@@ -3,8 +3,8 @@
 groupId: io.micrometer
 artifactId: micrometer-registry-signalfx
 versioning:
-  latest: 1.7.2
-  release: 1.7.2
+  latest: 1.7.3
+  release: 1.7.3
   versions:
   - 1.0.0-rc.8
   - 1.0.0-rc.9
@@ -81,6 +81,7 @@ versioning:
   - 1.5.14
   - 1.5.15
   - 1.5.16
+  - 1.5.17
   - 1.6.0
   - 1.6.1
   - 1.6.2
@@ -90,10 +91,12 @@ versioning:
   - 1.6.7
   - 1.6.8
   - 1.6.9
+  - 1.6.10
   - 1.7.0
   - 1.7.1
   - 1.7.2
+  - 1.7.3
   - 1.3.17
   - 1.5.11
   - 1.6.4
-  lastUpdated: 20210714194539
+  lastUpdated: 20210811160307

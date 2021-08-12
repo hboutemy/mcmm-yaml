@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.micronaut
 artifactId: micronaut-websocket
 versioning:
-  latest: 3.0.0-M5
-  release: 3.0.0-M5
+  latest: 3.0.0-RC1
+  release: 3.0.0-RC1
   versions:
   - 1.0.0.RC3
   - 1.0.0
@@ -93,4 +93,5 @@ versioning:
   - 3.0.0-M3
   - 3.0.0-M4
   - 3.0.0-M5
-  lastUpdated: 20210726193014
+  - 3.0.0-RC1
+  lastUpdated: 20210811152505
