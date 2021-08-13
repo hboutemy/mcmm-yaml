@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.slf4j
 artifactId: slf4j-migrator
 versioning:
-  latest: 1.8.0-beta4
-  release: 1.8.0-beta4
+  latest: 2.0.0-alpha4
+  release: 2.0.0-alpha4
   versions:
   - 1.5.0
   - 1.5.2
@@ -67,4 +67,5 @@ versioning:
   - 1.8.0-beta1
   - 1.8.0-beta2
   - 1.8.0-beta4
-  lastUpdated: 20210720120202
+  - 2.0.0-alpha4
+  lastUpdated: 20210812213534

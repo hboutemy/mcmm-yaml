@@ -3,8 +3,8 @@
 groupId: io.fabric8
 artifactId: kubernetes-model-certificates
 versioning:
-  latest: 5.6.0
-  release: 5.6.0
+  latest: 5.7.0
+  release: 5.7.0
   versions:
   - 4.10.0
   - 4.10.1
@@ -35,4 +35,5 @@ versioning:
   - 5.4.1
   - 5.5.0
   - 5.6.0
-  lastUpdated: 20210721134439
+  - 5.7.0
+  lastUpdated: 20210812112854

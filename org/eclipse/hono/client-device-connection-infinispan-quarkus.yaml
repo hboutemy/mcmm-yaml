@@ -3,8 +3,8 @@
 groupId: org.eclipse.hono
 artifactId: client-device-connection-infinispan-quarkus
 versioning:
-  latest: 1.9.0
-  release: 1.9.0
+  latest: 1.9.1
+  release: 1.9.1
   versions:
   - 1.7.1
   - 1.7.2
@@ -13,5 +13,7 @@ versioning:
   - 1.8.0
   - 1.8.1
   - 1.8.2
+  - 1.8.3
   - 1.9.0
-  lastUpdated: 20210714075738
+  - 1.9.1
+  lastUpdated: 20210812151329
