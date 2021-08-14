@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-monitoring
 versioning:
-  latest: v3-rev20210803-1.32.1
-  release: v3-rev20210803-1.32.1
+  latest: v3-rev20210809-1.32.1
+  release: v3-rev20210809-1.32.1
   versions:
   - v1-rev1-1.22.0
   - v1-rev1-1.23.0
@@ -54,6 +54,7 @@ versioning:
   - v1-rev20210712-1.32.1
   - v1-rev20210720-1.32.1
   - v1-rev20210727-1.32.1
+  - v1-rev20210809-1.32.1
   - v3-rev1-1.18.0-rc
   - v3-rev1-1.19.1
   - v3-rev1-1.20.0
@@ -721,4 +722,5 @@ versioning:
   - v3-rev20210712-1.32.1
   - v3-rev20210720-1.32.1
   - v3-rev20210803-1.32.1
-  lastUpdated: 20210810202025
+  - v3-rev20210809-1.32.1
+  lastUpdated: 20210813201201

@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-session-property-managers
 versioning:
-  latest: 0.259
-  release: 0.259
+  latest: 0.259.1
+  release: 0.259.1
   versions:
   - 0.211
   - 0.212
@@ -83,4 +83,5 @@ versioning:
   - 0.257
   - 0.258
   - 0.259
-  lastUpdated: 20210806201917
+  - 0.259.1
+  lastUpdated: 20210813180704

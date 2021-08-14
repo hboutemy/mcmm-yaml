@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-gamelift
 versioning:
-  latest: 1.12.45
-  release: 1.12.45
+  latest: 1.12.47
+  release: 1.12.47
   versions:
   - 1.10.51
   - 1.10.52
@@ -1116,4 +1116,6 @@ versioning:
   - 1.12.43
   - 1.12.44
   - 1.12.45
-  lastUpdated: 20210811211819
+  - 1.12.46
+  - 1.12.47
+  lastUpdated: 20210813194452
