@@ -3,9 +3,10 @@
 groupId: com.qunar.qmq
 artifactId: qmq-metrics-prometheus
 versioning:
-  latest: 1.1.37
-  release: 1.1.37
+  latest: 1.1.39
+  release: 1.1.39
   versions:
+  - 1..38
   - 1.1.1
   - 1.1.2
   - 1.1.6
@@ -37,4 +38,5 @@ versioning:
   - 1.1.35
   - 1.1.36
   - 1.1.37
-  lastUpdated: 20210813142320
+  - 1.1.39
+  lastUpdated: 20210816101707

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.security
 artifactId: spring-security-bom
 versioning:
-  latest: 5.5.1
-  release: 5.5.1
+  latest: 5.5.2
+  release: 5.5.2
   versions:
   - 3.2.0.RELEASE
   - 3.2.1.RELEASE
@@ -96,6 +96,7 @@ versioning:
   - 5.2.9.RELEASE
   - 5.2.10.RELEASE
   - 5.2.11.RELEASE
+  - 5.2.12.RELEASE
   - 5.3.0.RELEASE
   - 5.3.1.RELEASE
   - 5.3.2.RELEASE
@@ -107,6 +108,7 @@ versioning:
   - 5.3.8.RELEASE
   - 5.3.9.RELEASE
   - 5.3.10.RELEASE
+  - 5.3.11.RELEASE
   - 5.4.0
   - 5.4.1
   - 5.4.2
@@ -115,6 +117,8 @@ versioning:
   - 5.4.5
   - 5.4.6
   - 5.4.7
+  - 5.4.8
   - 5.5.0
   - 5.5.1
-  lastUpdated: 20210628233102
+  - 5.5.2
+  lastUpdated: 20210816183147

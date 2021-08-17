@@ -3,9 +3,10 @@
 groupId: com.qunar.qmq
 artifactId: qmq-api
 versioning:
-  latest: 1.1.37
-  release: 1.1.37
+  latest: 1.1.39
+  release: 1.1.39
   versions:
+  - 1..38
   - 1.1.6
   - 1.1.7
   - 1.1.8
@@ -36,5 +37,6 @@ versioning:
   - 1.1.35
   - 1.1.36
   - 1.1.37
+  - 1.1.39
   - 1.1.14
-  lastUpdated: 20210813142316
+  lastUpdated: 20210816101703
