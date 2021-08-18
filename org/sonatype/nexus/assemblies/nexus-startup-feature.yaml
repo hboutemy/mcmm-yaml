@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.assemblies
 artifactId: nexus-startup-feature
 versioning:
-  latest: 3.33.0-01
-  release: 3.33.0-01
+  latest: 3.33.1-01
+  release: 3.33.1-01
   versions:
   - 3.2.1-01
   - 3.3.0-01
@@ -83,4 +83,5 @@ versioning:
   - 3.31.1-01
   - 3.32.0-03
   - 3.33.0-01
-  lastUpdated: 20210804135907
+  - 3.33.1-01
+  lastUpdated: 20210817153303

@@ -3,8 +3,8 @@
 groupId: com.yahoo.vespa
 artifactId: cloud-tenant-base-dependencies-enforcer
 versioning:
-  latest: 7.450.12
-  release: 7.450.12
+  latest: 7.452.11
+  release: 7.452.11
   versions:
   - 7.280.10
   - 7.281.56
@@ -127,4 +127,6 @@ versioning:
   - 7.448.16
   - 7.449.21
   - 7.450.12
-  lastUpdated: 20210812182932
+  - 7.451.27
+  - 7.452.11
+  lastUpdated: 20210817182813

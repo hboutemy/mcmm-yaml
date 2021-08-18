@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.integration
 artifactId: spring-integration-gemfire
 versioning:
-  latest: 5.5.2
-  release: 5.5.2
+  latest: 5.5.3
+  release: 5.5.3
   versions:
   - 2.1.0.RELEASE
   - 2.1.1.RELEASE
@@ -136,6 +136,7 @@ versioning:
   - 5.3.4.RELEASE
   - 5.3.5.RELEASE
   - 5.3.8.RELEASE
+  - 5.3.9.RELEASE
   - 5.4.0
   - 5.4.1
   - 5.4.2
@@ -143,13 +144,15 @@ versioning:
   - 5.4.7
   - 5.4.8
   - 5.4.9
+  - 5.4.10
   - 5.5.0
   - 5.5.1
   - 5.5.2
+  - 5.5.3
   - 4.0.0.M3
   - 5.3.6.RELEASE
   - 5.3.7.RELEASE
   - 5.4.4
   - 5.4.5
   - 5.4.6
-  lastUpdated: 20210726201343
+  lastUpdated: 20210817193443

@@ -3,8 +3,8 @@
 groupId: com.yahoo.vespa
 artifactId: container-dependency-versions
 versioning:
-  latest: 7.450.12
-  release: 7.450.12
+  latest: 7.452.11
+  release: 7.452.11
   versions:
   - 6.182.28
   - 6.183.169
@@ -411,4 +411,6 @@ versioning:
   - 7.448.16
   - 7.449.21
   - 7.450.12
-  lastUpdated: 20210812182952
+  - 7.451.27
+  - 7.452.11
+  lastUpdated: 20210817182833

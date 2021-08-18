@@ -3,8 +3,8 @@
 groupId: io.micronaut.micrometer
 artifactId: micronaut-micrometer-bom
 versioning:
-  latest: 4.0.0-RC2
-  release: 4.0.0-RC2
+  latest: 4.0.0
+  release: 4.0.0
   versions:
   - 3.3.0
   - 3.3.0-TEST
@@ -12,4 +12,5 @@ versioning:
   - 3.4.1
   - 4.0.0.RC1
   - 4.0.0-RC2
-  lastUpdated: 20210722082249
+  - 4.0.0
+  lastUpdated: 20210817193422

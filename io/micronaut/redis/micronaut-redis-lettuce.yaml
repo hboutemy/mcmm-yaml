@@ -3,8 +3,8 @@
 groupId: io.micronaut.redis
 artifactId: micronaut-redis-lettuce
 versioning:
-  latest: 5.0.0-M1
-  release: 5.0.0-M1
+  latest: 5.0.0
+  release: 5.0.0
   versions:
   - 2.0.0
   - 2.1.0
@@ -20,4 +20,5 @@ versioning:
   - 4.0.2
   - 4.0.3
   - 5.0.0-M1
-  lastUpdated: 20210723103723
+  - 5.0.0
+  lastUpdated: 20210817190100
