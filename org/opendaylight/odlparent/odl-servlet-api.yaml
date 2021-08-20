@@ -3,8 +3,8 @@
 groupId: org.opendaylight.odlparent
 artifactId: odl-servlet-api
 versioning:
-  latest: 9.0.2
-  release: 9.0.2
+  latest: 9.0.3
+  release: 9.0.3
   versions:
   - 4.0.3
   - 4.0.4
@@ -56,6 +56,7 @@ versioning:
   - 7.0.8
   - 7.0.9
   - 7.0.10
+  - 7.0.11
   - 8.0.0
   - 8.0.1
   - 8.0.2
@@ -67,4 +68,5 @@ versioning:
   - 9.0.0
   - 9.0.1
   - 9.0.2
-  lastUpdated: 20210524232944
+  - 9.0.3
+  lastUpdated: 20210819132454

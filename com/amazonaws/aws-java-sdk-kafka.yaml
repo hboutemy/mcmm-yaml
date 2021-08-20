@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-kafka
 versioning:
-  latest: 1.12.50
-  release: 1.12.50
+  latest: 1.12.51
+  release: 1.12.51
   versions:
   - 1.11.461
   - 1.11.462
@@ -630,4 +630,5 @@ versioning:
   - 1.12.48
   - 1.12.49
   - 1.12.50
-  lastUpdated: 20210818200100
+  - 1.12.51
+  lastUpdated: 20210819200040
