@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.metadata
 artifactId: jboss-metadata-ejb
 versioning:
-  latest: 14.0.0.Beta2
-  release: 14.0.0.Beta2
+  latest: 14.0.0.Final
+  release: 14.0.0.Final
   versions:
   - 2.0.0.Alpha
   - 2.0.0-alpha-2
@@ -123,4 +123,5 @@ versioning:
   - 14.0.0.Alpha1
   - 14.0.0.Beta1
   - 14.0.0.Beta2
-  lastUpdated: 20210807190401
+  - 14.0.0.Final
+  lastUpdated: 20210820090034

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-spring-security-adapter
 versioning:
-  latest: 15.0.1
-  release: 15.0.1
+  latest: 15.0.2
+  release: 15.0.2
   versions:
   - 1.2.0.CR1
   - 1.2.0.Final
@@ -108,5 +108,6 @@ versioning:
   - 14.0.0
   - 15.0.0
   - 15.0.1
+  - 15.0.2
   - 1.5.0-Final
-  lastUpdated: 20210806125927
+  lastUpdated: 20210820083558
