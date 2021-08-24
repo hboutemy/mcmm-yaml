@@ -3,8 +3,8 @@
 groupId: com.atlassian.bamboo
 artifactId: bamboo-specs-archetype
 versioning:
-  latest: 8.0.1-m01
-  release: 8.0.1-m01
+  latest: 8.0.1-m02
+  release: 8.0.1-m02
   versions:
   - 6.2.6
   - 6.2.7
@@ -92,6 +92,7 @@ versioning:
   - 8.0.0
   - 8.0.0-BDEV-16109-m02
   - 8.0.1-m01
+  - 8.0.1-m02
   - 5.16.33
   - 6.0.0
   - 6.0.1
@@ -111,4 +112,4 @@ versioning:
   - 6.2.4
   - 6.2.5
   - 6.3.0-rc3
-  lastUpdated: 20210803100213
+  lastUpdated: 20210823083918
