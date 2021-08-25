@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-console-distribution
 versioning:
-  latest: 0.400.0
-  release: 0.400.0
+  latest: 0.402.0-rc1
+  release: 0.402.0-rc1
   versions:
   - 0.312.2-rc2
   - 0.312.2-rc3
@@ -129,4 +129,6 @@ versioning:
   - 0.397.0
   - 0.399.0
   - 0.400.0
-  lastUpdated: 20210823101914
+  - 0.401.0
+  - 0.402.0-rc1
+  lastUpdated: 20210824134420
