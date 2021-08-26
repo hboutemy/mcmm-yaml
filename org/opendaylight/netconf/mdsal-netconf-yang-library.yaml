@@ -3,8 +3,8 @@
 groupId: org.opendaylight.netconf
 artifactId: mdsal-netconf-yang-library
 versioning:
-  latest: 2.0.2
-  release: 2.0.2
+  latest: 2.0.3
+  release: 2.0.3
   versions:
   - 1.1.0-Boron
   - 1.1.1-Boron-SR1
@@ -57,4 +57,5 @@ versioning:
   - 2.0.0
   - 2.0.1
   - 2.0.2
-  lastUpdated: 20210811200052
+  - 2.0.3
+  lastUpdated: 20210825165519

@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-bom
 versioning:
-  latest: 1.7.0.Alpha1
-  release: 1.7.0.Alpha1
+  latest: 1.7.0.Beta1
+  release: 1.7.0.Beta1
   versions:
   - 1.5.0.CR1
   - 1.5.0.Final
@@ -19,4 +19,5 @@ versioning:
   - 1.6.0.Final
   - 1.6.1.Final
   - 1.7.0.Alpha1
-  lastUpdated: 20210730070022
+  - 1.7.0.Beta1
+  lastUpdated: 20210825094036

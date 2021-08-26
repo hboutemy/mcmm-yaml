@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-bootstrap-runner
 versioning:
-  latest: 2.2.0.CR1
-  release: 2.2.0.CR1
+  latest: 2.2.0.Final
+  release: 2.2.0.Final
   versions:
   - 1.5.0.CR1
   - 1.5.0.Final
@@ -78,4 +78,5 @@ versioning:
   - 2.1.2.Final
   - 2.1.3.Final
   - 2.2.0.CR1
-  lastUpdated: 20210819104401
+  - 2.2.0.Final
+  lastUpdated: 20210825111104

@@ -3,8 +3,8 @@
 groupId: io.grpc
 artifactId: protoc-gen-grpc-java
 versioning:
-  latest: 1.40.0
-  release: 1.40.0
+  latest: 1.40.1
+  release: 1.40.1
   versions:
   - 0.13.0
   - 0.13.1
@@ -93,6 +93,7 @@ versioning:
   - 1.38.1
   - 1.39.0
   - 1.40.0
+  - 1.40.1
   - 0.12.0
   - 0.7.0
   - 0.7.1
@@ -100,4 +101,4 @@ versioning:
   - 0.8.0
   - 0.9.0
   - 0.9.1
-  lastUpdated: 20210817011647
+  lastUpdated: 20210825014822

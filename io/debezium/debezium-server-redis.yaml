@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-server-redis
 versioning:
-  latest: 1.7.0.Alpha1
-  release: 1.7.0.Alpha1
+  latest: 1.7.0.Beta1
+  release: 1.7.0.Beta1
   versions:
   - 1.5.0.Final
   - 1.5.1.Final
@@ -18,4 +18,5 @@ versioning:
   - 1.6.0.Final
   - 1.6.1.Final
   - 1.7.0.Alpha1
-  lastUpdated: 20210730070034
+  - 1.7.0.Beta1
+  lastUpdated: 20210825094051
