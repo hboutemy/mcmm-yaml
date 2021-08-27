@@ -1,18 +1,12 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.google.http-client
 artifactId: google-http-client-assembly
 versioning:
-  latest: 1.39.2-sp.1
-  release: 1.39.2-sp.1
+  latest: 1.40.0
+  release: 1.40.0
   versions:
-  - 1.5.0-beta
-  - 1.5.3-beta
-  - 1.6.0-beta
-  - 1.7.0-beta
-  - 1.8.3-beta
-  - 1.9.0-beta
+  - 1.40.0
   - 1.10.0-beta
   - 1.10.1-beta
   - 1.10.2-beta
@@ -59,4 +53,10 @@ versioning:
   - 1.39.1
   - 1.39.2
   - 1.39.2-sp.1
-  lastUpdated: 20210512184252
+  - 1.5.0-beta
+  - 1.5.3-beta
+  - 1.6.0-beta
+  - 1.7.0-beta
+  - 1.8.3-beta
+  - 1.9.0-beta
+  lastUpdated: 20210826192249

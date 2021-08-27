@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-sagemaker
 versioning:
-  latest: 1.12.55
-  release: 1.12.55
+  latest: 1.12.56
+  release: 1.12.56
   versions:
   - 1.11.238
   - 1.11.239
@@ -858,4 +858,5 @@ versioning:
   - 1.12.53
   - 1.12.54
   - 1.12.55
-  lastUpdated: 20210825200958
+  - 1.12.56
+  lastUpdated: 20210826200151
