@@ -3,8 +3,8 @@
 groupId: io.trino
 artifactId: trino-test-jdbc-compatibility-old-driver
 versioning:
-  latest: 360
-  release: 360
+  latest: 361
+  release: 361
   versions:
   - 351
   - 352
@@ -16,4 +16,5 @@ versioning:
   - 358
   - 359
   - 360
-  lastUpdated: 20210730183157
+  - 361
+  lastUpdated: 20210827230244
