@@ -3,8 +3,8 @@
 groupId: org.infinispan.images
 artifactId: infinispan-images-parent
 versioning:
-  latest: 2.1.8.Final
-  release: 2.1.8.Final
+  latest: 13.0.0.Dev04
+  release: 13.0.0.Dev04
   versions:
   - 0.0.1.Final
   - 0.0.2.Final
@@ -38,4 +38,6 @@ versioning:
   - 2.1.6.Final
   - 2.1.7.Final
   - 2.1.8.Final
-  lastUpdated: 20210714122952
+  - 2.2.0.Dev01
+  - 13.0.0.Dev04
+  lastUpdated: 20210830141024

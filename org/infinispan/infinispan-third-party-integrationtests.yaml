@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-third-party-integrationtests
 versioning:
-  latest: 13.0.0.Dev03
-  release: 13.0.0.Dev03
+  latest: 13.0.0.Dev04
+  release: 13.0.0.Dev04
   versions:
   - 11.0.6.Final
   - 12.0.0.CR1
@@ -31,5 +31,6 @@ versioning:
   - 13.0.0.Dev01
   - 13.0.0.Dev02
   - 13.0.0.Dev03
+  - 13.0.0.Dev04
   - 12.0.0.Dev3
-  lastUpdated: 20210719194103
+  lastUpdated: 20210830110308

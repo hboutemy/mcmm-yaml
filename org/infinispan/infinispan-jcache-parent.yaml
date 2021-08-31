@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-jcache-parent
 versioning:
-  latest: 13.0.0.Dev03
-  release: 13.0.0.Dev03
+  latest: 13.0.0.Dev04
+  release: 13.0.0.Dev04
   versions:
   - 7.2.0.Beta1
   - 7.2.0.Beta2
@@ -201,5 +201,6 @@ versioning:
   - 13.0.0.Dev01
   - 13.0.0.Dev02
   - 13.0.0.Dev03
+  - 13.0.0.Dev04
   - 12.0.0.Dev3
-  lastUpdated: 20210719194044
+  lastUpdated: 20210830110233
