@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-thrift-testing-udf-server
 versioning:
-  latest: 0.260
-  release: 0.260
+  latest: 0.260.1
+  release: 0.260.1
   versions:
   - 0.240
   - 0.240.1
@@ -41,4 +41,5 @@ versioning:
   - 0.259
   - 0.259.1
   - 0.260
-  lastUpdated: 20210820180708
+  - 0.260.1
+  lastUpdated: 20210831171915
