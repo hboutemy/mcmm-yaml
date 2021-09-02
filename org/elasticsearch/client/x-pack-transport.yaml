@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.client
 artifactId: x-pack-transport
 versioning:
-  latest: 7.14.0
-  release: 7.14.0
+  latest: 7.14.1
+  release: 7.14.1
   versions:
   - 6.8.11
   - 6.8.12
@@ -33,4 +33,5 @@ versioning:
   - 7.13.3
   - 7.13.4
   - 7.14.0
-  lastUpdated: 20210803132112
+  - 7.14.1
+  lastUpdated: 20210901150405
