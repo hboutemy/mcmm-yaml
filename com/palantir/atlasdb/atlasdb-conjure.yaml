@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-conjure
 versioning:
-  latest: 0.404.0
-  release: 0.404.0
+  latest: 0.407.0
+  release: 0.407.0
   versions:
   - 0.312.2-rc2
   - 0.312.2-rc3
@@ -133,4 +133,6 @@ versioning:
   - 0.402.0-rc1
   - 0.403.0
   - 0.404.0
-  lastUpdated: 20210831105517
+  - 0.406.0
+  - 0.407.0
+  lastUpdated: 20210903175624
