@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: distribution
 versioning:
-  latest: 2.8.0
-  release: 2.8.0
+  latest: 2.8.1
+  release: 2.8.1
   versions:
   - 1.19.0-incubating
   - 1.20.0-incubating
@@ -35,4 +35,5 @@ versioning:
   - 2.7.1
   - 2.7.2
   - 2.8.0
-  lastUpdated: 20210616063709
+  - 2.8.1
+  lastUpdated: 20210907132848
