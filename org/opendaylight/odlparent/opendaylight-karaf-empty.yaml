@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.odlparent
 artifactId: opendaylight-karaf-empty
 versioning:
-  latest: 9.0.5
-  release: 9.0.5
+  latest: 9.0.6
+  release: 9.0.6
   versions:
   - 1.7.0-Boron
   - 1.7.1-Boron-SR1
@@ -106,6 +106,7 @@ versioning:
   - 9.0.3
   - 9.0.4
   - 9.0.5
+  - 9.0.6
   - 4.0.3
   - 4.0.4
-  lastUpdated: 20210905232738
+  lastUpdated: 20210908141949
