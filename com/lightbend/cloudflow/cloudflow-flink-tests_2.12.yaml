@@ -3,8 +3,8 @@
 groupId: com.lightbend.cloudflow
 artifactId: cloudflow-flink-tests_2.12
 versioning:
-  latest: 2.3.0-RC3
-  release: 2.3.0-RC3
+  latest: 2.3.0-RC4
+  release: 2.3.0-RC4
   versions:
   - 0.0.0-NIGHTLY01122020
   - 0.0.0-NIGHTLY02122020
@@ -503,12 +503,14 @@ versioning:
   - 2.2.2-NIGHTLY20210905
   - 2.2.2-NIGHTLY20210906
   - 2.2.2-NIGHTLY20210908
+  - 2.2.2-NIGHTLY20210909
   - 2.3.0-RC1
   - 2.3.0-RC2
   - 2.3.0-RC3
+  - 2.3.0-RC4
   - back-to-core-0.0.1
   - back-to-core-SNAPSHOT-1
   - back-to-core-SNAPSHOT-2
   - back-to-core-SNAPSHOT-3
   - back-to-core-SNAPSHOT-4
-  lastUpdated: 20210908001923
+  lastUpdated: 20210909181301

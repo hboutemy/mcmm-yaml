@@ -3,8 +3,8 @@
 groupId: io.fabric8
 artifactId: kubernetes-model-node
 versioning:
-  latest: 5.7.2
-  release: 5.7.2
+  latest: 5.7.3
+  release: 5.7.3
   versions:
   - 4.13.0
   - 4.13.1
@@ -30,4 +30,5 @@ versioning:
   - 5.7.0
   - 5.7.1
   - 5.7.2
-  lastUpdated: 20210902133159
+  - 5.7.3
+  lastUpdated: 20210909053027

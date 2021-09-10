@@ -3,8 +3,8 @@
 groupId: org.apache.httpcomponents.core5
 artifactId: httpcore5-h2
 versioning:
-  latest: 5.1.1
-  release: 5.1.1
+  latest: 5.2-alpha1
+  release: 5.2-alpha1
   versions:
   - 5.0-alpha2
   - 5.0-alpha3
@@ -30,4 +30,5 @@ versioning:
   - 5.1-beta3
   - 5.1
   - 5.1.1
-  lastUpdated: 20210505152455
+  - 5.2-alpha1
+  lastUpdated: 20210909093807

@@ -3,8 +3,8 @@
 groupId: io.zipkin.zipkin2
 artifactId: zipkin-collector-rabbitmq
 versioning:
-  latest: 2.23.2
-  release: 2.23.2
+  latest: 2.23.4
+  release: 2.23.4
   versions:
   - 2.9.0
   - 2.9.1
@@ -74,4 +74,6 @@ versioning:
   - 2.23.0
   - 2.23.1
   - 2.23.2
-  lastUpdated: 20201225033739
+  - 2.23.3
+  - 2.23.4
+  lastUpdated: 20210909221441
