@@ -3,8 +3,8 @@
 groupId: com.azure
 artifactId: azure-spring-data-cosmos
 versioning:
-  latest: 3.11.0-beta.1
-  release: 3.11.0-beta.1
+  latest: 3.11.0
+  release: 3.11.0
   versions:
   - 3.0.0-beta.2
   - 3.0.0
@@ -20,4 +20,5 @@ versioning:
   - 3.9.0
   - 3.10.0
   - 3.11.0-beta.1
-  lastUpdated: 20210902212705
+  - 3.11.0
+  lastUpdated: 20210910030308

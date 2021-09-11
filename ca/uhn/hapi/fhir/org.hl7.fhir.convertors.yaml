@@ -3,8 +3,8 @@
 groupId: ca.uhn.hapi.fhir
 artifactId: org.hl7.fhir.convertors
 versioning:
-  latest: 5.5.1
-  release: 5.5.1
+  latest: 5.5.3
+  release: 5.5.3
   versions:
   - 0.0.1
   - 0.0.2
@@ -102,4 +102,6 @@ versioning:
   - 5.4.11
   - 5.4.12
   - 5.5.1
-  lastUpdated: 20210902152242
+  - 5.5.2
+  - 5.5.3
+  lastUpdated: 20210910031154
