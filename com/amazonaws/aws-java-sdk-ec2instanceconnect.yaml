@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-ec2instanceconnect
 versioning:
-  latest: 1.12.66
-  release: 1.12.66
+  latest: 1.12.67
+  release: 1.12.67
   versions:
   - 1.11.583
   - 1.11.584
@@ -524,4 +524,5 @@ versioning:
   - 1.12.64
   - 1.12.65
   - 1.12.66
-  lastUpdated: 20210910195940
+  - 1.12.67
+  lastUpdated: 20210913200647
