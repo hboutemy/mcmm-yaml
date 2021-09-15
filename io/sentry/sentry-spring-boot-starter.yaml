@@ -3,8 +3,8 @@
 groupId: io.sentry
 artifactId: sentry-spring-boot-starter
 versioning:
-  latest: 5.1.2
-  release: 5.1.2
+  latest: 5.2.0-beta.2
+  release: 5.2.0-beta.2
   versions:
   - 1.7.16
   - 1.7.17
@@ -60,4 +60,6 @@ versioning:
   - 5.1.0
   - 5.1.1
   - 5.1.2
-  lastUpdated: 20210826074835
+  - 5.2.0-beta.1
+  - 5.2.0-beta.2
+  lastUpdated: 20210914132609
