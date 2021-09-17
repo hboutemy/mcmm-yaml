@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.jboss.forge.furnace.container
 artifactId: simple-api
 versioning:
-  latest: 2.22.10.Final
-  release: 2.22.10.Final
+  latest: 2.29.0.Final
+  release: 2.29.0.Final
   versions:
   - 2.0.0.Beta1
   - 2.0.0.Beta3
@@ -96,4 +97,4 @@ versioning:
   - 2.28.5.Final
   - 2.28.6.Final
   - 2.29.0.Final
-  lastUpdated: 20151223141757
+  lastUpdated: 20210916192348

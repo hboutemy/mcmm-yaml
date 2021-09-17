@@ -3,8 +3,8 @@
 groupId: org.apache.orc
 artifactId: orc-core
 versioning:
-  latest: 1.6.10
-  release: 1.6.10
+  latest: 1.7.0
+  release: 1.7.0
   versions:
   - 1.1.0
   - 1.1.1
@@ -37,6 +37,7 @@ versioning:
   - 1.5.10
   - 1.5.11
   - 1.5.12
+  - 1.5.13
   - 1.6.0
   - 1.6.1
   - 1.6.2
@@ -48,4 +49,6 @@ versioning:
   - 1.6.8
   - 1.6.9
   - 1.6.10
-  lastUpdated: 20210810170320
+  - 1.6.11
+  - 1.7.0
+  lastUpdated: 20210916061433

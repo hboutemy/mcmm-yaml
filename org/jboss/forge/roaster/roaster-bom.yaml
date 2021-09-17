@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.jboss.forge.roaster
 artifactId: roaster-bom
 versioning:
-  latest: 2.17.4.Final
-  release: 2.17.4.Final
+  latest: 2.23.2.Final
+  release: 2.23.2.Final
   versions:
   - 2.14.0.Final
   - 2.15.0.Final
@@ -49,4 +50,4 @@ versioning:
   - 2.23.1.Alpha1
   - 2.23.1.Final
   - 2.23.2.Final
-  lastUpdated: 20151223132052
+  lastUpdated: 20210916192209

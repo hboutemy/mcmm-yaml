@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-core
 versioning:
-  latest: 8.0.0-alpha1
-  release: 8.0.0-alpha1
+  latest: 8.0.0-alpha2
+  release: 8.0.0-alpha2
   versions:
   - 6.2.0
   - 6.2.1
@@ -95,4 +95,5 @@ versioning:
   - 7.14.0
   - 7.14.1
   - 8.0.0-alpha1
-  lastUpdated: 20210901150410
+  - 8.0.0-alpha2
+  lastUpdated: 20210916135105

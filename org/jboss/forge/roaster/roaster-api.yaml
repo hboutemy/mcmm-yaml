@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.jboss.forge.roaster
 artifactId: roaster-api
 versioning:
-  latest: 2.17.4.Final
-  release: 2.17.4.Final
+  latest: 2.23.2.Final
+  release: 2.23.2.Final
   versions:
   - 2.1.0.Final
   - 2.2.0.Final
@@ -70,4 +71,4 @@ versioning:
   - 2.23.1.Alpha1
   - 2.23.1.Final
   - 2.23.2.Final
-  lastUpdated: 20151223132051
+  lastUpdated: 20210916192200

@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.jboss.forge.addon
 artifactId: javaee
 versioning:
-  latest: 3.0.0.Alpha3
-  release: 3.0.0.Alpha3
+  latest: 3.9.8.Final
+  release: 3.9.8.Final
   versions:
   - 2.0.0.Alpha5
   - 2.0.0.Alpha6
@@ -106,4 +107,4 @@ versioning:
   - 3.9.6.Final
   - 3.9.7.Final
   - 3.9.8.Final
-  lastUpdated: 20160126161604
+  lastUpdated: 20210916190341

@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-x-content
 versioning:
-  latest: 8.0.0-alpha1
-  release: 8.0.0-alpha1
+  latest: 8.0.0-alpha2
+  release: 8.0.0-alpha2
   versions:
   - 6.3.0
   - 6.3.1
@@ -90,4 +90,5 @@ versioning:
   - 7.14.0
   - 7.14.1
   - 8.0.0-alpha1
-  lastUpdated: 20210901150425
+  - 8.0.0-alpha2
+  lastUpdated: 20210916135118

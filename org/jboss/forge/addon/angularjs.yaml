@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.jboss.forge.addon
 artifactId: angularjs
 versioning:
-  latest: 2.1.5.Final
-  release: 2.1.5.Final
+  latest: 2.1.7.Final
+  release: 2.1.7.Final
   versions:
   - 2.0.0.Final
   - 2.0.1.Final
@@ -16,4 +17,4 @@ versioning:
   - 2.1.5.Final
   - 2.1.6.Final
   - 2.1.7.Final
-  lastUpdated: 20150729154510
+  lastUpdated: 20210916190228
