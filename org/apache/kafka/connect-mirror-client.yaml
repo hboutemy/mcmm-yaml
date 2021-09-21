@@ -3,8 +3,8 @@
 groupId: org.apache.kafka
 artifactId: connect-mirror-client
 versioning:
-  latest: 2.8.1
-  release: 2.8.1
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 2.4.0
   - 2.4.1
@@ -17,4 +17,5 @@ versioning:
   - 2.7.1
   - 2.8.0
   - 2.8.1
-  lastUpdated: 20210917164239
+  - 3.0.0
+  lastUpdated: 20210920085110
