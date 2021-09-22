@@ -3,8 +3,8 @@
 groupId: org.apache.druid.extensions.contrib
 artifactId: graphite-emitter
 versioning:
-  latest: 0.21.1
-  release: 0.21.1
+  latest: 0.22.0
+  release: 0.22.0
   versions:
   - 0.13.0-incubating
   - 0.14.0-incubating
@@ -24,4 +24,5 @@ versioning:
   - 0.20.2
   - 0.21.0
   - 0.21.1
-  lastUpdated: 20210609051711
+  - 0.22.0
+  lastUpdated: 20210921210617

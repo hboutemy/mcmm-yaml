@@ -3,8 +3,8 @@
 groupId: net.corda
 artifactId: corda
 versioning:
-  latest: 4.8
-  release: 4.8
+  latest: 5.0.0-DevPreview
+  release: 5.0.0-DevPreview
   versions:
   - corda-3.0
   - 0.7
@@ -36,4 +36,5 @@ versioning:
   - 4.6
   - 4.7
   - 4.8
-  lastUpdated: 20210426094351
+  - 5.0.0-DevPreview
+  lastUpdated: 20210921110957
