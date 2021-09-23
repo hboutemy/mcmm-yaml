@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.sonatype.nexus
 artifactId: nexus-bootstrap
 versioning:
-  latest: 3.34.0-01
-  release: 3.34.0-01
+  latest: 3.34.1-01
+  release: 3.34.1-01
   versions:
   - 2.1-RC1
   - 2.1
@@ -189,5 +189,6 @@ versioning:
   - 3.33.0-01
   - 3.33.1-01
   - 3.34.0-01
+  - 3.34.1-01
   - 2.2.1
-  lastUpdated: 20210909120125
+  lastUpdated: 20210922163817

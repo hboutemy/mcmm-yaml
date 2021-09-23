@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.plugin
 artifactId: reindex-client
 versioning:
-  latest: 7.14.2
-  release: 7.14.2
+  latest: 7.15.0
+  release: 7.15.0
   versions:
   - 5.0.0-alpha5
   - 5.0.0-beta1
@@ -149,4 +149,5 @@ versioning:
   - 7.14.0
   - 7.14.1
   - 7.14.2
-  lastUpdated: 20210921132907
+  - 7.15.0
+  lastUpdated: 20210922153835

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: net.bytebuddy
 artifactId: byte-buddy-benchmark
 versioning:
-  latest: 1.11.16
-  release: 1.11.16
+  latest: 1.11.18
+  release: 1.11.18
   versions:
   - 0.2
   - 0.2.1
@@ -237,4 +237,6 @@ versioning:
   - 1.11.14
   - 1.11.15
   - 1.11.16
-  lastUpdated: 20210917093713
+  - 1.11.17
+  - 1.11.18
+  lastUpdated: 20210922221613

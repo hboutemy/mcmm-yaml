@@ -3,8 +3,8 @@
 groupId: com.google.cloud
 artifactId: google-cloud-bigquerydatatransfer-bom
 versioning:
-  latest: 2.0.12
-  release: 2.0.12
+  latest: 2.0.14
+  release: 2.0.14
   versions:
   - 0.121.0-beta
   - 0.122.0-beta
@@ -92,4 +92,6 @@ versioning:
   - 2.0.10
   - 2.0.11
   - 2.0.12
-  lastUpdated: 20210917182641
+  - 2.0.13
+  - 2.0.14
+  lastUpdated: 20210922221932

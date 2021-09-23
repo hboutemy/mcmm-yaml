@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.identity.inbound.auth.oauth2
 artifactId: org.wso2.carbon.identity.oidc.dcr
 versioning:
-  latest: 6.7.42
-  release: 6.7.42
+  latest: 6.7.44
+  release: 6.7.44
   versions:
   - 5.5.17
   - 5.5.18
@@ -700,4 +700,6 @@ versioning:
   - 6.7.40
   - 6.7.41
   - 6.7.42
-  lastUpdated: 20210917082225
+  - 6.7.43
+  - 6.7.44
+  lastUpdated: 20210922041642
