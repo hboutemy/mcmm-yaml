@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.extension.identity.authenticator.outbound.smsotp
 artifactId: identity-outbound-auth-sms-otp
 versioning:
-  latest: 3.0.14
-  release: 3.0.14
+  latest: 3.0.15
+  release: 3.0.15
   versions:
   - 2.0.5
   - 2.0.6
@@ -57,4 +57,5 @@ versioning:
   - 3.0.12
   - 3.0.13
   - 3.0.14
-  lastUpdated: 20210610121719
+  - 3.0.15
+  lastUpdated: 20210923174512

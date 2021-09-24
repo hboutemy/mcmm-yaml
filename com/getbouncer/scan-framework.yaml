@@ -3,8 +3,8 @@
 groupId: com.getbouncer
 artifactId: scan-framework
 versioning:
-  latest: 2.1.0013
-  release: 2.1.0013
+  latest: 2.1.0014-downgrade-core-ktx01
+  release: 2.1.0014-downgrade-core-ktx01
   versions:
   - 2.0.0079
   - 2.0.0080
@@ -31,4 +31,6 @@ versioning:
   - 2.1.0011
   - 2.1.0012
   - 2.1.0013
-  lastUpdated: 20210917024645
+  - 2.1.0014-alpha02
+  - 2.1.0014-downgrade-core-ktx01
+  lastUpdated: 20210923183400
