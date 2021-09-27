@@ -3,8 +3,8 @@
 groupId: com.growingio.android
 artifactId: vds-android-agent
 versioning:
-  latest: track-2.9.6
-  release: track-2.9.6
+  latest: track-2.9.7
+  release: track-2.9.7
   versions:
   - autotrack-2.9.0
   - autotrack-2.9.1
@@ -13,7 +13,9 @@ versioning:
   - autotrack-2.9.4
   - autotrack-2.9.5
   - autotrack-2.9.6
+  - autotrack-2.9.7
   - cdp-1.2.7
+  - cdp-1.2.8
   - game-autotrack-2.9.0
   - game-autotrack-2.9.1
   - game-autotrack-2.9.2
@@ -21,6 +23,7 @@ versioning:
   - game-autotrack-2.9.4
   - game-autotrack-2.9.5
   - game-autotrack-2.9.6
+  - game-autotrack-2.9.7
   - game-track-2.9.0
   - game-track-2.9.1
   - game-track-2.9.2
@@ -28,6 +31,7 @@ versioning:
   - game-track-2.9.4
   - game-track-2.9.5
   - game-track-2.9.6
+  - game-track-2.9.7
   - RN-autotrack-2.9.0
   - RN-autotrack-2.9.1
   - RN-autotrack-2.9.2
@@ -35,6 +39,7 @@ versioning:
   - RN-autotrack-2.9.4
   - RN-autotrack-2.9.5
   - RN-autotrack-2.9.6
+  - RN-autotrack-2.9.7
   - RN-track-2.9.0
   - RN-track-2.9.1
   - RN-track-2.9.2
@@ -42,6 +47,7 @@ versioning:
   - RN-track-2.9.4
   - RN-track-2.9.5
   - RN-track-2.9.6
+  - RN-track-2.9.7
   - track-2.9.0
   - track-2.9.1
   - track-2.9.2
@@ -49,4 +55,5 @@ versioning:
   - track-2.9.4
   - track-2.9.5
   - track-2.9.6
-  lastUpdated: 20210813104145
+  - track-2.9.7
+  lastUpdated: 20210926124839
