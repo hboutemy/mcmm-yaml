@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.vaadin
 artifactId: vaadin
 versioning:
-  latest: 21.0.1
-  release: 21.0.1
+  latest: 21.0.2
+  release: 21.0.2
   versions:
   - 6.0.0
   - 6.0.1
@@ -222,6 +222,7 @@ versioning:
   - 14.6.8
   - 14.6.9
   - 14.7.0
+  - 14.7.1
   - 15.0.0
   - 15.0.1
   - 15.0.2
@@ -274,4 +275,5 @@ versioning:
   - 20.0.7
   - 21.0.0
   - 21.0.1
-  lastUpdated: 20210914092632
+  - 21.0.2
+  lastUpdated: 20210927091424

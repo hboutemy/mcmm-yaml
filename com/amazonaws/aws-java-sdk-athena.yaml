@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-athena
 versioning:
-  latest: 1.12.74
-  release: 1.12.74
+  latest: 1.12.75
+  release: 1.12.75
   versions:
   - 1.11.132
   - 1.11.133
@@ -983,4 +983,5 @@ versioning:
   - 1.12.72
   - 1.12.73
   - 1.12.74
-  lastUpdated: 20210924200015
+  - 1.12.75
+  lastUpdated: 20210927202210
