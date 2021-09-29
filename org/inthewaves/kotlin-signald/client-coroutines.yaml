@@ -3,8 +3,8 @@
 groupId: org.inthewaves.kotlin-signald
 artifactId: client-coroutines
 versioning:
-  latest: 0.14.1
-  release: 0.14.1
+  latest: 0.15.1+signald-0.14.1-44-4cabeeb5
+  release: 0.15.1+signald-0.14.1-44-4cabeeb5
   versions:
   - 0.6.0
   - 0.7.0
@@ -16,4 +16,6 @@ versioning:
   - 0.13.0
   - 0.14.0
   - 0.14.1
-  lastUpdated: 20210906073216
+  - 0.15.0+signald-0.14.1-44-4cabeeb5
+  - 0.15.1+signald-0.14.1-44-4cabeeb5
+  lastUpdated: 20210928200533

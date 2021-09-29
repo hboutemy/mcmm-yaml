@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.identity.application.auth.basic
 artifactId: org.wso2.carbon.identity.application.authenticator.basicauth.server.feature
 versioning:
-  latest: 6.3.45
-  release: 6.3.45
+  latest: 6.3.47
+  release: 6.3.47
   versions:
   - 5.2.0
   - 5.2.1
@@ -78,4 +78,6 @@ versioning:
   - 6.3.43
   - 6.3.44
   - 6.3.45
-  lastUpdated: 20210923133141
+  - 6.3.46
+  - 6.3.47
+  lastUpdated: 20210928142705
