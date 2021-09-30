@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-sql-connector-hive-2.3.6_2.12
 versioning:
-  latest: 1.13.2
-  release: 1.13.2
+  latest: 1.14.0
+  release: 1.14.0
   versions:
   - 1.11.0
   - 1.11.1
@@ -20,4 +20,5 @@ versioning:
   - 1.13.0
   - 1.13.1
   - 1.13.2
-  lastUpdated: 20210805072005
+  - 1.14.0
+  lastUpdated: 20210929025824

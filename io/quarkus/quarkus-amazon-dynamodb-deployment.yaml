@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-amazon-dynamodb-deployment
 versioning:
-  latest: 2.3.0.CR1
-  release: 2.3.0.CR1
+  latest: 2.3.0.Final
+  release: 2.3.0.Final
   versions:
   - 0.19.0
   - 0.19.1
@@ -124,4 +124,5 @@ versioning:
   - 2.2.2.Final
   - 2.2.3.Final
   - 2.3.0.CR1
-  lastUpdated: 20210922095729
+  - 2.3.0.Final
+  lastUpdated: 20210929155923

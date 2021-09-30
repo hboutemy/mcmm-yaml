@@ -3,8 +3,8 @@
 groupId: org.hibernate
 artifactId: hibernate-testing-jakarta
 versioning:
-  latest: 5.6.0.Beta2
-  release: 5.6.0.Beta2
+  latest: 5.6.0.CR1
+  release: 5.6.0.CR1
   versions:
   - 5.5.0.Beta1
   - 5.5.0.CR1
@@ -17,5 +17,6 @@ versioning:
   - 5.5.7.Final
   - 5.6.0.Beta1
   - 5.6.0.Beta2
+  - 5.6.0.CR1
   - 5.5.6.Final
-  lastUpdated: 20210920224855
+  lastUpdated: 20210929135619

@@ -3,11 +3,13 @@
 groupId: com.amazon.emr
 artifactId: hive2-shims
 versioning:
-  latest: 4.14.0
-  release: 4.14.0
+  latest: 4.16.0
+  release: 4.16.0
   versions:
   - 4.13.0
   - 4.14.0
+  - 4.15.0
+  - 4.16.0
   - 4.10.0
   - 4.11.0
   - 4.12.0
@@ -19,4 +21,4 @@ versioning:
   - 4.7.0
   - 4.8.0
   - 4.9.0
-  lastUpdated: 20200715192727
+  lastUpdated: 20210928235333

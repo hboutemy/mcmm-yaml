@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-quickstart-scala
 versioning:
-  latest: 1.13.2
-  release: 1.13.2
+  latest: 1.14.0
+  release: 1.14.0
   versions:
   - 0.6-hadoop2-incubating
   - 0.6-incubating
@@ -97,4 +97,5 @@ versioning:
   - 1.13.0
   - 1.13.1
   - 1.13.2
-  lastUpdated: 20210805071944
+  - 1.14.0
+  lastUpdated: 20210929025750

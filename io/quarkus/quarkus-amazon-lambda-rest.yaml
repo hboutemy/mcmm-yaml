@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-amazon-lambda-rest
 versioning:
-  latest: 2.3.0.CR1
-  release: 2.3.0.CR1
+  latest: 2.3.0.Final
+  release: 2.3.0.Final
   versions:
   - 1.13.0.CR1
   - 1.13.0.Final
@@ -37,4 +37,5 @@ versioning:
   - 2.2.2.Final
   - 2.2.3.Final
   - 2.3.0.CR1
-  lastUpdated: 20210922095733
+  - 2.3.0.Final
+  lastUpdated: 20210929155927
