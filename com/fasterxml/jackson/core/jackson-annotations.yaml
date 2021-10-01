@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.fasterxml.jackson.core
 artifactId: jackson-annotations
 versioning:
-  latest: 2.13.0-rc2
-  release: 2.13.0-rc2
+  latest: 2.13.0
+  release: 2.13.0
   versions:
   - 2.0.0-RC1
   - 2.0.0-RC2
@@ -130,4 +130,5 @@ versioning:
   - 2.12.5
   - 2.13.0-rc1
   - 2.13.0-rc2
-  lastUpdated: 20210827033050
+  - 2.13.0
+  lastUpdated: 20210930194717
