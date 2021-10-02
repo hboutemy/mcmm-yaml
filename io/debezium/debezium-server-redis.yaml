@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-server-redis
 versioning:
-  latest: 1.7.0.CR2
-  release: 1.7.0.CR2
+  latest: 1.7.0.Final
+  release: 1.7.0.Final
   versions:
   - 1.5.0.Final
   - 1.5.1.Final
@@ -22,4 +22,5 @@ versioning:
   - 1.7.0.Beta1
   - 1.7.0.CR1
   - 1.7.0.CR2
-  lastUpdated: 20210923070414
+  - 1.7.0.Final
+  lastUpdated: 20211001110345
