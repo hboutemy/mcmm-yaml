@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-domains
 versioning:
-  latest: v1beta1-rev20210412-1.32.1
-  release: v1beta1-rev20210412-1.32.1
+  latest: v1beta1-rev20210927-1.32.1
+  release: v1beta1-rev20210927-1.32.1
   versions:
   - v1alpha2-rev20201013-1.30.10
   - v1alpha2-rev20201029-1.30.10
@@ -23,4 +23,5 @@ versioning:
   - v1beta1-rev20210412-1.31.0
   - v1beta1-rev20210412-1.31.5
   - v1beta1-rev20210412-1.32.1
-  lastUpdated: 20210702212009
+  - v1beta1-rev20210927-1.32.1
+  lastUpdated: 20211002200634
