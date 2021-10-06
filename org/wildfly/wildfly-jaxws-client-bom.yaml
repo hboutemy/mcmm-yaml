@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-jaxws-client-bom
 versioning:
-  latest: 25.0.0.Beta1
-  release: 25.0.0.Beta1
+  latest: 25.0.0.Final
+  release: 25.0.0.Final
   versions:
   - 15.0.0.Beta1
   - 15.0.0.Final
@@ -43,4 +43,5 @@ versioning:
   - 24.0.0.SP1
   - 24.0.1.Final
   - 25.0.0.Beta1
-  lastUpdated: 20210920135758
+  - 25.0.0.Final
+  lastUpdated: 20211004190702

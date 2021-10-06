@@ -3,8 +3,8 @@
 groupId: com.teamscale
 artifactId: teamscale-bom
 versioning:
-  latest: 7.4.0-rc1
-  release: 7.4.0-rc1
+  latest: 7.4.0-rc2
+  release: 7.4.0-rc2
   versions:
   - 5.9.0-rc1
   - 5.9.0-rc3
@@ -175,6 +175,7 @@ versioning:
   - 7.2.7
   - 7.2.8
   - 7.2.9
+  - 7.2.10
   - 7.3.0-rc1
   - 7.3.0-rc2
   - 7.3.0-rc3
@@ -182,5 +183,7 @@ versioning:
   - 7.3.1
   - 7.3.2
   - 7.3.3
+  - 7.3.4
   - 7.4.0-rc1
-  lastUpdated: 20210929175614
+  - 7.4.0-rc2
+  lastUpdated: 20211005161302
