@@ -3,8 +3,8 @@
 groupId: org.tensorflow
 artifactId: tensorflow-lite-gpu
 versioning:
-  latest: 2.6.0
-  release: 2.6.0
+  latest: 2.7.0-rc0
+  release: 2.7.0-rc0
   versions:
   - 1.14.0
   - 1.15.0
@@ -15,4 +15,5 @@ versioning:
   - 2.4.0
   - 2.5.0
   - 2.6.0
-  lastUpdated: 20210818085933
+  - 2.7.0-rc0
+  lastUpdated: 20211008063059

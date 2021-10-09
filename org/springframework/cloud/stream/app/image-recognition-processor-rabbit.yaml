@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud.stream.app
 artifactId: image-recognition-processor-rabbit
 versioning:
-  latest: 3.0.2
-  release: 3.0.2
+  latest: 3.1.0
+  release: 3.1.0
   versions:
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
@@ -18,4 +18,5 @@ versioning:
   - 3.0.0
   - 3.0.1
   - 3.0.2
-  lastUpdated: 20210528152659
+  - 3.1.0
+  lastUpdated: 20211008221018

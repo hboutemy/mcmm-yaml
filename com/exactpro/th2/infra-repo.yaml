@@ -3,8 +3,8 @@
 groupId: com.exactpro.th2
 artifactId: infra-repo
 versioning:
-  latest: 1.1.0-beta
-  release: 1.1.0-beta
+  latest: 1.1.0-beta-001
+  release: 1.1.0-beta-001
   versions:
   - 1.0.5
   - 1.0.6
@@ -31,4 +31,5 @@ versioning:
   - 1.0.15-cassandra-config
   - 1.0.15-cassandra-config-2
   - 1.1.0-beta
-  lastUpdated: 20210817093815
+  - 1.1.0-beta-001
+  lastUpdated: 20211008144429
