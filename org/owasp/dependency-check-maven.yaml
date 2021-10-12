@@ -3,8 +3,8 @@
 groupId: org.owasp
 artifactId: dependency-check-maven
 versioning:
-  latest: 6.3.2
-  release: 6.3.2
+  latest: 6.4.1
+  release: 6.4.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -100,4 +100,6 @@ versioning:
   - 6.3.0
   - 6.3.1
   - 6.3.2
-  lastUpdated: 20210929123146
+  - 6.4.0
+  - 6.4.1
+  lastUpdated: 20211011213057

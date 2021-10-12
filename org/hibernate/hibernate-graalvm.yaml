@@ -3,8 +3,8 @@
 groupId: org.hibernate
 artifactId: hibernate-graalvm
 versioning:
-  latest: 6.0.0.Alpha9
-  release: 6.0.0.Alpha9
+  latest: 6.0.0.Beta1
+  release: 6.0.0.Beta1
   versions:
   - 5.4.12.Final
   - 5.4.13.Final
@@ -41,10 +41,12 @@ versioning:
   - 5.6.0.Beta1
   - 5.6.0.Beta2
   - 5.6.0.CR1
+  - 5.6.0.Final
   - 6.0.0.Alpha5
   - 6.0.0.Alpha6
   - 6.0.0.Alpha7
   - 6.0.0.Alpha8
   - 6.0.0.Alpha9
+  - 6.0.0.Beta1
   - 5.5.6.Final
-  lastUpdated: 20210929135606
+  lastUpdated: 20211011213206
