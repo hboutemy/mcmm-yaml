@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.plugins
 artifactId: nexus-restore-apt
 versioning:
-  latest: 3.34.1-01
-  release: 3.34.1-01
+  latest: 3.35.0-02
+  release: 3.35.0-02
   versions:
   - 3.17.0-01
   - 3.17.1-01
@@ -58,4 +58,5 @@ versioning:
   - 3.33.1-01
   - 3.34.0-01
   - 3.34.1-01
-  lastUpdated: 20210922163841
+  - 3.35.0-02
+  lastUpdated: 20211012114156

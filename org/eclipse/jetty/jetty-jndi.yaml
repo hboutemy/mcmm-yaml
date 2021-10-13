@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty
 artifactId: jetty-jndi
 versioning:
-  latest: 11.0.6
-  release: 11.0.6
+  latest: 11.0.7
+  release: 11.0.7
   versions:
   - 7.0.0.M0
   - 7.0.0.M1
@@ -311,6 +311,7 @@ versioning:
   - 10.0.4
   - 10.0.5
   - 10.0.6
+  - 10.0.7
   - 11.0.0-alpha0
   - 11.0.0.beta1
   - 11.0.0.beta2
@@ -322,4 +323,5 @@ versioning:
   - 11.0.4
   - 11.0.5
   - 11.0.6
-  lastUpdated: 20211006155720
+  - 11.0.7
+  lastUpdated: 20211012153517

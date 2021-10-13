@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud
 artifactId: spring-cloud-deployer-resource-docker
 versioning:
-  latest: 2.6.2
-  release: 2.6.2
+  latest: 2.7.0
+  release: 2.7.0
   versions:
   - 1.0.0.RELEASE
   - 1.0.1.RELEASE
@@ -47,4 +47,6 @@ versioning:
   - 2.6.0
   - 2.6.1
   - 2.6.2
-  lastUpdated: 20210830093248
+  - 2.6.3
+  - 2.7.0
+  lastUpdated: 20211012125552
