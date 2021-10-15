@@ -3,8 +3,8 @@
 groupId: net.nemerosa.ontrack
 artifactId: ontrack-postgresql-migration
 versioning:
-  latest: 4.0.44
-  release: 4.0.44
+  latest: 4.0.45
+  release: 4.0.45
   versions:
   - feature-732-back-to-central-5e58285
   - feature-735-ui-publication-7c8bc12
@@ -334,4 +334,5 @@ versioning:
   - 4.0.42
   - 4.0.43
   - 4.0.44
-  lastUpdated: 20211013081532
+  - 4.0.45
+  lastUpdated: 20211014151208
