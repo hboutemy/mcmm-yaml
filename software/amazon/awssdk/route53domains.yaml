@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: route53domains
 versioning:
-  latest: 2.17.60
-  release: 2.17.60
+  latest: 2.17.61
+  release: 2.17.61
   versions:
   - 2.0.0-preview-11
   - 2.0.0-preview-12
@@ -656,4 +656,5 @@ versioning:
   - 2.17.58
   - 2.17.59
   - 2.17.60
-  lastUpdated: 20211014192242
+  - 2.17.61
+  lastUpdated: 20211015205235
