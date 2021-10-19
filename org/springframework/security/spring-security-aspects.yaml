@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.security
 artifactId: spring-security-aspects
 versioning:
-  latest: 5.5.2
-  release: 5.5.2
+  latest: 5.5.3
+  release: 5.5.3
   versions:
   - 3.0.5.RELEASE
   - 3.0.6.RELEASE
@@ -109,6 +109,7 @@ versioning:
   - 5.2.10.RELEASE
   - 5.2.11.RELEASE
   - 5.2.12.RELEASE
+  - 5.2.13.RELEASE
   - 5.3.0.RELEASE
   - 5.3.1.RELEASE
   - 5.3.2.RELEASE
@@ -121,6 +122,7 @@ versioning:
   - 5.3.9.RELEASE
   - 5.3.10.RELEASE
   - 5.3.11.RELEASE
+  - 5.3.12.RELEASE
   - 5.4.0
   - 5.4.1
   - 5.4.2
@@ -130,7 +132,9 @@ versioning:
   - 5.4.6
   - 5.4.7
   - 5.4.8
+  - 5.4.9
   - 5.5.0
   - 5.5.1
   - 5.5.2
-  lastUpdated: 20210816183147
+  - 5.5.3
+  lastUpdated: 20211018233749

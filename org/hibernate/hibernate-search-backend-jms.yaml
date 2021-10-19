@@ -3,9 +3,11 @@
 groupId: org.hibernate
 artifactId: hibernate-search-backend-jms
 versioning:
-  latest: 5.11.9.Final
-  release: 5.11.9.Final
+  latest: 5.11.10.Final
+  release: 5.11.10.Final
   versions:
+  - 5.10.12.Final
+  - 5.11.10.Final
   - 5.0.0.Alpha1
   - 5.0.0.Alpha2
   - 5.0.0.Alpha3
@@ -23,6 +25,32 @@ versioning:
   - 5.1.0.Final
   - 5.1.1.Final
   - 5.1.2.Final
+  - 5.10.0.Beta1
+  - 5.10.0.Beta2
+  - 5.10.0.CR1
+  - 5.10.0.Final
+  - 5.10.1.Final
+  - 5.10.10.Final
+  - 5.10.11.Final
+  - 5.10.2.Final
+  - 5.10.3.Final
+  - 5.10.4.Final
+  - 5.10.5.Final
+  - 5.10.6.Final
+  - 5.10.7.Final
+  - 5.10.8.Final
+  - 5.10.9.Final
+  - 5.11.0.CR1
+  - 5.11.0.Final
+  - 5.11.1.Final
+  - 5.11.2.Final
+  - 5.11.3.Final
+  - 5.11.4.Final
+  - 5.11.5.Final
+  - 5.11.6.Final
+  - 5.11.7.Final
+  - 5.11.8.Final
+  - 5.11.9.Final
   - 5.2.0.Beta1
   - 5.2.0.Final
   - 5.2.1.Final
@@ -81,30 +109,4 @@ versioning:
   - 5.9.1.Final
   - 5.9.2.Final
   - 5.9.3.Final
-  - 5.10.0.Beta1
-  - 5.10.0.Beta2
-  - 5.10.0.CR1
-  - 5.10.0.Final
-  - 5.10.1.Final
-  - 5.10.2.Final
-  - 5.10.3.Final
-  - 5.10.4.Final
-  - 5.10.5.Final
-  - 5.10.6.Final
-  - 5.10.7.Final
-  - 5.10.8.Final
-  - 5.10.9.Final
-  - 5.10.10.Final
-  - 5.10.11.Final
-  - 5.11.0.CR1
-  - 5.11.0.Final
-  - 5.11.1.Final
-  - 5.11.2.Final
-  - 5.11.3.Final
-  - 5.11.4.Final
-  - 5.11.5.Final
-  - 5.11.6.Final
-  - 5.11.7.Final
-  - 5.11.8.Final
-  - 5.11.9.Final
-  lastUpdated: 20210505145013
+  lastUpdated: 20211018101527
