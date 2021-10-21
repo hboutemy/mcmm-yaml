@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-jdbc-h2-parent
 versioning:
-  latest: 2.4.0.CR1
-  release: 2.4.0.CR1
+  latest: 2.4.0.Final
+  release: 2.4.0.Final
   versions:
   - 0.11.0
   - 0.12.0
@@ -139,4 +139,5 @@ versioning:
   - 2.3.0.Final
   - 2.3.1.Final
   - 2.4.0.CR1
-  lastUpdated: 20211019190921
+  - 2.4.0.Final
+  lastUpdated: 20211020092253

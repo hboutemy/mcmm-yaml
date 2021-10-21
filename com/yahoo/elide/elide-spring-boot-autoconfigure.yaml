@@ -3,8 +3,8 @@
 groupId: com.yahoo.elide
 artifactId: elide-spring-boot-autoconfigure
 versioning:
-  latest: 6.0.0-pr5
-  release: 6.0.0-pr5
+  latest: 6.0.0-pr6
+  release: 6.0.0-pr6
   versions:
   - 4.5.7
   - 4.5.8
@@ -28,6 +28,7 @@ versioning:
   - 4.6.11
   - 4.7.0
   - 4.7.2
+  - 4.8.0
   - 5.0.0
   - 5.0.0-pr29
   - 5.0.0-pr30
@@ -45,7 +46,9 @@ versioning:
   - 5.0.10
   - 5.0.11
   - 5.0.12
+  - 5.1.0
   - 6.0.0-pr3
   - 6.0.0-pr4
   - 6.0.0-pr5
-  lastUpdated: 20211008151440
+  - 6.0.0-pr6
+  lastUpdated: 20211020222304

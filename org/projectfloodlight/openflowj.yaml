@@ -3,8 +3,8 @@
 groupId: org.projectfloodlight
 artifactId: openflowj
 versioning:
-  latest: 3.6.603
-  release: 3.6.603
+  latest: 3.6.604
+  release: 3.6.604
   versions:
   - 3.5.bcf-4.7.x.2
   - 3.5.bcf-4.7.x.3
@@ -58,6 +58,9 @@ versioning:
   - 3.5.559
   - 3.5.560
   - 3.5.564
+  - 3.6.1
+  - 3.6.2
+  - 3.6.3
   - 3.6.565
   - 3.6.566
   - 3.6.567
@@ -97,4 +100,5 @@ versioning:
   - 3.6.601
   - 3.6.602
   - 3.6.603
-  lastUpdated: 20210927225122
+  - 3.6.604
+  lastUpdated: 20211020164149

@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-core-testbom
 versioning:
-  latest: 18.0.0.Beta1
-  release: 18.0.0.Beta1
+  latest: 18.0.0.Beta2
+  release: 18.0.0.Beta2
   versions:
   - 16.0.0.Beta4
   - 16.0.0.Beta5
@@ -20,4 +20,5 @@ versioning:
   - 17.0.0.Final
   - 17.0.1.Final
   - 18.0.0.Beta1
-  lastUpdated: 20211007111822
+  - 18.0.0.Beta2
+  lastUpdated: 20211020124328

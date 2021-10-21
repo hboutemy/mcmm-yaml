@@ -3,17 +3,13 @@
 groupId: org.hibernate
 artifactId: hibernate-search-jbossmodules-backend-jgroups
 versioning:
-  latest: 5.11.10.Final
-  release: 5.11.10.Final
+  latest: 5.11.9.Final
+  release: 5.11.9.Final
   versions:
-  - 5.10.12.Final
-  - 5.11.10.Final
   - 5.10.0.Beta2
   - 5.10.0.CR1
   - 5.10.0.Final
   - 5.10.1.Final
-  - 5.10.10.Final
-  - 5.10.11.Final
   - 5.10.2.Final
   - 5.10.3.Final
   - 5.10.4.Final
@@ -22,6 +18,8 @@ versioning:
   - 5.10.7.Final
   - 5.10.8.Final
   - 5.10.9.Final
+  - 5.10.10.Final
+  - 5.10.11.Final
   - 5.11.0.CR1
   - 5.11.0.Final
   - 5.11.1.Final
@@ -33,4 +31,6 @@ versioning:
   - 5.11.7.Final
   - 5.11.8.Final
   - 5.11.9.Final
-  lastUpdated: 20211018101530
+  - 5.10.12.Final
+  - 5.11.10.Final
+  lastUpdated: 20210505145015

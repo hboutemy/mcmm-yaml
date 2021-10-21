@@ -3,8 +3,8 @@
 groupId: com.yahoo.elide
 artifactId: elide-datastore-hibernate5
 versioning:
-  latest: 5.0.12
-  release: 5.0.12
+  latest: 5.1.0
+  release: 5.1.0
   versions:
   - 1.0.0.6
   - 1.0.0.7
@@ -158,6 +158,7 @@ versioning:
   - 4.6.11
   - 4.7.0
   - 4.7.2
+  - 4.8.0
   - 5.0.0
   - 5.0.0-pr29
   - 5.0.0-pr30
@@ -175,4 +176,5 @@ versioning:
   - 5.0.10
   - 5.0.11
   - 5.0.12
-  lastUpdated: 20210913204630
+  - 5.1.0
+  lastUpdated: 20211020150907

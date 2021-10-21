@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-core-feature-pack-galleon-common
 versioning:
-  latest: 18.0.0.Beta1
-  release: 18.0.0.Beta1
+  latest: 18.0.0.Beta2
+  release: 18.0.0.Beta2
   versions:
   - 13.0.0.Beta1
   - 13.0.0.Beta2
@@ -43,4 +43,5 @@ versioning:
   - 17.0.0.Final
   - 17.0.1.Final
   - 18.0.0.Beta1
-  lastUpdated: 20211007111750
+  - 18.0.0.Beta2
+  lastUpdated: 20211020124321

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.micronaut.grpc
 artifactId: micronaut-grpc-server-runtime
 versioning:
-  latest: 3.0.0
-  release: 3.0.0
+  latest: 3.0.1
+  release: 3.0.1
   versions:
   - 2.0.0.M3
   - 2.0.0.M4
@@ -23,4 +23,5 @@ versioning:
   - 2.5.0
   - 3.0.0.RC1
   - 3.0.0
-  lastUpdated: 20210817191443
+  - 3.0.1
+  lastUpdated: 20211020112518

@@ -3,8 +3,8 @@
 groupId: io.github.altimedia-cloud
 artifactId: clientSDK
 versioning:
-  latest: 99.58-uhdRelease
-  release: 99.58-uhdRelease
+  latest: 99.59-uhdRelease
+  release: 99.59-uhdRelease
   versions:
   - 1.26-tvgRelease
   - 1.26-uhdRelease
@@ -162,4 +162,8 @@ versioning:
   - 99.58-tvgRelease
   - 99.58-uhdDebug
   - 99.58-uhdRelease
-  lastUpdated: 20211018081746
+  - 99.59-tvgDebug
+  - 99.59-tvgRelease
+  - 99.59-uhdDebug
+  - 99.59-uhdRelease
+  lastUpdated: 20211020114922
