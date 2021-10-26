@@ -3,8 +3,8 @@
 groupId: com.github.stephengold
 artifactId: Minie
 versioning:
-  latest: 4.4.0+mt
-  release: 4.4.0+mt
+  latest: 4.5.0-test1+dp
+  release: 4.5.0-test1+dp
   versions:
   - 1.6.0+debugfor32
   - 1.6.0+for32
@@ -70,4 +70,8 @@ versioning:
   - 4.4.0+debugdp
   - 4.4.0+dp
   - 4.4.0+mt
-  lastUpdated: 20211001200758
+  - 4.5.0-test1
+  - 4.5.0-test1+debug
+  - 4.5.0-test1+debugdp
+  - 4.5.0-test1+dp
+  lastUpdated: 20211025210739

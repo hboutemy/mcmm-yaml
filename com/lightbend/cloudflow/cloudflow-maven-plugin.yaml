@@ -3,8 +3,8 @@
 groupId: com.lightbend.cloudflow
 artifactId: cloudflow-maven-plugin
 versioning:
-  latest: 2.3.0-RC4
-  release: 2.3.0-RC4
+  latest: 2.3.0-RC9
+  release: 2.3.0-RC9
   versions:
   - 2.1.0-NIGHTLY20210525
   - 2.1.1
@@ -127,8 +127,11 @@ versioning:
   - 2.2.2-NIGHTLY20211004
   - 2.2.2-NIGHTLY20211011
   - 2.2.2-NIGHTLY20211018
+  - 2.2.2-NIGHTLY20211025
   - 2.3.0-RC1
   - 2.3.0-RC2
   - 2.3.0-RC3
   - 2.3.0-RC4
-  lastUpdated: 20211018001445
+  - 2.3.0-RC8
+  - 2.3.0-RC9
+  lastUpdated: 20211025161242
