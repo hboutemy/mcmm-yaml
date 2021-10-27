@@ -3,8 +3,8 @@
 groupId: org.glowroot
 artifactId: glowroot-agent
 versioning:
-  latest: 0.13.6
-  release: 0.13.6
+  latest: 0.14.0-beta
+  release: 0.14.0-beta
   versions:
   - 0.8.5
   - 0.8.6
@@ -61,4 +61,5 @@ versioning:
   - 0.13.4
   - 0.13.5
   - 0.13.6
-  lastUpdated: 20200301034822
+  - 0.14.0-beta
+  lastUpdated: 20211026025835
