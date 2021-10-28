@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-universe-bom
 versioning:
-  latest: 2.4.0.CR1
-  release: 2.4.0.CR1
+  latest: 2.4.0.Final
+  release: 2.4.0.Final
   versions:
   - 0.0.2
   - 0.0.3
@@ -75,6 +75,7 @@ versioning:
   - 2.3.0.Final
   - 2.3.1.Final
   - 2.4.0.CR1
+  - 2.4.0.Final
   - 1.11.0.Final
   - 1.11.1.Final
   - 1.11.2.Final
@@ -87,4 +88,4 @@ versioning:
   - 1.13.0.Final
   - 1.13.1.Final
   - 1.13.2.Final
-  lastUpdated: 20211020065245
+  lastUpdated: 20211027072844

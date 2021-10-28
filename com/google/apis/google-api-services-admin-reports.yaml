@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-admin-reports
 versioning:
-  latest: reports_v1-rev20210827-1.32.1
-  release: reports_v1-rev20210827-1.32.1
+  latest: reports_v1-rev20211026-1.32.1
+  release: reports_v1-rev20211026-1.32.1
   versions:
   - reports_v1-rev11-1.17.0-rc
   - reports_v1-rev12-1.17.0-rc
@@ -218,4 +218,5 @@ versioning:
   - reports_v1-rev20210713-1.32.1
   - reports_v1-rev20210720-1.32.1
   - reports_v1-rev20210827-1.32.1
-  lastUpdated: 20210901195924
+  - reports_v1-rev20211026-1.32.1
+  lastUpdated: 20211027195958

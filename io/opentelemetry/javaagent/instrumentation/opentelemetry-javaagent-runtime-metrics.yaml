@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-runtime-metrics
 versioning:
-  latest: 1.7.0-alpha
-  release: 1.7.0-alpha
+  latest: 1.7.1-alpha
+  release: 1.7.1-alpha
   versions:
   - 0.17.0-alpha
   - 1.0.0-alpha
@@ -23,4 +23,5 @@ versioning:
   - 1.6.1-alpha
   - 1.6.2-alpha
   - 1.7.0-alpha
-  lastUpdated: 20211019202127
+  - 1.7.1-alpha
+  lastUpdated: 20211027222833

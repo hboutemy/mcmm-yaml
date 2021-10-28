@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: timestamp-impl
 versioning:
-  latest: 0.456.0-rc1
-  release: 0.456.0-rc1
+  latest: 0.456.0-rc2
+  release: 0.456.0-rc2
   versions:
   - 0.311.6
   - 0.311.7
@@ -174,4 +174,5 @@ versioning:
   - 0.453.0
   - 0.455.0
   - 0.456.0-rc1
-  lastUpdated: 20211026173556
+  - 0.456.0-rc2
+  lastUpdated: 20211027152602
