@@ -3,8 +3,8 @@
 groupId: ca.uhn.hapi.fhir
 artifactId: hapi-fhir-bom
 versioning:
-  latest: 5.5.1
-  release: 5.5.1
+  latest: 5.5.3
+  release: 5.5.3
   versions:
   - 4.0.0
   - 4.0.1
@@ -26,4 +26,6 @@ versioning:
   - 5.4.2
   - 5.5.0
   - 5.5.1
-  lastUpdated: 20210901183426
+  - 5.5.2
+  - 5.5.3
+  lastUpdated: 20211028231150

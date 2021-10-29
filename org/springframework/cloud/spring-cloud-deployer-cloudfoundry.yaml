@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud
 artifactId: spring-cloud-deployer-cloudfoundry
 versioning:
-  latest: 2.7.0
-  release: 2.7.0
+  latest: 2.7.1
+  release: 2.7.1
   versions:
   - 1.0.0.RELEASE
   - 1.0.1.RELEASE
@@ -52,5 +52,7 @@ versioning:
   - 2.6.1
   - 2.6.2
   - 2.6.3
+  - 2.6.4
   - 2.7.0
-  lastUpdated: 20211012125551
+  - 2.7.1
+  lastUpdated: 20211028124207
