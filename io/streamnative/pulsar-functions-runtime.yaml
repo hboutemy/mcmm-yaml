@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-functions-runtime
 versioning:
-  latest: 2.10.0-rc-202110292205
-  release: 2.10.0-rc-202110292205
+  latest: 2.10.0-rc-202110302205
+  release: 2.10.0-rc-202110302205
   versions:
   - v2.8.0-rc-202106091140
   - v2.8.0-rc-202106121853
@@ -121,6 +121,7 @@ versioning:
   - 2.8.1.15
   - 2.8.1.16
   - 2.8.1.17
+  - 2.8.1.18
   - 2.9.0.0-rc-1
   - 2.9.0-rc-20211015-1
   - 2.9.0-rc-202106092205
@@ -248,4 +249,5 @@ versioning:
   - 2.10.0-rc-202110272205
   - 2.10.0-rc-202110282205
   - 2.10.0-rc-202110292205
-  lastUpdated: 20211029223557
+  - 2.10.0-rc-202110302205
+  lastUpdated: 20211030223416

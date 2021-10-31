@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-servicedirectory
 versioning:
-  latest: v1-rev20210811-1.32.1
-  release: v1-rev20210811-1.32.1
+  latest: v1-rev20211015-1.32.1
+  release: v1-rev20211015-1.32.1
   versions:
   - v1beta1-rev2-1.18.0-rc
   - v1beta1-rev2-1.25.0
@@ -33,6 +33,7 @@ versioning:
   - v1beta1-rev20210512-1.32.1
   - v1beta1-rev20210716-1.32.1
   - v1beta1-rev20210811-1.32.1
+  - v1beta1-rev20211015-1.32.1
   - v1-rev20201112-1.31.0
   - v1-rev20210127-1.31.0
   - v1-rev20210203-1.31.0
@@ -43,4 +44,5 @@ versioning:
   - v1-rev20210407-1.32.1
   - v1-rev20210716-1.32.1
   - v1-rev20210811-1.32.1
-  lastUpdated: 20210822200816
+  - v1-rev20211015-1.32.1
+  lastUpdated: 20211030201726
