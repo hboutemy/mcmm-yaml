@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: us.abstracta.jmeter
 artifactId: jmeter-java-dsl-blazemeter
 versioning:
-  latest: 028
-  release: 028
+  latest: 0.28
+  release: 0.28
   versions:
   - 0.2
   - 0.3
@@ -36,4 +37,4 @@ versioning:
   - 0.27
   - 0.28
   - 028
-  lastUpdated: 20211028210103
+  lastUpdated: 20211031150543
