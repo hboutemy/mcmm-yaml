@@ -3,8 +3,8 @@
 groupId: org.apache.httpcomponents.client5
 artifactId: httpclient5-cache
 versioning:
-  latest: 5.1.1
-  release: 5.1.1
+  latest: 5.2-alpha1
+  release: 5.2-alpha1
   versions:
   - 5.0-alpha1
   - 5.0-alpha2
@@ -24,4 +24,5 @@ versioning:
   - 5.1-beta1
   - 5.1
   - 5.1.1
-  lastUpdated: 20211025204949
+  - 5.2-alpha1
+  lastUpdated: 20211101170214
