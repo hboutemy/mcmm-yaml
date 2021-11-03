@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-datafusion
 versioning:
-  latest: v1-rev20210628-1.32.1
-  release: v1-rev20210628-1.32.1
+  latest: v1-rev20211028-1.32.1
+  release: v1-rev20211028-1.32.1
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.22.0
@@ -60,6 +60,7 @@ versioning:
   - v1beta1-rev20210322-1.31.5
   - v1beta1-rev20210628-1.31.5
   - v1beta1-rev20210628-1.32.1
+  - v1beta1-rev20211028-1.32.1
   - v1-rev20200609-1.30.10
   - v1-rev20200803-1.30.10
   - v1-rev20200901-1.30.10
@@ -71,4 +72,5 @@ versioning:
   - v1-rev20210322-1.31.5
   - v1-rev20210628-1.31.5
   - v1-rev20210628-1.32.1
-  lastUpdated: 20210702210110
+  - v1-rev20211028-1.32.1
+  lastUpdated: 20211102200524

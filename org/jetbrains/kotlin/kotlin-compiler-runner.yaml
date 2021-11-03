@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin
 artifactId: kotlin-compiler-runner
 versioning:
-  latest: 1.6.0-RC
-  release: 1.6.0-RC
+  latest: 1.6.0-RC2
+  release: 1.6.0-RC2
   versions:
   - 0.9.0-native
   - 0.9.1-native
@@ -85,4 +85,5 @@ versioning:
   - 1.5.31
   - 1.6.0-M1
   - 1.6.0-RC
-  lastUpdated: 20211012092828
+  - 1.6.0-RC2
+  lastUpdated: 20211102140804

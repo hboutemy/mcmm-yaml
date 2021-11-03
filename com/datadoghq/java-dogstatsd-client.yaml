@@ -3,8 +3,8 @@
 groupId: com.datadoghq
 artifactId: java-dogstatsd-client
 versioning:
-  latest: 2.13.0
-  release: 2.13.0
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 2.1.0
   - 2.1.1
@@ -26,4 +26,5 @@ versioning:
   - 2.10.5
   - 2.11.0
   - 2.13.0
-  lastUpdated: 20210609194101
+  - 3.0.0
+  lastUpdated: 20211102201253

@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: io.gitlab.arturbosch.detekt
 artifactId: detekt-api
 versioning:
@@ -10,7 +11,7 @@ versioning:
   - 1.0.0.RC8-beta
   - 1.0.0.RC8
   - 1.0.0.RC9.2
-  - 1.0.0.RC10
+  - 1.0.0-RC10
   - 1.0.0-RC11
   - 1.0.0-RC13
   - 1.0.0-RC14
@@ -73,5 +74,5 @@ versioning:
   - 1.18.0
   - 1.18.1
   - 1.19.0-RC1
-  - 1.0.0-RC10
-  lastUpdated: 20211031172740
+  - 1.0.0.RC10
+  lastUpdated: 20211102144020
