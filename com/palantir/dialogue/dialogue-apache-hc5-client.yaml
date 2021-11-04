@@ -3,8 +3,8 @@
 groupId: com.palantir.dialogue
 artifactId: dialogue-apache-hc5-client
 versioning:
-  latest: 3.25.0-rc1
-  release: 3.25.0-rc1
+  latest: 3.27.0
+  release: 3.27.0
   versions:
   - 1.60.1
   - 1.60.2
@@ -142,4 +142,7 @@ versioning:
   - 3.23.0
   - 3.24.0
   - 3.25.0-rc1
-  lastUpdated: 20211018162859
+  - 3.25.0
+  - 3.26.0
+  - 3.27.0
+  lastUpdated: 20211103180058

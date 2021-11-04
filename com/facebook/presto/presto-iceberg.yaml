@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-iceberg
 versioning:
-  latest: 0.264
-  release: 0.264
+  latest: 0.264.1
+  release: 0.264.1
   versions:
   - 0.254
   - 0.254.1
@@ -21,4 +21,5 @@ versioning:
   - 0.263
   - 0.263.1
   - 0.264
-  lastUpdated: 20211028210111
+  - 0.264.1
+  lastUpdated: 20211103022858

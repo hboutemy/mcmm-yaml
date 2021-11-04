@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-kafka
 versioning:
-  latest: 0.264
-  release: 0.264
+  latest: 0.264.1
+  release: 0.264.1
   versions:
   - 0.76
   - 0.77
@@ -235,4 +235,5 @@ versioning:
   - 0.263
   - 0.263.1
   - 0.264
-  lastUpdated: 20211028210119
+  - 0.264.1
+  lastUpdated: 20211103022906
