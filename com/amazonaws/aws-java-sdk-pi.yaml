@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-pi
 versioning:
-  latest: 1.12.102
-  release: 1.12.102
+  latest: 1.12.104
+  release: 1.12.104
   versions:
   - 1.11.338
   - 1.11.339
@@ -805,4 +805,6 @@ versioning:
   - 1.12.100
   - 1.12.101
   - 1.12.102
-  lastUpdated: 20211103195233
+  - 1.12.103
+  - 1.12.104
+  lastUpdated: 20211104230703

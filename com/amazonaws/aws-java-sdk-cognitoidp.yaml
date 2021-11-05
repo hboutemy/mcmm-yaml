@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-cognitoidp
 versioning:
-  latest: 1.12.102
-  release: 1.12.102
+  latest: 1.12.104
+  release: 1.12.104
   versions:
   - 1.10.70
   - 1.10.71
@@ -1153,4 +1153,6 @@ versioning:
   - 1.12.100
   - 1.12.101
   - 1.12.102
-  lastUpdated: 20211103195124
+  - 1.12.103
+  - 1.12.104
+  lastUpdated: 20211104230605

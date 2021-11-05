@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-akka-http-10.0
 versioning:
-  latest: 1.7.1-alpha
-  release: 1.7.1-alpha
+  latest: 1.8.0-alpha
+  release: 1.8.0-alpha
   versions:
   - 0.12.0
   - 0.12.1
@@ -33,4 +33,6 @@ versioning:
   - 1.6.2-alpha
   - 1.7.0-alpha
   - 1.7.1-alpha
-  lastUpdated: 20211027222454
+  - 1.7.2-alpha
+  - 1.8.0-alpha
+  lastUpdated: 20211104071755

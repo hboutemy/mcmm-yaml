@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-devicefarm
 versioning:
-  latest: 1.12.102
-  release: 1.12.102
+  latest: 1.12.104
+  release: 1.12.104
   versions:
   - 1.10.5
   - 1.10.5.1
@@ -1220,4 +1220,6 @@ versioning:
   - 1.12.100
   - 1.12.101
   - 1.12.102
-  lastUpdated: 20211103195129
+  - 1.12.103
+  - 1.12.104
+  lastUpdated: 20211104230610

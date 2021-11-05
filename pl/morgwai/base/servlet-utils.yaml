@@ -3,8 +3,8 @@
 groupId: pl.morgwai.base
 artifactId: servlet-utils
 versioning:
-  latest: 1.1-javax
-  release: 1.1-javax
+  latest: 1.2-javax
+  release: 1.2-javax
   versions:
   - 1.0-alpha2
   - 1.0-alpha3
@@ -12,4 +12,6 @@ versioning:
   - 1.0
   - 1.1-jakarta
   - 1.1-javax
-  lastUpdated: 20211024134134
+  - 1.2-jakarta
+  - 1.2-javax
+  lastUpdated: 20211104093338

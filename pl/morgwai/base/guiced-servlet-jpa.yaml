@@ -3,8 +3,8 @@
 groupId: pl.morgwai.base
 artifactId: guiced-servlet-jpa
 versioning:
-  latest: 3.0
-  release: 3.0
+  latest: 4.0-javax
+  release: 4.0-javax
   versions:
   - 1.0-alpha2
   - 1.0-alpha3
@@ -15,4 +15,6 @@ versioning:
   - 2.0-alpha1
   - 2.0
   - 3.0
-  lastUpdated: 20211001112958
+  - 4.0-jakarta-experimental
+  - 4.0-javax
+  lastUpdated: 20211104173529
