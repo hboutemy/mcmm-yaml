@@ -3,8 +3,8 @@
 groupId: com.alibaba.hbase
 artifactId: alihbase-connector
 versioning:
-  latest: 2.0.29.2
-  release: 2.0.29.2
+  latest: 2.1.0.2
+  release: 2.1.0.2
   versions:
   - 1.0.0
   - 1.0.1
@@ -47,6 +47,8 @@ versioning:
   - 1.0.28.1
   - 1.0.29
   - 1.0.29.1
+  - 1.1.0
+  - 1.1.0.1
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -97,4 +99,7 @@ versioning:
   - 2.0.29
   - 2.0.29.1
   - 2.0.29.2
-  lastUpdated: 20210928100943
+  - 2.1.0
+  - 2.1.0.1
+  - 2.1.0.2
+  lastUpdated: 20211105070254
