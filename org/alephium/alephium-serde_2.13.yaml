@@ -3,8 +3,8 @@
 groupId: org.alephium
 artifactId: alephium-serde_2.13
 versioning:
-  latest: 1.0.0-rc0
-  release: 1.0.0-rc0
+  latest: 1.0.0-rc2
+  release: 1.0.0-rc2
   versions:
   - 0.4.1
   - 0.4.2
@@ -58,4 +58,6 @@ versioning:
   - 0.11.4
   - 0.11.5
   - 1.0.0-rc0
-  lastUpdated: 20211106214934
+  - 1.0.0-rc1
+  - 1.0.0-rc2
+  lastUpdated: 20211107153632
