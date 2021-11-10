@@ -3,8 +3,8 @@
 groupId: io.stargate.db.cassandra
 artifactId: persistence-cassandra-3.11
 versioning:
-  latest: 1.0.41
-  release: 1.0.41
+  latest: 1.0.42
+  release: 1.0.42
   versions:
   - 0.0.7
   - 0.0.8
@@ -70,4 +70,5 @@ versioning:
   - 1.0.39
   - 1.0.40
   - 1.0.41
-  lastUpdated: 20211103154542
+  - 1.0.42
+  lastUpdated: 20211109173954

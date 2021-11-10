@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: net.bytebuddy
 artifactId: byte-buddy-parent
 versioning:
-  latest: 1.12.0
-  release: 1.12.0
+  latest: 1.12.1
+  release: 1.12.1
   versions:
   - 0.1
   - 0.2
@@ -245,4 +245,5 @@ versioning:
   - 1.11.21
   - 1.11.22
   - 1.12.0
-  lastUpdated: 20211105211234
+  - 1.12.1
+  lastUpdated: 20211109205032

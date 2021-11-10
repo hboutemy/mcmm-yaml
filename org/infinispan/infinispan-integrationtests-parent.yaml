@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-integrationtests-parent
 versioning:
-  latest: 13.0.1.Final
-  release: 13.0.1.Final
+  latest: 13.0.2.Final
+  release: 13.0.2.Final
   versions:
   - 7.2.0.Beta1
   - 7.2.0.Beta2
@@ -205,5 +205,6 @@ versioning:
   - 13.0.0.Dev03
   - 13.0.0.Dev04
   - 13.0.1.Final
+  - 13.0.2.Final
   - 12.0.0.Dev3
-  lastUpdated: 20211028101215
+  lastUpdated: 20211108154415

@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-hive-hadoop2
 versioning:
-  latest: 0.264.1
-  release: 0.264.1
+  latest: 0.265
+  release: 0.265
   versions:
   - 0.57
   - 0.58
@@ -256,4 +256,5 @@ versioning:
   - 0.263.1
   - 0.264
   - 0.264.1
-  lastUpdated: 20211103022852
+  - 0.265
+  lastUpdated: 20211109012229

@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-storm
 versioning:
-  latest: 8.0.0-alpha2
-  release: 8.0.0-alpha2
+  latest: 8.0.0-beta1
+  release: 8.0.0-beta1
   versions:
   - 2.1.0.Beta2
   - 2.1.0.Beta3
@@ -178,5 +178,6 @@ versioning:
   - 7.15.1
   - 8.0.0-alpha1
   - 8.0.0-alpha2
+  - 8.0.0-beta1
   - 2.1.0.rc1
-  lastUpdated: 20211014135412
+  lastUpdated: 20211109142558
