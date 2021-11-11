@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-run
 versioning:
-  latest: v1-rev20211022-1.32.1
-  release: v1-rev20211022-1.32.1
+  latest: v1-rev20211105-1.32.1
+  release: v1-rev20211105-1.32.1
   versions:
   - v1alpha1-rev1-1.18.0-rc
   - v1alpha1-rev1-1.22.0
@@ -319,4 +319,5 @@ versioning:
   - v1-rev20211001-1.32.1
   - v1-rev20211015-1.32.1
   - v1-rev20211022-1.32.1
-  lastUpdated: 20211027201011
+  - v1-rev20211105-1.32.1
+  lastUpdated: 20211110211509

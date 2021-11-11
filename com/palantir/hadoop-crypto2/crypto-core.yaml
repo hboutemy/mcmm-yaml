@@ -3,8 +3,8 @@
 groupId: com.palantir.hadoop-crypto2
 artifactId: crypto-core
 versioning:
-  latest: 3.1.0
-  release: 3.1.0
+  latest: 3.2.0-rc1
+  release: 3.2.0-rc1
   versions:
   - 2.0.0-rc5
   - 2.0.0-rc6
@@ -34,4 +34,5 @@ versioning:
   - 2.10.0
   - 3.0.0
   - 3.1.0
-  lastUpdated: 20210909142059
+  - 3.2.0-rc1
+  lastUpdated: 20211110172228

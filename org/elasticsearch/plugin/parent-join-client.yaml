@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.plugin
 artifactId: parent-join-client
 versioning:
-  latest: 7.15.1
-  release: 7.15.1
+  latest: 7.15.2
+  release: 7.15.2
   versions:
   - 5.5.0
   - 5.5.1
@@ -132,4 +132,5 @@ versioning:
   - 7.14.2
   - 7.15.0
   - 7.15.1
-  lastUpdated: 20211014135418
+  - 7.15.2
+  lastUpdated: 20211110145828
