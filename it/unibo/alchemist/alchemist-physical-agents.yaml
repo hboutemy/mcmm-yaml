@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: it.unibo.alchemist
 artifactId: alchemist-physical-agents
 versioning:
-  latest: 11.3.1
-  release: 11.3.1
+  latest: 11.3.1-dev3u+98f896f97
+  release: 11.3.1-dev3u+98f896f97
   versions:
   - 9.3.0-dev1z1+0f186c167
   - 9.3.0-dev1z1+90fa840e0
@@ -47,4 +47,7 @@ versioning:
   - 11.2.0
   - 11.3.0
   - 11.3.1
-  lastUpdated: 20210728171200
+  - 11.3.1-dev3j+c31aab72c
+  - 11.3.1-dev3o+bfb503ae3
+  - 11.3.1-dev3u+98f896f97
+  lastUpdated: 20211111133905

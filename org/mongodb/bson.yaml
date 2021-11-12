@@ -3,8 +3,8 @@
 groupId: org.mongodb
 artifactId: bson
 versioning:
-  latest: 4.4.0-beta2
-  release: 4.4.0-beta2
+  latest: 4.4.0
+  release: 4.4.0
   versions:
   - 2.7.0-rc1
   - 2.7.0-rc2
@@ -153,6 +153,7 @@ versioning:
   - 4.3.4
   - 4.4.0-beta1
   - 4.4.0-beta2
+  - 4.4.0
   - 2.2
   - 2.3
   - 2.4
@@ -160,4 +161,4 @@ versioning:
   - 2.5.1
   - 2.5.2
   - 2.5.3
-  lastUpdated: 20211103130657
+  lastUpdated: 20211111200334

@@ -3,11 +3,12 @@
 groupId: io.streamnative
 artifactId: pulsar-io-debezium-oracle
 versioning:
-  latest: 2.10.0-rc-202111102205
-  release: 2.10.0-rc-202111102205
+  latest: 2.10.0-rc-202111112205
+  release: 2.10.0-rc-202111112205
   versions:
   - 2.9.0.0-rc-1
   - 2.9.0.0-rc-2
+  - 2.9.0.0-rc-3
   - 2.9.0-rc-20211015-1
   - 2.9.0-rc-202109132205
   - 2.9.0-rc-202109142205
@@ -71,4 +72,5 @@ versioning:
   - 2.10.0-rc-202111082207
   - 2.10.0-rc-202111092206
   - 2.10.0-rc-202111102205
-  lastUpdated: 20211110223840
+  - 2.10.0-rc-202111112205
+  lastUpdated: 20211111223520
