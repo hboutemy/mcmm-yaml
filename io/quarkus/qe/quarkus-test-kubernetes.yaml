@@ -3,8 +3,8 @@
 groupId: io.quarkus.qe
 artifactId: quarkus-test-kubernetes
 versioning:
-  latest: 0.0.16
-  release: 0.0.16
+  latest: 1.0.0.Final
+  release: 1.0.0.Final
   versions:
   - 0.0.1
   - 0.0.2
@@ -22,4 +22,5 @@ versioning:
   - 0.0.14
   - 0.0.15
   - 0.0.16
-  lastUpdated: 20211011124419
+  - 1.0.0.Final
+  lastUpdated: 20211112093340

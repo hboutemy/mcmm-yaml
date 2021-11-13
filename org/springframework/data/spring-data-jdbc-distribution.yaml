@@ -3,8 +3,8 @@
 groupId: org.springframework.data
 artifactId: spring-data-jdbc-distribution
 versioning:
-  latest: 2.2.6
-  release: 2.2.6
+  latest: 2.3.0
+  release: 2.3.0
   versions:
   - 1.1.0.RELEASE
   - 1.1.1.RELEASE
@@ -41,6 +41,7 @@ versioning:
   - 2.1.12
   - 2.1.13
   - 2.1.14
+  - 2.1.15
   - 2.2.0
   - 2.2.1
   - 2.2.2
@@ -48,8 +49,10 @@ versioning:
   - 2.2.4
   - 2.2.5
   - 2.2.6
+  - 2.2.7
+  - 2.3.0
   - 1.1.13.RELEASE
   - 2.0.7.RELEASE
   - 2.1.4
   - 2.1.5
-  lastUpdated: 20211018092004
+  lastUpdated: 20211112095939
