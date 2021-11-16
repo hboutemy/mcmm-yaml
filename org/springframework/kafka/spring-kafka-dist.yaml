@@ -3,8 +3,8 @@
 groupId: org.springframework.kafka
 artifactId: spring-kafka-dist
 versioning:
-  latest: 2.7.8
-  release: 2.7.8
+  latest: 2.8.0
+  release: 2.8.0
   versions:
   - 2.5.0.RELEASE
   - 2.5.1.RELEASE
@@ -32,6 +32,7 @@ versioning:
   - 2.6.9
   - 2.6.10
   - 2.6.11
+  - 2.6.12
   - 2.7.0
   - 2.7.1
   - 2.7.2
@@ -41,7 +42,9 @@ versioning:
   - 2.7.6
   - 2.7.7
   - 2.7.8
+  - 2.7.9
+  - 2.8.0
   - 2.5.12.RELEASE
   - 2.6.6
   - 2.6.7
-  lastUpdated: 20211018191443
+  lastUpdated: 20211115174950
