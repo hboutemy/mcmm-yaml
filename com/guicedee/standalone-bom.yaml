@@ -3,8 +3,8 @@
 groupId: com.guicedee
 artifactId: standalone-bom
 versioning:
-  latest: 1.2.1.1-jre17
-  release: 1.2.1.1-jre17
+  latest: 1.2.1.2-jre17
+  release: 1.2.1.2-jre17
   versions:
   - 1.0.20.3-SNAPSHOT-jre15
   - 1.1.0.0-jre15
@@ -71,4 +71,5 @@ versioning:
   - 1.2.0.2-jre16
   - 1.2.0.3-jre17-rc1
   - 1.2.1.1-jre17
-  lastUpdated: 20211111151227
+  - 1.2.1.2-jre17
+  lastUpdated: 20211116103514
