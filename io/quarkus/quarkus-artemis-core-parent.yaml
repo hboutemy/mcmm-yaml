@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-artemis-core-parent
 versioning:
-  latest: 2.5.0.CR1
-  release: 2.5.0.CR1
+  latest: 2.5.0.Final
+  release: 2.5.0.Final
   versions:
   - 0.23.0
   - 0.23.1
@@ -124,4 +124,5 @@ versioning:
   - 2.4.1.Final
   - 2.4.2.Final
   - 2.5.0.CR1
-  lastUpdated: 20211112044616
+  - 2.5.0.Final
+  lastUpdated: 20211117094152

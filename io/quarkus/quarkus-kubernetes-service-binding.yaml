@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-kubernetes-service-binding
 versioning:
-  latest: 2.5.0.CR1
-  release: 2.5.0.CR1
+  latest: 2.5.0.Final
+  release: 2.5.0.Final
   versions:
   - 1.11.0.Beta1
   - 1.11.0.Beta2
@@ -59,4 +59,5 @@ versioning:
   - 2.4.1.Final
   - 2.4.2.Final
   - 2.5.0.CR1
-  lastUpdated: 20211112044716
+  - 2.5.0.Final
+  lastUpdated: 20211117094333
