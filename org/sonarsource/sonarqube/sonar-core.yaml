@@ -3,8 +3,8 @@
 groupId: org.sonarsource.sonarqube
 artifactId: sonar-core
 versioning:
-  latest: 9.1.0.47736
-  release: 9.1.0.47736
+  latest: 9.2.0.49834
+  release: 9.2.0.49834
   versions:
   - 5.2-RC2
   - 5.2-RC3
@@ -102,4 +102,6 @@ versioning:
   - 9.0.0.45539
   - 9.0.1.46107
   - 9.1.0.47736
-  lastUpdated: 20211026112143
+  - 9.2.0.49796
+  - 9.2.0.49834
+  lastUpdated: 20211119143337

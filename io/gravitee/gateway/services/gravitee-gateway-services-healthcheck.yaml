@@ -3,8 +3,8 @@
 groupId: io.gravitee.gateway.services
 artifactId: gravitee-gateway-services-healthcheck
 versioning:
-  latest: 3.12.2
-  release: 3.12.2
+  latest: 3.13.0
+  release: 3.13.0
   versions:
   - 0.8.0
   - 0.8.1
@@ -305,4 +305,6 @@ versioning:
   - 3.12.0
   - 3.12.1
   - 3.12.2
-  lastUpdated: 20211118210415
+  - 3.12.3
+  - 3.13.0
+  lastUpdated: 20211119170322

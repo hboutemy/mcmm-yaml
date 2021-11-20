@@ -3,8 +3,8 @@
 groupId: org.liquibase.ext
 artifactId: liquibase-percona
 versioning:
-  latest: 4.6.1
-  release: 4.6.1
+  latest: 4.6.1.1
+  release: 4.6.1.1
   versions:
   - 4.3.1
   - 4.3.2
@@ -16,4 +16,5 @@ versioning:
   - 4.4.3
   - 4.5.0
   - 4.6.1
-  lastUpdated: 20211106141151
+  - 4.6.1.1
+  lastUpdated: 20211119134847
