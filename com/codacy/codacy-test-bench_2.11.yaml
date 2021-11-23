@@ -3,8 +3,8 @@
 groupId: com.codacy
 artifactId: codacy-test-bench_2.11
 versioning:
-  latest: 2.2.0
-  release: 2.2.0
+  latest: 2.3.0-alpineimagestest.2.75f180f
+  release: 2.3.0-alpineimagestest.2.75f180f
   versions:
   - 0.0.1
   - 0.0.2
@@ -32,4 +32,5 @@ versioning:
   - 2.1.2
   - 2.1.2-updatesonatypepublishingtest.4.111859f
   - 2.2.0
-  lastUpdated: 20210416161448
+  - 2.3.0-alpineimagestest.2.75f180f
+  lastUpdated: 20211122121750
