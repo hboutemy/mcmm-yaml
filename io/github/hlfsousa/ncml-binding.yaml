@@ -3,8 +3,8 @@
 groupId: io.github.hlfsousa
 artifactId: ncml-binding
 versioning:
-  latest: 0.5.4
-  release: 0.5.4
+  latest: 0.5.4-downgraded
+  release: 0.5.4-downgraded
   versions:
   - 0.1.0
   - 0.4.0
@@ -15,4 +15,5 @@ versioning:
   - 0.5.2-downgraded
   - 0.5.3-downgraded
   - 0.5.4
-  lastUpdated: 20211111112251
+  - 0.5.4-downgraded
+  lastUpdated: 20211123151026

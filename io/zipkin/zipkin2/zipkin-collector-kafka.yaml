@@ -3,8 +3,8 @@
 groupId: io.zipkin.zipkin2
 artifactId: zipkin-collector-kafka
 versioning:
-  latest: 2.23.5
-  release: 2.23.5
+  latest: 2.23.7
+  release: 2.23.7
   versions:
   - 2.9.0
   - 2.9.1
@@ -77,4 +77,6 @@ versioning:
   - 2.23.3
   - 2.23.4
   - 2.23.5
-  lastUpdated: 20211116171136
+  - 2.23.6
+  - 2.23.7
+  lastUpdated: 20211123223908
