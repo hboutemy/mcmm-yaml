@@ -3,8 +3,8 @@
 groupId: com.checkout
 artifactId: checkout-sdk-java
 versioning:
-  latest: 4.8.1
-  release: 4.8.1
+  latest: 5.0.0
+  release: 5.0.0
   versions:
   - 0.1.0
   - 0.2.0
@@ -41,4 +41,6 @@ versioning:
   - 4.6.2
   - 4.7.0
   - 4.8.1
-  lastUpdated: 20211119160308
+  - 4.8.1-jre8
+  - 5.0.0
+  lastUpdated: 20211124172115
