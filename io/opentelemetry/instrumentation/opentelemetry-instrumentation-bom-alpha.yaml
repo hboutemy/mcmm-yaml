@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.instrumentation
 artifactId: opentelemetry-instrumentation-bom-alpha
 versioning:
-  latest: 1.8.0-alpha
-  release: 1.8.0-alpha
+  latest: 1.9.0-alpha
+  release: 1.9.0-alpha
   versions:
   - 0.17.0-alpha
   - 1.0.0-alpha
@@ -26,4 +26,5 @@ versioning:
   - 1.7.1-alpha
   - 1.7.2-alpha
   - 1.8.0-alpha
-  lastUpdated: 20211104071633
+  - 1.9.0-alpha
+  lastUpdated: 20211125080832

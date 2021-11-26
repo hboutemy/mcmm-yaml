@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-wicket-8.0
 versioning:
-  latest: 1.8.0-alpha
-  release: 1.8.0-alpha
+  latest: 1.9.0-alpha
+  release: 1.9.0-alpha
   versions:
   - 0.16.0
   - 0.16.1
@@ -28,4 +28,5 @@ versioning:
   - 1.7.1-alpha
   - 1.7.2-alpha
   - 1.8.0-alpha
-  lastUpdated: 20211104072330
+  - 1.9.0-alpha
+  lastUpdated: 20211125081527

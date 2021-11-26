@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: pulsar-websocket
 versioning:
-  latest: 2.8.1
-  release: 2.8.1
+  latest: 2.9.0
+  release: 2.9.0
   versions:
   - 1.19.0-incubating
   - 1.20.0-incubating
@@ -37,4 +37,5 @@ versioning:
   - 2.7.3
   - 2.8.0
   - 2.8.1
-  lastUpdated: 20210922114846
+  - 2.9.0
+  lastUpdated: 20211125111145
