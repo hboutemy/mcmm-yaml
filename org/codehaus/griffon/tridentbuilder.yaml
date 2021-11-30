@@ -1,11 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.codehaus.griffon
 artifactId: tridentbuilder
-version: 0.4
 versioning:
+  latest: 0.6
+  release: 0.6
   versions:
   - 0.4
   - 0.5
   - 0.6
-  lastUpdated: 20120213223150
+  lastUpdated: 20211129225315
