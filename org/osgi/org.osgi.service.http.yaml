@@ -1,12 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.osgi
 artifactId: org.osgi.service.http
 versioning:
   latest: 1.2.2
   release: 1.2.2
   versions:
+  - 1.2.1
   - 1.2.2-RC1
   - 1.2.2
-  - 1.2.1
-  lastUpdated: 20211013163306
+  lastUpdated: 20211130161308

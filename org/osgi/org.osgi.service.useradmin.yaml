@@ -1,12 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.osgi
 artifactId: org.osgi.service.useradmin
 versioning:
   latest: 1.1.1
   release: 1.1.1
   versions:
+  - 1.1.0
   - 1.1.1-RC1
   - 1.1.1
-  - 1.1.0
-  lastUpdated: 20211013163324
+  lastUpdated: 20211130161433
