@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud
 artifactId: spring-cloud-stream-binder-kafka-parent
 versioning:
-  latest: 3.1.5
-  release: 3.1.5
+  latest: 3.2.1
+  release: 3.2.1
   versions:
   - 1.1.0.RELEASE
   - 1.1.1.RELEASE
@@ -39,12 +39,14 @@ versioning:
   - 3.0.9.RELEASE
   - 3.0.10.RELEASE
   - 3.0.11.RELEASE
-  - 3.0.12.RELEASE
-  - 3.0.13.RELEASE
   - 3.1.0
   - 3.1.1
+  - 3.2.0
+  - 3.2.1
+  - 3.0.12.RELEASE
+  - 3.0.13.RELEASE
   - 3.1.2
   - 3.1.3
   - 3.1.4
   - 3.1.5
-  lastUpdated: 20211022135533
+  lastUpdated: 20211201170643
