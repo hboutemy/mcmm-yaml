@@ -3,8 +3,8 @@
 groupId: com.revenuecat.purchases
 artifactId: purchases-core-public
 versioning:
-  latest: 5.0.0-amazon.alpha.3
-  release: 5.0.0-amazon.alpha.3
+  latest: 5.0.0-amazon.alpha.3.billing3.iap2
+  release: 5.0.0-amazon.alpha.3.billing3.iap2
   versions:
   - AMAZON.RC1
   - 3.5.0
@@ -31,4 +31,5 @@ versioning:
   - 5.0.0-amazon.alpha.1
   - 5.0.0-amazon.alpha.2
   - 5.0.0-amazon.alpha.3
-  lastUpdated: 20211201193540
+  - 5.0.0-amazon.alpha.3.billing3.iap2
+  lastUpdated: 20211202011715

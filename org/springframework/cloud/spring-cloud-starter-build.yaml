@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud
 artifactId: spring-cloud-starter-build
 versioning:
-  latest: 2020.0.4
-  release: 2020.0.4
+  latest: 2021.0.0
+  release: 2021.0.0
   versions:
   - Brixton.SR6
   - Brixton.SR7
@@ -52,8 +52,6 @@ versioning:
   - Hoxton.SR8
   - Hoxton.SR9
   - Hoxton.SR10
-  - Hoxton.SR11
-  - Hoxton.SR12
   - 1.0.0.RELEASE
   - 1.0.1.RELEASE
   - 1.0.2.RELEASE
@@ -67,7 +65,10 @@ versioning:
   - 1.1.5.RELEASE
   - 2020.0.0
   - 2020.0.1
+  - 2021.0.0
   - 2020.0.2
   - 2020.0.3
   - 2020.0.4
-  lastUpdated: 20210922082953
+  - Hoxton.SR11
+  - Hoxton.SR12
+  lastUpdated: 20211202000115
