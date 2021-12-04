@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.micronaut.grpc
 artifactId: micronaut-protobuff-support
 versioning:
-  latest: 3.1.1
-  release: 3.1.1
+  latest: 3.1.2
+  release: 3.1.2
   versions:
   - 1.0.0.M1
   - 1.0.0.RC1
@@ -36,4 +36,5 @@ versioning:
   - 3.0.3
   - 3.1.0
   - 3.1.1
-  lastUpdated: 20211116155051
+  - 3.1.2
+  lastUpdated: 20211203165111
