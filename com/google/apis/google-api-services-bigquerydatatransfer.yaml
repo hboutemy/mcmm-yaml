@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-bigquerydatatransfer
 versioning:
-  latest: v1-rev20210822-1.32.1
-  release: v1-rev20210822-1.32.1
+  latest: v1-rev20211125-1.32.1
+  release: v1-rev20211125-1.32.1
   versions:
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.20.0
@@ -493,4 +493,5 @@ versioning:
   - v1-rev20210717-1.32.1
   - v1-rev20210814-1.32.1
   - v1-rev20210822-1.32.1
-  lastUpdated: 20210827195955
+  - v1-rev20211125-1.32.1
+  lastUpdated: 20211204210142
