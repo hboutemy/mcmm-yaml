@@ -3,8 +3,8 @@
 groupId: io.r2dbc
 artifactId: r2dbc-mssql
 versioning:
-  latest: 0.9.0.M2
-  release: 0.9.0.M2
+  latest: 0.9.0.RC1
+  release: 0.9.0.RC1
   versions:
   - 0.8.0.RELEASE
   - 0.8.1.RELEASE
@@ -16,4 +16,5 @@ versioning:
   - 0.8.7.RELEASE
   - 0.9.0.M1
   - 0.9.0.M2
-  lastUpdated: 20210923122745
+  - 0.9.0.RC1
+  lastUpdated: 20211206102020

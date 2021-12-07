@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-client-protobufs
 versioning:
-  latest: 0.489.0
-  release: 0.489.0
+  latest: 0.491.0-rc1
+  release: 0.491.0-rc1
   versions:
   - 0.311.6
   - 0.311.7
@@ -203,4 +203,6 @@ versioning:
   - 0.487.0
   - 0.488.0-rc2
   - 0.489.0
-  lastUpdated: 20211203212358
+  - 0.490.0
+  - 0.491.0-rc1
+  lastUpdated: 20211206204435
