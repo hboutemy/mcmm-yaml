@@ -3,10 +3,13 @@
 groupId: com.whisk
 artifactId: docker-testkit-scalatest_2.13
 versioning:
-  latest: 0.10.0-beta9
-  release: 0.10.0-beta9
+  latest: 0.11.0-beta1
+  release: 0.11.0-beta1
   versions:
   - 0.9.9
   - 0.10.0-beta8
   - 0.10.0-beta9
-  lastUpdated: 20200808114142
+  - 0.10.0-RC
+  - 0.10.0
+  - 0.11.0-beta1
+  lastUpdated: 20211208140230

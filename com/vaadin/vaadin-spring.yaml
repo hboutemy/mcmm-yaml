@@ -3,8 +3,8 @@
 groupId: com.vaadin
 artifactId: vaadin-spring
 versioning:
-  latest: 19.0.0
-  release: 19.0.0
+  latest: 19.0.2
+  release: 19.0.2
   versions:
   - 1.0.0.beta2
   - 1.0.0.beta3
@@ -51,6 +51,7 @@ versioning:
   - 12.3.3
   - 12.4.0
   - 12.4.1
+  - 12.4.2
   - 13.0.0
   - 13.0.1
   - 13.0.2
@@ -69,4 +70,6 @@ versioning:
   - 18.0.0
   - 18.0.1
   - 19.0.0
-  lastUpdated: 20211202135621
+  - 19.0.1
+  - 19.0.2
+  lastUpdated: 20211208180826

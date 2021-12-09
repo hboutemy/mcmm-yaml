@@ -3,8 +3,8 @@
 groupId: com.whisk
 artifactId: docker-testkit-impl-docker-java_2.11
 versioning:
-  latest: 0.9.9
-  release: 0.9.9
+  latest: 0.11.0-beta1
+  release: 0.11.0-beta1
   versions:
   - 0.9.0-M9
   - 0.9.0-M10
@@ -22,4 +22,5 @@ versioning:
   - 0.9.7
   - 0.9.8
   - 0.9.9
-  lastUpdated: 20190623163053
+  - 0.11.0-beta1
+  lastUpdated: 20211208065817

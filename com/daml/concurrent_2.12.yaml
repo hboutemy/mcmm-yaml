@@ -3,8 +3,8 @@
 groupId: com.daml
 artifactId: concurrent_2.12
 versioning:
-  latest: 1.18.0-snapshot.20211206.8423.0.2c945fcb
-  release: 1.18.0-snapshot.20211206.8423.0.2c945fcb
+  latest: 1.18.0
+  release: 1.18.0
   versions:
   - 1.6.0-snapshot.20200922.5258.0.cd4a06db
   - 1.6.0-snapshot.20200930.5312.0.b9a1905d
@@ -143,4 +143,5 @@ versioning:
   - 1.18.0-snapshot.20211117.8399.0.a05a40ae
   - 1.18.0-snapshot.20211124.8419.0.39d9afcd
   - 1.18.0-snapshot.20211206.8423.0.2c945fcb
-  lastUpdated: 20211207124230
+  - 1.18.0
+  lastUpdated: 20211208195353

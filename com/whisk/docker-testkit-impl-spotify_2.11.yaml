@@ -3,8 +3,8 @@
 groupId: com.whisk
 artifactId: docker-testkit-impl-spotify_2.11
 versioning:
-  latest: 0.9.9
-  release: 0.9.9
+  latest: 0.11.0-beta1
+  release: 0.11.0-beta1
   versions:
   - 0.9.0-M1
   - 0.9.0-M2
@@ -30,4 +30,5 @@ versioning:
   - 0.9.7
   - 0.9.8
   - 0.9.9
-  lastUpdated: 20190623163100
+  - 0.11.0-beta1
+  lastUpdated: 20211208065826

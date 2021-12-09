@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-opentelemetry-exporter-jaeger-parent
 versioning:
-  latest: 2.5.1.Final
-  release: 2.5.1.Final
+  latest: 2.6.0.CR1
+  release: 2.6.0.CR1
   versions:
   - 1.13.0.Final
   - 1.13.1.Final
@@ -45,4 +45,5 @@ versioning:
   - 2.5.0.CR1
   - 2.5.0.Final
   - 2.5.1.Final
-  lastUpdated: 20211201114539
+  - 2.6.0.CR1
+  lastUpdated: 20211208100631

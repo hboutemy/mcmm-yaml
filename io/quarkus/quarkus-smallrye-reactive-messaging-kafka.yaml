@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-smallrye-reactive-messaging-kafka
 versioning:
-  latest: 2.5.1.Final
-  release: 2.5.1.Final
+  latest: 2.6.0.CR1
+  release: 2.6.0.CR1
   versions:
   - 0.11.0
   - 0.12.0
@@ -145,4 +145,5 @@ versioning:
   - 2.5.0.CR1
   - 2.5.0.Final
   - 2.5.1.Final
-  lastUpdated: 20211201114623
+  - 2.6.0.CR1
+  lastUpdated: 20211208100714
