@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld
 artifactId: weld-core-impl
 versioning:
-  latest: 5.0.0.Alpha1
-  release: 5.0.0.Alpha1
+  latest: 5.0.0.Alpha2
+  release: 5.0.0.Alpha2
   versions:
   - 2.0.1.Final
   - 2.0.2.Final
@@ -121,4 +121,5 @@ versioning:
   - 4.0.1.SP1
   - 4.0.2.Final
   - 5.0.0.Alpha1
-  lastUpdated: 20211129161932
+  - 5.0.0.Alpha2
+  lastUpdated: 20211209153838

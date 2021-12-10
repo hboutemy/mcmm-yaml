@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld.examples.jsf.translator
 artifactId: weld-jsf-translator-ear
 versioning:
-  latest: 5.0.0.Alpha1
-  release: 5.0.0.Alpha1
+  latest: 5.0.0.Alpha2
+  release: 5.0.0.Alpha2
   versions:
   - 1.0.0-CR1
   - 1.0.0-CR2
@@ -188,4 +188,5 @@ versioning:
   - 4.0.1.SP1
   - 4.0.2.Final
   - 5.0.0.Alpha1
-  lastUpdated: 20211129161914
+  - 5.0.0.Alpha2
+  lastUpdated: 20211209153818
