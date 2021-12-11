@@ -3,8 +3,8 @@
 groupId: io.opentelemetry
 artifactId: opentelemetry-exporter-otlp-common
 versioning:
-  latest: 1.9.1
-  release: 1.9.1
+  latest: 1.10.0-rc.1
+  release: 1.10.0-rc.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -19,4 +19,5 @@ versioning:
   - 1.7.1
   - 1.9.0
   - 1.9.1
-  lastUpdated: 20211124023345
+  - 1.10.0-rc.1
+  lastUpdated: 20211210065424

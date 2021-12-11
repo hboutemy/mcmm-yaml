@@ -3,8 +3,8 @@
 groupId: io.opentelemetry
 artifactId: opentelemetry-extension-aws
 versioning:
-  latest: 1.9.1
-  release: 1.9.1
+  latest: 1.10.0-rc.1
+  release: 1.10.0-rc.1
   versions:
   - 0.16.0
   - 0.17.0
@@ -22,4 +22,5 @@ versioning:
   - 1.7.1
   - 1.9.0
   - 1.9.1
-  lastUpdated: 20211124023404
+  - 1.10.0-rc.1
+  lastUpdated: 20211210065444

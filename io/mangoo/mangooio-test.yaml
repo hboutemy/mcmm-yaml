@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.mangoo
 artifactId: mangooio-test
 versioning:
-  latest: 7.0.0-Beta9
-  release: 7.0.0-Beta9
+  latest: 7.0.0-Beta10
+  release: 7.0.0-Beta10
   versions:
   - 3.0.0-Beta1
   - 3.0.0-Beta2
@@ -269,6 +269,7 @@ versioning:
   - 6.12.0
   - 6.13.0
   - 6.14.0
+  - 6.15.0
   - 7.0.0-Alpha1
   - 7.0.0-Alpha2
   - 7.0.0-Alpha3
@@ -282,5 +283,6 @@ versioning:
   - 7.0.0-Beta7
   - 7.0.0-Beta8
   - 7.0.0-Beta9
+  - 7.0.0-Beta10
   - 4.0.0-Aplha1
-  lastUpdated: 20211201132150
+  lastUpdated: 20211210130706
