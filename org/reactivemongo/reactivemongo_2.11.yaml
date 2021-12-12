@@ -3,8 +3,8 @@
 groupId: org.reactivemongo
 artifactId: reactivemongo_2.11
 versioning:
-  latest: 1.0.7-noshaded
-  release: 1.0.7-noshaded
+  latest: 1.0.8-noshaded
+  release: 1.0.8-noshaded
   versions:
   - 0.10.5.0.akka23
   - 0.11.0-M2
@@ -113,5 +113,7 @@ versioning:
   - 1.0.6-noshaded
   - 1.0.7
   - 1.0.7-noshaded
+  - 1.0.8
+  - 1.0.8-noshaded
   - 0.11.0-M1
-  lastUpdated: 20210904201911
+  lastUpdated: 20211211141918
