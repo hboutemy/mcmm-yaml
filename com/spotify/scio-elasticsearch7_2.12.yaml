@@ -3,8 +3,8 @@
 groupId: com.spotify
 artifactId: scio-elasticsearch7_2.12
 versioning:
-  latest: 0.11.1
-  release: 0.11.1
+  latest: 0.11.2-alpha1
+  release: 0.11.2-alpha1
   versions:
   - 0.8.0-alpha2
   - 0.8.0-beta1
@@ -32,4 +32,5 @@ versioning:
   - 0.10.4
   - 0.11.0
   - 0.11.1
-  lastUpdated: 20211020153050
+  - 0.11.2-alpha1
+  lastUpdated: 20211213192308
