@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.scripting.beanshell
 versioning:
   latest: 4.0.0
-  release: 4.0.0
+  release: 2.0.11
   versions:
   - 1.0.0
   - 2.0.0
@@ -26,4 +25,5 @@ versioning:
   - 3.0.4
   - 3.0.5
   - 4.0.0
-  lastUpdated: 20200214055735
+  - 2.0.11
+  lastUpdated: 20211214060803

@@ -1,12 +1,13 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: us.abstracta.jmeter
 artifactId: jmeter-java-dsl-elasticsearch-listener
 versioning:
-  latest: 0.39.1
-  release: 0.39.1
+  latest: 0.41
+  release: 0.41
   versions:
+  - 0.40
+  - 0.41
   - 0.20
   - 0.21
   - 0.22
@@ -31,4 +32,4 @@ versioning:
   - 0.39
   - 0.39.1
   - 028
-  lastUpdated: 20211208155919
+  lastUpdated: 20211214180456

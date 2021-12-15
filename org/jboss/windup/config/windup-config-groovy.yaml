@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.windup.config
 artifactId: windup-config-groovy
 versioning:
-  latest: 5.2.1.Alpha1
-  release: 5.2.1.Alpha1
+  latest: 5.2.1.Final
+  release: 5.2.1.Final
   versions:
   - 2.2.0.Final
   - 2.3.0.Final
@@ -64,4 +64,5 @@ versioning:
   - 5.2.0.Alpha1
   - 5.2.0.Final
   - 5.2.1.Alpha1
-  lastUpdated: 20211206131336
+  - 5.2.1.Final
+  lastUpdated: 20211214182852

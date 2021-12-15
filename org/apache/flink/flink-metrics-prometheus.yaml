@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-metrics-prometheus
 versioning:
-  latest: 1.14.0
-  release: 1.14.0
+  latest: 1.14.1
+  release: 1.14.1
   versions:
   - 1.4.0
   - 1.4.1
@@ -22,4 +22,5 @@ versioning:
   - 1.6.3
   - 1.6.4
   - 1.14.0
-  lastUpdated: 20210929025733
+  - 1.14.1
+  lastUpdated: 20211214205200
