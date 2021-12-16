@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-druid
 versioning:
-  latest: 0.266
-  release: 0.266
+  latest: 0.266.1
+  release: 0.266.1
   versions:
   - 0.233
   - 0.233.1
@@ -71,4 +71,5 @@ versioning:
   - 0.265
   - 0.265.1
   - 0.266
-  lastUpdated: 20211204013455
+  - 0.266.1
+  lastUpdated: 20211214234553

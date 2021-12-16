@@ -1,15 +1,14 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: io.apiman
 artifactId: apiman-manager-ui-hawtio
 versioning:
   latest: 1.2.1.Final
   release: 1.2.1.Final
   versions:
-  - 1.2.0.Beta2
-  - 1.2.1.Final
-  - 1.1.0.Final
   - 1.1.0.RC3
+  - 1.1.0.Final
   - 1.1.1.Final
   - 1.1.2.Final
   - 1.1.2.Preview1
@@ -21,4 +20,8 @@ versioning:
   - 1.1.6.Final
   - 1.2.0.Alpha3
   - 1.2.0.Beta1
-  lastUpdated: 20160121192704
+  - 1.2.0.Beta2
+  - 1.2.0.Beta3
+  - 1.2.0.Final
+  - 1.2.1.Final
+  lastUpdated: 20211215212027

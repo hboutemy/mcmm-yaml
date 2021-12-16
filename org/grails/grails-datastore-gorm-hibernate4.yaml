@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.grails
 artifactId: grails-datastore-gorm-hibernate4
 versioning:
@@ -39,6 +40,8 @@ versioning:
   - 4.0.0.M4
   - 4.0.0.RC1
   - 4.0.0.RELEASE
+  - 4.0.1.RELEASE
+  - 4.0.3.RELEASE
   - 4.0.4.RELEASE
   - 4.0.5.RELEASE
   - 4.0.6.RELEASE
@@ -88,6 +91,4 @@ versioning:
   - 6.1.6.RELEASE
   - 6.1.7.RELEASE
   - 6.1.8.RELEASE
-  - 4.0.1.RELEASE
-  - 4.0.3.RELEASE
-  lastUpdated: 20171102102240
+  lastUpdated: 20211215203345

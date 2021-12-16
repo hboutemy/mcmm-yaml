@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: io.dropwizard.archetypes
 artifactId: dropwizard-archetypes
 versioning:
@@ -17,6 +18,7 @@ versioning:
   - 0.8.3
   - 0.8.4
   - 0.8.5
+  - 0.9.0-rc1
   - 0.9.0-rc2
   - 0.9.0-rc3
   - 0.9.0-rc4
@@ -151,5 +153,4 @@ versioning:
   - 2.1.0-beta.3
   - 2.1.0-beta.4
   - 2.1.0-beta.5
-  - 0.9.0-rc1
-  lastUpdated: 20211210073400
+  lastUpdated: 20211215191830

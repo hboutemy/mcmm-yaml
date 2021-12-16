@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-kubernetes-parent
 versioning:
-  latest: 2.6.0.CR1
-  release: 2.6.0.CR1
+  latest: 2.6.0.Final
+  release: 2.6.0.Final
   versions:
   - 0.13.0
   - 0.13.1
@@ -133,6 +133,7 @@ versioning:
   - 2.2.1.Final
   - 2.2.2.Final
   - 2.2.3.Final
+  - 2.2.4.Final
   - 2.3.0.CR1
   - 2.3.0.Final
   - 2.3.1.Final
@@ -144,5 +145,7 @@ versioning:
   - 2.5.0.Final
   - 2.5.1.Final
   - 2.5.2.Final
+  - 2.5.3.Final
   - 2.6.0.CR1
-  lastUpdated: 20211210122155
+  - 2.6.0.Final
+  lastUpdated: 20211215150221

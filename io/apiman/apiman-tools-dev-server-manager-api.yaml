@@ -1,22 +1,21 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: io.apiman
 artifactId: apiman-tools-dev-server-manager-api
 versioning:
   latest: 1.2.1.Final
   release: 1.2.1.Final
   versions:
-  - 1.2.0.Beta2
-  - 1.2.1.Final
   - 1.0.0.Beta1
   - 1.0.0.Beta2
   - 1.0.0.Final
   - 1.0.1.Final
   - 1.0.2.Final
   - 1.0.3.Final
-  - 1.1.0.Final
   - 1.1.0.RC1
   - 1.1.0.RC3
+  - 1.1.0.Final
   - 1.1.1.Final
   - 1.1.2.Final
   - 1.1.2.Preview1
@@ -26,4 +25,8 @@ versioning:
   - 1.1.4.Final
   - 1.1.5.Final
   - 1.1.6.Final
-  lastUpdated: 20160121192708
+  - 1.2.0.Beta2
+  - 1.2.0.Beta3
+  - 1.2.0.Final
+  - 1.2.1.Final
+  lastUpdated: 20211215211418

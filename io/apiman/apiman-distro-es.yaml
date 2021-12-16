@@ -1,11 +1,15 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: io.apiman
 artifactId: apiman-distro-es
 versioning:
   latest: 1.5.7.Final
   release: 1.5.7.Final
   versions:
+  - 1.1.4.Final
+  - 1.1.5.Final
+  - 1.1.6.Final
   - 1.2.0.Beta2
   - 1.2.0.Beta3
   - 1.2.0.Final
@@ -40,7 +44,4 @@ versioning:
   - 1.5.5.Final
   - 1.5.6.Final
   - 1.5.7.Final
-  - 1.1.4.Final
-  - 1.1.5.Final
-  - 1.1.6.Final
-  lastUpdated: 20201102172452
+  lastUpdated: 20211215211750

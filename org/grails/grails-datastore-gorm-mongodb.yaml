@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.grails
 artifactId: grails-datastore-gorm-mongodb
 versioning:
@@ -19,6 +20,8 @@ versioning:
   - 4.0.0.M4
   - 4.0.0.RC1
   - 4.0.0.RELEASE
+  - 4.0.1.RELEASE
+  - 4.0.3.RELEASE
   - 4.0.4.RELEASE
   - 4.0.5.RELEASE
   - 4.0.6.RELEASE
@@ -77,6 +80,4 @@ versioning:
   - 7.1.0.RC3
   - 7.1.0-RC4
   - 7.1.0
-  - 4.0.1.RELEASE
-  - 4.0.3.RELEASE
-  lastUpdated: 20211012090410
+  lastUpdated: 20211215203123

@@ -1,11 +1,19 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: io.apiman
 artifactId: apiman-manager-ui-war-wildfly8
 versioning:
   latest: 2.0.0.Final
   release: 2.0.0.Final
   versions:
+  - 1.0.0.Beta1
+  - 1.0.0.Beta2
+  - 1.0.0.Final
+  - 1.0.1.Final
+  - 1.0.2.Final
+  - 1.0.3.Final
+  - 1.1.0.RC1
   - 1.2.2.Final
   - 1.2.3.CR1
   - 1.2.3.Final
@@ -37,11 +45,4 @@ versioning:
   - 1.5.6.Final
   - 1.5.7.Final
   - 2.0.0.Final
-  - 1.0.0.Beta1
-  - 1.0.0.Beta2
-  - 1.0.0.Final
-  - 1.0.1.Final
-  - 1.0.2.Final
-  - 1.0.3.Final
-  - 1.1.0.RC1
-  lastUpdated: 20201102172620
+  lastUpdated: 20211215211510
