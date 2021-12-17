@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-admin-directory
 versioning:
-  latest: directory_v1-rev20211207-1.32.1
-  release: directory_v1-rev20211207-1.32.1
+  latest: directory_v1-rev20211214-1.32.1
+  release: directory_v1-rev20211214-1.32.1
   versions:
   - directory_v1-rev14-1.17.0-rc
   - directory_v1-rev15-1.17.0-rc
@@ -260,4 +260,5 @@ versioning:
   - directory_v1-rev20211014-1.32.1
   - directory_v1-rev20211109-1.32.1
   - directory_v1-rev20211207-1.32.1
-  lastUpdated: 20211208210001
+  - directory_v1-rev20211214-1.32.1
+  lastUpdated: 20211216210902

@@ -1,12 +1,14 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: pub.doric.extension
 artifactId: barcodescanner
 versioning:
+  latest: 0.1.11
   release: 0.1.11
   versions:
   - 0.1.8
   - 0.1.9
   - 0.1.10
   - 0.1.11
-  lastUpdated: 20210821074549
+  lastUpdated: 20211216201728

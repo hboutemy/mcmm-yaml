@@ -3,8 +3,8 @@
 groupId: buzz.getcoco
 artifactId: cocomediasdk-java
 versioning:
-  latest: 0.0.4-staging
-  release: 0.0.4-staging
+  latest: 0.0.5-staging
+  release: 0.0.5-staging
   versions:
   - 0.0.1-develop
   - 0.0.1-lite-develop
@@ -21,4 +21,10 @@ versioning:
   - 0.0.4-lite-debug
   - 0.0.4-lite-staging
   - 0.0.4-staging
-  lastUpdated: 20211125195103
+  - 0.0.5
+  - 0.0.5-debug
+  - 0.0.5-lite
+  - 0.0.5-lite-debug
+  - 0.0.5-lite-staging
+  - 0.0.5-staging
+  lastUpdated: 20211216133045

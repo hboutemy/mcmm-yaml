@@ -1,8 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: cn.supzx.utils
 artifactId: repository-util
 versioning:
+  latest: 2.1.28
   release: 2.1.28
   versions:
   - 1.0.0
@@ -59,4 +61,4 @@ versioning:
   - 2.1.26
   - 2.1.27
   - 2.1.28
-  lastUpdated: 20210509073226
+  lastUpdated: 20211216202153

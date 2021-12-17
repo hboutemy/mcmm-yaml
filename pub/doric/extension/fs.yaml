@@ -1,8 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: pub.doric.extension
 artifactId: fs
 versioning:
+  latest: 0.2.6
   release: 0.2.6
   versions:
   - 0.2.0
@@ -12,4 +14,4 @@ versioning:
   - 0.2.4
   - 0.2.5
   - 0.2.6
-  lastUpdated: 20211209090805
+  lastUpdated: 20211216201727

@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-testing-testcontainers
 versioning:
-  latest: 1.8.0.CR1
-  release: 1.8.0.CR1
+  latest: 1.8.0.Final
+  release: 1.8.0.Final
   versions:
   - 1.0.2.Final
   - 1.0.3.Final
@@ -65,5 +65,6 @@ versioning:
   - 1.8.0.Alpha2
   - 1.8.0.Beta1
   - 1.8.0.CR1
+  - 1.8.0.Final
   - 1.5.0.Alpha1
-  lastUpdated: 20211214102225
+  lastUpdated: 20211216110231

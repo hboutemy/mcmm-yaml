@@ -1,12 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: cn.crushes.cloud
 artifactId: crush-redis
 versioning:
-  latest: 2.5.0
-  release: 2.5.0
+  latest: 2.5.0-GA
+  release: 2.5.0-GA
   versions:
   - 2.4.5
-  - 2.5.0
   - 2.5.0-GA
-  lastUpdated: 20210524192912
+  - 2.5.0
+  lastUpdated: 20211216201837

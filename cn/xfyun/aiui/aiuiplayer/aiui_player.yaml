@@ -1,11 +1,14 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: cn.xfyun.aiui.aiuiplayer
 artifactId: aiui_player
 versioning:
   latest: 1034
   release: 1034
   versions:
+  - 1
+  - 2
   - 1001
   - 1010
   - 1012
@@ -15,7 +18,5 @@ versioning:
   - 1029
   - 1032
   - 1033
-  - 1
-  - 2
   - 1034
-  lastUpdated: 20210902102527
+  lastUpdated: 20211216202315
