@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.xwiki.rendering
 artifactId: xwiki-rendering-syntax-confluence
 versioning:
@@ -110,6 +111,8 @@ versioning:
   - 7.1-milestone-1
   - 7.1-milestone-2
   - 7.1-rc-1
+  - 7.1
+  - 7.1.1
   - 7.1.2
   - 7.1.3
   - 7.1.4
@@ -156,6 +159,4 @@ versioning:
   - 8.4.5
   - 8.4.6
   - 9.0-rc-1
-  - 7.1
-  - 7.1.1
-  lastUpdated: 20180130180227
+  lastUpdated: 20211217205254

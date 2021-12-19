@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: integrationtests-security-manager
 versioning:
-  latest: 13.0.3.Final
-  release: 13.0.3.Final
+  latest: 13.0.4.Final
+  release: 13.0.4.Final
   versions:
   - 7.0.0.Alpha3
   - 7.0.0.Alpha4
@@ -228,5 +228,6 @@ versioning:
   - 13.0.1.Final
   - 13.0.2.Final
   - 13.0.3.Final
+  - 13.0.4.Final
   - 12.0.0.Dev3
-  lastUpdated: 20211217160642
+  lastUpdated: 20211217222357

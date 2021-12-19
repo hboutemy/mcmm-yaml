@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.xwiki.commons
 artifactId: xwiki-commons-filter-api
 versioning:
@@ -73,6 +74,8 @@ versioning:
   - 7.1-milestone-1
   - 7.1-milestone-2
   - 7.1-rc-1
+  - 7.1
+  - 7.1.1
   - 7.1.2
   - 7.1.3
   - 7.1.4
@@ -305,6 +308,4 @@ versioning:
   - 13.10-rc-1
   - 13.10
   - 13.10.1
-  - 7.1
-  - 7.1.1
-  lastUpdated: 20211214190237
+  lastUpdated: 20211217212026

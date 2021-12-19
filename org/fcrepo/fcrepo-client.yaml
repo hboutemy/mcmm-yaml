@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.fcrepo
 artifactId: fcrepo-client
 versioning:
@@ -13,6 +14,7 @@ versioning:
   - 3.7.0
   - 3.7.1
   - 3.8.0
+  - 3.8.1
   - 4.0.0-beta-04
   - 4.0.0
   - 4.1.0
@@ -20,5 +22,4 @@ versioning:
   - 4.2.0
   - 4.3.0
   - 4.4.0
-  - 3.8.1
-  lastUpdated: 20151013202021
+  lastUpdated: 20211217231431

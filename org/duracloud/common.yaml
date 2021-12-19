@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.duracloud
 artifactId: common
 versioning:
@@ -13,6 +14,7 @@ versioning:
   - 3.2.3
   - 3.2.4
   - 3.2.5
+  - 3.3.0
   - 3.4.0
   - 3.5.0
   - 3.6.0
@@ -62,5 +64,4 @@ versioning:
   - 6.2.1
   - 7.0.0
   - 7.1.0
-  - 3.3.0
-  lastUpdated: 20211214204313
+  lastUpdated: 20211217231101

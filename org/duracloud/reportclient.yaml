@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.duracloud
 artifactId: reportclient
 versioning:
@@ -12,6 +13,7 @@ versioning:
   - 3.2.3
   - 3.2.4
   - 3.2.5
+  - 3.3.0
   - 3.4.0
   - 3.6.0
   - 3.7.0
@@ -19,5 +21,4 @@ versioning:
   - 3.7.2
   - 3.7.3
   - 3.7.4
-  - 3.3.0
-  lastUpdated: 20160516182814
+  lastUpdated: 20211217230746

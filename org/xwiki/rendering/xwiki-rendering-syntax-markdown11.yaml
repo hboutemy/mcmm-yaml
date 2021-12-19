@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.xwiki.rendering
 artifactId: xwiki-rendering-syntax-markdown11
 versioning:
@@ -71,6 +72,8 @@ versioning:
   - 7.1-milestone-1
   - 7.1-milestone-2
   - 7.1-rc-1
+  - 7.1
+  - 7.1.1
   - 7.1.2
   - 7.1.3
   - 7.1.4
@@ -99,6 +102,4 @@ versioning:
   - 8.1-milestone-2
   - 8.1-rc-1
   - 8.1
-  - 7.1
-  - 7.1.1
-  lastUpdated: 20170210160008
+  lastUpdated: 20211217205524
