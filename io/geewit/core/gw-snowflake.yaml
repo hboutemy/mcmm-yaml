@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: io.geewit.core
 artifactId: gw-snowflake
 versioning:
@@ -14,7 +15,6 @@ versioning:
   - 2.0.0
   - 2.0.1
   - 2.0.2
-  - 2.0.3
   - 2.0.4
   - 2.0.5
   - 2.0.6
@@ -26,4 +26,5 @@ versioning:
   - 2.0.12
   - 2.0.13
   - 2.0.14
-  lastUpdated: 20210416092149
+  - 2.0.3
+  lastUpdated: 20211217163413

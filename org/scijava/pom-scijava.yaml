@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.scijava
 artifactId: pom-scijava
 versioning:
@@ -110,6 +111,10 @@ versioning:
   - 7.0.0
   - 7.1.0
   - 7.2.0
+  - 7.3.0
+  - 7.3.1
+  - 7.4.0
+  - 7.4.1
   - 7.5.0
   - 7.5.1
   - 7.5.2
@@ -203,8 +208,4 @@ versioning:
   - 30.0.0
   - 31.0.0
   - 31.1.0
-  - 7.3.0
-  - 7.3.1
-  - 7.4.0
-  - 7.4.1
-  lastUpdated: 20210915232127
+  lastUpdated: 20211216235724

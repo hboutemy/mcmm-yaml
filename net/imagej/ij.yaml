@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: net.imagej
 artifactId: ij
 versioning:
@@ -29,6 +30,7 @@ versioning:
   - 1.49r
   - 1.49s
   - 1.49t
+  - 1.49u
   - 1.49v
   - 1.50a
   - 1.50b
@@ -86,5 +88,4 @@ versioning:
   - 1.53h
   - 1.53i
   - 1.53j
-  - 1.49u
-  lastUpdated: 20210514182016
+  lastUpdated: 20211216233807

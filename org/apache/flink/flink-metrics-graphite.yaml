@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-metrics-graphite
 versioning:
-  latest: 1.14.1
-  release: 1.14.1
+  latest: 1.14.2
+  release: 1.14.2
   versions:
   - 1.1.0
   - 1.1.1
@@ -59,6 +59,7 @@ versioning:
   - 1.11.3
   - 1.11.4
   - 1.11.5
+  - 1.11.6
   - 1.12.0
   - 1.12.1
   - 1.12.2
@@ -66,11 +67,14 @@ versioning:
   - 1.12.4
   - 1.12.5
   - 1.12.6
+  - 1.12.7
   - 1.13.0
   - 1.13.1
   - 1.13.2
   - 1.13.3
   - 1.13.4
+  - 1.13.5
   - 1.14.0
   - 1.14.1
-  lastUpdated: 20211214205439
+  - 1.14.2
+  lastUpdated: 20211216033117

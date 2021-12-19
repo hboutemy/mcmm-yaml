@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.buildsupport
 artifactId: nexus-buildsupport-rest
 versioning:
-  latest: 3.37.0-01
-  release: 3.37.0-01
+  latest: 3.37.1-01
+  release: 3.37.1-01
   versions:
   - 2.6.0-01
   - 2.6.0-05
@@ -73,6 +73,7 @@ versioning:
   - 2.14.19-01
   - 2.14.20-01
   - 2.14.20-02
+  - 2.14.21-02
   - 3.0.0-b2014101001
   - 3.0.0-b2015020701
   - 3.0.0-b2015061001
@@ -167,4 +168,5 @@ versioning:
   - 3.35.0-02
   - 3.36.0-01
   - 3.37.0-01
-  lastUpdated: 20211123144428
+  - 3.37.1-01
+  lastUpdated: 20211217195158

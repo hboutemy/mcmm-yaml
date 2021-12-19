@@ -3,8 +3,8 @@
 groupId: org.wildfly.legacy.test
 artifactId: wildfly-legacy-subsystem-parent
 versioning:
-  latest: 6.0.1.Final
-  release: 6.0.1.Final
+  latest: 7.0.0.Final
+  release: 7.0.0.Final
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -26,4 +26,5 @@ versioning:
   - 5.0.0.Final
   - 6.0.0.Final
   - 6.0.1.Final
-  lastUpdated: 20210729142904
+  - 7.0.0.Final
+  lastUpdated: 20211214164223

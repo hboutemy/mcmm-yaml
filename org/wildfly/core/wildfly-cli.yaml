@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-cli
 versioning:
-  latest: 18.0.0.Beta5
-  release: 18.0.0.Beta5
+  latest: 19.0.0.Beta1
+  release: 19.0.0.Beta1
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -309,4 +309,7 @@ versioning:
   - 18.0.0.Beta3
   - 18.0.0.Beta4
   - 18.0.0.Beta5
-  lastUpdated: 20211129104818
+  - 18.0.0.Final
+  - 18.0.1.Final
+  - 19.0.0.Beta1
+  lastUpdated: 20211216160951

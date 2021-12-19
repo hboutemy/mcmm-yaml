@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-jcache-tck-runner-embedded
 versioning:
-  latest: 13.0.2.Final
-  release: 13.0.2.Final
+  latest: 13.0.3.Final
+  release: 13.0.3.Final
   versions:
   - 10.1.1.Final
   - 10.1.2.Final
@@ -34,6 +34,7 @@ versioning:
   - 11.0.9.Final
   - 11.0.10.Final
   - 11.0.11.Final
+  - 11.0.13.Final
   - 12.0.0.CR1
   - 12.0.0.Final
   - 12.0.0.Dev01
@@ -56,6 +57,8 @@ versioning:
   - 12.1.5.Final
   - 12.1.6.Final
   - 12.1.7.Final
+  - 12.1.8.Final
+  - 12.1.9.Final
   - 13.0.0.CR1
   - 13.0.0.CR2
   - 13.0.0.Final
@@ -65,5 +68,6 @@ versioning:
   - 13.0.0.Dev04
   - 13.0.1.Final
   - 13.0.2.Final
+  - 13.0.3.Final
   - 12.0.0.Dev3
-  lastUpdated: 20211108154425
+  lastUpdated: 20211217160601

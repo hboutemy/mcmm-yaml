@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-servlet-feature-pack-ee-8-api
 versioning:
-  latest: 26.0.0.Beta1
-  release: 26.0.0.Beta1
+  latest: 26.0.0.Final
+  release: 26.0.0.Final
   versions:
   - 21.0.0.Beta1
   - 21.0.0.Final
@@ -25,4 +25,5 @@ versioning:
   - 25.0.0.Final
   - 25.0.1.Final
   - 26.0.0.Beta1
-  lastUpdated: 20211202191325
+  - 26.0.0.Final
+  lastUpdated: 20211215144337
