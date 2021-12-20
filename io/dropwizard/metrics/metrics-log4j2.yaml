@@ -3,8 +3,8 @@
 groupId: io.dropwizard.metrics
 artifactId: metrics-log4j2
 versioning:
-  latest: 4.2.6
-  release: 4.2.6
+  latest: 4.2.7
+  release: 4.2.7
   versions:
   - 3.1.0
   - 3.1.1
@@ -66,6 +66,7 @@ versioning:
   - 4.1.26
   - 4.1.27
   - 4.1.28
+  - 4.1.29
   - 4.2.0-beta.1
   - 4.2.0-beta.2
   - 4.2.0-beta.3
@@ -80,4 +81,5 @@ versioning:
   - 4.2.4
   - 4.2.5
   - 4.2.6
-  lastUpdated: 20211215223250
+  - 4.2.7
+  lastUpdated: 20211219144004
