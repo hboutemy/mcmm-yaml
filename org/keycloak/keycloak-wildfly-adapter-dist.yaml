@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-wildfly-adapter-dist
 versioning:
-  latest: 16.0.0
-  release: 16.0.0
+  latest: 16.1.0
+  release: 16.1.0
   versions:
   - 1.0-beta-1
   - 1.0-beta-2
@@ -121,4 +121,5 @@ versioning:
   - 15.1.0
   - 15.1.1
   - 16.0.0
-  lastUpdated: 20211217154702
+  - 16.1.0
+  lastUpdated: 20211220155857

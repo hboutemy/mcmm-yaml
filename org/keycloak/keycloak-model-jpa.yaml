@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-model-jpa
 versioning:
-  latest: 16.0.0
-  release: 16.0.0
+  latest: 16.1.0
+  release: 16.1.0
   versions:
   - 1.0-alpha-1
   - 1.0-alpha-1-12062013
@@ -136,5 +136,6 @@ versioning:
   - 15.1.0
   - 15.1.1
   - 16.0.0
+  - 16.1.0
   - 1.5.0.Final
-  lastUpdated: 20211217154542
+  lastUpdated: 20211220155726

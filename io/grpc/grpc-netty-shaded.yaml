@@ -3,8 +3,8 @@
 groupId: io.grpc
 artifactId: grpc-netty-shaded
 versioning:
-  latest: 1.43.0
-  release: 1.43.0
+  latest: 1.43.1
+  release: 1.43.1
   versions:
   - 1.9.0
   - 1.9.1
@@ -76,4 +76,5 @@ versioning:
   - 1.42.0
   - 1.42.1
   - 1.43.0
-  lastUpdated: 20211215020402
+  - 1.43.1
+  lastUpdated: 20211220204311

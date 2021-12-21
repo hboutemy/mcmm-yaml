@@ -3,8 +3,8 @@
 groupId: org.sonarsource.sonarqube
 artifactId: sonar-plugin-api
 versioning:
-  latest: 9.2.3.50713
-  release: 9.2.3.50713
+  latest: 9.2.4.50792
+  release: 9.2.4.50792
   versions:
   - 5.2-RC2
   - 5.2-RC3
@@ -105,6 +105,7 @@ versioning:
   - 8.9.3.48735
   - 8.9.4.50575
   - 8.9.5.50698
+  - 8.9.6.50800
   - 9.0.0.45539
   - 9.0.1.46107
   - 9.1.0.47736
@@ -113,4 +114,5 @@ versioning:
   - 9.2.1.49989
   - 9.2.2.50622
   - 9.2.3.50713
-  lastUpdated: 20211216160525
+  - 9.2.4.50792
+  lastUpdated: 20211220173734

@@ -3,8 +3,8 @@
 groupId: io.syndesis.connector
 artifactId: connector-aws-sqs
 versioning:
-  latest: 1.13.0
-  release: 1.13.0
+  latest: 1.13.1
+  release: 1.13.1
   versions:
   - 1.7.0
   - 1.7.1
@@ -32,4 +32,5 @@ versioning:
   - 1.12.0
   - 1.12.1
   - 1.13.0
-  lastUpdated: 20211218161948
+  - 1.13.1
+  lastUpdated: 20211220120014

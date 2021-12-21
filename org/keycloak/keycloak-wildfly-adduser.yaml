@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-wildfly-adduser
 versioning:
-  latest: 16.0.0
-  release: 16.0.0
+  latest: 16.1.0
+  release: 16.1.0
   versions:
   - 1.7.0.CR1
   - 1.7.0.Final
@@ -102,4 +102,5 @@ versioning:
   - 15.1.0
   - 15.1.1
   - 16.0.0
-  lastUpdated: 20211217154703
+  - 16.1.0
+  lastUpdated: 20211220155858

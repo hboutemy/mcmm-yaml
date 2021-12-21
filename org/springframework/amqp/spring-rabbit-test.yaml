@@ -3,8 +3,8 @@
 groupId: org.springframework.amqp
 artifactId: spring-rabbit-test
 versioning:
-  latest: 2.4.0
-  release: 2.4.0
+  latest: 2.4.1
+  release: 2.4.1
   versions:
   - 1.6.0.RELEASE
   - 1.6.1.RELEASE
@@ -87,6 +87,7 @@ versioning:
   - 2.2.18.RELEASE
   - 2.2.19.RELEASE
   - 2.2.20.RELEASE
+  - 2.2.21.RELEASE
   - 2.3.0
   - 2.3.1
   - 2.3.2
@@ -98,9 +99,11 @@ versioning:
   - 2.3.10
   - 2.3.11
   - 2.3.12
+  - 2.3.13
   - 2.4.0
+  - 2.4.1
   - 2.2.15.RELEASE
   - 2.2.16.RELEASE
   - 2.3.5
   - 2.3.6
-  lastUpdated: 20211115170830
+  lastUpdated: 20211220180340
