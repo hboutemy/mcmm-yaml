@@ -3,8 +3,8 @@
 groupId: org.springframework.boot
 artifactId: spring-boot-buildpack-platform
 versioning:
-  latest: 2.6.1
-  release: 2.6.1
+  latest: 2.6.2
+  release: 2.6.2
   versions:
   - 2.3.0.RELEASE
   - 2.3.1.RELEASE
@@ -41,6 +41,8 @@ versioning:
   - 2.5.5
   - 2.5.6
   - 2.5.7
+  - 2.5.8
   - 2.6.0
   - 2.6.1
-  lastUpdated: 20211129133003
+  - 2.6.2
+  lastUpdated: 20211221204405

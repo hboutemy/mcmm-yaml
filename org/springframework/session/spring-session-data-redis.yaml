@@ -3,8 +3,8 @@
 groupId: org.springframework.session
 artifactId: spring-session-data-redis
 versioning:
-  latest: 2.6.0
-  release: 2.6.0
+  latest: 2.6.1
+  release: 2.6.1
   versions:
   - 1.0.0.RELEASE
   - 1.0.1.RELEASE
@@ -60,7 +60,9 @@ versioning:
   - 2.4.0
   - 2.4.1
   - 2.4.2
+  - 2.5.4
   - 2.6.0
+  - 2.6.1
   - 2.2.6.RELEASE
   - 2.3.3.RELEASE
   - 2.4.3
@@ -71,4 +73,4 @@ versioning:
   - 2.5.1
   - 2.5.2
   - 2.5.3
-  lastUpdated: 20211116173054
+  lastUpdated: 20211221140343

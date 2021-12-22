@@ -3,8 +3,8 @@
 groupId: com.oracle.database.observability
 artifactId: ojdbc10dms
 versioning:
-  latest: 19.12.0.0
-  release: 19.12.0.0
+  latest: 19.13.0.0.1
+  release: 19.13.0.0.1
   versions:
   - 19.7.0.0
   - 19.8.0.0
@@ -12,4 +12,6 @@ versioning:
   - 19.10.0.0
   - 19.11.0.0
   - 19.12.0.0
-  lastUpdated: 20210824153847
+  - 19.13.0.0
+  - 19.13.0.0.1
+  lastUpdated: 20211221172010

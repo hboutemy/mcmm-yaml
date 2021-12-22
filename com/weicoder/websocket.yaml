@@ -3,8 +3,8 @@
 groupId: com.weicoder
 artifactId: websocket
 versioning:
-  latest: 3.4.6
-  release: 3.4.6
+  latest: 3.4.7-jdk8
+  release: 3.4.7-jdk8
   versions:
   - 2.3.8
   - 2.3.9
@@ -60,4 +60,6 @@ versioning:
   - 3.4.5
   - 3.4.5-jdk8
   - 3.4.6
-  lastUpdated: 20201222073120
+  - 3.4.7
+  - 3.4.7-jdk8
+  lastUpdated: 20211221035047
