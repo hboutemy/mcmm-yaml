@@ -3,8 +3,8 @@
 groupId: com.bazaarvoice.maven.plugins
 artifactId: s3repo-maven-plugin
 versioning:
-  latest: 3.6
-  release: 3.6
+  latest: 3.7
+  release: 3.7
   versions:
   - 2.0.2
   - 2.0.3
@@ -15,4 +15,6 @@ versioning:
   - 3.4
   - 3.5
   - 3.6
-  lastUpdated: 20160421211217
+  - 3.7-RC1
+  - 3.7
+  lastUpdated: 20211222110720

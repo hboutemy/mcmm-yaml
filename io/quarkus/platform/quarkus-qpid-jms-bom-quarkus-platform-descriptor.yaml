@@ -3,8 +3,8 @@
 groupId: io.quarkus.platform
 artifactId: quarkus-qpid-jms-bom-quarkus-platform-descriptor
 versioning:
-  latest: 2.6.0.CR1
-  release: 2.6.0.CR1
+  latest: 2.6.0.Final
+  release: 2.6.0.Final
   versions:
   - 2.0.0.Final
   - 2.0.1.Final
@@ -35,4 +35,5 @@ versioning:
   - 2.5.2.Final
   - 2.5.3.Final
   - 2.6.0.CR1
-  lastUpdated: 20211221160416
+  - 2.6.0.Final
+  lastUpdated: 20211222142301

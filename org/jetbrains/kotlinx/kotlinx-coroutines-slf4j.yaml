@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlinx
 artifactId: kotlinx-coroutines-slf4j
 versioning:
-  latest: 1.6.0-RC3
-  release: 1.6.0-RC3
+  latest: 1.6.0-native-mt
+  release: 1.6.0-native-mt
   versions:
   - 0.25.0
   - 0.25.0-eap13
@@ -75,4 +75,6 @@ versioning:
   - 1.6.0-RC
   - 1.6.0-RC2
   - 1.6.0-RC3
-  lastUpdated: 20211217063115
+  - 1.6.0
+  - 1.6.0-native-mt
+  lastUpdated: 20211222113110

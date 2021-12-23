@@ -3,12 +3,14 @@
 groupId: org.jetbrains.kotlinx
 artifactId: kotlinx-coroutines-core-macosarm64
 versioning:
-  latest: 1.6.0-RC3
-  release: 1.6.0-RC3
+  latest: 1.6.0-native-mt
+  release: 1.6.0-native-mt
   versions:
   - 1.5.2
   - 1.5.2-native-mt
   - 1.6.0-RC
   - 1.6.0-RC2
   - 1.6.0-RC3
-  lastUpdated: 20211217063027
+  - 1.6.0
+  - 1.6.0-native-mt
+  lastUpdated: 20211222113030

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.apache.maven.wagon
 artifactId: wagon-http-shared
 versioning:
-  latest: 3.4.3
-  release: 3.4.3
+  latest: 3.5.0
+  release: 3.5.0
   versions:
   - 1.0-beta-2
   - 1.0-beta-3
@@ -37,4 +37,5 @@ versioning:
   - 3.4.1
   - 3.4.2
   - 3.4.3
-  lastUpdated: 20210223091649
+  - 3.5.0
+  lastUpdated: 20211222201428
