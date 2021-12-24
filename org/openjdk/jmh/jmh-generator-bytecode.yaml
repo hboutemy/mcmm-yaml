@@ -3,8 +3,8 @@
 groupId: org.openjdk.jmh
 artifactId: jmh-generator-bytecode
 versioning:
-  latest: 1.33
-  release: 1.33
+  latest: 1.34
+  release: 1.34
   versions:
   - 0.5
   - 0.5.2
@@ -94,5 +94,6 @@ versioning:
   - 1.31
   - 1.32
   - 1.33
+  - 1.34
   - 1.10
-  lastUpdated: 20210809101252
+  lastUpdated: 20211223151645
