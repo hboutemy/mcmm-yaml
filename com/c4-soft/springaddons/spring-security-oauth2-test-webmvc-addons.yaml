@@ -3,8 +3,8 @@
 groupId: com.c4-soft.springaddons
 artifactId: spring-security-oauth2-test-webmvc-addons
 versioning:
-  latest: 3.1.10-jdk17
-  release: 3.1.10-jdk17
+  latest: 3.1.11-jdk17
+  release: 3.1.11-jdk17
   versions:
   - 2.0.0
   - 2.0.1
@@ -63,4 +63,7 @@ versioning:
   - 3.1.10-jdk1.8
   - 3.1.10-jdk11
   - 3.1.10-jdk17
-  lastUpdated: 20211223031620
+  - 3.1.11-jdk1.8
+  - 3.1.11-jdk11
+  - 3.1.11-jdk17
+  lastUpdated: 20211224030222

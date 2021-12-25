@@ -3,8 +3,8 @@
 groupId: org.codehaus.cargo
 artifactId: cargo-daemon-itests-deployable-on-tomcat
 versioning:
-  latest: 1.9.8
-  release: 1.9.8
+  latest: 1.9.9
+  release: 1.9.9
   versions:
   - 1.4.14
   - 1.4.15
@@ -58,6 +58,7 @@ versioning:
   - 1.9.6
   - 1.9.7
   - 1.9.8
+  - 1.9.9
   - 1.3.2
   - 1.3.3
   - 1.4.0
@@ -74,4 +75,4 @@ versioning:
   - 1.4.7
   - 1.4.8
   - 1.4.9
-  lastUpdated: 20211018191550
+  lastUpdated: 20211224122440
