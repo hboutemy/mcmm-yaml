@@ -3,8 +3,8 @@
 groupId: com.marklogic
 artifactId: mlcp
 versioning:
-  latest: 10.0.8
-  release: 10.0.8
+  latest: 10.0.8.2
+  release: 10.0.8.2
   versions:
   - 9.0.1
   - 9.0.2
@@ -22,6 +22,7 @@ versioning:
   - 9.0.11
   - 9.0.12
   - 9.0.13
+  - 9.0.13.7
   - 10.0.1
   - 10.0.2
   - 10.0.3
@@ -33,4 +34,5 @@ versioning:
   - 10.0.6.1
   - 10.0.6.2
   - 10.0.8
-  lastUpdated: 20211005001418
+  - 10.0.8.2
+  lastUpdated: 20211225085423
