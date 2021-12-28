@@ -3,8 +3,8 @@
 groupId: com.alipay.sofa
 artifactId: jraft-example
 versioning:
-  latest: 1.3.9
-  release: 1.3.9
+  latest: 1.3.9.fix-log4j2
+  release: 1.3.9.fix-log4j2
   versions:
   - 1.2.3
   - 1.2.4
@@ -29,4 +29,5 @@ versioning:
   - 1.3.7
   - 1.3.8
   - 1.3.9
-  lastUpdated: 20211203084339
+  - 1.3.9.fix-log4j2
+  lastUpdated: 20211227084031
