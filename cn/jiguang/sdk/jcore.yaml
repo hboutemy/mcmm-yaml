@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: cn.jiguang.sdk
 artifactId: jcore
 versioning:
-  latest: 3.1.0
-  release: 3.1.0
+  latest: 3.1.2
+  release: 3.1.2
   versions:
   - 2.4.0
   - 2.4.2
@@ -23,4 +22,5 @@ versioning:
   - 3.0.0
   - 3.0.0-release
   - 3.1.0
-  lastUpdated: 20211216201752
+  - 3.1.2
+  lastUpdated: 20211229091045
