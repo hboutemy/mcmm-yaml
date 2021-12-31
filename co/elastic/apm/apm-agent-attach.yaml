@@ -3,8 +3,8 @@
 groupId: co.elastic.apm
 artifactId: apm-agent-attach
 versioning:
-  latest: 1.28.3
-  release: 1.28.3
+  latest: 1.28.4
+  release: 1.28.4
   versions:
   - 1.4.0
   - 1.5.0
@@ -34,10 +34,12 @@ versioning:
   - 1.25.0
   - 1.26.0
   - 1.26.1
+  - 1.26.2
   - 1.27.0
   - 1.27.1
   - 1.28.0
   - 1.28.1
   - 1.28.2
   - 1.28.3
-  lastUpdated: 20211222170516
+  - 1.28.4
+  lastUpdated: 20211230165213

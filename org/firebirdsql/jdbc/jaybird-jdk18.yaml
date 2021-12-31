@@ -3,8 +3,8 @@
 groupId: org.firebirdsql.jdbc
 artifactId: jaybird-jdk18
 versioning:
-  latest: 4.0.4.java8
-  release: 4.0.4.java8
+  latest: 4.0.5.java8
+  release: 4.0.5.java8
   versions:
   - 2.2.4
   - 2.2.5
@@ -34,6 +34,7 @@ versioning:
   - 3.0.9
   - 3.0.10
   - 3.0.11
+  - 3.0.12
   - 4.0.0-beta-1
   - 4.0.0.java8-beta-2
   - 4.0.0.java8
@@ -41,4 +42,5 @@ versioning:
   - 4.0.2.java8
   - 4.0.3.java8
   - 4.0.4.java8
-  lastUpdated: 20211002075044
+  - 4.0.5.java8
+  lastUpdated: 20211230095506

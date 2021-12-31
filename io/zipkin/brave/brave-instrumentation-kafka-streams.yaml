@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-instrumentation-kafka-streams
 versioning:
-  latest: 5.13.6
-  release: 5.13.6
+  latest: 5.13.7
+  release: 5.13.7
   versions:
   - 5.5.0
   - 5.5.1
@@ -50,4 +50,5 @@ versioning:
   - 5.13.4
   - 5.13.5
   - 5.13.6
-  lastUpdated: 20211222103751
+  - 5.13.7
+  lastUpdated: 20211230204352

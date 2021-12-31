@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-instrumentation-mysql6
 versioning:
-  latest: 5.13.6
-  release: 5.13.6
+  latest: 5.13.7
+  release: 5.13.7
   versions:
   - 4.5.2
   - 4.6.0
@@ -107,4 +107,5 @@ versioning:
   - 5.13.4
   - 5.13.5
   - 5.13.6
-  lastUpdated: 20211222103754
+  - 5.13.7
+  lastUpdated: 20211230204355
