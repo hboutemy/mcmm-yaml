@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: ru.yandex.clickhouse
 artifactId: clickhouse-jdbc
 versioning:
-  latest: 0.3.1-patch
-  release: 0.3.1-patch
+  latest: 0.3.2
+  release: 0.3.2
   versions:
   - 0.1.0
   - 0.1.1
@@ -72,4 +72,5 @@ versioning:
   - 0.3.0
   - 0.3.1
   - 0.3.1-patch
-  lastUpdated: 20210607043534
+  - 0.3.2
+  lastUpdated: 20211231003359
