@@ -3,8 +3,8 @@
 groupId: org.reactivemongo
 artifactId: reactivemongo-play-json-compat_2.12
 versioning:
-  latest: 1.0.10-play29
-  release: 1.0.10-play29
+  latest: 1.1.0-play29-RC2
+  release: 1.1.0-play29-RC2
   versions:
   - 0.19.2-play26
   - 0.19.2-play27
@@ -126,4 +126,8 @@ versioning:
   - 1.0.10-play27
   - 1.0.10-play28
   - 1.0.10-play29
-  lastUpdated: 20211218235450
+  - 1.1.0-play26-RC2
+  - 1.1.0-play27-RC2
+  - 1.1.0-play28-RC2
+  - 1.1.0-play29-RC2
+  lastUpdated: 20220103172803
