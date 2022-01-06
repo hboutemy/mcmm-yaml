@@ -3,8 +3,8 @@
 groupId: org.apache.maven.plugins
 artifactId: maven-release-plugin
 versioning:
-  latest: 3.0.0-M4
-  release: 3.0.0-M4
+  latest: 3.0.0-M5
+  release: 3.0.0-M5
   versions:
   - 2.0-beta-1
   - 2.0-beta-2
@@ -32,4 +32,5 @@ versioning:
   - 2.5.3
   - 3.0.0-M1
   - 3.0.0-M4
-  lastUpdated: 20210416081346
+  - 3.0.0-M5
+  lastUpdated: 20220105114646

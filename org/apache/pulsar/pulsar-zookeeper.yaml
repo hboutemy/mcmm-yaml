@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: pulsar-zookeeper
 versioning:
-  latest: 2.7.3
-  release: 2.7.3
+  latest: 2.7.4
+  release: 2.7.4
   versions:
   - 1.19.0-incubating
   - 1.20.0-incubating
@@ -35,4 +35,5 @@ versioning:
   - 2.7.1
   - 2.7.2
   - 2.7.3
-  lastUpdated: 20210922114847
+  - 2.7.4
+  lastUpdated: 20220105161217
