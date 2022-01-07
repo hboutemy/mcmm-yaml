@@ -3,8 +3,8 @@
 groupId: org.wildfly.security
 artifactId: wildfly-elytron-encryption
 versioning:
-  latest: 2.0.0.Alpha10
-  release: 2.0.0.Alpha10
+  latest: 2.0.0.Beta1
+  release: 2.0.0.Beta1
   versions:
   - 1.15.0.CR1
   - 1.15.0.Final
@@ -27,4 +27,5 @@ versioning:
   - 1.18.0.Final
   - 1.18.1.Final
   - 2.0.0.Alpha10
-  lastUpdated: 20220104211545
+  - 2.0.0.Beta1
+  lastUpdated: 20220106213824

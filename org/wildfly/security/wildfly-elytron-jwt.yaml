@@ -3,8 +3,8 @@
 groupId: org.wildfly.security
 artifactId: wildfly-elytron-jwt
 versioning:
-  latest: 2.0.0.Alpha10
-  release: 2.0.0.Alpha10
+  latest: 2.0.0.Beta1
+  release: 2.0.0.Beta1
   versions:
   - 1.10.5.Final
   - 1.10.6.Final
@@ -63,4 +63,5 @@ versioning:
   - 2.0.0.Alpha8
   - 2.0.0.Alpha9
   - 2.0.0.Alpha10
-  lastUpdated: 20220104211551
+  - 2.0.0.Beta1
+  lastUpdated: 20220106213829
