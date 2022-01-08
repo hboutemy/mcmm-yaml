@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf-provider-pagerduty
 versioning:
-  latest: 0.2.29
-  release: 0.2.29
+  latest: 0.2.146
+  release: 0.2.146
   versions:
   - 0.0.7
   - 0.0.8
@@ -341,4 +342,5 @@ versioning:
   - 0.2.27
   - 0.2.28
   - 0.2.29
-  lastUpdated: 20211218202546
+  - 0.2.146
+  lastUpdated: 20220107205649

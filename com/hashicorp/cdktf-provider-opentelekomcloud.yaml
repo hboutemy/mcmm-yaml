@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf-provider-opentelekomcloud
 versioning:
-  latest: 0.2.29
-  release: 0.2.29
+  latest: 0.2.145
+  release: 0.2.145
   versions:
   - 0.0.1
   - 0.0.2
@@ -192,4 +193,5 @@ versioning:
   - 0.2.27
   - 0.2.28
   - 0.2.29
-  lastUpdated: 20211218202710
+  - 0.2.145
+  lastUpdated: 20220107204358

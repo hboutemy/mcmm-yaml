@@ -3,8 +3,8 @@
 groupId: io.opentelemetry
 artifactId: opentelemetry-exporter-jaeger
 versioning:
-  latest: 1.10.0-rc.2
-  release: 1.10.0-rc.2
+  latest: 1.10.0
+  release: 1.10.0
   versions:
   - 0.10.0
   - 0.11.0
@@ -32,4 +32,5 @@ versioning:
   - 1.9.1
   - 1.10.0-rc.1
   - 1.10.0-rc.2
-  lastUpdated: 20211223050930
+  - 1.10.0
+  lastUpdated: 20220107055227

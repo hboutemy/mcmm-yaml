@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf-provider-google
 versioning:
-  latest: 0.5.27
-  release: 0.5.27
+  latest: 0.5.129
+  release: 0.5.129
   versions:
   - 0.3.11
   - 0.3.12
@@ -290,4 +291,5 @@ versioning:
   - 0.5.25
   - 0.5.26
   - 0.5.27
-  lastUpdated: 20211218203229
+  - 0.5.129
+  lastUpdated: 20220107205536
