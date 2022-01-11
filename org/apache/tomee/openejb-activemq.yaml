@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.apache.tomee
 artifactId: openejb-activemq
 versioning:
-  latest: 8.0.8
-  release: 8.0.8
+  latest: 8.0.9
+  release: 8.0.9
   versions:
   - 7.0.0-M1
   - 7.0.0-M2
@@ -37,4 +37,5 @@ versioning:
   - 8.0.6
   - 8.0.7
   - 8.0.8
-  lastUpdated: 20210909093353
+  - 8.0.9
+  lastUpdated: 20220110114717
