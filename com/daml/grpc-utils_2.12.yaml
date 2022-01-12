@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.daml
 artifactId: grpc-utils_2.12
 versioning:
-  latest: 1.18.1-snapshot.20220106.8429.0.ea344666
-  release: 1.18.1-snapshot.20220106.8429.0.ea344666
+  latest: 1.18.1-snapshot.20220110.8433.0.e8e25a11
+  release: 1.18.1-snapshot.20220110.8433.0.e8e25a11
   versions:
   - 0.13.56-snapshot.20200403.3814.0.47541e70
   - 0.13.56-snapshot.20200404.3816.0.30f2c742
@@ -194,5 +194,6 @@ versioning:
   - 1.18.0-snapshot.20211206.8423.0.2c945fcb
   - 1.18.0
   - 1.18.1-snapshot.20220106.8429.0.ea344666
+  - 1.18.1-snapshot.20220110.8433.0.e8e25a11
   - 1.11.0-snapshot.20210224.6385.0.dba114a2
-  lastUpdated: 20220106200906
+  lastUpdated: 20220111083352
