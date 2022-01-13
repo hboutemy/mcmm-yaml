@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.eclipse.scout.sdk
 artifactId: org.eclipse.scout.sdk
 versioning:
-  latest: 11.0.42
-  release: 11.0.42
+  latest: 12.0.0.beta_1
+  release: 12.0.0.beta_1
   versions:
   - 5.2.0.M4
   - 5.2.0.M5
@@ -142,5 +142,6 @@ versioning:
   - 11.0.39
   - 11.0.41
   - 11.0.42
+  - 12.0.0.beta_1
   - 6.0.0.M6_RelengTest
-  lastUpdated: 20211130210109
+  lastUpdated: 20220112161233

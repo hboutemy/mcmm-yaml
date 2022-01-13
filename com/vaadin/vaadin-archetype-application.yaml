@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.vaadin
 artifactId: vaadin-archetype-application
 versioning:
@@ -95,6 +96,8 @@ versioning:
   - 7.4.5
   - 7.4.6
   - 7.4.7
+  - 7.4.8
+  - 7.5.0.rc1
   - 7.5.0
   - 7.5.1
   - 7.5.2
@@ -347,6 +350,4 @@ versioning:
   - 22.0.0
   - 22.0.1
   - 22.0.2
-  - 7.4.8
-  - 7.5.0.rc1
-  lastUpdated: 20211227124553
+  lastUpdated: 20220111231625

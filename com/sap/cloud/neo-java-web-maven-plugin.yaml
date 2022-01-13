@@ -3,8 +3,8 @@
 groupId: com.sap.cloud
 artifactId: neo-java-web-maven-plugin
 versioning:
-  latest: 4.15.7
-  release: 4.15.7
+  latest: 4.17.4.1
+  release: 4.17.4.1
   versions:
   - 1.53.18.2
   - 1.54.23.3
@@ -421,6 +421,8 @@ versioning:
   - 3.140.5
   - 3.141.7
   - 3.142.7
+  - 3.143.4
+  - 3.144.4.1
   - 4.1.9
   - 4.2.4
   - 4.3.8
@@ -436,4 +438,6 @@ versioning:
   - 4.13.8
   - 4.14.6
   - 4.15.7
-  lastUpdated: 20211201143118
+  - 4.16.6
+  - 4.17.4.1
+  lastUpdated: 20220112142546

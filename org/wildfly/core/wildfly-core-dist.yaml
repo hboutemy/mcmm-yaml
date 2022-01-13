@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-core-dist
 versioning:
-  latest: 19.0.0.Beta1
-  release: 19.0.0.Beta1
+  latest: 19.0.0.Beta2
+  release: 19.0.0.Beta2
   versions:
   - 1.0.0.Alpha5
   - 1.0.0.Alpha6
@@ -307,5 +307,7 @@ versioning:
   - 18.0.0.Beta5
   - 18.0.0.Final
   - 18.0.1.Final
+  - 18.0.2.Final
   - 19.0.0.Beta1
-  lastUpdated: 20211216160956
+  - 19.0.0.Beta2
+  lastUpdated: 20220112151427

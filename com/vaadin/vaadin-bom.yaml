@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.vaadin
 artifactId: vaadin-bom
 versioning:
@@ -14,9 +15,12 @@ versioning:
   - 7.4.5
   - 7.4.6
   - 7.4.7
+  - 7.4.8
   - 7.5.0.beta1
   - 7.5.0.beta2
   - 7.5.0.beta3
+  - 7.5.0.rc1
+  - 7.5.0.rc2
   - 7.5.0
   - 7.5.1
   - 7.5.2
@@ -339,7 +343,4 @@ versioning:
   - 22.0.0
   - 22.0.1
   - 22.0.2
-  - 7.4.8
-  - 7.5.0.rc1
-  - 7.5.0.rc2
-  lastUpdated: 20211227120654
+  lastUpdated: 20220111225050

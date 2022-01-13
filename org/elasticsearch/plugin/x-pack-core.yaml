@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.plugin
 artifactId: x-pack-core
 versioning:
-  latest: 8.0.0-beta1
-  release: 8.0.0-beta1
+  latest: 8.0.0-rc1
+  release: 8.0.0-rc1
   versions:
   - 6.8.11
   - 6.8.12
@@ -48,4 +48,5 @@ versioning:
   - 8.0.0-alpha1
   - 8.0.0-alpha2
   - 8.0.0-beta1
-  lastUpdated: 20211219120119
+  - 8.0.0-rc1
+  lastUpdated: 20220112160145
