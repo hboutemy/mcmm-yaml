@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.plugin
 artifactId: lang-mustache-client
 versioning:
-  latest: 7.16.2
-  release: 7.16.2
+  latest: 7.16.3
+  release: 7.16.3
   versions:
   - 5.0.0-alpha5
   - 5.0.0-beta1
@@ -105,6 +105,7 @@ versioning:
   - 6.8.20
   - 6.8.21
   - 6.8.22
+  - 6.8.23
   - 7.0.0-alpha1
   - 7.0.0-alpha2
   - 7.0.0-beta1
@@ -158,4 +159,5 @@ versioning:
   - 7.16.0
   - 7.16.1
   - 7.16.2
-  lastUpdated: 20211219120114
+  - 7.16.3
+  lastUpdated: 20220113162822

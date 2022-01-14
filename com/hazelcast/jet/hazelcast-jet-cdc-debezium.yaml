@@ -3,8 +3,8 @@
 groupId: com.hazelcast.jet
 artifactId: hazelcast-jet-cdc-debezium
 versioning:
-  latest: 5.0.2
-  release: 5.0.2
+  latest: 5.1-BETA-1
+  release: 5.1-BETA-1
   versions:
   - 4.2
   - 4.3
@@ -19,4 +19,5 @@ versioning:
   - 5.0
   - 5.0.1
   - 5.0.2
-  lastUpdated: 20211221083511
+  - 5.1-BETA-1
+  lastUpdated: 20220113102115

@@ -3,8 +3,8 @@
 groupId: com.palantir.hadoop-crypto2
 artifactId: hadoop-crypto
 versioning:
-  latest: 3.2.0-rc1
-  release: 3.2.0-rc1
+  latest: 3.2.0
+  release: 3.2.0
   versions:
   - 2.0.0-rc5
   - 2.0.0-rc6
@@ -35,4 +35,5 @@ versioning:
   - 3.0.0
   - 3.1.0
   - 3.2.0-rc1
-  lastUpdated: 20211110172232
+  - 3.2.0
+  lastUpdated: 20220113164701

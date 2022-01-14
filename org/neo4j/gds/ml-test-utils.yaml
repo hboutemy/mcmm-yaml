@@ -3,8 +3,8 @@
 groupId: org.neo4j.gds
 artifactId: ml-test-utils
 versioning:
-  latest: 1.8.1
-  release: 1.8.1
+  latest: 2.0.0-alpha01
+  release: 2.0.0-alpha01
   versions:
   - 1.6.0-alpha06
   - 1.6.0-alpha07
@@ -30,4 +30,6 @@ versioning:
   - 1.8.0-alpha04
   - 1.8.0
   - 1.8.1
-  lastUpdated: 20211220145739
+  - 1.8.2
+  - 2.0.0-alpha01
+  lastUpdated: 20220113192409
