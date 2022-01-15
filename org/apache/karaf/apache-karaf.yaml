@@ -3,8 +3,8 @@
 groupId: org.apache.karaf
 artifactId: apache-karaf
 versioning:
-  latest: 4.3.5
-  release: 4.3.5
+  latest: 4.3.6
+  release: 4.3.6
   versions:
   - 2.0.0
   - 2.1.0
@@ -95,6 +95,7 @@ versioning:
   - 4.2.12
   - 4.2.13
   - 4.2.14
+  - 4.2.15
   - 4.3.0.RC1
   - 4.3.0
   - 4.3.1
@@ -102,4 +103,5 @@ versioning:
   - 4.3.3
   - 4.3.4
   - 4.3.5
-  lastUpdated: 20211224091133
+  - 4.3.6
+  lastUpdated: 20220114080343
