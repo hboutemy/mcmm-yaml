@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-logging
 versioning:
-  latest: v2-rev20211130-1.32.1
-  release: v2-rev20211130-1.32.1
+  latest: v2-rev20211223-1.32.1
+  release: v2-rev20211223-1.32.1
   versions:
   - v1beta3-rev1-1.18.0-rc
   - v1beta3-rev1-1.19.0
@@ -904,4 +904,5 @@ versioning:
   - v2-rev20211019-1.32.1
   - v2-rev20211108-1.32.1
   - v2-rev20211130-1.32.1
-  lastUpdated: 20211211210534
+  - v2-rev20211223-1.32.1
+  lastUpdated: 20220117211819

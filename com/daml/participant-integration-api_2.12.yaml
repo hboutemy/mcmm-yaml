@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.daml
 artifactId: participant-integration-api_2.12
 versioning:
-  latest: 1.18.1-snapshot.20220113.8434.1.1724373f
-  release: 1.18.1-snapshot.20220113.8434.1.1724373f
+  latest: 1.18.1
+  release: 1.18.1
   versions:
   - 1.4.0-snapshot.20200722.4796.0.28ab504b
   - 1.4.0-snapshot.20200722.4800.0.21a16eef
@@ -162,5 +162,6 @@ versioning:
   - 1.18.1-snapshot.20220110.8433.0.e8e25a11
   - 1.18.1-snapshot.20220113.8434.0.1724373f
   - 1.18.1-snapshot.20220113.8434.1.1724373f
+  - 1.18.1
   - 1.11.0-snapshot.20210224.6385.0.dba114a2
-  lastUpdated: 20220113155317
+  lastUpdated: 20220117091308
