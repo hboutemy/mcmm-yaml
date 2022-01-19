@@ -3,8 +3,8 @@
 groupId: jakarta.persistence
 artifactId: jakarta.persistence-api
 versioning:
-  latest: 3.0.0
-  release: 3.0.0
+  latest: 3.1.0-RC2
+  release: 3.1.0-RC2
   versions:
   - 2.2.1
   - 2.2.2
@@ -12,4 +12,6 @@ versioning:
   - 3.0.0-RC1
   - 3.0.0-RC2
   - 3.0.0
-  lastUpdated: 20201104103257
+  - 3.1.0-RC1
+  - 3.1.0-RC2
+  lastUpdated: 20220118090007

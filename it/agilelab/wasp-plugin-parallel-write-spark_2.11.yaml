@@ -3,8 +3,8 @@
 groupId: it.agilelab
 artifactId: wasp-plugin-parallel-write-spark_2.11
 versioning:
-  latest: 2.27.1-cdp717
-  release: 2.27.1-cdp717
+  latest: 2.27.2-cdp717
+  release: 2.27.2-cdp717
   versions:
   - 2.27.0
   - 2.27.0-cdh6
@@ -12,4 +12,7 @@ versioning:
   - 2.27.1
   - 2.27.1-cdh6
   - 2.27.1-cdp717
-  lastUpdated: 20211126110211
+  - 2.27.2
+  - 2.27.2-cdh6
+  - 2.27.2-cdp717
+  lastUpdated: 20220118155235

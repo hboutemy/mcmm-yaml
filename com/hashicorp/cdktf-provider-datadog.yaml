@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf-provider-datadog
 versioning:
-  latest: 0.3.226
-  release: 0.3.226
+  latest: 0.3.101
+  release: 0.3.101
   versions:
   - 0.2.8
   - 0.2.9
@@ -357,4 +356,5 @@ versioning:
   - 0.3.224
   - 0.3.225
   - 0.3.226
-  lastUpdated: 20220117003230
+  - 0.3.227
+  lastUpdated: 20211218203502

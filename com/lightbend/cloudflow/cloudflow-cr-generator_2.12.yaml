@@ -3,8 +3,8 @@
 groupId: com.lightbend.cloudflow
 artifactId: cloudflow-cr-generator_2.12
 versioning:
-  latest: 2.3.0-RC27
-  release: 2.3.0-RC27
+  latest: 2.3.0-try-stack-size-1
+  release: 2.3.0-try-stack-size-1
   versions:
   - 2.1.0-NIGHTLY20210525
   - 2.1.1
@@ -157,4 +157,8 @@ versioning:
   - 2.3.0-RC25
   - 2.3.0-RC26
   - 2.3.0-RC27
-  lastUpdated: 20220117222005
+  - 2.3.0-RC28
+  - 2.3.0-RC29
+  - 2.3.0-RC30
+  - 2.3.0-try-stack-size-1
+  lastUpdated: 20220118105629

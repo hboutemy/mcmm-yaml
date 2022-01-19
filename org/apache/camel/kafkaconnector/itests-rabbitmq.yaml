@@ -3,8 +3,8 @@
 groupId: org.apache.camel.kafkaconnector
 artifactId: itests-rabbitmq
 versioning:
-  latest: 0.11.0
-  release: 0.11.0
+  latest: 1.0.0
+  release: 1.0.0
   versions:
   - 0.6.0
   - 0.6.1
@@ -17,4 +17,5 @@ versioning:
   - 0.10.0
   - 0.10.1
   - 0.11.0
-  lastUpdated: 20210924191850
+  - 1.0.0
+  lastUpdated: 20220118143223

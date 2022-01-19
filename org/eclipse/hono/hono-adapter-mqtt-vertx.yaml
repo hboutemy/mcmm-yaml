@@ -3,8 +3,8 @@
 groupId: org.eclipse.hono
 artifactId: hono-adapter-mqtt-vertx
 versioning:
-  latest: 1.10.0
-  release: 1.10.0
+  latest: 1.10.1
+  release: 1.10.1
   versions:
   - 0.5-M2
   - 0.5-M3
@@ -79,4 +79,5 @@ versioning:
   - 1.9.0
   - 1.9.1
   - 1.10.0
-  lastUpdated: 20211006065714
+  - 1.10.1
+  lastUpdated: 20220118073513
