@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.identity.local.auth.fido
 artifactId: org.wso2.carbon.identity.application.authenticator.fido2.server.feature
 versioning:
-  latest: 5.3.12
-  release: 5.3.12
+  latest: 5.3.14
+  release: 5.3.14
   versions:
   - 5.1.25
   - 5.2.0
@@ -29,4 +29,6 @@ versioning:
   - 5.3.10
   - 5.3.11
   - 5.3.12
-  lastUpdated: 20211026052419
+  - 5.3.13
+  - 5.3.14
+  lastUpdated: 20220119121054

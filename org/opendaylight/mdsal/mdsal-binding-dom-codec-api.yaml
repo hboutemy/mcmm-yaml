@@ -3,8 +3,8 @@
 groupId: org.opendaylight.mdsal
 artifactId: mdsal-binding-dom-codec-api
 versioning:
-  latest: 8.0.9
-  release: 8.0.9
+  latest: 8.0.10
+  release: 8.0.10
   versions:
   - 6.0.0
   - 6.0.1
@@ -32,6 +32,7 @@ versioning:
   - 7.0.10
   - 7.0.11
   - 7.0.12
+  - 7.0.13
   - 8.0.0
   - 8.0.1
   - 8.0.2
@@ -42,4 +43,5 @@ versioning:
   - 8.0.7
   - 8.0.8
   - 8.0.9
-  lastUpdated: 20220110123907
+  - 8.0.10
+  lastUpdated: 20220119104443

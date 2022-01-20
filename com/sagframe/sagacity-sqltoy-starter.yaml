@@ -3,8 +3,8 @@
 groupId: com.sagframe
 artifactId: sagacity-sqltoy-starter
 versioning:
-  latest: 5.1.24.RC1
-  release: 5.1.24.RC1
+  latest: 5.1.24.jre11
+  release: 5.1.24.jre11
   versions:
   - 4.9.9
   - 4.9.10
@@ -256,6 +256,7 @@ versioning:
   - 4.19.13
   - 4.19.14
   - 4.19.15.RC1
+  - 4.19.15
   - 5.0.0.RC1
   - 5.0.0.RC2
   - 5.0.0.RC3
@@ -334,5 +335,7 @@ versioning:
   - 5.1.23
   - 5.1.23.jre11
   - 5.1.24.RC1
+  - 5.1.24
+  - 5.1.24.jre11
   - 4.18.47
-  lastUpdated: 20220118152701
+  lastUpdated: 20220119125551

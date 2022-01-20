@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: lock-impl
 versioning:
-  latest: 0.520.0-rc1
-  release: 0.520.0-rc1
+  latest: 0.520.0
+  release: 0.520.0
   versions:
   - 0.311.6
   - 0.311.7
@@ -236,4 +236,6 @@ versioning:
   - 0.519.0-rc1
   - 0.519.0
   - 0.520.0-rc1
-  lastUpdated: 20220118172415
+  - 0.520.0-rc3
+  - 0.520.0
+  lastUpdated: 20220119175435
