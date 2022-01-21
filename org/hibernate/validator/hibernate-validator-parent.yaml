@@ -3,9 +3,11 @@
 groupId: org.hibernate.validator
 artifactId: hibernate-validator-parent
 versioning:
-  latest: 7.0.1.Final
-  release: 7.0.1.Final
+  latest: 7.0.2.Final
+  release: 7.0.2.Final
   versions:
+  - 6.2.1.Final
+  - 7.0.2.Final
   - 6.0.0.Alpha1
   - 6.0.0.Alpha2
   - 6.0.0.Beta1
@@ -15,14 +17,6 @@ versioning:
   - 6.0.0.CR3
   - 6.0.0.Final
   - 6.0.1.Final
-  - 6.0.2.Final
-  - 6.0.3.Final
-  - 6.0.4.Final
-  - 6.0.5.Final
-  - 6.0.6.Final
-  - 6.0.7.Final
-  - 6.0.8.Final
-  - 6.0.9.Final
   - 6.0.10.Final
   - 6.0.11.Final
   - 6.0.12.Final
@@ -33,9 +27,17 @@ versioning:
   - 6.0.17.Final
   - 6.0.18.Final
   - 6.0.19.Final
+  - 6.0.2.Final
   - 6.0.20.Final
   - 6.0.21.Final
   - 6.0.22.Final
+  - 6.0.3.Final
+  - 6.0.4.Final
+  - 6.0.5.Final
+  - 6.0.6.Final
+  - 6.0.7.Final
+  - 6.0.8.Final
+  - 6.0.9.Final
   - 6.1.0.Alpha1
   - 6.1.0.Alpha2
   - 6.1.0.Alpha3
@@ -61,6 +63,4 @@ versioning:
   - 7.0.0.CR1
   - 7.0.0.Final
   - 7.0.1.Final
-  - 6.2.1.Final
-  - 7.0.2.Final
-  lastUpdated: 20210206183307
+  lastUpdated: 20211214144853

@@ -3,8 +3,8 @@
 groupId: com.singlestore
 artifactId: singlestore-spark-connector_2.12
 versioning:
-  latest: 3.2.2-spark-3.2.0
-  release: 3.2.2-spark-3.2.0
+  latest: 4.0.0-spark-3.2.0
+  release: 4.0.0-spark-3.2.0
   versions:
   - 3.1.0-spark-3.0.0
   - 3.1.1-spark-3.0.0
@@ -19,4 +19,7 @@ versioning:
   - 3.2.2-spark-3.0.0
   - 3.2.2-spark-3.1.0
   - 3.2.2-spark-3.2.0
-  lastUpdated: 20211223204747
+  - 4.0.0-spark-3.0.0
+  - 4.0.0-spark-3.1.0
+  - 4.0.0-spark-3.2.0
+  lastUpdated: 20220120171207

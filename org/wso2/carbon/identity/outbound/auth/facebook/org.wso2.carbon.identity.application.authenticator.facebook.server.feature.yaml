@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.identity.outbound.auth.facebook
 artifactId: org.wso2.carbon.identity.application.authenticator.facebook.server.feature
 versioning:
-  latest: 5.1.23
-  release: 5.1.23
+  latest: 5.2.0
+  release: 5.2.0
   versions:
   - 5.1.10
   - 5.1.11
@@ -19,4 +19,5 @@ versioning:
   - 5.1.21
   - 5.1.22
   - 5.1.23
-  lastUpdated: 20210903160316
+  - 5.2.0
+  lastUpdated: 20220120120920

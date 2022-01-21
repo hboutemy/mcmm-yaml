@@ -3,8 +3,8 @@
 groupId: com.google.cloud.spark
 artifactId: spark-bigquery-with-dependencies_2.12
 versioning:
-  latest: 0.23.1
-  release: 0.23.1
+  latest: 0.23.2
+  release: 0.23.2
   versions:
   - 0.12.0-beta
   - 0.13.0-beta
@@ -30,4 +30,5 @@ versioning:
   - 0.22.2
   - 0.23.0
   - 0.23.1
-  lastUpdated: 20211209000600
+  - 0.23.2
+  lastUpdated: 20220120161228

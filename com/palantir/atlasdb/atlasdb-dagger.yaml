@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-dagger
 versioning:
-  latest: 0.520.0
-  release: 0.520.0
+  latest: 0.521.0-rc1
+  release: 0.521.0-rc1
   versions:
   - 0.311.7
   - 0.312.2-rc2
@@ -236,4 +236,5 @@ versioning:
   - 0.520.0-rc1
   - 0.520.0-rc3
   - 0.520.0
-  lastUpdated: 20220119175337
+  - 0.521.0-rc1
+  lastUpdated: 20220120121225

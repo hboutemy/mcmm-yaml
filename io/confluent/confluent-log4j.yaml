@@ -3,13 +3,17 @@
 groupId: io.confluent
 artifactId: confluent-log4j
 versioning:
-  latest: 1.2.17-cp6
-  release: 1.2.17-cp6
+  latest: 1.2.17-cp8
+  release: 1.2.17-cp8
   versions:
   - 1.2.17-cp1
   - 1.2.17-cp2
+  - 1.2.17-cp2.1
+  - 1.2.17-cp2.2
   - 1.2.17-cp3
   - 1.2.17-cp4
   - 1.2.17-cp5
   - 1.2.17-cp6
-  lastUpdated: 20211215024123
+  - 1.2.17-cp7
+  - 1.2.17-cp8
+  lastUpdated: 20220120231935

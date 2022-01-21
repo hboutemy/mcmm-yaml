@@ -3,8 +3,8 @@
 groupId: com.commercetools
 artifactId: sphere-mongo-derivation-magnolia_2.12
 versioning:
-  latest: 0.12.6
-  release: 0.12.6
+  latest: 0.12.6-optimize-money-3
+  release: 0.12.6-optimize-money-3
   versions:
   - 0.12.split_money_alpha1
   - 0.12.2
@@ -13,4 +13,5 @@ versioning:
   - 0.12.5
   - 0.12.5-money-2
   - 0.12.6
-  lastUpdated: 20220119063440
+  - 0.12.6-optimize-money-3
+  lastUpdated: 20220120145504

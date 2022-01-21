@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.is
 artifactId: wso2is-identity-authenticators
 versioning:
-  latest: 5.12.0-m35
-  release: 5.12.0-m35
+  latest: 5.13.0-m1
+  release: 5.13.0-m1
   versions:
   - 5.4.0-alpha4
   - 5.4.0-alpha5
@@ -154,6 +154,7 @@ versioning:
   - 5.12.0-alpha8
   - 5.12.0-alpha9
   - 5.12.0-alpha10
+  - 5.12.0-alpha11
   - 5.12.0-m1
   - 5.12.0-m2
   - 5.12.0-m3
@@ -189,4 +190,5 @@ versioning:
   - 5.12.0-m33
   - 5.12.0-m34
   - 5.12.0-m35
-  lastUpdated: 20220113131756
+  - 5.13.0-m1
+  lastUpdated: 20220120084954

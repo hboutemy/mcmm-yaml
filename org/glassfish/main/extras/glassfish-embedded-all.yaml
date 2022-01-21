@@ -1,11 +1,23 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.main.extras
 artifactId: glassfish-embedded-all
 versioning:
   latest: 7.0.0-M1
   release: 7.0.0-M1
   versions:
+  - 3.1.2
+  - 3.1.2.2
+  - 4.0-b72
+  - 4.0-b90
+  - 4.0
+  - 4.1
+  - 4.1.1
+  - 4.1.2
+  - 5.0
+  - 5.1.0-RC2
+  - 5.1.0
   - 6.1.0
   - 6.2.0
   - 6.2.1
@@ -13,15 +25,4 @@ versioning:
   - 6.2.3
   - 6.2.4
   - 7.0.0-M1
-  - 3.1.2
-  - 3.1.2.2
-  - 4.0
-  - 4.0-b72
-  - 4.0-b90
-  - 4.1
-  - 4.1.1
-  - 4.1.2
-  - 5.0
-  - 5.1.0
-  - 5.1.0-RC2
-  lastUpdated: 20220109194435
+  lastUpdated: 20220120005253

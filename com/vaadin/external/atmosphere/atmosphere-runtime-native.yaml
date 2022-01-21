@@ -3,8 +3,8 @@
 groupId: com.vaadin.external.atmosphere
 artifactId: atmosphere-runtime-native
 versioning:
-  latest: 2.7.3.slf4jvaadin1
-  release: 2.7.3.slf4jvaadin1
+  latest: 2.7.3.slf4jvaadin3
+  release: 2.7.3.slf4jvaadin3
   versions:
   - 2.0.1-vaadin1
   - 2.0.3.vaadin1
@@ -50,4 +50,6 @@ versioning:
   - 2.7.0.slf4jvaadin1
   - 2.7.2.slf4jvaadin1
   - 2.7.3.slf4jvaadin1
-  lastUpdated: 20220117104137
+  - 2.7.3.slf4jvaadin2
+  - 2.7.3.slf4jvaadin3
+  lastUpdated: 20220120094729
