@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-shaded-zookeeper-3
 versioning:
-  latest: 3.5.9-14.0
-  release: 3.5.9-14.0
+  latest: 3.6.3-15.0
+  release: 3.6.3-15.0
   versions:
   - 3.4.10-10.0
   - 3.4.14-11.0
@@ -16,4 +16,6 @@ versioning:
   - 3.5.6-12.0
   - 3.5.6-13.0
   - 3.5.9-14.0
-  lastUpdated: 20210721072600
+  - 3.5.9-15.0
+  - 3.6.3-15.0
+  lastUpdated: 20220121143245

@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-impl-shared
 versioning:
-  latest: 0.521.0-rc1
-  release: 0.521.0-rc1
+  latest: 0.524.0
+  release: 0.524.0
   versions:
   - 0.311.6
   - 0.311.7
@@ -239,4 +239,8 @@ versioning:
   - 0.520.0-rc3
   - 0.520.0
   - 0.521.0-rc1
-  lastUpdated: 20220120121236
+  - 0.521.0
+  - 0.522.0
+  - 0.523.0
+  - 0.524.0
+  lastUpdated: 20220121165738

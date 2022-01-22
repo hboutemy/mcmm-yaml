@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.workflow.template.multisteps
 artifactId: org.wso2.carbon.identity.workflow.template.server.feature
 versioning:
-  latest: 5.4.3
-  release: 5.4.3
+  latest: 5.5.0
+  release: 5.5.0
   versions:
   - 5.1.5
   - 5.3.5
@@ -13,4 +13,5 @@ versioning:
   - 5.4.1
   - 5.4.2
   - 5.4.3
-  lastUpdated: 20210610172706
+  - 5.5.0
+  lastUpdated: 20220121091323
