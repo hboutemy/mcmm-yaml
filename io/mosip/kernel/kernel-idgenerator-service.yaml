@@ -3,8 +3,8 @@
 groupId: io.mosip.kernel
 artifactId: kernel-idgenerator-service
 versioning:
-  latest: 1.2.0-rc1
-  release: 1.2.0-rc1
+  latest: 1.2.0-prerel
+  release: 1.2.0-prerel
   versions:
   - 1.1.1-rc1
   - 1.1.2-rc2
@@ -22,4 +22,5 @@ versioning:
   - 1.1.5.3
   - 1.1.5.4
   - 1.2.0-rc1
-  lastUpdated: 20210811131424
+  - 1.2.0-prerel
+  lastUpdated: 20220124172217

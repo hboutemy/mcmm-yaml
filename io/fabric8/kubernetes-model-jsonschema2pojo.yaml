@@ -3,8 +3,8 @@
 groupId: io.fabric8
 artifactId: kubernetes-model-jsonschema2pojo
 versioning:
-  latest: 5.11.2
-  release: 5.11.2
+  latest: 5.12.0
+  release: 5.12.0
   versions:
   - 5.0.0-alpha-3
   - 5.0.0-beta-1
@@ -39,4 +39,5 @@ versioning:
   - 5.11.0
   - 5.11.1
   - 5.11.2
-  lastUpdated: 20220107064400
+  - 5.12.0
+  lastUpdated: 20220124111215

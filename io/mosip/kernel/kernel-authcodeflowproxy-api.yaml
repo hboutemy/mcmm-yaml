@@ -3,8 +3,8 @@
 groupId: io.mosip.kernel
 artifactId: kernel-authcodeflowproxy-api
 versioning:
-  latest: 1.2.0-rc1
-  release: 1.2.0-rc1
+  latest: 1.2.0-prerel
+  release: 1.2.0-prerel
   versions:
   - 1.1.2-rc2
   - 1.1.2-rc3
@@ -20,4 +20,5 @@ versioning:
   - 1.1.5.2
   - 1.1.5.3
   - 1.2.0-rc1
-  lastUpdated: 20210811131409
+  - 1.2.0-prerel
+  lastUpdated: 20220124172203

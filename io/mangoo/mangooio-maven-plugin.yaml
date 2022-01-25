@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.mangoo
 artifactId: mangooio-maven-plugin
 versioning:
-  latest: 7.1.0-RC1
-  release: 7.1.0-RC1
+  latest: 7.1.0-RC3
+  release: 7.1.0-RC3
   versions:
   - 1.0.0-RC4
   - 1.0.0-RC5
@@ -338,5 +338,7 @@ versioning:
   - 7.1.0-Beta1
   - 7.1.0-Beta2
   - 7.1.0-RC1
+  - 7.1.0-RC2
+  - 7.1.0-RC3
   - 4.0.0-Aplha1
-  lastUpdated: 20220118130337
+  lastUpdated: 20220124180249
