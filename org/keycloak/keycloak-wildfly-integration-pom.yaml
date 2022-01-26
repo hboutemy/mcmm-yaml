@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-wildfly-integration-pom
 versioning:
-  latest: 16.1.0
-  release: 16.1.0
+  latest: 16.1.1
+  release: 16.1.1
   versions:
   - 1.3.0.Final
   - 1.3.1.Final
@@ -111,5 +111,6 @@ versioning:
   - 15.1.1
   - 16.0.0
   - 16.1.0
+  - 16.1.1
   - 1.5.0.Final
-  lastUpdated: 20211220155900
+  lastUpdated: 20220125101049

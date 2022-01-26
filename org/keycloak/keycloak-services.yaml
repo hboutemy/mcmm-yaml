@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-services
 versioning:
-  latest: 16.1.0
-  release: 16.1.0
+  latest: 16.1.1
+  release: 16.1.1
   versions:
   - 1.0-alpha-1
   - 1.0-alpha-1-12062013
@@ -137,5 +137,6 @@ versioning:
   - 15.1.1
   - 16.0.0
   - 16.1.0
+  - 16.1.1
   - 1.5.0.Final
-  lastUpdated: 20211220155827
+  lastUpdated: 20220125101023

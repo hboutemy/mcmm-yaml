@@ -3,8 +3,8 @@
 groupId: org.keycloak
 artifactId: keycloak-sssd-federation
 versioning:
-  latest: 16.1.0
-  release: 16.1.0
+  latest: 16.1.1
+  release: 16.1.1
   versions:
   - 2.2.0.CR1
   - 2.2.0.Final
@@ -82,4 +82,5 @@ versioning:
   - 15.1.1
   - 16.0.0
   - 16.1.0
-  lastUpdated: 20211220155842
+  - 16.1.1
+  lastUpdated: 20220125101032

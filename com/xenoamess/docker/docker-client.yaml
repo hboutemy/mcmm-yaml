@@ -3,11 +3,13 @@
 groupId: com.xenoamess.docker
 artifactId: docker-client
 versioning:
-  latest: 8.17.1
-  release: 8.17.1
+  latest: 8.17.2
+  release: 8.17.2
   versions:
   - 8.16.2
   - 8.16.3
   - 8.17.0
   - 8.17.1
-  lastUpdated: 20220120191842
+  - 8.17.2-beta1
+  - 8.17.2
+  lastUpdated: 20220125191834

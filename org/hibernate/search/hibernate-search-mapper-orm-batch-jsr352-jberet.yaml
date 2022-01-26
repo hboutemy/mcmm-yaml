@@ -3,9 +3,15 @@
 groupId: org.hibernate.search
 artifactId: hibernate-search-mapper-orm-batch-jsr352-jberet
 versioning:
-  latest: 6.1.0.Alpha1
-  release: 6.1.0.Alpha1
+  latest: 6.1.0.Final
+  release: 6.1.0.Final
   versions:
+  - 6.0.7.Final
+  - 6.0.8.Final
+  - 6.1.0.Beta1
+  - 6.1.0.Beta2
+  - 6.1.0.CR1
+  - 6.1.0.Final
   - 6.0.0.CR1
   - 6.0.0.CR2
   - 6.0.0.Final
@@ -16,9 +22,4 @@ versioning:
   - 6.0.5.Final
   - 6.0.6.Final
   - 6.1.0.Alpha1
-  - 6.0.7.Final
-  - 6.0.8.Final
-  - 6.1.0.Beta1
-  - 6.1.0.Beta2
-  - 6.1.0.CR1
-  lastUpdated: 20210909164452
+  lastUpdated: 20220125134004
