@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-container-image-docker
 versioning:
-  latest: 2.7.0.CR1
-  release: 2.7.0.CR1
+  latest: 2.7.0.Final
+  release: 2.7.0.Final
   versions:
   - 1.3.0.CR1
   - 1.3.0.CR2
@@ -115,4 +115,5 @@ versioning:
   - 2.6.2.Final
   - 2.6.3.Final
   - 2.7.0.CR1
-  lastUpdated: 20220120103542
+  - 2.7.0.Final
+  lastUpdated: 20220126141122

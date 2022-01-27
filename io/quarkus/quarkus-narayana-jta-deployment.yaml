@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-narayana-jta-deployment
 versioning:
-  latest: 2.7.0.CR1
-  release: 2.7.0.CR1
+  latest: 2.7.0.Final
+  release: 2.7.0.Final
   versions:
   - 0.13.0
   - 0.13.1
@@ -154,4 +154,5 @@ versioning:
   - 2.6.2.Final
   - 2.6.3.Final
   - 2.7.0.CR1
-  lastUpdated: 20220120103701
+  - 2.7.0.Final
+  lastUpdated: 20220126141250

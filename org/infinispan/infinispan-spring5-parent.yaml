@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-spring5-parent
 versioning:
-  latest: 13.0.5.Final
-  release: 13.0.5.Final
+  latest: 13.0.6.Final
+  release: 13.0.6.Final
   versions:
   - 9.4.4.Final
   - 9.4.5.Final
@@ -27,6 +27,7 @@ versioning:
   - 9.4.21.Final
   - 9.4.22.Final
   - 9.4.23.Final
+  - 9.4.24.Final
   - 10.0.0.Alpha2
   - 10.0.0.Alpha3
   - 10.0.0.Beta1
@@ -108,5 +109,6 @@ versioning:
   - 13.0.3.Final
   - 13.0.4.Final
   - 13.0.5.Final
+  - 13.0.6.Final
   - 12.0.0.Dev3
-  lastUpdated: 20220110105300
+  lastUpdated: 20220126113700

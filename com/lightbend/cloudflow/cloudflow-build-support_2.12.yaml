@@ -3,8 +3,8 @@
 groupId: com.lightbend.cloudflow
 artifactId: cloudflow-build-support_2.12
 versioning:
-  latest: 2.3.1-RC0
-  release: 2.3.1-RC0
+  latest: 2.3.1-RC01
+  release: 2.3.1-RC01
   versions:
   - 2.1.0-NIGHTLY20210525
   - 2.1.1
@@ -170,4 +170,6 @@ versioning:
   - 2.3.0
   - 2.3.0-try-stack-size-1
   - 2.3.1-RC0
-  lastUpdated: 20220125201116
+  - 2.3.1-RC01
+  - 2.3.1-RC1
+  lastUpdated: 20220126092351

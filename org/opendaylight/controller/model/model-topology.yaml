@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.controller.model
 artifactId: model-topology
 versioning:
-  latest: 3.0.15
-  release: 3.0.15
+  latest: 3.0.16
+  release: 3.0.16
   versions:
   - 1.0
   - 1.1-Helium
@@ -87,4 +87,5 @@ versioning:
   - 3.0.13
   - 3.0.14
   - 3.0.15
-  lastUpdated: 20220119124725
+  - 3.0.16
+  lastUpdated: 20220126155353

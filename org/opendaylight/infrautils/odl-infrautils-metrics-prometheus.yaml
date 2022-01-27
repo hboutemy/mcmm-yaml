@@ -3,8 +3,8 @@
 groupId: org.opendaylight.infrautils
 artifactId: odl-infrautils-metrics-prometheus
 versioning:
-  latest: 2.0.12
-  release: 2.0.12
+  latest: 2.0.13
+  release: 2.0.13
   versions:
   - 1.4.0
   - 1.4.1
@@ -43,6 +43,7 @@ versioning:
   - 1.9.12
   - 1.9.13
   - 1.9.14
+  - 1.9.15
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -56,4 +57,5 @@ versioning:
   - 2.0.10
   - 2.0.11
   - 2.0.12
-  lastUpdated: 20220119075128
+  - 2.0.13
+  lastUpdated: 20220125235305

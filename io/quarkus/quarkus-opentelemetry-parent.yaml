@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-opentelemetry-parent
 versioning:
-  latest: 2.7.0.CR1
-  release: 2.7.0.CR1
+  latest: 2.7.0.Final
+  release: 2.7.0.Final
   versions:
   - 1.13.0.Final
   - 1.13.1.Final
@@ -56,4 +56,5 @@ versioning:
   - 2.6.2.Final
   - 2.6.3.Final
   - 2.7.0.CR1
-  lastUpdated: 20220120103714
+  - 2.7.0.Final
+  lastUpdated: 20220126141307

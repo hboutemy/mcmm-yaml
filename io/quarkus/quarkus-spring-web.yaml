@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-spring-web
 versioning:
-  latest: 2.7.0.CR1
-  release: 2.7.0.CR1
+  latest: 2.7.0.Final
+  release: 2.7.0.Final
   versions:
   - 0.21.0
   - 0.21.1
@@ -141,4 +141,5 @@ versioning:
   - 2.6.2.Final
   - 2.6.3.Final
   - 2.7.0.CR1
-  lastUpdated: 20220120103814
+  - 2.7.0.Final
+  lastUpdated: 20220126141420
