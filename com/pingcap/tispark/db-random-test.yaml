@@ -3,12 +3,15 @@
 groupId: com.pingcap.tispark
 artifactId: db-random-test
 versioning:
-  latest: 2.5.0-rc.1
-  release: 2.5.0-rc.1
+  latest: 2.5.0
+  release: 2.5.0
   versions:
   - 2.3.15
   - 2.3.16
   - 2.4.1
   - 2.4.2
+  - 2.4.3-scala_2.11
+  - 2.4.3-scala_2.12
   - 2.5.0-rc.1
-  lastUpdated: 20211110102911
+  - 2.5.0
+  lastUpdated: 20220127093429

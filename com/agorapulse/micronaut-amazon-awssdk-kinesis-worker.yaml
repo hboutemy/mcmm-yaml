@@ -3,9 +3,11 @@
 groupId: com.agorapulse
 artifactId: micronaut-amazon-awssdk-kinesis-worker
 versioning:
-  latest: 1.5.1
-  release: 1.5.1
+  latest: 1.6.0-micronaut-2.0
+  release: 1.6.0-micronaut-2.0
   versions:
   - 1.5.0
   - 1.5.1
-  lastUpdated: 20211129131011
+  - 1.6.0-micronaut-1.0
+  - 1.6.0-micronaut-2.0
+  lastUpdated: 20220127114606

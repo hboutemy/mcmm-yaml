@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.hibernate
 artifactId: hibernate-hikaricp
 versioning:
-  latest: 6.0.0.Beta3
-  release: 6.0.0.Beta3
+  latest: 6.0.0.CR1
+  release: 6.0.0.CR1
   versions:
   - 4.3.6.Final
   - 4.3.7.Final
@@ -159,6 +159,7 @@ versioning:
   - 6.0.0.Beta1
   - 6.0.0.Beta2
   - 6.0.0.Beta3
+  - 6.0.0.CR1
   - 5.1.13.Final
   - 5.1.14.Final
   - 5.1.15.Final
@@ -170,4 +171,4 @@ versioning:
   - 5.2.17.Final
   - 5.4.33.Final
   - 5.5.6.Final
-  lastUpdated: 20220125155227
+  lastUpdated: 20220127152505
