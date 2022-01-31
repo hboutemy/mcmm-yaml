@@ -3,8 +3,8 @@
 groupId: com.nimbusds
 artifactId: nimbus-jose-jwt
 versioning:
-  latest: 9.16.1
-  release: 9.16.1
+  latest: 9.18
+  release: 9.18
   versions:
   - 2.9
   - 2.10
@@ -237,4 +237,6 @@ versioning:
   - 9.16
   - 9.16-preview.1
   - 9.16.1
-  lastUpdated: 20220125121813
+  - 9.17
+  - 9.18
+  lastUpdated: 20220130162758
