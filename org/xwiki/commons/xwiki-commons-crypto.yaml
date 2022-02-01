@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.commons
 artifactId: xwiki-commons-crypto
 versioning:
-  latest: 14.0-rc-1
-  release: 14.0-rc-1
+  latest: 14.0
+  release: 14.0
   versions:
   - 6.0-milestone-1
   - 6.0-milestone-2
@@ -291,4 +291,5 @@ versioning:
   - 13.10.1
   - 13.10.2
   - 14.0-rc-1
-  lastUpdated: 20220125090433
+  - 14.0
+  lastUpdated: 20220131130338
