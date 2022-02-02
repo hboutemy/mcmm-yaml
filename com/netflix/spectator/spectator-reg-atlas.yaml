@@ -3,8 +3,8 @@
 groupId: com.netflix.spectator
 artifactId: spectator-reg-atlas
 versioning:
-  latest: 1.0.14
-  release: 1.0.14
+  latest: 1.1.0
+  release: 1.1.0
   versions:
   - 0.42.0-rc.1
   - 0.42.0-rc.2
@@ -131,4 +131,5 @@ versioning:
   - 1.0.12
   - 1.0.13
   - 1.0.14
-  lastUpdated: 20220105010604
+  - 1.1.0
+  lastUpdated: 20220201175000

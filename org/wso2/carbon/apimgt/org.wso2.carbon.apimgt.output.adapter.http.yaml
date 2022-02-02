@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.apimgt
 artifactId: org.wso2.carbon.apimgt.output.adapter.http
 versioning:
-  latest: 9.12.4
-  release: 9.12.4
+  latest: 9.12.5
+  release: 9.12.5
   versions:
   - 6.6.63
   - 6.6.64
@@ -1134,6 +1134,8 @@ versioning:
   - 9.2.17
   - 9.2.18
   - 9.2.19
+  - 9.2.20
+  - 9.2.21
   - 9.3.0
   - 9.4.0
   - 9.4.1
@@ -1172,4 +1174,5 @@ versioning:
   - 9.12.2
   - 9.12.3
   - 9.12.4
-  lastUpdated: 20220131053311
+  - 9.12.5
+  lastUpdated: 20220201103351

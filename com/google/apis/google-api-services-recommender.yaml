@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-recommender
 versioning:
-  latest: v1-rev20211031-1.32.1
-  release: v1-rev20211031-1.32.1
+  latest: v1-rev20220124-1.32.1
+  release: v1-rev20220124-1.32.1
   versions:
   - v1beta1-rev6-1.18.0-rc
   - v1beta1-rev6-1.25.0
@@ -68,6 +68,7 @@ versioning:
   - v1beta1-rev20211105-1.32.1
   - v1beta1-rev20211205-1.32.1
   - v1beta1-rev20211213-1.32.1
+  - v1beta1-rev20220124-1.32.1
   - v1-rev20200516-1.30.9
   - v1-rev20200704-1.30.9
   - v1-rev20200704-1.30.10
@@ -90,4 +91,5 @@ versioning:
   - v1-rev20210731-1.32.1
   - v1-rev20210806-1.32.1
   - v1-rev20211031-1.32.1
-  lastUpdated: 20211216212321
+  - v1-rev20220124-1.32.1
+  lastUpdated: 20220201215834

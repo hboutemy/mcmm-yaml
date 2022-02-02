@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.plugin
 artifactId: aggs-matrix-stats-client
 versioning:
-  latest: 7.16.3
-  release: 7.16.3
+  latest: 7.17.0
+  release: 7.17.0
   versions:
   - 5.6.0
   - 5.6.1
@@ -136,4 +136,5 @@ versioning:
   - 7.16.1
   - 7.16.2
   - 7.16.3
-  lastUpdated: 20220113162819
+  - 7.17.0
+  lastUpdated: 20220201144735
