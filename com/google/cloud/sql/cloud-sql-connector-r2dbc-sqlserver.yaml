@@ -3,8 +3,8 @@
 groupId: com.google.cloud.sql
 artifactId: cloud-sql-connector-r2dbc-sqlserver
 versioning:
-  latest: 1.4.2
-  release: 1.4.2
+  latest: 1.4.3
+  release: 1.4.3
   versions:
   - 1.2.0
   - 1.2.1
@@ -18,4 +18,5 @@ versioning:
   - 1.4.0
   - 1.4.1
   - 1.4.2
-  lastUpdated: 20220105184344
+  - 1.4.3
+  lastUpdated: 20220202162217

@@ -3,8 +3,8 @@
 groupId: io.mosip.preregistration
 artifactId: pre-registration-datasync-service
 versioning:
-  latest: 1.2.0-rc1
-  release: 1.2.0-rc1
+  latest: 1.2.0-prerel
+  release: 1.2.0-prerel
   versions:
   - 1.0.5
   - 1.0.6
@@ -20,4 +20,5 @@ versioning:
   - 1.1.5
   - 1.1.5.2
   - 1.2.0-rc1
-  lastUpdated: 20210812085951
+  - 1.2.0-prerel
+  lastUpdated: 20220202042128
