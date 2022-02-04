@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.client
 artifactId: elasticsearch-rest-client
 versioning:
-  latest: 8.0.0-rc1
-  release: 8.0.0-rc1
+  latest: 8.0.0-rc2
+  release: 8.0.0-rc2
   versions:
   - 5.6.0
   - 5.6.1
@@ -140,4 +140,5 @@ versioning:
   - 8.0.0-alpha2
   - 8.0.0-beta1
   - 8.0.0-rc1
-  lastUpdated: 20220201144707
+  - 8.0.0-rc2
+  lastUpdated: 20220203144814

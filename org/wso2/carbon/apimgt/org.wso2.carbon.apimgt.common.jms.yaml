@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.apimgt
 artifactId: org.wso2.carbon.apimgt.common.jms
 versioning:
-  latest: 9.14.2
-  release: 9.14.2
+  latest: 9.14.3
+  release: 9.14.3
   versions:
   - 8.2.11
   - 8.2.12
@@ -369,6 +369,8 @@ versioning:
   - 9.2.20
   - 9.2.21
   - 9.2.22
+  - 9.2.23
+  - 9.2.24
   - 9.3.0
   - 9.4.0
   - 9.4.1
@@ -412,4 +414,5 @@ versioning:
   - 9.14.0
   - 9.14.1
   - 9.14.2
-  lastUpdated: 20220202122620
+  - 9.14.3
+  lastUpdated: 20220203100129

@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-spark-20_2.11
 versioning:
-  latest: 8.0.0-rc1
-  release: 8.0.0-rc1
+  latest: 8.0.0-rc2
+  release: 8.0.0-rc2
   versions:
   - 5.0.0-alpha5
   - 5.0.0-beta1
@@ -163,4 +163,5 @@ versioning:
   - 8.0.0-alpha2
   - 8.0.0-beta1
   - 8.0.0-rc1
-  lastUpdated: 20220201144729
+  - 8.0.0-rc2
+  lastUpdated: 20220203144831
