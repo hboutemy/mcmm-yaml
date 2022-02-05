@@ -3,8 +3,8 @@
 groupId: io.r2dbc
 artifactId: r2dbc-bom
 versioning:
-  latest: Borca-M2
-  release: Borca-M2
+  latest: Borca-RELEASE
+  release: Borca-RELEASE
   versions:
   - Arabba-RELEASE
   - Arabba-SR1
@@ -20,4 +20,5 @@ versioning:
   - Arabba-SR11
   - Arabba-SR12
   - Borca-M2
-  lastUpdated: 20220113152808
+  - Borca-RELEASE
+  lastUpdated: 20220204080230
