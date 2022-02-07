@@ -3,8 +3,8 @@
 groupId: org.apache.servicemix.bundles
 artifactId: org.apache.servicemix.bundles.kafka-clients
 versioning:
-  latest: 3.0.0_1
-  release: 3.0.0_1
+  latest: 3.1.0_1
+  release: 3.1.0_1
   versions:
   - 0.8.2.0_1
   - 0.8.2.1_1
@@ -43,9 +43,11 @@ versioning:
   - 2.5.0_1
   - 2.6.0_1
   - 2.6.1_1
+  - 2.6.3_1
   - 2.7.0_1
   - 2.7.0_2
   - 2.8.0_1
   - 2.8.1_1
   - 3.0.0_1
-  lastUpdated: 20211004074824
+  - 3.1.0_1
+  lastUpdated: 20220206071340
