@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty
 artifactId: infinispan-common
 versioning:
-  latest: 11.0.7
-  release: 11.0.7
+  latest: 11.0.8
+  release: 11.0.8
   versions:
   - 9.4.17.v20190418
   - 9.4.18.v20190429
@@ -34,6 +34,7 @@ versioning:
   - 9.4.42.v20210604
   - 9.4.43.v20210629
   - 9.4.44.v20210927
+  - 9.4.45.v20220203
   - 10.0.0-alpha0
   - 10.0.0.alpha1
   - 10.0.0.alpha2
@@ -49,6 +50,7 @@ versioning:
   - 10.0.5
   - 10.0.6
   - 10.0.7
+  - 10.0.8
   - 11.0.0-alpha0
   - 11.0.0.beta1
   - 11.0.0.beta2
@@ -61,4 +63,5 @@ versioning:
   - 11.0.5
   - 11.0.6
   - 11.0.7
-  lastUpdated: 20211012153513
+  - 11.0.8
+  lastUpdated: 20220207144456

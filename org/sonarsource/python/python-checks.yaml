@@ -3,8 +3,8 @@
 groupId: org.sonarsource.python
 artifactId: python-checks
 versioning:
-  latest: 3.9.0.9230
-  release: 3.9.0.9230
+  latest: 3.10.0.9380
+  release: 3.10.0.9380
   versions:
   - 1.6
   - 1.7.0.1195
@@ -44,4 +44,5 @@ versioning:
   - 3.7.0.8753
   - 3.8.0.8883
   - 3.9.0.9230
-  lastUpdated: 20220112105428
+  - 3.10.0.9380
+  lastUpdated: 20220207140248
