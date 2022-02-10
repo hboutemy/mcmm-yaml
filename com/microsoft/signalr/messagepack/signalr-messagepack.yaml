@@ -3,8 +3,8 @@
 groupId: com.microsoft.signalr.messagepack
 artifactId: signalr-messagepack
 versioning:
-  latest: 6.0.1
-  release: 6.0.1
+  latest: 6.0.2
+  release: 6.0.2
   versions:
   - 5.0.0-rc.1.20451.17
   - 5.0.0-rc.2.20475.17
@@ -22,6 +22,7 @@ versioning:
   - 5.0.11
   - 5.0.12
   - 5.0.13
+  - 5.0.14
   - 6.0.0-rc.1.21452.15
   - 6.0.0-rc.2.21480.10
   - 6.0.0
@@ -33,4 +34,5 @@ versioning:
   - 6.0.0-preview.6.21355.2
   - 6.0.0-preview.7.21378.6
   - 6.0.1
-  lastUpdated: 20211214192331
+  - 6.0.2
+  lastUpdated: 20220208164045

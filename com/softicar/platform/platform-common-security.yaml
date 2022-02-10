@@ -3,8 +3,8 @@
 groupId: com.softicar.platform
 artifactId: platform-common-security
 versioning:
-  latest: 16.0.0
-  release: 16.0.0
+  latest: 16.0.0+patch1
+  release: 16.0.0+patch1
   versions:
   - 10.0.1
   - 11.0.0
@@ -18,4 +18,5 @@ versioning:
   - 14.0.0
   - 15.0.0
   - 16.0.0
-  lastUpdated: 20220204134341
+  - 16.0.0+patch1
+  lastUpdated: 20220208114021

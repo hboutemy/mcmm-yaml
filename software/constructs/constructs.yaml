@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.constructs
 artifactId: constructs
 versioning:
-  latest: 10.0.54
-  release: 10.0.54
+  latest: 10.0.56
+  release: 10.0.56
   versions:
   - 1.1.0
   - 1.1.1
@@ -212,6 +212,7 @@ versioning:
   - 3.3.208
   - 3.3.209
   - 3.3.210
+  - 3.3.211
   - 4.0.0
   - 5.0.0
   - 6.0.0
@@ -268,6 +269,8 @@ versioning:
   - 10.0.52
   - 10.0.53
   - 10.0.54
+  - 10.0.55
+  - 10.0.56
   - 10.0.0
   - 10.0.1
   - 10.0.2
@@ -415,4 +418,4 @@ versioning:
   - 3.3.97
   - 3.3.98
   - 3.3.99
-  lastUpdated: 20220207001436
+  lastUpdated: 20220208201625
