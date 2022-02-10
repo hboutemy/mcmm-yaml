@@ -4,7 +4,7 @@ modelVersion: 1.1.0
 groupId: org.kie
 artifactId: kie-ci
 versioning:
-  latest: 8.16.1.Beta
+  latest: 8.17.0-SNAPSHOT
   release: 8.16.1.Beta
   versions:
   - 6.0.0.Alpha9
@@ -168,4 +168,5 @@ versioning:
   - 8.16.1.Beta
   - 6.0.0.Alpha7
   - 6.0.0.Alpha8
-  lastUpdated: 20220202145009
+  - 7.65.0.Final
+  lastUpdated: 20220209031043

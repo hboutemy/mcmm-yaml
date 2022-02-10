@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-import-tool
 versioning:
-  latest: 4.4.3
-  release: 4.4.3
+  latest: 4.4.4
+  release: 4.4.4
   versions:
   - 2.2.0-M01
   - 2.2.0-M02
@@ -245,6 +245,7 @@ versioning:
   - 4.2.12
   - 4.2.13
   - 4.2.14
+  - 4.2.15
   - 4.3.0
   - 4.3.1
   - 4.3.2
@@ -260,4 +261,5 @@ versioning:
   - 4.4.1
   - 4.4.2
   - 4.4.3
-  lastUpdated: 20220111112433
+  - 4.4.4
+  lastUpdated: 20220209161748

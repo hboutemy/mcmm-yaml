@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-cypher-logical-plan-generator
 versioning:
-  latest: 4.4.3
-  release: 4.4.3
+  latest: 4.4.4
+  release: 4.4.4
   versions:
   - 4.1.0
   - 4.1.1
@@ -33,6 +33,7 @@ versioning:
   - 4.2.12
   - 4.2.13
   - 4.2.14
+  - 4.2.15
   - 4.3.0
   - 4.3.1
   - 4.3.2
@@ -48,4 +49,5 @@ versioning:
   - 4.4.1
   - 4.4.2
   - 4.4.3
-  lastUpdated: 20220111112409
+  - 4.4.4
+  lastUpdated: 20220209161720

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.openucx
 artifactId: jucx
 versioning:
-  latest: 1.12-client-id
-  release: 1.12-client-id
+  latest: 1.12.1-rc1
+  release: 1.12.1-rc1
   versions:
   - 1.7.0
   - 1.8.0-rc1
@@ -53,7 +53,8 @@ versioning:
   - 1.12.0-rc3
   - 1.12.0
   - 1.12-client-id
+  - 1.12.1-rc1
   - 1.10.0-rc2-dbg
   - 1.11
   - 42
-  lastUpdated: 20220111150901
+  lastUpdated: 20220209103412
