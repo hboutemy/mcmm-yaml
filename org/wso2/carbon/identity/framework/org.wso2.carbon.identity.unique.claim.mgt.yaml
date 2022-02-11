@@ -3,10 +3,12 @@
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.identity.unique.claim.mgt
 versioning:
-  latest: 5.20.310
-  release: 5.20.310
+  latest: 5.20.312
+  release: 5.20.312
   versions:
   - 5.18.236
+  - 5.18.237
+  - 5.18.238
   - 5.20.3
   - 5.20.4
   - 5.20.5
@@ -315,4 +317,6 @@ versioning:
   - 5.20.308
   - 5.20.309
   - 5.20.310
-  lastUpdated: 20220209142513
+  - 5.20.311
+  - 5.20.312
+  lastUpdated: 20220210101935

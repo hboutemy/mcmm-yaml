@@ -4,7 +4,7 @@ modelVersion: 1.1.0
 groupId: org.drools
 artifactId: drools-persistence-jpa
 versioning:
-  latest: 8.17.0-SNAPSHOT
+  latest: 8.16.1.Beta
   release: 8.16.1.Beta
   versions:
   - 5.0.0.CR1
@@ -190,6 +190,7 @@ versioning:
   - 7.63.0.Final
   - 7.63.0.t20211129
   - 7.64.0.Final
+  - 7.65.0.Final
   - 8.13.0.Beta
   - 8.14.0.Beta
   - 8.14.1.Beta
@@ -197,5 +198,4 @@ versioning:
   - 8.16.0.Beta
   - 8.16.1.Beta
   - 6.0.0.Alpha7
-  - 7.65.0.Final
-  lastUpdated: 20220208191131
+  lastUpdated: 20220209070843

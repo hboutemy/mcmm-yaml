@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: timelock-api-undertow
 versioning:
-  latest: 0.538.0
-  release: 0.538.0
+  latest: 0.540.0
+  release: 0.540.0
   versions:
   - 0.311.6
   - 0.311.7
@@ -258,4 +258,7 @@ versioning:
   - 0.536.0
   - 0.537.0
   - 0.538.0
-  lastUpdated: 20220208164312
+  - 0.539.0
+  - 0.540.0-rc2
+  - 0.540.0
+  lastUpdated: 20220210214510

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.policyeditor.ui
 versioning:
-  latest: 5.20.310
-  release: 5.20.310
+  latest: 5.20.312
+  release: 5.20.312
   versions:
   - 5.5.0
   - 5.5.1
@@ -1573,6 +1573,8 @@ versioning:
   - 5.18.234
   - 5.18.235
   - 5.18.236
+  - 5.18.237
+  - 5.18.238
   - 5.19.0
   - 5.19.1
   - 5.19.2
@@ -1942,4 +1944,6 @@ versioning:
   - 5.20.308
   - 5.20.309
   - 5.20.310
-  lastUpdated: 20220209142604
+  - 5.20.311
+  - 5.20.312
+  lastUpdated: 20220210102105

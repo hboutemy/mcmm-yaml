@@ -4,7 +4,7 @@ modelVersion: 1.1.0
 groupId: org.drools
 artifactId: cdi-example
 versioning:
-  latest: 8.17.0-SNAPSHOT
+  latest: 8.16.1.Beta
   release: 8.16.1.Beta
   versions:
   - 6.0.0.Alpha9
@@ -159,6 +159,7 @@ versioning:
   - 7.63.0.Final
   - 7.63.0.t20211129
   - 7.64.0.Final
+  - 7.65.0.Final
   - 8.13.0.Beta
   - 8.14.0.Beta
   - 8.14.1.Beta
@@ -166,4 +167,4 @@ versioning:
   - 8.16.0.Beta
   - 8.16.1.Beta
   - 6.0.0.Alpha7
-  lastUpdated: 20220208194909
+  lastUpdated: 20220209070724

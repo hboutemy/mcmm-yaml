@@ -3,8 +3,8 @@
 groupId: com.lightbend.lagom
 artifactId: lagom-akka-discovery-service-locator-core_2.12
 versioning:
-  latest: 1.6.7
-  release: 1.6.7
+  latest: 1.6.8-RC1
+  release: 1.6.8-RC1
   versions:
   - 0.0.12
   - 0.1.0
@@ -37,4 +37,5 @@ versioning:
   - 1.6.5
   - 1.6.6
   - 1.6.7
-  lastUpdated: 20211214102443
+  - 1.6.8-RC1
+  lastUpdated: 20220210172945
