@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.instrumentation
 artifactId: opentelemetry-apache-httpclient-4.3
 versioning:
-  latest: 1.10.1-alpha
-  release: 1.10.1-alpha
+  latest: 1.11.0-alpha
+  release: 1.11.0-alpha
   versions:
   - 1.5.0-alpha
   - 1.5.1-alpha
@@ -22,4 +22,5 @@ versioning:
   - 1.9.2-alpha
   - 1.10.0-alpha
   - 1.10.1-alpha
-  lastUpdated: 20220127004104
+  - 1.11.0-alpha
+  lastUpdated: 20220211223359

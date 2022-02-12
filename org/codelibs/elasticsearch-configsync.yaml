@@ -3,8 +3,8 @@
 groupId: org.codelibs
 artifactId: elasticsearch-configsync
 versioning:
-  latest: 8.0.0-rc2
-  release: 8.0.0-rc2
+  latest: 8.0.0
+  release: 8.0.0
   versions:
   - 1.7.0
   - 2.0.0
@@ -71,4 +71,5 @@ versioning:
   - 7.17.0
   - 8.0.0-rc1
   - 8.0.0-rc2
-  lastUpdated: 20220209125359
+  - 8.0.0
+  lastUpdated: 20220211022715

@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-aws-sdk-1.11
 versioning:
-  latest: 1.10.1-alpha
-  release: 1.10.1-alpha
+  latest: 1.11.0-alpha
+  release: 1.11.0-alpha
   versions:
   - 0.12.0
   - 0.12.1
@@ -40,4 +40,5 @@ versioning:
   - 1.9.2-alpha
   - 1.10.0-alpha
   - 1.10.1-alpha
-  lastUpdated: 20220127004316
+  - 1.11.0-alpha
+  lastUpdated: 20220211223618
