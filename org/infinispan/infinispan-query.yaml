@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-query
 versioning:
-  latest: 13.0.6.Final
-  release: 13.0.6.Final
+  latest: 14.0.0.Dev01
+  release: 14.0.0.Dev01
   versions:
   - 5.0.0.FINAL
   - 5.0.1.FINAL
@@ -316,5 +316,6 @@ versioning:
   - 13.0.4.Final
   - 13.0.5.Final
   - 13.0.6.Final
+  - 14.0.0.Dev01
   - 12.0.0.Dev3
-  lastUpdated: 20220211111356
+  lastUpdated: 20220211171242
