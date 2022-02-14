@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: identity-consent-mgt-aggregator
 versioning:
-  latest: 5.20.312
-  release: 5.20.312
+  latest: 5.20.314
+  release: 5.20.314
   versions:
   - 5.11.100
   - 5.11.101
@@ -1421,4 +1421,6 @@ versioning:
   - 5.20.310
   - 5.20.311
   - 5.20.312
-  lastUpdated: 20220210101608
+  - 5.20.313
+  - 5.20.314
+  lastUpdated: 20220213162542
