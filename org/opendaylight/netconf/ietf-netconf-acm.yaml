@@ -3,8 +3,8 @@
 groupId: org.opendaylight.netconf
 artifactId: ietf-netconf-acm
 versioning:
-  latest: 2.0.12
-  release: 2.0.12
+  latest: 2.0.14
+  release: 2.0.14
   versions:
   - 1.8.0
   - 1.8.1
@@ -37,4 +37,6 @@ versioning:
   - 2.0.10
   - 2.0.11
   - 2.0.12
-  lastUpdated: 20220126194723
+  - 2.0.13
+  - 2.0.14
+  lastUpdated: 20220214193822

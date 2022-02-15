@@ -3,8 +3,8 @@
 groupId: org.opendaylight.controller
 artifactId: sal-akka-raft-example
 versioning:
-  latest: 4.0.8
-  release: 4.0.8
+  latest: 4.0.10
+  release: 4.0.10
   versions:
   - 1.2.0-Lithium
   - 1.2.1-Lithium-SR1
@@ -89,4 +89,6 @@ versioning:
   - 4.0.6
   - 4.0.7
   - 4.0.8
-  lastUpdated: 20220126155704
+  - 4.0.9
+  - 4.0.10
+  lastUpdated: 20220214161153

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: cloudtrail
 versioning:
-  latest: 2.17.129
-  release: 2.17.129
+  latest: 2.17.130
+  release: 2.17.130
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -735,4 +735,5 @@ versioning:
   - 2.17.127
   - 2.17.128
   - 2.17.129
-  lastUpdated: 20220211202519
+  - 2.17.130
+  lastUpdated: 20220214202633

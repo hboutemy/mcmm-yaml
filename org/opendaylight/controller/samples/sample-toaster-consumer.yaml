@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.controller.samples
 artifactId: sample-toaster-consumer
 versioning:
-  latest: 4.0.8
-  release: 4.0.8
+  latest: 4.0.10
+  release: 4.0.10
   versions:
   - 1.0
   - 1.1-Helium
@@ -97,4 +97,6 @@ versioning:
   - 4.0.6
   - 4.0.7
   - 4.0.8
-  lastUpdated: 20220126160257
+  - 4.0.9
+  - 4.0.10
+  lastUpdated: 20220214161825

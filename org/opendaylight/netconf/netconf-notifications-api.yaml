@@ -3,8 +3,8 @@
 groupId: org.opendaylight.netconf
 artifactId: netconf-notifications-api
 versioning:
-  latest: 2.0.12
-  release: 2.0.12
+  latest: 2.0.14
+  release: 2.0.14
   versions:
   - 1.0.0-Beryllium
   - 1.0.1-Beryllium-SR1
@@ -77,4 +77,6 @@ versioning:
   - 2.0.10
   - 2.0.11
   - 2.0.12
-  lastUpdated: 20220126195704
+  - 2.0.13
+  - 2.0.14
+  lastUpdated: 20220214194834

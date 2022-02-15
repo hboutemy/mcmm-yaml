@@ -3,8 +3,8 @@
 groupId: org.opendaylight.controller
 artifactId: sal-akka-segmented-journal
 versioning:
-  latest: 4.0.8
-  release: 4.0.8
+  latest: 4.0.10
+  release: 4.0.10
   versions:
   - 1.9.1
   - 1.9.2
@@ -55,4 +55,6 @@ versioning:
   - 4.0.6
   - 4.0.7
   - 4.0.8
-  lastUpdated: 20220126155727
+  - 4.0.9
+  - 4.0.10
+  lastUpdated: 20220214161217
