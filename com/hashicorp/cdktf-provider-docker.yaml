@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf-provider-docker
 versioning:
-  latest: 0.6.20
-  release: 0.6.20
+  latest: 0.5.29
+  release: 0.5.29
   versions:
   - 0.3.11
   - 0.3.12
@@ -359,14 +358,6 @@ versioning:
   - 0.5.162
   - 0.5.163
   - 0.6.1
-  - 0.6.2
-  - 0.6.3
-  - 0.6.4
-  - 0.6.5
-  - 0.6.6
-  - 0.6.7
-  - 0.6.8
-  - 0.6.9
   - 0.6.10
   - 0.6.11
   - 0.6.12
@@ -377,5 +368,15 @@ versioning:
   - 0.6.17
   - 0.6.18
   - 0.6.19
+  - 0.6.2
   - 0.6.20
-  lastUpdated: 20220215001042
+  - 0.6.21
+  - 0.6.22
+  - 0.6.3
+  - 0.6.4
+  - 0.6.5
+  - 0.6.6
+  - 0.6.7
+  - 0.6.8
+  - 0.6.9
+  lastUpdated: 20211218202327
