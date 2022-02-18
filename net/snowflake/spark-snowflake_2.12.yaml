@@ -3,8 +3,8 @@
 groupId: net.snowflake
 artifactId: spark-snowflake_2.12
 versioning:
-  latest: 2.9.3-spark_3.1
-  release: 2.9.3-spark_3.1
+  latest: 2.10.0-spark_3.2
+  release: 2.10.0-spark_3.2
   versions:
   - 2.4.14-spark_2.4
   - 2.5.0-spark_2.4
@@ -47,4 +47,7 @@ versioning:
   - 2.9.3-spark_2.4
   - 2.9.3-spark_3.0
   - 2.9.3-spark_3.1
-  lastUpdated: 20220127012328
+  - 2.10.0-spark_3.0
+  - 2.10.0-spark_3.1
+  - 2.10.0-spark_3.2
+  lastUpdated: 20220217210103
