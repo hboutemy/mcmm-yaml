@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-vmmigration
 versioning:
-  latest: v1-rev20220120-1.32.1
-  release: v1-rev20220120-1.32.1
+  latest: v1-rev20220203-1.32.1
+  release: v1-rev20220203-1.32.1
   versions:
   - v1alpha1-rev20211001-1.32.1
   - v1alpha1-rev20211014-1.32.1
@@ -13,6 +13,7 @@ versioning:
   - v1alpha1-rev20211130-1.32.1
   - v1alpha1-rev20211207-1.32.1
   - v1alpha1-rev20220120-1.32.1
+  - v1alpha1-rev20220203-1.32.1
   - v1-rev20211001-1.32.1
   - v1-rev20211014-1.32.1
   - v1-rev20211021-1.32.1
@@ -20,4 +21,5 @@ versioning:
   - v1-rev20211130-1.32.1
   - v1-rev20211207-1.32.1
   - v1-rev20220120-1.32.1
-  lastUpdated: 20220207213435
+  - v1-rev20220203-1.32.1
+  lastUpdated: 20220218090948

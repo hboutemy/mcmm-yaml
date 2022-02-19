@@ -3,8 +3,8 @@
 groupId: io.grpc
 artifactId: grpc-okhttp
 versioning:
-  latest: 1.44.0
-  release: 1.44.0
+  latest: 1.44.1
+  release: 1.44.1
   versions:
   - 0.7.0
   - 0.7.1
@@ -112,4 +112,5 @@ versioning:
   - 1.43.1
   - 1.43.2
   - 1.44.0
-  lastUpdated: 20220127005120
+  - 1.44.1
+  lastUpdated: 20220218200912

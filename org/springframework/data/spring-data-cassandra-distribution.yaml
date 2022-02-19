@@ -3,8 +3,8 @@
 groupId: org.springframework.data
 artifactId: spring-data-cassandra-distribution
 versioning:
-  latest: 3.3.1
-  release: 3.3.1
+  latest: 3.3.2
+  release: 3.3.2
   versions:
   - 1.0.0.RELEASE
   - 1.0.1.RELEASE
@@ -143,10 +143,12 @@ versioning:
   - 3.2.6
   - 3.2.7
   - 3.2.8
+  - 3.2.9
   - 3.3.0
   - 3.3.1
+  - 3.3.2
   - 2.2.13.RELEASE
   - 3.0.7.RELEASE
   - 3.1.4
   - 3.1.5
-  lastUpdated: 20220114094633
+  lastUpdated: 20220218100042
