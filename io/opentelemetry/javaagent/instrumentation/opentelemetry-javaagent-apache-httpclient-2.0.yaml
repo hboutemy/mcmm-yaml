@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-apache-httpclient-2.0
 versioning:
-  latest: 1.11.0-alpha
-  release: 1.11.0-alpha
+  latest: 1.11.1-alpha
+  release: 1.11.1-alpha
   versions:
   - 0.12.0
   - 0.12.1
@@ -41,4 +41,5 @@ versioning:
   - 1.10.0-alpha
   - 1.10.1-alpha
   - 1.11.0-alpha
-  lastUpdated: 20220211223603
+  - 1.11.1-alpha
+  lastUpdated: 20220221062706
