@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.couchbase.lite
 artifactId: couchbase-lite-java
 versioning:
-  latest: 3.0.0-beta02
-  release: 3.0.0-beta02
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 1.1.0
   - 1.2.0
@@ -25,4 +25,5 @@ versioning:
   - 2.8.4
   - 3.0.0-beta01
   - 3.0.0-beta02
-  lastUpdated: 20211019190117
+  - 3.0.0
+  lastUpdated: 20220222194311

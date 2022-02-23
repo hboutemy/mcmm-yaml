@@ -3,8 +3,8 @@
 groupId: com.palantir.cassandra
 artifactId: cassandra-manager-objects
 versioning:
-  latest: 0.42.0
-  release: 0.42.0
+  latest: 0.44.0
+  release: 0.44.0
   versions:
   - 0.21.0
   - 0.21.1
@@ -88,4 +88,6 @@ versioning:
   - 0.41.0-rc2
   - 0.41.0
   - 0.42.0
-  lastUpdated: 20220217201122
+  - 0.43.0
+  - 0.44.0
+  lastUpdated: 20220222223934

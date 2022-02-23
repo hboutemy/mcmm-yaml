@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.rendering
 artifactId: xwiki-rendering-macro-id
 versioning:
-  latest: 14.0
-  release: 14.0
+  latest: 14.1-rc-1
+  release: 14.1-rc-1
   versions:
   - 3.2-milestone-3
   - 3.2-rc-1
@@ -370,4 +370,5 @@ versioning:
   - 13.10.3
   - 14.0-rc-1
   - 14.0
-  lastUpdated: 20220216105757
+  - 14.1-rc-1
+  lastUpdated: 20220222143219
