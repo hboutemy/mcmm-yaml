@@ -3,8 +3,8 @@
 groupId: com.playtika.testcontainers
 artifactId: embedded-clickhouse
 versioning:
-  latest: 2.0.20
-  release: 2.0.20
+  latest: 2.1.0
+  release: 2.1.0
   versions:
   - 1.78
   - 1.79
@@ -34,4 +34,5 @@ versioning:
   - 2.0.18
   - 2.0.19
   - 2.0.20
-  lastUpdated: 20220124164034
+  - 2.1.0
+  lastUpdated: 20220223140502

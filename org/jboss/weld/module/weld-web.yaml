@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld.module
 artifactId: weld-web
 versioning:
-  latest: 5.0.0.Beta1
-  release: 5.0.0.Beta1
+  latest: 5.0.0.CR1
+  release: 5.0.0.CR1
   versions:
   - 3.0.0.Alpha6
   - 3.0.0.Alpha7
@@ -59,4 +59,5 @@ versioning:
   - 5.0.0.Alpha1
   - 5.0.0.Alpha2
   - 5.0.0.Beta1
-  lastUpdated: 20220215160008
+  - 5.0.0.CR1
+  lastUpdated: 20220223115555

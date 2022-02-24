@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld.se
 artifactId: weld-se-shaded
 versioning:
-  latest: 5.0.0.Beta1
-  release: 5.0.0.Beta1
+  latest: 5.0.0.CR1
+  release: 5.0.0.CR1
   versions:
   - 3.0.0.Alpha2
   - 3.0.0.Alpha3
@@ -63,4 +63,5 @@ versioning:
   - 5.0.0.Alpha1
   - 5.0.0.Alpha2
   - 5.0.0.Beta1
-  lastUpdated: 20220215160013
+  - 5.0.0.CR1
+  lastUpdated: 20220223115558

@@ -3,8 +3,8 @@
 groupId: com.hazelcast
 artifactId: quarkus-hazelcast-client-deployment
 versioning:
-  latest: 2.0.0
-  release: 2.0.0
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 1.0.0-RC2
   - 1.0.0-RC3
@@ -15,4 +15,5 @@ versioning:
   - 1.1.1
   - 1.2.0
   - 2.0.0
-  lastUpdated: 20210629151850
+  - 3.0.0
+  lastUpdated: 20220223115624

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld.examples.jsf.translator
 artifactId: weld-jsf-translator-parent
 versioning:
-  latest: 5.0.0.Beta1
-  release: 5.0.0.Beta1
+  latest: 5.0.0.CR1
+  release: 5.0.0.CR1
   versions:
   - 1.0.0-CR1
   - 1.0.0-CR2
@@ -192,4 +192,5 @@ versioning:
   - 5.0.0.Alpha1
   - 5.0.0.Alpha2
   - 5.0.0.Beta1
-  lastUpdated: 20220215155959
+  - 5.0.0.CR1
+  lastUpdated: 20220223115548

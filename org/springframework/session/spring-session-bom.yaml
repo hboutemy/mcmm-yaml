@@ -3,8 +3,8 @@
 groupId: org.springframework.session
 artifactId: spring-session-bom
 versioning:
-  latest: 2021.1.1
-  release: 2021.1.1
+  latest: 2021.1.2
+  release: 2021.1.2
   versions:
   - Apple-RELEASE
   - Apple-SR1
@@ -35,14 +35,14 @@ versioning:
   - Corn-SR3
   - Corn-SR4
   - Corn-SR5
-  - Corn-SR6
   - Dragonfruit-RELEASE
   - Dragonfruit-SR1
   - Dragonfruit-SR2
-  - Dragonfruit-SR3
   - 2020.0.0
   - 2020.0.1
   - 2020.0.3
+  - 2021.0.5
+  - 2021.1.2
   - 2020.0.4
   - 2020.0.5
   - 2020.0.6
@@ -54,4 +54,6 @@ versioning:
   - 2021.0.4
   - 2021.1.0
   - 2021.1.1
-  lastUpdated: 20211221144038
+  - Corn-SR6
+  - Dragonfruit-SR3
+  lastUpdated: 20220223103238
