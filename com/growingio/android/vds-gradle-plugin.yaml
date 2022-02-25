@@ -3,9 +3,10 @@
 groupId: com.growingio.android
 artifactId: vds-gradle-plugin
 versioning:
-  latest: track-2.9.11
-  release: track-2.9.11
+  latest: track-2.9.12
+  release: track-2.9.12
   versions:
+  - autotrack-
   - autotrack-2.9.0
   - autotrack-2.9.1
   - autotrack-2.9.2
@@ -18,8 +19,10 @@ versioning:
   - autotrack-2.9.9
   - autotrack-2.9.10
   - autotrack-2.9.11
+  - autotrack-2.9.12
   - cdp-1.2.7
   - cdp-1.2.8
+  - game-autotrack-
   - game-autotrack-2.9.0
   - game-autotrack-2.9.1
   - game-autotrack-2.9.2
@@ -32,6 +35,8 @@ versioning:
   - game-autotrack-2.9.9
   - game-autotrack-2.9.10
   - game-autotrack-2.9.11
+  - game-autotrack-2.9.12
+  - game-track-
   - game-track-2.9.0
   - game-track-2.9.1
   - game-track-2.9.2
@@ -44,6 +49,8 @@ versioning:
   - game-track-2.9.9
   - game-track-2.9.10
   - game-track-2.9.11
+  - game-track-2.9.12
+  - RN-autotrack-
   - RN-autotrack-2.9.0
   - RN-autotrack-2.9.1
   - RN-autotrack-2.9.2
@@ -56,6 +63,8 @@ versioning:
   - RN-autotrack-2.9.9
   - RN-autotrack-2.9.10
   - RN-autotrack-2.9.11
+  - RN-autotrack-2.9.12
+  - RN-track-
   - RN-track-2.9.0
   - RN-track-2.9.1
   - RN-track-2.9.2
@@ -68,6 +77,8 @@ versioning:
   - RN-track-2.9.9
   - RN-track-2.9.10
   - RN-track-2.9.11
+  - RN-track-2.9.12
+  - track-
   - track-2.9.0
   - track-2.9.1
   - track-2.9.2
@@ -80,4 +91,5 @@ versioning:
   - track-2.9.9
   - track-2.9.10
   - track-2.9.11
-  lastUpdated: 20220120070720
+  - track-2.9.12
+  lastUpdated: 20220224090044

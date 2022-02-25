@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf-provider-azuread
 versioning:
-  latest: 0.3.34
-  release: 0.3.34
+  latest: 0.3.35
+  release: 0.3.35
   versions:
   - 0.0.2
   - 0.0.3
@@ -380,4 +380,5 @@ versioning:
   - 0.3.32
   - 0.3.33
   - 0.3.34
-  lastUpdated: 20220223002848
+  - 0.3.35
+  lastUpdated: 20220224002722
