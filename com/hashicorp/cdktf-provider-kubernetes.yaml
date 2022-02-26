@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf-provider-kubernetes
 versioning:
-  latest: 0.6.30
-  release: 0.6.30
+  latest: 0.6.31
+  release: 0.6.31
   versions:
   - 0.3.12
   - 0.3.13
@@ -343,4 +343,5 @@ versioning:
   - 0.6.28
   - 0.6.29
   - 0.6.30
-  lastUpdated: 20220223002918
+  - 0.6.31
+  lastUpdated: 20220225002516

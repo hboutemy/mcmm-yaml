@@ -3,8 +3,8 @@
 groupId: io.getquill
 artifactId: quill-cassandra-zio_2.13
 versioning:
-  latest: 3.17.0-RC1
-  release: 3.17.0-RC1
+  latest: 3.17.0-RC2
+  release: 3.17.0-RC2
   versions:
   - 3.7.0
   - 3.7.2
@@ -22,4 +22,5 @@ versioning:
   - 3.16.2
   - 3.16.3
   - 3.17.0-RC1
-  lastUpdated: 20220210065612
+  - 3.17.0-RC2
+  lastUpdated: 20220225000913
