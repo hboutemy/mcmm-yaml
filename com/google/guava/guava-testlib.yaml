@@ -3,8 +3,8 @@
 groupId: com.google.guava
 artifactId: guava-testlib
 versioning:
-  latest: 31.0.1-jre
-  release: 31.0.1-jre
+  latest: 31.1-jre
+  release: 31.1-jre
   versions:
   - 10.0-rc1
   - 10.0-rc2
@@ -106,5 +106,7 @@ versioning:
   - 31.0-jre
   - 31.0.1-android
   - 31.0.1-jre
+  - 31.1-android
+  - 31.1-jre
   - 13.0
-  lastUpdated: 20210927195741
+  lastUpdated: 20220228215116

@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat.experimental
 artifactId: tomcat-embed-programmatic
 versioning:
-  latest: 10.1.0-M10
-  release: 10.1.0-M10
+  latest: 10.1.0-M11
+  release: 10.1.0-M11
   versions:
   - 9.0.38
   - 9.0.39
@@ -22,6 +22,7 @@ versioning:
   - 9.0.55
   - 9.0.56
   - 9.0.58
+  - 9.0.59
   - 10.0.0-M8
   - 10.0.0-M9
   - 10.0.0-M10
@@ -38,6 +39,7 @@ versioning:
   - 10.0.13
   - 10.0.14
   - 10.0.16
+  - 10.0.17
   - 10.1.0-M1
   - 10.1.0-M2
   - 10.1.0-M4
@@ -46,4 +48,5 @@ versioning:
   - 10.1.0-M7
   - 10.1.0-M8
   - 10.1.0-M10
-  lastUpdated: 20220120135312
+  - 10.1.0-M11
+  lastUpdated: 20220228110503

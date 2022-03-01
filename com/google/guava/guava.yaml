@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.guava
 artifactId: guava
 versioning:
-  latest: 31.0.1-jre
-  release: 31.0.1-jre
+  latest: 31.1-jre
+  release: 31.1-jre
   versions:
   - r03
   - r05
@@ -113,5 +113,7 @@ versioning:
   - 31.0-jre
   - 31.0.1-android
   - 31.0.1-jre
+  - 31.1-android
+  - 31.1-jre
   - 13.0-final
-  lastUpdated: 20210927195736
+  lastUpdated: 20220228215112

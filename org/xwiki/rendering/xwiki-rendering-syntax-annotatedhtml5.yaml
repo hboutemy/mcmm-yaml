@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.rendering
 artifactId: xwiki-rendering-syntax-annotatedhtml5
 versioning:
-  latest: 14.1-rc-1
-  release: 14.1-rc-1
+  latest: 14.1
+  release: 14.1
   versions:
   - 6.4-milestone-3
   - 6.4-rc-1
@@ -266,4 +266,5 @@ versioning:
   - 14.0-rc-1
   - 14.0
   - 14.1-rc-1
-  lastUpdated: 20220222143221
+  - 14.1
+  lastUpdated: 20220228143000

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.hibernate.validator
 artifactId: hibernate-validator-annotation-processor
 versioning:
-  latest: 7.0.2.Final
-  release: 7.0.2.Final
+  latest: 8.0.0.Alpha1
+  release: 8.0.0.Alpha1
   versions:
   - 6.0.0.Alpha1
   - 6.0.0.Alpha2
@@ -66,4 +66,5 @@ versioning:
   - 7.0.0.Final
   - 7.0.1.Final
   - 7.0.2.Final
-  lastUpdated: 20220210101742
+  - 8.0.0.Alpha1
+  lastUpdated: 20220228164634

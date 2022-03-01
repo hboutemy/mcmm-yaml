@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat
 artifactId: tomcat-jdbc
 versioning:
-  latest: 10.1.0-M10
-  release: 10.1.0-M10
+  latest: 10.1.0-M11
+  release: 10.1.0-M11
   versions:
   - 7.0.19
   - 7.0.20
@@ -242,6 +242,7 @@ versioning:
   - 9.0.55
   - 9.0.56
   - 9.0.58
+  - 9.0.59
   - 10.0.0-M1
   - 10.0.0-M3
   - 10.0.0-M4
@@ -264,6 +265,7 @@ versioning:
   - 10.0.13
   - 10.0.14
   - 10.0.16
+  - 10.0.17
   - 10.1.0-M1
   - 10.1.0-M2
   - 10.1.0-M4
@@ -272,4 +274,5 @@ versioning:
   - 10.1.0-M7
   - 10.1.0-M8
   - 10.1.0-M10
-  lastUpdated: 20220120135318
+  - 10.1.0-M11
+  lastUpdated: 20220228110506
