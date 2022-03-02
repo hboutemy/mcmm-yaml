@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.vaadin
 artifactId: vaadin-maven-plugin
 versioning:
-  latest: 22.0.6
-  release: 22.0.6
+  latest: 23.0.0
+  release: 23.0.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -435,4 +435,6 @@ versioning:
   - 22.0.4
   - 22.0.5
   - 22.0.6
-  lastUpdated: 20220221130832
+  - 22.0.7
+  - 23.0.0
+  lastUpdated: 20220301164118

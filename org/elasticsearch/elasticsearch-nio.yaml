@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-nio
 versioning:
-  latest: 8.0.0
-  release: 8.0.0
+  latest: 8.0.1
+  release: 8.0.1
   versions:
   - 7.0.0-alpha1
   - 7.0.0-alpha2
@@ -68,4 +68,5 @@ versioning:
   - 8.0.0-rc1
   - 8.0.0-rc2
   - 8.0.0
-  lastUpdated: 20220228145751
+  - 8.0.1
+  lastUpdated: 20220301155218

@@ -3,8 +3,8 @@
 groupId: org.apache.camel.kafkaconnector
 artifactId: camel-kubernetes-hpa-kafka-connector
 versioning:
-  latest: 0.11.0
-  release: 0.11.0
+  latest: 0.11.5
+  release: 0.11.5
   versions:
   - 0.1.0
   - 0.2.0
@@ -23,4 +23,5 @@ versioning:
   - 0.10.0
   - 0.10.1
   - 0.11.0
-  lastUpdated: 20210924191436
+  - 0.11.5
+  lastUpdated: 20220228213427
