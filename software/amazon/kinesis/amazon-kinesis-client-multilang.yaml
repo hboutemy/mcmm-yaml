@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.kinesis
 artifactId: amazon-kinesis-client-multilang
 versioning:
-  latest: 2.3.10
-  release: 2.3.10
+  latest: 2.4.0
+  release: 2.4.0
   versions:
   - 2.0.0
   - 2.0.1
@@ -47,4 +47,5 @@ versioning:
   - 2.3.8
   - 2.3.9
   - 2.3.10
-  lastUpdated: 20220104194024
+  - 2.4.0
+  lastUpdated: 20220303005857

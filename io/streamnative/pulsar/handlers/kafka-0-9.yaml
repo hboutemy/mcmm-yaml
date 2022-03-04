@@ -3,8 +3,8 @@
 groupId: io.streamnative.pulsar.handlers
 artifactId: kafka-0-9
 versioning:
-  latest: 2.10.0.0-rc5
-  release: 2.10.0.0-rc5
+  latest: 2.10.0.0-rc10
+  release: 2.10.0.0-rc10
   versions:
   - 2.8.1.20
   - 2.8.1.21
@@ -34,4 +34,5 @@ versioning:
   - 2.9.1.4
   - 2.9.1.5
   - 2.10.0.0-rc5
-  lastUpdated: 20220225102820
+  - 2.10.0.0-rc10
+  lastUpdated: 20220303093742
