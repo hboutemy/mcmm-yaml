@@ -3,8 +3,11 @@
 groupId: io.github.jeqo.kafka
 artifactId: kafka-streams-rest-armeria
 versioning:
-  latest: 0.1.10
-  release: 0.1.10
+  latest: 0.1.17
+  release: 0.1.17
   versions:
   - 0.1.10
-  lastUpdated: 20220304192419
+  - 0.1.15-RC2
+  - 0.1.16-RC1
+  - 0.1.17
+  lastUpdated: 20220306093335
