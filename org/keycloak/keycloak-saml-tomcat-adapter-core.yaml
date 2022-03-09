@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-saml-tomcat-adapter-core
 versioning:
-  latest: 16.1.1
-  release: 16.1.1
+  latest: 17.0.0
+  release: 17.0.0
   versions:
   - 1.6.0.Final
   - 1.6.1.Final
@@ -107,4 +108,4 @@ versioning:
   - 16.1.0
   - 16.1.1
   - 17.0.0
-  lastUpdated: 20220125100924
+  lastUpdated: 20220308215356

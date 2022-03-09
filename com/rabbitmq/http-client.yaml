@@ -3,8 +3,8 @@
 groupId: com.rabbitmq
 artifactId: http-client
 versioning:
-  latest: 4.1.0
-  release: 4.1.0
+  latest: 4.1.2
+  release: 4.1.2
   versions:
   - 1.0.0.RELEASE
   - 1.1.0.RELEASE
@@ -37,4 +37,6 @@ versioning:
   - 3.12.1
   - 4.0.0
   - 4.1.0
-  lastUpdated: 20220304091413
+  - 4.1.1
+  - 4.1.2
+  lastUpdated: 20220308155311

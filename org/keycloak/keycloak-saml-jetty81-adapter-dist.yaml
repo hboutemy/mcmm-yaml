@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-saml-jetty81-adapter-dist
 versioning:
@@ -73,4 +74,4 @@ versioning:
   - 4.8.2.Final
   - 4.8.3.Final
   - 5.0.0
-  lastUpdated: 20190306094336
+  lastUpdated: 20220308221153

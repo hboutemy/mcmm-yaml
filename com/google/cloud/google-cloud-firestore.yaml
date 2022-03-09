@@ -3,8 +3,8 @@
 groupId: com.google.cloud
 artifactId: google-cloud-firestore
 versioning:
-  latest: 3.0.14
-  release: 3.0.14
+  latest: 3.0.16
+  release: 3.0.16
   versions:
   - 0.25.0-beta
   - 0.26.0-beta
@@ -144,4 +144,6 @@ versioning:
   - 3.0.12
   - 3.0.13
   - 3.0.14
-  lastUpdated: 20220301203407
+  - 3.0.15
+  - 3.0.16
+  lastUpdated: 20220308211028

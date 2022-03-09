@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch
 versioning:
-  latest: 8.0.1
-  release: 8.0.1
+  latest: 8.1.0
+  release: 8.1.0
   versions:
   - 0.6.0
   - 0.7.0
@@ -329,4 +329,5 @@ versioning:
   - 8.0.0-rc2
   - 8.0.0
   - 8.0.1
-  lastUpdated: 20220301155209
+  - 8.1.0
+  lastUpdated: 20220308141002
