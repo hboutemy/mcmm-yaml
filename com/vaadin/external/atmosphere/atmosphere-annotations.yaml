@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.vaadin.external.atmosphere
 artifactId: atmosphere-annotations
 versioning:
-  latest: 2.7.3.slf4jvaadin3
-  release: 2.7.3.slf4jvaadin3
+  latest: 2.7.3.slf4jvaadin4
+  release: 2.7.3.slf4jvaadin4
   versions:
   - 1.0.14-vaadin1
   - 1.0.14.vaadin2
@@ -61,5 +61,6 @@ versioning:
   - 2.7.3.slf4jvaadin1
   - 2.7.3.slf4jvaadin2
   - 2.7.3.slf4jvaadin3
+  - 2.7.3.slf4jvaadin4
   - 1.0.14-vaadin2
-  lastUpdated: 20220120094728
+  lastUpdated: 20220309114716
