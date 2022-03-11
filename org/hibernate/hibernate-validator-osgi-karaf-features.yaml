@@ -3,8 +3,8 @@
 groupId: org.hibernate
 artifactId: hibernate-validator-osgi-karaf-features
 versioning:
-  latest: 8.0.0.Alpha1
-  release: 8.0.0.Alpha1
+  latest: 8.0.0.Alpha2
+  release: 8.0.0.Alpha2
   versions:
   - 6.0.23.Final
   - 6.2.1.Final
@@ -12,7 +12,9 @@ versioning:
   - 6.2.3.Final
   - 7.0.2.Final
   - 7.0.3.Final
+  - 7.0.4.Final
   - 8.0.0.Alpha1
+  - 8.0.0.Alpha2
   - 5.2.0.Beta1
   - 5.2.0.CR1
   - 5.2.0.Final
@@ -91,4 +93,4 @@ versioning:
   - 7.0.0.CR1
   - 7.0.0.Final
   - 7.0.1.Final
-  lastUpdated: 20220303094056
+  lastUpdated: 20220310114219

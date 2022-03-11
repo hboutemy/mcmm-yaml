@@ -3,8 +3,8 @@
 groupId: org.apache.james.protocols
 artifactId: protocols-netty
 versioning:
-  latest: 3.6.2
-  release: 3.6.2
+  latest: 3.7.0
+  release: 3.7.0
   versions:
   - 1.6-beta3
   - 1.6.0-RC1
@@ -23,4 +23,5 @@ versioning:
   - 3.5.0
   - 3.6.0
   - 3.6.2
-  lastUpdated: 20220207040859
+  - 3.7.0
+  lastUpdated: 20220310105715
