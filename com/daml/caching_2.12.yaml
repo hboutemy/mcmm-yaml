@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.daml
 artifactId: caching_2.12
 versioning:
-  latest: 1.18.1
-  release: 1.18.1
+  latest: 1.18.2-snapshot.20220310.8437.0.5221a5d1
+  release: 1.18.2-snapshot.20220310.8437.0.5221a5d1
   versions:
   - 1.2.0-snapshot.20200513.4172.0.021f4af3
   - 1.2.0-snapshot.20200520.4224.0.2af134ca
@@ -182,5 +182,6 @@ versioning:
   - 1.18.1-snapshot.20220113.8434.0.1724373f
   - 1.18.1-snapshot.20220113.8434.1.1724373f
   - 1.18.1
+  - 1.18.2-snapshot.20220310.8437.0.5221a5d1
   - 1.11.0-snapshot.20210224.6385.0.dba114a2
-  lastUpdated: 20220117091158
+  lastUpdated: 20220314163409
