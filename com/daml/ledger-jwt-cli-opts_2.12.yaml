@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.daml
 artifactId: ledger-jwt-cli-opts_2.12
 versioning:
-  latest: 1.18.1
-  release: 1.18.1
+  latest: 1.18.2-snapshot.20220310.8437.1.5221a5d1
+  release: 1.18.2-snapshot.20220310.8437.1.5221a5d1
   versions:
   - 1.7.0-snapshot.20201027.5530.0.bdbf8977
   - 1.7.0-snapshot.20201103.5565.0.e75d42dd
@@ -136,5 +136,6 @@ versioning:
   - 1.18.1-snapshot.20220113.8434.0.1724373f
   - 1.18.1-snapshot.20220113.8434.1.1724373f
   - 1.18.1
+  - 1.18.2-snapshot.20220310.8437.1.5221a5d1
   - 1.11.0-snapshot.20210224.6385.0.dba114a2
-  lastUpdated: 20220117091259
+  lastUpdated: 20220315130831

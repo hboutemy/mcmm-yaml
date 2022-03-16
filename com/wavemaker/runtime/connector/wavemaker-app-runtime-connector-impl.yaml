@@ -3,8 +3,8 @@
 groupId: com.wavemaker.runtime.connector
 artifactId: wavemaker-app-runtime-connector-impl
 versioning:
-  latest: 10.13.0
-  release: 10.13.0
+  latest: 10.13.0.ee
+  release: 10.13.0.ee
   versions:
   - 9.9.9-20201009170109
   - 9.9.9-20201011200802
@@ -49,4 +49,5 @@ versioning:
   - 10.12.0
   - 10.12.2
   - 10.13.0
-  lastUpdated: 20220312121333
+  - 10.13.0.ee
+  lastUpdated: 20220315150401

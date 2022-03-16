@@ -3,8 +3,8 @@
 groupId: com.daml
 artifactId: ledger-on-memory-app_2.12
 versioning:
-  latest: 1.18.1
-  release: 1.18.1
+  latest: 1.18.2-snapshot.20220310.8437.1.5221a5d1
+  release: 1.18.2-snapshot.20220310.8437.1.5221a5d1
   versions:
   - 1.13.0-snapshot.20210504.6833.0.9ae787d0
   - 1.13.0
@@ -69,4 +69,5 @@ versioning:
   - 1.18.1-snapshot.20220113.8434.0.1724373f
   - 1.18.1-snapshot.20220113.8434.1.1724373f
   - 1.18.1
-  lastUpdated: 20220117091301
+  - 1.18.2-snapshot.20220310.8437.1.5221a5d1
+  lastUpdated: 20220315130834

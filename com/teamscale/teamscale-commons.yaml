@@ -3,8 +3,8 @@
 groupId: com.teamscale
 artifactId: teamscale-commons
 versioning:
-  latest: 7.7.2
-  release: 7.7.2
+  latest: 7.8.0-rc1
+  release: 7.8.0-rc1
   versions:
   - 5.9.0-rc1
   - 5.9.0-rc3
@@ -240,6 +240,7 @@ versioning:
   - 7.5.13
   - 7.5.14
   - 7.5.15
+  - 7.5.16
   - 7.6.0-rc1
   - 7.6.0-rc2
   - 7.6.0-rc3
@@ -252,10 +253,13 @@ versioning:
   - 7.6.5
   - 7.6.6
   - 7.6.7
+  - 7.6.8
   - 7.7.0-rc1
   - 7.7.0-rc2
   - 7.7.0-rc3
   - 7.7.0
   - 7.7.1
   - 7.7.2
-  lastUpdated: 20220308155439
+  - 7.7.3
+  - 7.8.0-rc1
+  lastUpdated: 20220315163708
