@@ -3,8 +3,8 @@
 groupId: com.strapdata.cassandra
 artifactId: cassandra-all
 versioning:
-  latest: 3.11.12.1
-  release: 3.11.12.1
+  latest: 3.11.12.2
+  release: 3.11.12.2
   versions:
   - 3.0.10
   - 3.0.11
@@ -36,5 +36,6 @@ versioning:
   - 3.11.7.1
   - 3.11.9.1
   - 3.11.12.1
+  - 3.11.12.2
   - 3.11.1.0
-  lastUpdated: 20220316153606
+  lastUpdated: 20220317100042
