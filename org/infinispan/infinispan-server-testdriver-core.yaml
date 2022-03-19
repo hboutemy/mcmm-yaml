@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-server-testdriver-core
 versioning:
-  latest: 14.0.0.Dev01
-  release: 14.0.0.Dev01
+  latest: 14.0.0.Dev02
+  release: 14.0.0.Dev02
   versions:
   - 10.1.4.Final
   - 10.1.5.Final
@@ -73,5 +73,6 @@ versioning:
   - 13.0.7.Final
   - 13.0.8.Final
   - 14.0.0.Dev01
+  - 14.0.0.Dev02
   - 12.0.0.Dev3
-  lastUpdated: 20220311165445
+  lastUpdated: 20220318152216

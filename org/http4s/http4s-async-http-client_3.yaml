@@ -3,8 +3,8 @@
 groupId: org.http4s
 artifactId: http4s-async-http-client_3
 versioning:
-  latest: 1.0.0-M31
-  release: 1.0.0-M31
+  latest: 1.0.0-M32
+  release: 1.0.0-M32
   versions:
   - 0.22.0-M8
   - 0.22.0-RC1
@@ -34,6 +34,7 @@ versioning:
   - 0.23.8
   - 0.23.9
   - 0.23.10
+  - 0.23.11
   - 1.0.0-M22
   - 1.0.0-M23
   - 1.0.0-M24
@@ -43,4 +44,5 @@ versioning:
   - 1.0.0-M29
   - 1.0.0-M30
   - 1.0.0-M31
-  lastUpdated: 20220314135040
+  - 1.0.0-M32
+  lastUpdated: 20220318214757
