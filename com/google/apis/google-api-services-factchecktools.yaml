@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-factchecktools
 versioning:
-  latest: v1alpha1-rev20210403-1.32.1
-  release: v1alpha1-rev20210403-1.32.1
+  latest: v1alpha1-rev20220317-1.32.1
+  release: v1alpha1-rev20220317-1.32.1
   versions:
   - v1alpha1-rev2-1.18.0-rc
   - v1alpha1-rev2-1.22.0
@@ -249,4 +249,5 @@ versioning:
   - v1alpha1-rev20210403-1.31.0
   - v1alpha1-rev20210403-1.31.5
   - v1alpha1-rev20210403-1.32.1
-  lastUpdated: 20210702212613
+  - v1alpha1-rev20220317-1.32.1
+  lastUpdated: 20220319080503

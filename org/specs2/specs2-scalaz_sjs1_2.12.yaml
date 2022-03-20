@@ -3,8 +3,8 @@
 groupId: org.specs2
 artifactId: specs2-scalaz_sjs1_2.12
 versioning:
-  latest: 4.14.1
-  release: 4.14.1
+  latest: 4.14.1-cross
+  release: 4.14.1-cross
   versions:
   - 4.9.0
   - 4.9.1
@@ -40,4 +40,5 @@ versioning:
   - 4.13.3
   - 4.14.0
   - 4.14.1
-  lastUpdated: 20220223135007
+  - 4.14.1-cross
+  lastUpdated: 20220319231619
