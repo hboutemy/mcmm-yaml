@@ -3,8 +3,8 @@
 groupId: com.hedera.hashgraph
 artifactId: sdk-jdk7
 versioning:
-  latest: 2.10.0
-  release: 2.10.0
+  latest: 2.11.0-beta.1
+  release: 2.11.0-beta.1
   versions:
   - 2.0.0-beta.2
   - 2.0.0-beta.3
@@ -57,4 +57,6 @@ versioning:
   - 2.9.0
   - 2.10.0-beta.1
   - 2.10.0
-  lastUpdated: 20220321213611
+  - 2.10.1
+  - 2.11.0-beta.1
+  lastUpdated: 20220322032722

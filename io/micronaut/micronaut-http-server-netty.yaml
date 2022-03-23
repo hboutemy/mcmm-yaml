@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.micronaut
 artifactId: micronaut-http-server-netty
 versioning:
-  latest: 3.3.4
-  release: 3.3.4
+  latest: 3.4.0
+  release: 3.4.0
   versions:
   - 1.0.0.RC3
   - 1.0.0
@@ -119,4 +119,5 @@ versioning:
   - 3.3.2
   - 3.3.3
   - 3.3.4
-  lastUpdated: 20220228195025
+  - 3.4.0
+  lastUpdated: 20220322050343
