@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-websecurityscanner
 versioning:
-  latest: v1-rev20211203-1.32.1
-  release: v1-rev20211203-1.32.1
+  latest: v1-rev20220319-1.32.1
+  release: v1-rev20220319-1.32.1
   versions:
   - v1alpha-rev2-1.18.0-rc
   - v1alpha-rev2-1.21.0
@@ -538,6 +538,7 @@ versioning:
   - v1alpha-rev20210324-1.31.5
   - v1alpha-rev20210324-1.32.1
   - v1alpha-rev20210806-1.32.1
+  - v1alpha-rev20220319-1.32.1
   - v1beta-rev1-1.18.0-rc
   - v1beta-rev1-1.22.0
   - v1beta-rev1-1.23.0
@@ -632,6 +633,7 @@ versioning:
   - v1beta-rev20210417-1.32.1
   - v1beta-rev20210806-1.32.1
   - v1beta-rev20211203-1.32.1
+  - v1beta-rev20220319-1.32.1
   - v1-rev3-1.18.0-rc
   - v1-rev3-1.25.0
   - v1-rev4-1.18.0-rc
@@ -682,4 +684,5 @@ versioning:
   - v1-rev20210417-1.32.1
   - v1-rev20210806-1.32.1
   - v1-rev20211203-1.32.1
-  lastUpdated: 20211207211519
+  - v1-rev20220319-1.32.1
+  lastUpdated: 20220323082710

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld
 artifactId: weld-porting-package-tck
 versioning:
-  latest: 5.0.0.CR1
-  release: 5.0.0.CR1
+  latest: 5.0.0.CR2
+  release: 5.0.0.CR2
   versions:
   - 2.2.7.Final
   - 2.2.8.Final
@@ -98,4 +98,5 @@ versioning:
   - 5.0.0.Alpha2
   - 5.0.0.Beta1
   - 5.0.0.CR1
-  lastUpdated: 20220223115610
+  - 5.0.0.CR2
+  lastUpdated: 20220323140018

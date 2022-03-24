@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-test-openshift-client
 versioning:
-  latest: 2.7.5.Final
-  release: 2.7.5.Final
+  latest: 2.8.0.CR1
+  release: 2.8.0.CR1
   versions:
   - 1.9.0.CR1
   - 1.9.0.Final
@@ -89,4 +89,5 @@ versioning:
   - 2.7.3.Final
   - 2.7.4.Final
   - 2.7.5.Final
-  lastUpdated: 20220316084407
+  - 2.8.0.CR1
+  lastUpdated: 20220323120804

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld
 artifactId: weld-api-bom
 versioning:
-  latest: 5.0.CR1
-  release: 5.0.CR1
+  latest: 5.0.CR2
+  release: 5.0.CR2
   versions:
   - 1.0-CR1
   - 1.0-CR2
@@ -116,4 +116,5 @@ versioning:
   - 5.0.Beta4
   - 5.0.Beta5
   - 5.0.CR1
-  lastUpdated: 20220223102135
+  - 5.0.CR2
+  lastUpdated: 20220323100031
