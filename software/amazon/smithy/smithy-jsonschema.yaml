@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.smithy
 artifactId: smithy-jsonschema
 versioning:
-  latest: 1.18.1
-  release: 1.18.1
+  latest: 1.19.0
+  release: 1.19.0
   versions:
   - 0.8.0
   - 0.9.0
@@ -59,4 +59,5 @@ versioning:
   - 1.17.0
   - 1.18.0
   - 1.18.1
-  lastUpdated: 20220311182149
+  - 1.19.0
+  lastUpdated: 20220324202753

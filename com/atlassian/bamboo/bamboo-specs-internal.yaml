@@ -3,8 +3,8 @@
 groupId: com.atlassian.bamboo
 artifactId: bamboo-specs-internal
 versioning:
-  latest: 8.1.3
-  release: 8.1.3
+  latest: 8.2.0-rc1
+  release: 8.2.0-rc1
   versions:
   - 6.2.6
   - 6.2.7
@@ -107,6 +107,7 @@ versioning:
   - 8.1.1
   - 8.1.2
   - 8.1.3
+  - 8.2.0-rc1
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -125,4 +126,4 @@ versioning:
   - 6.2.4
   - 6.2.5
   - 6.3.0-rc3
-  lastUpdated: 20220217123142
+  lastUpdated: 20220324074136
