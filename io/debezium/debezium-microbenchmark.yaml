@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-microbenchmark
 versioning:
-  latest: 1.9.0.Beta1
-  release: 1.9.0.Beta1
+  latest: 1.9.0.CR1
+  release: 1.9.0.CR1
   versions:
   - 0.8.0.CR1
   - 0.8.0.Final
@@ -103,5 +103,6 @@ versioning:
   - 1.9.0.Alpha1
   - 1.9.0.Alpha2
   - 1.9.0.Beta1
+  - 1.9.0.CR1
   - 1.5.0.Alpha1
-  lastUpdated: 20220303172037
+  lastUpdated: 20220325172357

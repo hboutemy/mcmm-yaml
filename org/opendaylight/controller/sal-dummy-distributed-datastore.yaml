@@ -3,8 +3,8 @@
 groupId: org.opendaylight.controller
 artifactId: sal-dummy-distributed-datastore
 versioning:
-  latest: 5.0.0
-  release: 5.0.0
+  latest: 5.0.1
+  release: 5.0.1
   versions:
   - 1.2.0-Lithium
   - 1.2.1-Lithium-SR1
@@ -92,4 +92,5 @@ versioning:
   - 4.0.9
   - 4.0.10
   - 5.0.0
-  lastUpdated: 20220320162542
+  - 5.0.1
+  lastUpdated: 20220325174353
