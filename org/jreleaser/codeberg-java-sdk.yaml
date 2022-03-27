@@ -3,8 +3,8 @@
 groupId: org.jreleaser
 artifactId: codeberg-java-sdk
 versioning:
-  latest: 1.0.0-M3
-  release: 1.0.0-M3
+  latest: 1.0.0-RC1
+  release: 1.0.0-RC1
   versions:
   - 0.4.0
   - 0.5.0
@@ -17,4 +17,5 @@ versioning:
   - 1.0.0-M1
   - 1.0.0-M2
   - 1.0.0-M3
-  lastUpdated: 20220305155945
+  - 1.0.0-RC1
+  lastUpdated: 20220326100326
