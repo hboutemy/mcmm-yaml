@@ -3,8 +3,8 @@
 groupId: org.scala-sbt
 artifactId: scripted-sbt-redux_2.12
 versioning:
-  latest: 1.6.2
-  release: 1.6.2
+  latest: 1.7.0-M2-6810fix
+  release: 1.7.0-M2-6810fix
   versions:
   - 1.2.0-RC2
   - 1.2.0-RC3
@@ -75,4 +75,6 @@ versioning:
   - 1.6.0
   - 1.6.1
   - 1.6.2
-  lastUpdated: 20220201040621
+  - 1.7.0-M1
+  - 1.7.0-M2-6810fix
+  lastUpdated: 20220327200002

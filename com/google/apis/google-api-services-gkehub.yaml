@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-gkehub
 versioning:
-  latest: v2alpha-rev20220303-1.32.1
-  release: v2alpha-rev20220303-1.32.1
+  latest: v2alpha-rev20220318-1.32.1
+  release: v2alpha-rev20220318-1.32.1
   versions:
   - v1alpha2-rev20210305-1.31.0
   - v1alpha2-rev20210315-1.31.0
@@ -22,6 +22,7 @@ versioning:
   - v1alpha2-rev20211105-1.32.1
   - v1alpha2-rev20211203-1.32.1
   - v1alpha2-rev20220122-1.32.1
+  - v1alpha2-rev20220318-1.32.1
   - v1alpha-rev20210305-1.31.0
   - v1alpha-rev20210315-1.31.0
   - v1alpha-rev20210322-1.31.0
@@ -49,6 +50,7 @@ versioning:
   - v1alpha-rev20220204-1.32.1
   - v1alpha-rev20220211-1.32.1
   - v1alpha-rev20220303-1.32.1
+  - v1alpha-rev20220318-1.32.1
   - v1beta1-rev20210305-1.31.0
   - v1beta1-rev20210315-1.31.0
   - v1beta1-rev20210409-1.31.0
@@ -63,6 +65,7 @@ versioning:
   - v1beta1-rev20211105-1.32.1
   - v1beta1-rev20211203-1.32.1
   - v1beta1-rev20220122-1.32.1
+  - v1beta1-rev20220318-1.32.1
   - v1beta-rev20210315-1.31.0
   - v1beta-rev20210322-1.31.0
   - v1beta-rev20210409-1.31.0
@@ -85,6 +88,7 @@ versioning:
   - v1beta-rev20220128-1.32.1
   - v1beta-rev20220204-1.32.1
   - v1beta-rev20220303-1.32.1
+  - v1beta-rev20220318-1.32.1
   - v1-rev20210305-1.31.0
   - v1-rev20210315-1.31.0
   - v1-rev20210322-1.31.0
@@ -109,6 +113,8 @@ versioning:
   - v1-rev20220107-1.32.1
   - v1-rev20220122-1.32.1
   - v1-rev20220204-1.32.1
+  - v1-rev20220318-1.32.1
   - v2alpha-rev20220204-1.32.1
   - v2alpha-rev20220303-1.32.1
-  lastUpdated: 20220312090638
+  - v2alpha-rev20220318-1.32.1
+  lastUpdated: 20220327080901
