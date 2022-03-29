@@ -3,8 +3,8 @@
 groupId: io.kubernetes
 artifactId: client-java-parent
 versioning:
-  latest: 14.0.1
-  release: 14.0.1
+  latest: 15.0.0
+  release: 15.0.0
   versions:
   - 0.2
   - 1.0.0-beta1
@@ -46,4 +46,5 @@ versioning:
   - 13.0.2
   - 14.0.0
   - 14.0.1
-  lastUpdated: 20220305002844
+  - 15.0.0
+  lastUpdated: 20220328123329

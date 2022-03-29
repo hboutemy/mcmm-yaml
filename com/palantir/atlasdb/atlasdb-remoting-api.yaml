@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-remoting-api
 versioning:
-  latest: 0.581.0-rc7
-  release: 0.581.0-rc7
+  latest: 0.582.0
+  release: 0.582.0
   versions:
   - 0.311.6
   - 0.311.7
@@ -314,4 +314,7 @@ versioning:
   - 0.581.0-rc2
   - 0.581.0-rc5
   - 0.581.0-rc7
-  lastUpdated: 20220325182519
+  - 0.581.0-rc8
+  - 0.581.0
+  - 0.582.0
+  lastUpdated: 20220328204740

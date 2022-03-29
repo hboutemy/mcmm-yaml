@@ -3,8 +3,8 @@
 groupId: com.dimajix.flowman
 artifactId: flowman-plugin-mariadb
 versioning:
-  latest: 0.23.0-oss-spark3.2-hadoop3.3
-  release: 0.23.0-oss-spark3.2-hadoop3.3
+  latest: 0.23.1-oss-spark3.2-hadoop3.3
+  release: 0.23.1-oss-spark3.2-hadoop3.3
   versions:
   - 0.4.0
   - 0.4.1
@@ -75,4 +75,15 @@ versioning:
   - 0.23.0-oss-spark3.1-hadoop3.2
   - 0.23.0-oss-spark3.2-hadoop2.7
   - 0.23.0-oss-spark3.2-hadoop3.3
-  lastUpdated: 20220318143828
+  - 0.23.1
+  - 0.23.1-cdh6-spark2.4-hadoop3.0
+  - 0.23.1-cdp7-spark2.4-hadoop3.1
+  - 0.23.1-oss-spark2.4-hadoop2.6
+  - 0.23.1-oss-spark2.4-hadoop2.7
+  - 0.23.1-oss-spark3.0-hadoop2.7
+  - 0.23.1-oss-spark3.0-hadoop3.2
+  - 0.23.1-oss-spark3.1-hadoop2.7
+  - 0.23.1-oss-spark3.1-hadoop3.2
+  - 0.23.1-oss-spark3.2-hadoop2.7
+  - 0.23.1-oss-spark3.2-hadoop3.3
+  lastUpdated: 20220328172813
