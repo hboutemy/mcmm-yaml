@@ -3,8 +3,8 @@
 groupId: io.grpc
 artifactId: grpc-bom
 versioning:
-  latest: 1.45.0
-  release: 1.45.0
+  latest: 1.45.1
+  release: 1.45.1
   versions:
   - 1.19.0
   - 1.20.0
@@ -66,4 +66,5 @@ versioning:
   - 1.44.0
   - 1.44.1
   - 1.45.0
-  lastUpdated: 20220309024701
+  - 1.45.1
+  lastUpdated: 20220329190420

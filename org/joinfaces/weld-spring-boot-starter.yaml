@@ -3,8 +3,8 @@
 groupId: org.joinfaces
 artifactId: weld-spring-boot-starter
 versioning:
-  latest: 5.0.0-m1
-  release: 5.0.0-m1
+  latest: 5.0.0-m2
+  release: 5.0.0-m2
   versions:
   - 3.1.0
   - 3.1.1
@@ -79,6 +79,7 @@ versioning:
   - 4.5.8
   - 4.5.9
   - 4.5.10
+  - 4.5.11
   - 4.6.0-m1
   - 4.6.0-m2
   - 4.6.0-rc1
@@ -87,7 +88,10 @@ versioning:
   - 4.6.2
   - 4.6.3
   - 4.6.4
+  - 4.6.5
   - 4.7.0-m1
   - 4.7.0-m2
+  - 4.7.0-m3
   - 5.0.0-m1
-  lastUpdated: 20220301020021
+  - 5.0.0-m2
+  lastUpdated: 20220329002837
