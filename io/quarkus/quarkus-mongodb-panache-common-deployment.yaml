@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-mongodb-panache-common-deployment
 versioning:
-  latest: 2.8.0.CR1
-  release: 2.8.0.CR1
+  latest: 2.8.0.Final
+  release: 2.8.0.Final
   versions:
   - 1.8.0.CR1
   - 1.8.0.Final
@@ -95,4 +95,5 @@ versioning:
   - 2.7.4.Final
   - 2.7.5.Final
   - 2.8.0.CR1
-  lastUpdated: 20220323120623
+  - 2.8.0.Final
+  lastUpdated: 20220330123540

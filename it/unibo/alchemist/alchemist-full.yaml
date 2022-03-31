@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: it.unibo.alchemist
 artifactId: alchemist-full
 versioning:
-  latest: 14.0.2
-  release: 14.0.2
+  latest: 15.0.0
+  release: 15.0.0
   versions:
   - 9.3.0-dev1bc+fd2c3a1c0
   - 9.3.0-dev1bn+1fc9a8ebd
@@ -103,4 +103,6 @@ versioning:
   - 14.0.0
   - 14.0.1
   - 14.0.2
-  lastUpdated: 20220316131847
+  - 14.1.0
+  - 15.0.0
+  lastUpdated: 20220330231722

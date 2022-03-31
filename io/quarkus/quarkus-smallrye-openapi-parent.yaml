@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-smallrye-openapi-parent
 versioning:
-  latest: 2.8.0.CR1
-  release: 2.8.0.CR1
+  latest: 2.8.0.Final
+  release: 2.8.0.Final
   versions:
   - 0.11.0
   - 0.12.0
@@ -163,4 +163,5 @@ versioning:
   - 2.7.4.Final
   - 2.7.5.Final
   - 2.8.0.CR1
-  lastUpdated: 20220323120736
+  - 2.8.0.Final
+  lastUpdated: 20220330123706
