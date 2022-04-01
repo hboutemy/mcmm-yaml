@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.daml
 artifactId: daml-lf-data_2.12
 versioning:
-  latest: 1.18.2-snapshot.20220324.8440.0.5cfb1a21
-  release: 1.18.2-snapshot.20220324.8440.0.5cfb1a21
+  latest: 1.18.2
+  release: 1.18.2
   versions:
   - 0.13.56-snapshot.20200403.3814.0.47541e70
   - 0.13.56-snapshot.20200404.3816.0.30f2c742
@@ -200,5 +200,6 @@ versioning:
   - 1.18.1
   - 1.18.2-snapshot.20220310.8437.1.5221a5d1
   - 1.18.2-snapshot.20220324.8440.0.5cfb1a21
+  - 1.18.2
   - 1.11.0-snapshot.20210224.6385.0.dba114a2
-  lastUpdated: 20220325060949
+  lastUpdated: 20220331143659

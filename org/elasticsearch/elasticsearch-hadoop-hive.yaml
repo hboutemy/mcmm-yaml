@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-hadoop-hive
 versioning:
-  latest: 8.1.1
-  release: 8.1.1
+  latest: 8.1.2
+  release: 8.1.2
   versions:
   - 1.3.0.M3
   - 2.0.0.RC1
@@ -193,6 +193,7 @@ versioning:
   - 7.16.3
   - 7.17.0
   - 7.17.1
+  - 7.17.2
   - 8.0.0-alpha1
   - 8.0.0-alpha2
   - 8.0.0-beta1
@@ -202,5 +203,6 @@ versioning:
   - 8.0.1
   - 8.1.0
   - 8.1.1
+  - 8.1.2
   - 2.1.0.rc1
-  lastUpdated: 20220322150515
+  lastUpdated: 20220331155035

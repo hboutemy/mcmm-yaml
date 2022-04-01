@@ -3,8 +3,8 @@
 groupId: org.opendaylight.bgpcep
 artifactId: bgp-evpn
 versioning:
-  latest: 0.16.14
-  release: 0.16.14
+  latest: 0.17.0
+  release: 0.17.0
   versions:
   - 0.6.0-Boron
   - 0.6.1-Boron-SR1
@@ -67,4 +67,5 @@ versioning:
   - 0.16.12
   - 0.16.13
   - 0.16.14
-  lastUpdated: 20220215081054
+  - 0.17.0
+  lastUpdated: 20220331082705
