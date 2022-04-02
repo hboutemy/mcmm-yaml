@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty
 artifactId: jetty-unixsocket-common
 versioning:
-  latest: 11.0.8
-  release: 11.0.8
+  latest: 11.0.9
+  release: 11.0.9
   versions:
   - 10.0.0-alpha0
   - 10.0.0.alpha1
@@ -22,6 +22,7 @@ versioning:
   - 10.0.6
   - 10.0.7
   - 10.0.8
+  - 10.0.9
   - 11.0.0-alpha0
   - 11.0.0.beta1
   - 11.0.0.beta2
@@ -35,4 +36,5 @@ versioning:
   - 11.0.6
   - 11.0.7
   - 11.0.8
-  lastUpdated: 20220207144507
+  - 11.0.9
+  lastUpdated: 20220401194008

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: dynamodb-global
 versioning:
-  latest: 1.150.0
-  release: 1.150.0
+  latest: 1.151.0
+  release: 1.151.0
   versions:
   - 0.29.0
   - 0.30.0
@@ -199,4 +199,5 @@ versioning:
   - 1.148.0
   - 1.149.0
   - 1.150.0
-  lastUpdated: 20220326184908
+  - 1.151.0
+  lastUpdated: 20220401042228

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.hibernate.validator
 artifactId: hibernate-validator-cdi
 versioning:
-  latest: 8.0.0.Alpha2
-  release: 8.0.0.Alpha2
+  latest: 8.0.0.Alpha3
+  release: 8.0.0.Alpha3
   versions:
   - 6.0.0.Alpha1
   - 6.0.0.Alpha2
@@ -71,4 +71,5 @@ versioning:
   - 7.0.4.Final
   - 8.0.0.Alpha1
   - 8.0.0.Alpha2
-  lastUpdated: 20220310114222
+  - 8.0.0.Alpha3
+  lastUpdated: 20220401140038

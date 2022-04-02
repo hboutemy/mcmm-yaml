@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty.fcgi
 artifactId: fcgi-server
 versioning:
-  latest: 11.0.8
-  release: 11.0.8
+  latest: 11.0.9
+  release: 11.0.9
   versions:
   - 9.1.4.v20140401
   - 9.1.5.v20140505
@@ -160,6 +160,7 @@ versioning:
   - 9.4.43.v20210629
   - 9.4.44.v20210927
   - 9.4.45.v20220203
+  - 9.4.46.v20220331
   - 10.0.0-alpha0
   - 10.0.0.alpha1
   - 10.0.0.alpha2
@@ -176,6 +177,7 @@ versioning:
   - 10.0.6
   - 10.0.7
   - 10.0.8
+  - 10.0.9
   - 11.0.0-alpha0
   - 11.0.0.beta1
   - 11.0.0.beta2
@@ -189,4 +191,5 @@ versioning:
   - 11.0.6
   - 11.0.7
   - 11.0.8
-  lastUpdated: 20220207144452
+  - 11.0.9
+  lastUpdated: 20220401194001
