@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-instrumentation-p6spy
 versioning:
-  latest: 5.13.7
-  release: 5.13.7
+  latest: 5.13.8
+  release: 5.13.8
   versions:
   - 4.3.0
   - 4.3.1
@@ -116,4 +116,5 @@ versioning:
   - 5.13.5
   - 5.13.6
   - 5.13.7
-  lastUpdated: 20211230204358
+  - 5.13.8
+  lastUpdated: 20220404103318

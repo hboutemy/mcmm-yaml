@@ -3,8 +3,8 @@
 groupId: ca.uhn.hapi.fhir
 artifactId: hapi-fhir-jpaserver-batch
 versioning:
-  latest: 5.5.5
-  release: 5.5.5
+  latest: 5.5.7
+  release: 5.5.7
   versions:
   - 5.1.0
   - 5.2.0
@@ -21,4 +21,5 @@ versioning:
   - 5.5.3
   - 5.5.4
   - 5.5.5
-  lastUpdated: 20220122013345
+  - 5.5.7
+  lastUpdated: 20220404005001

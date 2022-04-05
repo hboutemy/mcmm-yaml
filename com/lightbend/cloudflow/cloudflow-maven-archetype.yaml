@@ -3,8 +3,8 @@
 groupId: com.lightbend.cloudflow
 artifactId: cloudflow-maven-archetype
 versioning:
-  latest: 2.3.1-RC2
-  release: 2.3.1-RC2
+  latest: 2.3.1
+  release: 2.3.1
   versions:
   - 2.1.0-NIGHTLY20210525
   - 2.1.1
@@ -177,9 +177,11 @@ versioning:
   - 2.3.0-NIGHTLY20220314
   - 2.3.0-NIGHTLY20220321
   - 2.3.0-NIGHTLY20220328
+  - 2.3.0-NIGHTLY20220404
   - 2.3.0-try-stack-size-1
   - 2.3.1-RC0
   - 2.3.1-RC01
   - 2.3.1-RC2
+  - 2.3.1
   - 2.3.1-RC1
-  lastUpdated: 20220328001751
+  lastUpdated: 20220404145919
