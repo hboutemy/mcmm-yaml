@@ -3,12 +3,13 @@
 groupId: org.jetbrains.kotlinx
 artifactId: kotlinx-coroutines-test-macosx64
 versioning:
-  latest: 1.6.1
-  release: 1.6.1
+  latest: 1.6.1-native-mt
+  release: 1.6.1-native-mt
   versions:
   - 1.6.0-RC2
   - 1.6.0-RC3
   - 1.6.0
   - 1.6.0-native-mt
   - 1.6.1
-  lastUpdated: 20220404154658
+  - 1.6.1-native-mt
+  lastUpdated: 20220405152137

@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-revapi
 versioning:
-  latest: 1.9.0.CR1
-  release: 1.9.0.CR1
+  latest: 1.9.0.Final
+  release: 1.9.0.Final
   versions:
   - 1.5.0.Beta2
   - 1.5.0.CR1
@@ -39,4 +39,5 @@ versioning:
   - 1.9.0.Alpha2
   - 1.9.0.Beta1
   - 1.9.0.CR1
-  lastUpdated: 20220325172359
+  - 1.9.0.Final
+  lastUpdated: 20220405151132

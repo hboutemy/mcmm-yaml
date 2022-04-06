@@ -3,8 +3,8 @@
 groupId: io.dropwizard
 artifactId: dropwizard-request-logging
 versioning:
-  latest: 2.1.0-beta.7
-  release: 2.1.0-beta.7
+  latest: 2.1.0-beta.8
+  release: 2.1.0-beta.8
   versions:
   - 1.0.0-rc1
   - 1.0.0-rc2
@@ -129,6 +129,7 @@ versioning:
   - 2.0.26
   - 2.0.27
   - 2.0.28
+  - 2.0.29
   - 2.1.0-beta.1
   - 2.1.0-beta.2
   - 2.1.0-beta.3
@@ -136,4 +137,5 @@ versioning:
   - 2.1.0-beta.5
   - 2.1.0-beta.6
   - 2.1.0-beta.7
-  lastUpdated: 20211220160518
+  - 2.1.0-beta.8
+  lastUpdated: 20220405161634

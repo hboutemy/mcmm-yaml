@@ -3,8 +3,8 @@
 groupId: com.redhat.cloud
 artifactId: kafka-instance-sdk
 versioning:
-  latest: 0.19.0-beta1
-  release: 0.19.0-beta1
+  latest: 0.19.0-beta3
+  release: 0.19.0-beta3
   versions:
   - 0.3.1
   - 0.4.0
@@ -29,4 +29,6 @@ versioning:
   - 0.17.1
   - 0.18.0
   - 0.19.0-beta1
-  lastUpdated: 20220401154947
+  - 0.19.0-beta2
+  - 0.19.0-beta3
+  lastUpdated: 20220405140110
