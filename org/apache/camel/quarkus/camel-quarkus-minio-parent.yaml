@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-minio-parent
 versioning:
-  latest: 2.8.0-M1
-  release: 2.8.0-M1
+  latest: 2.8.0
+  release: 2.8.0
   versions:
   - 1.5.0
   - 1.6.0
@@ -24,4 +24,5 @@ versioning:
   - 2.7.0
   - 2.7.1
   - 2.8.0-M1
-  lastUpdated: 20220403214405
+  - 2.8.0
+  lastUpdated: 20220407101500

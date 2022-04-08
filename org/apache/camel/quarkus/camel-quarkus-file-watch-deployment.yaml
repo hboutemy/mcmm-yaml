@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-file-watch-deployment
 versioning:
-  latest: 2.8.0-M1
-  release: 2.8.0-M1
+  latest: 2.8.0
+  release: 2.8.0
   versions:
   - 1.0.0-M5
   - 1.0.0-M6
@@ -35,4 +35,5 @@ versioning:
   - 2.7.0
   - 2.7.1
   - 2.8.0-M1
-  lastUpdated: 20220403214110
+  - 2.8.0
+  lastUpdated: 20220407101021
