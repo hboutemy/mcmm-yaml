@@ -3,8 +3,8 @@
 groupId: com.revenuecat.purchases
 artifactId: purchases-store-google
 versioning:
-  latest: 5.0.0-amazon.alpha.6
-  release: 5.0.0-amazon.alpha.6
+  latest: 5.0.0-amazon.alpha.6.billing3.iap2
+  release: 5.0.0-amazon.alpha.6.billing3.iap2
   versions:
   - AMAZON.RC1
   - 4.2.0
@@ -30,4 +30,5 @@ versioning:
   - 5.0.0-amazon.alpha.5
   - 5.0.0-amazon.alpha.5.billing3.iap2
   - 5.0.0-amazon.alpha.6
-  lastUpdated: 20220329000104
+  - 5.0.0-amazon.alpha.6.billing3.iap2
+  lastUpdated: 20220408222624

@@ -3,8 +3,8 @@
 groupId: com.tencent.bk.base.datahub
 artifactId: iceberg-bundled-guava
 versioning:
-  latest: 0.13.1-bkbase.2
-  release: 0.13.1-bkbase.2
+  latest: 0.13.1-bkbase.3
+  release: 0.13.1-bkbase.3
   versions:
   - 0.9.0-bkbase.1
   - 0.9.0-bkbase.2
@@ -14,4 +14,5 @@ versioning:
   - 0.12.1-bkbase.3
   - 0.13.1-bkbase.1
   - 0.13.1-bkbase.2
-  lastUpdated: 20220317074550
+  - 0.13.1-bkbase.3
+  lastUpdated: 20220406091917

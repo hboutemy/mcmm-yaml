@@ -3,8 +3,8 @@
 groupId: com.atlassian.bamboo
 artifactId: bamboo-specs-runner-test
 versioning:
-  latest: 8.2.0
-  release: 8.2.0
+  latest: 8.2.1
+  release: 8.2.1
   versions:
   - 6.2.6
   - 6.2.7
@@ -110,6 +110,7 @@ versioning:
   - 8.1.4
   - 8.2.0-rc1
   - 8.2.0
+  - 8.2.1
   - 6.2.0-eap
   - 6.2.0-m14
   - 6.2.0-m7
@@ -119,4 +120,4 @@ versioning:
   - 6.2.4
   - 6.2.5
   - 6.3.0-rc3
-  lastUpdated: 20220405060606
+  lastUpdated: 20220408215440
