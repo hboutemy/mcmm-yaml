@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: pulsar-proxy
 versioning:
-  latest: 2.9.2
-  release: 2.9.2
+  latest: 2.10.0
+  release: 2.10.0
   versions:
   - 1.19.0-incubating
   - 1.20.0-incubating
@@ -43,4 +43,5 @@ versioning:
   - 2.9.0
   - 2.9.1
   - 2.9.2
-  lastUpdated: 20220331033103
+  - 2.10.0
+  lastUpdated: 20220409030328
