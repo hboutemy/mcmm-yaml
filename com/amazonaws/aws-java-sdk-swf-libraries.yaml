@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-swf-libraries
 versioning:
-  latest: 1.11.22
-  release: 1.11.22
+  latest: 1.12.0
+  release: 1.12.0
   versions:
   - 1.9.0
   - 1.9.1
@@ -156,4 +156,5 @@ versioning:
   - 1.11.20
   - 1.11.21
   - 1.11.22
-  lastUpdated: 20191107015120
+  - 1.12.0
+  lastUpdated: 20220411165608
