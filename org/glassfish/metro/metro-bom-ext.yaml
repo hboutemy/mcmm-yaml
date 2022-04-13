@@ -3,8 +3,8 @@
 groupId: org.glassfish.metro
 artifactId: metro-bom-ext
 versioning:
-  latest: 3.0.3
-  release: 3.0.3
+  latest: 4.0.0-M4
+  release: 4.0.0-M4
   versions:
   - 2.4.4
   - 2.4.5
@@ -18,6 +18,10 @@ versioning:
   - 3.0.1
   - 3.0.2
   - 3.0.3
+  - 4.0.0-M1
+  - 4.0.0-M2
+  - 4.0.0-M3
+  - 4.0.0-M4
   - 2.3.1
   - 2.3.1-b104
   - 2.3.1-b411
@@ -27,4 +31,4 @@ versioning:
   - 2.4.2
   - 2.4.3
   - 2.4.4-b01
-  lastUpdated: 20220107111757
+  lastUpdated: 20220412073647
