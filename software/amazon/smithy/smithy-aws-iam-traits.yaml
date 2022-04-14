@@ -3,8 +3,8 @@
 groupId: software.amazon.smithy
 artifactId: smithy-aws-iam-traits
 versioning:
-  latest: 1.21.0-rc1
-  release: 1.21.0-rc1
+  latest: 1.21.0
+  release: 1.21.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -49,4 +49,5 @@ versioning:
   - 1.18.1
   - 1.19.0
   - 1.21.0-rc1
-  lastUpdated: 20220411170037
+  - 1.21.0
+  lastUpdated: 20220413210018
