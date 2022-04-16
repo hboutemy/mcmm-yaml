@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-waf
 versioning:
-  latest: 1.12.199
-  release: 1.12.199
+  latest: 1.12.201
+  release: 1.12.201
   versions:
   - 1.10.23
   - 1.10.24
@@ -1298,4 +1298,6 @@ versioning:
   - 1.12.197
   - 1.12.198
   - 1.12.199
-  lastUpdated: 20220413214856
+  - 1.12.200
+  - 1.12.201
+  lastUpdated: 20220415200931

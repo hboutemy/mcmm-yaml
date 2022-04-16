@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-clustering-ejb-spi
 versioning:
-  latest: 26.1.0.Beta1
-  release: 26.1.0.Beta1
+  latest: 26.1.0.Final
+  release: 26.1.0.Final
   versions:
   - 8.0.0.CR1
   - 8.0.0.Final
@@ -91,4 +91,5 @@ versioning:
   - 26.0.0.Final
   - 26.0.1.Final
   - 26.1.0.Beta1
-  lastUpdated: 20220323180510
+  - 26.1.0.Final
+  lastUpdated: 20220414100951

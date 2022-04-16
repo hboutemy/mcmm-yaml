@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-client-properties
 versioning:
-  latest: 26.1.0.Beta1
-  release: 26.1.0.Beta1
+  latest: 26.1.0.Final
+  release: 26.1.0.Final
   versions:
   - 15.0.0.Final
   - 15.0.1.Final
@@ -47,4 +47,5 @@ versioning:
   - 26.0.0.Final
   - 26.0.1.Final
   - 26.1.0.Beta1
-  lastUpdated: 20220323180507
+  - 26.1.0.Final
+  lastUpdated: 20220414100947
