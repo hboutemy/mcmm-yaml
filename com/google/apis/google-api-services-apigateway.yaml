@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-apigateway
 versioning:
-  latest: v1-rev20220323-1.32.1
-  release: v1-rev20220323-1.32.1
+  latest: v1-rev20220406-1.32.1
+  release: v1-rev20220406-1.32.1
   versions:
   - v1alpha1-rev20200901-1.30.10
   - v1alpha2-rev20200915-1.30.10
@@ -24,6 +24,7 @@ versioning:
   - v1beta-rev20211020-1.32.1
   - v1beta-rev20211110-1.32.1
   - v1beta-rev20220323-1.32.1
+  - v1beta-rev20220406-1.32.1
   - v1-rev20201211-1.31.0
   - v1-rev20210107-1.31.0
   - v1-rev20210310-1.31.0
@@ -35,4 +36,5 @@ versioning:
   - v1-rev20211020-1.32.1
   - v1-rev20211110-1.32.1
   - v1-rev20220323-1.32.1
-  lastUpdated: 20220405075947
+  - v1-rev20220406-1.32.1
+  lastUpdated: 20220416080032
