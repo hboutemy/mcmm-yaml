@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf-provider-external
 versioning:
-  latest: 0.5.19
-  release: 0.5.19
+  latest: 0.5.20
+  release: 0.5.20
   versions:
   - 0.1.13
   - 0.1.14
@@ -417,4 +417,5 @@ versioning:
   - 0.5.17
   - 0.5.18
   - 0.5.19
-  lastUpdated: 20220416001601
+  - 0.5.20
+  lastUpdated: 20220417001644
