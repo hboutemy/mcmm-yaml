@@ -3,8 +3,8 @@
 groupId: com.alipay.sofa
 artifactId: jraft-rheakv-core
 versioning:
-  latest: 1.3.10.bugfix
-  release: 1.3.10.bugfix
+  latest: 1.3.10.bugfix_2
+  release: 1.3.10.bugfix_2
   versions:
   - 1.2.3
   - 1.2.4
@@ -33,4 +33,5 @@ versioning:
   - 1.3.9.fix-log4j2
   - 1.3.10
   - 1.3.10.bugfix
-  lastUpdated: 20220412110342
+  - 1.3.10.bugfix_2
+  lastUpdated: 20220418064434
