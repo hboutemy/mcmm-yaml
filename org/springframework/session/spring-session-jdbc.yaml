@@ -3,8 +3,8 @@
 groupId: org.springframework.session
 artifactId: spring-session-jdbc
 versioning:
-  latest: 2.6.2
-  release: 2.6.2
+  latest: 2.6.3
+  release: 2.6.3
   versions:
   - 1.2.0.RC1
   - 1.2.0.RC2
@@ -56,9 +56,11 @@ versioning:
   - 2.4.2
   - 2.5.4
   - 2.5.5
+  - 2.5.6
   - 2.6.0
   - 2.6.1
   - 2.6.2
+  - 2.6.3
   - 2.2.6.RELEASE
   - 2.3.3.RELEASE
   - 2.4.3
@@ -69,4 +71,4 @@ versioning:
   - 2.5.1
   - 2.5.2
   - 2.5.3
-  lastUpdated: 20220222125924
+  lastUpdated: 20220419155843

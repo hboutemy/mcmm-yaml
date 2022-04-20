@@ -3,8 +3,8 @@
 groupId: org.jboss.resteasy
 artifactId: resteasy-jdk-http
 versioning:
-  latest: 6.1.0.Alpha1
-  release: 6.1.0.Alpha1
+  latest: 6.1.0.Beta1
+  release: 6.1.0.Beta1
   versions:
   - 2.3.3.Final
   - 2.3.4.Final
@@ -160,6 +160,7 @@ versioning:
   - 4.7.3.Final
   - 4.7.4.Final
   - 4.7.5.Final
+  - 4.7.6.Final
   - 5.0.0.Alpha1
   - 5.0.0.Beta1
   - 5.0.0.Beta2
@@ -170,4 +171,4 @@ versioning:
   - 6.0.0.Beta1
   - 6.0.0.Final
   - 6.1.0.Alpha1
-  lastUpdated: 20220331195041
+  lastUpdated: 20220419214539

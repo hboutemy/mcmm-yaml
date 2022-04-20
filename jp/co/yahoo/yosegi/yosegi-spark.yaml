@@ -3,8 +3,10 @@
 groupId: jp.co.yahoo.yosegi
 artifactId: yosegi-spark
 versioning:
-  latest: 1.2.0_spark-2.4-scala-2.11
-  release: 1.2.0_spark-2.4-scala-2.11
+  latest: 1.2.0_spark-3.2-scala-2.12
+  release: 1.2.0_spark-3.2-scala-2.12
   versions:
+  - 1.2.0_spark-2.2-scala-2.11
   - 1.2.0_spark-2.4-scala-2.11
-  lastUpdated: 20220415061633
+  - 1.2.0_spark-3.2-scala-2.12
+  lastUpdated: 20220419025744
