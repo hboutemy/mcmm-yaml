@@ -3,8 +3,8 @@
 groupId: com.tencent.bk.devops.ci.auth
 artifactId: api-auth
 versioning:
-  latest: 1.8.0-alpha.26-RELEASE
-  release: 1.8.0-alpha.26-RELEASE
+  latest: 1.8.0-RC.2-RELEASE
+  release: 1.8.0-RC.2-RELEASE
   versions:
   - 1.7.23-RELEASE
   - 1.7.24-RELEASE
@@ -14,4 +14,5 @@ versioning:
   - 1.7.36-RELEASE
   - 1.8.0-alpha.1-RELEASE
   - 1.8.0-alpha.26-RELEASE
-  lastUpdated: 20220414135840
+  - 1.8.0-RC.2-RELEASE
+  lastUpdated: 20220420125107

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.examples
 artifactId: rx-client-webapp
 versioning:
-  latest: 3.0.4
-  release: 3.0.4
+  latest: 3.1.0-M2
+  release: 3.1.0-M2
   versions:
   - 2.13
   - 2.14
@@ -59,4 +59,6 @@ versioning:
   - 3.0.2
   - 3.0.3
   - 3.0.4
-  lastUpdated: 20220209141132
+  - 3.1.0-M1
+  - 3.1.0-M2
+  lastUpdated: 20220420115904

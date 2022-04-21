@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-lz4
 versioning:
-  latest: 8.1.2
-  release: 8.1.2
+  latest: 8.1.3
+  release: 8.1.3
   versions:
   - 7.16.0
   - 7.16.1
@@ -13,6 +13,7 @@ versioning:
   - 7.17.0
   - 7.17.1
   - 7.17.2
+  - 7.17.3
   - 8.0.0-beta1
   - 8.0.0-rc1
   - 8.0.0-rc2
@@ -21,4 +22,5 @@ versioning:
   - 8.1.0
   - 8.1.1
   - 8.1.2
-  lastUpdated: 20220331155037
+  - 8.1.3
+  lastUpdated: 20220420135844

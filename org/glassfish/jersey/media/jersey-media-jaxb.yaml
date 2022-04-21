@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.media
 artifactId: jersey-media-jaxb
 versioning:
-  latest: 3.0.4
-  release: 3.0.4
+  latest: 3.1.0-M2
+  release: 3.1.0-M2
   versions:
   - 2.16
   - 2.17
@@ -55,5 +55,7 @@ versioning:
   - 3.0.2
   - 3.0.3
   - 3.0.4
+  - 3.1.0-M1
+  - 3.1.0-M2
   - 2.26
-  lastUpdated: 20220209141140
+  lastUpdated: 20220420115913
