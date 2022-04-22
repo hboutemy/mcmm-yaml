@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.apache.tomee
 artifactId: openejb-http
 versioning:
-  latest: 8.0.10
-  release: 8.0.10
+  latest: 8.0.11
+  release: 8.0.11
   versions:
   - 7.0.0-M1
   - 7.0.0-M2
@@ -39,4 +39,5 @@ versioning:
   - 8.0.8
   - 8.0.9
   - 8.0.10
-  lastUpdated: 20220222093533
+  - 8.0.11
+  lastUpdated: 20220421141950

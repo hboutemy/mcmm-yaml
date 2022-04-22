@@ -3,8 +3,8 @@
 groupId: com.codacy
 artifactId: foundation-logging_2.11
 versioning:
-  latest: 11.0.1_play_2.7
-  release: 11.0.1_play_2.7
+  latest: 12.0.0_play_2.7
+  release: 12.0.0_play_2.7
   versions:
   - 9.3.1-publishsonatype.a27ebe6
   - 9.3.1-publishsonatype.a27ebe6_play_2.5
@@ -108,5 +108,9 @@ versioning:
   - 11.0.1_play_2.5
   - 11.0.1_play_2.6
   - 11.0.1_play_2.7
+  - 11.1.0-scala213supporttest.2.bca0241_play_2.6
+  - 11.1.0-scala213supporttest.2.bca0241_play_2.7
+  - 12.0.0_play_2.6
+  - 12.0.0_play_2.7
   - 9.3.3-luisferreirapatchaddtsql.a3e0b06
-  lastUpdated: 20220125154915
+  lastUpdated: 20220421133854
