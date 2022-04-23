@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-saml-tomcat8-adapter-dist
 versioning:
@@ -75,4 +76,4 @@ versioning:
   - 5.0.0
   - 6.0.0
   - 6.0.1
-  lastUpdated: 20190424074520
+  lastUpdated: 20220308221254

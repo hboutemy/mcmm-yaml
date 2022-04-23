@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-legacy-spring-boot-starter-parent
 versioning:
-  latest: 16.1.1
-  release: 16.1.1
+  latest: 18.0.0
+  release: 18.0.0
   versions:
   - 4.1.0.Final
   - 4.2.0.Final
@@ -55,4 +56,4 @@ versioning:
   - 17.0.0
   - 17.0.1
   - 18.0.0
-  lastUpdated: 20220125100821
+  lastUpdated: 20220420192726

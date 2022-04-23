@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-saml-tomcat7-adapter
 versioning:
-  latest: 16.1.1
-  release: 16.1.1
+  latest: 17.0.1
+  release: 17.0.1
   versions:
   - 1.6.0.Final
   - 1.6.1.Final
@@ -108,4 +109,4 @@ versioning:
   - 16.1.1
   - 17.0.0
   - 17.0.1
-  lastUpdated: 20220125100929
+  lastUpdated: 20220323081243

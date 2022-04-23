@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-jaxrs-common-bootstrap
 versioning:
-  latest: 1.13.0-alpha
-  release: 1.13.0-alpha
+  latest: 1.13.1-alpha
+  release: 1.13.1-alpha
   versions:
   - 1.9.0-alpha
   - 1.9.1-alpha
@@ -16,4 +16,5 @@ versioning:
   - 1.12.0-alpha
   - 1.12.1-alpha
   - 1.13.0-alpha
-  lastUpdated: 20220419014547
+  - 1.13.1-alpha
+  lastUpdated: 20220422162352

@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-server-feature-pack-dependencies
 versioning:
-  latest: 16.1.1
-  release: 16.1.1
+  latest: 18.0.0
+  release: 18.0.0
   versions:
   - 14.0.0
   - 15.0.0
@@ -18,4 +19,4 @@ versioning:
   - 17.0.0
   - 17.0.1
   - 18.0.0
-  lastUpdated: 20220125101007
+  lastUpdated: 20220420192754

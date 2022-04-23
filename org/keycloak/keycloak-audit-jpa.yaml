@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-audit-jpa
 versioning:
@@ -13,4 +14,4 @@ versioning:
   - 1.0-beta-3
   - 1.0-beta-4
   - 1.0-rc-1
-  lastUpdated: 20140820200244
+  lastUpdated: 20220308215356

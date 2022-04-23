@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-authz-policy-drools
 versioning:
@@ -61,4 +62,4 @@ versioning:
   - 8.0.0
   - 8.0.1
   - 8.0.2
-  lastUpdated: 20200204092625
+  lastUpdated: 20220308221227
