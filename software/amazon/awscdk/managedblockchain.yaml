@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: managedblockchain
 versioning:
-  latest: 1.153.0
-  release: 1.153.0
+  latest: 1.153.1
+  release: 1.153.1
   versions:
   - 1.5.0.DEVPREVIEW
   - 1.6.0.DEVPREVIEW
@@ -184,4 +184,5 @@ versioning:
   - 1.151.0
   - 1.152.0
   - 1.153.0
-  lastUpdated: 20220422121319
+  - 1.153.1
+  lastUpdated: 20220423042650

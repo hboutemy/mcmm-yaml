@@ -3,8 +3,8 @@
 groupId: org.codehaus.cargo
 artifactId: wildfly-swarm-test
 versioning:
-  latest: 1.9.10
-  release: 1.9.10
+  latest: 1.9.11
+  release: 1.9.11
   versions:
   - 1.6.5
   - 1.6.6
@@ -47,4 +47,5 @@ versioning:
   - 1.9.8
   - 1.9.9
   - 1.9.10
-  lastUpdated: 20220217164918
+  - 1.9.11
+  lastUpdated: 20220423060840
