@@ -3,9 +3,10 @@
 groupId: io.streamnative.connectors
 artifactId: pulsar-flink-connector_2.12
 versioning:
-  latest: 1.13.6.1-rc4
-  release: 1.13.6.1-rc4
+  latest: 1.13.6.1-rc7
+  release: 1.13.6.1-rc7
   versions:
+  - release-1.13.6.1-rc6
   - 1.9.3.0
   - 1.9.3.1
   - 1.11.1.0
@@ -46,4 +47,6 @@ versioning:
   - 1.13.6.1-rc2
   - 1.13.6.1-rc3
   - 1.13.6.1-rc4
-  lastUpdated: 20220421235526
+  - 1.13.6.1-rc6
+  - 1.13.6.1-rc7
+  lastUpdated: 20220424022501

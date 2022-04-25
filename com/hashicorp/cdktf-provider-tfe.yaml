@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf-provider-tfe
 versioning:
-  latest: 0.2.26
-  release: 0.2.26
+  latest: 0.2.27
+  release: 0.2.27
   versions:
   - 0.0.5
   - 0.0.12
@@ -113,4 +113,5 @@ versioning:
   - 0.2.24
   - 0.2.25
   - 0.2.26
-  lastUpdated: 20220423001655
+  - 0.2.27
+  lastUpdated: 20220424001634
