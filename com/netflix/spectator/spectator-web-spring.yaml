@@ -3,8 +3,8 @@
 groupId: com.netflix.spectator
 artifactId: spectator-web-spring
 versioning:
-  latest: 1.3.0
-  release: 1.3.0
+  latest: 1.3.1
+  release: 1.3.1
   versions:
   - 0.41.0
   - 0.42.0-rc.1
@@ -138,4 +138,5 @@ versioning:
   - 1.2.1
   - 1.2.2
   - 1.3.0
-  lastUpdated: 20220412193250
+  - 1.3.1
+  lastUpdated: 20220425005307
