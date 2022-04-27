@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.commons
 artifactId: xwiki-commons-crypto-pkix
 versioning:
-  latest: 14.3-rc-1
-  release: 14.3-rc-1
+  latest: 14.3
+  release: 14.3
   versions:
   - 6.0-milestone-1
   - 6.0-milestone-2
@@ -301,4 +301,5 @@ versioning:
   - 14.2
   - 14.2.1
   - 14.3-rc-1
-  lastUpdated: 20220419141012
+  - 14.3
+  lastUpdated: 20220426073445

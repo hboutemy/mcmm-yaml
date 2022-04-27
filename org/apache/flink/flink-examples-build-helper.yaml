@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-examples-build-helper
 versioning:
-  latest: 1.14.4
-  release: 1.14.4
+  latest: 1.15.0
+  release: 1.15.0
   versions:
   - 1.6.4
   - 1.7.2
@@ -47,4 +47,5 @@ versioning:
   - 1.14.2
   - 1.14.3
   - 1.14.4
-  lastUpdated: 20220311094601
+  - 1.15.0
+  lastUpdated: 20220426083023

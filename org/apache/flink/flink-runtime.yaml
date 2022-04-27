@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-runtime
 versioning:
-  latest: 1.14.4
-  release: 1.14.4
+  latest: 1.15.0
+  release: 1.15.0
   versions:
   - 0.6-hadoop2-incubating
   - 0.6-incubating
@@ -33,4 +33,5 @@ versioning:
   - 1.14.2
   - 1.14.3
   - 1.14.4
-  lastUpdated: 20220311094644
+  - 1.15.0
+  lastUpdated: 20220426083053
