@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-jdbc-db2-deployment
 versioning:
-  latest: 2.8.2.Final
-  release: 2.8.2.Final
+  latest: 2.9.0.CR1
+  release: 2.9.0.CR1
   versions:
   - 1.7.0.CR1
   - 1.7.0.CR2
@@ -107,4 +107,5 @@ versioning:
   - 2.8.0.Final
   - 2.8.1.Final
   - 2.8.2.Final
-  lastUpdated: 20220426112756
+  - 2.9.0.CR1
+  lastUpdated: 20220427104901

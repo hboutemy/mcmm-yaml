@@ -4,9 +4,10 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-iot-device-sdk-java-samples
 versioning:
-  latest: 1.3.9
-  release: 1.3.9
+  latest: 1.3.10
+  release: 1.3.10
   versions:
+  - 0.0.2
   - 1.0.0
   - 1.0.1
   - 1.1.0
@@ -19,4 +20,5 @@ versioning:
   - 1.3.6
   - 1.3.7
   - 1.3.9
-  lastUpdated: 20210331223243
+  - 1.3.10
+  lastUpdated: 20220427222338
