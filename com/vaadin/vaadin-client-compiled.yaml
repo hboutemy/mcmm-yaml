@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.vaadin
 artifactId: vaadin-client-compiled
 versioning:
-  latest: 8.15.0
-  release: 8.15.0
+  latest: 8.15.1
+  release: 8.15.1
   versions:
   - 7.0.0.beta1
   - 7.0.0.beta2
@@ -152,6 +152,7 @@ versioning:
   - 7.7.29
   - 7.7.30
   - 7.7.31
+  - 7.7.32
   - 8.0.0
   - 8.0.1
   - 8.0.2
@@ -229,4 +230,5 @@ versioning:
   - 8.14.2
   - 8.14.3
   - 8.15.0
-  lastUpdated: 20220404094032
+  - 8.15.1
+  lastUpdated: 20220428221430
