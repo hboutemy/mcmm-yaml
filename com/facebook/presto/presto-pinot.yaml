@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-pinot
 versioning:
-  latest: 0.272
-  release: 0.272
+  latest: 0.272.1
+  release: 0.272.1
   versions:
   - 0.229
   - 0.230
@@ -84,4 +84,5 @@ versioning:
   - 0.271
   - 0.271.1
   - 0.272
-  lastUpdated: 20220423000503
+  - 0.272.1
+  lastUpdated: 20220429013200

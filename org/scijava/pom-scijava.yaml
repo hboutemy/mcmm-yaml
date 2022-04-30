@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.scijava
 artifactId: pom-scijava
 versioning:
-  latest: 31.1.0
-  release: 31.1.0
+  latest: 32.0.0-beta-4
+  release: 32.0.0-beta-4
   versions:
   - 1.127
   - 1.127-test
@@ -208,4 +208,8 @@ versioning:
   - 30.0.0
   - 31.0.0
   - 31.1.0
-  lastUpdated: 20211216235724
+  - 32.0.0-beta-1
+  - 32.0.0-beta-2
+  - 32.0.0-beta-3
+  - 32.0.0-beta-4
+  lastUpdated: 20220429084205

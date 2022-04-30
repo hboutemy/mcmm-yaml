@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf-provider-cloudinit
 versioning:
-  latest: 0.4.33
-  release: 0.4.33
+  latest: 0.4.34
+  release: 0.4.34
   versions:
   - 0.0.0
   - 0.0.1
@@ -442,4 +442,5 @@ versioning:
   - 0.4.31
   - 0.4.32
   - 0.4.33
-  lastUpdated: 20220428154511
+  - 0.4.34
+  lastUpdated: 20220429001151

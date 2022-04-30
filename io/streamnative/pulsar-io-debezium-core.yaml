@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-io-debezium-core
 versioning:
-  latest: 2.11.0-rc-202204282207
-  release: 2.11.0-rc-202204282207
+  latest: 2.11.0-rc-202204292205
+  release: 2.11.0-rc-202204292205
   versions:
   - v2.8.0-rc-202106091140
   - v2.8.0-rc-202106121853
@@ -161,6 +161,7 @@ versioning:
   - 2.8.2.14
   - 2.8.2.15
   - 2.8.3.1
+  - 2.8.3.2
   - 2.9.0.0-rc-1
   - 2.9.0.0-rc-2
   - 2.9.0.0-rc-3
@@ -478,4 +479,5 @@ versioning:
   - 2.11.0-rc-202204262206
   - 2.11.0-rc-202204272205
   - 2.11.0-rc-202204282207
-  lastUpdated: 20220428223831
+  - 2.11.0-rc-202204292205
+  lastUpdated: 20220429223529

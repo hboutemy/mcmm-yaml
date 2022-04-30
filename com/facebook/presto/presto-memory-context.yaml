@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-memory-context
 versioning:
-  latest: 0.272
-  release: 0.272
+  latest: 0.272.1
+  release: 0.272.1
   versions:
   - 0.193
   - 0.194
@@ -121,4 +121,5 @@ versioning:
   - 0.271
   - 0.271.1
   - 0.272
-  lastUpdated: 20220423000450
+  - 0.272.1
+  lastUpdated: 20220429013137

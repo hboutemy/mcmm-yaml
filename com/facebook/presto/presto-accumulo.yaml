@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-accumulo
 versioning:
-  latest: 0.272
-  release: 0.272
+  latest: 0.272.1
+  release: 0.272.1
   versions:
   - 0.153
   - 0.154
@@ -162,4 +162,5 @@ versioning:
   - 0.271
   - 0.271.1
   - 0.272
-  lastUpdated: 20220423000341
+  - 0.272.1
+  lastUpdated: 20220429012929

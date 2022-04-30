@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-prometheus
 versioning:
-  latest: 0.272
-  release: 0.272
+  latest: 0.272.1
+  release: 0.272.1
   versions:
   - 0.260
   - 0.260.1
@@ -25,4 +25,5 @@ versioning:
   - 0.271
   - 0.271.1
   - 0.272
-  lastUpdated: 20220423000513
+  - 0.272.1
+  lastUpdated: 20220429013219
