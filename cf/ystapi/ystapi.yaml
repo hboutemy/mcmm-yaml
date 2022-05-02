@@ -3,8 +3,8 @@
 groupId: cf.ystapi
 artifactId: ystapi
 versioning:
-  latest: BETA-0.0.2.2
-  release: BETA-0.0.2.2
+  latest: BETA-0.0.2.2-JDK16
+  release: BETA-0.0.2.2-JDK16
   versions:
   - BETA-0.0.1.2
   - BETA-0.0.1.3
@@ -17,4 +17,5 @@ versioning:
   - BETA-0.0.2.0
   - BETA-0.0.2.1
   - BETA-0.0.2.2
-  lastUpdated: 20220423204003
+  - BETA-0.0.2.2-JDK16
+  lastUpdated: 20220501132823
