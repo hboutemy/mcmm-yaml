@@ -3,8 +3,8 @@
 groupId: com.yubico
 artifactId: webauthn-server-parent
 versioning:
-  latest: 2.0.0-RC1
-  release: 2.0.0-RC1
+  latest: 2.0.0
+  release: 2.0.0
   versions:
   - 1.9.0-RC2
   - 1.9.0
@@ -30,5 +30,8 @@ versioning:
   - 1.12.3
   - 1.12.4-RC1
   - 1.12.4-RC2
+  - 1.12.4
   - 2.0.0-RC1
-  lastUpdated: 20220415151212
+  - 2.0.0-RC2
+  - 2.0.0
+  lastUpdated: 20220502150708

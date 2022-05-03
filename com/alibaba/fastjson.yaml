@@ -3,8 +3,8 @@
 groupId: com.alibaba
 artifactId: fastjson
 versioning:
-  latest: 2.0.1
-  release: 2.0.1
+  latest: 2.0.2.graal
+  release: 2.0.2.graal
   versions:
   - 1.1.15
   - 1.1.16
@@ -232,4 +232,7 @@ versioning:
   - 1.2.80
   - 2.0.0
   - 2.0.1
-  lastUpdated: 20220417153954
+  - 2.0.2
+  - 2.0.2.android
+  - 2.0.2.graal
+  lastUpdated: 20220502033120

@@ -1,12 +1,41 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.jbehave
 artifactId: jbehave-gherkin
 versioning:
-  latest: 4.8.2
-  release: 4.8.2
+  latest: 5.0
+  release: 5.0
   versions:
+  - 3.7
+  - 3.7.1
+  - 3.7.2
+  - 3.7.3
+  - 3.7.4
+  - 3.7.5
+  - 3.8
+  - 3.9-beta-1
+  - 3.9-beta-2
+  - 3.9-beta-3
+  - 3.9-beta-4
+  - 3.9-beta-5
+  - 3.9
+  - 3.9.1
+  - 3.9.2
+  - 3.9.3
+  - 3.9.4
+  - 3.9.5
   - 3.10
+  - 4.0-beta-2
+  - 4.0-beta-3
+  - 4.0-beta-4
+  - 4.0-beta-5
+  - 4.0-beta-6
+  - 4.0-beta-7
+  - 4.0-beta-8
+  - 4.0-beta-9
+  - 4.0-beta-10
+  - 4.0-beta-11
   - 4.0
   - 4.0.1
   - 4.0.2
@@ -44,33 +73,6 @@ versioning:
   - 4.8
   - 4.8.1
   - 4.8.2
-  - 3.7
-  - 3.7.1
-  - 3.7.2
-  - 3.7.3
-  - 3.7.4
-  - 3.7.5
-  - 3.8
-  - 3.9
-  - 3.9-beta-1
-  - 3.9-beta-2
-  - 3.9-beta-3
-  - 3.9-beta-4
-  - 3.9-beta-5
-  - 3.9.1
-  - 3.9.2
-  - 3.9.3
-  - 3.9.4
-  - 3.9.5
-  - 4.0-beta-10
-  - 4.0-beta-11
-  - 4.0-beta-2
-  - 4.0-beta-3
-  - 4.0-beta-4
-  - 4.0-beta-5
-  - 4.0-beta-6
-  - 4.0-beta-7
-  - 4.0-beta-8
-  - 4.0-beta-9
   - 4.8.3
-  lastUpdated: 20210119185418
+  - 5.0
+  lastUpdated: 20220502194139
