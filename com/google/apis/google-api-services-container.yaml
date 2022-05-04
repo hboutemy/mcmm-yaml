@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-container
 versioning:
-  latest: v1-rev20220330-1.32.1
-  release: v1-rev20220330-1.32.1
+  latest: v1-rev20220419-1.32.1
+  release: v1-rev20220419-1.32.1
   versions:
   - v1beta1-rev20210517-1.31.0
   - v1beta1-rev20210521-1.31.0
@@ -32,6 +32,7 @@ versioning:
   - v1beta1-rev20220308-1.32.1
   - v1beta1-rev20220328-1.32.1
   - v1beta1-rev20220330-1.32.1
+  - v1beta1-rev20220419-1.32.1
   - v1-rev20210517-1.31.0
   - v1-rev20210521-1.31.0
   - v1-rev20210607-1.31.0
@@ -58,6 +59,7 @@ versioning:
   - v1-rev20220308-1.32.1
   - v1-rev20220328-1.32.1
   - v1-rev20220330-1.32.1
+  - v1-rev20220419-1.32.1
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.19.0
   - v1-rev1-1.19.1
@@ -828,4 +830,4 @@ versioning:
   - v1beta1-rev98-1.25.0
   - v1beta1-rev99-1.18.0-rc
   - v1beta1-rev99-1.25.0
-  lastUpdated: 20220426080129
+  lastUpdated: 20220503080231
