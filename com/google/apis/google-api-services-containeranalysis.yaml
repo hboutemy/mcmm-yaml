@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-containeranalysis
 versioning:
-  latest: v1-rev20220414-1.32.1
-  release: v1-rev20220414-1.32.1
+  latest: v1-rev20220428-1.32.1
+  release: v1-rev20220428-1.32.1
   versions:
   - v1alpha1-rev7-1.18.0-rc
   - v1alpha1-rev7-1.22.0
@@ -316,4 +316,5 @@ versioning:
   - v1-rev20220204-1.32.1
   - v1-rev20220318-1.32.1
   - v1-rev20220414-1.32.1
-  lastUpdated: 20220421080329
+  - v1-rev20220428-1.32.1
+  lastUpdated: 20220504080208

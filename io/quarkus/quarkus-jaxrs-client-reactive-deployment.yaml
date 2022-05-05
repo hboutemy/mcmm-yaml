@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-jaxrs-client-reactive-deployment
 versioning:
-  latest: 2.9.0.CR1
-  release: 2.9.0.CR1
+  latest: 2.9.0.Final
+  release: 2.9.0.Final
   versions:
   - 1.13.1.Final
   - 1.13.2.Final
@@ -66,4 +66,5 @@ versioning:
   - 2.8.1.Final
   - 2.8.2.Final
   - 2.9.0.CR1
-  lastUpdated: 20220427104859
+  - 2.9.0.Final
+  lastUpdated: 20220504105104

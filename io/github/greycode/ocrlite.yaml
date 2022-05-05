@@ -3,8 +3,8 @@
 groupId: io.github.greycode
 artifactId: ocrlite
 versioning:
-  latest: 2.0.0
-  release: 2.0.0
+  latest: 2.0.1-nix-x86_64
+  release: 2.0.1-nix-x86_64
   versions:
   - 1.0.0
   - 1.0.0-nix-final
@@ -13,4 +13,6 @@ versioning:
   - 1.0.2-RELEASE
   - 1.0.3-RELEASE
   - 2.0.0
-  lastUpdated: 20220502151757
+  - 2.0.1
+  - 2.0.1-nix-x86_64
+  lastUpdated: 20220504110521

@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-elytron-security-oauth2-parent
 versioning:
-  latest: 2.9.0.CR1
-  release: 2.9.0.CR1
+  latest: 2.9.0.Final
+  release: 2.9.0.Final
   versions:
   - 0.20.0
   - 0.21.0
@@ -153,4 +153,5 @@ versioning:
   - 2.8.1.Final
   - 2.8.2.Final
   - 2.9.0.CR1
-  lastUpdated: 20220427104830
+  - 2.9.0.Final
+  lastUpdated: 20220504105031

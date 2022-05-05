@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-resteasy-server-common-deployment
 versioning:
-  latest: 2.9.0.CR1
-  release: 2.9.0.CR1
+  latest: 2.9.0.Final
+  release: 2.9.0.Final
   versions:
   - 0.15.0
   - 0.16.0
@@ -160,4 +160,5 @@ versioning:
   - 2.8.1.Final
   - 2.8.2.Final
   - 2.9.0.CR1
-  lastUpdated: 20220427105022
+  - 2.9.0.Final
+  lastUpdated: 20220504105248

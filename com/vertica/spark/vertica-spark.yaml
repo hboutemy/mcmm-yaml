@@ -3,8 +3,8 @@
 groupId: com.vertica.spark
 artifactId: vertica-spark
 versioning:
-  latest: 3.2.0-slim
-  release: 3.2.0-slim
+  latest: 3.2.1-slim
+  release: 3.2.1-slim
   versions:
   - 2.0.0-rc0
   - 2.0.0-0
@@ -27,5 +27,7 @@ versioning:
   - 3.1.0-slim
   - 3.2.0
   - 3.2.0-slim
+  - 3.2.1
+  - 3.2.1-slim
   - 0.2.1
-  lastUpdated: 20220420000007
+  lastUpdated: 20220504103725

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld.examples.jsf
 artifactId: weld-jsf-login
 versioning:
-  latest: 5.0.0.Final
-  release: 5.0.0.Final
+  latest: 5.0.0.SP1
+  release: 5.0.0.SP1
   versions:
   - 1.0.0-CR1
   - 1.0.0-CR2
@@ -195,4 +195,5 @@ versioning:
   - 5.0.0.CR1
   - 5.0.0.CR2
   - 5.0.0.Final
-  lastUpdated: 20220429084240
+  - 5.0.0.SP1
+  lastUpdated: 20220504113648

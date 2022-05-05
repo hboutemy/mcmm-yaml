@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-test-security-jwt
 versioning:
-  latest: 2.9.0.CR1
-  release: 2.9.0.CR1
+  latest: 2.9.0.Final
+  release: 2.9.0.Final
   versions:
   - 2.0.0.Alpha1
   - 2.0.0.Alpha2
@@ -59,4 +59,5 @@ versioning:
   - 2.8.1.Final
   - 2.8.2.Final
   - 2.9.0.CR1
-  lastUpdated: 20220427105057
+  - 2.9.0.Final
+  lastUpdated: 20220504105326
