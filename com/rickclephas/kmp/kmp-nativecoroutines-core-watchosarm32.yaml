@@ -3,8 +3,8 @@
 groupId: com.rickclephas.kmp
 artifactId: kmp-nativecoroutines-core-watchosarm32
 versioning:
-  latest: 0.12.2-new-mm
-  release: 0.12.2-new-mm
+  latest: 0.12.2-new-mm-kotlin-1.7.0-Beta
+  release: 0.12.2-new-mm-kotlin-1.7.0-Beta
   versions:
   - 0.6.0
   - 0.6.0-kotlin-1.5.20
@@ -45,5 +45,7 @@ versioning:
   - 0.12.1
   - 0.12.1-new-mm
   - 0.12.2
+  - 0.12.2-kotlin-1.7.0-Beta
   - 0.12.2-new-mm
-  lastUpdated: 20220420180945
+  - 0.12.2-new-mm-kotlin-1.7.0-Beta
+  lastUpdated: 20220505174009

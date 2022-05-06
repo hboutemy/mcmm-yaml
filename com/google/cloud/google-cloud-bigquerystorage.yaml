@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.cloud
 artifactId: google-cloud-bigquerystorage
 versioning:
-  latest: 2.12.2
-  release: 2.12.2
+  latest: 2.13.0
+  release: 2.13.0
   versions:
   - 0.71.0-alpha
   - 0.72.0-alpha
@@ -184,4 +184,5 @@ versioning:
   - 2.12.0
   - 2.12.1
   - 2.12.2
-  lastUpdated: 20220418182446
+  - 2.13.0
+  lastUpdated: 20220505174230

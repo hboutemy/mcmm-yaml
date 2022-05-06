@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-retail
 versioning:
-  latest: v2-rev20220421-1.32.1
-  release: v2-rev20220421-1.32.1
+  latest: v2-rev20220430-1.32.1
+  release: v2-rev20220430-1.32.1
   versions:
   - v2alpha-rev20210129-1.31.0
   - v2alpha-rev20210205-1.31.0
@@ -52,6 +52,7 @@ versioning:
   - v2alpha-rev20220408-1.32.1
   - v2alpha-rev20220414-1.32.1
   - v2alpha-rev20220421-1.32.1
+  - v2alpha-rev20220430-1.32.1
   - v2beta-rev20210129-1.31.0
   - v2beta-rev20210205-1.31.0
   - v2beta-rev20210212-1.31.0
@@ -139,4 +140,5 @@ versioning:
   - v2-rev20220408-1.32.1
   - v2-rev20220414-1.32.1
   - v2-rev20220421-1.32.1
-  lastUpdated: 20220428081543
+  - v2-rev20220430-1.32.1
+  lastUpdated: 20220505082228

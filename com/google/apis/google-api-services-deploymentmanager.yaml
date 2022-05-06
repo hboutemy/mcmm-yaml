@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-deploymentmanager
 versioning:
-  latest: v2-rev20220407-1.32.1
-  release: v2-rev20220407-1.32.1
+  latest: v2-rev20220429-1.32.1
+  release: v2-rev20220429-1.32.1
   versions:
   - alpha-rev1-1.18.0-rc
   - alpha-rev1-1.20.0
@@ -143,6 +143,7 @@ versioning:
   - alpha-rev20211014-1.32.1
   - alpha-rev20220303-1.32.1
   - alpha-rev20220407-1.32.1
+  - alpha-rev20220429-1.32.1
   - v2beta1-rev1-1.15.0-rc
   - v2beta1-rev1-1.16.0-rc
   - v2beta1-rev1-1.17.0-rc
@@ -508,6 +509,7 @@ versioning:
   - v2beta-rev20211014-1.32.1
   - v2beta-rev20220303-1.32.1
   - v2beta-rev20220407-1.32.1
+  - v2beta-rev20220429-1.32.1
   - v2-rev1-1.18.0-rc
   - v2-rev1-1.19.0
   - v2-rev1-1.19.1
@@ -789,4 +791,5 @@ versioning:
   - v2-rev20211014-1.32.1
   - v2-rev20220303-1.32.1
   - v2-rev20220407-1.32.1
-  lastUpdated: 20220414080649
+  - v2-rev20220429-1.32.1
+  lastUpdated: 20220505080953

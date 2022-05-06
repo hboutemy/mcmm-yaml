@@ -3,8 +3,8 @@
 groupId: org.liquibase.ext
 artifactId: liquibase-yugabytedb
 versioning:
-  latest: 4.9.1
-  release: 4.9.1
+  latest: 4.10.0
+  release: 4.10.0
   versions:
   - 4.4.1
   - 4.4.2
@@ -17,4 +17,5 @@ versioning:
   - 4.8.0
   - 4.9.0
   - 4.9.1
-  lastUpdated: 20220406154613
+  - 4.10.0
+  lastUpdated: 20220505165856

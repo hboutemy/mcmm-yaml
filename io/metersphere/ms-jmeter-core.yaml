@@ -3,8 +3,8 @@
 groupId: io.metersphere
 artifactId: ms-jmeter-core
 versioning:
-  latest: 1.1.6
-  release: 1.1.6
+  latest: 1.1.6-load-test
+  release: 1.1.6-load-test
   versions:
   - load-test
   - 1.0.0
@@ -24,4 +24,5 @@ versioning:
   - 1.1.4
   - 1.1.5
   - 1.1.6
-  lastUpdated: 20220429105711
+  - 1.1.6-load-test
+  lastUpdated: 20220505115714

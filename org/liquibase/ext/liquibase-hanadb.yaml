@@ -3,8 +3,8 @@
 groupId: org.liquibase.ext
 artifactId: liquibase-hanadb
 versioning:
-  latest: 4.9.1
-  release: 4.9.1
+  latest: 4.10.0
+  release: 4.10.0
   versions:
   - 1.0
   - 2.0
@@ -34,4 +34,5 @@ versioning:
   - 4.8.0
   - 4.9.0
   - 4.9.1
-  lastUpdated: 20220330134524
+  - 4.10.0
+  lastUpdated: 20220505165428
