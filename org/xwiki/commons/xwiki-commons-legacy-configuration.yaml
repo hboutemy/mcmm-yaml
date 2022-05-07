@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.commons
 artifactId: xwiki-commons-legacy-configuration
 versioning:
-  latest: 14.3
-  release: 14.3
+  latest: 14.3.1
+  release: 14.3.1
   versions:
   - 4.0-milestone-1
   - 4.0.1
@@ -261,6 +261,7 @@ versioning:
   - 14.2.1
   - 14.3-rc-1
   - 14.3
+  - 14.3.1
   - 6.4
   - 6.4.3
   - 6.4.4
@@ -363,4 +364,4 @@ versioning:
   - 9.9
   - 9.9-rc-1
   - 9.9-rc-2
-  lastUpdated: 20220426073458
+  lastUpdated: 20220506083340
