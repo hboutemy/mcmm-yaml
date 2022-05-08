@@ -3,8 +3,8 @@
 groupId: org.datanucleus
 artifactId: datanucleus-maven-plugin
 versioning:
-  latest: 6.0.0-m1
-  release: 6.0.0-m1
+  latest: 6.0.0-release
+  release: 6.0.0-release
   versions:
   - 3.2.0-m2
   - 3.2.0-m3
@@ -28,4 +28,5 @@ versioning:
   - 5.2.0-release
   - 5.2.1
   - 6.0.0-m1
-  lastUpdated: 20210508123304
+  - 6.0.0-release
+  lastUpdated: 20220507093109

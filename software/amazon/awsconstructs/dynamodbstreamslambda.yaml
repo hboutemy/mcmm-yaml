@@ -3,8 +3,8 @@
 groupId: software.amazon.awsconstructs
 artifactId: dynamodbstreamslambda
 versioning:
-  latest: 2.5.0
-  release: 2.5.0
+  latest: 2.6.0
+  release: 2.6.0
   versions:
   - 1.115.0
   - 1.116.0
@@ -46,6 +46,8 @@ versioning:
   - 1.150.0
   - 1.151.0
   - 1.152.0
+  - 1.153.0
+  - 1.153.1
   - 2.0.0-rc.1
   - 2.0.0-rc.2
   - 2.0.0
@@ -54,4 +56,5 @@ versioning:
   - 2.3.0
   - 2.4.0
   - 2.5.0
-  lastUpdated: 20220410023349
+  - 2.6.0
+  lastUpdated: 20220507190157
