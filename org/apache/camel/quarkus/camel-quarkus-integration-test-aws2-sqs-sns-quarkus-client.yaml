@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-integration-test-aws2-sqs-sns-quarkus-client
 versioning:
-  latest: 2.8.0
-  release: 2.8.0
+  latest: 2.9.0
+  release: 2.9.0
   versions:
   - 2.5.0
   - 2.6.0
@@ -12,4 +12,5 @@ versioning:
   - 2.7.1
   - 2.8.0-M1
   - 2.8.0
-  lastUpdated: 20220407101120
+  - 2.9.0
+  lastUpdated: 20220509082919
