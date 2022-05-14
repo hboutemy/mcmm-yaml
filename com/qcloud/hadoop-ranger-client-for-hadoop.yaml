@@ -3,12 +3,22 @@
 groupId: com.qcloud
 artifactId: hadoop-ranger-client-for-hadoop
 versioning:
-  latest: 3.3.0-3.8
-  release: 3.3.0-3.8
+  latest: 3.3.0-4.0
+  release: 3.3.0-4.0
   versions:
   - 2.6.5-3.8
+  - 2.6.5-3.9
+  - 2.6.5-4.0
   - 2.7.5-3.8
+  - 2.7.5-3.9
+  - 2.7.5-4.0
   - 2.8.5-3.8
+  - 2.8.5-3.9
+  - 2.8.5-4.0
   - 3.1.0-3.8
+  - 3.1.0-3.9
+  - 3.1.0-4.0
   - 3.3.0-3.8
-  lastUpdated: 20220512042035
+  - 3.3.0-3.9
+  - 3.3.0-4.0
+  lastUpdated: 20220513034240
