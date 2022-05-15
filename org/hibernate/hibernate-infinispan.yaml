@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.hibernate
 artifactId: hibernate-infinispan
 versioning:
-  latest: 5.6.8.Final
-  release: 5.6.8.Final
+  latest: 5.6.9.Final
+  release: 5.6.9.Final
   versions:
   - 5.1.17.Final
   - 5.2.18.Final
@@ -99,6 +99,7 @@ versioning:
   - 5.6.6.Final
   - 5.6.7.Final
   - 5.6.8.Final
+  - 5.6.9.Final
   - 3.5.0-Beta-2
   - 3.5.0-Beta-3
   - 3.5.0-Beta-4
@@ -262,4 +263,4 @@ versioning:
   - 5.3.0.Beta1
   - 5.4.33.Final
   - 5.5.6.Final
-  lastUpdated: 20220413153522
+  lastUpdated: 20220514225554
