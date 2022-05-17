@@ -3,8 +3,8 @@
 groupId: com.pingcap.tikv
 artifactId: tikv-client
 versioning:
-  latest: 2.5.0
-  release: 2.5.0
+  latest: 2.5.1
+  release: 2.5.1
   versions:
   - 1.0
   - 1.1
@@ -57,4 +57,5 @@ versioning:
   - 2.4.3-scala_2.12
   - 2.5.0-rc.1
   - 2.5.0
-  lastUpdated: 20220127093426
+  - 2.5.1
+  lastUpdated: 20220516135410
