@@ -3,8 +3,8 @@
 groupId: com.huaweicloud
 artifactId: spring-cloud-huawei-bom
 versioning:
-  latest: 1.9.0-2020.0.x
-  release: 1.9.0-2020.0.x
+  latest: 1.9.1-2020.0.x
+  release: 1.9.1-2020.0.x
   versions:
   - 1.5.0-Greenwich
   - 1.5.0-Hoxton
@@ -35,4 +35,6 @@ versioning:
   - 1.8.1-2020.0.x
   - 1.9.0-Hoxton
   - 1.9.0-2020.0.x
-  lastUpdated: 20220408021258
+  - 1.9.1-Hoxton
+  - 1.9.1-2020.0.x
+  lastUpdated: 20220517084111

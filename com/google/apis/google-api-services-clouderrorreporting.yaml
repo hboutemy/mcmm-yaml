@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-clouderrorreporting
 versioning:
-  latest: v1beta1-rev20220420-1.32.1
-  release: v1beta1-rev20220420-1.32.1
+  latest: v1beta1-rev20220511-1.32.1
+  release: v1beta1-rev20220511-1.32.1
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.19.1
@@ -427,4 +427,5 @@ versioning:
   - v1beta1-rev20210812-1.32.1
   - v1beta1-rev20210916-1.32.1
   - v1beta1-rev20220420-1.32.1
-  lastUpdated: 20220428080324
+  - v1beta1-rev20220511-1.32.1
+  lastUpdated: 20220517080315

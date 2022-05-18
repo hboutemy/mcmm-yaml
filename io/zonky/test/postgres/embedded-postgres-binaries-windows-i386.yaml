@@ -3,8 +3,8 @@
 groupId: io.zonky.test.postgres
 artifactId: embedded-postgres-binaries-windows-i386
 versioning:
-  latest: 10.20.0
-  release: 10.20.0
+  latest: 10.21.0
+  release: 10.21.0
   versions:
   - 9.3.23
   - 9.3.24
@@ -76,4 +76,5 @@ versioning:
   - 10.18.0
   - 10.19.0
   - 10.20.0
-  lastUpdated: 20220212215326
+  - 10.21.0
+  lastUpdated: 20220517084343
