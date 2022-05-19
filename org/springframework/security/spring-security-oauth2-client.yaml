@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.security
 artifactId: spring-security-oauth2-client
 versioning:
-  latest: 5.7.0
-  release: 5.7.0
+  latest: 5.7.1
+  release: 5.7.1
   versions:
   - 5.0.0.RELEASE
   - 5.0.1.RELEASE
@@ -90,10 +90,13 @@ versioning:
   - 5.5.5
   - 5.5.6
   - 5.5.7
+  - 5.5.8
   - 5.6.0
   - 5.6.1
   - 5.6.2
   - 5.6.3
   - 5.6.4
+  - 5.6.5
   - 5.7.0
-  lastUpdated: 20220516172548
+  - 5.7.1
+  lastUpdated: 20220518172158
