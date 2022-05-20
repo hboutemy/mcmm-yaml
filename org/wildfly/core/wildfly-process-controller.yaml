@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-process-controller
 versioning:
-  latest: 19.0.0.Beta9
-  release: 19.0.0.Beta9
+  latest: 19.0.0.Beta10
+  release: 19.0.0.Beta10
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -315,6 +315,7 @@ versioning:
   - 18.0.4.Final
   - 18.1.0.Beta1
   - 18.1.0.Final
+  - 18.1.1.Final
   - 19.0.0.Beta1
   - 19.0.0.Beta2
   - 19.0.0.Beta3
@@ -323,4 +324,5 @@ versioning:
   - 19.0.0.Beta7
   - 19.0.0.Beta8
   - 19.0.0.Beta9
-  lastUpdated: 20220505144606
+  - 19.0.0.Beta10
+  lastUpdated: 20220519153737

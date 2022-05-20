@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf-provider-helm
 versioning:
-  latest: 0.4.58
-  release: 0.4.58
+  latest: 0.4.59
+  release: 0.4.59
   versions:
   - 0.0.0
   - 0.0.1
@@ -391,4 +391,5 @@ versioning:
   - 0.4.56
   - 0.4.57
   - 0.4.58
-  lastUpdated: 20220518154619
+  - 0.4.59
+  lastUpdated: 20220519002220

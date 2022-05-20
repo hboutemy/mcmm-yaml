@@ -3,8 +3,8 @@
 groupId: org.springframework.boot
 artifactId: spring-boot-properties-migrator
 versioning:
-  latest: 2.6.7
-  release: 2.6.7
+  latest: 2.7.0
+  release: 2.7.0
   versions:
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
@@ -90,6 +90,7 @@ versioning:
   - 2.5.11
   - 2.5.12
   - 2.5.13
+  - 2.5.14
   - 2.6.0
   - 2.6.1
   - 2.6.2
@@ -98,4 +99,6 @@ versioning:
   - 2.6.5
   - 2.6.6
   - 2.6.7
-  lastUpdated: 20220421111451
+  - 2.6.8
+  - 2.7.0
+  lastUpdated: 20220519131148
