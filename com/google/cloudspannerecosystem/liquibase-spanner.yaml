@@ -3,8 +3,8 @@
 groupId: com.google.cloudspannerecosystem
 artifactId: liquibase-spanner
 versioning:
-  latest: 4.6.1
-  release: 4.6.1
+  latest: 4.10.0
+  release: 4.10.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -15,4 +15,11 @@ versioning:
   - 4.4.3
   - 4.5.0
   - 4.6.1
-  lastUpdated: 20211111124505
+  - 4.6.2
+  - 4.7.0
+  - 4.7.1
+  - 4.8.0
+  - 4.9.0
+  - 4.9.1
+  - 4.10.0
+  lastUpdated: 20220520123902

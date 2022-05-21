@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-autobatch
 versioning:
-  latest: 0.611.0
-  release: 0.611.0
+  latest: 0.612.0
+  release: 0.612.0
   versions:
   - 0.311.6
   - 0.311.7
@@ -358,4 +358,6 @@ versioning:
   - 0.611.0-rc1
   - 0.611.0-rc2
   - 0.611.0
-  lastUpdated: 20220519174005
+  - 0.612.0-rc1
+  - 0.612.0
+  lastUpdated: 20220520174140
