@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.commons
 artifactId: xwiki-commons-classloader
 versioning:
-  latest: 14.4-rc-1
-  release: 14.4-rc-1
+  latest: 14.4
+  release: 14.4
   versions:
   - 4.0-milestone-1
   - 4.0-milestone-2
@@ -369,4 +369,5 @@ versioning:
   - 14.3
   - 14.3.1
   - 14.4-rc-1
-  lastUpdated: 20220517100920
+  - 14.4
+  lastUpdated: 20220523134509
