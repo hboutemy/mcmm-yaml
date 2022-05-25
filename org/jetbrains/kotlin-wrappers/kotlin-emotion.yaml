@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-emotion
 versioning:
-  latest: 11.9.0-pre.339
-  release: 11.9.0-pre.339
+  latest: 11.9.0-pre.340-compat
+  release: 11.9.0-pre.340-compat
   versions:
   - 11.0.0-pre.248-kotlin-1.5.31
   - 11.0.0-pre.249-kotlin-1.5.31
@@ -98,4 +98,7 @@ versioning:
   - 11.9.0-pre.337
   - 11.9.0-pre.338
   - 11.9.0-pre.339
-  lastUpdated: 20220523145131
+  - 11.9.0-pre.339-compat
+  - 11.9.0-pre.340
+  - 11.9.0-pre.340-compat
+  lastUpdated: 20220524130309

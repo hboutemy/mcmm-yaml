@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-history
 versioning:
-  latest: 5.3.0-pre.339
-  release: 5.3.0-pre.339
+  latest: 5.3.0-pre.340-compat
+  release: 5.3.0-pre.340-compat
   versions:
   - 5.1.0-pre.269-kotlin-1.6.0
   - 5.1.0-pre.270-kotlin-1.6.0
@@ -77,4 +77,7 @@ versioning:
   - 5.3.0-pre.337
   - 5.3.0-pre.338
   - 5.3.0-pre.339
-  lastUpdated: 20220523145135
+  - 5.3.0-pre.339-compat
+  - 5.3.0-pre.340
+  - 5.3.0-pre.340-compat
+  lastUpdated: 20220524130316

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf-provider-postgresql
 versioning:
-  latest: 0.4.61
-  release: 0.4.61
+  latest: 0.4.63
+  release: 0.4.63
   versions:
   - 0.0.0
   - 0.0.1
@@ -456,4 +456,6 @@ versioning:
   - 0.4.59
   - 0.4.60
   - 0.4.61
-  lastUpdated: 20220523002112
+  - 0.4.62
+  - 0.4.63
+  lastUpdated: 20220524095014

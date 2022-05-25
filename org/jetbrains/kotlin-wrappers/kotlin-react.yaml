@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-react
 versioning:
-  latest: 18.1.0-pre.339
-  release: 18.1.0-pre.339
+  latest: 18.1.0-pre.340-compat
+  release: 18.1.0-pre.340-compat
   versions:
   - 17.0.2-pre.202-kotlin-1.5.0
   - 17.0.2-pre.203-kotlin-1.5.0
@@ -148,4 +148,7 @@ versioning:
   - 18.1.0-pre.337
   - 18.1.0-pre.338
   - 18.1.0-pre.339
-  lastUpdated: 20220523145147
+  - 18.1.0-pre.339-compat
+  - 18.1.0-pre.340
+  - 18.1.0-pre.340-compat
+  lastUpdated: 20220524130339
