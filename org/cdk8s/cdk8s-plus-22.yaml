@@ -3,8 +3,8 @@
 groupId: org.cdk8s
 artifactId: cdk8s-plus-22
 versioning:
-  latest: 2.0.0-beta.20
-  release: 2.0.0-beta.20
+  latest: 2.0.0-rc.0
+  release: 2.0.0-rc.0
   versions:
   - 1.0.0-beta.0
   - 1.0.0-beta.1
@@ -245,4 +245,6 @@ versioning:
   - 2.0.0-beta.18
   - 2.0.0-beta.19
   - 2.0.0-beta.20
-  lastUpdated: 20220525210051
+  - 2.0.0-beta.21
+  - 2.0.0-rc.0
+  lastUpdated: 20220526112759
