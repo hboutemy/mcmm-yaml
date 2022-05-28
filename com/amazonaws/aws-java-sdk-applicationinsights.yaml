@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-applicationinsights
 versioning:
-  latest: 1.12.228
-  release: 1.12.228
+  latest: 1.12.230
+  release: 1.12.230
   versions:
   - 1.11.579
   - 1.11.580
@@ -690,4 +690,6 @@ versioning:
   - 1.12.226
   - 1.12.227
   - 1.12.228
-  lastUpdated: 20220526001737
+  - 1.12.229
+  - 1.12.230
+  lastUpdated: 20220527202652

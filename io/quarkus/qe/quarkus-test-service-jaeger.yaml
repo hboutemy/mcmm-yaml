@@ -3,8 +3,8 @@
 groupId: io.quarkus.qe
 artifactId: quarkus-test-service-jaeger
 versioning:
-  latest: 1.1.0.Final
-  release: 1.1.0.Final
+  latest: 1.2.0.Beta1
+  release: 1.2.0.Beta1
   versions:
   - 0.0.1
   - 0.0.2
@@ -34,4 +34,6 @@ versioning:
   - 1.1.0.Beta4
   - 1.1.0.Beta5
   - 1.1.0.Final
-  lastUpdated: 20220509205427
+  - 1.1.1.Beta1
+  - 1.2.0.Beta1
+  lastUpdated: 20220527145453
