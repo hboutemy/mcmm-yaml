@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-spring-boot-it
 versioning:
-  latest: 14.0.0.Dev02
-  release: 14.0.0.Dev02
+  latest: 14.0.0.Dev03
+  release: 14.0.0.Dev03
   versions:
   - 9.0.0.Beta1
   - 9.0.0.Beta2
@@ -174,5 +174,6 @@ versioning:
   - 13.0.10.Final
   - 14.0.0.Dev01
   - 14.0.0.Dev02
+  - 14.0.0.Dev03
   - 12.0.0.Dev3
-  lastUpdated: 20220524150958
+  lastUpdated: 20220528065341
