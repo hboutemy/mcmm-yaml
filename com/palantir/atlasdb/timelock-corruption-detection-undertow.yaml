@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: timelock-corruption-detection-undertow
 versioning:
-  latest: 0.621.0-rc1
-  release: 0.621.0-rc1
+  latest: 0.622.0
+  release: 0.622.0
   versions:
   - 0.311.6
   - 0.311.7
@@ -369,4 +369,6 @@ versioning:
   - 0.619.0
   - 0.620.0
   - 0.621.0-rc1
-  lastUpdated: 20220527170247
+  - 0.621.0
+  - 0.622.0
+  lastUpdated: 20220530162151

@@ -3,9 +3,10 @@
 groupId: com.datadoghq
 artifactId: dd-sdk-android-tv
 versioning:
-  latest: 1.13.0-rc1
-  release: 1.13.0-rc1
+  latest: 1.13.0-no-nav
+  release: 1.13.0-no-nav
   versions:
   - 1.13.0-beta1
   - 1.13.0-rc1
-  lastUpdated: 20220524161458
+  - 1.13.0-no-nav
+  lastUpdated: 20220530100028
