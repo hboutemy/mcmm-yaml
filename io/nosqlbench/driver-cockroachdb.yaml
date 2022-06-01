@@ -3,8 +3,8 @@
 groupId: io.nosqlbench
 artifactId: driver-cockroachdb
 versioning:
-  latest: 4.15.94
-  release: 4.15.94
+  latest: 4.15.96
+  release: 4.15.96
   versions:
   - 4.15.31
   - 4.15.33
@@ -51,4 +51,5 @@ versioning:
   - 4.15.90
   - 4.15.93
   - 4.15.94
-  lastUpdated: 20220517062545
+  - 4.15.96
+  lastUpdated: 20220531204602
