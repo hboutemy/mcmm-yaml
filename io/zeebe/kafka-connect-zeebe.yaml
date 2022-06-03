@@ -3,10 +3,12 @@
 groupId: io.zeebe
 artifactId: kafka-connect-zeebe
 versioning:
-  latest: 0.31.0
-  release: 0.31.0
+  latest: 0.40.0
+  release: 0.40.0
   versions:
+  - 0.4.0
   - 0.22.0
   - 0.24.0
   - 0.31.0
-  lastUpdated: 20210608125709
+  - 0.40.0
+  lastUpdated: 20220602100314
