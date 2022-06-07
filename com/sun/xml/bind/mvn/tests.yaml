@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.sun.xml.bind.mvn
 artifactId: tests
 versioning:
-  latest: 4.0.0-M4
-  release: 4.0.0-M4
+  latest: 4.0.0
+  release: 4.0.0
   versions:
   - 2.2.10-b140310.1920
   - 2.2.10-b140802.1033
@@ -38,4 +38,5 @@ versioning:
   - 4.0.0-M2
   - 4.0.0-M3
   - 4.0.0-M4
-  lastUpdated: 20220411073417
+  - 4.0.0
+  lastUpdated: 20220606063845
