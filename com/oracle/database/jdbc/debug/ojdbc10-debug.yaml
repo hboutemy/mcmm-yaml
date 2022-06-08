@@ -3,8 +3,8 @@
 groupId: com.oracle.database.jdbc.debug
 artifactId: ojdbc10-debug
 versioning:
-  latest: 19.14.0.0
-  release: 19.14.0.0
+  latest: 19.15.0.0.1
+  release: 19.15.0.0.1
   versions:
   - 19.7.0.0
   - 19.8.0.0
@@ -15,4 +15,6 @@ versioning:
   - 19.13.0.0
   - 19.13.0.0.1
   - 19.14.0.0
-  lastUpdated: 20220311200540
+  - 19.15.0.0
+  - 19.15.0.0.1
+  lastUpdated: 20220607152919

@@ -3,8 +3,8 @@
 groupId: com.teamscale
 artifactId: teamscale-lib-commons-test-fixtures
 versioning:
-  latest: 8.0.3
-  release: 8.0.3
+  latest: 8.0.4
+  release: 8.0.4
   versions:
   - 5.9.0-rc1
   - 5.9.0-rc3
@@ -287,6 +287,7 @@ versioning:
   - 7.7.13
   - 7.7.14
   - 7.7.15
+  - 7.7.16
   - 7.8.0-rc1
   - 7.8.0-rc2
   - 7.8.0-rc3
@@ -300,6 +301,7 @@ versioning:
   - 7.8.7
   - 7.8.8
   - 7.8.9
+  - 7.8.10
   - 8.0.0-rc1
   - 8.0.0-rc2
   - 8.0.0-rc3
@@ -307,4 +309,5 @@ versioning:
   - 8.0.1
   - 8.0.2
   - 8.0.3
-  lastUpdated: 20220531123507
+  - 8.0.4
+  lastUpdated: 20220607151718

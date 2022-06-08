@@ -3,8 +3,8 @@
 groupId: live.ditto
 artifactId: ditto
 versioning:
-  latest: 1.1.8
-  release: 1.1.8
+  latest: 1.1.9-alpha1
+  release: 1.1.9-alpha1
   versions:
   - 1.0.1
   - 1.0.2
@@ -39,4 +39,5 @@ versioning:
   - 1.1.6-experimental,electron-forge-support,1
   - 1.1.7
   - 1.1.8
-  lastUpdated: 20220603044119
+  - 1.1.9-alpha1
+  lastUpdated: 20220607211142

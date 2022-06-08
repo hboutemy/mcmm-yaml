@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-atomix-parent
 versioning:
-  latest: 8.1.0-alpha1
-  release: 8.1.0-alpha1
+  latest: 8.1.0-alpha2
+  release: 8.1.0-alpha2
   versions:
   - 1.0.0-rc1
   - 1.0.0-rc2
@@ -62,4 +62,5 @@ versioning:
   - 8.0.2
   - 8.0.3
   - 8.1.0-alpha1
-  lastUpdated: 20220601091535
+  - 8.1.0-alpha2
+  lastUpdated: 20220607075128

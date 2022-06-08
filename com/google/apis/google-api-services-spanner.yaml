@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-spanner
 versioning:
-  latest: v1-rev20220413-1.32.1
-  release: v1-rev20220413-1.32.1
+  latest: v1-rev20220531-1.32.1
+  release: v1-rev20220531-1.32.1
   versions:
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.20.0
@@ -315,4 +315,5 @@ versioning:
   - v1-rev20220326-1.32.1
   - v1-rev20220404-1.32.1
   - v1-rev20220413-1.32.1
-  lastUpdated: 20220420080734
+  - v1-rev20220531-1.32.1
+  lastUpdated: 20220607080920
