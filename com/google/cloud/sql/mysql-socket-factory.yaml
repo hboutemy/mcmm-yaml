@@ -3,8 +3,8 @@
 groupId: com.google.cloud.sql
 artifactId: mysql-socket-factory
 versioning:
-  latest: 1.6.0
-  release: 1.6.0
+  latest: 1.6.1
+  release: 1.6.1
   versions:
   - 1.0.0-beta1
   - 1.0.0
@@ -40,4 +40,5 @@ versioning:
   - 1.4.4
   - 1.5.0
   - 1.6.0
-  lastUpdated: 20220503215728
+  - 1.6.1
+  lastUpdated: 20220608005148
