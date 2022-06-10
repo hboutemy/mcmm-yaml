@@ -3,8 +3,8 @@
 groupId: org.camunda.bpm
 artifactId: camunda-engine-spring-compatibility-test-spring4
 versioning:
-  latest: 7.18.0-alpha1
-  release: 7.18.0-alpha1
+  latest: 7.18.0-alpha2
+  release: 7.18.0-alpha2
   versions:
   - 7.11.0-alpha4
   - 7.11.0-alpha5
@@ -47,4 +47,5 @@ versioning:
   - 7.17.0-alpha6
   - 7.17.0
   - 7.18.0-alpha1
-  lastUpdated: 20220509090014
+  - 7.18.0-alpha2
+  lastUpdated: 20220609142559

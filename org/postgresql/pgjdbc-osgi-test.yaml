@@ -3,8 +3,8 @@
 groupId: org.postgresql
 artifactId: pgjdbc-osgi-test
 versioning:
-  latest: 42.3.6
-  release: 42.3.6
+  latest: 42.4.0
+  release: 42.4.0
   versions:
   - 42.3.0
   - 42.3.1
@@ -13,4 +13,5 @@ versioning:
   - 42.3.4
   - 42.3.5
   - 42.3.6
-  lastUpdated: 20220524131922
+  - 42.4.0
+  lastUpdated: 20220609155809

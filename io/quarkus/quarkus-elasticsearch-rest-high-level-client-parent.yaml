@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-elasticsearch-rest-high-level-client-parent
 versioning:
-  latest: 2.9.2.Final
-  release: 2.9.2.Final
+  latest: 2.10.0.CR1
+  release: 2.10.0.CR1
   versions:
   - 1.7.0.CR1
   - 1.7.0.CR2
@@ -113,4 +113,5 @@ versioning:
   - 2.9.0.Final
   - 2.9.1.Final
   - 2.9.2.Final
-  lastUpdated: 20220530094557
+  - 2.10.0.CR1
+  lastUpdated: 20220609153136

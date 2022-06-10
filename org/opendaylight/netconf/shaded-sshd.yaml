@@ -3,8 +3,8 @@
 groupId: org.opendaylight.netconf
 artifactId: shaded-sshd
 versioning:
-  latest: 3.0.4
-  release: 3.0.4
+  latest: 3.0.5
+  release: 3.0.5
   versions:
   - 1.7.3
   - 1.7.4
@@ -49,4 +49,5 @@ versioning:
   - 3.0.2
   - 3.0.3
   - 3.0.4
-  lastUpdated: 20220608135903
+  - 3.0.5
+  lastUpdated: 20220609205129
