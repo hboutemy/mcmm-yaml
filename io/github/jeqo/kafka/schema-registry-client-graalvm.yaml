@@ -3,11 +3,13 @@
 groupId: io.github.jeqo.kafka
 artifactId: schema-registry-client-graalvm
 versioning:
-  latest: 0.2.0
-  release: 0.2.0
+  latest: 0.2.1-RC3
+  release: 0.2.1-RC3
   versions:
   - 0.1.0-RC4
   - 0.1.0
   - 0.1.1
   - 0.2.0
-  lastUpdated: 20220330181217
+  - 0.2.1-RC2
+  - 0.2.1-RC3
+  lastUpdated: 20220610135020
