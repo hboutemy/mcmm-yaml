@@ -3,8 +3,8 @@
 groupId: com.github.j5ik2o
 artifactId: akka-persistence-dynamodb-query_2.13
 versioning:
-  latest: 1.5.1
-  release: 1.5.1
+  latest: 1.6.1
+  release: 1.6.1
   versions:
   - 1.1.0
   - 1.1.1
@@ -226,4 +226,6 @@ versioning:
   - 1.4.0
   - 1.5.0
   - 1.5.1
-  lastUpdated: 20220610002947
+  - 1.6.0
+  - 1.6.1
+  lastUpdated: 20220611012439
