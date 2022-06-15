@@ -3,8 +3,8 @@
 groupId: org.geomesa.nifi
 artifactId: geomesa-kafka-bundle
 versioning:
-  latest: 3.4.0_2.11
-  release: 3.4.0_2.11
+  latest: 3.4.1_2.11
+  release: 3.4.1_2.11
   versions:
   - 3.0.0
   - 3.0.1
@@ -14,7 +14,10 @@ versioning:
   - 3.2.0
   - 3.2.1
   - 3.2.2
+  - 3.2.3
   - 3.3.0
   - 3.4.0
   - 3.4.0_2.11
-  lastUpdated: 20220418211034
+  - 3.4.1
+  - 3.4.1_2.11
+  lastUpdated: 20220614204640

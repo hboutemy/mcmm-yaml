@@ -3,8 +3,8 @@
 groupId: io.fabric8
 artifactId: openshift-client
 versioning:
-  latest: 5.12.2
-  release: 5.12.2
+  latest: 6.0.0-RC1
+  release: 6.0.0-RC1
   versions:
   - 1.0.81
   - 1.0.82
@@ -265,4 +265,5 @@ versioning:
   - 5.12.0
   - 5.12.1
   - 5.12.2
-  lastUpdated: 20220406095903
+  - 6.0.0-RC1
+  lastUpdated: 20220614042105

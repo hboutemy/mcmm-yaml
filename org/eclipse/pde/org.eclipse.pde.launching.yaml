@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.eclipse.pde
 artifactId: org.eclipse.pde.launching
 versioning:
-  latest: 3.9.600
-  release: 3.9.600
+  latest: 3.10.0
+  release: 3.10.0
   versions:
   - 3.6.401
   - 3.7.0
@@ -28,4 +28,5 @@ versioning:
   - 3.9.400
   - 3.9.500
   - 3.9.600
-  lastUpdated: 20220315151833
+  - 3.10.0
+  lastUpdated: 20220614161100
