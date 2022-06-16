@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-funqy-amazon-lambda-parent
 versioning:
-  latest: 2.10.0.CR1
-  release: 2.10.0.CR1
+  latest: 2.10.0.Final
+  release: 2.10.0.Final
   versions:
   - 1.4.0.CR1
   - 1.4.0.Final
@@ -125,4 +125,5 @@ versioning:
   - 2.9.1.Final
   - 2.9.2.Final
   - 2.10.0.CR1
-  lastUpdated: 20220609153143
+  - 2.10.0.Final
+  lastUpdated: 20220615153111

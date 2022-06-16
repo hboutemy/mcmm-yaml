@@ -3,11 +3,13 @@
 groupId: io.streamnative.connectors
 artifactId: flink-sql-connector-pulsar
 versioning:
-  latest: 1.15.0.0-develop-rc2
-  release: 1.15.0.0-develop-rc2
+  latest: 1.15.0.0-develop-rc4
+  release: 1.15.0.0-develop-rc4
   versions:
   - 1.15.0.0-rc1
   - 1.15.0.0-rc2
   - 1.15.0-develop-rc1
   - 1.15.0.0-develop-rc2
-  lastUpdated: 20220614154108
+  - 1.15.0.0-develop-rc3
+  - 1.15.0.0-develop-rc4
+  lastUpdated: 20220615030802

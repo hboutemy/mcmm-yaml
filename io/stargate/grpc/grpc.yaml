@@ -3,8 +3,8 @@
 groupId: io.stargate.grpc
 artifactId: grpc
 versioning:
-  latest: 2.0.0-ALPHA-12
-  release: 2.0.0-ALPHA-12
+  latest: 2.0.0-ALPHA-13
+  release: 2.0.0-ALPHA-13
   versions:
   - 1.0.32
   - 1.0.33
@@ -32,6 +32,7 @@ versioning:
   - 1.0.55
   - 1.0.56
   - 1.0.57
+  - 1.0.58
   - 2.0.0-ALPHA-1
   - 2.0.0-ALPHA-2
   - 2.0.0-ALPHA-3
@@ -44,4 +45,5 @@ versioning:
   - 2.0.0-ALPHA-10
   - 2.0.0-ALPHA-11
   - 2.0.0-ALPHA-12
-  lastUpdated: 20220610160834
+  - 2.0.0-ALPHA-13
+  lastUpdated: 20220615232824

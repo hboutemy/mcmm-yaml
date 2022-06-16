@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-hibernate-orm-panache
 versioning:
-  latest: 2.10.0.CR1
-  release: 2.10.0.CR1
+  latest: 2.10.0.Final
+  release: 2.10.0.Final
   versions:
   - 0.11.0
   - 0.12.0
@@ -173,4 +173,5 @@ versioning:
   - 2.9.1.Final
   - 2.9.2.Final
   - 2.10.0.CR1
-  lastUpdated: 20220609153154
+  - 2.10.0.Final
+  lastUpdated: 20220615153123

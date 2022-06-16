@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-micrometer
 versioning:
-  latest: 2.10.0.CR1
-  release: 2.10.0.CR1
+  latest: 2.10.0.Final
+  release: 2.10.0.Final
   versions:
   - 1.8.0.CR1
   - 1.8.0.Final
@@ -105,4 +105,5 @@ versioning:
   - 2.9.1.Final
   - 2.9.2.Final
   - 2.10.0.CR1
-  lastUpdated: 20220609153236
+  - 2.10.0.Final
+  lastUpdated: 20220615153210
