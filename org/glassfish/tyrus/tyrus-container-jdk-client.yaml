@@ -3,8 +3,8 @@
 groupId: org.glassfish.tyrus
 artifactId: tyrus-container-jdk-client
 versioning:
-  latest: 2.0.2
-  release: 2.0.2
+  latest: 2.1.0-M2
+  release: 2.1.0-M2
   versions:
   - 1.16
   - 1.17
@@ -16,6 +16,8 @@ versioning:
   - 2.0.0
   - 2.0.1
   - 2.0.2
+  - 2.1.0-M1
+  - 2.1.0-M2
   - 1.10
   - 1.11
   - 1.11.1
@@ -31,4 +33,4 @@ versioning:
   - 1.8.2
   - 1.8.3
   - 1.9
-  lastUpdated: 20220127133421
+  lastUpdated: 20220616142639

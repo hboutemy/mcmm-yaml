@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-saml-core-public
 versioning:
-  latest: 18.0.0
-  release: 18.0.0
+  latest: 18.0.1
+  release: 18.0.1
   versions:
   - 1.9.2.Final
   - 1.9.3.Final
@@ -97,4 +97,5 @@ versioning:
   - 17.0.0
   - 17.0.1
   - 18.0.0
-  lastUpdated: 20220420192740
+  - 18.0.1
+  lastUpdated: 20220616123748

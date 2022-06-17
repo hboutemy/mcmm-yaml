@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: twitter-authentication
 versioning:
-  latest: 18.0.0
-  release: 18.0.0
+  latest: 18.0.1
+  release: 18.0.1
   versions:
   - 12.0.0
   - 12.0.1
@@ -26,4 +26,5 @@ versioning:
   - 17.0.0
   - 17.0.1
   - 18.0.0
-  lastUpdated: 20220420192806
+  - 18.0.1
+  lastUpdated: 20220616123822

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-model-map-jpa
 versioning:
-  latest: 18.0.0
-  release: 18.0.0
+  latest: 18.0.1
+  release: 18.0.1
   versions:
   - 16.0.0
   - 16.1.0
@@ -13,4 +13,5 @@ versioning:
   - 17.0.0
   - 17.0.1
   - 18.0.0
-  lastUpdated: 20220420192728
+  - 18.0.1
+  lastUpdated: 20220616123732
