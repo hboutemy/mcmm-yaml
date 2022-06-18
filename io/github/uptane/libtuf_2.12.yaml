@@ -3,8 +3,8 @@
 groupId: io.github.uptane
 artifactId: libtuf_2.12
 versioning:
-  latest: 2.0.0
-  release: 2.0.0
+  latest: 2.0.2
+  release: 2.0.2
   versions:
   - reposerver
   - 0.7.2-67-g37ba5d7
@@ -42,4 +42,6 @@ versioning:
   - 1.0.3
   - 1.1.0
   - 2.0.0
-  lastUpdated: 20220517094152
+  - 2.0.1
+  - 2.0.2
+  lastUpdated: 20220617131220

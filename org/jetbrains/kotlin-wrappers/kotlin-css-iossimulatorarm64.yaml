@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-css-iossimulatorarm64
 versioning:
-  latest: 1.0.0-pre.345
-  release: 1.0.0-pre.345
+  latest: 1.0.0-pre.346-compat
+  release: 1.0.0-pre.346-compat
   versions:
   - 1.0.0-pre.294-kotlin-1.6.10
   - 1.0.0-pre.295-kotlin-1.6.10
@@ -62,4 +62,6 @@ versioning:
   - 1.0.0-pre.343
   - 1.0.0-pre.344
   - 1.0.0-pre.345
-  lastUpdated: 20220613091005
+  - 1.0.0-pre.346
+  - 1.0.0-pre.346-compat
+  lastUpdated: 20220617210358

@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-csstype
 versioning:
-  latest: 3.1.0-pre.345
-  release: 3.1.0-pre.345
+  latest: 3.1.0-pre.346-compat
+  release: 3.1.0-pre.346-compat
   versions:
   - 3.0.8-pre.242-kotlin-1.5.30
   - 3.0.8-pre.243-kotlin-1.5.30
@@ -114,4 +114,6 @@ versioning:
   - 3.1.0-pre.343
   - 3.1.0-pre.344
   - 3.1.0-pre.345
-  lastUpdated: 20220613091013
+  - 3.1.0-pre.346
+  - 3.1.0-pre.346-compat
+  lastUpdated: 20220617210413
