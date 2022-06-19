@@ -3,8 +3,8 @@
 groupId: io.prometheus.cloudwatch
 artifactId: cloudwatch_exporter
 versioning:
-  latest: 0.14.2
-  release: 0.14.2
+  latest: 0.14.3
+  release: 0.14.3
   versions:
   - 0.1
   - 0.2
@@ -24,5 +24,6 @@ versioning:
   - 0.14.0
   - 0.14.1
   - 0.14.2
+  - 0.14.3
   - 0.1.0
-  lastUpdated: 20220608102223
+  lastUpdated: 20220618112809
