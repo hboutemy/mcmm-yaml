@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.yangtools
 artifactId: yang-data-impl
 versioning:
-  latest: 8.0.6
-  release: 8.0.6
+  latest: 9.0.0
+  release: 9.0.0
   versions:
   - 0.5.8
   - 0.6.0
@@ -173,4 +173,5 @@ versioning:
   - 8.0.4
   - 8.0.5
   - 8.0.6
-  lastUpdated: 20220525144529
+  - 9.0.0
+  lastUpdated: 20220620152135

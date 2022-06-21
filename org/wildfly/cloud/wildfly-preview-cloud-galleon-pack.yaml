@@ -3,8 +3,8 @@
 groupId: org.wildfly.cloud
 artifactId: wildfly-preview-cloud-galleon-pack
 versioning:
-  latest: 1.1.1.Alpha1
-  release: 1.1.1.Alpha1
+  latest: 1.1.1.Final
+  release: 1.1.1.Final
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -19,4 +19,5 @@ versioning:
   - 1.0.1.Final
   - 1.1.0.Final
   - 1.1.1.Alpha1
-  lastUpdated: 20220609110301
+  - 1.1.1.Final
+  lastUpdated: 20220620115034

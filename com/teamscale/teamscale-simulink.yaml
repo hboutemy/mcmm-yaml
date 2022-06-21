@@ -3,8 +3,8 @@
 groupId: com.teamscale
 artifactId: teamscale-simulink
 versioning:
-  latest: 8.0.5
-  release: 8.0.5
+  latest: 8.0.6
+  release: 8.0.6
   versions:
   - 6.1.0-rc1
   - 6.1.0-rc2
@@ -260,6 +260,7 @@ versioning:
   - 7.7.15
   - 7.7.16
   - 7.7.17
+  - 7.7.18
   - 7.8.0-rc1
   - 7.8.0-rc2
   - 7.8.0-rc3
@@ -275,6 +276,7 @@ versioning:
   - 7.8.9
   - 7.8.10
   - 7.8.11
+  - 7.8.12
   - 8.0.0-rc1
   - 8.0.0-rc2
   - 8.0.0-rc3
@@ -284,4 +286,5 @@ versioning:
   - 8.0.3
   - 8.0.4
   - 8.0.5
-  lastUpdated: 20220614111100
+  - 8.0.6
+  lastUpdated: 20220620141412
