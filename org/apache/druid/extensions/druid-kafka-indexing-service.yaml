@@ -3,8 +3,8 @@
 groupId: org.apache.druid.extensions
 artifactId: druid-kafka-indexing-service
 versioning:
-  latest: 0.22.1
-  release: 0.22.1
+  latest: 0.23.0
+  release: 0.23.0
   versions:
   - 0.13.0-incubating
   - 0.14.0-incubating
@@ -26,4 +26,5 @@ versioning:
   - 0.21.1
   - 0.22.0
   - 0.22.1
-  lastUpdated: 20211211084438
+  - 0.23.0
+  lastUpdated: 20220621104624

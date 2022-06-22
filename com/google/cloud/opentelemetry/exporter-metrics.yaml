@@ -3,8 +3,8 @@
 groupId: com.google.cloud.opentelemetry
 artifactId: exporter-metrics
 versioning:
-  latest: 0.22.0-alpha
-  release: 0.22.0-alpha
+  latest: 0.23.0
+  release: 0.23.0
   versions:
   - 0.9.1
   - 0.10.0
@@ -22,4 +22,5 @@ versioning:
   - 0.20.0-alpha
   - 0.21.0-alpha
   - 0.22.0-alpha
-  lastUpdated: 20220503193900
+  - 0.23.0
+  lastUpdated: 20220621190942
