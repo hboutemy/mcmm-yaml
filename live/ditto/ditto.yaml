@@ -3,8 +3,8 @@
 groupId: live.ditto
 artifactId: ditto
 versioning:
-  latest: 1.1.9-experimental,signing-issues,1
-  release: 1.1.9-experimental,signing-issues,1
+  latest: 1.1.10-experimental,all-product-headers-yaml-issue,1
+  release: 1.1.10-experimental,all-product-headers-yaml-issue,1
   versions:
   - 1.0.1
   - 1.0.2
@@ -42,4 +42,5 @@ versioning:
   - 1.1.9-alpha1
   - 1.1.9
   - 1.1.9-experimental,signing-issues,1
-  lastUpdated: 20220615225806
+  - 1.1.10-experimental,all-product-headers-yaml-issue,1
+  lastUpdated: 20220622000409

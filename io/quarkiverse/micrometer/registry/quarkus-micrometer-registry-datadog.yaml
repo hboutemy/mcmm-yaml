@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.micrometer.registry
 artifactId: quarkus-micrometer-registry-datadog
 versioning:
-  latest: 2.3.0
-  release: 2.3.0
+  latest: 2.10.0
+  release: 2.10.0
   versions:
   - 0.2.0
   - 0.3.0
@@ -22,4 +22,5 @@ versioning:
   - 2.2.2
   - 2.2.3
   - 2.3.0
-  lastUpdated: 20211007225556
+  - 2.10.0
+  lastUpdated: 20220622170658

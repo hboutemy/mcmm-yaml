@@ -3,8 +3,8 @@
 groupId: io.seata
 artifactId: seata-config-etcd3
 versioning:
-  latest: 1.5.1
-  release: 1.5.1
+  latest: 1.5.1.1
+  release: 1.5.1.1
   versions:
   - 0.6.0
   - 0.6.1
@@ -23,4 +23,5 @@ versioning:
   - 1.4.2
   - 1.5.0
   - 1.5.1
-  lastUpdated: 20220520185222
+  - 1.5.1.1
+  lastUpdated: 20220622091309

@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty.osgi
 artifactId: test-jetty-osgi-webapp-resources
 versioning:
-  latest: 11.0.10
-  release: 11.0.10
+  latest: 11.0.11
+  release: 11.0.11
   versions:
   - 9.4.31.v20200723
   - 9.4.32.v20200930
@@ -23,6 +23,7 @@ versioning:
   - 9.4.45.v20220203
   - 9.4.46.v20220331
   - 9.4.47.v20220610
+  - 9.4.48.v20220622
   - 10.0.0.beta2
   - 10.0.0.beta3
   - 10.0.0
@@ -36,6 +37,7 @@ versioning:
   - 10.0.8
   - 10.0.9
   - 10.0.10
+  - 10.0.11
   - 11.0.0.beta2
   - 11.0.0.beta3
   - 11.0.0
@@ -49,4 +51,5 @@ versioning:
   - 11.0.8
   - 11.0.9
   - 11.0.10
-  lastUpdated: 20220620180151
+  - 11.0.11
+  lastUpdated: 20220622150142
