@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlinx
 artifactId: kotlinx-coroutines-play-services
 versioning:
-  latest: 1.6.3
-  release: 1.6.3
+  latest: 1.6.3-native-mt
+  release: 1.6.3-native-mt
   versions:
   - 0.27.0
   - 0.27.0-eap13
@@ -73,4 +73,5 @@ versioning:
   - 1.6.1-native-mt
   - 1.6.2
   - 1.6.3
-  lastUpdated: 20220620115355
+  - 1.6.3-native-mt
+  lastUpdated: 20220623102659
