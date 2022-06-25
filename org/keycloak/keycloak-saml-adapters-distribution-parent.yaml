@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-saml-adapters-distribution-parent
 versioning:
-  latest: 18.0.1
-  release: 18.0.1
+  latest: 18.0.2
+  release: 18.0.2
   versions:
   - 1.6.0.Final
   - 1.6.1.Final
@@ -111,4 +111,5 @@ versioning:
   - 17.0.1
   - 18.0.0
   - 18.0.1
-  lastUpdated: 20220616123747
+  - 18.0.2
+  lastUpdated: 20220624120400

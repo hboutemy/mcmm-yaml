@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld.probe
 artifactId: weld-probe-parent
 versioning:
-  latest: 5.0.0.SP2
-  release: 5.0.0.SP2
+  latest: 5.0.1.Final
+  release: 5.0.1.Final
   versions:
   - 2.3.0.Beta1
   - 2.3.0.Beta2
@@ -88,4 +88,5 @@ versioning:
   - 5.0.0.Final
   - 5.0.0.SP1
   - 5.0.0.SP2
-  lastUpdated: 20220608132126
+  - 5.0.1.Final
+  lastUpdated: 20220624140938

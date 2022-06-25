@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-authz-parent
 versioning:
-  latest: 18.0.1
-  release: 18.0.1
+  latest: 18.0.2
+  release: 18.0.2
   versions:
   - 2.0.0.CR1
   - 2.0.0.Final
@@ -92,4 +92,5 @@ versioning:
   - 17.0.1
   - 18.0.0
   - 18.0.1
-  lastUpdated: 20220616123714
+  - 18.0.2
+  lastUpdated: 20220624120320
