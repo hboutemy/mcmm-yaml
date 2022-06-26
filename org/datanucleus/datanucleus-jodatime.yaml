@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.datanucleus
 artifactId: datanucleus-jodatime
 versioning:
-  latest: 6.0.0-m5
-  release: 6.0.0-m5
+  latest: 6.0.0-release
+  release: 6.0.0-release
   versions:
   - 2.0.0-m1
   - 2.0.0-m2
@@ -58,4 +58,5 @@ versioning:
   - 6.0.0-m3
   - 6.0.0-m4
   - 6.0.0-m5
-  lastUpdated: 20220507064339
+  - 6.0.0-release
+  lastUpdated: 20220625143657

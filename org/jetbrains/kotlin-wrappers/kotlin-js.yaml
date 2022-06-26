@@ -3,8 +3,10 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-js
 versioning:
-  latest: 1.0.0-pre.347
-  release: 1.0.0-pre.347
+  latest: 1.0.0-pre.348-compat
+  release: 1.0.0-pre.348-compat
   versions:
   - 1.0.0-pre.347
-  lastUpdated: 20220622073535
+  - 1.0.0-pre.348
+  - 1.0.0-pre.348-compat
+  lastUpdated: 20220625061504

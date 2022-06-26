@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.datanucleus
 artifactId: datanucleus-api-jpa
 versioning:
-  latest: 6.0.0-m5
-  release: 6.0.0-m5
+  latest: 6.0.0-release
+  release: 6.0.0-release
   versions:
   - 3.0.0-m1
   - 3.0.0-m2
@@ -137,5 +137,6 @@ versioning:
   - 6.0.0-m3
   - 6.0.0-m4
   - 6.0.0-m5
+  - 6.0.0-release
   - 4.1.1
-  lastUpdated: 20220507064332
+  lastUpdated: 20220625143648

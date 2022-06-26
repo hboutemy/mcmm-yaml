@@ -3,8 +3,8 @@
 groupId: io.zonky.test.postgres
 artifactId: embedded-postgres-binaries-linux-amd64
 versioning:
-  latest: 14.3.0
-  release: 14.3.0
+  latest: 14.4.0
+  release: 14.4.0
   versions:
   - 9.3.23
   - 9.3.24
@@ -123,4 +123,5 @@ versioning:
   - 14.1.0
   - 14.2.0
   - 14.3.0
-  lastUpdated: 20220517084659
+  - 14.4.0
+  lastUpdated: 20220625193058
