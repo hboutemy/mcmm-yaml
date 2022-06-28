@@ -3,8 +3,8 @@
 groupId: org.mariadb
 artifactId: r2dbc-mariadb
 versioning:
-  latest: 1.1.1-rc
-  release: 1.1.1-rc
+  latest: 1.1.2
+  release: 1.1.2
   versions:
   - 0.8.1-alpha1
   - 0.8.2-alpha2
@@ -16,4 +16,5 @@ versioning:
   - 1.0.3
   - 1.1.0-beta
   - 1.1.1-rc
-  lastUpdated: 20210927193804
+  - 1.1.2
+  lastUpdated: 20220627175912
