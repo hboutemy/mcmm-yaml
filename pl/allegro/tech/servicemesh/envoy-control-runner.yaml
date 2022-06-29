@@ -3,8 +3,8 @@
 groupId: pl.allegro.tech.servicemesh
 artifactId: envoy-control-runner
 versioning:
-  latest: 0.19.8
-  release: 0.19.8
+  latest: 0.19.10
+  release: 0.19.10
   versions:
   - 0.8.1
   - 0.8.2
@@ -104,4 +104,6 @@ versioning:
   - 0.19.6
   - 0.19.7
   - 0.19.8
-  lastUpdated: 20220614112825
+  - 0.19.9
+  - 0.19.10
+  lastUpdated: 20220628114420

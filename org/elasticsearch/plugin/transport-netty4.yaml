@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.plugin
 artifactId: transport-netty4
 versioning:
-  latest: 8.2.3
-  release: 8.2.3
+  latest: 8.3.0
+  release: 8.3.0
   versions:
   - 8.1.1
   - 8.1.2
@@ -13,4 +13,5 @@ versioning:
   - 8.2.1
   - 8.2.2
   - 8.2.3
-  lastUpdated: 20220614171244
+  - 8.3.0
+  lastUpdated: 20220628133715
