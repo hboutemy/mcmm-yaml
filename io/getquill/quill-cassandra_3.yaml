@@ -3,8 +3,8 @@
 groupId: io.getquill
 artifactId: quill-cassandra_3
 versioning:
-  latest: 4.0.0-RC1
-  release: 4.0.0-RC1
+  latest: 4.0.0-RC2
+  release: 4.0.0-RC2
   versions:
   - 3.10.0.Beta1.6
   - 3.12.0.Beta1.7
@@ -26,5 +26,7 @@ versioning:
   - 3.17.0-Beta30-RC4
   - 3.17.0-Beta30-RC5
   - 3.18.0
+  - 3.19.0
   - 4.0.0-RC1
-  lastUpdated: 20220608060028
+  - 4.0.0-RC2
+  lastUpdated: 20220629201721

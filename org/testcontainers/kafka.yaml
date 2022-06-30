@@ -3,8 +3,8 @@
 groupId: org.testcontainers
 artifactId: kafka
 versioning:
-  latest: 1.17.2
-  release: 1.17.2
+  latest: 1.17.3
+  release: 1.17.3
   versions:
   - 1.6.0
   - 1.7.0
@@ -54,4 +54,5 @@ versioning:
   - 1.17.0
   - 1.17.1
   - 1.17.2
-  lastUpdated: 20220519212454
+  - 1.17.3
+  lastUpdated: 20220629080358
