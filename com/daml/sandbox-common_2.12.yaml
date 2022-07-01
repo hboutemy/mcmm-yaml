@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.daml
 artifactId: sandbox-common_2.12
 versioning:
-  latest: 1.18.3-snapshot.20220620.8442.0.c7424302
-  release: 1.18.3-snapshot.20220620.8442.0.c7424302
+  latest: 1.18.3
+  release: 1.18.3
   versions:
   - 1.4.0-snapshot.20200722.4796.0.28ab504b
   - 1.4.0-snapshot.20200722.4800.0.21a16eef
@@ -167,5 +167,6 @@ versioning:
   - 1.18.2-snapshot.20220324.8440.0.5cfb1a21
   - 1.18.2
   - 1.18.3-snapshot.20220620.8442.0.c7424302
+  - 1.18.3
   - 1.11.0-snapshot.20210224.6385.0.dba114a2
-  lastUpdated: 20220620115731
+  lastUpdated: 20220630213208

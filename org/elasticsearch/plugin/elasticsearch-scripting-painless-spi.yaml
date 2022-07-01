@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.plugin
 artifactId: elasticsearch-scripting-painless-spi
 versioning:
-  latest: 8.3.0
-  release: 8.3.0
+  latest: 8.3.1
+  release: 8.3.1
   versions:
   - 6.2.0
   - 6.2.1
@@ -129,4 +129,5 @@ versioning:
   - 8.2.2
   - 8.2.3
   - 8.3.0
-  lastUpdated: 20220628154432
+  - 8.3.1
+  lastUpdated: 20220630141758
