@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: flake-rule
 versioning:
-  latest: 0.641.0
-  release: 0.641.0
+  latest: 0.643.0
+  release: 0.643.0
   versions:
   - 0.311.6
   - 0.311.7
@@ -403,4 +403,6 @@ versioning:
   - 0.640.0-rc1
   - 0.640.0
   - 0.641.0
-  lastUpdated: 20220630232114
+  - 0.642.0
+  - 0.643.0
+  lastUpdated: 20220701154006

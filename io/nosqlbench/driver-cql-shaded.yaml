@@ -3,8 +3,8 @@
 groupId: io.nosqlbench
 artifactId: driver-cql-shaded
 versioning:
-  latest: 4.15.99
-  release: 4.15.99
+  latest: 4.15.101
+  release: 4.15.101
   versions:
   - 3.12.103
   - 3.12.104
@@ -105,4 +105,6 @@ versioning:
   - 4.15.97
   - 4.15.98
   - 4.15.99
-  lastUpdated: 20220630042049
+  - 4.15.100
+  - 4.15.101
+  lastUpdated: 20220701225110
