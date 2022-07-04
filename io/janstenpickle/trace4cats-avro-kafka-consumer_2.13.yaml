@@ -3,8 +3,8 @@
 groupId: io.janstenpickle
 artifactId: trace4cats-avro-kafka-consumer_2.13
 versioning:
-  latest: 0.13.1
-  release: 0.13.1
+  latest: 0.13.1+16-ff3bad5c
+  release: 0.13.1+16-ff3bad5c
   versions:
   - 0.0.0+1-c216d140
   - 0.0.0+1-7a9df181
@@ -328,4 +328,5 @@ versioning:
   - 0.12.0
   - 0.13.0
   - 0.13.1
-  lastUpdated: 20220331195717
+  - 0.13.1+16-ff3bad5c
+  lastUpdated: 20220703123504
