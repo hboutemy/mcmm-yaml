@@ -3,8 +3,8 @@
 groupId: com.yahoo.vespa
 artifactId: container-apache-http-client-bundle
 versioning:
-  latest: 8.8.35
-  release: 8.8.35
+  latest: 8.11.15
+  release: 8.11.15
   versions:
   - 7.423.37
   - 7.424.27
@@ -134,4 +134,5 @@ versioning:
   - 8.4.15
   - 8.7.17
   - 8.8.35
-  lastUpdated: 20220628000553
+  - 8.11.15
+  lastUpdated: 20220704094339

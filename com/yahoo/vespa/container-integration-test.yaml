@@ -3,8 +3,8 @@
 groupId: com.yahoo.vespa
 artifactId: container-integration-test
 versioning:
-  latest: 8.8.35
-  release: 8.8.35
+  latest: 8.11.15
+  release: 8.11.15
   versions:
   - 6.263.46
   - 6.264.15
@@ -452,4 +452,5 @@ versioning:
   - 8.4.15
   - 8.7.17
   - 8.8.35
-  lastUpdated: 20220628000557
+  - 8.11.15
+  lastUpdated: 20220704094343

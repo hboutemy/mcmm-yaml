@@ -3,8 +3,8 @@
 groupId: com.gojek.clickstream
 artifactId: clickstream-health-metrics
 versioning:
-  latest: 0.2.40
-  release: 0.2.40
+  latest: 1.0.0-prealpha-1
+  release: 1.0.0-prealpha-1
   versions:
   - 0.2.35-snapshot
   - 0.2.36-snapshot
@@ -12,4 +12,7 @@ versioning:
   - 0.2.38
   - 0.2.39
   - 0.2.40
-  lastUpdated: 20220701125911
+  - 1.0.0-alpha-1
+  - 1.0.0-alpha-10
+  - 1.0.0-prealpha-1
+  lastUpdated: 20220704104617

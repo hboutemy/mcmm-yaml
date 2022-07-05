@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-tpu
 versioning:
-  latest: v2alpha1-rev20220412-1.32.1
-  release: v2alpha1-rev20220412-1.32.1
+  latest: v2alpha1-rev20220629-1.32.1
+  release: v2alpha1-rev20220629-1.32.1
   versions:
   - v1alpha1-rev2-1.18.0-rc
   - v1alpha1-rev2-1.21.0
@@ -342,4 +342,5 @@ versioning:
   - v2alpha1-rev20211108-1.32.1
   - v2alpha1-rev20220301-1.32.1
   - v2alpha1-rev20220412-1.32.1
-  lastUpdated: 20220417081123
+  - v2alpha1-rev20220629-1.32.1
+  lastUpdated: 20220704081406
