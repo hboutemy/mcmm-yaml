@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.gradle
 artifactId: build-tools
 versioning:
-  latest: 8.3.1
-  release: 8.3.1
+  latest: 8.3.2
+  release: 8.3.2
   versions:
   - 5.0.0-alpha1
   - 5.0.0-alpha2
@@ -187,4 +187,5 @@ versioning:
   - 8.2.3
   - 8.3.0
   - 8.3.1
-  lastUpdated: 20220630141757
+  - 8.3.2
+  lastUpdated: 20220707140603

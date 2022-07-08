@@ -3,8 +3,8 @@
 groupId: pl.allegro.tech.elasticsearch.plugin
 artifactId: elasticsearch-analysis-morfologik
 versioning:
-  latest: 8.2.2
-  release: 8.2.2
+  latest: 8.3.1
+  release: 8.3.1
   versions:
   - 2.4.1
   - 2.4.2
@@ -114,4 +114,6 @@ versioning:
   - 8.2.0
   - 8.2.1
   - 8.2.2
-  lastUpdated: 20220530081754
+  - 8.2.3
+  - 8.3.1
+  lastUpdated: 20220707131729

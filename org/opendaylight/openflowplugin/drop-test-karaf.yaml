@@ -3,8 +3,8 @@
 groupId: org.opendaylight.openflowplugin
 artifactId: drop-test-karaf
 versioning:
-  latest: 0.14.0
-  release: 0.14.0
+  latest: 0.14.1
+  release: 0.14.1
   versions:
   - 0.0.3-Helium
   - 0.0.4-Helium-SR1
@@ -72,4 +72,5 @@ versioning:
   - 0.13.2
   - 0.13.3
   - 0.14.0
-  lastUpdated: 20220602073105
+  - 0.14.1
+  lastUpdated: 20220707225015

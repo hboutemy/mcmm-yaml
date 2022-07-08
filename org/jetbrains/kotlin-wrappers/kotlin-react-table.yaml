@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-react-table
 versioning:
-  latest: 7.8.0-pre.351
-  release: 7.8.0-pre.351
+  latest: 7.8.0-pre.352-compat
+  release: 7.8.0-pre.352-compat
   versions:
   - 7.7.0-pre.202-kotlin-1.5.0
   - 7.7.0-pre.203-kotlin-1.5.0
@@ -166,4 +166,6 @@ versioning:
   - 7.8.0-pre.349
   - 7.8.0-pre.350
   - 7.8.0-pre.351
-  lastUpdated: 20220705101535
+  - 7.8.0-pre.352
+  - 7.8.0-pre.352-compat
+  lastUpdated: 20220707152618

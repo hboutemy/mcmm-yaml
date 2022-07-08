@@ -3,8 +3,8 @@
 groupId: com.databricks
 artifactId: databricks-jdbc
 versioning:
-  latest: 2.6.25-1
-  release: 2.6.25-1
+  latest: 2.6.27-beta-1
+  release: 2.6.27-beta-1
   versions:
   - 2.6.25-alpha-1
   - 2.6.25-alpha-2
@@ -14,4 +14,5 @@ versioning:
   - 2.6.25-beta-4
   - 2.6.25
   - 2.6.25-1
-  lastUpdated: 20220505193314
+  - 2.6.27-beta-1
+  lastUpdated: 20220707221050
