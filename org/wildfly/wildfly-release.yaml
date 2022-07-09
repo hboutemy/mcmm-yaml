@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-release
 versioning:
-  latest: 27.0.0.Alpha1
-  release: 27.0.0.Alpha1
+  latest: 27.0.0.Alpha2
+  release: 27.0.0.Alpha2
   versions:
   - 25.0.0.Final
   - 25.0.1.Final
@@ -15,4 +15,5 @@ versioning:
   - 26.1.0.Final
   - 26.1.1.Final
   - 27.0.0.Alpha1
-  lastUpdated: 20220620075137
+  - 27.0.0.Alpha2
+  lastUpdated: 20220708191622

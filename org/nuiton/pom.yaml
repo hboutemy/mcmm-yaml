@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.nuiton
 artifactId: pom
 versioning:
   latest: 11.12
-  release: 11.12
+  release: 11.13
   versions:
   - 1.0
   - 1.1
@@ -56,4 +55,5 @@ versioning:
   - 11.10
   - 11.11
   - 11.12
-  lastUpdated: 20220503230633
+  - 11.13
+  lastUpdated: 20220708135618

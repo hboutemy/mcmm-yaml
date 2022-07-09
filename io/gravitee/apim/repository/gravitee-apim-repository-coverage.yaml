@@ -3,8 +3,8 @@
 groupId: io.gravitee.apim.repository
 artifactId: gravitee-apim-repository-coverage
 versioning:
-  latest: 3.18.0
-  release: 3.18.0
+  latest: 3.18.1
+  release: 3.18.1
   versions:
   - 3.10.15
   - 3.10.16
@@ -12,6 +12,7 @@ versioning:
   - 3.15.9
   - 3.15.10
   - 3.15.11
+  - 3.15.12
   - 3.16.5
   - 3.17.0
   - 3.17.1
@@ -19,4 +20,5 @@ versioning:
   - 3.17.3
   - 3.17.4
   - 3.18.0
-  lastUpdated: 20220707145349
+  - 3.18.1
+  lastUpdated: 20220708144459
