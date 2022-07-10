@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.python
 artifactId: jython
 versioning:
-  latest: 2.7.2
-  release: 2.7.2
+  latest: 2.7.3b1
+  release: 2.7.3b1
   versions:
   - 2.2-beta1
   - 2.2-beta2
@@ -32,4 +32,5 @@ versioning:
   - 2.7.2b3
   - 2.7.2rc1
   - 2.7.2
-  lastUpdated: 20200322233210
+  - 2.7.3b1
+  lastUpdated: 20220709142835
