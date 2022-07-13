@@ -3,8 +3,8 @@
 groupId: io.sentry
 artifactId: sentry-graphql
 versioning:
-  latest: 6.1.4
-  release: 6.1.4
+  latest: 6.2.1
+  release: 6.2.1
   versions:
   - 5.4.0
   - 5.4.1
@@ -43,4 +43,6 @@ versioning:
   - 6.1.2
   - 6.1.3
   - 6.1.4
-  lastUpdated: 20220627114418
+  - 6.2.0
+  - 6.2.1
+  lastUpdated: 20220712175211
