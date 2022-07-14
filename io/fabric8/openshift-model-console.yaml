@@ -3,8 +3,8 @@
 groupId: io.fabric8
 artifactId: openshift-model-console
 versioning:
-  latest: 6.0.0-RC1
-  release: 6.0.0-RC1
+  latest: 6.0.0
+  release: 6.0.0
   versions:
   - 4.11.0
   - 4.11.1
@@ -53,4 +53,5 @@ versioning:
   - 5.12.1
   - 5.12.2
   - 6.0.0-RC1
-  lastUpdated: 20220614042109
+  - 6.0.0
+  lastUpdated: 20220713071825

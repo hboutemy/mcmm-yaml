@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-container-image-buildpack-deployment
 versioning:
-  latest: 2.10.2.Final
-  release: 2.10.2.Final
+  latest: 2.11.0.CR1
+  release: 2.11.0.CR1
   versions:
   - 2.7.0.CR1
   - 2.7.0.Final
@@ -27,4 +27,5 @@ versioning:
   - 2.10.0.Final
   - 2.10.1.Final
   - 2.10.2.Final
-  lastUpdated: 20220706104938
+  - 2.11.0.CR1
+  lastUpdated: 20220713121317

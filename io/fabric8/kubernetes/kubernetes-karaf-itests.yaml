@@ -3,8 +3,8 @@
 groupId: io.fabric8.kubernetes
 artifactId: kubernetes-karaf-itests
 versioning:
-  latest: 6.0.0-RC1
-  release: 6.0.0-RC1
+  latest: 6.0.0
+  release: 6.0.0
   versions:
   - 1.0.81
   - 1.0.82
@@ -218,4 +218,5 @@ versioning:
   - 5.12.1
   - 5.12.2
   - 6.0.0-RC1
-  lastUpdated: 20220614042022
+  - 6.0.0
+  lastUpdated: 20220713071742

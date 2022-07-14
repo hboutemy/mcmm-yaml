@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-cdi-embedded
 versioning:
-  latest: 14.0.0.Dev03
-  release: 14.0.0.Dev03
+  latest: 14.0.0.Dev04
+  release: 14.0.0.Dev04
   versions:
   - 8.1.0.Beta1
   - 8.1.0.CR1
@@ -207,5 +207,6 @@ versioning:
   - 14.0.0.Dev01
   - 14.0.0.Dev02
   - 14.0.0.Dev03
+  - 14.0.0.Dev04
   - 12.0.0.Dev3
-  lastUpdated: 20220528065327
+  lastUpdated: 20220713183738
