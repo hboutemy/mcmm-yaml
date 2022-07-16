@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-cachestore-cassandra
 versioning:
@@ -78,4 +79,4 @@ versioning:
   - 8.2.0.Final
   - 8.2.1.Final
   - 9.4.0.Final
-  lastUpdated: 20190305114104
+  lastUpdated: 20220715214103
