@@ -3,8 +3,8 @@
 groupId: com.vonage
 artifactId: webrtc
 versioning:
-  latest: 99.1.32
-  release: 99.1.32
+  latest: 99.1.33
+  release: 99.1.33
   versions:
   - 84.0.0-alpha.33
   - 84.0.0-alpha.34
@@ -105,6 +105,8 @@ versioning:
   - 99.1.0-alpha.92
   - 99.1.0-alpha.93
   - 99.1.0-alpha.94
+  - 99.1.0-alpha.95
+  - 99.1.0-alpha.96
   - 99.1.0-dev.149
   - 99.1.0-dev.150
   - 99.1.0-dev.151
@@ -112,4 +114,5 @@ versioning:
   - 99.1.0-dev.155
   - 99.1.31
   - 99.1.32
-  lastUpdated: 20220715091302
+  - 99.1.33
+  lastUpdated: 20220718145456

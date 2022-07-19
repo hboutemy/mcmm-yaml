@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: grafana-docker-image
 versioning:
-  latest: 2.9.2
-  release: 2.9.2
+  latest: 2.9.3
+  release: 2.9.3
   versions:
   - 2.0.0-rc1-incubating
   - 2.0.1-incubating
@@ -38,4 +38,5 @@ versioning:
   - 2.9.0
   - 2.9.1
   - 2.9.2
-  lastUpdated: 20220331032847
+  - 2.9.3
+  lastUpdated: 20220718035015

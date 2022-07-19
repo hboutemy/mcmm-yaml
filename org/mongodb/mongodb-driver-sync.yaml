@@ -3,8 +3,8 @@
 groupId: org.mongodb
 artifactId: mongodb-driver-sync
 versioning:
-  latest: 4.7.0-beta0
-  release: 4.7.0-beta0
+  latest: 4.7.0
+  release: 4.7.0
   versions:
   - 3.7.0-rc0
   - 3.7.0
@@ -83,4 +83,5 @@ versioning:
   - 4.6.0
   - 4.6.1
   - 4.7.0-beta0
-  lastUpdated: 20220609161053
+  - 4.7.0
+  lastUpdated: 20220718190857

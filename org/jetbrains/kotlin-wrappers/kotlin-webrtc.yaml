@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-webrtc
 versioning:
-  latest: 0.0.32-pre.357
-  release: 0.0.32-pre.357
+  latest: 0.0.32-pre.358-compat
+  release: 0.0.32-pre.358-compat
   versions:
   - 0.0.31-pre.294-kotlin-1.6.10
   - 0.0.31-pre.295-kotlin-1.6.10
@@ -77,4 +77,6 @@ versioning:
   - 0.0.32-pre.355
   - 0.0.32-pre.356
   - 0.0.32-pre.357
-  lastUpdated: 20220714100034
+  - 0.0.32-pre.358
+  - 0.0.32-pre.358-compat
+  lastUpdated: 20220718082058
