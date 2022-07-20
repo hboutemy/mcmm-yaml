@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-storagetransfer
 versioning:
-  latest: v1-rev20220511-1.32.1
-  release: v1-rev20220511-1.32.1
+  latest: v1-rev20220714-1.32.1
+  release: v1-rev20220714-1.32.1
   versions:
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.19.0
@@ -506,4 +506,5 @@ versioning:
   - v1-rev20220310-1.32.1
   - v1-rev20220324-1.32.1
   - v1-rev20220511-1.32.1
-  lastUpdated: 20220517081717
+  - v1-rev20220714-1.32.1
+  lastUpdated: 20220719081925

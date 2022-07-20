@@ -3,8 +3,8 @@
 groupId: org.graalvm.nativeimage
 artifactId: svm-hosted-native-windows-amd64
 versioning:
-  latest: 22.1.0
-  release: 22.1.0
+  latest: 22.2.0
+  release: 22.2.0
   versions:
   - 19.3.0
   - 19.3.0.2
@@ -26,6 +26,7 @@ versioning:
   - 20.3.5
   - 20.3.6
   - 20.3.6.1
+  - 20.3.7
   - 21.0.0
   - 21.0.0.2
   - 21.1.0
@@ -34,7 +35,9 @@ versioning:
   - 21.3.1
   - 21.3.2
   - 21.3.2.1
+  - 21.3.3
   - 22.0.0
   - 22.0.0.2
   - 22.1.0
-  lastUpdated: 20220520082535
+  - 22.2.0
+  lastUpdated: 20220719115111

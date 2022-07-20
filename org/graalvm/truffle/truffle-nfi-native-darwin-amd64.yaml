@@ -3,8 +3,8 @@
 groupId: org.graalvm.truffle
 artifactId: truffle-nfi-native-darwin-amd64
 versioning:
-  latest: 22.1.0
-  release: 22.1.0
+  latest: 22.2.0
+  release: 22.2.0
   versions:
   - 1.0.0-rc8
   - 1.0.0-rc9
@@ -42,6 +42,7 @@ versioning:
   - 20.3.5
   - 20.3.6
   - 20.3.6.1
+  - 20.3.7
   - 21.0.0
   - 21.0.0.2
   - 21.1.0
@@ -50,7 +51,9 @@ versioning:
   - 21.3.1
   - 21.3.2
   - 21.3.2.1
+  - 21.3.3
   - 22.0.0
   - 22.0.0.2
   - 22.1.0
-  lastUpdated: 20220520082548
+  - 22.2.0
+  lastUpdated: 20220719115124

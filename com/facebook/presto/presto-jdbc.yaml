@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-jdbc
 versioning:
-  latest: 0.273.4
-  release: 0.273.4
+  latest: 0.274
+  release: 0.274
   versions:
   - 0.52
   - 0.53
@@ -277,4 +277,5 @@ versioning:
   - 0.273.2
   - 0.273.3
   - 0.273.4
-  lastUpdated: 20220705235007
+  - 0.274
+  lastUpdated: 20220719043013

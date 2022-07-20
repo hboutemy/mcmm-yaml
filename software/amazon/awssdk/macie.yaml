@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: macie
 versioning:
-  latest: 2.17.233
-  release: 2.17.233
+  latest: 2.17.235
+  release: 2.17.235
   versions:
   - 2.1.0
   - 2.1.1
@@ -826,4 +826,6 @@ versioning:
   - 2.17.231
   - 2.17.232
   - 2.17.233
-  lastUpdated: 20220715203802
+  - 2.17.234
+  - 2.17.235
+  lastUpdated: 20220719201627

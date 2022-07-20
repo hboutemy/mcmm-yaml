@@ -3,8 +3,8 @@
 groupId: com.oracle.coherence.ce
 artifactId: coherence-http-netty
 versioning:
-  latest: 22.06
-  release: 22.06
+  latest: 22.06.1
+  release: 22.06.1
   versions:
   - 14.1.1-0-1
   - 14.1.1-0-2
@@ -15,6 +15,7 @@ versioning:
   - 14.1.1-0-7
   - 14.1.1-0-8
   - 14.1.1-0-9
+  - 14.1.1-0-10
   - 20.06
   - 20.06.1
   - 20.12
@@ -31,4 +32,5 @@ versioning:
   - 21.12.3
   - 21.12.4
   - 22.06
-  lastUpdated: 20220630165352
+  - 22.06.1
+  lastUpdated: 20220719220413

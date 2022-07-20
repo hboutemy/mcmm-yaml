@@ -3,14 +3,16 @@
 groupId: org.wildfly.plugins
 artifactId: wildfly-maven-plugin-tests
 versioning:
-  latest: 4.0.0.Alpha2
-  release: 4.0.0.Alpha2
+  latest: 4.0.0.Beta1
+  release: 4.0.0.Beta1
   versions:
   - 3.0.0.Alpha2
   - 3.0.0.Alpha3
   - 3.0.0.Beta1
   - 3.0.0.Final
   - 3.0.1.Final
+  - 3.0.2.Final
   - 4.0.0.Alpha1
   - 4.0.0.Alpha2
-  lastUpdated: 20220615184737
+  - 4.0.0.Beta1
+  lastUpdated: 20220719021058
