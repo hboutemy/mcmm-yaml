@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-infinispan-client
 versioning:
-  latest: 2.11.0.CR1
-  release: 2.11.0.CR1
+  latest: 2.11.0.Final
+  release: 2.11.0.Final
   versions:
   - 0.11.0
   - 0.12.0
@@ -178,4 +178,5 @@ versioning:
   - 2.10.2.Final
   - 2.10.3.Final
   - 2.11.0.CR1
-  lastUpdated: 20220719095822
+  - 2.11.0.Final
+  lastUpdated: 20220720125648

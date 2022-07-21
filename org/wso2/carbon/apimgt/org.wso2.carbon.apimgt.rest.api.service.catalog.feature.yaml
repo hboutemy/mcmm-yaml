@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.apimgt
 artifactId: org.wso2.carbon.apimgt.rest.api.service.catalog.feature
 versioning:
-  latest: 9.22.21
-  release: 9.22.21
+  latest: 9.22.23
+  release: 9.22.23
   versions:
   - 6.8.159
   - 6.8.160
@@ -565,6 +565,7 @@ versioning:
   - 9.2.25
   - 9.2.26
   - 9.2.46
+  - 9.2.47
   - 9.3.0
   - 9.4.0
   - 9.4.1
@@ -675,4 +676,6 @@ versioning:
   - 9.22.19
   - 9.22.20
   - 9.22.21
-  lastUpdated: 20220719111443
+  - 9.22.22
+  - 9.22.23
+  lastUpdated: 20220720092714
