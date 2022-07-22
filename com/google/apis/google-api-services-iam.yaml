@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-iam
 versioning:
-  latest: v2beta-rev20220526-1.32.1
-  release: v2beta-rev20220526-1.32.1
+  latest: v2beta-rev20220713-1.32.1
+  release: v2beta-rev20220713-1.32.1
   versions:
   - v1alpha1-rev1-1.18.0-rc
   - v1alpha1-rev1-1.19.1
@@ -535,4 +535,5 @@ versioning:
   - v2beta-rev20220413-1.32.1
   - v2beta-rev20220421-1.32.1
   - v2beta-rev20220526-1.32.1
-  lastUpdated: 20220603081349
+  - v2beta-rev20220713-1.32.1
+  lastUpdated: 20220721081043
