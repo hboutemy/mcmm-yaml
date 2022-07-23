@@ -3,8 +3,8 @@
 groupId: org.ocpsoft.rewrite
 artifactId: rewrite-integration-cdi-tests
 versioning:
-  latest: 3.5.1.Final
-  release: 3.5.1.Final
+  latest: 5.0.0.Alpha1
+  release: 5.0.0.Alpha1
   versions:
   - 2.0.2.Final
   - 2.0.3.Final
@@ -32,5 +32,7 @@ versioning:
   - 3.4.4.Final
   - 3.5.0.Final
   - 3.5.1.Final
+  - 4.0.0.Alpha1
+  - 5.0.0.Alpha1
   - 3.0.0.Alpha8-jboss
-  lastUpdated: 20210908194312
+  lastUpdated: 20220722144323

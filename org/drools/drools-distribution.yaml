@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.drools
 artifactId: drools-distribution
 versioning:
-  latest: 8.24.0.Beta
-  release: 8.24.0.Beta
+  latest: 8.25.0.Beta
+  release: 8.25.0.Beta
   versions:
   - 5.2.0.M2
   - 5.2.0.CR1
@@ -187,6 +187,7 @@ versioning:
   - 7.70.0.Final
   - 7.71.0.Final
   - 7.72.0.Final
+  - 7.73.0.Final
   - 8.13.0.Beta
   - 8.14.0.Beta
   - 8.14.1.Beta
@@ -202,5 +203,6 @@ versioning:
   - 8.22.1.Beta
   - 8.23.0.Beta
   - 8.24.0.Beta
+  - 8.25.0.Beta
   - 6.0.0.Alpha7
-  lastUpdated: 20220705124854
+  lastUpdated: 20220722141637
