@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.codehaus.groovy
 artifactId: groovy-docgenerator
 versioning:
-  latest: 3.0.11
-  release: 3.0.11
+  latest: 3.0.12
+  release: 3.0.12
   versions:
   - 2.0.0-rc-1
   - 2.0.0-rc-2
@@ -112,6 +112,7 @@ versioning:
   - 2.5.15
   - 2.5.16
   - 2.5.17
+  - 2.5.18
   - 2.6.0-alpha-1
   - 2.6.0-alpha-2
   - 2.6.0-alpha-3
@@ -138,4 +139,5 @@ versioning:
   - 3.0.9
   - 3.0.10
   - 3.0.11
-  lastUpdated: 20220601051458
+  - 3.0.12
+  lastUpdated: 20220723044517

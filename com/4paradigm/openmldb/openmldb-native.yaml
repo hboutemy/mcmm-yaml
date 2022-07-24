@@ -3,8 +3,8 @@
 groupId: com.4paradigm.openmldb
 artifactId: openmldb-native
 versioning:
-  latest: 0.5.3
-  release: 0.5.3
+  latest: 0.5.3-macos
+  release: 0.5.3-macos
   versions:
   - 0.1.5-pre
   - 0.1.5-pre-1
@@ -57,4 +57,6 @@ versioning:
   - 0.5.2-allinone
   - 0.5.2-macos
   - 0.5.3
-  lastUpdated: 20220722070825
+  - 0.5.3-allinone
+  - 0.5.3-macos
+  lastUpdated: 20220723030507

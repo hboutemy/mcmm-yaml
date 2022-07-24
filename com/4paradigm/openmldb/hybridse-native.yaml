@@ -3,8 +3,8 @@
 groupId: com.4paradigm.openmldb
 artifactId: hybridse-native
 versioning:
-  latest: 0.5.3
-  release: 0.5.3
+  latest: 0.5.3-macos
+  release: 0.5.3-macos
   versions:
   - 0.4.0
   - 0.4.0-allinone
@@ -34,4 +34,6 @@ versioning:
   - 0.5.2-allinone
   - 0.5.2-macos
   - 0.5.3
-  lastUpdated: 20220722070816
+  - 0.5.3-allinone
+  - 0.5.3-macos
+  lastUpdated: 20220723030503
