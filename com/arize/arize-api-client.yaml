@@ -3,8 +3,8 @@
 groupId: com.arize
 artifactId: arize-api-client
 versioning:
-  latest: 2.0.3
-  release: 2.0.3
+  latest: 2.0.3-shade
+  release: 2.0.3-shade
   versions:
   - 0.0.1-alpha.15
   - 0.0.1
@@ -22,4 +22,5 @@ versioning:
   - 2.0.2
   - 2.0.2-shade
   - 2.0.3
-  lastUpdated: 20220726223911
+  - 2.0.3-shade
+  lastUpdated: 20220727191223

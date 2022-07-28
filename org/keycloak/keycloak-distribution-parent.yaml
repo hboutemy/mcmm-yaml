@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-distribution-parent
 versioning:
   latest: 18.0.2
-  release: 18.0.2
+  release: 19.0.0
   versions:
   - 1.9.0.CR1
   - 1.9.0.Final
@@ -102,4 +101,5 @@ versioning:
   - 18.0.0
   - 18.0.1
   - 18.0.2
-  lastUpdated: 20220624120325
+  - 19.0.0
+  lastUpdated: 20220727105816

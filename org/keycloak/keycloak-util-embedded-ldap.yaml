@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-util-embedded-ldap
 versioning:
   latest: 18.0.2
-  release: 18.0.2
+  release: 19.0.0
   versions:
   - 1.4.0.Final
   - 1.5.0.Final
@@ -115,5 +114,6 @@ versioning:
   - 18.0.0
   - 18.0.1
   - 18.0.2
+  - 19.0.0
   - 1.5.0-Final
-  lastUpdated: 20220624120436
+  lastUpdated: 20220727105816

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.keycloak
 artifactId: keycloak-model-map-hot-rod
 versioning:
   latest: 18.0.2
-  release: 18.0.2
+  release: 19.0.0
   versions:
   - 15.1.0
   - 15.1.1
@@ -17,4 +16,5 @@ versioning:
   - 18.0.0
   - 18.0.1
   - 18.0.2
-  lastUpdated: 20220624120339
+  - 19.0.0
+  lastUpdated: 20220727105816
