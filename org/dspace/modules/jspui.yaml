@@ -3,8 +3,8 @@
 groupId: org.dspace.modules
 artifactId: jspui
 versioning:
-  latest: 6.3
-  release: 6.3
+  latest: 6.4
+  release: 6.4
   versions:
   - 1.7.0-rc2
   - 1.7.0
@@ -55,6 +55,7 @@ versioning:
   - 5.8
   - 5.9
   - 5.10
+  - 5.11
   - 6.0-rc1
   - 6.0-rc2
   - 6.0-rc3
@@ -63,4 +64,5 @@ versioning:
   - 6.1
   - 6.2
   - 6.3
-  lastUpdated: 20181004191035
+  - 6.4
+  lastUpdated: 20220728173041

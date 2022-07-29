@@ -3,8 +3,8 @@
 groupId: org.wildfly.security
 artifactId: wildfly-elytron-auth-server
 versioning:
-  latest: 2.0.0.Beta1
-  release: 2.0.0.Beta1
+  latest: 2.0.0.Beta2
+  release: 2.0.0.Beta2
   versions:
   - 1.9.0.CR1
   - 1.9.0.CR2
@@ -87,6 +87,7 @@ versioning:
   - 1.18.2.Final
   - 1.18.3.Final
   - 1.19.0.Final
+  - 1.20.0.Final
   - 2.0.0.Alpha1
   - 2.0.0.Alpha2
   - 2.0.0.Alpha3
@@ -98,4 +99,5 @@ versioning:
   - 2.0.0.Alpha9
   - 2.0.0.Alpha10
   - 2.0.0.Beta1
-  lastUpdated: 20220602184347
+  - 2.0.0.Beta2
+  lastUpdated: 20220728165221
