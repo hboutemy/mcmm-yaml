@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-privateca
 versioning:
-  latest: v1-rev20220504-1.32.1
-  release: v1-rev20220504-1.32.1
+  latest: v1-rev20220707-1.32.1
+  release: v1-rev20220707-1.32.1
   versions:
   - v1beta1-rev20201022-1.30.10
   - v1beta1-rev20201029-1.30.10
@@ -28,6 +28,7 @@ versioning:
   - v1beta1-rev20220323-1.32.1
   - v1beta1-rev20220406-1.32.1
   - v1beta1-rev20220504-1.32.1
+  - v1beta1-rev20220707-1.32.1
   - v1-rev20210525-1.31.0
   - v1-rev20210601-1.31.0
   - v1-rev20210614-1.31.0
@@ -49,4 +50,5 @@ versioning:
   - v1-rev20220323-1.32.1
   - v1-rev20220406-1.32.1
   - v1-rev20220504-1.32.1
-  lastUpdated: 20220514081322
+  - v1-rev20220707-1.32.1
+  lastUpdated: 20220729081045

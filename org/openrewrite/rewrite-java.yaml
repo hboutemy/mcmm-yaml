@@ -3,8 +3,8 @@
 groupId: org.openrewrite
 artifactId: rewrite-java
 versioning:
-  latest: 7.26.1
-  release: 7.26.1
+  latest: 7.26.3
+  release: 7.26.3
   versions:
   - 2.0.0-rc.2
   - 2.0.0-rc.3
@@ -122,4 +122,6 @@ versioning:
   - 7.25.0
   - 7.26.0
   - 7.26.1
-  lastUpdated: 20220718194120
+  - 7.26.2
+  - 7.26.3
+  lastUpdated: 20220729225816

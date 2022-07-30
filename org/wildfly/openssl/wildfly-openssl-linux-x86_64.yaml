@@ -3,8 +3,8 @@
 groupId: org.wildfly.openssl
 artifactId: wildfly-openssl-linux-x86_64
 versioning:
-  latest: 2.2.2.Final
-  release: 2.2.2.Final
+  latest: 2.2.2.SP01
+  release: 2.2.2.SP01
   versions:
   - 1.0.0.Alpha5
   - 1.0.0.Alpha6
@@ -38,4 +38,5 @@ versioning:
   - 2.2.0.Final
   - 2.2.0.SP01
   - 2.2.2.Final
-  lastUpdated: 20220728202843
+  - 2.2.2.SP01
+  lastUpdated: 20220729144150

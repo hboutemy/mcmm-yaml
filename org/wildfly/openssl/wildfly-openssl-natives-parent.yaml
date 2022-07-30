@@ -3,12 +3,14 @@
 groupId: org.wildfly.openssl
 artifactId: wildfly-openssl-natives-parent
 versioning:
-  latest: 2.2.0.SP01
-  release: 2.2.0.SP01
+  latest: 2.2.2.SP01
+  release: 2.2.2.SP01
   versions:
   - 2.0.0.Alpha1
   - 2.1.0.Final
   - 2.1.0.SP01
   - 2.2.0.Final
   - 2.2.0.SP01
-  lastUpdated: 20220127220118
+  - 2.2.2.Final
+  - 2.2.2.SP01
+  lastUpdated: 20220729145551
