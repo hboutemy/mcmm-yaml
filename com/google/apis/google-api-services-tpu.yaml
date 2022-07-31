@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-tpu
 versioning:
-  latest: v2alpha1-rev20220714-1.32.1
-  release: v2alpha1-rev20220714-1.32.1
+  latest: v2alpha1-rev20220725-1.32.1
+  release: v2alpha1-rev20220725-1.32.1
   versions:
   - v1alpha1-rev2-1.18.0-rc
   - v1alpha1-rev2-1.21.0
@@ -185,6 +185,7 @@ versioning:
   - v1alpha1-rev20220301-1.32.1
   - v1alpha1-rev20220412-1.32.1
   - v1alpha1-rev20220714-1.32.1
+  - v1alpha1-rev20220725-1.32.1
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.21.0
   - v1-rev1-1.22.0
@@ -339,6 +340,7 @@ versioning:
   - v1-rev20220301-1.32.1
   - v1-rev20220412-1.32.1
   - v1-rev20220714-1.32.1
+  - v1-rev20220725-1.32.1
   - v2alpha1-rev20210915-1.32.1
   - v2alpha1-rev20211021-1.32.1
   - v2alpha1-rev20211108-1.32.1
@@ -346,4 +348,5 @@ versioning:
   - v2alpha1-rev20220412-1.32.1
   - v2alpha1-rev20220629-1.32.1
   - v2alpha1-rev20220714-1.32.1
-  lastUpdated: 20220719082118
+  - v2alpha1-rev20220725-1.32.1
+  lastUpdated: 20220730081000

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.odlparent
 artifactId: bundle-parent
 versioning:
-  latest: 11.0.0
-  release: 11.0.0
+  latest: 11.0.1
+  release: 11.0.1
   versions:
   - 1.5.0-Lithium
   - 1.5.1-Lithium-SR1
@@ -138,4 +138,5 @@ versioning:
   - 10.0.1
   - 10.0.2
   - 11.0.0
-  lastUpdated: 20220606105443
+  - 11.0.1
+  lastUpdated: 20220730002135
