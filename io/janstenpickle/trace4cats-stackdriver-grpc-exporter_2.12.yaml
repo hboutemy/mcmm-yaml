@@ -3,8 +3,8 @@
 groupId: io.janstenpickle
 artifactId: trace4cats-stackdriver-grpc-exporter_2.12
 versioning:
-  latest: 0.13.1+64-262980dd
-  release: 0.13.1+64-262980dd
+  latest: 0.14.0
+  release: 0.14.0
   versions:
   - 0.0.0+1-7a9df181
   - 0.0.0+2-30d846cc
@@ -410,4 +410,5 @@ versioning:
   - 0.13.1+54-9e0efabe
   - 0.13.1+60-ce93a23d
   - 0.13.1+64-262980dd
-  lastUpdated: 20220730120556
+  - 0.14.0
+  lastUpdated: 20220731164809
