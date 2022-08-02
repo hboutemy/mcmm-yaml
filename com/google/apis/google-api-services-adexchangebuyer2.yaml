@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-adexchangebuyer2
 versioning:
-  latest: v2beta1-rev20220615-1.32.1
-  release: v2beta1-rev20220615-1.32.1
+  latest: v2beta1-rev20220615-2.0.0
+  release: v2beta1-rev20220615-2.0.0
   versions:
   - v2beta1-rev1-1.18.0-rc
   - v2beta1-rev1-1.19.1
@@ -1656,4 +1656,5 @@ versioning:
   - v2beta1-rev20220301-1.32.1
   - v2beta1-rev20220321-1.32.1
   - v2beta1-rev20220615-1.32.1
-  lastUpdated: 20220616075916
+  - v2beta1-rev20220615-2.0.0
+  lastUpdated: 20220801200454

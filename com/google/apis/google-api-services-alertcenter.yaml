@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-alertcenter
 versioning:
-  latest: v1beta1-rev20220718-1.32.1
-  release: v1beta1-rev20220718-1.32.1
+  latest: v1beta1-rev20220718-2.0.0
+  release: v1beta1-rev20220718-2.0.0
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.22.0
@@ -273,4 +273,5 @@ versioning:
   - v1beta1-rev20220321-1.32.1
   - v1beta1-rev20220516-1.32.1
   - v1beta1-rev20220718-1.32.1
-  lastUpdated: 20220721075955
+  - v1beta1-rev20220718-2.0.0
+  lastUpdated: 20220801201010

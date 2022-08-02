@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-searchconsole
 versioning:
-  latest: v1-rev20220303-1.32.1
-  release: v1-rev20220303-1.32.1
+  latest: v1-rev20220303-2.0.0
+  release: v1-rev20220303-2.0.0
   versions:
   - v1-rev201-1.18.0-rc
   - v1-rev201-1.20.0
@@ -1007,4 +1007,5 @@ versioning:
   - v1-rev20220128-1.32.1
   - v1-rev20220201-1.32.1
   - v1-rev20220303-1.32.1
-  lastUpdated: 20220311091018
+  - v1-rev20220303-2.0.0
+  lastUpdated: 20220801212224

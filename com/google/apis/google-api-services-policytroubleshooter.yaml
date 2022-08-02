@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-policytroubleshooter
 versioning:
-  latest: v1-rev20220429-1.32.1
-  release: v1-rev20220429-1.32.1
+  latest: v1-rev20220429-2.0.0
+  release: v1-rev20220429-2.0.0
   versions:
   - v1beta-rev6-1.18.0-rc
   - v1beta-rev6-1.25.0
@@ -63,6 +63,7 @@ versioning:
   - v1beta-rev20211008-1.32.1
   - v1beta-rev20220402-1.32.1
   - v1beta-rev20220429-1.32.1
+  - v1beta-rev20220429-2.0.0
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.25.0
   - v1-rev2-1.18.0-rc
@@ -106,4 +107,5 @@ versioning:
   - v1-rev20220402-1.32.1
   - v1-rev20220415-1.32.1
   - v1-rev20220429-1.32.1
-  lastUpdated: 20220503081302
+  - v1-rev20220429-2.0.0
+  lastUpdated: 20220801210629

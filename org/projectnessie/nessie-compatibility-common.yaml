@@ -3,8 +3,8 @@
 groupId: org.projectnessie
 artifactId: nessie-compatibility-common
 versioning:
-  latest: 0.40.1
-  release: 0.40.1
+  latest: 0.40.3
+  release: 0.40.3
   versions:
   - 0.21.0
   - 0.21.1
@@ -21,4 +21,6 @@ versioning:
   - 0.30.0
   - 0.40.0
   - 0.40.1
-  lastUpdated: 20220725192610
+  - 0.40.2
+  - 0.40.3
+  lastUpdated: 20220801182712

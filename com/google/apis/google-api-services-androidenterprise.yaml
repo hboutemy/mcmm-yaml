@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-androidenterprise
 versioning:
-  latest: v1-rev20220720-1.32.1
-  release: v1-rev20220720-1.32.1
+  latest: v1-rev20220720-2.0.0
+  release: v1-rev20220720-2.0.0
   versions:
   - v1-rev1-1.17.0-rc
   - v1-rev1-1.18.0-rc
@@ -760,4 +760,5 @@ versioning:
   - v1-rev20210723-1.32.1
   - v1-rev20220407-1.32.1
   - v1-rev20220720-1.32.1
-  lastUpdated: 20220722075943
+  - v1-rev20220720-2.0.0
+  lastUpdated: 20220801201442

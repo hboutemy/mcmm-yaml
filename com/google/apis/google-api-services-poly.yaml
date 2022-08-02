@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-poly
 versioning:
-  latest: v1-rev20201006-1.32.1
-  release: v1-rev20201006-1.32.1
+  latest: v1-rev20201006-2.0.0
+  release: v1-rev20201006-2.0.0
   versions:
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.21.0
@@ -353,4 +353,5 @@ versioning:
   - v1-rev20201006-1.31.0
   - v1-rev20201006-1.31.5
   - v1-rev20201006-1.32.1
-  lastUpdated: 20210702221403
+  - v1-rev20201006-2.0.0
+  lastUpdated: 20220801210701
