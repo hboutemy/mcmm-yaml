@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-domainsrdap
 versioning:
-  latest: v1-rev20200803-1.32.1
-  release: v1-rev20200803-1.32.1
+  latest: v1-rev20200803-2.0.0
+  release: v1-rev20200803-2.0.0
   versions:
   - v1-rev18-1.18.0-rc
   - v1-rev18-1.25.0
@@ -53,4 +53,5 @@ versioning:
   - v1-rev20200803-1.31.0
   - v1-rev20200803-1.31.5
   - v1-rev20200803-1.32.1
-  lastUpdated: 20210702212040
+  - v1-rev20200803-2.0.0
+  lastUpdated: 20220802083135

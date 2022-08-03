@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-firebasestorage
 versioning:
-  latest: v1beta-rev20220318-1.32.1
-  release: v1beta-rev20220318-1.32.1
+  latest: v1beta-rev20220318-2.0.0
+  release: v1beta-rev20220318-2.0.0
   versions:
   - v1beta-rev20210309-1.31.0
   - v1beta-rev20210323-1.31.0
@@ -16,4 +16,5 @@ versioning:
   - v1beta-rev20210823-1.32.1
   - v1beta-rev20210917-1.32.1
   - v1beta-rev20220318-1.32.1
-  lastUpdated: 20220326080457
+  - v1beta-rev20220318-2.0.0
+  lastUpdated: 20220802084616

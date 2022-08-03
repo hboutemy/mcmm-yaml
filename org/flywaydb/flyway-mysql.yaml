@@ -3,8 +3,8 @@
 groupId: org.flywaydb
 artifactId: flyway-mysql
 versioning:
-  latest: 9.0.4
-  release: 9.0.4
+  latest: 9.1.0
+  release: 9.1.0
   versions:
   - 8.2.1
   - 8.2.2
@@ -34,4 +34,5 @@ versioning:
   - 9.0.2
   - 9.0.3
   - 9.0.4
-  lastUpdated: 20220729104517
+  - 9.1.0
+  lastUpdated: 20220802152635
