@@ -3,8 +3,8 @@
 groupId: org.apache.drill.contrib
 artifactId: drill-kudu-storage
 versioning:
-  latest: 1.20.0-hadoop2
-  release: 1.20.0-hadoop2
+  latest: 1.20.2
+  release: 1.20.2
   versions:
   - 1.5.0
   - 1.6.0
@@ -23,4 +23,5 @@ versioning:
   - 1.19.0
   - 1.20.0
   - 1.20.0-hadoop2
-  lastUpdated: 20220225080747
+  - 1.20.2
+  lastUpdated: 20220803083639

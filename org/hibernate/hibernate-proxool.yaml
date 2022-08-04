@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.hibernate
 artifactId: hibernate-proxool
 versioning:
-  latest: 6.1.1.Final
-  release: 6.1.1.Final
+  latest: 6.1.2.Final
+  release: 6.1.2.Final
   versions:
   - 3.3.0.CR1
   - 3.3.0.CR2
@@ -279,6 +279,7 @@ versioning:
   - 6.0.2.Final
   - 6.1.0.Final
   - 6.1.1.Final
+  - 6.1.2.Final
   - 4.1.2
   - 5.1.13.Final
   - 5.1.14.Final
@@ -291,4 +292,4 @@ versioning:
   - 5.2.17.Final
   - 5.4.33.Final
   - 5.5.6.Final
-  lastUpdated: 20220707082751
+  lastUpdated: 20220803135316

@@ -3,8 +3,8 @@
 groupId: org.jboss.narayana
 artifactId: common
 versioning:
-  latest: 5.13.0.Final
-  release: 5.13.0.Final
+  latest: 5.13.1.Alpha1
+  release: 5.13.1.Alpha1
   versions:
   - foo1
   - foo2
@@ -119,4 +119,5 @@ versioning:
   - 5.12.6.Final
   - 5.12.7.Final
   - 5.13.0.Final
-  lastUpdated: 20220723210246
+  - 5.13.1.Alpha1
+  lastUpdated: 20220803193648
