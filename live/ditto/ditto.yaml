@@ -3,8 +3,8 @@
 groupId: live.ditto
 artifactId: ditto
 versioning:
-  latest: 2.0.0
-  release: 2.0.0
+  latest: 2.0.1-experimental,xamarin,ios
+  release: 2.0.1-experimental,xamarin,ios
   versions:
   - 1.0.1
   - 1.0.2
@@ -46,4 +46,5 @@ versioning:
   - 1.1.10-experimental,all-product-headers-yaml-issue,1
   - 2.0.0-alpha1
   - 2.0.0
-  lastUpdated: 20220803122325
+  - 2.0.1-experimental,xamarin,ios
+  lastUpdated: 20220804231519

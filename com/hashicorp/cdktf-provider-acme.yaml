@@ -3,8 +3,8 @@
 groupId: com.hashicorp
 artifactId: cdktf-provider-acme
 versioning:
-  latest: 2.0.7
-  release: 2.0.7
+  latest: 2.0.9
+  release: 2.0.9
   versions:
   - 0.0.93
   - 0.0.94
@@ -218,4 +218,6 @@ versioning:
   - 2.0.5
   - 2.0.6
   - 2.0.7
-  lastUpdated: 20220803001951
+  - 2.0.8
+  - 2.0.9
+  lastUpdated: 20220804154358
