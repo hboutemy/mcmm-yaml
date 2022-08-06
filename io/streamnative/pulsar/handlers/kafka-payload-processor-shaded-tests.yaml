@@ -3,8 +3,8 @@
 groupId: io.streamnative.pulsar.handlers
 artifactId: kafka-payload-processor-shaded-tests
 versioning:
-  latest: 2.10.1.4
-  release: 2.10.1.4
+  latest: 2.10.1.99-rc0803
+  release: 2.10.1.99-rc0803
   versions:
   - 2.9.1.3
   - 2.9.1.4
@@ -39,4 +39,5 @@ versioning:
   - 2.10.1.2
   - 2.10.1.3
   - 2.10.1.4
-  lastUpdated: 20220727043841
+  - 2.10.1.99-rc0803
+  lastUpdated: 20220805125126
