@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-groupsmigration
 versioning:
-  latest: v1-rev20210304-1.32.1
-  release: v1-rev20210304-1.32.1
+  latest: v1-rev20210304-2.0.0
+  release: v1-rev20210304-2.0.0
   versions:
   - v1-rev8-1.13.2-beta
   - v1-rev8-1.14.1-beta
@@ -215,4 +215,5 @@ versioning:
   - v1-rev20210304-1.31.0
   - v1-rev20210304-1.31.5
   - v1-rev20210304-1.32.1
-  lastUpdated: 20210702214322
+  - v1-rev20210304-2.0.0
+  lastUpdated: 20220808204021

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-siteVerification
 versioning:
-  latest: v1-rev20191119-1.32.1
-  release: v1-rev20191119-1.32.1
+  latest: v1-rev20191119-2.0.0
+  release: v1-rev20191119-2.0.0
   versions:
   - v1-rev12-1.13.2-beta
   - v1-rev12-1.14.1-beta
@@ -203,4 +203,5 @@ versioning:
   - v1-rev20191119-1.31.0
   - v1-rev20191119-1.31.5
   - v1-rev20191119-1.32.1
-  lastUpdated: 20210702223659
+  - v1-rev20191119-2.0.0
+  lastUpdated: 20220808204905

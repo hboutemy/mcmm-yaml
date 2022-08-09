@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-slides
 versioning:
-  latest: v1-rev20220722-1.32.1
-  release: v1-rev20220722-1.32.1
+  latest: v1-rev20220722-2.0.0
+  release: v1-rev20220722-2.0.0
   versions:
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.20.0
@@ -593,4 +593,5 @@ versioning:
   - v1-rev20220322-1.32.1
   - v1-rev20220404-1.32.1
   - v1-rev20220722-1.32.1
-  lastUpdated: 20220727081628
+  - v1-rev20220722-2.0.0
+  lastUpdated: 20220808204942

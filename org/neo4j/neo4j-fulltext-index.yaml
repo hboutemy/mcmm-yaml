@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-fulltext-index
 versioning:
-  latest: 4.4.9
-  release: 4.4.9
+  latest: 4.4.10
+  release: 4.4.10
   versions:
   - 3.5.0-beta03
   - 3.5.0-rc01
@@ -104,6 +104,7 @@ versioning:
   - 4.3.13
   - 4.3.14
   - 4.3.15
+  - 4.3.16
   - 4.4.0
   - 4.4.1
   - 4.4.2
@@ -114,4 +115,5 @@ versioning:
   - 4.4.7
   - 4.4.8
   - 4.4.9
-  lastUpdated: 20220718080012
+  - 4.4.10
+  lastUpdated: 20220808122542
