@@ -3,8 +3,8 @@
 groupId: software.amazon.awsconstructs
 artifactId: route53apigateway
 versioning:
-  latest: 2.12.0
-  release: 2.12.0
+  latest: 2.13.0
+  release: 2.13.0
   versions:
   - 1.138.0
   - 1.138.1
@@ -37,6 +37,9 @@ versioning:
   - 1.162.0
   - 1.163.0
   - 1.163.1
+  - 1.163.2
+  - 1.164.0
+  - 1.165.0
   - 2.2.0
   - 2.3.0
   - 2.4.0
@@ -48,4 +51,5 @@ versioning:
   - 2.10.0
   - 2.11.0
   - 2.12.0
-  lastUpdated: 20220808215448
+  - 2.13.0
+  lastUpdated: 20220809183125

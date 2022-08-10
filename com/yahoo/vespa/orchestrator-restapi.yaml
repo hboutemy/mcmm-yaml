@@ -3,8 +3,8 @@
 groupId: com.yahoo.vespa
 artifactId: orchestrator-restapi
 versioning:
-  latest: 8.29.16
-  release: 8.29.16
+  latest: 8.31.22
+  release: 8.31.22
   versions:
   - 6.143.177
   - 6.143.255
@@ -569,4 +569,6 @@ versioning:
   - 8.27.12
   - 8.28.12
   - 8.29.16
-  lastUpdated: 20220804194601
+  - 8.30.50
+  - 8.31.22
+  lastUpdated: 20220809181042
