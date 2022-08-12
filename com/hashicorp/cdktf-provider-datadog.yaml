@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf-provider-datadog
 versioning:
-  latest: 2.0.19
-  release: 2.0.19
+  latest: 2.0.20
+  release: 2.0.20
   versions:
   - 0.2.8
   - 0.2.9
@@ -578,4 +578,5 @@ versioning:
   - 2.0.17
   - 2.0.18
   - 2.0.19
-  lastUpdated: 20220810111610
+  - 2.0.20
+  lastUpdated: 20220811003019
