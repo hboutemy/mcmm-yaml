@@ -3,8 +3,8 @@
 groupId: ai.djl.mxnet
 artifactId: mxnet-native-cu102mkl
 versioning:
-  latest: 1.9.0
-  release: 1.9.0
+  latest: 1.9.1
+  release: 1.9.1
   versions:
   - 1.6.0
   - 1.7.0-a
@@ -12,4 +12,5 @@ versioning:
   - 1.7.0-backport
   - 1.8.0
   - 1.9.0
-  lastUpdated: 20220319181809
+  - 1.9.1
+  lastUpdated: 20220812191518

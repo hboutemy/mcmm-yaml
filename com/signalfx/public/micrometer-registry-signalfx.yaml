@@ -3,11 +3,12 @@
 groupId: com.signalfx.public
 artifactId: micrometer-registry-signalfx
 versioning:
-  latest: 1.9.2-splunk
-  release: 1.9.2-splunk
+  latest: 1.9.2-splunk2
+  release: 1.9.2-splunk2
   versions:
   - 1.8.4-splunk1
   - 1.8.4-splunk2
   - 1.8.4-splunk3
   - 1.9.2-splunk
-  lastUpdated: 20220727125429
+  - 1.9.2-splunk2
+  lastUpdated: 20220812140329
