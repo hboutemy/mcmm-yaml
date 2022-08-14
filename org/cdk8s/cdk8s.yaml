@@ -3,8 +3,8 @@
 groupId: org.cdk8s
 artifactId: cdk8s
 versioning:
-  latest: 2.3.81
-  release: 2.3.81
+  latest: 2.3.82
+  release: 2.3.82
   versions:
   - 0.10.0
   - 0.11.0
@@ -364,6 +364,7 @@ versioning:
   - 1.6.80
   - 1.6.81
   - 1.6.82
+  - 1.6.83
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -575,4 +576,5 @@ versioning:
   - 2.3.79
   - 2.3.80
   - 2.3.81
-  lastUpdated: 20220812002350
+  - 2.3.82
+  lastUpdated: 20220813002509
