@@ -3,8 +3,8 @@
 groupId: org.wildfly.arquillian
 artifactId: wildfly-arquillian-common-domain
 versioning:
-  latest: 5.0.0.Alpha4
-  release: 5.0.0.Alpha4
+  latest: 5.0.0.Alpha5
+  release: 5.0.0.Alpha5
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -40,8 +40,10 @@ versioning:
   - 4.0.0.Alpha2
   - 4.0.0.Alpha3
   - 4.0.0.Alpha4
+  - 4.0.0.Alpha5
   - 5.0.0.Alpha1
   - 5.0.0.Alpha2
   - 5.0.0.Alpha3
   - 5.0.0.Alpha4
-  lastUpdated: 20220805184407
+  - 5.0.0.Alpha5
+  lastUpdated: 20220817172024

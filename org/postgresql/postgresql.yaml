@@ -3,8 +3,8 @@
 groupId: org.postgresql
 artifactId: postgresql
 versioning:
-  latest: 42.4.1
-  release: 42.4.1
+  latest: 42.4.2
+  release: 42.4.2
   versions:
   - 9.2-1002-jdbc4
   - 9.2-1003-jdbc3
@@ -170,4 +170,5 @@ versioning:
   - 42.3.6
   - 42.4.0
   - 42.4.1
-  lastUpdated: 20220803132138
+  - 42.4.2
+  lastUpdated: 20220817153847
