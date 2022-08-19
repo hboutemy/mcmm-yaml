@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.assemblies
 artifactId: nexus-core-feature
 versioning:
-  latest: 3.41.0-01
-  release: 3.41.0-01
+  latest: 3.41.1-01
+  release: 3.41.1-01
   versions:
   - 3.0.0-b2015110601
   - 3.0.0-b2016011501
@@ -106,4 +106,5 @@ versioning:
   - 3.40.0-03
   - 3.40.1-01
   - 3.41.0-01
-  lastUpdated: 20220727105901
+  - 3.41.1-01
+  lastUpdated: 20220818161633

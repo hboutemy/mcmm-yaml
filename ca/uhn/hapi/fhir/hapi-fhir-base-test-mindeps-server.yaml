@@ -3,8 +3,8 @@
 groupId: ca.uhn.hapi.fhir
 artifactId: hapi-fhir-base-test-mindeps-server
 versioning:
-  latest: 6.0.4
-  release: 6.0.4
+  latest: 6.1.0
+  release: 6.1.0
   versions:
   - 5.6.5
   - 5.7.7
@@ -12,4 +12,5 @@ versioning:
   - 5.7.9
   - 6.0.3
   - 6.0.4
-  lastUpdated: 20220725200235
+  - 6.1.0
+  lastUpdated: 20220818210611

@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-elasticsearch-transport-common
 versioning:
-  latest: 1.16.0-alpha
-  release: 1.16.0-alpha
+  latest: 1.17.0-alpha
+  release: 1.17.0-alpha
   versions:
   - 0.12.0
   - 0.12.1
@@ -19,4 +19,5 @@ versioning:
   - 1.0.0-alpha
   - 1.0.1-alpha
   - 1.16.0-alpha
-  lastUpdated: 20220719194350
+  - 1.17.0-alpha
+  lastUpdated: 20220818212515

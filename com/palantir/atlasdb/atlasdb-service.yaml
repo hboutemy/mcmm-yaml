@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-service
 versioning:
-  latest: 0.685.0
-  release: 0.685.0
+  latest: 0.686.0
+  release: 0.686.0
   versions:
   - 0.311.6
   - 0.311.7
@@ -455,4 +455,6 @@ versioning:
   - 0.683.0
   - 0.684.0
   - 0.685.0
-  lastUpdated: 20220816165156
+  - 0.686.0-rc2
+  - 0.686.0
+  lastUpdated: 20220818170725
