@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-react-virtual
 versioning:
-  latest: 2.10.4-pre.372
-  release: 2.10.4-pre.372
+  latest: 2.10.4-pre.373-compat
+  release: 2.10.4-pre.373-compat
   versions:
   - 2.8.1-pre.234-kotlin-1.5.21
   - 2.8.1-pre.235-kotlin-1.5.21
@@ -155,4 +155,6 @@ versioning:
   - 2.10.4-pre.370
   - 2.10.4-pre.371
   - 2.10.4-pre.372
-  lastUpdated: 20220821174848
+  - 2.10.4-pre.373
+  - 2.10.4-pre.373-compat
+  lastUpdated: 20220822074116

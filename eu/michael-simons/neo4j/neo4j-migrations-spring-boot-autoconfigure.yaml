@@ -3,8 +3,8 @@
 groupId: eu.michael-simons.neo4j
 artifactId: neo4j-migrations-spring-boot-autoconfigure
 versioning:
-  latest: 1.9.2
-  release: 1.9.2
+  latest: 1.10.0
+  release: 1.10.0
   versions:
   - 0.0.8
   - 0.0.9
@@ -47,4 +47,5 @@ versioning:
   - 1.9.0
   - 1.9.1
   - 1.9.2
-  lastUpdated: 20220815080412
+  - 1.10.0
+  lastUpdated: 20220822075346

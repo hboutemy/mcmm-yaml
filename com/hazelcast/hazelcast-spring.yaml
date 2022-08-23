@@ -3,8 +3,8 @@
 groupId: com.hazelcast
 artifactId: hazelcast-spring
 versioning:
-  latest: 5.1.3
-  release: 5.1.3
+  latest: 5.2-BETA-1
+  release: 5.2-BETA-1
   versions:
   - 1.9.2
   - 1.9.2.1
@@ -217,6 +217,7 @@ versioning:
   - 5.1.1
   - 5.1.2
   - 5.1.3
+  - 5.2-BETA-1
   - 1.9.1
   - 1.9.1-RC2
   - 2.6.10
@@ -224,4 +225,4 @@ versioning:
   - 3.4.3
   - 3.4.4
   - 3.5
-  lastUpdated: 20220801135951
+  lastUpdated: 20220822125651
