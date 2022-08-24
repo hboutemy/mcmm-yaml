@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-connector-nifi
 versioning:
-  latest: 1.15.1
-  release: 1.15.1
+  latest: 1.15.2
+  release: 1.15.2
   versions:
   - 0.10.0
   - 0.10.0-hadoop1
@@ -14,4 +14,5 @@ versioning:
   - 0.10.2-hadoop1
   - 1.15.0
   - 1.15.1
-  lastUpdated: 20220706102756
+  - 1.15.2
+  lastUpdated: 20220823122416

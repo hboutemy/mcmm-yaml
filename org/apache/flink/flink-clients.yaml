@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-clients
 versioning:
-  latest: 1.15.1
-  release: 1.15.1
+  latest: 1.15.2
+  release: 1.15.2
   versions:
   - 0.6-hadoop2-incubating
   - 0.6-incubating
@@ -30,4 +30,5 @@ versioning:
   - 0.10.2-hadoop1
   - 1.15.0
   - 1.15.1
-  lastUpdated: 20220706102740
+  - 1.15.2
+  lastUpdated: 20220823122401
