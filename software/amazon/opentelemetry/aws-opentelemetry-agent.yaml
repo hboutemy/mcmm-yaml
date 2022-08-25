@@ -3,8 +3,8 @@
 groupId: software.amazon.opentelemetry
 artifactId: aws-opentelemetry-agent
 versioning:
-  latest: 1.16.0
-  release: 1.16.0
+  latest: 1.17.0
+  release: 1.17.0
   versions:
   - 0.12.1-aws.1
   - 0.15.0-aws.1
@@ -30,4 +30,5 @@ versioning:
   - 1.14.0
   - 1.15.0
   - 1.16.0
-  lastUpdated: 20220727222054
+  - 1.17.0
+  lastUpdated: 20220824203245

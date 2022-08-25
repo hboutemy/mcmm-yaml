@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-narayana-lra-deployment
 versioning:
-  latest: 2.12.0.CR1
-  release: 2.12.0.CR1
+  latest: 2.12.0.Final
+  release: 2.12.0.Final
   versions:
   - 2.2.0.CR1
   - 2.2.0.Final
@@ -58,5 +58,7 @@ versioning:
   - 2.11.0.Final
   - 2.11.1.Final
   - 2.11.2.Final
+  - 2.11.3.Final
   - 2.12.0.CR1
-  lastUpdated: 20220817111716
+  - 2.12.0.Final
+  lastUpdated: 20220824193050

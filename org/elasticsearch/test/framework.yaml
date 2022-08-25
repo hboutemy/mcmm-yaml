@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.test
 artifactId: framework
 versioning:
-  latest: 8.3.3
-  release: 8.3.3
+  latest: 8.4.0
+  release: 8.4.0
   versions:
   - 5.0.0-alpha1
   - 5.0.0-alpha2
@@ -170,6 +170,7 @@ versioning:
   - 7.17.3
   - 7.17.4
   - 7.17.5
+  - 7.17.6
   - 8.0.0-alpha1
   - 8.0.0-alpha2
   - 8.0.0-beta1
@@ -189,4 +190,5 @@ versioning:
   - 8.3.1
   - 8.3.2
   - 8.3.3
-  lastUpdated: 20220728142015
+  - 8.4.0
+  lastUpdated: 20220824133921
