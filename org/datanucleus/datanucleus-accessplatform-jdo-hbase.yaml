@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.datanucleus
 artifactId: datanucleus-accessplatform-jdo-hbase
 versioning:
-  latest: 6.0.0-release
-  release: 6.0.0-release
+  latest: 6.0.1
+  release: 6.0.1
   versions:
   - 3.0.4
   - 3.0.5
@@ -147,5 +147,6 @@ versioning:
   - 6.0.0-m4
   - 6.0.0-m5
   - 6.0.0-release
+  - 6.0.1
   - 4.1.1
-  lastUpdated: 20220625143643
+  lastUpdated: 20220825125536

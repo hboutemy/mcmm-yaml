@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-instrumentation-okhttp3
 versioning:
-  latest: 5.13.10
-  release: 5.13.10
+  latest: 5.13.11
+  release: 5.13.11
   versions:
   - 4.3.0
   - 4.3.1
@@ -119,4 +119,5 @@ versioning:
   - 5.13.8
   - 5.13.9
   - 5.13.10
-  lastUpdated: 20220628091624
+  - 5.13.11
+  lastUpdated: 20220825103523

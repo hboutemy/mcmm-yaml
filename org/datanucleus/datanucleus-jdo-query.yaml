@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.datanucleus
 artifactId: datanucleus-jdo-query
 versioning:
-  latest: 6.0.0-release
-  release: 6.0.0-release
+  latest: 6.0.1
+  release: 6.0.1
   versions:
   - 2.2.0-m1
   - 2.2.0-release
@@ -48,4 +48,5 @@ versioning:
   - 5.0.9
   - 6.0.0-m1
   - 6.0.0-release
-  lastUpdated: 20220625143656
+  - 6.0.1
+  lastUpdated: 20220825125542

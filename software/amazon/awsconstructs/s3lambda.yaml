@@ -3,8 +3,8 @@
 groupId: software.amazon.awsconstructs
 artifactId: s3lambda
 versioning:
-  latest: 2.18.0
-  release: 2.18.0
+  latest: 2.20.0
+  release: 2.20.0
   versions:
   - 1.46.0
   - 1.47.0
@@ -145,6 +145,7 @@ versioning:
   - 1.166.1
   - 1.167.0
   - 1.168.0
+  - 1.169.0
   - 2.0.0-rc.1
   - 2.0.0-rc.2
   - 2.0.0
@@ -165,4 +166,6 @@ versioning:
   - 2.16.0
   - 2.17.0
   - 2.18.0
-  lastUpdated: 20220822215330
+  - 2.19.0
+  - 2.20.0
+  lastUpdated: 20220825185003
