@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-events
 versioning:
-  latest: 1.12.290
-  release: 1.12.290
+  latest: 1.12.292
+  release: 1.12.292
   versions:
   - 1.10.47
   - 1.10.48
@@ -1365,4 +1365,6 @@ versioning:
   - 1.12.288
   - 1.12.289
   - 1.12.290
-  lastUpdated: 20220825204232
+  - 1.12.291
+  - 1.12.292
+  lastUpdated: 20220829211539

@@ -3,8 +3,8 @@
 groupId: com.github.plokhotnyuk.jsoniter-scala
 artifactId: jsoniter-scala-core_2.13
 versioning:
-  latest: 2.16.0
-  release: 2.16.0
+  latest: 2.17.0
+  release: 2.17.0
   versions:
   - 0.50.0
   - 0.50.1
@@ -96,9 +96,11 @@ versioning:
   - 2.13.2
   - 2.13.3
   - 2.13.3.1
+  - 2.13.3.2
   - 2.13.4
   - 2.13.5
   - 2.13.5.1
+  - 2.13.5.2
   - 2.13.6
   - 2.13.7
   - 2.13.8
@@ -138,4 +140,5 @@ versioning:
   - 2.14.2
   - 2.15.0
   - 2.16.0
-  lastUpdated: 20220827160149
+  - 2.17.0
+  lastUpdated: 20220829080930
