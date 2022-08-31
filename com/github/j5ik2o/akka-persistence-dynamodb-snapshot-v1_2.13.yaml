@@ -3,8 +3,8 @@
 groupId: com.github.j5ik2o
 artifactId: akka-persistence-dynamodb-snapshot-v1_2.13
 versioning:
-  latest: 1.14.14
-  release: 1.14.14
+  latest: 1.14.16
+  release: 1.14.16
   versions:
   - 1.7.0
   - 1.8.0
@@ -81,4 +81,6 @@ versioning:
   - 1.14.12
   - 1.14.13
   - 1.14.14
-  lastUpdated: 20220829054607
+  - 1.14.15
+  - 1.14.16
+  lastUpdated: 20220830005227
