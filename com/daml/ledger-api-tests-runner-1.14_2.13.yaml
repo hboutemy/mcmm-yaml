@@ -3,8 +3,8 @@
 groupId: com.daml
 artifactId: ledger-api-tests-runner-1.14_2.13
 versioning:
-  latest: 2.4.0-snapshot.20220830.10503.0.804a0b7b
-  release: 2.4.0-snapshot.20220830.10503.0.804a0b7b
+  latest: 2.4.0-snapshot.20220831.10515.0.76adb366
+  release: 2.4.0-snapshot.20220831.10515.0.76adb366
   versions:
   - 2.0.0-snapshot.20220210.9244.0.6a91fdfe
   - 2.0.0-snapshot.20220211.9260.0.3dccabf6
@@ -119,6 +119,7 @@ versioning:
   - 2.3.1
   - 2.3.2
   - 2.3.3
+  - 2.3.4
   - 2.4.0-snapshot.20220622.10127.0.c2cd6141
   - 2.4.0-snapshot.20220623.10129.0.0d1ef104
   - 2.4.0-snapshot.20220624.10131.0.7cd677e3
@@ -172,4 +173,5 @@ versioning:
   - 2.4.0-snapshot.20220829.10493.0.99a48557
   - 2.4.0-snapshot.20220830.10494.0.4622de48
   - 2.4.0-snapshot.20220830.10503.0.804a0b7b
-  lastUpdated: 20220831121928
+  - 2.4.0-snapshot.20220831.10515.0.76adb366
+  lastUpdated: 20220901085928

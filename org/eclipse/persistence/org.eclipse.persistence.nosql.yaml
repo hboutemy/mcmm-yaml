@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.eclipse.persistence
 artifactId: org.eclipse.persistence.nosql
 versioning:
-  latest: 4.0.0-M3
-  release: 4.0.0-M3
+  latest: 4.0.0-RC1
+  release: 4.0.0-RC1
   versions:
   - 2.4.2
   - 2.5.0-RC1
@@ -95,4 +95,5 @@ versioning:
   - 4.0.0-M1
   - 4.0.0-M2
   - 4.0.0-M3
-  lastUpdated: 20220819115103
+  - 4.0.0-RC1
+  lastUpdated: 20220901082317

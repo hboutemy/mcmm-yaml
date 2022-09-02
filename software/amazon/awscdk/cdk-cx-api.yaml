@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: cdk-cx-api
 versioning:
-  latest: 2.39.1
-  release: 2.39.1
+  latest: 2.40.0
+  release: 2.40.0
   versions:
   - 0.8.0
   - 0.8.1
@@ -257,6 +257,7 @@ versioning:
   - 1.169.0
   - 1.170.0
   - 1.170.1
+  - 1.171.0
   - 2.0.0-alpha.0
   - 2.0.0-alpha.1
   - 2.0.0-alpha.2
@@ -353,4 +354,5 @@ versioning:
   - 2.38.1
   - 2.39.0
   - 2.39.1
-  lastUpdated: 20220831002631
+  - 2.40.0
+  lastUpdated: 20220901005258
