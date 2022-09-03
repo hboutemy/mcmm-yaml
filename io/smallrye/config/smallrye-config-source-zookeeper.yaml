@@ -3,8 +3,8 @@
 groupId: io.smallrye.config
 artifactId: smallrye-config-source-zookeeper
 versioning:
-  latest: 3.0.0-RC4
-  release: 3.0.0-RC4
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 1.3.9
   - 1.3.10
@@ -67,8 +67,10 @@ versioning:
   - 2.10.1
   - 2.11.0
   - 2.11.1
+  - 2.12.0
   - 3.0.0-RC1
   - 3.0.0-RC2
   - 3.0.0-RC3
   - 3.0.0-RC4
-  lastUpdated: 20220802110327
+  - 3.0.0
+  lastUpdated: 20220902094837
