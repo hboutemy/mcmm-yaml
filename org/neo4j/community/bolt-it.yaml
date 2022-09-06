@@ -3,8 +3,8 @@
 groupId: org.neo4j.community
 artifactId: bolt-it
 versioning:
-  latest: 4.4.10
-  release: 4.4.10
+  latest: 4.4.11
+  release: 4.4.11
   versions:
   - 3.5.0-alpha02
   - 3.5.0-alpha03
@@ -119,6 +119,7 @@ versioning:
   - 4.3.15
   - 4.3.16
   - 4.3.17
+  - 4.3.18
   - 4.4.0
   - 4.4.1
   - 4.4.2
@@ -130,4 +131,5 @@ versioning:
   - 4.4.8
   - 4.4.9
   - 4.4.10
-  lastUpdated: 20220811124900
+  - 4.4.11
+  lastUpdated: 20220905144036
