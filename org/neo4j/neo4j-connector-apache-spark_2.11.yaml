@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-connector-apache-spark_2.11
 versioning:
-  latest: 4.1.4_for_spark_2.4
-  release: 4.1.4_for_spark_2.4
+  latest: 4.1.5_for_spark_2.4
+  release: 4.1.5_for_spark_2.4
   versions:
   - 4.0.2_for_spark_2.4
   - 4.1.0_for_spark_2.4
@@ -15,4 +15,6 @@ versioning:
   - 4.1.3_for_spark_2.4
   - 4.1.4
   - 4.1.4_for_spark_2.4
-  lastUpdated: 20220824091735
+  - 4.1.5
+  - 4.1.5_for_spark_2.4
+  lastUpdated: 20220906110915
