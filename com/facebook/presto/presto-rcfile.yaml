@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-rcfile
 versioning:
-  latest: 0.276
-  release: 0.276
+  latest: 0.276.1
+  release: 0.276.1
   versions:
   - 0.153
   - 0.154
@@ -171,4 +171,5 @@ versioning:
   - 0.274
   - 0.275
   - 0.276
-  lastUpdated: 20220830020824
+  - 0.276.1
+  lastUpdated: 20220908214601

@@ -3,8 +3,8 @@
 groupId: org.apache.pinot
 artifactId: pinot-confluent-avro
 versioning:
-  latest: 0.10.0
-  release: 0.10.0
+  latest: 0.11.0
+  release: 0.11.0
   versions:
   - 0.4.0
   - 0.5.0
@@ -17,4 +17,5 @@ versioning:
   - 0.9.2
   - 0.9.3
   - 0.10.0
-  lastUpdated: 20220328211822
+  - 0.11.0
+  lastUpdated: 20220908002822
