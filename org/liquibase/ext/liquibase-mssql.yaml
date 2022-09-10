@@ -3,8 +3,8 @@
 groupId: org.liquibase.ext
 artifactId: liquibase-mssql
 versioning:
-  latest: 4.15.0
-  release: 4.15.0
+  latest: 4.16.0
+  release: 4.16.0
   versions:
   - 1.2.0
   - 3.9.0
@@ -40,4 +40,5 @@ versioning:
   - 4.13.0
   - 4.14.0
   - 4.15.0
-  lastUpdated: 20220805205158
+  - 4.16.0
+  lastUpdated: 20220909213940

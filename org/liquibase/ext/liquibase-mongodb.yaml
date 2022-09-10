@@ -3,8 +3,8 @@
 groupId: org.liquibase.ext
 artifactId: liquibase-mongodb
 versioning:
-  latest: 4.15.0
-  release: 4.15.0
+  latest: 4.16.0
+  release: 4.16.0
   versions:
   - 3.9.0
   - 3.10.0
@@ -43,4 +43,5 @@ versioning:
   - 4.13.0
   - 4.14.0
   - 4.15.0
-  lastUpdated: 20220805205107
+  - 4.16.0
+  lastUpdated: 20220909214025
