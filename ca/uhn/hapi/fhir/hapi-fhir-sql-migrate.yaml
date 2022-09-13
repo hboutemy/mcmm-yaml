@@ -3,8 +3,8 @@
 groupId: ca.uhn.hapi.fhir
 artifactId: hapi-fhir-sql-migrate
 versioning:
-  latest: 6.1.0
-  release: 6.1.0
+  latest: 6.1.1
+  release: 6.1.1
   versions:
   - 5.6.0
   - 5.6.1
@@ -27,4 +27,5 @@ versioning:
   - 6.0.4
   - 6.0.5
   - 6.1.0
-  lastUpdated: 20220830215147
+  - 6.1.1
+  lastUpdated: 20220912222616

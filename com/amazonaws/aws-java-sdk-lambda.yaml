@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-lambda
 versioning:
-  latest: 1.12.300
-  release: 1.12.300
+  latest: 1.12.301
+  release: 1.12.301
   versions:
   - 1.9.6
   - 1.9.7
@@ -1461,4 +1461,5 @@ versioning:
   - 1.12.298
   - 1.12.299
   - 1.12.300
-  lastUpdated: 20220909203128
+  - 1.12.301
+  lastUpdated: 20220912205526
