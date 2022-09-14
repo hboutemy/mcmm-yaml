@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.test-framework.providers
 artifactId: jersey-test-framework-provider-jetty
 versioning:
-  latest: 3.1.0-M7
-  release: 3.1.0-M7
+  latest: 3.1.0-M8
+  release: 3.1.0-M8
   versions:
   - 2.5
   - 2.5.1
@@ -83,4 +83,5 @@ versioning:
   - 3.1.0-M2
   - 3.1.0-M3
   - 3.1.0-M7
-  lastUpdated: 20220906094801
+  - 3.1.0-M8
+  lastUpdated: 20220913104639

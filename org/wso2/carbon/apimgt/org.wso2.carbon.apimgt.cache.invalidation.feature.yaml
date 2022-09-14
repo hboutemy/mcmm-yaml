@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.apimgt
 artifactId: org.wso2.carbon.apimgt.cache.invalidation.feature
 versioning:
-  latest: 9.26.12
-  release: 9.26.12
+  latest: 9.26.13
+  release: 9.26.13
   versions:
   - 6.8.76
   - 6.8.77
@@ -659,6 +659,7 @@ versioning:
   - 9.2.55
   - 9.2.56
   - 9.2.57
+  - 9.2.58
   - 9.3.0
   - 9.4.0
   - 9.4.1
@@ -827,4 +828,5 @@ versioning:
   - 9.26.10
   - 9.26.11
   - 9.26.12
-  lastUpdated: 20220912101001
+  - 9.26.13
+  lastUpdated: 20220913101639

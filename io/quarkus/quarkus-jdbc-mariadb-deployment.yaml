@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-jdbc-mariadb-deployment
 versioning:
-  latest: 2.12.1.Final
-  release: 2.12.1.Final
+  latest: 2.12.2.Final
+  release: 2.12.2.Final
   versions:
   - 0.13.0
   - 0.13.1
@@ -184,4 +184,5 @@ versioning:
   - 2.12.0.CR1
   - 2.12.0.Final
   - 2.12.1.Final
-  lastUpdated: 20220907095415
+  - 2.12.2.Final
+  lastUpdated: 20220913105500
