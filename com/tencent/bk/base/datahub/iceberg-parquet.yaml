@@ -3,8 +3,8 @@
 groupId: com.tencent.bk.base.datahub
 artifactId: iceberg-parquet
 versioning:
-  latest: 0.14.0-bkbase.1
-  release: 0.14.0-bkbase.1
+  latest: 0.14.0-bkbase.2
+  release: 0.14.0-bkbase.2
   versions:
   - 0.9.0-bkbase.1
   - 0.9.0-bkbase.2
@@ -17,4 +17,5 @@ versioning:
   - 0.13.1-bkbase.3
   - 0.13.1-bkbase.4
   - 0.14.0-bkbase.1
-  lastUpdated: 20220801074611
+  - 0.14.0-bkbase.2
+  lastUpdated: 20220914121930

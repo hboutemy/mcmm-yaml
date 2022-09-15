@@ -3,8 +3,8 @@
 groupId: io.smallrye
 artifactId: smallrye-graphql-release
 versioning:
-  latest: 2.0.0.RC8
-  release: 2.0.0.RC8
+  latest: 2.0.0.RC9
+  release: 2.0.0.RC9
   versions:
   - 0.9.1
   - 1.0.0
@@ -69,6 +69,7 @@ versioning:
   - 1.6.2
   - 1.7.0
   - 1.7.1
+  - 1.8.0
   - 2.0.0.RC1
   - 2.0.0.RC2
   - 2.0.0.RC3
@@ -77,4 +78,5 @@ versioning:
   - 2.0.0.RC6
   - 2.0.0.RC7
   - 2.0.0.RC8
-  lastUpdated: 20220903021848
+  - 2.0.0.RC9
+  lastUpdated: 20220914101816

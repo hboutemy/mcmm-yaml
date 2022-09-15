@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-lexmodelbuilding
 versioning:
-  latest: 1.12.301
-  release: 1.12.301
+  latest: 1.12.303
+  release: 1.12.303
   versions:
   - 1.11.121
   - 1.11.122
@@ -1221,4 +1221,6 @@ versioning:
   - 1.12.299
   - 1.12.300
   - 1.12.301
-  lastUpdated: 20220912205526
+  - 1.12.302
+  - 1.12.303
+  lastUpdated: 20220914212227

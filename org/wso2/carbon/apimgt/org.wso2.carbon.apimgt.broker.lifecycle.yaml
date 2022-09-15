@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.apimgt
 artifactId: org.wso2.carbon.apimgt.broker.lifecycle
 versioning:
-  latest: 9.26.13
-  release: 9.26.13
+  latest: 9.26.15
+  release: 9.26.15
   versions:
   - 6.0.0
   - 6.0.1
@@ -2318,6 +2318,7 @@ versioning:
   - 9.22.37
   - 9.22.38
   - 9.22.39
+  - 9.22.40
   - 9.23.0
   - 9.23.1
   - 9.23.2
@@ -2364,4 +2365,6 @@ versioning:
   - 9.26.11
   - 9.26.12
   - 9.26.13
-  lastUpdated: 20220913101615
+  - 9.26.14
+  - 9.26.15
+  lastUpdated: 20220914123050
