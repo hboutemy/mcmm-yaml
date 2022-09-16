@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty
 artifactId: jetty-infinispan
 versioning:
-  latest: 12.0.0.alpha0
-  release: 12.0.0.alpha0
+  latest: 12.0.0.alpha1
+  release: 12.0.0.alpha1
   versions:
   - 9.1.6.v20160112
   - 9.3.0.RC0
@@ -91,4 +91,5 @@ versioning:
   - 9.4.15.v20190215
   - 9.4.16.v20190411
   - 12.0.0.alpha0
-  lastUpdated: 20220823102158
+  - 12.0.0.alpha1
+  lastUpdated: 20220915173703

@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: io.hyte.platform
 artifactId: hyte-db
 versioning:
-  latest: 4.3.7.hyte-43073
-  release: 4.3.7.hyte-43073
+  latest: 4.3.7.hyte-43076
+  release: 4.3.7.hyte-43076
   versions:
-  - hyte-mq-4.3.7.hyte-43072
   - 4.2.7.hyte-4270
   - 4.2.7.hyte-4271
   - 4.2.7.hyte-4272
@@ -33,4 +33,7 @@ versioning:
   - 4.2.11.hyte-42119
   - 4.3.7.hyte-43070
   - 4.3.7.hyte-43073
-  lastUpdated: 20220913193631
+  - 4.3.7.hyte-43075
+  - 4.3.7.hyte-43076
+  - hyte-mq-4.3.7.hyte-43072
+  lastUpdated: 20220915202957

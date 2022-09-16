@@ -3,8 +3,8 @@
 groupId: com.yahoo.vespa
 artifactId: jdisc-cloud-aws
 versioning:
-  latest: 8.51.18
-  release: 8.51.18
+  latest: 8.53.21
+  release: 8.53.21
   versions:
   - 7.350.53
   - 7.351.32
@@ -226,4 +226,6 @@ versioning:
   - 8.47.18
   - 8.48.22
   - 8.51.18
-  lastUpdated: 20220914043500
+  - 8.52.15
+  - 8.53.21
+  lastUpdated: 20220915201915

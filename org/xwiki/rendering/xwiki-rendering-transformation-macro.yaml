@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.rendering
 artifactId: xwiki-rendering-transformation-macro
 versioning:
-  latest: 14.7
-  release: 14.7
+  latest: 14.8-rc-1
+  release: 14.8-rc-1
   versions:
   - 3.2-milestone-3
   - 3.2-rc-1
@@ -395,4 +395,5 @@ versioning:
   - 14.6
   - 14.7-rc-1
   - 14.7
-  lastUpdated: 20220907154358
+  - 14.8-rc-1
+  lastUpdated: 20220915073208
