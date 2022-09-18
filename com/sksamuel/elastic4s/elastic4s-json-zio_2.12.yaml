@@ -3,8 +3,8 @@
 groupId: com.sksamuel.elastic4s
 artifactId: elastic4s-json-zio_2.12
 versioning:
-  latest: 8.4.1
-  release: 8.4.1
+  latest: 8.4.2
+  release: 8.4.2
   versions:
   - 7.10.5
   - 7.10.6
@@ -14,6 +14,7 @@ versioning:
   - 7.12.1
   - 7.12.2
   - 7.12.3
+  - 7.12.4
   - 7.13.0
   - 7.14.0
   - 7.14.1
@@ -45,4 +46,5 @@ versioning:
   - 8.3.2
   - 8.4.0
   - 8.4.1
-  lastUpdated: 20220901003932
+  - 8.4.2
+  lastUpdated: 20220917170000

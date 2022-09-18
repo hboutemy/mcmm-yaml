@@ -3,12 +3,13 @@
 groupId: com.sksamuel.elastic4s
 artifactId: elastic4s-client-core_2.13
 versioning:
-  latest: 8.4.1
-  release: 8.4.1
+  latest: 8.4.2
+  release: 8.4.2
   versions:
   - 7.10.10
   - 7.12.2
   - 7.12.3
+  - 7.12.4
   - 7.13.0
   - 7.14.0
   - 7.14.1
@@ -40,4 +41,5 @@ versioning:
   - 8.3.2
   - 8.4.0
   - 8.4.1
-  lastUpdated: 20220901003853
+  - 8.4.2
+  lastUpdated: 20220917165921
