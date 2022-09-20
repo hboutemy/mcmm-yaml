@@ -3,8 +3,8 @@
 groupId: io.smallrye.reactive
 artifactId: smallrye-reactive-messaging-gcp-pubsub
 versioning:
-  latest: 4.0.0.RC1
-  release: 4.0.0.RC1
+  latest: 4.0.0.RC3
+  release: 4.0.0.RC3
   versions:
   - 1.1.0
   - 2.0.0
@@ -40,5 +40,8 @@ versioning:
   - 3.17.0
   - 3.18.0
   - 3.19.0
+  - 3.19.1
   - 4.0.0.RC1
-  lastUpdated: 20220912205119
+  - 4.0.0.RC2
+  - 4.0.0.RC3
+  lastUpdated: 20220919204010
