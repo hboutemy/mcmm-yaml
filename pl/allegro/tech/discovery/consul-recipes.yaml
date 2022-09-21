@@ -3,8 +3,8 @@
 groupId: pl.allegro.tech.discovery
 artifactId: consul-recipes
 versioning:
-  latest: 0.8.6
-  release: 0.8.6
+  latest: 0.8.7-missingDependenciesPOM
+  release: 0.8.7-missingDependenciesPOM
   versions:
   - 0.8.0
   - 0.8.1
@@ -13,4 +13,5 @@ versioning:
   - 0.8.4
   - 0.8.5
   - 0.8.6
-  lastUpdated: 20220919113247
+  - 0.8.7-missingDependenciesPOM
+  lastUpdated: 20220920100932

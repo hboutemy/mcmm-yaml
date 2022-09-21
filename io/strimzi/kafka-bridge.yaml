@@ -3,8 +3,8 @@
 groupId: io.strimzi
 artifactId: kafka-bridge
 versioning:
-  latest: 0.22.0
-  release: 0.22.0
+  latest: 0.22.1
+  release: 0.22.1
   versions:
   - 0.20.1
   - 0.20.2
@@ -16,4 +16,5 @@ versioning:
   - 0.21.5
   - 0.21.6
   - 0.22.0
-  lastUpdated: 20220818151443
+  - 0.22.1
+  lastUpdated: 20220920002928

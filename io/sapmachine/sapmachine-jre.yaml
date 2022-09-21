@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.sapmachine
 artifactId: sapmachine-jre
 versioning:
-  latest: 18.0.2.1
-  release: 18.0.2.1
+  latest: 19
+  release: 19
   versions:
   - 11.0.13
   - 11.0.14
@@ -25,4 +25,5 @@ versioning:
   - 18.0.1.1
   - 18.0.2
   - 18.0.2.1
-  lastUpdated: 20220825123805
+  - 19
+  lastUpdated: 20220920115247
