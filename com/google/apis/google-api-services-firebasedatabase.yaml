@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-firebasedatabase
 versioning:
-  latest: v1beta-rev20220615-2.0.0
-  release: v1beta-rev20220615-2.0.0
+  latest: v1beta-rev20220908-2.0.0
+  release: v1beta-rev20220908-2.0.0
   versions:
   - v1beta-rev20201112-1.30.10
   - v1beta-rev20201112-1.31.0
@@ -18,4 +18,5 @@ versioning:
   - v1beta-rev20220602-1.32.1
   - v1beta-rev20220615-1.32.1
   - v1beta-rev20220615-2.0.0
-  lastUpdated: 20220802084230
+  - v1beta-rev20220908-2.0.0
+  lastUpdated: 20220921222017

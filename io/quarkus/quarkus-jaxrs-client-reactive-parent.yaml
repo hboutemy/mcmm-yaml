@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-jaxrs-client-reactive-parent
 versioning:
-  latest: 2.13.0.CR1
-  release: 2.13.0.CR1
+  latest: 2.13.0.Final
+  release: 2.13.0.Final
   versions:
   - 1.13.1.Final
   - 1.13.2.Final
@@ -88,4 +88,5 @@ versioning:
   - 2.12.2.Final
   - 2.12.3.Final
   - 2.13.0.CR1
-  lastUpdated: 20220920131043
+  - 2.13.0.Final
+  lastUpdated: 20220921141537

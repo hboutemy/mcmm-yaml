@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-realtimebidding
 versioning:
-  latest: v1-rev20220831-2.0.0
-  release: v1-rev20220831-2.0.0
+  latest: v1-rev20220920-2.0.0
+  release: v1-rev20220920-2.0.0
   versions:
   - v1alpha-rev20210124-1.31.0
   - v1alpha-rev20210406-1.31.0
@@ -17,6 +17,7 @@ versioning:
   - v1alpha-rev20210624-1.32.1
   - v1alpha-rev20210923-1.32.1
   - v1alpha-rev20210923-2.0.0
+  - v1alpha-rev20220913-2.0.0
   - v1-rev20200623-1.30.9
   - v1-rev20200623-1.30.10
   - v1-rev20200720-1.30.10
@@ -45,4 +46,5 @@ versioning:
   - v1-rev20220608-2.0.0
   - v1-rev20220730-2.0.0
   - v1-rev20220831-2.0.0
-  lastUpdated: 20220902081227
+  - v1-rev20220920-2.0.0
+  lastUpdated: 20220921231510

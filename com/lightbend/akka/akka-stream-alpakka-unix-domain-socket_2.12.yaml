@@ -3,8 +3,8 @@
 groupId: com.lightbend.akka
 artifactId: akka-stream-alpakka-unix-domain-socket_2.12
 versioning:
-  latest: 3.0.4
-  release: 3.0.4
+  latest: 5.0.0-M1
+  release: 5.0.0-M1
   versions:
   - 0.16
   - 0.17
@@ -35,4 +35,5 @@ versioning:
   - 3.0.2
   - 3.0.3
   - 3.0.4
-  lastUpdated: 20211130124104
+  - 5.0.0-M1
+  lastUpdated: 20220921160215

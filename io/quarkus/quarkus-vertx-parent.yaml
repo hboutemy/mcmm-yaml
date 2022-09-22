@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-vertx-parent
 versioning:
-  latest: 2.13.0.CR1
-  release: 2.13.0.CR1
+  latest: 2.13.0.Final
+  release: 2.13.0.Final
   versions:
   - 0.11.0
   - 0.12.0
@@ -189,4 +189,5 @@ versioning:
   - 2.12.2.Final
   - 2.12.3.Final
   - 2.13.0.CR1
-  lastUpdated: 20220920131339
+  - 2.13.0.Final
+  lastUpdated: 20220921141827
