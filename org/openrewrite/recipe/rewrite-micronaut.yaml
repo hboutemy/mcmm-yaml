@@ -3,8 +3,8 @@
 groupId: org.openrewrite.recipe
 artifactId: rewrite-micronaut
 versioning:
-  latest: 1.15.1
-  release: 1.15.1
+  latest: 1.16.1
+  release: 1.16.1
   versions:
   - 0.1.0
   - 0.2.0
@@ -29,4 +29,6 @@ versioning:
   - 1.14.1
   - 1.15.0
   - 1.15.1
-  lastUpdated: 20220902205505
+  - 1.16.0
+  - 1.16.1
+  lastUpdated: 20220922211735
