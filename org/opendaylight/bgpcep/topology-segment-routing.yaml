@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.bgpcep
 artifactId: topology-segment-routing
 versioning:
-  latest: 0.18.1
-  release: 0.18.1
+  latest: 0.18.2
+  release: 0.18.2
   versions:
   - 0.3.0
   - 0.3.1-Helium
@@ -95,4 +95,5 @@ versioning:
   - 0.17.6
   - 0.18.0
   - 0.18.1
-  lastUpdated: 20220827102648
+  - 0.18.2
+  lastUpdated: 20220923124756

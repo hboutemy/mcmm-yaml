@@ -3,8 +3,8 @@
 groupId: io.sentry
 artifactId: sentry-openfeign
 versioning:
-  latest: 6.4.2
-  release: 6.4.2
+  latest: 6.5.0-beta.1
+  release: 6.5.0-beta.1
   versions:
   - 5.1.0
   - 5.1.1
@@ -62,4 +62,5 @@ versioning:
   - 6.4.0
   - 6.4.1
   - 6.4.2
-  lastUpdated: 20220919115700
+  - 6.5.0-beta.1
+  lastUpdated: 20220923184621

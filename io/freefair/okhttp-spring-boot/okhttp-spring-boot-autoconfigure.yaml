@@ -3,8 +3,8 @@
 groupId: io.freefair.okhttp-spring-boot
 artifactId: okhttp-spring-boot-autoconfigure
 versioning:
-  latest: 3.0.0-m4
-  release: 3.0.0-m4
+  latest: 3.0.0-m5
+  release: 3.0.0-m5
   versions:
   - unspecified
   - 2.1.0
@@ -59,6 +59,7 @@ versioning:
   - 2.6.9
   - 2.6.10
   - 2.6.11
+  - 2.6.12
   - 2.7.0-m1
   - 2.7.0-m2
   - 2.7.0-rc1
@@ -66,7 +67,9 @@ versioning:
   - 2.7.1
   - 2.7.2
   - 2.7.3
+  - 2.7.4
   - 3.0.0-m1
   - 3.0.0-m3
   - 3.0.0-m4
-  lastUpdated: 20220827213306
+  - 3.0.0-m5
+  lastUpdated: 20220923122327

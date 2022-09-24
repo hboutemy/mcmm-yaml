@@ -3,8 +3,8 @@
 groupId: org.jboss.resteasy
 artifactId: resteasy-client-jetty
 versioning:
-  latest: 6.2.0.Beta1
-  release: 6.2.0.Beta1
+  latest: 6.2.0.Final
+  release: 6.2.0.Final
   versions:
   - 3.6.0.CR1
   - 3.6.0.Final
@@ -124,4 +124,5 @@ versioning:
   - 6.1.0.Beta3
   - 6.1.0.Final
   - 6.2.0.Beta1
-  lastUpdated: 20220908220916
+  - 6.2.0.Final
+  lastUpdated: 20220923163730
