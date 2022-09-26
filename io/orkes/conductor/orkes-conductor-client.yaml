@@ -3,10 +3,12 @@
 groupId: io.orkes.conductor
 artifactId: orkes-conductor-client
 versioning:
-  latest: 1.0.2
-  release: 1.0.2
+  latest: 1.0.4
+  release: 1.0.4
   versions:
   - v1.0.1
+  - v1.0.3
+  - v1.0.4-rc1
   - 0.1.4
   - 0.1.5
   - 0.1.6
@@ -16,4 +18,6 @@ versioning:
   - 0.9.0
   - 0.9.9
   - 1.0.2
-  lastUpdated: 20220920001614
+  - 1.0.4-rc2
+  - 1.0.4
+  lastUpdated: 20220925224837
