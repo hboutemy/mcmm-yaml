@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-jackson-protobuf-deployment
 versioning:
-  latest: 2.12.0
-  release: 2.12.0
+  latest: 2.13.0
+  release: 2.13.0
   versions:
   - 2.0.0-M1
   - 2.0.0-M2
@@ -25,4 +25,5 @@ versioning:
   - 2.10.0
   - 2.11.0
   - 2.12.0
-  lastUpdated: 20220829150012
+  - 2.13.0
+  lastUpdated: 20220926090705

@@ -3,8 +3,8 @@
 groupId: com.lightbend.akka.grpc
 artifactId: akka-grpc-interop-tests_2.13
 versioning:
-  latest: 2.1.6
-  release: 2.1.6
+  latest: 2.2.0-M1
+  release: 2.2.0-M1
   versions:
   - 0.7.1
   - 0.7.2
@@ -25,4 +25,5 @@ versioning:
   - 2.1.4
   - 2.1.5
   - 2.1.6
-  lastUpdated: 20220902101622
+  - 2.2.0-M1
+  lastUpdated: 20220926082752

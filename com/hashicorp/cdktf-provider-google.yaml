@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf-provider-google
 versioning:
-  latest: 2.0.36
-  release: 2.0.36
+  latest: 2.0.38
+  release: 2.0.38
   versions:
   - 0.3.11
   - 0.3.12
@@ -516,4 +516,6 @@ versioning:
   - 2.0.34
   - 2.0.35
   - 2.0.36
-  lastUpdated: 20220925005355
+  - 2.0.37
+  - 2.0.38
+  lastUpdated: 20220926100901
