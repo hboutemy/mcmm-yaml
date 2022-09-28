@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-cassandra
 versioning:
-  latest: 0.712.0
-  release: 0.712.0
+  latest: 0.713.0
+  release: 0.713.0
   versions:
   - 0.311.7
   - 0.312.2-rc2
@@ -476,4 +476,5 @@ versioning:
   - 0.708.0
   - 0.711.0
   - 0.712.0
-  lastUpdated: 20220926182048
+  - 0.713.0
+  lastUpdated: 20220927124025

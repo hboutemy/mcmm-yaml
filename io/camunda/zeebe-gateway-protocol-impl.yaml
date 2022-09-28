@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-gateway-protocol-impl
 versioning:
-  latest: 8.1.0-alpha5
-  release: 8.1.0-alpha5
+  latest: 8.1.0-rc1
+  release: 8.1.0-rc1
   versions:
   - 1.0.0-rc1
   - 1.0.0-rc2
@@ -74,4 +74,6 @@ versioning:
   - 8.1.0-alpha3
   - 8.1.0-alpha4
   - 8.1.0-alpha5
-  lastUpdated: 20220906093359
+  - 8.1.0-rc
+  - 8.1.0-rc1
+  lastUpdated: 20220927135042
