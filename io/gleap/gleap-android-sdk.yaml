@@ -3,8 +3,8 @@
 groupId: io.gleap
 artifactId: gleap-android-sdk
 versioning:
-  latest: 8.0.1
-  release: 8.0.1
+  latest: 8.0.3-FlutterFix
+  release: 8.0.3-FlutterFix
   versions:
   - 6.0.0
   - 6.0.2
@@ -104,6 +104,7 @@ versioning:
   - 7.0.37-Material
   - 7.0.37-Material-Noon
   - 7.0.38-Material-Noon
+  - 7.0.39-Material-Noon
   - 8.0.0-Beta
   - 8.0.0-Beta2
   - 8.0.0-Beta3
@@ -112,7 +113,11 @@ versioning:
   - 8.0.0-Beta6
   - 8.0.0-Beta7
   - 8.0.0-Beta8
+  - 8.0.0-Beta9
   - 8.0.0
   - 8.0.0-Bubblefix
   - 8.0.1
-  lastUpdated: 20220927161148
+  - 8.0.2
+  - 8.0.3
+  - 8.0.3-FlutterFix
+  lastUpdated: 20220928160617

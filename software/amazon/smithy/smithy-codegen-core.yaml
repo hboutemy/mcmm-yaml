@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.smithy
 artifactId: smithy-codegen-core
 versioning:
-  latest: 1.25.1
-  release: 1.25.1
+  latest: 1.25.2
+  release: 1.25.2
   versions:
   - 0.8.0
   - 0.9.0
@@ -68,4 +68,5 @@ versioning:
   - 1.24.0
   - 1.25.0
   - 1.25.1
-  lastUpdated: 20220923152418
+  - 1.25.2
+  lastUpdated: 20220928180236

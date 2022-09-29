@@ -3,8 +3,8 @@
 groupId: io.realm
 artifactId: realm-android-kotlin-extensions
 versioning:
-  latest: 10.12.0
-  release: 10.12.0
+  latest: 10.12.0-transformer-api
+  release: 10.12.0-transformer-api
   versions:
   - 10.4.0-RC.1
   - 10.4.0
@@ -24,4 +24,5 @@ versioning:
   - 10.11.0
   - 10.11.1
   - 10.12.0
-  lastUpdated: 20220922131732
+  - 10.12.0-transformer-api
+  lastUpdated: 20220928131856
