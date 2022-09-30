@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf-provider-opentelekomcloud
 versioning:
-  latest: 2.0.76
-  release: 2.0.76
+  latest: 2.0.79
+  release: 2.0.79
   versions:
   - 0.0.1
   - 0.0.2
@@ -480,4 +480,7 @@ versioning:
   - 2.0.74
   - 2.0.75
   - 2.0.76
-  lastUpdated: 20220928005011
+  - 2.0.77
+  - 2.0.78
+  - 2.0.79
+  lastUpdated: 20220929214526

@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-civicinfo
 versioning:
-  latest: v2-rev20220823-2.0.0
-  release: v2-rev20220823-2.0.0
+  latest: v2-rev20220928-2.0.0
+  release: v2-rev20220928-2.0.0
   versions:
   - v2-rev20201012-1.31.5
   - v2-rev20210629-1.31.5
@@ -15,6 +15,7 @@ versioning:
   - v2-rev20220516-1.32.1
   - v2-rev20220516-2.0.0
   - v2-rev20220823-2.0.0
+  - v2-rev20220928-2.0.0
   - us_v1-rev12-1.13.2-beta
   - us_v1-rev12-1.14.1-beta
   - us_v1-rev14-1.13.2-beta
@@ -438,4 +439,4 @@ versioning:
   - v2-rev9-1.19.0
   - v2-rev9-1.19.1
   - v2-rev9-1.20.0
-  lastUpdated: 20220825080417
+  lastUpdated: 20220929080555

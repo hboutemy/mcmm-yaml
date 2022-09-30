@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-styled
 versioning:
-  latest: 5.3.5-pre.392
-  release: 5.3.5-pre.392
+  latest: 5.3.5-pre.394-compat
+  release: 5.3.5-pre.394-compat
   versions:
   - 5.3.0-pre.202-kotlin-1.5.0
   - 5.3.0-pre.203-kotlin-1.5.0
@@ -213,4 +213,7 @@ versioning:
   - 5.3.5-pre.390
   - 5.3.5-pre.391
   - 5.3.5-pre.392
-  lastUpdated: 20220927072854
+  - 5.3.5-pre.393
+  - 5.3.5-pre.394
+  - 5.3.5-pre.394-compat
+  lastUpdated: 20220929185856

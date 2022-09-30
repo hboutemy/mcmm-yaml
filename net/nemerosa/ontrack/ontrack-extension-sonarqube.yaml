@@ -3,8 +3,8 @@
 groupId: net.nemerosa.ontrack
 artifactId: ontrack-extension-sonarqube
 versioning:
-  latest: 4.3.12
-  release: 4.3.12
+  latest: 4.3.13
+  release: 4.3.13
   versions:
   - feature-732-back-to-central-5e58285
   - feature-735-ui-publication-7c8bc12
@@ -278,6 +278,7 @@ versioning:
   - 4.2.35
   - 4.2.36
   - 4.2.37
+  - 4.2.38
   - 4.3-beta.0
   - 4.3-beta.1
   - 4.3.0
@@ -293,4 +294,5 @@ versioning:
   - 4.3.10
   - 4.3.11
   - 4.3.12
-  lastUpdated: 20220925081152
+  - 4.3.13
+  lastUpdated: 20220929191049

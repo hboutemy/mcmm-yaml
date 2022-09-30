@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.rendering
 artifactId: xwiki-rendering-syntax-apt
 versioning:
-  latest: 14.8-rc-1
-  release: 14.8-rc-1
+  latest: 14.8
+  release: 14.8
   versions:
   - 4.3-milestone-1
   - 4.3-milestone-2
@@ -363,4 +363,5 @@ versioning:
   - 14.7-rc-1
   - 14.7
   - 14.8-rc-1
-  lastUpdated: 20220915073159
+  - 14.8
+  lastUpdated: 20220929145846

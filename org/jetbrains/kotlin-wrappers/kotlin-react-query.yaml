@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-react-query
 versioning:
-  latest: 3.39.2-pre.392
-  release: 3.39.2-pre.392
+  latest: 3.39.2-pre.394-compat
+  release: 3.39.2-pre.394-compat
   versions:
   - 3.18.1-pre.215-kotlin-1.5.20
   - 3.18.1-pre.216-kotlin-1.5.20
@@ -196,4 +196,7 @@ versioning:
   - 3.39.2-pre.390
   - 3.39.2-pre.391
   - 3.39.2-pre.392
-  lastUpdated: 20220927072840
+  - 3.39.2-pre.393
+  - 3.39.2-pre.394
+  - 3.39.2-pre.394-compat
+  lastUpdated: 20220929185829

@@ -3,8 +3,8 @@
 groupId: com.avast.clients.rabbitmq
 artifactId: rabbitmq-client-extras-scalapb_2.13
 versioning:
-  latest: 9.2.0-testing3
-  release: 9.2.0-testing3
+  latest: 9.3.0
+  release: 9.3.0
   versions:
   - untagged-07877868007dd359bc82
   - v9.0.0-beta
@@ -29,4 +29,5 @@ versioning:
   - 9.2.0-testing
   - 9.2.0-testing2
   - 9.2.0-testing3
-  lastUpdated: 20220826075444
+  - 9.3.0
+  lastUpdated: 20220929103827
