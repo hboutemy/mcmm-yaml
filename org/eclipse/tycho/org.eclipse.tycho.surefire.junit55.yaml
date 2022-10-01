@@ -3,8 +3,8 @@
 groupId: org.eclipse.tycho
 artifactId: org.eclipse.tycho.surefire.junit55
 versioning:
-  latest: 2.7.5
-  release: 2.7.5
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 1.7.0
   - 2.0.0
@@ -20,4 +20,5 @@ versioning:
   - 2.7.3
   - 2.7.4
   - 2.7.5
-  lastUpdated: 20220905092345
+  - 3.0.0
+  lastUpdated: 20220930080602

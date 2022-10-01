@@ -3,8 +3,8 @@
 groupId: io.stargate.config-store
 artifactId: config-store-api
 versioning:
-  latest: 2.0.0-BETA-2
-  release: 2.0.0-BETA-2
+  latest: 2.0.0-BETA-3
+  release: 2.0.0-BETA-3
   versions:
   - 0.0.20
   - 0.0.21
@@ -80,6 +80,7 @@ versioning:
   - 1.0.63
   - 1.0.64
   - 1.0.65
+  - 1.0.66
   - 2.0.0-ALPHA-1
   - 2.0.0-ALPHA-2
   - 2.0.0-ALPHA-3
@@ -99,4 +100,5 @@ versioning:
   - 2.0.0-ALPHA-17
   - 2.0.0-BETA-1
   - 2.0.0-BETA-2
-  lastUpdated: 20220921111208
+  - 2.0.0-BETA-3
+  lastUpdated: 20220930203452
