@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-instrumentation-spring-rabbit
 versioning:
-  latest: 5.14.0
-  release: 5.14.0
+  latest: 5.14.1
+  release: 5.14.1
   versions:
   - 4.17.1
   - 4.17.2
@@ -82,4 +82,5 @@ versioning:
   - 5.13.10
   - 5.13.11
   - 5.14.0
-  lastUpdated: 20220910192507
+  - 5.14.1
+  lastUpdated: 20221001132424

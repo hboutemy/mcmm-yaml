@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-tanstack-virtual-core
 versioning:
-  latest: 3.0.0-beta.18-pre.396
-  release: 3.0.0-beta.18-pre.396
+  latest: 3.0.0-beta.18-pre.397-compat
+  release: 3.0.0-beta.18-pre.397-compat
   versions:
   - 3.0.0-alpha.1-pre.360
   - 3.0.0-beta.13-pre.361
@@ -48,4 +48,6 @@ versioning:
   - 3.0.0-beta.18-pre.394-compat
   - 3.0.0-beta.18-pre.395
   - 3.0.0-beta.18-pre.396
-  lastUpdated: 20220930140625
+  - 3.0.0-beta.18-pre.397
+  - 3.0.0-beta.18-pre.397-compat
+  lastUpdated: 20221001073843
