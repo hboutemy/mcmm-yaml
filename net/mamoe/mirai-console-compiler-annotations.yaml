@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: net.mamoe
 artifactId: mirai-console-compiler-annotations
 versioning:
-  latest: 2.13.0-M1
-  release: 2.13.0-M1
+  latest: 2.13.0-RC
+  release: 2.13.0-RC
   versions:
   - 2.4-M1-dev-publish-3
   - 2.4-RC
@@ -87,5 +87,6 @@ versioning:
   - 2.12.2
   - 2.12.3
   - 2.13.0-M1
+  - 2.13.0-RC
   - 2.8-M1
-  lastUpdated: 20220912041734
+  lastUpdated: 20221003085631

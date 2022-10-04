@@ -3,8 +3,8 @@
 groupId: org.wildfly.plugins
 artifactId: wildfly-jar-maven-plugin-memory-tests
 versioning:
-  latest: 8.0.0.Final
-  release: 8.0.0.Final
+  latest: 8.0.1.Final
+  release: 8.0.1.Final
   versions:
   - 2.0.0.Beta6
   - 2.0.0.Beta7
@@ -41,4 +41,5 @@ versioning:
   - 8.0.0.Alpha2
   - 8.0.0.Alpha3
   - 8.0.0.Final
-  lastUpdated: 20220906133727
+  - 8.0.1.Final
+  lastUpdated: 20221003090226
