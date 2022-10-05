@@ -3,13 +3,14 @@
 groupId: org.glassfish.tyrus.tests
 artifactId: tyrus-tests-project
 versioning:
-  latest: 2.1.0
-  release: 2.1.0
+  latest: 2.1.1
+  release: 2.1.1
   versions:
   - 1.16
   - 1.17
   - 1.18
   - 1.19
+  - 1.20
   - 2.0.0-M1
   - 2.0.0-M2
   - 2.0.0-M3
@@ -23,6 +24,7 @@ versioning:
   - 2.1.0-M2
   - 2.1.0-M4
   - 2.1.0
+  - 2.1.1
   - 1.0
   - 1.0-b07
   - 1.0-b08
@@ -61,4 +63,4 @@ versioning:
   - 1.8.2
   - 1.8.3
   - 1.9
-  lastUpdated: 20220722064652
+  lastUpdated: 20221004132340

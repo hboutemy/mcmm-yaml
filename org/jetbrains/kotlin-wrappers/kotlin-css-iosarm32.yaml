@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-css-iosarm32
 versioning:
-  latest: 1.0.0-pre.398
-  release: 1.0.0-pre.398
+  latest: 1.0.0-pre.399-compat
+  release: 1.0.0-pre.399-compat
   versions:
   - 1.0.0-pre.202-kotlin-1.5.0
   - 1.0.0-pre.203-kotlin-1.5.0
@@ -221,4 +221,6 @@ versioning:
   - 1.0.0-pre.397
   - 1.0.0-pre.397-compat
   - 1.0.0-pre.398
-  lastUpdated: 20221003071515
+  - 1.0.0-pre.399
+  - 1.0.0-pre.399-compat
+  lastUpdated: 20221004072916

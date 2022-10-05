@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-tanstack-react-query
 versioning:
-  latest: 4.9.0-pre.398
-  release: 4.9.0-pre.398
+  latest: 4.9.0-pre.399-compat
+  release: 4.9.0-pre.399-compat
   versions:
   - 4.2.1-pre.371
   - 4.2.1-pre.372
@@ -38,4 +38,6 @@ versioning:
   - 4.8.0-pre.397
   - 4.8.0-pre.397-compat
   - 4.9.0-pre.398
-  lastUpdated: 20221003071624
+  - 4.9.0-pre.399
+  - 4.9.0-pre.399-compat
+  lastUpdated: 20221004073130
