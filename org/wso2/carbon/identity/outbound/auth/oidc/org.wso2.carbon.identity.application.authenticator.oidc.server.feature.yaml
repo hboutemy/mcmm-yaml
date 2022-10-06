@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.identity.outbound.auth.oidc
 artifactId: org.wso2.carbon.identity.application.authenticator.oidc.server.feature
 versioning:
-  latest: 5.11.0
-  release: 5.11.0
+  latest: 5.11.1
+  release: 5.11.1
   versions:
   - 5.1.5
   - 5.1.6
@@ -70,4 +70,5 @@ versioning:
   - 5.10.0
   - 5.10.1
   - 5.11.0
-  lastUpdated: 20221004142937
+  - 5.11.1
+  lastUpdated: 20221005115338
