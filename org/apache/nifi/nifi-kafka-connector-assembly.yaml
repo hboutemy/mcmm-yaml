@@ -3,8 +3,8 @@
 groupId: org.apache.nifi
 artifactId: nifi-kafka-connector-assembly
 versioning:
-  latest: 1.17.0
-  release: 1.17.0
+  latest: 1.18.0
+  release: 1.18.0
   versions:
   - 1.13.0
   - 1.13.1
@@ -19,4 +19,5 @@ versioning:
   - 1.16.2
   - 1.16.3
   - 1.17.0
-  lastUpdated: 20220801203928
+  - 1.18.0
+  lastUpdated: 20221006212820
