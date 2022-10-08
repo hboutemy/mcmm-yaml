@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.extension.identity.authenticator.outbound.totp
 artifactId: org.wso2.carbon.extension.identity.authenticator.totp.endpoint
 versioning:
-  latest: 2.1.289
-  release: 2.1.289
+  latest: 2.1.341
+  release: 2.1.341
   versions:
   - 2.0.2
   - 2.0.3
@@ -22,6 +22,7 @@ versioning:
   - 2.0.15
   - 2.0.21
   - 2.0.22
+  - 2.0.25
   - 2.1.5
   - 2.1.6
   - 2.1.10
@@ -304,4 +305,4 @@ versioning:
   - 2.1.287
   - 2.1.288
   - 2.1.289
-  lastUpdated: 20220119150236
+  lastUpdated: 20221007054702
