@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf-provider-pagerduty
 versioning:
-  latest: 3.0.5
-  release: 3.0.5
+  latest: 3.0.6
+  release: 3.0.6
   versions:
   - 0.0.7
   - 0.0.8
@@ -628,4 +628,5 @@ versioning:
   - 3.0.3
   - 3.0.4
   - 3.0.5
-  lastUpdated: 20221007001822
+  - 3.0.6
+  lastUpdated: 20221008001606
