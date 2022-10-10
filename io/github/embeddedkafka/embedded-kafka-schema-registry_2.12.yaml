@@ -3,8 +3,8 @@
 groupId: io.github.embeddedkafka
 artifactId: embedded-kafka-schema-registry_2.12
 versioning:
-  latest: 7.2.0
-  release: 7.2.0
+  latest: 7.2.2
+  release: 7.2.2
   versions:
   - 5.1.0
   - 5.1.1
@@ -37,4 +37,6 @@ versioning:
   - 7.1.1
   - 7.1.2
   - 7.2.0
-  lastUpdated: 20220722145806
+  - 7.2.1
+  - 7.2.2
+  lastUpdated: 20221009214500
