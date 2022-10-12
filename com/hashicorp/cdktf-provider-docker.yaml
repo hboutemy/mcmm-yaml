@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf-provider-docker
 versioning:
-  latest: 3.0.9
-  release: 3.0.9
+  latest: 3.0.10
+  release: 3.0.10
   versions:
   - 0.3.11
   - 0.3.12
@@ -614,4 +614,5 @@ versioning:
   - 3.0.7
   - 3.0.8
   - 3.0.9
-  lastUpdated: 20221010112929
+  - 3.0.10
+  lastUpdated: 20221011001704

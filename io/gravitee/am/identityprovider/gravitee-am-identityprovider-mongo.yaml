@@ -3,8 +3,8 @@
 groupId: io.gravitee.am.identityprovider
 artifactId: gravitee-am-identityprovider-mongo
 versioning:
-  latest: 3.19.0-RC1
-  release: 3.19.0-RC1
+  latest: 3.19.0
+  release: 3.19.0
   versions:
   - 1.6.0
   - 1.6.1
@@ -202,4 +202,5 @@ versioning:
   - 3.18.7
   - 3.18.8
   - 3.19.0-RC1
-  lastUpdated: 20221005145448
+  - 3.19.0
+  lastUpdated: 20221011115402

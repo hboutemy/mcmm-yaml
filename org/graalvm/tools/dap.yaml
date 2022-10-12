@@ -3,8 +3,8 @@
 groupId: org.graalvm.tools
 artifactId: dap
 versioning:
-  latest: 22.2.0
-  release: 22.2.0
+  latest: 22.2.0.1
+  release: 22.2.0.1
   versions:
   - 20.3.0
   - 20.3.1
@@ -16,6 +16,7 @@ versioning:
   - 20.3.6
   - 20.3.6.1
   - 20.3.7
+  - 20.3.7.1
   - 21.0.0
   - 21.0.0.2
   - 21.1.0
@@ -25,9 +26,11 @@ versioning:
   - 21.3.2
   - 21.3.2.1
   - 21.3.3
+  - 21.3.3.1
   - 22.0.0
   - 22.0.0.2
   - 22.1.0
   - 22.1.0.1
   - 22.2.0
-  lastUpdated: 20220719115117
+  - 22.2.0.1
+  lastUpdated: 20221011131844

@@ -3,8 +3,8 @@
 groupId: org.neo4j.community
 artifactId: batch-insert-it
 versioning:
-  latest: 4.4.11
-  release: 4.4.11
+  latest: 4.4.12
+  release: 4.4.12
   versions:
   - 4.0.0-rc01
   - 4.0.0
@@ -72,6 +72,7 @@ versioning:
   - 4.3.16
   - 4.3.17
   - 4.3.18
+  - 4.3.19
   - 4.4.0
   - 4.4.1
   - 4.4.2
@@ -84,4 +85,5 @@ versioning:
   - 4.4.9
   - 4.4.10
   - 4.4.11
-  lastUpdated: 20220905144035
+  - 4.4.12
+  lastUpdated: 20221011102245
