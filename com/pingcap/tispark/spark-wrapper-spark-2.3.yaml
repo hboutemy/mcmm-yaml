@@ -3,8 +3,8 @@
 groupId: com.pingcap.tispark
 artifactId: spark-wrapper-spark-2.3
 versioning:
-  latest: 2.4.4-scala_2.11-RC1
-  release: 2.4.4-scala_2.11-RC1
+  latest: 2.4.4-scala_2.11
+  release: 2.4.4-scala_2.11
   versions:
   - 2.2.0
   - 2.3.0-rc
@@ -29,5 +29,7 @@ versioning:
   - 2.4.0
   - 2.4.1
   - 2.4.3-scala_2.11
+  - 2.4.4-scala_2.11-RC
   - 2.4.4-scala_2.11-RC1
-  lastUpdated: 20221012015314
+  - 2.4.4-scala_2.11
+  lastUpdated: 20221013070133

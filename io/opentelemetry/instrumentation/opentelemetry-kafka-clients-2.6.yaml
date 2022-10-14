@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.instrumentation
 artifactId: opentelemetry-kafka-clients-2.6
 versioning:
-  latest: 1.18.0-alpha
-  release: 1.18.0-alpha
+  latest: 1.19.0-alpha
+  release: 1.19.0-alpha
   versions:
   - 1.7.0-alpha
   - 1.7.1-alpha
@@ -26,4 +26,5 @@ versioning:
   - 1.16.0-alpha
   - 1.17.0-alpha
   - 1.18.0-alpha
-  lastUpdated: 20220914223924
+  - 1.19.0-alpha
+  lastUpdated: 20221012235039
