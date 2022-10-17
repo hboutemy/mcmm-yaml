@@ -3,11 +3,23 @@
 groupId: com.abavilla
 artifactId: fpi-sms-api
 versioning:
-  latest: 1.0.23-9-a2e223f2-migrate_to_maven_central
-  release: 1.0.23-9-a2e223f2-migrate_to_maven_central
+  latest: 1.1.2-1-75e91dd7
+  release: 1.1.2-1-75e91dd7
   versions:
+  - 1.0.23-1-c75d3cfe-migrate_to_maven_central
+  - 1.0.23-1-9ee7ca2a
+  - 1.0.23-2-82ae36d4-feat_automate_tagging
   - 1.0.23-5-dab7ab40-migrate_to_maven_central
   - 1.0.23-6-d93519e9-migrate_to_maven_central
   - 1.0.23-7-4c3bf551-migrate_to_maven_central
   - 1.0.23-9-a2e223f2-migrate_to_maven_central
-  lastUpdated: 20221015184106
+  - 1.0.23-11-b4691bc8-migrate_to_maven_central
+  - 1.0.23-12-4f4dbefb-migrate_to_maven_central
+  - 1.0.23-20-176524a2-migrate_to_maven_central
+  - 1.0.23-21-67155c17-migrate_to_maven_central
+  - 1.1.0-687ccdc8
+  - 1.1.1
+  - 1.1.1-1-b8f9d9c9-fix_jgitver_versioning
+  - 1.1.2-1-c92f3984-fix_skip_duplicate_older_should_cancel
+  - 1.1.2-1-75e91dd7
+  lastUpdated: 20221016113141
