@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.vaadin
 artifactId: vaadin-archetype-liferay-portlet
 versioning:
-  latest: 14.8.19
-  release: 14.8.19
+  latest: 14.8.20
+  release: 14.8.20
   versions:
   - 7.2.0
   - 7.2.1
@@ -108,6 +108,7 @@ versioning:
   - 7.7.32
   - 7.7.33
   - 7.7.34
+  - 7.7.35
   - 8.0.0
   - 8.0.1
   - 8.0.2
@@ -195,4 +196,5 @@ versioning:
   - 14.8.17
   - 14.8.18
   - 14.8.19
-  lastUpdated: 20221010080519
+  - 14.8.20
+  lastUpdated: 20221017104423

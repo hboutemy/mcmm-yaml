@@ -3,8 +3,8 @@
 groupId: org.sonarsource.sonarqube
 artifactId: sonar-scanner-engine
 versioning:
-  latest: 9.6.1.59531
-  release: 9.6.1.59531
+  latest: 9.7.0.61563
+  release: 9.7.0.61563
   versions:
   - 5.5-RC1
   - 5.5-RC2
@@ -111,4 +111,5 @@ versioning:
   - 9.5.0.56709
   - 9.6.0.59041
   - 9.6.1.59531
-  lastUpdated: 20220829092843
+  - 9.7.0.61563
+  lastUpdated: 20221017073339

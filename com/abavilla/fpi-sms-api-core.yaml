@@ -3,8 +3,8 @@
 groupId: com.abavilla
 artifactId: fpi-sms-api-core
 versioning:
-  latest: 1.1.2-1-75e91dd7
-  release: 1.1.2-1-75e91dd7
+  latest: 1.1.5
+  release: 1.1.5
   versions:
   - 1.0.23-1-c75d3cfe-migrate_to_maven_central
   - 1.0.23-1-9ee7ca2a
@@ -20,6 +20,9 @@ versioning:
   - 1.1.0-687ccdc8
   - 1.1.1
   - 1.1.1-1-b8f9d9c9-fix_jgitver_versioning
+  - 1.1.2
   - 1.1.2-1-c92f3984-fix_skip_duplicate_older_should_cancel
   - 1.1.2-1-75e91dd7
-  lastUpdated: 20221016113142
+  - 1.1.3
+  - 1.1.5
+  lastUpdated: 20221017193357
