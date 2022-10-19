@@ -3,8 +3,8 @@
 groupId: org.jboss.windup
 artifactId: windup-openshift-parent
 versioning:
-  latest: 6.0.0.Final
-  release: 6.0.0.Final
+  latest: 6.1.0.Alpha1
+  release: 6.1.0.Alpha1
   versions:
   - 4.1.0.Alpha5
   - 4.1.0.Final
@@ -48,4 +48,5 @@ versioning:
   - 6.0.0.Alpha1
   - 6.0.0.Alpha2
   - 6.0.0.Final
-  lastUpdated: 20220809164820
+  - 6.1.0.Alpha1
+  lastUpdated: 20221018130241

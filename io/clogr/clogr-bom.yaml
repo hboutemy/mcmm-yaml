@@ -1,11 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: io.clogr
 artifactId: clogr-bom
 versioning:
-  latest: 0.8.2
-  release: 0.8.2
+  latest: 0.8.3
+  release: 0.8.3
   versions:
   - 0.8.1
   - 0.8.2
-  lastUpdated: 20220920025414
+  - 0.8.3
+  lastUpdated: 20221018182200

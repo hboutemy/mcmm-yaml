@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.windup.jdt
 artifactId: windup-eclipse-jdt
 versioning:
-  latest: 6.0.0.Final
-  release: 6.0.0.Final
+  latest: 6.1.0.Alpha1
+  release: 6.1.0.Alpha1
   versions:
   - 2.4.0.CR1
   - 2.4.0.CR2
@@ -70,4 +70,5 @@ versioning:
   - 6.0.0.Alpha1
   - 6.0.0.Alpha2
   - 6.0.0.Final
-  lastUpdated: 20220809164453
+  - 6.1.0.Alpha1
+  lastUpdated: 20221018125519

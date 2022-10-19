@@ -3,8 +3,8 @@
 groupId: com.typesafe.akka
 artifactId: akka-persistence-cassandra_2.12
 versioning:
-  latest: 1.1.0-M1
-  release: 1.1.0-M1
+  latest: 1.1.0-M2
+  release: 1.1.0-M2
   versions:
   - 0.20
   - 0.21
@@ -76,4 +76,5 @@ versioning:
   - 1.0.5
   - 1.0.6
   - 1.1.0-M1
-  lastUpdated: 20220922054421
+  - 1.1.0-M2
+  lastUpdated: 20221018082327

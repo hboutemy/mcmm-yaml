@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.windup.decompiler
 artifactId: decompiler-api
 versioning:
-  latest: 6.0.0.Final
-  release: 6.0.0.Final
+  latest: 6.1.0.Alpha1
+  release: 6.1.0.Alpha1
   versions:
   - 2.0.0.Beta1
   - 2.0.0.Beta2
@@ -83,4 +83,5 @@ versioning:
   - 6.0.0.Alpha1
   - 6.0.0.Alpha2
   - 6.0.0.Final
-  lastUpdated: 20220809164443
+  - 6.1.0.Alpha1
+  lastUpdated: 20221018125501

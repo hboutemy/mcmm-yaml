@@ -3,8 +3,8 @@
 groupId: org.xwiki.commons
 artifactId: xwiki-commons-pom
 versioning:
-  latest: 14.8
-  release: 14.8
+  latest: 14.9-rc-1
+  release: 14.9-rc-1
   versions:
   - 12.10.11
   - 13.4.6
@@ -41,6 +41,7 @@ versioning:
   - 14.7
   - 14.8-rc-1
   - 14.8
+  - 14.9-rc-1
   - 10.0
   - 10.1
   - 10.1-rc-1
@@ -400,4 +401,4 @@ versioning:
   - 9.9
   - 9.9-rc-1
   - 9.9-rc-2
-  lastUpdated: 20221003102411
+  lastUpdated: 20221018085610
