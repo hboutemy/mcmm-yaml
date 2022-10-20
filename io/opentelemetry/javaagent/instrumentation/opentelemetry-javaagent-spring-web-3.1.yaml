@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-spring-web-3.1
 versioning:
-  latest: 1.19.0-alpha
-  release: 1.19.0-alpha
+  latest: 1.19.1-alpha
+  release: 1.19.1-alpha
   versions:
   - 1.5.0-alpha
   - 1.5.1-alpha
@@ -34,4 +34,5 @@ versioning:
   - 1.17.0-alpha
   - 1.18.0-alpha
   - 1.19.0-alpha
-  lastUpdated: 20221012235752
+  - 1.19.1-alpha
+  lastUpdated: 20221019231348

@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-jaxrs-2.0-resteasy-common
 versioning:
-  latest: 1.19.0-alpha
-  release: 1.19.0-alpha
+  latest: 1.19.1-alpha
+  release: 1.19.1-alpha
   versions:
   - 1.2.0-alpha
   - 1.3.0-alpha
@@ -39,4 +39,5 @@ versioning:
   - 1.17.0-alpha
   - 1.18.0-alpha
   - 1.19.0-alpha
-  lastUpdated: 20221012235416
+  - 1.19.1-alpha
+  lastUpdated: 20221019230840
