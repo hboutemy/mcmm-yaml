@@ -3,8 +3,8 @@
 groupId: com.yahoo.vespa
 artifactId: standalone-container
 versioning:
-  latest: 8.68.18
-  release: 8.68.18
+  latest: 8.71.9
+  release: 8.71.9
   versions:
   - 6.143.177
   - 6.143.255
@@ -598,4 +598,6 @@ versioning:
   - 8.66.20
   - 8.67.17
   - 8.68.18
-  lastUpdated: 20221013193029
+  - 8.70.31
+  - 8.71.9
+  lastUpdated: 20221020223940

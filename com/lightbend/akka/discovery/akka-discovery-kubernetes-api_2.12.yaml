@@ -3,8 +3,8 @@
 groupId: com.lightbend.akka.discovery
 artifactId: akka-discovery-kubernetes-api_2.12
 versioning:
-  latest: 1.2.0-M2
-  release: 1.2.0-M2
+  latest: 1.2.0
+  release: 1.2.0
   versions:
   - 0.7.1
   - 0.8.0
@@ -43,4 +43,5 @@ versioning:
   - 1.1.4
   - 1.2.0-M1
   - 1.2.0-M2
-  lastUpdated: 20221017111117
+  - 1.2.0
+  lastUpdated: 20221020065930
