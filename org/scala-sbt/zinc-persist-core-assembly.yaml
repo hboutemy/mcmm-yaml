@@ -3,8 +3,8 @@
 groupId: org.scala-sbt
 artifactId: zinc-persist-core-assembly
 versioning:
-  latest: 2.0.0-alpha3
-  release: 2.0.0-alpha3
+  latest: 2.0.0-alpha5
+  release: 2.0.0-alpha5
   versions:
   - 1.4.0-M7
   - 1.4.0-M8
@@ -44,4 +44,6 @@ versioning:
   - 2.0.0-alpha1
   - 2.0.0-alpha2
   - 2.0.0-alpha3
-  lastUpdated: 20221018042259
+  - 2.0.0-alpha4
+  - 2.0.0-alpha5
+  lastUpdated: 20221022204020
