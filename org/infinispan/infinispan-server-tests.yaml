@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-server-tests
 versioning:
-  latest: 14.0.1.Final
-  release: 14.0.1.Final
+  latest: 14.0.2.Final
+  release: 14.0.2.Final
   versions:
   - 10.1.4.Final
   - 10.1.5.Final
@@ -85,5 +85,6 @@ versioning:
   - 14.0.0.Dev03
   - 14.0.0.Dev04
   - 14.0.1.Final
+  - 14.0.2.Final
   - 12.0.0.Dev03
-  lastUpdated: 20221017163729
+  lastUpdated: 20221024122137
