@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-resteasy-mutiny-common-deployment
 versioning:
-  latest: 2.13.3.Final
-  release: 2.13.3.Final
+  latest: 3.0.0.Alpha1
+  release: 3.0.0.Alpha1
   versions:
   - 1.9.0.CR1
   - 1.9.0.Final
@@ -120,4 +120,5 @@ versioning:
   - 2.13.1.Final
   - 2.13.2.Final
   - 2.13.3.Final
-  lastUpdated: 20221019110013
+  - 3.0.0.Alpha1
+  lastUpdated: 20221025180159

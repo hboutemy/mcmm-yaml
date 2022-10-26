@@ -3,8 +3,8 @@
 groupId: com.nvidia
 artifactId: rapids-4-spark_2.12
 versioning:
-  latest: 22.08.0
-  release: 22.08.0
+  latest: 22.10.0
+  release: 22.10.0
   versions:
   - 0.1.0
   - 0.1.0-databricks
@@ -23,4 +23,5 @@ versioning:
   - 22.04.0
   - 22.06.0
   - 22.08.0
-  lastUpdated: 20220830014901
+  - 22.10.0
+  lastUpdated: 20221025012307
