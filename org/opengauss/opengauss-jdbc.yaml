@@ -3,10 +3,11 @@
 groupId: org.opengauss
 artifactId: opengauss-jdbc
 versioning:
-  latest: 3.1.0
-  release: 3.1.0
+  latest: 3.1.0-og
+  release: 3.1.0-og
   versions:
   - 2.0.1-compatibility
   - 3.0.0
   - 3.1.0
-  lastUpdated: 20220930071907
+  - 3.1.0-og
+  lastUpdated: 20221026134601

@@ -3,8 +3,8 @@
 groupId: io.trino
 artifactId: trino-clickhouse
 versioning:
-  latest: 400
-  release: 400
+  latest: 401
+  release: 401
   versions:
   - 353
   - 354
@@ -54,4 +54,5 @@ versioning:
   - 398
   - 399
   - 400
-  lastUpdated: 20221013222941
+  - 401
+  lastUpdated: 20221026233039

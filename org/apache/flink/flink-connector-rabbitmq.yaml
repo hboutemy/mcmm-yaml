@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-connector-rabbitmq
 versioning:
-  latest: 1.15.2
-  release: 1.15.2
+  latest: 1.16.0
+  release: 1.16.0
   versions:
   - 0.9.0
   - 0.9.0-hadoop1
@@ -19,4 +19,5 @@ versioning:
   - 1.15.0
   - 1.15.1
   - 1.15.2
-  lastUpdated: 20220823122422
+  - 1.16.0
+  lastUpdated: 20221026091011

@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-optimizer
 versioning:
-  latest: 1.15.2
-  release: 1.15.2
+  latest: 1.16.0
+  release: 1.16.0
   versions:
   - 0.9.0-milestone-1
   - 0.9.0-milestone-1-hadoop1
@@ -28,4 +28,5 @@ versioning:
   - 1.15.0
   - 1.15.1
   - 1.15.2
-  lastUpdated: 20220927023733
+  - 1.16.0
+  lastUpdated: 20221026091043

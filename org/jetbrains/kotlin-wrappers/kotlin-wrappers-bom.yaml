@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-wrappers-bom
 versioning:
-  latest: 1.0.0-pre.413
-  release: 1.0.0-pre.413
+  latest: 1.0.0-pre.414-compat
+  release: 1.0.0-pre.414-compat
   versions:
   - 0.0.1-pre.213-kotlin-1.5.10
   - 0.0.1-pre.213-kotlin-1.5.20
@@ -223,4 +223,6 @@ versioning:
   - 1.0.0-pre.411
   - 1.0.0-pre.412
   - 1.0.0-pre.413
-  lastUpdated: 20221023075659
+  - 1.0.0-pre.414
+  - 1.0.0-pre.414-compat
+  lastUpdated: 20221026090752

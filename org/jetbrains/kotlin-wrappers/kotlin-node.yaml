@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-node
 versioning:
-  latest: 18.11.3-pre.413
-  release: 18.11.3-pre.413
+  latest: 18.11.5-pre.414-compat
+  release: 18.11.5-pre.414-compat
   versions:
   - 17.0.16-pre.295-kotlin-1.6.10
   - 17.0.16-pre.296-kotlin-1.6.10
@@ -140,4 +140,6 @@ versioning:
   - 18.11.2-pre.411
   - 18.11.2-pre.412
   - 18.11.3-pre.413
-  lastUpdated: 20221023075529
+  - 18.11.5-pre.414
+  - 18.11.5-pre.414-compat
+  lastUpdated: 20221026090602
