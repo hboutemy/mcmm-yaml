@@ -3,9 +3,10 @@
 groupId: com.saucelabs
 artifactId: ci-sauce
 versioning:
-  latest: 1.161
-  release: 1.161
+  latest: 1.163
+  release: 1.163
   versions:
+  - v0.1.0-rc1
   - 1.75
   - 1.76
   - 1.78
@@ -89,4 +90,6 @@ versioning:
   - 1.158
   - 1.159
   - 1.161
-  lastUpdated: 20220802175226
+  - 1.162
+  - 1.163
+  lastUpdated: 20221027143818

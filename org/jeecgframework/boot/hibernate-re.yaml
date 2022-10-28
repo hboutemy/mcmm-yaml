@@ -3,8 +3,8 @@
 groupId: org.jeecgframework.boot
 artifactId: hibernate-re
 versioning:
-  latest: 3.4.3-beta
-  release: 3.4.3-beta
+  latest: 3.4.3-GA
+  release: 3.4.3-GA
   versions:
   - 2.4.2
   - 2.4.3-RC
@@ -20,4 +20,5 @@ versioning:
   - 3.2.1-beta
   - 3.2.2
   - 3.4.3-beta
-  lastUpdated: 20221018092723
+  - 3.4.3-GA
+  lastUpdated: 20221027050721

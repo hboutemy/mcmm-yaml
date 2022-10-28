@@ -3,8 +3,8 @@
 groupId: io.quarkus.platform
 artifactId: quarkus-cassandra-parent
 versioning:
-  latest: 2.13.3.Final
-  release: 2.13.3.Final
+  latest: 2.14.0.CR1
+  release: 2.14.0.CR1
   versions:
   - 2.0.0.Final
   - 2.0.1.Final
@@ -76,4 +76,5 @@ versioning:
   - 2.13.1.Final
   - 2.13.2.Final
   - 2.13.3.Final
-  lastUpdated: 20221019142443
+  - 2.14.0.CR1
+  lastUpdated: 20221027142418
