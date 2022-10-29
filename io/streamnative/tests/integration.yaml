@@ -3,8 +3,8 @@
 groupId: io.streamnative.tests
 artifactId: integration
 versioning:
-  latest: 4.14.5.1-arrowstreet
-  release: 4.14.5.1-arrowstreet
+  latest: 4.14.5.1-iterable
+  release: 4.14.5.1-iterable
   versions:
   - v2.8.0-rc-202106091140
   - v2.8.0-rc-202106121853
@@ -549,4 +549,5 @@ versioning:
   - 2.11.0-rc-202205082205
   - 4.14.3.1
   - 4.14.5.1-arrowstreet
-  lastUpdated: 20221026164129
+  - 4.14.5.1-iterable
+  lastUpdated: 20221028141242
