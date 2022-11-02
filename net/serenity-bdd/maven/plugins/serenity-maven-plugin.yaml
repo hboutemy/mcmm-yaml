@@ -3,8 +3,8 @@
 groupId: net.serenity-bdd.maven.plugins
 artifactId: serenity-maven-plugin
 versioning:
-  latest: 3.3.9-RC2
-  release: 3.3.9-RC2
+  latest: 3.3.10
+  release: 3.3.10
   versions:
   - 1.0.6
   - 1.0.7
@@ -372,6 +372,9 @@ versioning:
   - 3.3.7
   - 3.3.8
   - 3.3.9-RC2
+  - 3.3.9-RC3
+  - 3.3.9
+  - 3.3.10
   - 1.0.51
   - 1.0.53
   - 1.0.54
@@ -381,4 +384,4 @@ versioning:
   - 2.4.34
   - 2.4.35
   - 2.4.42
-  lastUpdated: 20221031193538
+  lastUpdated: 20221101113825

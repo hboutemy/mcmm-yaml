@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-ete-tests
 versioning:
-  latest: 0.744.0
-  release: 0.744.0
+  latest: 0.746.0
+  release: 0.746.0
   versions:
   - 0.311.6
   - 0.311.7
@@ -514,4 +514,6 @@ versioning:
   - 0.743.0
   - 0.744.0-rc1
   - 0.744.0
-  lastUpdated: 20221031143942
+  - 0.745.0
+  - 0.746.0
+  lastUpdated: 20221101152415

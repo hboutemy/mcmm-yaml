@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: rest-api-spec
 versioning:
-  latest: 8.4.3
-  release: 8.4.3
+  latest: 8.5.0
+  release: 8.5.0
   versions:
   - 2.0.0-beta1
   - 2.0.0-beta2
@@ -219,4 +219,5 @@ versioning:
   - 8.4.1
   - 8.4.2
   - 8.4.3
-  lastUpdated: 20221025104944
+  - 8.5.0
+  lastUpdated: 20221101124039
