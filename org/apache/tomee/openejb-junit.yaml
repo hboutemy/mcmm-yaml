@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.apache.tomee
 artifactId: openejb-junit
 versioning:
-  latest: 9.0.0-M8
-  release: 9.0.0-M8
+  latest: 9.0.0.RC1
+  release: 9.0.0.RC1
   versions:
   - 7.0.0-M1
   - 7.0.0-M2
@@ -43,4 +43,5 @@ versioning:
   - 8.0.12
   - 8.0.13
   - 9.0.0-M8
-  lastUpdated: 20221024091023
+  - 9.0.0.RC1
+  lastUpdated: 20221103101805
