@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-dbkvs-hikari
 versioning:
-  latest: 0.749.0-rc1
-  release: 0.749.0-rc1
+  latest: 0.751.0
+  release: 0.751.0
   versions:
   - 0.311.6
   - 0.311.7
@@ -518,4 +518,7 @@ versioning:
   - 0.746.0
   - 0.747.0
   - 0.749.0-rc1
-  lastUpdated: 20221103171721
+  - 0.749.0
+  - 0.750.0
+  - 0.751.0
+  lastUpdated: 20221104142330

@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-browser
 versioning:
-  latest: 0.0.1-pre.424
-  release: 0.0.1-pre.424
+  latest: 0.0.1-pre.425-compat
+  release: 0.0.1-pre.425-compat
   versions:
   - 0.0.1-pre.297-kotlin-1.6.10
   - 0.0.1-pre.298-kotlin-1.6.10
@@ -150,4 +150,6 @@ versioning:
   - 0.0.1-pre.422
   - 0.0.1-pre.423
   - 0.0.1-pre.424
-  lastUpdated: 20221103172441
+  - 0.0.1-pre.425
+  - 0.0.1-pre.425-compat
+  lastUpdated: 20221104155433

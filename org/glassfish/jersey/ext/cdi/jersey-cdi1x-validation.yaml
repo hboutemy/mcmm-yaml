@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.ext.cdi
 artifactId: jersey-cdi1x-validation
 versioning:
-  latest: 3.1.0-M8
-  release: 3.1.0-M8
+  latest: 3.1.0
+  release: 3.1.0
   versions:
   - 2.20
   - 2.21
@@ -63,4 +63,5 @@ versioning:
   - 3.1.0-M3
   - 3.1.0-M7
   - 3.1.0-M8
-  lastUpdated: 20220913104627
+  - 3.1.0
+  lastUpdated: 20221104133004

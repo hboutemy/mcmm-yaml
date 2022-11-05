@@ -3,8 +3,8 @@
 groupId: com.netflix.spectator
 artifactId: spectator-ext-spark
 versioning:
-  latest: 1.3.9
-  release: 1.3.9
+  latest: 1.3.10
+  release: 1.3.10
   versions:
   - 0.21.0
   - 0.22.0
@@ -168,4 +168,5 @@ versioning:
   - 1.3.7
   - 1.3.8
   - 1.3.9
-  lastUpdated: 20221010192223
+  - 1.3.10
+  lastUpdated: 20221104162248

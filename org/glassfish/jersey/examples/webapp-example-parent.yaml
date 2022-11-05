@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.examples
 artifactId: webapp-example-parent
 versioning:
-  latest: 3.1.0-M8
-  release: 3.1.0-M8
+  latest: 3.1.0
+  release: 3.1.0
   versions:
   - 2.0
   - 2.0.1
@@ -93,4 +93,5 @@ versioning:
   - 3.1.0-M3
   - 3.1.0-M7
   - 3.1.0-M8
-  lastUpdated: 20220913104626
+  - 3.1.0
+  lastUpdated: 20221104133002
