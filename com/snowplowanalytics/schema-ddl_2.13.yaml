@@ -3,8 +3,8 @@
 groupId: com.snowplowanalytics
 artifactId: schema-ddl_2.13
 versioning:
-  latest: 0.16.0-rc2
-  release: 0.16.0-rc2
+  latest: 0.16.0-rc8
+  release: 0.16.0-rc8
   versions:
   - 0.11.0
   - 0.12.0-M1
@@ -38,4 +38,9 @@ versioning:
   - 0.15.1
   - 0.16.0-M1
   - 0.16.0-rc2
-  lastUpdated: 20221104224017
+  - 0.16.0-rc3
+  - 0.16.0-rc4
+  - 0.16.0-rc5
+  - 0.16.0-rc7
+  - 0.16.0-rc8
+  lastUpdated: 20221105010159
