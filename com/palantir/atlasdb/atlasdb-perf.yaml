@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-perf
 versioning:
-  latest: 0.752.0
-  release: 0.752.0
+  latest: 0.754.0
+  release: 0.754.0
   versions:
   - 0.311.6
   - 0.311.7
@@ -521,4 +521,6 @@ versioning:
   - 0.750.0
   - 0.751.0
   - 0.752.0
-  lastUpdated: 20221105145418
+  - 0.753.0
+  - 0.754.0
+  lastUpdated: 20221107143045

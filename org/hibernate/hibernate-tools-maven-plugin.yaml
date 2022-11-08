@@ -3,23 +3,25 @@
 groupId: org.hibernate
 artifactId: hibernate-tools-maven-plugin
 versioning:
-  latest: 5.6.2.Final
-  release: 5.6.2.Final
+  latest: 5.6.12.Final
+  release: 5.6.12.Final
   versions:
+  - 5.6.3.Final
+  - 5.6.4.Final
+  - 5.6.5.Final
+  - 5.6.6.Final
+  - 5.6.7.Final
+  - 5.6.8.Final
+  - 5.6.9.Final
+  - 5.6.10.Final
+  - 5.6.11.Final
+  - 5.6.12.Final
   - 5.3.0.Beta2
   - 5.3.0.Beta3
   - 5.3.0.CR1
   - 5.3.0.CR2
   - 5.3.0.Final
   - 5.3.1.Final
-  - 5.3.2.Final
-  - 5.3.3.Final
-  - 5.3.4.Final
-  - 5.3.5.Final
-  - 5.3.6.Final
-  - 5.3.7.Final
-  - 5.3.8.Final
-  - 5.3.9.Final
   - 5.3.10.Final
   - 5.3.11.Final
   - 5.3.12.Final
@@ -30,24 +32,24 @@ versioning:
   - 5.3.17.Final
   - 5.3.18.Final
   - 5.3.19.Final
+  - 5.3.2.Final
   - 5.3.20.Final
   - 5.3.21.Final
   - 5.3.22.Final
   - 5.3.23.Final
   - 5.3.24.Final
   - 5.3.25.Final
+  - 5.3.3.Final
+  - 5.3.4.Final
+  - 5.3.5.Final
+  - 5.3.6.Final
+  - 5.3.7.Final
+  - 5.3.8.Final
+  - 5.3.9.Final
   - 5.4.0.CR1
   - 5.4.0.CR2
   - 5.4.0.Final
   - 5.4.1.Final
-  - 5.4.2.Final
-  - 5.4.3.Final
-  - 5.4.4.Final
-  - 5.4.5.Final
-  - 5.4.6.Final
-  - 5.4.7.Final
-  - 5.4.8.Final
-  - 5.4.9.Final
   - 5.4.10.Final
   - 5.4.11.Final
   - 5.4.12.Final
@@ -58,6 +60,7 @@ versioning:
   - 5.4.17.Final
   - 5.4.18.Final
   - 5.4.19.Final
+  - 5.4.2.Final
   - 5.4.20.Final
   - 5.4.21.Final
   - 5.4.22.Final
@@ -69,10 +72,17 @@ versioning:
   - 5.4.28.Final
   - 5.4.29.Final
   - 5.4.29a.Final
+  - 5.4.3.Final
   - 5.4.30.Final
   - 5.4.31.Final
   - 5.4.32.Final
   - 5.4.33.Final
+  - 5.4.4.Final
+  - 5.4.5.Final
+  - 5.4.6.Final
+  - 5.4.7.Final
+  - 5.4.8.Final
+  - 5.4.9.Final
   - 5.5.0.Alpha1
   - 5.5.0.Beta1
   - 5.5.0.CR1
@@ -91,4 +101,4 @@ versioning:
   - 5.6.0.Final
   - 5.6.1.Final
   - 5.6.2.Final
-  lastUpdated: 20220110095239
+  lastUpdated: 20221107192418
