@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-microprofile-reactive-streams-operators-cdi-provider
 versioning:
-  latest: 27.0.0.Beta1
-  release: 27.0.0.Beta1
+  latest: 27.0.0.Final
+  release: 27.0.0.Final
   versions:
   - 23.0.0.Beta1
   - 23.0.0.Final
@@ -29,4 +29,5 @@ versioning:
   - 27.0.0.Alpha4
   - 27.0.0.Alpha5
   - 27.0.0.Beta1
-  lastUpdated: 20220928185427
+  - 27.0.0.Final
+  lastUpdated: 20221108224816

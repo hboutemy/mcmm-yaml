@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-clustering-jgroups-api
 versioning:
-  latest: 27.0.0.Beta1
-  release: 27.0.0.Beta1
+  latest: 27.0.0.Final
+  release: 27.0.0.Final
   versions:
   - 9.0.0.Beta1
   - 9.0.0.Beta2
@@ -92,4 +92,5 @@ versioning:
   - 27.0.0.Alpha4
   - 27.0.0.Alpha5
   - 27.0.0.Beta1
-  lastUpdated: 20220928185347
+  - 27.0.0.Final
+  lastUpdated: 20221108224735
