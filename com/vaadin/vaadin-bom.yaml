@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.vaadin
 artifactId: vaadin-bom
 versioning:
-  latest: 23.2.7
-  release: 23.2.7
+  latest: 23.2.8
+  release: 23.2.8
   versions:
   - 7.4.0
   - 7.4.1
@@ -429,6 +429,7 @@ versioning:
   - 23.1.12
   - 23.1.13
   - 23.1.14
+  - 23.1.15
   - 23.2.0
   - 23.2.1
   - 23.2.2
@@ -437,4 +438,5 @@ versioning:
   - 23.2.5
   - 23.2.6
   - 23.2.7
-  lastUpdated: 20221107125540
+  - 23.2.8
+  lastUpdated: 20221109104039

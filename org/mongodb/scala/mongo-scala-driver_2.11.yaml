@@ -3,8 +3,8 @@
 groupId: org.mongodb.scala
 artifactId: mongo-scala-driver_2.11
 versioning:
-  latest: 4.8.0-beta0
-  release: 4.8.0-beta0
+  latest: 4.8.0-rc0
+  release: 4.8.0-rc0
   versions:
   - 1.0.0-rc0
   - 1.0.0
@@ -73,4 +73,5 @@ versioning:
   - 4.7.1
   - 4.7.2
   - 4.8.0-beta0
-  lastUpdated: 20221003192928
+  - 4.8.0-rc0
+  lastUpdated: 20221109170958
