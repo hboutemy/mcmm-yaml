@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.apimgt
 artifactId: org.wso2.carbon.apimgt.rest.api.gateway
 versioning:
-  latest: 9.26.69
-  release: 9.26.69
+  latest: 9.26.70
+  release: 9.26.70
   versions:
   - 6.8.210
   - 6.8.211
@@ -531,6 +531,7 @@ versioning:
   - 9.2.64
   - 9.2.65
   - 9.2.66
+  - 9.2.67
   - 9.3.0
   - 9.4.0
   - 9.4.1
@@ -670,6 +671,7 @@ versioning:
   - 9.22.50.3
   - 9.22.51
   - 9.22.52
+  - 9.22.53
   - 9.23.0
   - 9.23.1
   - 9.23.2
@@ -772,4 +774,5 @@ versioning:
   - 9.26.67
   - 9.26.68
   - 9.26.69
-  lastUpdated: 20221109071753
+  - 9.26.70
+  lastUpdated: 20221110095341

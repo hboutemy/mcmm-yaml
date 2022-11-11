@@ -3,8 +3,8 @@
 groupId: org.wildfly.plugins
 artifactId: wildfly-jar-maven-plugin-perf-tests-parent
 versioning:
-  latest: 8.0.1.Final
-  release: 8.0.1.Final
+  latest: 8.1.0.Final
+  release: 8.1.0.Final
   versions:
   - 2.0.0.Beta6
   - 2.0.0.Beta7
@@ -42,4 +42,5 @@ versioning:
   - 8.0.0.Alpha3
   - 8.0.0.Final
   - 8.0.1.Final
-  lastUpdated: 20221003090226
+  - 8.1.0.Final
+  lastUpdated: 20221110092316

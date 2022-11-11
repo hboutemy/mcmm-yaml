@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-server-pulsar
 versioning:
-  latest: 2.0.0.Final
-  release: 2.0.0.Final
+  latest: 2.1.0.Alpha1
+  release: 2.1.0.Alpha1
   versions:
   - 1.2.0.CR1
   - 1.2.0.CR2
@@ -76,5 +76,6 @@ versioning:
   - 2.0.0.Beta2
   - 2.0.0.CR1
   - 2.0.0.Final
+  - 2.1.0.Alpha1
   - 1.5.0.Alpha1
-  lastUpdated: 20221025070248
+  lastUpdated: 20221110141004

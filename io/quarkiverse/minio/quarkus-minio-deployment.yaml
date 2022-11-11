@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.minio
 artifactId: quarkus-minio-deployment
 versioning:
-  latest: 2.9.3
-  release: 2.9.3
+  latest: 2.10.1
+  release: 2.10.1
   versions:
   - 0.2.1
   - 0.2.2
@@ -16,4 +16,6 @@ versioning:
   - 2.9.1
   - 2.9.2
   - 2.9.3
-  lastUpdated: 20221108135802
+  - 2.10.0
+  - 2.10.1
+  lastUpdated: 20221110144511
