@@ -1,9 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.fragment.collection.filter.keyword
 versioning:
-  release: 1.0.6
+  latest: 1.0.10
+  release: 1.0.10
   versions:
   - 1.0.0
   - 1.0.1
@@ -12,4 +14,4 @@ versioning:
   - 1.0.4
   - 1.0.5
   - 1.0.6
-  lastUpdated: 20220303002113
+  lastUpdated: 20221027053345
