@@ -3,8 +3,8 @@
 groupId: com.alibaba.fastjson2
 artifactId: fastjson2
 versioning:
-  latest: 2.0.18.android
-  release: 2.0.18.android
+  latest: 2.0.19.graal
+  release: 2.0.19.graal
   versions:
   - 2.0.0
   - 2.0.1
@@ -58,4 +58,7 @@ versioning:
   - 2.0.17.graal
   - 2.0.18
   - 2.0.18.android
-  lastUpdated: 20221106023323
+  - 2.0.19
+  - 2.0.19.android
+  - 2.0.19.graal
+  lastUpdated: 20221112073539
