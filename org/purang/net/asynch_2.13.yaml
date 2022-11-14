@@ -3,8 +3,10 @@
 groupId: org.purang.net
 artifactId: asynch_2.13
 versioning:
-  latest: 0.7.20
-  release: 0.7.20
+  latest: 3.2.1-without-netty-cve
+  release: 3.2.1-without-netty-cve
   versions:
   - 0.7.20
-  lastUpdated: 20210209194516
+  - 3.2.1
+  - 3.2.1-without-netty-cve
+  lastUpdated: 20221113200859

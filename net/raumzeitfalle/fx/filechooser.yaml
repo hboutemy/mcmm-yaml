@@ -3,8 +3,8 @@
 groupId: net.raumzeitfalle.fx
 artifactId: filechooser
 versioning:
-  latest: 0.0.8
-  release: 0.0.8
+  latest: 0.0.10-jdk16
+  release: 0.0.10-jdk16
   versions:
   - 0.0.2
   - 0.0.3
@@ -13,4 +13,8 @@ versioning:
   - 0.0.6
   - 0.0.7
   - 0.0.8
-  lastUpdated: 20211222114816
+  - 0.0.9
+  - 0.0.10-jdk9
+  - 0.0.10-jdk11
+  - 0.0.10-jdk16
+  lastUpdated: 20221113205133

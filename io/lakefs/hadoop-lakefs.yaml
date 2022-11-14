@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: io.lakefs
 artifactId: hadoop-lakefs
 versioning:
-  latest: 0.58.1-new-key
-  release: 0.58.1-new-key
+  latest: 0.1.9
+  release: 0.1.9
   versions:
   - 0.1.0-RC.0
   - 0.1.0
@@ -18,4 +19,4 @@ versioning:
   - 0.1.8
   - 0.1.9
   - 0.58.1-new-key
-  lastUpdated: 20221111142136
+  lastUpdated: 20221113154703
