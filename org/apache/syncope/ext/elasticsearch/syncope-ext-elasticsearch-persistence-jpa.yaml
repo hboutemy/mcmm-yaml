@@ -3,8 +3,8 @@
 groupId: org.apache.syncope.ext.elasticsearch
 artifactId: syncope-ext-elasticsearch-persistence-jpa
 versioning:
-  latest: 3.0.0-M2
-  release: 3.0.0-M2
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 2.0.4
   - 2.0.5
@@ -35,4 +35,5 @@ versioning:
   - 3.0.0-M0
   - 3.0.0-M1
   - 3.0.0-M2
-  lastUpdated: 20221031061812
+  - 3.0.0
+  lastUpdated: 20221114095049
