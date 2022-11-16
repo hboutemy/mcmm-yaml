@@ -3,8 +3,8 @@
 groupId: org.faktorips
 artifactId: faktorips-maven-archetype
 versioning:
-  latest: 22.12.0.a20221005-01
-  release: 22.12.0.a20221005-01
+  latest: 22.12.0.rc01
+  release: 22.12.0.rc01
   versions:
   - 21.6.0-m03
   - 21.6.0-m04
@@ -52,4 +52,6 @@ versioning:
   - 22.6.4
   - 22.6.5
   - 22.12.0.a20221005-01
-  lastUpdated: 20221020132109
+  - 22.12.0.a20221114-01
+  - 22.12.0.rc01
+  lastUpdated: 20221115103510

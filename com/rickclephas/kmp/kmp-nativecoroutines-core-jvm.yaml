@@ -3,8 +3,8 @@
 groupId: com.rickclephas.kmp
 artifactId: kmp-nativecoroutines-core-jvm
 versioning:
-  latest: 0.13.2
-  release: 0.13.2
+  latest: 0.13.2-kotlin-1.8.0-Beta
+  release: 0.13.2-kotlin-1.8.0-Beta
   versions:
   - 0.1.0
   - 0.2.0
@@ -79,4 +79,5 @@ versioning:
   - 0.13.0-kotlin-1.7.20-RC
   - 0.13.1
   - 0.13.2
-  lastUpdated: 20221109190118
+  - 0.13.2-kotlin-1.8.0-Beta
+  lastUpdated: 20221115094355

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.editor.alloyeditor.web
 versioning:
   latest: 5.0.33
-  release: 5.0.33
+  release: 4.0.34
   versions:
   - 1.0.0
   - 1.0.1
@@ -271,4 +270,5 @@ versioning:
   - 5.0.21
   - 5.0.22
   - 5.0.23
-  lastUpdated: 20221027101149
+  - 4.0.34
+  lastUpdated: 20221115165957

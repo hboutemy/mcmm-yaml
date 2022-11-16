@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-hadoop-mr
 versioning:
-  latest: 8.5.0
-  release: 8.5.0
+  latest: 8.5.1
+  release: 8.5.1
   versions:
   - 1.3.0.M3
   - 2.0.0.RC1
@@ -223,5 +223,6 @@ versioning:
   - 8.4.2
   - 8.4.3
   - 8.5.0
+  - 8.5.1
   - 2.1.0.rc1
-  lastUpdated: 20221101124022
+  lastUpdated: 20221115151645

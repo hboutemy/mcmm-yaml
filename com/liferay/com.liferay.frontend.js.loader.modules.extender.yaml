@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.js.loader.modules.extender
 versioning:
   latest: 6.0.30
-  release: 6.0.30
+  release: 4.0.57
   versions:
   - 1.0.0
   - 1.0.1
@@ -237,4 +236,5 @@ versioning:
   - 6.0.21
   - 6.0.22
   - 6.0.23
-  lastUpdated: 20221027101219
+  - 4.0.57
+  lastUpdated: 20221115114934

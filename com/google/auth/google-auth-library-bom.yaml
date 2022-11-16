@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.auth
 artifactId: google-auth-library-bom
 versioning:
-  latest: 1.12.1
-  release: 1.12.1
+  latest: 1.13.0
+  release: 1.13.0
   versions:
   - 0.16.0
   - 0.16.1
@@ -50,4 +50,5 @@ versioning:
   - 1.11.0
   - 1.12.0
   - 1.12.1
-  lastUpdated: 20221018204846
+  - 1.13.0
+  lastUpdated: 20221115190614
