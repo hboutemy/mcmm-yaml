@@ -3,8 +3,8 @@
 groupId: org.eclipse.jkube
 artifactId: kubernetes-maven-plugin
 versioning:
-  latest: 1.10.0
-  release: 1.10.0
+  latest: 1.10.1
+  release: 1.10.1
   versions:
   - 1.0.0-alpha-1
   - 1.0.0-alpha-2
@@ -27,4 +27,5 @@ versioning:
   - 1.9.0
   - 1.9.1
   - 1.10.0
-  lastUpdated: 20221110101005
+  - 1.10.1
+  lastUpdated: 20221116143445
