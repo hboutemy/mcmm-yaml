@@ -3,8 +3,8 @@
 groupId: org.apache.solr
 artifactId: solr-s3-repository
 versioning:
-  latest: 9.0.0
-  release: 9.0.0
+  latest: 9.1.0
+  release: 9.1.0
   versions:
   - 8.10.0
   - 8.10.1
@@ -12,4 +12,5 @@ versioning:
   - 8.11.1
   - 8.11.2
   - 9.0.0
-  lastUpdated: 20220617230015
+  - 9.1.0
+  lastUpdated: 20221117102148
