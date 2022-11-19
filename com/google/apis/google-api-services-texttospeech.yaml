@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-texttospeech
 versioning:
-  latest: v1-rev20220311-2.0.0
-  release: v1-rev20220311-2.0.0
+  latest: v1-rev20221109-2.0.0
+  release: v1-rev20221109-2.0.0
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.21.0
@@ -274,6 +274,7 @@ versioning:
   - v1beta1-rev20211105-1.32.1
   - v1beta1-rev20211130-1.32.1
   - v1beta1-rev20211130-2.0.0
+  - v1beta1-rev20221109-2.0.0
   - v1-rev2-1.18.0-rc
   - v1-rev2-1.22.0
   - v1-rev2-1.23.0
@@ -463,4 +464,5 @@ versioning:
   - v1-rev20220103-1.32.1
   - v1-rev20220311-1.32.1
   - v1-rev20220311-2.0.0
-  lastUpdated: 20220801213557
+  - v1-rev20221109-2.0.0
+  lastUpdated: 20221118093930

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.product.type.virtual.order.api
 versioning:
   latest: 7.0.3
-  release: 7.0.3
+  release: 7.1.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -70,4 +69,5 @@ versioning:
   - 6.3.0
   - 6.4.0
   - 7.0.0
-  lastUpdated: 20221027050827
+  - 7.1.0
+  lastUpdated: 20221118065119
