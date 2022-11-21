@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.gitlab.arturbosch.detekt
 artifactId: detekt-api
 versioning:
-  latest: 1.22.0-RC3
-  release: 1.22.0-RC3
+  latest: 1.22.0
+  release: 1.22.0
   versions:
   - 1.0.0.RC7-3
   - 1.0.0.RC8-beta
@@ -85,5 +85,6 @@ versioning:
   - 1.22.0-RC1
   - 1.22.0-RC2
   - 1.22.0-RC3
+  - 1.22.0
   - 1.0.0.RC10
-  lastUpdated: 20221106012902
+  lastUpdated: 20221120180851
