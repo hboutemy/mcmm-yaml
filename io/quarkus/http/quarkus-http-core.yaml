@@ -3,8 +3,8 @@
 groupId: io.quarkus.http
 artifactId: quarkus-http-core
 versioning:
-  latest: 5.0.0.Alpha2
-  release: 5.0.0.Alpha2
+  latest: 5.0.0.Alpha3
+  release: 5.0.0.Alpha3
   versions:
   - 3.0.0.Alpha1
   - 3.0.0.Alpha2
@@ -46,12 +46,14 @@ versioning:
   - 4.1.7
   - 4.1.8
   - 4.1.9
+  - 4.2.1
   - 5.0.0.Alpha1
   - 5.0.0.Alpha2
+  - 5.0.0.Alpha3
   - 3.1.0.Beta1
   - 3.1.0.Beta2
   - 3.1.0.Final
   - 4.0.0.Alpha2
   - 4.0.0.Alpha3
   - 4.0.0.Alpha4
-  lastUpdated: 20220905141815
+  lastUpdated: 20221121135039
