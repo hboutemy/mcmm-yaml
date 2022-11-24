@@ -3,8 +3,8 @@
 groupId: org.apache.qpid
 artifactId: qpid-broker-plugins-amqp-0-8-protocol
 versioning:
-  latest: 8.0.6
-  release: 8.0.6
+  latest: 9.0.0
+  release: 9.0.0
   versions:
   - 0.24
   - 0.26
@@ -58,4 +58,5 @@ versioning:
   - 8.0.4
   - 8.0.5
   - 8.0.6
-  lastUpdated: 20210828182713
+  - 9.0.0
+  lastUpdated: 20221123094116

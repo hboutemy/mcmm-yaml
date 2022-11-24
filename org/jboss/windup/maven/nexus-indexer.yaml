@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.windup.maven
 artifactId: nexus-indexer
 versioning:
-  latest: 22.10.10.Final
-  release: 22.10.10.Final
+  latest: 22.11.22.Final
+  release: 22.11.22.Final
   versions:
   - 1
   - 2
@@ -40,4 +40,5 @@ versioning:
   - 22.04.04.Final
   - 22.09.28.Final
   - 22.10.10.Final
-  lastUpdated: 20221011144713
+  - 22.11.22.Final
+  lastUpdated: 20221123112329
