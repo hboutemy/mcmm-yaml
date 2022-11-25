@@ -3,9 +3,12 @@
 groupId: com.engagelab.plugin
 artifactId: meizu
 versioning:
-  latest: 3.0.0
-  release: 3.0.0
+  latest: 3.0.0.release
+  release: 3.0.0.release
   versions:
   - 3.0.0.t6
   - 3.0.0
-  lastUpdated: 20221114084413
+  - test.3.0.0.release
+  - 3.0.0.release
+  - test.3.0.0
+  lastUpdated: 20221124040036

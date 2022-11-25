@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-shaded
 versioning:
-  latest: 16.0
-  release: 16.0
+  latest: 16.1
+  release: 16.1
   versions:
   - 0.7.0-hadoop2-incubating
   - 0.7.0-incubating
@@ -28,4 +28,5 @@ versioning:
   - 14.0
   - 15.0
   - 16.0
-  lastUpdated: 20221007091646
+  - 16.1
+  lastUpdated: 20221124154510
