@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-parser
 versioning:
-  latest: 4.4.14
-  release: 4.4.14
+  latest: 4.4.15
+  release: 4.4.15
   versions:
   - 4.1.0
   - 4.1.1
@@ -61,6 +61,7 @@ versioning:
   - 4.3.19
   - 4.3.20
   - 4.3.21
+  - 4.3.22
   - 4.4.0
   - 4.4.1
   - 4.4.2
@@ -76,4 +77,5 @@ versioning:
   - 4.4.12
   - 4.4.13
   - 4.4.14
-  lastUpdated: 20221110172609
+  - 4.4.15
+  lastUpdated: 20221125105912
