@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.apimgt
 artifactId: org.wso2.carbon.apimgt.rest.api.devops
 versioning:
-  latest: 9.28.3
-  release: 9.28.3
+  latest: 9.28.4
+  release: 9.28.4
   versions:
   - 9.13.0
   - 9.14.0
@@ -106,6 +106,7 @@ versioning:
   - 9.22.50.3
   - 9.22.50.4
   - 9.22.50.5
+  - 9.22.50.6
   - 9.22.51
   - 9.22.52
   - 9.22.53
@@ -116,6 +117,7 @@ versioning:
   - 9.22.58
   - 9.22.59
   - 9.22.61
+  - 9.22.62
   - 9.23.0
   - 9.23.1
   - 9.23.2
@@ -243,4 +245,5 @@ versioning:
   - 9.28.1
   - 9.28.2
   - 9.28.3
-  lastUpdated: 20221126152402
+  - 9.28.4
+  lastUpdated: 20221128063951

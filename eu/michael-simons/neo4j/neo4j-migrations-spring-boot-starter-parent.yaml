@@ -3,8 +3,8 @@
 groupId: eu.michael-simons.neo4j
 artifactId: neo4j-migrations-spring-boot-starter-parent
 versioning:
-  latest: 1.14.0
-  release: 1.14.0
+  latest: 1.15.0
+  release: 1.15.0
   versions:
   - 0.0.8
   - 0.0.9
@@ -56,4 +56,5 @@ versioning:
   - 1.13.2
   - 1.13.3
   - 1.14.0
-  lastUpdated: 20221114113330
+  - 1.15.0
+  lastUpdated: 20221128100927

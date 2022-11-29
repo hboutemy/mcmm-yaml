@@ -3,8 +3,8 @@
 groupId: io.smallrye.reactive
 artifactId: smallrye-mutiny-vertx-mssql-client
 versioning:
-  latest: 3.0.0-milestone1
-  release: 3.0.0-milestone1
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 2.7.0
   - 2.8.0
@@ -36,4 +36,5 @@ versioning:
   - 2.27.0
   - 2.28.0
   - 3.0.0-milestone1
-  lastUpdated: 20221120190921
+  - 3.0.0
+  lastUpdated: 20221128111043

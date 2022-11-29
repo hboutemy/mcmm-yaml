@@ -3,8 +3,8 @@
 groupId: io.smallrye.reactive
 artifactId: smallrye-mutiny-vertx-pg-client
 versioning:
-  latest: 3.0.0-milestone1
-  release: 3.0.0-milestone1
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 0.0.11
   - 0.0.12
@@ -63,4 +63,5 @@ versioning:
   - 2.27.0
   - 2.28.0
   - 3.0.0-milestone1
-  lastUpdated: 20221120190923
+  - 3.0.0
+  lastUpdated: 20221128111045
