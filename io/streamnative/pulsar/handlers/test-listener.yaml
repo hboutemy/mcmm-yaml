@@ -3,8 +3,8 @@
 groupId: io.streamnative.pulsar.handlers
 artifactId: test-listener
 versioning:
-  latest: 2.10.1.99-rc0803
-  release: 2.10.1.99-rc0803
+  latest: 2.10.2.1
+  release: 2.10.2.1
   versions:
   - 2.9.2.18
   - 2.9.2.19
@@ -46,4 +46,5 @@ versioning:
   - 2.10.1.11-rc-iterable
   - 2.10.1.11
   - 2.10.1.99-rc0803
-  lastUpdated: 20221128061815
+  - 2.10.2.1
+  lastUpdated: 20221129071608

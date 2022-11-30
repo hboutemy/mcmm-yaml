@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-sqs
 versioning:
-  latest: 1.12.350
-  release: 1.12.350
+  latest: 1.12.352
+  release: 1.12.352
   versions:
   - 1.9.0
   - 1.9.1
@@ -1517,4 +1517,6 @@ versioning:
   - 1.12.348
   - 1.12.349
   - 1.12.350
-  lastUpdated: 20221128064451
+  - 1.12.351
+  - 1.12.352
+  lastUpdated: 20221129220103
