@@ -3,8 +3,8 @@
 groupId: software.amazon.awscdk
 artifactId: cdk-lambda-layer-kubectl-v24
 versioning:
-  latest: 2.0.40
-  release: 2.0.40
+  latest: 2.0.42
+  release: 2.0.42
   versions:
   - 0.0.0
   - 0.0.1
@@ -49,4 +49,6 @@ versioning:
   - 2.0.38
   - 2.0.39
   - 2.0.40
-  lastUpdated: 20221129003405
+  - 2.0.41
+  - 2.0.42
+  lastUpdated: 20221130230602

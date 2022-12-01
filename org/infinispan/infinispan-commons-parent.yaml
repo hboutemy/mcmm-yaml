@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-commons-parent
 versioning:
-  latest: 14.0.2.Final
-  release: 14.0.2.Final
+  latest: 14.0.3.Final
+  release: 14.0.3.Final
   versions:
   - 11.0.0.CR1
   - 11.0.0.Final
@@ -72,6 +72,7 @@ versioning:
   - 13.0.10.Final
   - 13.0.11.Final
   - 13.0.12.Final
+  - 13.0.13.Final
   - 14.0.0.CR1
   - 14.0.0.CR2
   - 14.0.0.Final
@@ -81,5 +82,6 @@ versioning:
   - 14.0.0.Dev04
   - 14.0.1.Final
   - 14.0.2.Final
+  - 14.0.3.Final
   - 12.0.0.Dev03
-  lastUpdated: 20221024122115
+  lastUpdated: 20221130203158

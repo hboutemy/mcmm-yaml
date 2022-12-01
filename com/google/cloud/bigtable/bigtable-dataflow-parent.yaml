@@ -3,8 +3,8 @@
 groupId: com.google.cloud.bigtable
 artifactId: bigtable-dataflow-parent
 versioning:
-  latest: 2.6.3
-  release: 2.6.3
+  latest: 2.6.4
+  release: 2.6.4
   versions:
   - 0.9.0
   - 0.9.1
@@ -72,6 +72,7 @@ versioning:
   - 1.26.3
   - 1.27.0
   - 1.27.1
+  - 1.28.0
   - 2.0.0-alpha1
   - 2.0.0-alpha2
   - 2.0.0-beta1
@@ -91,8 +92,9 @@ versioning:
   - 2.6.1
   - 2.6.2
   - 2.6.3
+  - 2.6.4
   - 1.19.1
   - 1.19.2
   - 1.20.0
   - 1.20.1
-  lastUpdated: 20221005224601
+  lastUpdated: 20221130162510

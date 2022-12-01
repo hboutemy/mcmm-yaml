@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-server-kafka
 versioning:
-  latest: 2.1.0.Alpha1
-  release: 2.1.0.Alpha1
+  latest: 2.1.0.Alpha2
+  release: 2.1.0.Alpha2
   versions:
   - 1.6.0.Alpha1
   - 1.6.0.Beta1
@@ -48,4 +48,5 @@ versioning:
   - 2.0.0.CR1
   - 2.0.0.Final
   - 2.1.0.Alpha1
-  lastUpdated: 20221110141001
+  - 2.1.0.Alpha2
+  lastUpdated: 20221130083515
