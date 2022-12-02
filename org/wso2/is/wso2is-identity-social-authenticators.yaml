@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.is
 artifactId: wso2is-identity-social-authenticators
 versioning:
-  latest: 6.0.0
-  release: 6.0.0
+  latest: 6.1.0-m1
+  release: 6.1.0-m1
   versions:
   - 5.4.0-alpha4
   - 5.4.0-alpha5
@@ -198,4 +198,5 @@ versioning:
   - 5.13.0-m3
   - 6.0.0-alpha3
   - 6.0.0
-  lastUpdated: 20220812155017
+  - 6.1.0-m1
+  lastUpdated: 20221201114040
