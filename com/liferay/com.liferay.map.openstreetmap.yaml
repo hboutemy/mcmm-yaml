@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.map.openstreetmap
 versioning:
   latest: 6.0.23
-  release: 6.0.23
+  release: 6.0.24
   versions:
   - 1.0.0
   - 1.0.1
@@ -139,4 +138,5 @@ versioning:
   - 6.0.14
   - 6.0.15
   - 6.0.16
-  lastUpdated: 20221027074704
+  - 6.0.24
+  lastUpdated: 20221201230313

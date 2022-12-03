@@ -3,8 +3,8 @@
 groupId: org.apache.iotdb
 artifactId: flink-iotdb-connector
 versioning:
-  latest: 0.14.0-preview3
-  release: 0.14.0-preview3
+  latest: 1.0.0
+  release: 1.0.0
   versions:
   - 0.10.0
   - 0.10.1
@@ -27,4 +27,5 @@ versioning:
   - 0.14.0-preview1
   - 0.14.0-preview2
   - 0.14.0-preview3
-  lastUpdated: 20221021074018
+  - 1.0.0
+  lastUpdated: 20221202113321
