@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.yangtools
 artifactId: yang-maven-plugin-it
 versioning:
-  latest: 10.0.1
-  release: 10.0.1
+  latest: 10.0.2
+  release: 10.0.2
   versions:
   - 0.5.8
   - 0.6.0
@@ -185,4 +185,5 @@ versioning:
   - 9.0.5
   - 10.0.0
   - 10.0.1
-  lastUpdated: 20221203134244
+  - 10.0.2
+  lastUpdated: 20221204141650

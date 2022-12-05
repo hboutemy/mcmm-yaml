@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.bgpcep
 artifactId: bgp-rib-mock
 versioning:
-  latest: 0.18.3
-  release: 0.18.3
+  latest: 0.18.4
+  release: 0.18.4
   versions:
   - 0.3.0
   - 0.3.1-Helium
@@ -100,4 +100,5 @@ versioning:
   - 0.18.1
   - 0.18.2
   - 0.18.3
-  lastUpdated: 20221203202504
+  - 0.18.4
+  lastUpdated: 20221204212058
