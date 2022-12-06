@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: waf
 versioning:
-  latest: 2.18.30
-  release: 2.18.30
+  latest: 2.18.31
+  release: 2.18.31
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -931,4 +931,5 @@ versioning:
   - 2.18.28
   - 2.18.29
   - 2.18.30
-  lastUpdated: 20221202220637
+  - 2.18.31
+  lastUpdated: 20221205220000

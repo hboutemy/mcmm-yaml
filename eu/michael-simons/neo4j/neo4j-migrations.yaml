@@ -3,8 +3,8 @@
 groupId: eu.michael-simons.neo4j
 artifactId: neo4j-migrations
 versioning:
-  latest: 1.15.0
-  release: 1.15.0
+  latest: 2.0.0
+  release: 2.0.0
   versions:
   - 0.0.1
   - 0.0.2
@@ -64,4 +64,6 @@ versioning:
   - 1.13.3
   - 1.14.0
   - 1.15.0
-  lastUpdated: 20221128100917
+  - 1.15.1
+  - 2.0.0
+  lastUpdated: 20221205085410
