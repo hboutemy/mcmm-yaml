@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.template.xsl
 versioning:
   latest: 6.0.8
-  release: 6.0.8
+  release: 2.0.31
   versions:
   - 1.0.0
   - 2.0.0
@@ -111,4 +110,5 @@ versioning:
   - 6.0.6
   - 6.0.7
   - 6.0.8
-  lastUpdated: 20221027061457
+  - 2.0.31
+  lastUpdated: 20221206215250

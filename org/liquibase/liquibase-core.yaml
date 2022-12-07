@@ -3,8 +3,8 @@
 groupId: org.liquibase
 artifactId: liquibase-core
 versioning:
-  latest: 4.17.2
-  release: 4.17.2
+  latest: 4.18.0
+  release: 4.18.0
   versions:
   - 2.0-rc3
   - 2.0-rc4
@@ -107,6 +107,7 @@ versioning:
   - 4.17.0
   - 4.17.1
   - 4.17.2
+  - 4.18.0
   - 1.3.3
   - 1.4.1
   - 1.5.1
@@ -121,4 +122,4 @@ versioning:
   - 1.9.3
   - 1.9.4
   - 1.9.5
-  lastUpdated: 20221102183744
+  lastUpdated: 20221206161846

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.verify.extender
 versioning:
   latest: 7.0.17
-  release: 7.0.17
+  release: 3.0.29
   versions:
   - 1.0.0
   - 2.0.0
@@ -132,4 +131,5 @@ versioning:
   - 7.0.10
   - 7.0.11
   - 7.0.12
-  lastUpdated: 20221027070142
+  - 3.0.29
+  lastUpdated: 20221206221425
