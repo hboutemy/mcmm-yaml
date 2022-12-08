@@ -3,8 +3,8 @@
 groupId: icu.easyj
 artifactId: easyj-redis
 versioning:
-  latest: 0.7.5
-  release: 0.7.5
+  latest: 0.7.5-for-springboot3
+  release: 0.7.5-for-springboot3
   versions:
   - 0.2.2
   - 0.2.3
@@ -60,4 +60,5 @@ versioning:
   - 0.7.3
   - 0.7.4
   - 0.7.5
-  lastUpdated: 20220818021859
+  - 0.7.5-for-springboot3
+  lastUpdated: 20221207103240

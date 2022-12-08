@@ -3,8 +3,8 @@
 groupId: org.liquibase.ext
 artifactId: liquibase-hibernate5
 versioning:
-  latest: 4.17.2
-  release: 4.17.2
+  latest: 4.18.0
+  release: 4.18.0
   versions:
   - 3.6
   - 3.7
@@ -47,4 +47,5 @@ versioning:
   - 4.17.0
   - 4.17.1
   - 4.17.2
-  lastUpdated: 20221103214927
+  - 4.18.0
+  lastUpdated: 20221207154820

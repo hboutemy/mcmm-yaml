@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-rest-client-jsonb-parent
 versioning:
-  latest: 3.0.0.Alpha1
-  release: 3.0.0.Alpha1
+  latest: 3.0.0.Alpha2
+  release: 3.0.0.Alpha2
   versions:
   - 1.4.0.CR1
   - 1.4.0.Final
@@ -153,5 +153,7 @@ versioning:
   - 2.14.2.Final
   - 2.14.3.Final
   - 2.15.0.CR1
+  - 2.15.0.Final
   - 3.0.0.Alpha1
-  lastUpdated: 20221206121210
+  - 3.0.0.Alpha2
+  lastUpdated: 20221207114917

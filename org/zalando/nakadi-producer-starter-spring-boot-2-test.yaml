@@ -3,8 +3,8 @@
 groupId: org.zalando
 artifactId: nakadi-producer-starter-spring-boot-2-test
 versioning:
-  latest: 21.0.0-RC1
-  release: 21.0.0-RC1
+  latest: 21.0.0-RC3b
+  release: 21.0.0-RC3b
   versions:
   - 20.0.0
   - 20.0.1
@@ -14,4 +14,7 @@ versioning:
   - 20.3.1
   - 20.4.0
   - 21.0.0-RC1
-  lastUpdated: 20221116190524
+  - 21.0.0-RC2
+  - 21.0.0-RC3a
+  - 21.0.0-RC3b
+  lastUpdated: 20221207173648

@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-build-parent
 versioning:
-  latest: 3.0.0.Alpha1
-  release: 3.0.0.Alpha1
+  latest: 3.0.0.Alpha2
+  release: 3.0.0.Alpha2
   versions:
   - 0.11.0
   - 0.12.0
@@ -201,5 +201,7 @@ versioning:
   - 2.14.2.Final
   - 2.14.3.Final
   - 2.15.0.CR1
+  - 2.15.0.Final
   - 3.0.0.Alpha1
-  lastUpdated: 20221206121002
+  - 3.0.0.Alpha2
+  lastUpdated: 20221207114643
