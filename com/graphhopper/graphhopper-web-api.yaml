@@ -3,8 +3,8 @@
 groupId: com.graphhopper
 artifactId: graphhopper-web-api
 versioning:
-  latest: 7.0-pre1
-  release: 7.0-pre1
+  latest: 7.0-testgithub6
+  release: 7.0-testgithub6
   versions:
   - client_hc_no_vehicle
   - feature_1850_01
@@ -122,4 +122,7 @@ versioning:
   - 6.1
   - 6.2
   - 7.0-pre1
-  lastUpdated: 20221023190805
+  - 7.0-testgithub3
+  - 7.0-testgithub4
+  - 7.0-testgithub6
+  lastUpdated: 20221208220025
