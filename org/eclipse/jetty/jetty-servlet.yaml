@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty
 artifactId: jetty-servlet
 versioning:
-  latest: 11.0.12
-  release: 11.0.12
+  latest: 11.0.13
+  release: 11.0.13
   versions:
   - 7.0.0.M0
   - 7.0.0.M1
@@ -323,6 +323,7 @@ versioning:
   - 10.0.10
   - 10.0.11
   - 10.0.12
+  - 10.0.13
   - 11.0.0-alpha0
   - 11.0.0.beta1
   - 11.0.0.beta2
@@ -340,4 +341,5 @@ versioning:
   - 11.0.10
   - 11.0.11
   - 11.0.12
-  lastUpdated: 20221207213622
+  - 11.0.13
+  lastUpdated: 20221209200455
