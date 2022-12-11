@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-metastore
 versioning:
-  latest: v1-rev20221130-2.0.0
-  release: v1-rev20221130-2.0.0
+  latest: v1-rev20221207-2.0.0
+  release: v1-rev20221207-2.0.0
   versions:
   - v1alpha-rev20201202-1.31.0
   - v1alpha-rev20201212-1.31.0
@@ -87,4 +87,5 @@ versioning:
   - v1beta-rev20221130-2.0.0
   - v1-rev20221103-2.0.0
   - v1-rev20221130-2.0.0
-  lastUpdated: 20221205223059
+  - v1-rev20221207-2.0.0
+  lastUpdated: 20221210093135
