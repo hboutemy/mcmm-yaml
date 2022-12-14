@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-efs
 versioning:
-  latest: 1.12.362
-  release: 1.12.362
+  latest: 1.12.364
+  release: 1.12.364
   versions:
   - 1.9.38
   - 1.9.39
@@ -1489,4 +1489,6 @@ versioning:
   - 1.12.360
   - 1.12.361
   - 1.12.362
-  lastUpdated: 20221209214840
+  - 1.12.363
+  - 1.12.364
+  lastUpdated: 20221213215123

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-appstream
 versioning:
-  latest: 1.12.362
-  release: 1.12.362
+  latest: 1.12.364
+  release: 1.12.364
   versions:
   - 1.11.63
   - 1.11.64
@@ -1340,4 +1340,6 @@ versioning:
   - 1.12.360
   - 1.12.361
   - 1.12.362
-  lastUpdated: 20221209214759
+  - 1.12.363
+  - 1.12.364
+  lastUpdated: 20221213215045

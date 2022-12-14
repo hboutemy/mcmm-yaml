@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.instrumentation
 artifactId: opentelemetry-jetty-httpclient-9.2
 versioning:
-  latest: 1.20.2-alpha
-  release: 1.20.2-alpha
+  latest: 1.21.0-alpha
+  release: 1.21.0-alpha
   versions:
   - 1.4.0-alpha
   - 1.4.1-alpha
@@ -41,4 +41,5 @@ versioning:
   - 1.20.0-alpha
   - 1.20.1-alpha
   - 1.20.2-alpha
-  lastUpdated: 20221122004106
+  - 1.21.0-alpha
+  lastUpdated: 20221213232438

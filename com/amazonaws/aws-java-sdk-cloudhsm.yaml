@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-cloudhsm
 versioning:
-  latest: 1.12.362
-  release: 1.12.362
+  latest: 1.12.364
+  release: 1.12.364
   versions:
   - 1.9.14
   - 1.9.15
@@ -1515,4 +1515,6 @@ versioning:
   - 1.12.360
   - 1.12.361
   - 1.12.362
-  lastUpdated: 20221209214819
+  - 1.12.363
+  - 1.12.364
+  lastUpdated: 20221213215103
