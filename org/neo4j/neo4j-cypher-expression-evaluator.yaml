@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-cypher-expression-evaluator
 versioning:
-  latest: 5.2.0
-  release: 5.2.0
+  latest: 5.3.0
+  release: 5.3.0
   versions:
   - 3.5.4
   - 3.5.5
@@ -126,4 +126,5 @@ versioning:
   - 4.4.15
   - 5.1.0
   - 5.2.0
-  lastUpdated: 20221125105830
+  - 5.3.0
+  lastUpdated: 20221214134036

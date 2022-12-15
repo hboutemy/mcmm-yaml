@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-kernel
 versioning:
-  latest: 5.2.0
-  release: 5.2.0
+  latest: 5.3.0
+  release: 5.3.0
   versions:
   - 1.2-1.2.M01
   - 1.2-1.2.M02
@@ -393,4 +393,5 @@ versioning:
   - 4.4.15
   - 5.1.0
   - 5.2.0
-  lastUpdated: 20221125105904
+  - 5.3.0
+  lastUpdated: 20221214134118

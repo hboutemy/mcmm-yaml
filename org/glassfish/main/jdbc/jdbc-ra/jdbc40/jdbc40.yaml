@@ -3,8 +3,8 @@
 groupId: org.glassfish.main.jdbc.jdbc-ra.jdbc40
 artifactId: jdbc40
 versioning:
-  latest: 7.0.0-M10
-  release: 7.0.0-M10
+  latest: 7.0.0
+  release: 7.0.0
   versions:
   - 6.0.0-M1
   - 6.0.0-RC1
@@ -24,6 +24,7 @@ versioning:
   - 7.0.0-M3
   - 7.0.0-M4
   - 7.0.0-M10
+  - 7.0.0
   - 4.0
   - 4.0-b33
   - 4.0-b72
@@ -36,4 +37,4 @@ versioning:
   - 5.1.0
   - 5.1.0-RC1
   - 5.1.0-RC2
-  lastUpdated: 20221122140321
+  lastUpdated: 20221214203602

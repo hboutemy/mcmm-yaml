@@ -3,8 +3,8 @@
 groupId: io.smallrye.reactive
 artifactId: smallrye-reactive-messaging-kafka-test-companion
 versioning:
-  latest: 4.1.0
-  release: 4.1.0
+  latest: 4.1.1
+  release: 4.1.1
   versions:
   - 3.14.0
   - 3.14.1
@@ -19,6 +19,7 @@ versioning:
   - 3.21.0
   - 3.22.0.RC1
   - 3.22.0
+  - 3.22.1
   - 4.0.0.RC1
   - 4.0.0.RC2
   - 4.0.0.RC3
@@ -27,4 +28,5 @@ versioning:
   - 4.0.0
   - 4.1.0.RC1
   - 4.1.0
-  lastUpdated: 20221201121244
+  - 4.1.1
+  lastUpdated: 20221214155028

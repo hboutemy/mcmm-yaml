@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-tpcds
 versioning:
-  latest: 0.278
-  release: 0.278
+  latest: 0.278.1
+  release: 0.278.1
   versions:
   - 0.182
   - 0.183
@@ -145,4 +145,5 @@ versioning:
   - 0.276.2
   - 0.277
   - 0.278
-  lastUpdated: 20221122073300
+  - 0.278.1
+  lastUpdated: 20221214225621
