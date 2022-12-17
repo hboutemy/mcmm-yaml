@@ -3,8 +3,8 @@
 groupId: org.wildfly.galleon-plugins
 artifactId: wildfly-galleon-plugins
 versioning:
-  latest: 6.2.0.Final
-  release: 6.2.0.Final
+  latest: 6.2.2.Final
+  release: 6.2.2.Final
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -129,4 +129,6 @@ versioning:
   - 6.0.0.Final
   - 6.1.0.Final
   - 6.2.0.Final
-  lastUpdated: 20220930103832
+  - 6.2.1.Final
+  - 6.2.2.Final
+  lastUpdated: 20221216120841

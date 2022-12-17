@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-testdriver-parent-pom
 versioning:
-  latest: 14.0.3.Final
-  release: 14.0.3.Final
+  latest: 14.0.4.Final
+  release: 14.0.4.Final
   versions:
   - 11.0.0.CR1
   - 11.0.0.Final
@@ -82,5 +82,6 @@ versioning:
   - 14.0.1.Final
   - 14.0.2.Final
   - 14.0.3.Final
+  - 14.0.4.Final
   - 12.0.0.Dev03
-  lastUpdated: 20221206201930
+  lastUpdated: 20221216154006

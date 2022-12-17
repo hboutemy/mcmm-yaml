@@ -3,8 +3,8 @@
 groupId: uk.gov.justice.service.hmpps
 artifactId: hmpps-sqs-spring-boot-starter
 versioning:
-  latest: 1.2.0
-  release: 1.2.0
+  latest: 2.0.0-beta
+  release: 2.0.0-beta
   versions:
   - 0.8.0
   - 0.8.1
@@ -36,4 +36,5 @@ versioning:
   - 1.1.12
   - 1.1.13
   - 1.2.0
-  lastUpdated: 20221206135416
+  - 2.0.0-beta
+  lastUpdated: 20221216170529

@@ -3,8 +3,8 @@
 groupId: org.neo4j.procedure
 artifactId: apoc
 versioning:
-  latest: 4.4.0.11
-  release: 4.4.0.11
+  latest: 4.4.0.12
+  release: 4.4.0.12
   versions:
   - 1.0.0-RC1
   - 1.0.0
@@ -108,6 +108,7 @@ versioning:
   - 4.3.0.9
   - 4.3.0.10
   - 4.3.0.11
+  - 4.3.0.12
   - 4.4.0.0
   - 4.4.0.1
   - 4.4.0.2
@@ -120,4 +121,5 @@ versioning:
   - 4.4.0.9
   - 4.4.0.10
   - 4.4.0.11
-  lastUpdated: 20221118115828
+  - 4.4.0.12
+  lastUpdated: 20221216165752
