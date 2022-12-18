@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.operatorsdk
 artifactId: quarkus-operator-sdk-integration-tests
 versioning:
-  latest: 5.0.0.Beta2
-  release: 5.0.0.Beta2
+  latest: 5.0.0
+  release: 5.0.0
   versions:
   - 1.8.0.CR1
   - 1.8.0
@@ -40,4 +40,5 @@ versioning:
   - 4.0.5
   - 5.0.0.Beta1
   - 5.0.0.Beta2
-  lastUpdated: 20221122200929
+  - 5.0.0
+  lastUpdated: 20221217091227
