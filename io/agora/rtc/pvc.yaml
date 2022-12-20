@@ -3,14 +3,16 @@
 groupId: io.agora.rtc
 artifactId: pvc
 versioning:
-  release: 4.1.0
+  latest: 12-15-ci-test-2
+  release: 12-15-ci-test-2
   versions:
+  - 4.0.0-rc.1
   - 4.0.0.test.2
   - 4.0.0.test3
-  - 4.0.0-rc.1
   - 4.0.0.3
   - 4.0.0.4
   - 4.0.1
-  - 12-15-ci-test-2
   - 4.1.0
-  lastUpdated: 20221215062817
+  - 4.1.0-1
+  - 12-15-ci-test-2
+  lastUpdated: 20221219132318

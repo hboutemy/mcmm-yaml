@@ -3,8 +3,8 @@
 groupId: io.zipkin.zipkin2
 artifactId: zipkin-collector-activemq
 versioning:
-  latest: 2.23.19
-  release: 2.23.19
+  latest: 2.24.0
+  release: 2.24.0
   versions:
   - 2.15.0
   - 2.16.0
@@ -51,4 +51,5 @@ versioning:
   - 2.23.17
   - 2.23.18
   - 2.23.19
-  lastUpdated: 20221005210605
+  - 2.24.0
+  lastUpdated: 20221219143052

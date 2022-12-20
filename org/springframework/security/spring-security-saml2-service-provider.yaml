@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.security
 artifactId: spring-security-saml2-service-provider
 versioning:
-  latest: 6.0.0
-  release: 6.0.0
+  latest: 6.0.1
+  release: 6.0.1
   versions:
   - 5.2.0.RELEASE
   - 5.2.1.RELEASE
@@ -67,12 +67,16 @@ versioning:
   - 5.6.7
   - 5.6.8
   - 5.6.9
+  - 5.6.10
   - 5.7.0
   - 5.7.1
   - 5.7.2
   - 5.7.3
   - 5.7.4
   - 5.7.5
+  - 5.7.6
   - 5.8.0
+  - 5.8.1
   - 6.0.0
-  lastUpdated: 20221121155135
+  - 6.0.1
+  lastUpdated: 20221219155120
