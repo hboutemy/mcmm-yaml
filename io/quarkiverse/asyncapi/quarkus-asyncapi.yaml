@@ -3,8 +3,10 @@
 groupId: io.quarkiverse.asyncapi
 artifactId: quarkus-asyncapi
 versioning:
-  latest: 0.0.1
-  release: 0.0.1
+  latest: 0.0.1.jandex2a
+  release: 0.0.1.jandex2a
   versions:
   - 0.0.1
-  lastUpdated: 20221212201643
+  - 0.0.1.jandex2
+  - 0.0.1.jandex2a
+  lastUpdated: 20221220221302

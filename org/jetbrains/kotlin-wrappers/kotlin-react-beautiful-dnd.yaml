@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-react-beautiful-dnd
 versioning:
-  latest: 13.1.0-pre.461
-  release: 13.1.0-pre.461
+  latest: 13.1.0-pre.461-compat
+  release: 13.1.0-pre.461-compat
   versions:
   - 13.1.0-pre.327-kotlin-1.6.20
   - 13.1.0-pre.328-kotlin-1.6.20
@@ -159,4 +159,5 @@ versioning:
   - 13.1.0-pre.459
   - 13.1.0-pre.460
   - 13.1.0-pre.461
-  lastUpdated: 20221219073940
+  - 13.1.0-pre.461-compat
+  lastUpdated: 20221220075819

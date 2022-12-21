@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-tanstack-react-virtual
 versioning:
-  latest: 3.0.0-beta.30-pre.461
-  release: 3.0.0-beta.30-pre.461
+  latest: 3.0.0-beta.30-pre.461-compat
+  release: 3.0.0-beta.30-pre.461-compat
   versions:
   - 3.0.0-beta.2-pre.352
   - 3.0.0-beta.2-pre.352-compat
@@ -128,4 +128,5 @@ versioning:
   - 3.0.0-beta.30-pre.459
   - 3.0.0-beta.30-pre.460
   - 3.0.0-beta.30-pre.461
-  lastUpdated: 20221219074015
+  - 3.0.0-beta.30-pre.461-compat
+  lastUpdated: 20221220075854
