@@ -3,12 +3,13 @@
 groupId: org.apache.flink
 artifactId: flink-sql-connector-pulsar
 versioning:
-  latest: 1.16.0
-  release: 1.16.0
+  latest: 3.0.0-1.16
+  release: 3.0.0-1.16
   versions:
   - 1.15.0
   - 1.15.1
   - 1.15.2
   - 1.15.3
   - 1.16.0
-  lastUpdated: 20221125133912
+  - 3.0.0-1.16
+  lastUpdated: 20221221081133
