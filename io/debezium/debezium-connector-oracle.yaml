@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-connector-oracle
 versioning:
-  latest: 2.1.0.Beta1
-  release: 2.1.0.Beta1
+  latest: 2.1.1.Final
+  release: 2.1.1.Final
   versions:
   - 0.8.0.Beta1
   - 0.8.0.CR1
@@ -124,5 +124,7 @@ versioning:
   - 2.1.0.Alpha1
   - 2.1.0.Alpha2
   - 2.1.0.Beta1
+  - 2.1.0.Final
+  - 2.1.1.Final
   - 1.5.0.Alpha1
-  lastUpdated: 20221216103722
+  lastUpdated: 20221222203507
