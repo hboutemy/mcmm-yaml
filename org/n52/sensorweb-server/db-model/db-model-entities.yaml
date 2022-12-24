@@ -3,8 +3,8 @@
 groupId: org.n52.sensorweb-server.db-model
 artifactId: db-model-entities
 versioning:
-  latest: 4.0.0-PR.16
-  release: 4.0.0-PR.16
+  latest: 4.0.1
+  release: 4.0.1
   versions:
   - 1.0.0
   - 1.1.0
@@ -30,6 +30,7 @@ versioning:
   - 3.1.4
   - 3.2.0
   - 3.2.1
+  - 4.0.0
   - 4.0.0-PR.1
   - 4.0.0-PR.2
   - 4.0.0-PR.3
@@ -46,4 +47,5 @@ versioning:
   - 4.0.0-PR.14
   - 4.0.0-PR.15
   - 4.0.0-PR.16
-  lastUpdated: 20221209134031
+  - 4.0.1
+  lastUpdated: 20221223085431
