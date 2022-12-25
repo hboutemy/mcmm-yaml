@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.codehaus.groovy
 artifactId: groovy-console
 versioning:
-  latest: 3.0.13
-  release: 3.0.13
+  latest: 3.0.14
+  release: 3.0.14
   versions:
   - 2.0.0-rc-1
   - 2.0.0-rc-2
@@ -114,6 +114,7 @@ versioning:
   - 2.5.17
   - 2.5.18
   - 2.5.19
+  - 2.5.20
   - 2.6.0-alpha-1
   - 2.6.0-alpha-2
   - 2.6.0-alpha-3
@@ -142,4 +143,5 @@ versioning:
   - 3.0.11
   - 3.0.12
   - 3.0.13
-  lastUpdated: 20221016051419
+  - 3.0.14
+  lastUpdated: 20221224065712
