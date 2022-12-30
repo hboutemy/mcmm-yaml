@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-react-router-dom
 versioning:
-  latest: 6.3.0-pre.465
-  release: 6.3.0-pre.465
+  latest: 6.3.0-pre.466-compat
+  release: 6.3.0-pre.466-compat
   versions:
   - 5.2.0-pre.202-kotlin-1.5.0
   - 5.2.0-pre.203-kotlin-1.5.0
@@ -293,4 +293,6 @@ versioning:
   - 6.3.0-pre.463
   - 6.3.0-pre.464
   - 6.3.0-pre.465
-  lastUpdated: 20221227144044
+  - 6.3.0-pre.466
+  - 6.3.0-pre.466-compat
+  lastUpdated: 20221229170452
