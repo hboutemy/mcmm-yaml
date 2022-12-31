@@ -3,8 +3,8 @@
 groupId: io.trino
 artifactId: trino-exchange-filesystem
 versioning:
-  latest: 403
-  release: 403
+  latest: 405
+  release: 405
   versions:
   - 379
   - 380
@@ -31,4 +31,5 @@ versioning:
   - 401
   - 402
   - 403
-  lastUpdated: 20221116152427
+  - 405
+  lastUpdated: 20221230012816
