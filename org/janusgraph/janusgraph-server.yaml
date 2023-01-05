@@ -3,8 +3,8 @@
 groupId: org.janusgraph
 artifactId: janusgraph-server
 versioning:
-  latest: 1.0.0-rc1
-  release: 1.0.0-rc1
+  latest: 1.0.0-20230104-164902.116a4cc
+  release: 1.0.0-20230104-164902.116a4cc
   versions:
   - 0.3.0
   - 0.3.1
@@ -19,5 +19,7 @@ versioning:
   - 0.6.0
   - 0.6.1
   - 0.6.2
+  - 0.6.3-20230104-164606.a49366e
   - 1.0.0-rc1
-  lastUpdated: 20221208091347
+  - 1.0.0-20230104-164902.116a4cc
+  lastUpdated: 20230104165618
