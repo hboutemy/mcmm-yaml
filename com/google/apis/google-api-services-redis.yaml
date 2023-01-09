@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-redis
 versioning:
-  latest: v1-rev20221007-2.0.0
-  release: v1-rev20221007-2.0.0
+  latest: v1-rev20230103-2.0.0
+  release: v1-rev20230103-2.0.0
   versions:
   - v1beta1-rev2-1.18.0-rc
   - v1beta1-rev2-1.21.0
@@ -283,4 +283,5 @@ versioning:
   - v1-rev20220518-1.32.1
   - v1-rev20220518-2.0.0
   - v1-rev20221007-2.0.0
-  lastUpdated: 20230106093754
+  - v1-rev20230103-2.0.0
+  lastUpdated: 20230108092203
