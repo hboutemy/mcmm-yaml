@@ -3,8 +3,8 @@
 groupId: com.netflix.spectator
 artifactId: spectator-ext-log4j1
 versioning:
-  latest: 1.4.2
-  release: 1.4.2
+  latest: 1.5.1
+  release: 1.5.1
   versions:
   - 0.57.1
   - 0.58.1
@@ -132,4 +132,6 @@ versioning:
   - 1.4.0
   - 1.4.1
   - 1.4.2
-  lastUpdated: 20221208004131
+  - 1.5.0
+  - 1.5.1
+  lastUpdated: 20230109232639

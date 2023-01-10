@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-redux
 versioning:
-  latest: 4.1.2-pre.471
-  release: 4.1.2-pre.471
+  latest: 4.1.2-pre.472-compat
+  release: 4.1.2-pre.472-compat
   versions:
   - 4.0.5-pre.202-kotlin-1.5.0
   - 4.0.5-pre.203-kotlin-1.5.0
@@ -302,4 +302,6 @@ versioning:
   - 4.1.2-pre.470
   - 4.1.2-pre.470-compat
   - 4.1.2-pre.471
-  lastUpdated: 20230107083353
+  - 4.1.2-pre.472
+  - 4.1.2-pre.472-compat
+  lastUpdated: 20230109081001

@@ -3,8 +3,8 @@
 groupId: com.netflix.spectator
 artifactId: spectator-ext-aws
 versioning:
-  latest: 1.4.2
-  release: 1.4.2
+  latest: 1.5.1
+  release: 1.5.1
   versions:
   - 0.33.0
   - 0.34.1
@@ -161,4 +161,6 @@ versioning:
   - 1.4.0
   - 1.4.1
   - 1.4.2
-  lastUpdated: 20221208004120
+  - 1.5.0
+  - 1.5.1
+  lastUpdated: 20230109232627

@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-cesium
 versioning:
-  latest: 1.101.0-pre.471
-  release: 1.101.0-pre.471
+  latest: 1.101.0-pre.472-compat
+  release: 1.101.0-pre.472-compat
   versions:
   - 1.90.0-pre.305-kotlin-1.6.10
   - 1.90.0-pre.306-kotlin-1.6.10
@@ -195,4 +195,6 @@ versioning:
   - 1.101.0-pre.470
   - 1.101.0-pre.470-compat
   - 1.101.0-pre.471
-  lastUpdated: 20230107083303
+  - 1.101.0-pre.472
+  - 1.101.0-pre.472-compat
+  lastUpdated: 20230109080814
