@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.apache.tomee
 artifactId: microprofile-fault-tolerance-tck
 versioning:
-  latest: 9.0.0.RC1
-  release: 9.0.0.RC1
+  latest: 9.0.0
+  release: 9.0.0
   versions:
   - 7.1.0
   - 7.1.1
@@ -30,4 +30,5 @@ versioning:
   - 8.0.12
   - 8.0.13
   - 9.0.0.RC1
-  lastUpdated: 20221103101751
+  - 9.0.0
+  lastUpdated: 20230110124638

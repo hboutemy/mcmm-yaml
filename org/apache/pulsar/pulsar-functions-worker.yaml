@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: pulsar-functions-worker
 versioning:
-  latest: 2.10.3
-  release: 2.10.3
+  latest: 2.11.0
+  release: 2.11.0
   versions:
   - 2.0.0-rc1-incubating
   - 2.0.1-incubating
@@ -46,4 +46,5 @@ versioning:
   - 2.10.1
   - 2.10.2
   - 2.10.3
-  lastUpdated: 20230104072743
+  - 2.11.0
+  lastUpdated: 20230110063714

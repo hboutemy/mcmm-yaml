@@ -3,8 +3,8 @@
 groupId: org.apache.tomee
 artifactId: cxf-shade
 versioning:
-  latest: 9.0.0.RC1
-  release: 9.0.0.RC1
+  latest: 9.0.0
+  release: 9.0.0
   versions:
   - 8.0.8
   - 8.0.9
@@ -14,4 +14,5 @@ versioning:
   - 8.0.13
   - 9.0.0-M8
   - 9.0.0.RC1
-  lastUpdated: 20221103101744
+  - 9.0.0
+  lastUpdated: 20230110124627
