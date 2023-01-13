@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-cloudevents-integration
 versioning:
-  latest: 14.0.4.Final
-  release: 14.0.4.Final
+  latest: 14.0.5.Final
+  release: 14.0.5.Final
   versions:
   - 12.0.0.CR1
   - 12.0.0.Final
@@ -27,6 +27,7 @@ versioning:
   - 12.1.11.Final
   - 12.1.12.Final
   - 12.1.13.Final
+  - 12.1.14.Final
   - 13.0.0.CR1
   - 13.0.0.CR2
   - 13.0.0.Final
@@ -48,6 +49,7 @@ versioning:
   - 13.0.12.Final
   - 13.0.13.Final
   - 13.0.14.Final
+  - 13.0.15.Final
   - 14.0.0.CR1
   - 14.0.0.CR2
   - 14.0.0.Final
@@ -59,4 +61,5 @@ versioning:
   - 14.0.2.Final
   - 14.0.3.Final
   - 14.0.4.Final
-  lastUpdated: 20221216153938
+  - 14.0.5.Final
+  lastUpdated: 20230112092105

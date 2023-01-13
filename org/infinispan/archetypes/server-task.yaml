@@ -3,8 +3,8 @@
 groupId: org.infinispan.archetypes
 artifactId: server-task
 versioning:
-  latest: 14.0.4.Final
-  release: 14.0.4.Final
+  latest: 14.0.5.Final
+  release: 14.0.5.Final
   versions:
   - 13.0.0.CR1
   - 13.0.0.CR2
@@ -27,6 +27,7 @@ versioning:
   - 13.0.12.Final
   - 13.0.13.Final
   - 13.0.14.Final
+  - 13.0.15.Final
   - 14.0.0.CR1
   - 14.0.0.CR2
   - 14.0.0.Final
@@ -38,4 +39,5 @@ versioning:
   - 14.0.2.Final
   - 14.0.3.Final
   - 14.0.4.Final
-  lastUpdated: 20221216153928
+  - 14.0.5.Final
+  lastUpdated: 20230112072332

@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-okhttp-3.0
 versioning:
-  latest: 1.21.0-alpha
-  release: 1.21.0-alpha
+  latest: 1.22.0-alpha
+  release: 1.22.0-alpha
   versions:
   - 0.12.0
   - 0.12.1
@@ -58,4 +58,5 @@ versioning:
   - 1.20.1-alpha
   - 1.20.2-alpha
   - 1.21.0-alpha
-  lastUpdated: 20221213232949
+  - 1.22.0-alpha
+  lastUpdated: 20230112200418
