@@ -3,8 +3,8 @@
 groupId: com.liferay
 artifactId: com.liferay.portal.security.sso.google.settings.authentication.web
 versioning:
-  latest: 2.0.7
-  release: 2.0.9
+  latest: 3.0.9
+  release: 3.0.10
   versions:
   - 1.0.0
   - 1.0.1
@@ -17,6 +17,8 @@ versioning:
   - 1.0.8
   - 1.0.9
   - 1.0.10
+  - 1.0.11
+  - 1.0.12
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -25,8 +27,9 @@ versioning:
   - 2.0.5
   - 2.0.6
   - 2.0.7
+  - 2.0.8
+  - 2.0.9
   - 3.0.0
-  - 1.0.11
   - 3.0.1
   - 3.0.2
   - 3.0.3
@@ -35,7 +38,5 @@ versioning:
   - 3.0.6
   - 3.0.7
   - 3.0.8
-  - 1.0.12
-  - 2.0.8
-  - 2.0.9
-  lastUpdated: 20220429053123
+  - 3.0.10
+  lastUpdated: 20230113060831

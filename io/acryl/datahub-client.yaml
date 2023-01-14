@@ -3,8 +3,8 @@
 groupId: io.acryl
 artifactId: datahub-client
 versioning:
-  latest: 0.9.5-2
-  release: 0.9.5-2
+  latest: 0.9.6rc1
+  release: 0.9.6rc1
   versions:
   - 0.0.0.1
   - 0.0.1
@@ -144,4 +144,6 @@ versioning:
   - 0.9.5-1
   - 0.9.5-2rc0
   - 0.9.5-2
-  lastUpdated: 20230111035049
+  - 0.9.6rc0
+  - 0.9.6rc1
+  lastUpdated: 20230113231347

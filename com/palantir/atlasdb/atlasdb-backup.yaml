@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-backup
 versioning:
-  latest: 0.786.0
-  release: 0.786.0
+  latest: 0.787.0-rc1
+  release: 0.787.0-rc1
   versions:
   - 0.466.0
   - 0.467.0
@@ -393,4 +393,5 @@ versioning:
   - 0.785.0-rc4
   - 0.785.0
   - 0.786.0
-  lastUpdated: 20230112104513
+  - 0.787.0-rc1
+  lastUpdated: 20230113102652
