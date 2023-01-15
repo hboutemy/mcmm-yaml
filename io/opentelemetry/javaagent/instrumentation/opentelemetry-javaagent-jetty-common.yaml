@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-jetty-common
 versioning:
-  latest: 1.22.0-alpha
-  release: 1.22.0-alpha
+  latest: 1.22.1-alpha
+  release: 1.22.1-alpha
   versions:
   - 1.1.0-alpha
   - 1.2.0-alpha
@@ -47,4 +47,5 @@ versioning:
   - 1.20.2-alpha
   - 1.21.0-alpha
   - 1.22.0-alpha
-  lastUpdated: 20230112200309
+  - 1.22.1-alpha
+  lastUpdated: 20230114030422
