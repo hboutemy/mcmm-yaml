@@ -3,8 +3,8 @@
 groupId: com.wavemaker.studio
 artifactId: wavemaker-studio-maven-plugin
 versioning:
-  latest: 11.2.1
-  release: 11.2.1
+  latest: 11.2.2
+  release: 11.2.2
   versions:
   - 9.9.9-20201009170109
   - 9.9.9-20201011200802
@@ -65,6 +65,7 @@ versioning:
   - 10.15.4.ee
   - 10.15.5
   - 10.15.5.ee
+  - 10.15.6
   - 11.0.0.beta
   - 11.0.0.beta.ee-20220401222842
   - 11.0.1.beta
@@ -79,4 +80,5 @@ versioning:
   - 11.2.0
   - 11.2.0.ee
   - 11.2.1
-  lastUpdated: 20221205140457
+  - 11.2.2
+  lastUpdated: 20230115165141
