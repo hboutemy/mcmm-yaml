@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus
 artifactId: nexus-upgrade
 versioning:
-  latest: 3.45.0-01
-  release: 3.45.0-01
+  latest: 3.45.1-01
+  release: 3.45.1-01
   versions:
   - 3.1.0-04
   - 3.2.0-01
@@ -106,4 +106,5 @@ versioning:
   - 3.43.0-01
   - 3.44.0-01
   - 3.45.0-01
-  lastUpdated: 20221227200329
+  - 3.45.1-01
+  lastUpdated: 20230116230028

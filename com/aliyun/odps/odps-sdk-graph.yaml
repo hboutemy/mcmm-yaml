@@ -3,8 +3,8 @@
 groupId: com.aliyun.odps
 artifactId: odps-sdk-graph
 versioning:
-  latest: 0.40.10-public
-  release: 0.40.10-public
+  latest: 0.43.0-table-api-public
+  release: 0.43.0-table-api-public
   versions:
   - 0.17.3
   - 0.18.3-public
@@ -45,4 +45,5 @@ versioning:
   - 0.38.4-public
   - 0.40.8-public
   - 0.40.10-public
-  lastUpdated: 20220808101514
+  - 0.43.0-table-api-public
+  lastUpdated: 20230116090710
