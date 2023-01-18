@@ -3,8 +3,8 @@
 groupId: org.graalvm.truffle
 artifactId: truffle-tck-tests
 versioning:
-  latest: 22.3.0
-  release: 22.3.0
+  latest: 22.3.1
+  release: 22.3.1
   versions:
   - 20.2.0
   - 20.3.0
@@ -19,6 +19,7 @@ versioning:
   - 20.3.7
   - 20.3.7.1
   - 20.3.8
+  - 20.3.9
   - 21.0.0
   - 21.0.0.2
   - 21.1.0
@@ -30,6 +31,7 @@ versioning:
   - 21.3.3
   - 21.3.3.1
   - 21.3.4
+  - 21.3.5
   - 22.0.0
   - 22.0.0.2
   - 22.1.0
@@ -37,4 +39,5 @@ versioning:
   - 22.2.0
   - 22.2.0.1
   - 22.3.0
-  lastUpdated: 20221018160952
+  - 22.3.1
+  lastUpdated: 20230117142329

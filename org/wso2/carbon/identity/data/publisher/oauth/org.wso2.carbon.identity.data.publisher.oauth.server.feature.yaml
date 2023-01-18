@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.data.publisher.oauth
 artifactId: org.wso2.carbon.identity.data.publisher.oauth.server.feature
 versioning:
-  latest: 1.6.0
-  release: 1.6.0
+  latest: 1.6.1
+  release: 1.6.1
   versions:
   - 0.1.0
   - 0.1.1
@@ -40,4 +40,5 @@ versioning:
   - 1.5.0
   - 1.5.1
   - 1.6.0
-  lastUpdated: 20221027190129
+  - 1.6.1
+  lastUpdated: 20230117183854
