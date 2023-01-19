@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: br.com.zup.nimbus
 artifactId: nimbus-compose-processor
 versioning:
-  latest: 1.0.0-alpha51
-  release: 1.0.0-alpha51
+  latest: 1.0.0-beta.1
+  release: 1.0.0-beta.1
   versions:
   - 1.0.0-alpha33
   - 1.0.0-alpha34
@@ -26,5 +26,7 @@ versioning:
   - 1.0.0-alpha49
   - 1.0.0-alpha50
   - 1.0.0-alpha51
+  - 1.0.0-beta.1
   - 1.0.0-45
-  lastUpdated: 20230112175152
+  - 1.0.0-beta1
+  lastUpdated: 20230118114407

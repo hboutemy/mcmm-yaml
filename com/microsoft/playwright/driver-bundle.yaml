@@ -3,9 +3,11 @@
 groupId: com.microsoft.playwright
 artifactId: driver-bundle
 versioning:
-  latest: 1.28.1
-  release: 1.28.1
+  latest: 1.29.0
+  release: 1.29.0
   versions:
+  - 0.129.0-test-2
+  - 0.129.0-test-3
   - 0.162.1
   - 0.162.2
   - 0.162.3
@@ -50,4 +52,5 @@ versioning:
   - 1.27.1
   - 1.28.0
   - 1.28.1
-  lastUpdated: 20221129002051
+  - 1.29.0
+  lastUpdated: 20230118204209

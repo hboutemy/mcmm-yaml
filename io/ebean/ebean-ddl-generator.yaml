@@ -3,8 +3,8 @@
 groupId: io.ebean
 artifactId: ebean-ddl-generator
 versioning:
-  latest: 13.11.1
-  release: 13.11.1
+  latest: 13.11.2-beta-jakarta
+  release: 13.11.2-beta-jakarta
   versions:
   - 12.6.0
   - 12.6.1
@@ -74,4 +74,5 @@ versioning:
   - 13.10.2
   - 13.11.0
   - 13.11.1
-  lastUpdated: 20230108221904
+  - 13.11.2-beta-jakarta
+  lastUpdated: 20230118185822
