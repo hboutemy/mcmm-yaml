@@ -3,8 +3,8 @@
 groupId: cn.herodotus.engine
 artifactId: oss-sdk-minio
 versioning:
-  latest: 3.0.1.0
-  release: 3.0.1.0
+  latest: 3.0.2.0
+  release: 3.0.2.0
   versions:
   - 2.7.0.Beta1
   - 2.7.0.Beta2
@@ -55,6 +55,7 @@ versioning:
   - 2.7.7.3
   - 2.7.7.4
   - 2.7.7.5
+  - 2.7.8.0
   - 3.0.0-M1
   - 3.0.0-M2
   - 3.0.0-M3
@@ -64,4 +65,5 @@ versioning:
   - 3.0.0-RC3
   - 3.0.0.0
   - 3.0.1.0
-  lastUpdated: 20230117150951
+  - 3.0.2.0
+  lastUpdated: 20230120095342

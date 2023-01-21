@@ -3,8 +3,8 @@
 groupId: org.questdb
 artifactId: questdb
 versioning:
-  latest: 6.6.1-jdk8
-  release: 6.6.1-jdk8
+  latest: 6.7-jdk8
+  release: 6.7-jdk8
   versions:
   - 5.0.2
   - 5.0.3
@@ -67,4 +67,6 @@ versioning:
   - 6.6
   - 6.6.1
   - 6.6.1-jdk8
-  lastUpdated: 20221123153259
+  - 6.7
+  - 6.7-jdk8
+  lastUpdated: 20230120173917
