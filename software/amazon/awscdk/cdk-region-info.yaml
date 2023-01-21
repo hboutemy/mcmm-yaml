@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awscdk
 artifactId: cdk-region-info
 versioning:
-  latest: 2.60.0
-  release: 2.60.0
+  latest: 2.61.0
+  release: 2.61.0
   versions:
   - 0.26.0
   - 0.27.0
@@ -248,6 +248,7 @@ versioning:
   - 1.186.1
   - 1.187.0
   - 1.188.0
+  - 1.189.0
   - 2.0.0-alpha.0
   - 2.0.0-alpha.1
   - 2.0.0-alpha.2
@@ -373,4 +374,5 @@ versioning:
   - 2.58.1
   - 2.59.0
   - 2.60.0
-  lastUpdated: 20230112030715
+  - 2.61.0
+  lastUpdated: 20230119035018

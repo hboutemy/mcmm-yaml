@@ -1,11 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.main.web
 artifactId: weld-integration-fragment
 versioning:
   latest: 7.0.0
   release: 7.0.0
   versions:
+  - 5.1.0
   - 6.0.0-M1
   - 6.0.0-RC1
   - 6.0.0-RC2
@@ -36,7 +38,6 @@ versioning:
   - 4.1.2
   - 5.0
   - 5.0.1
-  - 5.1.0
   - 5.1.0-RC1
   - 5.1.0-RC2
-  lastUpdated: 20221214203619
+  lastUpdated: 20230119192256

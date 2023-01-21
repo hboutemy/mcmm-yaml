@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: lock-api-objects
 versioning:
-  latest: 0.787.0-rc1
-  release: 0.787.0-rc1
+  latest: 0.787.0
+  release: 0.787.0
   versions:
   - 0.311.6
   - 0.311.7
@@ -571,4 +571,5 @@ versioning:
   - 0.785.0
   - 0.786.0
   - 0.787.0-rc1
-  lastUpdated: 20230113102810
+  - 0.787.0
+  lastUpdated: 20230119173726

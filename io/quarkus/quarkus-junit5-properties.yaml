@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-junit5-properties
 versioning:
-  latest: 3.0.0.Alpha2
-  release: 3.0.0.Alpha2
+  latest: 3.0.0.Alpha3
+  release: 3.0.0.Alpha3
   versions:
   - 2.6.0.Final
   - 2.6.1.Final
@@ -51,6 +51,7 @@ versioning:
   - 2.13.4.Final
   - 2.13.5.Final
   - 2.13.6.Final
+  - 2.13.7.Final
   - 2.14.0.CR1
   - 2.14.0.Final
   - 2.14.1.Final
@@ -65,4 +66,5 @@ versioning:
   - 2.16.0.Final
   - 3.0.0.Alpha1
   - 3.0.0.Alpha2
-  lastUpdated: 20230118120509
+  - 3.0.0.Alpha3
+  lastUpdated: 20230119155823

@@ -1,11 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.hk2.external
 artifactId: aopalliance-repackaged
 versioning:
   latest: 3.0.3
   release: 3.0.3
   versions:
+  - 2.6.1
   - 3.0.0-M2
   - 3.0.0-RC1
   - 3.0.0
@@ -123,5 +125,4 @@ versioning:
   - 2.5.0-b62
   - 2.5.0-b63
   - 2.6.0
-  - 2.6.1
-  lastUpdated: 20220411164130
+  lastUpdated: 20230119185436

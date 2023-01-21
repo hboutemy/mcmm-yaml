@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-jboss-marshalling
 versioning:
-  latest: 14.0.5.Final
-  release: 14.0.5.Final
+  latest: 14.0.6.Final
+  release: 14.0.6.Final
   versions:
   - 10.0.0.Beta5
   - 10.0.0.CR1
@@ -110,5 +110,6 @@ versioning:
   - 14.0.3.Final
   - 14.0.4.Final
   - 14.0.5.Final
+  - 14.0.6.Final
   - 12.0.0.Dev03
-  lastUpdated: 20230112092114
+  lastUpdated: 20230119090549

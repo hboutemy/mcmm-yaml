@@ -1,11 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.main.tests
 artifactId: utils
 versioning:
   latest: 6.2.1
   release: 6.2.1
   versions:
+  - 5.1.0
   - 6.0.0-M1
   - 6.0.0-RC1
   - 6.0.0-RC2
@@ -25,7 +27,6 @@ versioning:
   - 4.1.2
   - 5.0
   - 5.0.1
-  - 5.1.0
   - 5.1.0-RC1
   - 5.1.0-RC2
-  lastUpdated: 20210827142407
+  lastUpdated: 20230119192023

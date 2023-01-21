@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-streetviewpublish
 versioning:
-  latest: v1-rev20220926-2.0.0
-  release: v1-rev20220926-2.0.0
+  latest: v1-rev20230115-2.0.0
+  release: v1-rev20230115-2.0.0
   versions:
   - v1-rev2-1.18.0-rc
   - v1-rev2-1.20.0
@@ -1272,4 +1272,5 @@ versioning:
   - v1-rev20220722-1.32.1
   - v1-rev20220722-2.0.0
   - v1-rev20220926-2.0.0
-  lastUpdated: 20220927085201
+  - v1-rev20230115-2.0.0
+  lastUpdated: 20230119101505

@@ -3,8 +3,8 @@
 groupId: com.adform
 artifactId: stream-loader-vertica_2.13
 versioning:
-  latest: 0.2.4
-  release: 0.2.4
+  latest: 0.2.6-pre
+  release: 0.2.6-pre
   versions:
   - 0.1.1
   - 0.1.2
@@ -18,4 +18,7 @@ versioning:
   - 0.2.2
   - 0.2.3
   - 0.2.4
-  lastUpdated: 20221215052537
+  - 0.2.5
+  - 0.2.6-alpha
+  - 0.2.6-pre
+  lastUpdated: 20230119204152

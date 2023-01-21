@@ -1,11 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.main
 artifactId: glassfish-main-aggregator
 versioning:
   latest: 7.0.0
   release: 7.0.0
   versions:
+  - 5.1.0
   - 6.0.0-M1
   - 6.0.0-RC1
   - 6.0.0-RC2
@@ -25,6 +27,5 @@ versioning:
   - 7.0.0-M4
   - 7.0.0-M10
   - 7.0.0
-  - 5.1.0
   - 5.1.0-RC2
-  lastUpdated: 20221214203558
+  lastUpdated: 20230119192803

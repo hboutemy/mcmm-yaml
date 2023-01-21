@@ -1,14 +1,15 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.glassfish.web
 artifactId: jakarta.servlet.jsp.jstl
 versioning:
   latest: 3.0.1
   release: 3.0.1
   versions:
+  - 1.2.6
   - 2.0.0-M1
   - 2.0.0
   - 3.0.0
   - 3.0.1
-  - 1.2.6
-  lastUpdated: 20221119232450
+  lastUpdated: 20230119192929
