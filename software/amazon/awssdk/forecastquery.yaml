@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: forecastquery
 versioning:
-  latest: 2.19.21
-  release: 2.19.21
+  latest: 2.19.23
+  release: 2.19.23
   versions:
   - 2.7.29
   - 2.7.30
@@ -811,4 +811,6 @@ versioning:
   - 2.19.19
   - 2.19.20
   - 2.19.21
-  lastUpdated: 20230120211934
+  - 2.19.22
+  - 2.19.23
+  lastUpdated: 20230124212801

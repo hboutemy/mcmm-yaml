@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-react-popper
 versioning:
-  latest: 2.3.0-pre.483
-  release: 2.3.0-pre.483
+  latest: 2.3.0-pre.484-compat
+  release: 2.3.0-pre.484-compat
   versions:
   - 2.2.5-pre.242-kotlin-1.5.30
   - 2.2.5-pre.243-kotlin-1.5.30
@@ -275,4 +275,6 @@ versioning:
   - 2.3.0-pre.482
   - 2.3.0-pre.482-compat
   - 2.3.0-pre.483
-  lastUpdated: 20230123220637
+  - 2.3.0-pre.484
+  - 2.3.0-pre.484-compat
+  lastUpdated: 20230124073505

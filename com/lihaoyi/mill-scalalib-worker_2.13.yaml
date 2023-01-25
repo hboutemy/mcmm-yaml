@@ -3,8 +3,8 @@
 groupId: com.lihaoyi
 artifactId: mill-scalalib-worker_2.13
 versioning:
-  latest: 0.11.0-M2
-  release: 0.11.0-M2
+  latest: 0.11.0-M3
+  release: 0.11.0-M3
   versions:
   - 0.6.1-122-5be570
   - 0.6.1-123-6b987b
@@ -670,6 +670,7 @@ versioning:
   - 0.10.9-50-35d6b5
   - 0.10.10
   - 0.10.10-5-e7ed05
+  - 0.10.11
   - 0.11.0-M0-1-706879
   - 0.11.0-M0-7-839ee3
   - 0.11.0-M0-8-e4a91d
@@ -693,4 +694,5 @@ versioning:
   - 0.11.0-M1-21-b393f6
   - 0.11.0-M1-29-8f872d
   - 0.11.0-M2
-  lastUpdated: 20230117233632
+  - 0.11.0-M3
+  lastUpdated: 20230124155640

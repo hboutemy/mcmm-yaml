@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.identity.outbound.auth.saml2
 artifactId: org.wso2.carbon.identity.application.authenticator.samlsso.server.feature
 versioning:
-  latest: 5.8.0
-  release: 5.8.0
+  latest: 5.8.1
+  release: 5.8.1
   versions:
   - 5.1.8
   - 5.1.9
@@ -60,4 +60,5 @@ versioning:
   - 5.6.2
   - 5.7.0
   - 5.8.0
-  lastUpdated: 20221031122512
+  - 5.8.1
+  lastUpdated: 20230124094010

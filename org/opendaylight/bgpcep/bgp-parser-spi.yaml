@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.bgpcep
 artifactId: bgp-parser-spi
 versioning:
-  latest: 0.18.5
-  release: 0.18.5
+  latest: 0.19.0
+  release: 0.19.0
   versions:
   - 0.3.0
   - 0.3.1-Helium
@@ -102,4 +102,5 @@ versioning:
   - 0.18.3
   - 0.18.4
   - 0.18.5
-  lastUpdated: 20230104212859
+  - 0.19.0
+  lastUpdated: 20230124165421
