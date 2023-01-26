@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-elastictranscoder
 versioning:
-  latest: 1.12.390
-  release: 1.12.390
+  latest: 1.12.393
+  release: 1.12.393
   versions:
   - 1.9.0
   - 1.9.1
@@ -1557,4 +1557,7 @@ versioning:
   - 1.12.388
   - 1.12.389
   - 1.12.390
-  lastUpdated: 20230123214154
+  - 1.12.391
+  - 1.12.392
+  - 1.12.393
+  lastUpdated: 20230125215019
