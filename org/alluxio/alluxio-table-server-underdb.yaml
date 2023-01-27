@@ -3,8 +3,8 @@
 groupId: org.alluxio
 artifactId: alluxio-table-server-underdb
 versioning:
-  latest: 2.9.1
-  release: 2.9.1
+  latest: 291-alpha
+  release: 291-alpha
   versions:
   - 2.1.0
   - 2.1.1
@@ -44,4 +44,5 @@ versioning:
   - 2.8.1
   - 2.9.0
   - 2.9.1
-  lastUpdated: 20230118193250
+  - 291-alpha
+  lastUpdated: 20230126230947

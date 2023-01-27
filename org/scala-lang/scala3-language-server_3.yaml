@@ -3,8 +3,8 @@
 groupId: org.scala-lang
 artifactId: scala3-language-server_3
 versioning:
-  latest: 3.3.0-RC1-bin-20230124-9f1d4b6-NIGHTLY
-  release: 3.3.0-RC1-bin-20230124-9f1d4b6-NIGHTLY
+  latest: 3.3.0-RC2
+  release: 3.3.0-RC2
   versions:
   - 3.0.0
   - 3.0.1-RC1
@@ -500,4 +500,6 @@ versioning:
   - 3.3.0-RC1-bin-20230120-d6cc101-NIGHTLY
   - 3.3.0-RC1-bin-20230123-eeb00d4-NIGHTLY
   - 3.3.0-RC1-bin-20230124-9f1d4b6-NIGHTLY
-  lastUpdated: 20230125043843
+  - 3.3.0-RC1-bin-20230126-6ccdbd9-NIGHTLY
+  - 3.3.0-RC2
+  lastUpdated: 20230126191819
