@@ -3,8 +3,8 @@
 groupId: org.apache.dubbo
 artifactId: dubbo-dependencies-zookeeper-curator5
 versioning:
-  latest: 3.2.0-beta.3
-  release: 3.2.0-beta.3
+  latest: 3.2.0-beta.4
+  release: 3.2.0-beta.4
   versions:
   - 3.0.6
   - 3.0.7
@@ -13,6 +13,7 @@ versioning:
   - 3.0.10
   - 3.0.11
   - 3.0.12
+  - 3.0.13
   - 3.1.0
   - 3.1.1
   - 3.1.2
@@ -22,4 +23,5 @@ versioning:
   - 3.2.0-beta.1
   - 3.2.0-beta.2
   - 3.2.0-beta.3
-  lastUpdated: 20230121042950
+  - 3.2.0-beta.4
+  lastUpdated: 20230127070340
