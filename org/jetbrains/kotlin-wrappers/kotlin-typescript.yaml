@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-typescript
 versioning:
-  latest: 4.9.4-pre.485
-  release: 4.9.4-pre.485
+  latest: 4.9.4-pre.488-compat
+  release: 4.9.4-pre.488-compat
   versions:
   - 4.5.5-pre.291-kotlin-1.6.10
   - 4.5.5-pre.292-kotlin-1.6.10
@@ -229,4 +229,10 @@ versioning:
   - 4.9.4-pre.484
   - 4.9.4-pre.484-compat
   - 4.9.4-pre.485
-  lastUpdated: 20230125074743
+  - 4.9.4-pre.486
+  - 4.9.4-pre.486-compat
+  - 4.9.4-pre.487
+  - 4.9.4-pre.487-compat
+  - 4.9.4-pre.488
+  - 4.9.4-pre.488-compat
+  lastUpdated: 20230128183838
