@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.main.web
 artifactId: web-embed
 versioning:
-  latest: 7.0.0
-  release: 7.0.0
+  latest: 7.0.1
+  release: 7.0.1
   versions:
   - 5.1.0
   - 6.0.0-M1
@@ -27,6 +27,7 @@ versioning:
   - 7.0.0-M4
   - 7.0.0-M10
   - 7.0.0
+  - 7.0.1
   - 4.0
   - 4.0-b33
   - 4.0-b72
@@ -38,4 +39,4 @@ versioning:
   - 5.0.1
   - 5.1.0-RC1
   - 5.1.0-RC2
-  lastUpdated: 20230119192318
+  lastUpdated: 20230130230044

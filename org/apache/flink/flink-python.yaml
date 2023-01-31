@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-python
 versioning:
-  latest: 1.16.0
-  release: 1.16.0
+  latest: 1.16.1
+  release: 1.16.1
   versions:
   - 0.9.0
   - 0.9.0-hadoop1
@@ -17,4 +17,5 @@ versioning:
   - 0.10.2
   - 0.10.2-hadoop1
   - 1.16.0
-  lastUpdated: 20221026091049
+  - 1.16.1
+  lastUpdated: 20230130134022

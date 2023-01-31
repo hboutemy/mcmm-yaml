@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-metrics-dropwizard
 versioning:
-  latest: 1.16.0
-  release: 1.16.0
+  latest: 1.16.1
+  release: 1.16.1
   versions:
   - 1.1.0
   - 1.1.1
@@ -87,4 +87,5 @@ versioning:
   - 1.15.2
   - 1.15.3
   - 1.16.0
-  lastUpdated: 20221125133810
+  - 1.16.1
+  lastUpdated: 20230130134013

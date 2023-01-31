@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.apimgt
 artifactId: org.wso2.carbon.apimgt.scxml.feature
 versioning:
-  latest: 9.28.56
-  release: 9.28.56
+  latest: 9.28.60
+  release: 9.28.60
   versions:
   - 6.0.0
   - 6.0.1
@@ -2374,6 +2374,7 @@ versioning:
   - 9.22.77
   - 9.22.78
   - 9.22.79
+  - 9.22.80
   - 9.23.0
   - 9.23.1
   - 9.23.2
@@ -2536,4 +2537,8 @@ versioning:
   - 9.28.54
   - 9.28.55
   - 9.28.56
-  lastUpdated: 20230127173712
+  - 9.28.57
+  - 9.28.58
+  - 9.28.59
+  - 9.28.60
+  lastUpdated: 20230130163111
