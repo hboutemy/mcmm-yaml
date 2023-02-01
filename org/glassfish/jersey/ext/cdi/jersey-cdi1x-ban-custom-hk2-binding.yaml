@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.ext.cdi
 artifactId: jersey-cdi1x-ban-custom-hk2-binding
 versioning:
-  latest: 3.1.0
-  release: 3.1.0
+  latest: 3.1.1
+  release: 3.1.1
   versions:
   - 2.15
   - 2.16
@@ -71,4 +71,5 @@ versioning:
   - 3.1.0-M7
   - 3.1.0-M8
   - 3.1.0
-  lastUpdated: 20221223092334
+  - 3.1.1
+  lastUpdated: 20230131140221

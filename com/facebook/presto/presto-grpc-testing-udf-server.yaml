@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-grpc-testing-udf-server
 versioning:
-  latest: 0.278.1
-  release: 0.278.1
+  latest: 0.279
+  release: 0.279
   versions:
   - 0.270
   - 0.271
@@ -24,4 +24,5 @@ versioning:
   - 0.277
   - 0.278
   - 0.278.1
-  lastUpdated: 20221214225301
+  - 0.279
+  lastUpdated: 20230131131137

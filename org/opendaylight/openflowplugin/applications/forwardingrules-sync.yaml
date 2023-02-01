@@ -3,8 +3,8 @@
 groupId: org.opendaylight.openflowplugin.applications
 artifactId: forwardingrules-sync
 versioning:
-  latest: 0.15.1
-  release: 0.15.1
+  latest: 0.15.2
+  release: 0.15.2
   versions:
   - 0.3.0-Boron
   - 0.3.1-Boron-SR1
@@ -61,4 +61,5 @@ versioning:
   - 0.14.3
   - 0.15.0
   - 0.15.1
-  lastUpdated: 20221225221451
+  - 0.15.2
+  lastUpdated: 20230131022318

@@ -3,8 +3,8 @@
 groupId: org.xrpl
 artifactId: xrpl4j-parent
 versioning:
-  latest: 3.0.0-rc2.1
-  release: 3.0.0-rc2.1
+  latest: 3.0.0-amm-dev-preview-rc1
+  release: 3.0.0-amm-dev-preview-rc1
   versions:
   - 0.1.0
   - 1.0.0
@@ -23,4 +23,6 @@ versioning:
   - 3.0.0-rc1
   - 3.0.0-rc2
   - 3.0.0-rc2.1
-  lastUpdated: 20221114203147
+  - 3.0.0
+  - 3.0.0-amm-dev-preview-rc1
+  lastUpdated: 20230131183159
