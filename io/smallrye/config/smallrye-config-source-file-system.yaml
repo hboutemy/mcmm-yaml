@@ -3,8 +3,8 @@
 groupId: io.smallrye.config
 artifactId: smallrye-config-source-file-system
 versioning:
-  latest: 3.1.1
-  release: 3.1.1
+  latest: 3.1.2
+  release: 3.1.2
   versions:
   - 1.4.0
   - 1.4.1
@@ -71,6 +71,7 @@ versioning:
   - 2.12.3
   - 2.13.0
   - 2.13.1
+  - 2.13.2
   - 3.0.0-RC1
   - 3.0.0-RC2
   - 3.0.0-RC3
@@ -78,4 +79,5 @@ versioning:
   - 3.0.0
   - 3.1.0
   - 3.1.1
-  lastUpdated: 20230118113037
+  - 3.1.2
+  lastUpdated: 20230201172223
