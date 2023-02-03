@@ -3,8 +3,8 @@
 groupId: com.arkivanov.decompose
 artifactId: extensions-compose-jetbrains-macosx64
 versioning:
-  latest: 1.0.0-beta-04-native-compose
-  release: 1.0.0-beta-04-native-compose
+  latest: 1.0.0-compose-experimental
+  release: 1.0.0-compose-experimental
   versions:
   - 0.6.0-native-compose
   - 0.6.0-native-compose-01
@@ -21,4 +21,5 @@ versioning:
   - 1.0.0-beta-02-native-compose
   - 1.0.0-beta-03-native-compose
   - 1.0.0-beta-04-native-compose
-  lastUpdated: 20230114094242
+  - 1.0.0-compose-experimental
+  lastUpdated: 20230202222104
