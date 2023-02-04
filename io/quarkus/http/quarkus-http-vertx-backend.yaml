@@ -3,8 +3,8 @@
 groupId: io.quarkus.http
 artifactId: quarkus-http-vertx-backend
 versioning:
-  latest: 5.0.0.Alpha3
-  release: 5.0.0.Alpha3
+  latest: 5.0.0.Final
+  release: 5.0.0.Final
   versions:
   - 3.0.0.Alpha1
   - 3.0.0.Alpha2
@@ -50,10 +50,11 @@ versioning:
   - 5.0.0.Alpha1
   - 5.0.0.Alpha2
   - 5.0.0.Alpha3
+  - 5.0.0.Final
   - 3.1.0.Beta1
   - 3.1.0.Beta2
   - 3.1.0.Final
   - 4.0.0.Alpha2
   - 4.0.0.Alpha3
   - 4.0.0.Alpha4
-  lastUpdated: 20221121135040
+  lastUpdated: 20230203161158
