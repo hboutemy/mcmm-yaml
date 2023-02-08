@@ -3,11 +3,17 @@
 groupId: org.lucee
 artifactId: mssql
 versioning:
-  latest: 9.4.1.jre16
-  release: 9.4.1.jre16
+  latest: 12.2.0.jre11
+  release: 12.2.0.jre11
   versions:
   - 7.2.0.0
   - 7.2.1.0
   - 9.4.1.jre8
   - 9.4.1.jre16
-  lastUpdated: 20230113102502
+  - 10.2.3.jre8
+  - 10.2.3.jre11
+  - 11.2.3.jre8
+  - 11.2.3.jre11
+  - 12.2.0.jre8
+  - 12.2.0.jre11
+  lastUpdated: 20230207091656
