@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-driveactivity
 versioning:
-  latest: v2-rev20230110-2.0.0
-  release: v2-rev20230110-2.0.0
+  latest: v2-rev20230205-2.0.0
+  release: v2-rev20230205-2.0.0
   versions:
   - v2-rev4-1.18.0-rc
   - v2-rev4-1.22.0
@@ -369,4 +369,5 @@ versioning:
   - v2-rev20220926-2.0.0
   - v2-rev20221218-2.0.0
   - v2-rev20230110-2.0.0
-  lastUpdated: 20230113093448
+  - v2-rev20230205-2.0.0
+  lastUpdated: 20230208094939
