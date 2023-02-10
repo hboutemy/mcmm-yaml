@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.identity.inbound.auth.oauth2
 artifactId: org.wso2.carbon.claim.metadata.mgt.stub.dep
 versioning:
-  latest: 6.11.24
-  release: 6.11.24
+  latest: 6.11.26
+  release: 6.11.26
   versions:
   - 6.0.21
   - 6.0.22
@@ -636,4 +636,6 @@ versioning:
   - 6.11.22
   - 6.11.23
   - 6.11.24
-  lastUpdated: 20230206043737
+  - 6.11.25
+  - 6.11.26
+  lastUpdated: 20230209193020
