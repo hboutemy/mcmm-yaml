@@ -3,8 +3,8 @@
 groupId: com.microsoft.azure.kusto
 artifactId: kusto-ingest
 versioning:
-  latest: 4.0.1
-  release: 4.0.1
+  latest: 4.0.2
+  release: 4.0.2
   versions:
   - ${revision}
   - 1.0.0-BETA-02
@@ -49,4 +49,5 @@ versioning:
   - 3.2.2-nifi
   - 4.0.0
   - 4.0.1
-  lastUpdated: 20230103081454
+  - 4.0.2
+  lastUpdated: 20230210092232

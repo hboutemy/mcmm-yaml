@@ -3,8 +3,8 @@
 groupId: io.opentelemetry
 artifactId: opentelemetry-exporter-jaeger-thrift
 versioning:
-  latest: 1.22.0
-  release: 1.22.0
+  latest: 1.23.0
+  release: 1.23.0
   versions:
   - 0.10.0
   - 0.11.0
@@ -47,4 +47,5 @@ versioning:
   - 1.20.1
   - 1.21.0
   - 1.22.0
-  lastUpdated: 20230106151455
+  - 1.23.0
+  lastUpdated: 20230210203428
