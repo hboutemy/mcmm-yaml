@@ -3,8 +3,8 @@
 groupId: com.oracle.database.jdbc
 artifactId: ucp
 versioning:
-  latest: 21.8.0.0
-  release: 21.8.0.0
+  latest: 21.9.0.0
+  release: 21.9.0.0
   versions:
   - 11.2.0.4
   - 12.2.0.1
@@ -25,6 +25,7 @@ versioning:
   - 19.15.0.0.1
   - 19.16.0.0
   - 19.17.0.0
+  - 19.18.0.0
   - 21.1.0.0
   - 21.3.0.0
   - 21.4.0.0
@@ -34,4 +35,5 @@ versioning:
   - 21.6.0.0.1
   - 21.7.0.0
   - 21.8.0.0
-  lastUpdated: 20221208153239
+  - 21.9.0.0
+  lastUpdated: 20230211195958
