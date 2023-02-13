@@ -3,8 +3,8 @@
 groupId: org.hibernate
 artifactId: hibernate-tools-maven-plugin
 versioning:
-  latest: 5.6.14.Final
-  release: 5.6.14.Final
+  latest: 5.6.15.Final
+  release: 5.6.15.Final
   versions:
   - 5.3.26.Final
   - 5.3.27.Final
@@ -21,6 +21,7 @@ versioning:
   - 5.6.12.Final
   - 5.6.13.Final
   - 5.6.14.Final
+  - 5.6.15.Final
   - 5.3.0.Beta2
   - 5.3.0.Beta3
   - 5.3.0.CR1
@@ -106,4 +107,4 @@ versioning:
   - 5.6.0.Final
   - 5.6.1.Final
   - 5.6.2.Final
-  lastUpdated: 20221121105411
+  lastUpdated: 20230212174726

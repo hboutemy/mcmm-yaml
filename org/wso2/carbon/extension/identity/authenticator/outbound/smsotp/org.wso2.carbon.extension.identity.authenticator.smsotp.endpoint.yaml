@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.extension.identity.authenticator.outbound.smsotp
 artifactId: org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint
 versioning:
-  latest: 2.0.43
-  release: 2.0.43
+  latest: 2.0.45
+  release: 2.0.45
   versions:
   - 2.0.5
   - 2.0.6
@@ -25,6 +25,7 @@ versioning:
   - 2.0.16.7
   - 2.0.16.9
   - 2.0.16.10
+  - 2.0.16.12
   - 2.0.17
   - 2.0.18
   - 2.0.19
@@ -41,4 +42,5 @@ versioning:
   - 2.0.41
   - 2.0.42
   - 2.0.43
-  lastUpdated: 20210201171522
+  - 2.0.45
+  lastUpdated: 20230212135938
