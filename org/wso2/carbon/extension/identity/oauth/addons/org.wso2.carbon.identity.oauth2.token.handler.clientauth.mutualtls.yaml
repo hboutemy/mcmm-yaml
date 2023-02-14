@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.extension.identity.oauth.addons
 artifactId: org.wso2.carbon.identity.oauth2.token.handler.clientauth.mutualtls
 versioning:
-  latest: 2.4.13
-  release: 2.4.13
+  latest: 2.4.14
+  release: 2.4.14
   versions:
   - 1.0.4
   - 1.0.5
@@ -44,4 +44,5 @@ versioning:
   - 2.4.11
   - 2.4.12
   - 2.4.13
-  lastUpdated: 20230208044309
+  - 2.4.14
+  lastUpdated: 20230213120840

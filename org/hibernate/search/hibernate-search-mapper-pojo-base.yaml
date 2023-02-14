@@ -3,8 +3,8 @@
 groupId: org.hibernate.search
 artifactId: hibernate-search-mapper-pojo-base
 versioning:
-  latest: 6.2.0.Alpha1
-  release: 6.2.0.Alpha1
+  latest: 6.2.0.Alpha2
+  release: 6.2.0.Alpha2
   versions:
   - 6.0.7.Final
   - 6.0.8.Final
@@ -24,6 +24,7 @@ versioning:
   - 6.1.7.Final
   - 6.1.8.Final
   - 6.2.0.Alpha1
+  - 6.2.0.Alpha2
   - 6.0.0.Beta10
   - 6.0.0.Beta11
   - 6.0.0.Beta2
@@ -44,4 +45,4 @@ versioning:
   - 6.0.5.Final
   - 6.0.6.Final
   - 6.1.0.Alpha1
-  lastUpdated: 20230131084410
+  lastUpdated: 20230213154342
