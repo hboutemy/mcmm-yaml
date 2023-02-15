@@ -3,8 +3,8 @@
 groupId: org.camunda.spin
 artifactId: camunda-spin-dataformat-json-jackson
 versioning:
-  latest: 1.18.0
-  release: 1.18.0
+  latest: 1.18.1
+  release: 1.18.1
   versions:
   - 1.0.0-alpha6
   - 1.0.0
@@ -69,6 +69,7 @@ versioning:
   - 1.11.3
   - 1.11.4
   - 1.11.5
+  - 1.11.6
   - 1.12.0
   - 1.13.0
   - 1.13.1
@@ -77,8 +78,10 @@ versioning:
   - 1.14.2
   - 1.14.3
   - 1.14.4
+  - 1.14.5
   - 1.15.0
   - 1.16.0
   - 1.17.0
   - 1.18.0
-  lastUpdated: 20220808144328
+  - 1.18.1
+  lastUpdated: 20230214114225

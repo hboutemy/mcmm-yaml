@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: databricks
 versioning:
-  latest: 1.6.0
-  release: 1.6.0
+  latest: 1.7.0-alpha.1676395060+ca80a0b1
+  release: 1.7.0-alpha.1676395060+ca80a0b1
   versions:
   - 1.2.0-alpha.1660861679+11c7e97e
   - 1.2.0
@@ -23,4 +23,7 @@ versioning:
   - 1.6.0-alpha.1673555856+4cd89ee1
   - 1.6.0-alpha.1674683679+d5189074
   - 1.6.0
-  lastUpdated: 20230125225721
+  - 1.6.1
+  - 1.7.0-alpha.1676333170+dee8914e
+  - 1.7.0-alpha.1676395060+ca80a0b1
+  lastUpdated: 20230214181810

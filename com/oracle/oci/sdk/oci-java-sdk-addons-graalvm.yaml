@@ -3,8 +3,8 @@
 groupId: com.oracle.oci.sdk
 artifactId: oci-java-sdk-addons-graalvm
 versioning:
-  latest: 3.3.0
-  release: 3.3.0
+  latest: 3.4.0
+  release: 3.4.0
   versions:
   - 2.27.0
   - 2.28.0
@@ -38,6 +38,7 @@ versioning:
   - 2.51.2
   - 2.51.3
   - 2.52.0
+  - 2.53.0
   - 3.0.0-beta1
   - 3.0.0-beta2
   - 3.0.0
@@ -48,4 +49,5 @@ versioning:
   - 3.2.2
   - 3.2.3
   - 3.3.0
-  lastUpdated: 20230207204330
+  - 3.4.0
+  lastUpdated: 20230214181657
