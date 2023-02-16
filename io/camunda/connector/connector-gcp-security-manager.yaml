@@ -3,8 +3,8 @@
 groupId: io.camunda.connector
 artifactId: connector-gcp-security-manager
 versioning:
-  latest: 0.6.0
-  release: 0.6.0
+  latest: 0.7.0-alpha1
+  release: 0.7.0-alpha1
   versions:
   - 0.4.0-alpha1
   - 0.4.0-alpha2
@@ -15,4 +15,5 @@ versioning:
   - 0.6.0-alpha2
   - 0.6.0-alpha5
   - 0.6.0
-  lastUpdated: 20230213142907
+  - 0.7.0-alpha1
+  lastUpdated: 20230215141419

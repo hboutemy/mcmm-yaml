@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.bgpcep
 artifactId: bgp-parser-mock
 versioning:
-  latest: 0.19.0
-  release: 0.19.0
+  latest: 0.19.1
+  release: 0.19.1
   versions:
   - 0.3.0
   - 0.3.1-Helium
@@ -103,4 +103,5 @@ versioning:
   - 0.18.4
   - 0.18.5
   - 0.19.0
-  lastUpdated: 20230124165350
+  - 0.19.1
+  lastUpdated: 20230215112426

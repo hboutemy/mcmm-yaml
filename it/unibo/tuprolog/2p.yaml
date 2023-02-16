@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: it.unibo.tuprolog
 artifactId: 2p
 versioning:
-  latest: 0.31.0
-  release: 0.31.0
+  latest: 0.31.1-dev02+0cd8a1ae6
+  release: 0.31.1-dev02+0cd8a1ae6
   versions:
   - 0.11.2
   - 0.11.3
@@ -72,5 +72,8 @@ versioning:
   - 0.30.4
   - 0.30.5
   - 0.31.0
+  - 0.31.1
+  - 0.31.1-dev01+f8b39929b
+  - 0.31.1-dev02+0cd8a1ae6
   - 0.14.11
-  lastUpdated: 20230214104554
+  lastUpdated: 20230215101727

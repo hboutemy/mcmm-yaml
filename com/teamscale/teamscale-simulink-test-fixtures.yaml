@@ -3,8 +3,8 @@
 groupId: com.teamscale
 artifactId: teamscale-simulink-test-fixtures
 versioning:
-  latest: 8.6.3
-  release: 8.6.3
+  latest: 8.7.0-rc1
+  release: 8.7.0-rc1
   versions:
   - 6.1.0-rc1
   - 6.1.0-rc2
@@ -409,6 +409,7 @@ versioning:
   - 8.5.7
   - 8.5.8
   - 8.5.9
+  - 8.5.10
   - 8.6.0-rc1
   - 8.6.0-rc2
   - 8.6.0-rc3
@@ -416,4 +417,6 @@ versioning:
   - 8.6.1
   - 8.6.2
   - 8.6.3
-  lastUpdated: 20230214140335
+  - 8.6.4
+  - 8.7.0-rc1
+  lastUpdated: 20230215185118

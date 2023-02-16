@@ -3,8 +3,8 @@
 groupId: de.fraunhofer.iosb.ilt.FROST-Server
 artifactId: FROST-Server.Plugin.BatchProcessing
 versioning:
-  latest: 2.0.6
-  release: 2.0.6
+  latest: 2.1.0
+  release: 2.1.0
   versions:
   - 1.13.0
   - 1.13.1
@@ -16,8 +16,10 @@ versioning:
   - 1.14.2
   - 1.14.3
   - 1.14.4
+  - 1.14.5
   - 1.15.0
   - 1.15.1
+  - 1.15.2
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -25,4 +27,5 @@ versioning:
   - 2.0.4
   - 2.0.5
   - 2.0.6
-  lastUpdated: 20230109145905
+  - 2.1.0
+  lastUpdated: 20230215095308
