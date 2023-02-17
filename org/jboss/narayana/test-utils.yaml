@@ -3,8 +3,8 @@
 groupId: org.jboss.narayana
 artifactId: test-utils
 versioning:
-  latest: 6.0.0.CR1
-  release: 6.0.0.CR1
+  latest: 6.0.0.Final
+  release: 6.0.0.Final
   versions:
   - 5.9.10.Final
   - 5.9.11.Final
@@ -24,4 +24,5 @@ versioning:
   - 5.13.1.Alpha1
   - 5.13.1.Final
   - 6.0.0.CR1
-  lastUpdated: 20230117121111
+  - 6.0.0.Final
+  lastUpdated: 20230216121238

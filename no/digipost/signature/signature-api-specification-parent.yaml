@@ -3,10 +3,11 @@
 groupId: no.digipost.signature
 artifactId: signature-api-specification-parent
 versioning:
-  latest: 2.8
-  release: 2.8
+  latest: 3.0.0-RC3
+  release: 3.0.0-RC3
   versions:
   - dummy-2
+  - dummy-3
   - 1.0-BETA1
   - 1.0-BETA2
   - 1.0-BETA3
@@ -36,4 +37,5 @@ versioning:
   - 2.8-RC2
   - 2.8-RC3
   - 2.8
-  lastUpdated: 20230215145442
+  - 3.0.0-RC3
+  lastUpdated: 20230216130723

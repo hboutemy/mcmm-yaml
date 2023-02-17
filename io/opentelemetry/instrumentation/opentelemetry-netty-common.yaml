@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.instrumentation
 artifactId: opentelemetry-netty-common
 versioning:
-  latest: 1.22.1-alpha
-  release: 1.22.1-alpha
+  latest: 1.23.0-alpha
+  release: 1.23.0-alpha
   versions:
   - 1.19.0-alpha
   - 1.19.1-alpha
@@ -15,4 +15,5 @@ versioning:
   - 1.21.0-alpha
   - 1.22.0-alpha
   - 1.22.1-alpha
-  lastUpdated: 20230114030037
+  - 1.23.0-alpha
+  lastUpdated: 20230216011534

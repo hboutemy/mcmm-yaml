@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-jaxrs-2.0-cxf-3.2
 versioning:
-  latest: 1.22.1-alpha
-  release: 1.22.1-alpha
+  latest: 1.23.0-alpha
+  release: 1.23.0-alpha
   versions:
   - 0.16.0
   - 0.16.1
@@ -53,4 +53,5 @@ versioning:
   - 1.21.0-alpha
   - 1.22.0-alpha
   - 1.22.1-alpha
-  lastUpdated: 20230114030334
+  - 1.23.0-alpha
+  lastUpdated: 20230216011829
