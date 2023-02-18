@@ -3,8 +3,8 @@
 groupId: de.arbeitsagentur.opdt
 artifactId: keycloak-cassandra-extension
 versioning:
-  latest: 0.6.0-20.0.3-no-lwt
-  release: 0.6.0-20.0.3-no-lwt
+  latest: 0.7.2-20.0.3
+  release: 0.7.2-20.0.3
   versions:
   - 0.3.0-20.0.1
   - 0.3.1-20.0.1
@@ -21,4 +21,7 @@ versioning:
   - 0.5.0-20.0.3
   - 0.6.0-20.0.3
   - 0.6.0-20.0.3-no-lwt
-  lastUpdated: 20230216145403
+  - 0.7.0-20.0.3
+  - 0.7.1-20.0.3
+  - 0.7.2-20.0.3
+  lastUpdated: 20230217170226
