@@ -3,8 +3,8 @@
 groupId: com.slack.keeper
 artifactId: com.slack.keeper.gradle.plugin
 versioning:
-  latest: 0.14.0-alpha01
-  release: 0.14.0-alpha01
+  latest: 0.14.0-alpha04-ignore2
+  release: 0.14.0-alpha04-ignore2
   versions:
   - 0.3.1
   - 0.3.2
@@ -25,4 +25,8 @@ versioning:
   - 0.12.0
   - 0.13.0
   - 0.14.0-alpha01
-  lastUpdated: 20230214215216
+  - 0.14.0-alpha02
+  - 0.14.0-alpha03
+  - 0.14.0-alpha04-ignore
+  - 0.14.0-alpha04-ignore2
+  lastUpdated: 20230218205114

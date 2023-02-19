@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.pulumi
 artifactId: command
 versioning:
-  latest: 4.6.0-alpha.1662390243+5c22c9dd
-  release: 4.6.0-alpha.1662390243+5c22c9dd
+  latest: 0.7.1-alpha.1676676792+993baeb1
+  release: 0.7.1-alpha.1676676792+993baeb1
   versions:
   - 0.4.2-alpha.1660771417+18b89118
   - 0.4.2-alpha.1660942230+d3a669cf
@@ -37,6 +38,7 @@ versioning:
   - 0.7.1-alpha.1673560323+b79c3536
   - 0.7.1-alpha.1674088865+43e9ba4d
   - 0.7.1-alpha.1676394151+694b1220
+  - 0.7.1-alpha.1676676792+993baeb1
   - 4.5.0
   - 4.6.0-alpha.1662390243+5c22c9dd
-  lastUpdated: 20230214172432
+  lastUpdated: 20230218195702

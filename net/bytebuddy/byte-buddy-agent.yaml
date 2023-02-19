@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: net.bytebuddy
 artifactId: byte-buddy-agent
 versioning:
-  latest: 1.13.0
-  release: 1.13.0
+  latest: 1.14.0
+  release: 1.14.0
   versions:
   - 0.3
   - 0.3.1
@@ -265,4 +265,5 @@ versioning:
   - 1.12.22
   - 1.12.23
   - 1.13.0
-  lastUpdated: 20230210175418
+  - 1.14.0
+  lastUpdated: 20230218230405
