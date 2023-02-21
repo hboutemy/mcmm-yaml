@@ -3,8 +3,8 @@
 groupId: org.apache.rocketmq
 artifactId: rocketmq-distribution
 versioning:
-  latest: 5.0.0-PREVIEW
-  release: 5.0.0-PREVIEW
+  latest: 5.1.0
+  release: 5.1.0
   versions:
   - 4.1.0-incubating
   - 4.2.0
@@ -28,4 +28,5 @@ versioning:
   - 5.0.0-ALPHA
   - 5.0.0
   - 5.0.0-PREVIEW
-  lastUpdated: 20220922072534
+  - 5.1.0
+  lastUpdated: 20230220112859

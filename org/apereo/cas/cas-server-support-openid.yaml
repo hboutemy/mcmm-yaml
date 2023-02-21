@@ -3,8 +3,8 @@
 groupId: org.apereo.cas
 artifactId: cas-server-support-openid
 versioning:
-  latest: 6.6.5
-  release: 6.6.5
+  latest: 6.6.6
+  release: 6.6.6
   versions:
   - v6.4.0-RC5
   - v6.4.0-RC6
@@ -175,6 +175,7 @@ versioning:
   - 6.5.7
   - 6.5.8
   - 6.5.9
+  - 6.5.9.1
   - 6.6.0-RC1
   - 6.6.0-RC2
   - 6.6.0-RC3
@@ -186,4 +187,5 @@ versioning:
   - 6.6.3
   - 6.6.4
   - 6.6.5
-  lastUpdated: 20230210082105
+  - 6.6.6
+  lastUpdated: 20230220164229
