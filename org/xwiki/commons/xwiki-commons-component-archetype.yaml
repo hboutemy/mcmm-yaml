@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.commons
 artifactId: xwiki-commons-component-archetype
 versioning:
-  latest: 15.0
-  release: 15.0
+  latest: 15.1-rc-1
+  release: 15.1-rc-1
   versions:
   - 3.3-milestone-1
   - 3.3-milestone-2
@@ -411,4 +411,5 @@ versioning:
   - 14.10.5
   - 15.0-rc-1
   - 15.0
-  lastUpdated: 20230217141647
+  - 15.1-rc-1
+  lastUpdated: 20230221053820

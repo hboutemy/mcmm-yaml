@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.security
 artifactId: spring-security-web
 versioning:
-  latest: 6.0.1
-  release: 6.0.1
+  latest: 6.0.2
+  release: 6.0.2
   versions:
   - 3.0.0.RELEASE
   - 3.0.1.RELEASE
@@ -169,8 +169,11 @@ versioning:
   - 5.7.4
   - 5.7.5
   - 5.7.6
+  - 5.7.7
   - 5.8.0
   - 5.8.1
+  - 5.8.2
   - 6.0.0
   - 6.0.1
-  lastUpdated: 20221219155123
+  - 6.0.2
+  lastUpdated: 20230221151043

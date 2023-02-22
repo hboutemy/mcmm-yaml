@@ -3,8 +3,8 @@
 groupId: org.apache.drill.exec
 artifactId: drill-rpc
 versioning:
-  latest: 1.20.2
-  release: 1.20.2
+  latest: 1.21.0
+  release: 1.21.0
   versions:
   - 1.4.0
   - 1.5.0
@@ -25,4 +25,5 @@ versioning:
   - 1.20.0
   - 1.20.0-hadoop2
   - 1.20.2
-  lastUpdated: 20220803083715
+  - 1.21.0
+  lastUpdated: 20230221091627

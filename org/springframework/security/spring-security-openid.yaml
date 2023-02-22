@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.security
 artifactId: spring-security-openid
 versioning:
-  latest: 5.8.1
-  release: 5.8.1
+  latest: 5.8.2
+  release: 5.8.2
   versions:
   - 2.0.0
   - 2.0.1
@@ -178,6 +178,8 @@ versioning:
   - 5.7.4
   - 5.7.5
   - 5.7.6
+  - 5.7.7
   - 5.8.0
   - 5.8.1
-  lastUpdated: 20221219155117
+  - 5.8.2
+  lastUpdated: 20230221151030

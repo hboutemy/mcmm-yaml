@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.rendering
 artifactId: xwiki-rendering-macro-footnotes
 versioning:
-  latest: 15.0
-  release: 15.0
+  latest: 15.1-rc-1
+  release: 15.1-rc-1
   versions:
   - 3.2-milestone-3
   - 3.2-rc-1
@@ -412,4 +412,5 @@ versioning:
   - 14.10.5
   - 15.0-rc-1
   - 15.0
-  lastUpdated: 20230217142550
+  - 15.1-rc-1
+  lastUpdated: 20230221054823

@@ -3,8 +3,8 @@
 groupId: org.wildfly.security
 artifactId: wildfly-elytron-client
 versioning:
-  latest: 2.0.0.Final
-  release: 2.0.0.Final
+  latest: 2.1.0.Final
+  release: 2.1.0.Final
   versions:
   - 1.9.0.CR1
   - 1.9.0.CR2
@@ -94,6 +94,7 @@ versioning:
   - 1.20.0.Final
   - 1.20.1.Final
   - 1.20.2.Final
+  - 1.20.3.Final
   - 2.0.0.Alpha1
   - 2.0.0.Alpha2
   - 2.0.0.Alpha3
@@ -108,4 +109,5 @@ versioning:
   - 2.0.0.Beta2
   - 2.0.0.Beta3
   - 2.0.0.Final
-  lastUpdated: 20230110142144
+  - 2.1.0.Final
+  lastUpdated: 20230221160806
