@@ -3,8 +3,8 @@
 groupId: io.seata
 artifactId: seata-metrics-exporter-prometheus
 versioning:
-  latest: 1.6.1
-  release: 1.6.1
+  latest: 1.7.0-native-rc2
+  release: 1.7.0-native-rc2
   versions:
   - 0.7.0
   - 0.7.1
@@ -26,4 +26,5 @@ versioning:
   - 1.6.0-RC1
   - 1.6.0
   - 1.6.1
-  lastUpdated: 20221221131831
+  - 1.7.0-native-rc2
+  lastUpdated: 20230222071909

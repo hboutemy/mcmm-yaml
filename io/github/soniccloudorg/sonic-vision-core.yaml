@@ -3,8 +3,8 @@
 groupId: io.github.soniccloudorg
 artifactId: sonic-vision-core
 versioning:
-  latest: 1.0.12-windows-x86_64
-  release: 1.0.12-windows-x86_64
+  latest: 1.0.13-windows-x86_64
+  release: 1.0.13-windows-x86_64
   versions:
   - 1.0.2
   - 1.0.4-linux-x86
@@ -68,4 +68,11 @@ versioning:
   - 1.0.12-macosx-x86_64
   - 1.0.12-windows-x86
   - 1.0.12-windows-x86_64
-  lastUpdated: 20230221140300
+  - 1.0.13-linux-arm64
+  - 1.0.13-linux-x86
+  - 1.0.13-linux-x86_64
+  - 1.0.13-macosx-arm64
+  - 1.0.13-macosx-x86_64
+  - 1.0.13-windows-x86
+  - 1.0.13-windows-x86_64
+  lastUpdated: 20230222134041

@@ -3,8 +3,8 @@
 groupId: com.aliyun.odps
 artifactId: odps-mapred-bridge
 versioning:
-  latest: 0.43.0-table-api-public
-  release: 0.43.0-table-api-public
+  latest: 0.43.1-public
+  release: 0.43.1-public
   versions:
   - 0.24.0-public
   - 0.26.2-public
@@ -41,4 +41,5 @@ versioning:
   - 0.40.10-public
   - 0.41.1-public
   - 0.43.0-table-api-public
-  lastUpdated: 20230208034953
+  - 0.43.1-public
+  lastUpdated: 20230222103500

@@ -3,8 +3,8 @@
 groupId: org.cloudfoundry
 artifactId: cloudfoundry-operations
 versioning:
-  latest: 5.9.0.RELEASE
-  release: 5.9.0.RELEASE
+  latest: 5.10.0.RELEASE
+  release: 5.10.0.RELEASE
   versions:
   - 2.0.0.M1
   - 2.0.0.M2
@@ -114,4 +114,5 @@ versioning:
   - 5.7.0.RELEASE
   - 5.8.0.RELEASE
   - 5.9.0.RELEASE
-  lastUpdated: 20220728135755
+  - 5.10.0.RELEASE
+  lastUpdated: 20230222195133

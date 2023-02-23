@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.batch
 artifactId: spring-batch-infrastructure
 versioning:
-  latest: 5.0.0
-  release: 5.0.0
+  latest: 5.0.1
+  release: 5.0.1
   versions:
   - 1.0.0.FINAL
   - 1.0.1.RELEASE
@@ -76,7 +76,9 @@ versioning:
   - 4.3.5
   - 4.3.6
   - 4.3.7
+  - 4.3.8
   - 5.0.0
+  - 5.0.1
   - 4.2.6.RELEASE
   - 4.3.2
-  lastUpdated: 20221124035132
+  lastUpdated: 20230222231210

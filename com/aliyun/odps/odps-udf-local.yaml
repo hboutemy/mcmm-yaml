@@ -3,8 +3,8 @@
 groupId: com.aliyun.odps
 artifactId: odps-udf-local
 versioning:
-  latest: 0.43.0-table-api-public
-  release: 0.43.0-table-api-public
+  latest: 0.43.1-public
+  release: 0.43.1-public
   versions:
   - 0.19.3-public
   - 0.20.7-public
@@ -45,4 +45,5 @@ versioning:
   - 0.40.10-public
   - 0.41.1-public
   - 0.43.0-table-api-public
-  lastUpdated: 20230208035004
+  - 0.43.1-public
+  lastUpdated: 20230222103511
