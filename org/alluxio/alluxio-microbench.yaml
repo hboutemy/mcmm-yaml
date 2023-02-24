@@ -3,8 +3,8 @@
 groupId: org.alluxio
 artifactId: alluxio-microbench
 versioning:
-  latest: 291-alpha
-  release: 291-alpha
+  latest: 291-beta
+  release: 291-beta
   versions:
   - 2.8.0-2
   - 2.8.1
@@ -14,4 +14,5 @@ versioning:
   - 2.9.0-2
   - 2.9.1
   - 291-alpha
-  lastUpdated: 20230203204616
+  - 291-beta
+  lastUpdated: 20230223224847

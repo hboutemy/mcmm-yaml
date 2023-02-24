@@ -4,7 +4,7 @@ groupId: org.keycloak
 artifactId: keycloak-saml-undertow-adapter
 versioning:
   latest: 18.0.2
-  release: 20.0.5
+  release: 21.0.0
   versions:
   - 1.6.0.Final
   - 1.6.1.Final
@@ -121,4 +121,5 @@ versioning:
   - 20.0.3
   - 20.0.4
   - 20.0.5
-  lastUpdated: 20230221055325
+  - 21.0.0
+  lastUpdated: 20230223085114

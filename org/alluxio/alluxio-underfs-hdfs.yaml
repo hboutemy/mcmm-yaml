@@ -3,8 +3,8 @@
 groupId: org.alluxio
 artifactId: alluxio-underfs-hdfs
 versioning:
-  latest: 291-alpha
-  release: 291-alpha
+  latest: 291-beta
+  release: 291-beta
   versions:
   - 1.0.0
   - 1.0.1
@@ -66,4 +66,5 @@ versioning:
   - 2.9.0-2
   - 2.9.1
   - 291-alpha
-  lastUpdated: 20230203204634
+  - 291-beta
+  lastUpdated: 20230223224907

@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat
 artifactId: tomcat-i18n-cs
 versioning:
-  latest: 11.0.0-M1
-  release: 11.0.0-M1
+  latest: 11.0.0-M3
+  release: 11.0.0-M3
   versions:
   - 9.0.17
   - 9.0.19
@@ -49,6 +49,7 @@ versioning:
   - 9.0.69
   - 9.0.70
   - 9.0.71
+  - 9.0.72
   - 10.0.0-M1
   - 10.0.0-M3
   - 10.0.0-M4
@@ -99,4 +100,5 @@ versioning:
   - 10.1.4
   - 10.1.5
   - 11.0.0-M1
-  lastUpdated: 20230113135004
+  - 11.0.0-M3
+  lastUpdated: 20230223102416
