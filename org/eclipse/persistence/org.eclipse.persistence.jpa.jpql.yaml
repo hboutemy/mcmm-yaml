@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.eclipse.persistence
 artifactId: org.eclipse.persistence.jpa.jpql
 versioning:
-  latest: 4.0.1-RC2
-  release: 4.0.1-RC2
+  latest: 4.0.1
+  release: 4.0.1
   versions:
   - 2.4.2
   - 2.5.0-RC1
@@ -102,4 +102,5 @@ versioning:
   - 4.0.0
   - 4.0.1-RC1
   - 4.0.1-RC2
-  lastUpdated: 20230222120211
+  - 4.0.1
+  lastUpdated: 20230224113806
