@@ -3,8 +3,8 @@
 groupId: org.reactivemongo
 artifactId: reactivemongo-bson-specs2_2.12
 versioning:
-  latest: 1.1.0-noshaded-RC7
-  release: 1.1.0-noshaded-RC7
+  latest: 1.1.0-noshaded-RC8
+  release: 1.1.0-noshaded-RC8
   versions:
   - 0.20.2
   - 0.20.2-noshaded
@@ -55,6 +55,7 @@ versioning:
   - 1.1.0-RC5
   - 1.1.0-RC6
   - 1.1.0-RC7
+  - 1.1.0-RC8
   - 1.1.0-noshaded-RC1
   - 1.1.0-noshaded-RC2
   - 1.1.0-noshaded-RC3
@@ -62,4 +63,5 @@ versioning:
   - 1.1.0-noshaded-RC5
   - 1.1.0-noshaded-RC6
   - 1.1.0-noshaded-RC7
-  lastUpdated: 20230129180215
+  - 1.1.0-noshaded-RC8
+  lastUpdated: 20230226203304
