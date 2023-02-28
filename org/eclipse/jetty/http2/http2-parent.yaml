@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty.http2
 artifactId: http2-parent
 versioning:
-  latest: 11.0.13
-  release: 11.0.13
+  latest: 11.0.14
+  release: 11.0.14
   versions:
   - 9.3.0.M0
   - 9.3.0.M1
@@ -126,6 +126,7 @@ versioning:
   - 9.4.48.v20220622
   - 9.4.49.v20220914
   - 9.4.50.v20221201
+  - 9.4.51.v20230217
   - 10.0.0-alpha0
   - 10.0.0.alpha1
   - 10.0.0.alpha2
@@ -147,6 +148,7 @@ versioning:
   - 10.0.11
   - 10.0.12
   - 10.0.13
+  - 10.0.14
   - 11.0.0-alpha0
   - 11.0.0.beta1
   - 11.0.0.beta2
@@ -165,4 +167,5 @@ versioning:
   - 11.0.11
   - 11.0.12
   - 11.0.13
-  lastUpdated: 20221209200448
+  - 11.0.14
+  lastUpdated: 20230227172550

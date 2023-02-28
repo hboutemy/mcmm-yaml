@@ -3,8 +3,8 @@
 groupId: io.zeebe.hazelcast
 artifactId: zeebe-hazelcast-exporter
 versioning:
-  latest: 1.3.0
-  release: 1.3.0
+  latest: 1.4.0-alpha1
+  release: 1.4.0-alpha1
   versions:
   - 0.1.0
   - 0.2.0
@@ -28,4 +28,6 @@ versioning:
   - 1.2.0
   - 1.2.1
   - 1.3.0
-  lastUpdated: 20230224094320
+  - 1.3.1
+  - 1.4.0-alpha1
+  lastUpdated: 20230227134305

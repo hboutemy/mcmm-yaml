@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.main.web
 artifactId: war-util
 versioning:
-  latest: 7.0.1
-  release: 7.0.1
+  latest: 7.0.2
+  release: 7.0.2
   versions:
   - 5.1.0
   - 6.0.0-M1
@@ -28,6 +28,7 @@ versioning:
   - 7.0.0-M10
   - 7.0.0
   - 7.0.1
+  - 7.0.2
   - 3.1.2
   - 3.1.2.2
   - 4.0
@@ -41,4 +42,4 @@ versioning:
   - 5.0.1
   - 5.1.0-RC1
   - 5.1.0-RC2
-  lastUpdated: 20230130230043
+  lastUpdated: 20230227121601

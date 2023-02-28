@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.metadata.saml2
 artifactId: org.wso2.carbon.identity.idp.metadata.saml2.server.feature
 versioning:
-  latest: 1.7.1
-  release: 1.7.1
+  latest: 1.7.3
+  release: 1.7.3
   versions:
   - 1.0.3
   - 1.0.4
@@ -36,4 +36,5 @@ versioning:
   - 1.6.1
   - 1.7.0
   - 1.7.1
-  lastUpdated: 20221031144821
+  - 1.7.3
+  lastUpdated: 20230227060712

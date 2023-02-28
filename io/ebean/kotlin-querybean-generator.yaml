@@ -3,8 +3,8 @@
 groupId: io.ebean
 artifactId: kotlin-querybean-generator
 versioning:
-  latest: 13.13.1-jakarta-beta
-  release: 13.13.1-jakarta-beta
+  latest: 13.13.3-RC1
+  release: 13.13.3-RC1
   versions:
   - 10.1.1
   - 10.1.2
@@ -141,4 +141,6 @@ versioning:
   - 13.13.1-beta-jakarta
   - 13.13.1
   - 13.13.1-jakarta-beta
-  lastUpdated: 20230223023621
+  - 13.13.2
+  - 13.13.3-RC1
+  lastUpdated: 20230227043028
