@@ -3,8 +3,8 @@
 groupId: com.lightbend.akka.grpc
 artifactId: akka-grpc-runtime_2.12
 versioning:
-  latest: 2.3.0-M2
-  release: 2.3.0-M2
+  latest: 2.3.0
+  release: 2.3.0
   versions:
   - 0.1
   - 0.2-RC1
@@ -52,4 +52,5 @@ versioning:
   - 2.2.1
   - 2.3.0-M1
   - 2.3.0-M2
-  lastUpdated: 20230124145321
+  - 2.3.0
+  lastUpdated: 20230228103231

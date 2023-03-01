@@ -3,8 +3,8 @@
 groupId: io.ebean
 artifactId: ebean-joda-time
 versioning:
-  latest: 13.13.2
-  release: 13.13.2
+  latest: 13.14.0-jakarta
+  release: 13.14.0-jakarta
   versions:
   - 13.9.0
   - 13.9.1
@@ -25,4 +25,6 @@ versioning:
   - 13.13.1
   - 13.13.1-jakarta-beta
   - 13.13.2
-  lastUpdated: 20230227033647
+  - 13.14.0
+  - 13.14.0-jakarta
+  lastUpdated: 20230228214148

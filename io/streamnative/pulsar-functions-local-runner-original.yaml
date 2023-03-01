@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-functions-local-runner-original
 versioning:
-  latest: 2.11.0-rc-202205082205
-  release: 2.11.0-rc-202205082205
+  latest: 2.11.0.1
+  release: 2.11.0.1
   versions:
   - master-rc-daily
   - v2.8.0-rc-202106091140
@@ -572,4 +572,5 @@ versioning:
   - 2.11.0-rc-202205062205
   - 2.11.0-rc-202205072206
   - 2.11.0-rc-202205082205
-  lastUpdated: 20230222081152
+  - 2.11.0.1
+  lastUpdated: 20230228104812
