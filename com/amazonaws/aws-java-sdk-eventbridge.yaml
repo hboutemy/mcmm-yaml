@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-eventbridge
 versioning:
-  latest: 1.12.416
-  release: 1.12.416
+  latest: 1.12.418
+  release: 1.12.418
   versions:
   - 1.11.591
   - 1.11.592
@@ -866,4 +866,6 @@ versioning:
   - 1.12.414
   - 1.12.415
   - 1.12.416
-  lastUpdated: 20230227222541
+  - 1.12.417
+  - 1.12.418
+  lastUpdated: 20230301222315

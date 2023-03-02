@@ -3,8 +3,8 @@
 groupId: com.exactpro.th2
 artifactId: grpc-act-template
 versioning:
-  latest: 3.11.0
-  release: 3.11.0
+  latest: 4.0.0-dev
+  release: 4.0.0-dev
   versions:
   - 2.4.0
   - 3.0.1
@@ -21,4 +21,6 @@ versioning:
   - 3.9.0
   - 3.10.0
   - 3.11.0
-  lastUpdated: 20230207110714
+  - 3.12.0
+  - 4.0.0-dev
+  lastUpdated: 20230301095950

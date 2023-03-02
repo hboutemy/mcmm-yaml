@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-qldb
 versioning:
-  latest: 1.12.416
-  release: 1.12.416
+  latest: 1.12.418
+  release: 1.12.418
   versions:
   - 1.11.628
   - 1.11.629
@@ -829,4 +829,6 @@ versioning:
   - 1.12.414
   - 1.12.415
   - 1.12.416
-  lastUpdated: 20230227222634
+  - 1.12.417
+  - 1.12.418
+  lastUpdated: 20230301222424
