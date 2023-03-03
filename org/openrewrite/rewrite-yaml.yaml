@@ -3,8 +3,8 @@
 groupId: org.openrewrite
 artifactId: rewrite-yaml
 versioning:
-  latest: 7.37.0
-  release: 7.37.0
+  latest: 7.37.2
+  release: 7.37.2
   versions:
   - 2.1.0-rc.3
   - 2.2.0
@@ -128,4 +128,6 @@ versioning:
   - 7.36.0
   - 7.36.1
   - 7.37.0
-  lastUpdated: 20230301020450
+  - 7.37.1
+  - 7.37.2
+  lastUpdated: 20230302181039
