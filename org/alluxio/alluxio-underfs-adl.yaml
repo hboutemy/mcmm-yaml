@@ -3,8 +3,8 @@
 groupId: org.alluxio
 artifactId: alluxio-underfs-adl
 versioning:
-  latest: 291-beta
-  release: 291-beta
+  latest: 291-gamma
+  release: 291-gamma
   versions:
   - 2.4.0
   - 2.4.1
@@ -39,4 +39,5 @@ versioning:
   - 2.9.2
   - 291-alpha
   - 291-beta
-  lastUpdated: 20230301055635
+  - 291-gamma
+  lastUpdated: 20230303014651

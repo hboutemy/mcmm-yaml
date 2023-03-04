@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-browser-js
 versioning:
-  latest: 1.0.0-pre.505
-  release: 1.0.0-pre.505
+  latest: 1.0.0-pre.506-compat
+  release: 1.0.0-pre.506-compat
   versions:
   - 1.0.0-pre.493
   - 1.0.0-pre.493-compat
@@ -20,4 +20,6 @@ versioning:
   - 1.0.0-pre.503
   - 1.0.0-pre.504
   - 1.0.0-pre.505
-  lastUpdated: 20230228154807
+  - 1.0.0-pre.506
+  - 1.0.0-pre.506-compat
+  lastUpdated: 20230303181604

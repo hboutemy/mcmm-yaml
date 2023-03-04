@@ -3,8 +3,8 @@
 groupId: org.alluxio
 artifactId: alluxio-table-server-underdb-glue
 versioning:
-  latest: 291-beta
-  release: 291-beta
+  latest: 291-gamma
+  release: 291-gamma
   versions:
   - 2.3.0
   - 2.3.0-1
@@ -41,4 +41,5 @@ versioning:
   - 2.9.2
   - 291-alpha
   - 291-beta
-  lastUpdated: 20230301055631
+  - 291-gamma
+  lastUpdated: 20230303014646

@@ -3,8 +3,8 @@
 groupId: org.alluxio
 artifactId: alluxio-minicluster
 versioning:
-  latest: 291-beta
-  release: 291-beta
+  latest: 291-gamma
+  release: 291-gamma
   versions:
   - 1.0.0
   - 1.0.1
@@ -68,4 +68,5 @@ versioning:
   - 2.9.2
   - 291-alpha
   - 291-beta
-  lastUpdated: 20230301055617
+  - 291-gamma
+  lastUpdated: 20230303014636

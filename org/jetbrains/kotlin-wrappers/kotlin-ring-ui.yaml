@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-ring-ui
 versioning:
-  latest: 4.1.5-pre.505
-  release: 4.1.5-pre.505
+  latest: 4.1.5-pre.506-compat
+  release: 4.1.5-pre.506-compat
   versions:
   - 4.0.7-pre.214-kotlin-1.5.20
   - 4.0.21-pre.215-kotlin-1.5.20
@@ -330,4 +330,6 @@ versioning:
   - 4.1.5-pre.503
   - 4.1.5-pre.504
   - 4.1.5-pre.505
-  lastUpdated: 20230228155001
+  - 4.1.5-pre.506
+  - 4.1.5-pre.506-compat
+  lastUpdated: 20230303181941

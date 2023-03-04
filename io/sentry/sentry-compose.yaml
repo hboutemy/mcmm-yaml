@@ -3,8 +3,8 @@
 groupId: io.sentry
 artifactId: sentry-compose
 versioning:
-  latest: 6.15.0
-  release: 6.15.0
+  latest: 6.16.0-beta.1
+  release: 6.16.0-beta.1
   versions:
   - 6.2.0
   - 6.2.1
@@ -35,4 +35,5 @@ versioning:
   - 6.13.1
   - 6.14.0
   - 6.15.0
-  lastUpdated: 20230302130328
+  - 6.16.0-beta.1
+  lastUpdated: 20230303104929

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.bgpcep
 artifactId: pcep-topology-provider
 versioning:
-  latest: 0.19.1
-  release: 0.19.1
+  latest: 0.19.2
+  release: 0.19.2
   versions:
   - 0.3.0
   - 0.3.1-Helium
@@ -104,4 +104,5 @@ versioning:
   - 0.18.5
   - 0.19.0
   - 0.19.1
-  lastUpdated: 20230215114052
+  - 0.19.2
+  lastUpdated: 20230303122441
