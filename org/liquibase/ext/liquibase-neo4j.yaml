@@ -3,8 +3,8 @@
 groupId: org.liquibase.ext
 artifactId: liquibase-neo4j
 versioning:
-  latest: 4.19.0
-  release: 4.19.0
+  latest: 4.19.1
+  release: 4.19.1
   versions:
   - 4.3.5
   - 4.4.0
@@ -46,4 +46,5 @@ versioning:
   - 4.18.0
   - 4.18.0.1
   - 4.19.0
-  lastUpdated: 20230118142519
+  - 4.19.1
+  lastUpdated: 20230306165944

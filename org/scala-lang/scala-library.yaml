@@ -3,8 +3,8 @@
 groupId: org.scala-lang
 artifactId: scala-library
 versioning:
-  latest: 2.13.10
-  release: 2.13.10
+  latest: 2.13.11-M1
+  release: 2.13.11-M1
   versions:
   - 2.3.1
   - 2.3.3
@@ -180,6 +180,7 @@ versioning:
   - 2.12.15
   - 2.12.16
   - 2.12.17
+  - 2.12.18-M1
   - 2.13.0-M1
   - 2.13.0-M2
   - 2.13.0-M3
@@ -204,4 +205,5 @@ versioning:
   - 2.13.8
   - 2.13.9
   - 2.13.10
-  lastUpdated: 20221008182955
+  - 2.13.11-M1
+  lastUpdated: 20230306162812
