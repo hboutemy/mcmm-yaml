@@ -3,8 +3,8 @@
 groupId: org.scala-sbt
 artifactId: test-agent
 versioning:
-  latest: 1.8.2
-  release: 1.8.2
+  latest: 1.9.0-M1
+  release: 1.9.0-M1
   versions:
   - 0.99.2
   - 0.99.4
@@ -119,4 +119,5 @@ versioning:
   - 1.8.0
   - 1.8.1
   - 1.8.2
-  lastUpdated: 20230105051521
+  - 1.9.0-M1
+  lastUpdated: 20230307164952

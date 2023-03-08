@@ -3,8 +3,8 @@
 groupId: eu.michael-simons.neo4j
 artifactId: neo4j-migrations-quarkus-deployment
 versioning:
-  latest: 2.1.2
-  release: 2.1.2
+  latest: 2.2.0
+  release: 2.2.0
   versions:
   - 1.2.2
   - 1.2.3
@@ -52,4 +52,5 @@ versioning:
   - 2.1.0
   - 2.1.1
   - 2.1.2
-  lastUpdated: 20230228174922
+  - 2.2.0
+  lastUpdated: 20230307150233
