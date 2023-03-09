@@ -4,7 +4,7 @@ groupId: com.liferay
 artifactId: com.liferay.portal.k8s.agent.impl
 versioning:
   latest: 3.0.9
-  release: 3.0.14
+  release: 3.0.15
   versions:
   - 1.0.0
   - 1.0.1
@@ -26,4 +26,5 @@ versioning:
   - 3.0.12
   - 3.0.13
   - 3.0.14
-  lastUpdated: 20230128061219
+  - 3.0.15
+  lastUpdated: 20230308220605
