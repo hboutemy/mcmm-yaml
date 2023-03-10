@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-tanstack-react-table
 versioning:
-  latest: 8.7.9-pre.509
-  release: 8.7.9-pre.509
+  latest: 8.7.9-pre.510-compat
+  release: 8.7.9-pre.510-compat
   versions:
   - 8.1.4-pre.352
   - 8.1.4-pre.352-compat
@@ -192,4 +192,6 @@ versioning:
   - 8.7.9-pre.507-compat
   - 8.7.9-pre.508
   - 8.7.9-pre.509
-  lastUpdated: 20230307075907
+  - 8.7.9-pre.510
+  - 8.7.9-pre.510-compat
+  lastUpdated: 20230309185746
