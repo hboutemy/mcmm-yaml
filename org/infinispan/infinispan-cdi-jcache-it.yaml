@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-cdi-jcache-it
 versioning:
-  latest: 14.0.6.Final
-  release: 14.0.6.Final
+  latest: 14.0.7.Final
+  release: 14.0.7.Final
   versions:
   - 6.0.0.CR1
   - 6.0.0.Final
@@ -270,5 +270,6 @@ versioning:
   - 14.0.4.Final
   - 14.0.5.Final
   - 14.0.6.Final
+  - 14.0.7.Final
   - 12.0.0.Dev03
-  lastUpdated: 20230125095943
+  lastUpdated: 20230310180441
