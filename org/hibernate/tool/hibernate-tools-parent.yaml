@@ -3,8 +3,8 @@
 groupId: org.hibernate.tool
 artifactId: hibernate-tools-parent
 versioning:
-  latest: 6.2.0.CR2
-  release: 6.2.0.CR2
+  latest: 6.2.0.CR3
+  release: 6.2.0.CR3
   versions:
   - 6.0.0.Beta3
   - 6.0.0.CR1
@@ -22,6 +22,7 @@ versioning:
   - 6.1.7.Final
   - 6.2.0.CR1
   - 6.2.0.CR2
+  - 6.2.0.CR3
   - 6.0.0.Alpha1
   - 6.0.0.Alpha2
   - 6.0.0.Alpha3
@@ -29,4 +30,4 @@ versioning:
   - 6.0.0.Alpha5
   - 6.0.0.Beta1
   - 6.0.0.Beta2
-  lastUpdated: 20230223173910
+  lastUpdated: 20230313083114
