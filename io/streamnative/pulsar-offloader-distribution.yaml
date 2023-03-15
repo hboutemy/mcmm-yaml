@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-offloader-distribution
 versioning:
-  latest: 2.11.0.2
-  release: 2.11.0.2
+  latest: 2.11.0.3
+  release: 2.11.0.3
   versions:
   - master-rc-daily
   - v2.8.0-rc-202106091140
@@ -577,4 +577,5 @@ versioning:
   - 2.11.0-rc-202205082205
   - 2.11.0.1
   - 2.11.0.2
-  lastUpdated: 20230308065901
+  - 2.11.0.3
+  lastUpdated: 20230314220752

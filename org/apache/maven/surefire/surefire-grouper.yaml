@@ -3,8 +3,8 @@
 groupId: org.apache.maven.surefire
 artifactId: surefire-grouper
 versioning:
-  latest: 3.0.0-M9
-  release: 3.0.0-M9
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 2.12
   - 2.12.1
@@ -36,4 +36,5 @@ versioning:
   - 3.0.0-M7
   - 3.0.0-M8
   - 3.0.0-M9
-  lastUpdated: 20230213234900
+  - 3.0.0
+  lastUpdated: 20230314095332
