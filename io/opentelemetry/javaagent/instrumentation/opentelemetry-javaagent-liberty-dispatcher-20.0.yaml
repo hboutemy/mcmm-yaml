@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-liberty-dispatcher-20.0
 versioning:
-  latest: 1.23.0-alpha
-  release: 1.23.0-alpha
+  latest: 1.24.0-alpha
+  release: 1.24.0-alpha
   versions:
   - 1.17.0-alpha
   - 1.18.0-alpha
@@ -18,4 +18,5 @@ versioning:
   - 1.22.0-alpha
   - 1.22.1-alpha
   - 1.23.0-alpha
-  lastUpdated: 20230216011957
+  - 1.24.0-alpha
+  lastUpdated: 20230315162649
