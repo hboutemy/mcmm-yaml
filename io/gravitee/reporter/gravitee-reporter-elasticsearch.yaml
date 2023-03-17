@@ -3,8 +3,8 @@
 groupId: io.gravitee.reporter
 artifactId: gravitee-reporter-elasticsearch
 versioning:
-  latest: 4.1.0-alpha.8
-  release: 4.1.0-alpha.8
+  latest: 4.1.0-alpha.9
+  release: 4.1.0-alpha.9
   versions:
   - 1.15.0
   - 1.15.1
@@ -128,11 +128,14 @@ versioning:
   - 3.12.2
   - 3.12.3
   - 3.12.4
+  - 3.12.5
   - 4.0.0-alpha.1
   - 4.0.0
+  - 4.0.1
   - 4.1.0-alpha.1
   - 4.1.0-alpha.2
   - 4.1.0-alpha.3
   - 4.1.0-alpha.7
   - 4.1.0-alpha.8
-  lastUpdated: 20230310130035
+  - 4.1.0-alpha.9
+  lastUpdated: 20230316104527

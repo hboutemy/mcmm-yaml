@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf-provider-newrelic
 versioning:
-  latest: 6.0.4
-  release: 6.0.4
+  latest: 6.0.5
+  release: 6.0.5
   versions:
   - 0.0.0
   - 0.0.1
@@ -1466,4 +1466,5 @@ versioning:
   - 6.0.2
   - 6.0.3
   - 6.0.4
-  lastUpdated: 20230310032930
+  - 6.0.5
+  lastUpdated: 20230316032341
