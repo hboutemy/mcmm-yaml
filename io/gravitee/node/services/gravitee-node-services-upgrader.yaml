@@ -3,8 +3,8 @@
 groupId: io.gravitee.node.services
 artifactId: gravitee-node-services-upgrader
 versioning:
-  latest: 3.0.0-alpha.4
-  release: 3.0.0-alpha.4
+  latest: 3.0.1
+  release: 3.0.1
   versions:
   - 1.27.0
   - 1.27.1
@@ -29,4 +29,6 @@ versioning:
   - 3.0.0-alpha.2
   - 3.0.0-alpha.3
   - 3.0.0-alpha.4
-  lastUpdated: 20230313083121
+  - 3.0.0
+  - 3.0.1
+  lastUpdated: 20230317142520

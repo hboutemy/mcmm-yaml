@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-translate
 versioning:
-  latest: v3-rev20230210-2.0.0
-  release: v3-rev20230210-2.0.0
+  latest: v3-rev20230303-2.0.0
+  release: v3-rev20230303-2.0.0
   versions:
   - v2-rev10-1.13.2-beta
   - v2-rev10-1.14.1-beta
@@ -261,6 +261,7 @@ versioning:
   - v3beta1-rev20221021-2.0.0
   - v3beta1-rev20230106-2.0.0
   - v3beta1-rev20230210-2.0.0
+  - v3beta1-rev20230303-2.0.0
   - v3-rev2-1.18.0-rc
   - v3-rev2-1.25.0
   - v3-rev3-1.18.0-rc
@@ -313,4 +314,5 @@ versioning:
   - v3-rev20221021-2.0.0
   - v3-rev20230106-2.0.0
   - v3-rev20230210-2.0.0
-  lastUpdated: 20230214095405
+  - v3-rev20230303-2.0.0
+  lastUpdated: 20230317221552

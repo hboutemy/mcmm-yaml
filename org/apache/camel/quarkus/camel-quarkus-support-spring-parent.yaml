@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-support-spring-parent
 versioning:
-  latest: 2.16.0
-  release: 2.16.0
+  latest: 3.0.0-M1
+  release: 3.0.0-M1
   versions:
   - 1.0.0-M3
   - 1.0.0-M4
@@ -49,4 +49,5 @@ versioning:
   - 2.14.0
   - 2.15.0
   - 2.16.0
-  lastUpdated: 20230123145544
+  - 3.0.0-M1
+  lastUpdated: 20230317212130

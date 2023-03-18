@@ -3,8 +3,8 @@
 groupId: io.sentry
 artifactId: sentry-opentelemetry-agent
 versioning:
-  latest: 6.16.0-beta.1
-  release: 6.16.0-beta.1
+  latest: 6.16.0
+  release: 6.16.0
   versions:
   - 6.9.1
   - 6.9.2
@@ -17,4 +17,5 @@ versioning:
   - 6.14.0
   - 6.15.0
   - 6.16.0-beta.1
-  lastUpdated: 20230303104938
+  - 6.16.0
+  lastUpdated: 20230317102009
