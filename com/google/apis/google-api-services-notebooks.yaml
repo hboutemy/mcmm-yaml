@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-notebooks
 versioning:
-  latest: v1-rev20230124-2.0.0
-  release: v1-rev20230124-2.0.0
+  latest: v2-rev20230307-2.0.0
+  release: v2-rev20230307-2.0.0
   versions:
   - v1-rev20201030-1.30.10
   - v1-rev20201110-1.30.10
@@ -48,4 +48,6 @@ versioning:
   - v1-rev20221017-2.0.0
   - v1-rev20221213-2.0.0
   - v1-rev20230124-2.0.0
-  lastUpdated: 20230128093443
+  - v1-rev20230307-2.0.0
+  - v2-rev20230307-2.0.0
+  lastUpdated: 20230318082648
