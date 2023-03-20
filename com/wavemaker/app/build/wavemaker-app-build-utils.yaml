@@ -3,8 +3,8 @@
 groupId: com.wavemaker.app.build
 artifactId: wavemaker-app-build-utils
 versioning:
-  latest: 11.2.4.ee
-  release: 11.2.4.ee
+  latest: 11.2.5
+  release: 11.2.5
   versions:
   - 9.4.0.10
   - 9.4.0.12
@@ -74,6 +74,7 @@ versioning:
   - 10.15.7
   - 10.15.7.ee
   - 10.15.8.ee
+  - 10.15.9
   - 11.0.0.beta
   - 11.0.0.beta.ee-20220401222842
   - 11.0.1.beta
@@ -93,4 +94,5 @@ versioning:
   - 11.2.3
   - 11.2.4
   - 11.2.4.ee
-  lastUpdated: 20230210111218
+  - 11.2.5
+  lastUpdated: 20230319175639

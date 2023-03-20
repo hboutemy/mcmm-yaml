@@ -3,8 +3,8 @@
 groupId: me.legrange.services
 artifactId: service-postgresql
 versioning:
-  latest: 3.10.11
-  release: 3.10.11
+  latest: 3.11.0
+  release: 3.11.0
   versions:
   - 3.0
   - 3.0.1
@@ -48,4 +48,5 @@ versioning:
   - 3.10.8
   - 3.10.9
   - 3.10.11
-  lastUpdated: 20230224092034
+  - 3.11.0
+  lastUpdated: 20230319150520
