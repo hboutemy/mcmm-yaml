@@ -3,8 +3,8 @@
 groupId: org.cometd.java
 artifactId: cometd-java-client-http-okhttp
 versioning:
-  latest: 7.0.9
-  release: 7.0.9
+  latest: 7.0.10
+  release: 7.0.10
   versions:
   - 5.0.0-BETA0
   - 5.0.0-BETA1
@@ -23,6 +23,7 @@ versioning:
   - 5.0.12
   - 5.0.13
   - 5.0.14
+  - 5.0.15
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -33,6 +34,7 @@ versioning:
   - 6.0.7
   - 6.0.8
   - 6.0.9
+  - 6.0.10
   - 7.0.0
   - 7.0.1
   - 7.0.2
@@ -42,4 +44,5 @@ versioning:
   - 7.0.7
   - 7.0.8
   - 7.0.9
-  lastUpdated: 20221013180620
+  - 7.0.10
+  lastUpdated: 20230320160010

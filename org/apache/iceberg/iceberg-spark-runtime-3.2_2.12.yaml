@@ -3,8 +3,8 @@
 groupId: org.apache.iceberg
 artifactId: iceberg-spark-runtime-3.2_2.12
 versioning:
-  latest: 1.1.0
-  release: 1.1.0
+  latest: 1.2.0
+  release: 1.2.0
   versions:
   - 0.13.0
   - 0.13.1
@@ -13,4 +13,5 @@ versioning:
   - 0.14.1
   - 1.0.0
   - 1.1.0
-  lastUpdated: 20221128085143
+  - 1.2.0
+  lastUpdated: 20230320183327

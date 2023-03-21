@@ -3,8 +3,8 @@
 groupId: build.buf.protoc-gen-validate
 artifactId: pgv-java
 versioning:
-  latest: 0.9.1
-  release: 0.9.1
+  latest: 0.10.1
+  release: 0.10.1
   versions:
   - 0.6.9-rc.2
   - 0.6.9-rc.3
@@ -13,4 +13,6 @@ versioning:
   - 0.8.0
   - 0.9.0
   - 0.9.1
-  lastUpdated: 20221205165932
+  - 0.10.0
+  - 0.10.1
+  lastUpdated: 20230320191423

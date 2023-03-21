@@ -3,8 +3,8 @@
 groupId: com.netflix.conductor
 artifactId: conductor-awssqs-event-queue
 versioning:
-  latest: 3.13.3
-  release: 3.13.3
+  latest: 3.13.5
+  release: 3.13.5
   versions:
   - 3.8.0
   - 3.8.1
@@ -30,4 +30,5 @@ versioning:
   - 3.13.1
   - 3.13.2
   - 3.13.3
-  lastUpdated: 20230127000205
+  - 3.13.5
+  lastUpdated: 20230320171743
