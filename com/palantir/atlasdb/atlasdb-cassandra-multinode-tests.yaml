@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-cassandra-multinode-tests
 versioning:
-  latest: 0.815.0
-  release: 0.815.0
+  latest: 0.818.0-rc1
+  release: 0.818.0-rc1
   versions:
   - 0.311.6
   - 0.311.7
@@ -600,4 +600,7 @@ versioning:
   - 0.813.0
   - 0.814.0
   - 0.815.0
-  lastUpdated: 20230320170016
+  - 0.816.0
+  - 0.817.0
+  - 0.818.0-rc1
+  lastUpdated: 20230321203755

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.apiman
 artifactId: apiman-test
 versioning:
-  latest: 3.1.0.RC2
-  release: 3.1.0.RC2
+  latest: 3.1.0.RC6
+  release: 3.1.0.RC6
   versions:
   - 1.0.0.Beta1
   - 1.0.0.Beta2
@@ -79,4 +79,6 @@ versioning:
   - 3.0.0.RC6
   - 3.0.0.Final
   - 3.1.0.RC2
-  lastUpdated: 20230317174448
+  - 3.1.0.RC4
+  - 3.1.0.RC6
+  lastUpdated: 20230321201342
