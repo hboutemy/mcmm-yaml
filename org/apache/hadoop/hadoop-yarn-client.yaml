@@ -3,8 +3,8 @@
 groupId: org.apache.hadoop
 artifactId: hadoop-yarn-client
 versioning:
-  latest: 3.3.4
-  release: 3.3.4
+  latest: 3.3.5
+  release: 3.3.5
   versions:
   - 0.23.7
   - 0.23.8
@@ -74,4 +74,5 @@ versioning:
   - 3.3.2
   - 3.3.3
   - 3.3.4
-  lastUpdated: 20220805105202
+  - 3.3.5
+  lastUpdated: 20230322174057

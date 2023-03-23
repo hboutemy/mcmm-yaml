@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.vaadin.external.atmosphere
 artifactId: atmosphere-runtime-libs
 versioning:
-  latest: 3.0.0.slf4jvaadin2
-  release: 3.0.0.slf4jvaadin2
+  latest: 3.0.3.slf4jvaadin1
+  release: 3.0.3.slf4jvaadin1
   versions:
   - Artur--patch-1.slf4jvaadin1
   - 1.0.14-vaadin1
@@ -67,5 +67,6 @@ versioning:
   - 2.7.3.slf4jvaadin4
   - 3.0.0.slf4jvaadin1
   - 3.0.0.slf4jvaadin2
+  - 3.0.3.slf4jvaadin1
   - 1.0.14-vaadin2
-  lastUpdated: 20221227084604
+  lastUpdated: 20230322080409

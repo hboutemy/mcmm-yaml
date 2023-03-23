@@ -3,8 +3,8 @@
 groupId: io.quarkus.platform
 artifactId: quarkus-platform-parent
 versioning:
-  latest: 3.0.0.Alpha6
-  release: 3.0.0.Alpha6
+  latest: 3.0.0.Beta1
+  release: 3.0.0.Beta1
   versions:
   - 2.0.0.Final
   - 2.0.1.Final
@@ -97,10 +97,12 @@ versioning:
   - 2.16.2.Final
   - 2.16.3.Final
   - 2.16.4.Final
+  - 2.16.5.Final
   - 3.0.0.Alpha1
   - 3.0.0.Alpha2
   - 3.0.0.Alpha3
   - 3.0.0.Alpha4
   - 3.0.0.Alpha5
   - 3.0.0.Alpha6
-  lastUpdated: 20230315161045
+  - 3.0.0.Beta1
+  lastUpdated: 20230322185347

@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-consistency-check
 versioning:
-  latest: 5.5.0
-  release: 5.5.0
+  latest: 5.6.0
+  release: 5.6.0
   versions:
   - 1.8.1
   - 1.8.2
@@ -350,4 +350,5 @@ versioning:
   - 5.3.0
   - 5.4.0
   - 5.5.0
-  lastUpdated: 20230224084847
+  - 5.6.0
+  lastUpdated: 20230322143829

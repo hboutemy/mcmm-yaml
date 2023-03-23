@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.kinesis
 artifactId: amazon-kinesis-client
 versioning:
-  latest: 2.4.7
-  release: 2.4.7
+  latest: 2.4.8
+  release: 2.4.8
   versions:
   - 2.0.0
   - 2.0.1
@@ -54,4 +54,5 @@ versioning:
   - 2.4.4
   - 2.4.5
   - 2.4.7
-  lastUpdated: 20230317220437
+  - 2.4.8
+  lastUpdated: 20230322201528

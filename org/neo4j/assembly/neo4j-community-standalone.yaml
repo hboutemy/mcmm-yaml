@@ -3,8 +3,8 @@
 groupId: org.neo4j.assembly
 artifactId: neo4j-community-standalone
 versioning:
-  latest: 5.5.0
-  release: 5.5.0
+  latest: 5.6.0
+  release: 5.6.0
   versions:
   - 2.3.11
   - 2.3.12
@@ -226,4 +226,5 @@ versioning:
   - 5.3.0
   - 5.4.0
   - 5.5.0
-  lastUpdated: 20230224084803
+  - 5.6.0
+  lastUpdated: 20230322143708

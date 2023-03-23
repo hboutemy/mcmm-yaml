@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.lakefs
 artifactId: hadoop-lakefs
 versioning:
-  latest: 0.1.12
-  release: 0.1.12
+  latest: 0.1.13
+  release: 0.1.13
   versions:
   - 0.1.0-RC.0
   - 0.1.0
@@ -21,5 +21,6 @@ versioning:
   - 0.1.10
   - 0.1.11
   - 0.1.12
+  - 0.1.13
   - 0.58.1-new-key
-  lastUpdated: 20230201102817
+  lastUpdated: 20230322155111
