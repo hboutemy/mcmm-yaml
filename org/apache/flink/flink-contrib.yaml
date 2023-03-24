@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-contrib
 versioning:
-  latest: 1.16.1
-  release: 1.16.1
+  latest: 1.17.0
+  release: 1.17.0
   versions:
   - 0.9.0-milestone-1
   - 0.9.0-milestone-1-hadoop1
@@ -103,4 +103,5 @@ versioning:
   - 1.15.4
   - 1.16.0
   - 1.16.1
-  lastUpdated: 20230314140615
+  - 1.17.0
+  lastUpdated: 20230323075905

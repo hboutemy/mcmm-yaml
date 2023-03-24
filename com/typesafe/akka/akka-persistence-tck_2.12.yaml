@@ -3,8 +3,8 @@
 groupId: com.typesafe.akka
 artifactId: akka-persistence-tck_2.12
 versioning:
-  latest: 2.8.0
-  release: 2.8.0
+  latest: 2.8.1-M1
+  release: 2.8.1-M1
   versions:
   - 2.4.12
   - 2.4.13
@@ -96,4 +96,5 @@ versioning:
   - 2.8.0-M5
   - 2.8.0-M6
   - 2.8.0
-  lastUpdated: 20230316150100
+  - 2.8.1-M1
+  lastUpdated: 20230323143600

@@ -3,8 +3,8 @@
 groupId: org.neo4j.procedure
 artifactId: apoc-processor
 versioning:
-  latest: 5.5.0
-  release: 5.5.0
+  latest: 5.6.0
+  release: 5.6.0
   versions:
   - 4.1.0.10
   - 4.1.0.11
@@ -54,4 +54,5 @@ versioning:
   - 5.4.0
   - 5.4.1
   - 5.5.0
-  lastUpdated: 20230321140305
+  - 5.6.0
+  lastUpdated: 20230323084151

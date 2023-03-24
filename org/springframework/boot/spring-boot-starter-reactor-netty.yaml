@@ -3,8 +3,8 @@
 groupId: org.springframework.boot
 artifactId: spring-boot-starter-reactor-netty
 versioning:
-  latest: 3.0.4
-  release: 3.0.4
+  latest: 3.0.5
+  release: 3.0.5
   versions:
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
@@ -116,9 +116,11 @@ versioning:
   - 2.7.7
   - 2.7.8
   - 2.7.9
+  - 2.7.10
   - 3.0.0
   - 3.0.1
   - 3.0.2
   - 3.0.3
   - 3.0.4
-  lastUpdated: 20230303205742
+  - 3.0.5
+  lastUpdated: 20230323115540

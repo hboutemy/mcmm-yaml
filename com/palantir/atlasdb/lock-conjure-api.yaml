@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: lock-conjure-api
 versioning:
-  latest: 0.818.0
-  release: 0.818.0
+  latest: 0.820.0
+  release: 0.820.0
   versions:
   - 0.311.6
   - 0.311.7
@@ -604,4 +604,6 @@ versioning:
   - 0.817.0
   - 0.818.0-rc1
   - 0.818.0
-  lastUpdated: 20230322143350
+  - 0.819.0
+  - 0.820.0
+  lastUpdated: 20230323195019

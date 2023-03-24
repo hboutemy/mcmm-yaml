@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.media
 artifactId: jersey-media-json-jackson1
 versioning:
-  latest: 2.39
-  release: 2.39
+  latest: 2.39.1
+  release: 2.39.1
   versions:
   - 2.11
   - 2.12
@@ -57,4 +57,5 @@ versioning:
   - 2.37
   - 2.38
   - 2.39
-  lastUpdated: 20230217093010
+  - 2.39.1
+  lastUpdated: 20230323140315

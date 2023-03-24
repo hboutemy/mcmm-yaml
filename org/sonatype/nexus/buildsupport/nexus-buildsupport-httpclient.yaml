@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.buildsupport
 artifactId: nexus-buildsupport-httpclient
 versioning:
-  latest: 3.49.0-02
-  release: 3.49.0-02
+  latest: 3.50.0-01
+  release: 3.50.0-01
   versions:
   - 2.6.0-01
   - 2.6.0-05
@@ -191,4 +191,5 @@ versioning:
   - 3.47.1-01
   - 3.48.0-01
   - 3.49.0-02
-  lastUpdated: 20230302235136
+  - 3.50.0-01
+  lastUpdated: 20230323203750

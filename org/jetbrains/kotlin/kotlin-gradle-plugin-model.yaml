@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin
 artifactId: kotlin-gradle-plugin-model
 versioning:
-  latest: 1.8.20-RC
-  release: 1.8.20-RC
+  latest: 1.8.20-RC2
+  release: 1.8.20-RC2
   versions:
   - 0.9.0-native
   - 0.9.1-native
@@ -83,4 +83,5 @@ versioning:
   - 1.8.10
   - 1.8.20-Beta
   - 1.8.20-RC
-  lastUpdated: 20230308084004
+  - 1.8.20-RC2
+  lastUpdated: 20230323093413
