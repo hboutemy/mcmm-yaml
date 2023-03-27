@@ -3,8 +3,8 @@
 groupId: io.eventuate.tram.sagas
 artifactId: eventuate-tram-sagas-quarkus-bom
 versioning:
-  latest: 0.5.1.RELEASE
-  release: 0.5.1.RELEASE
+  latest: 0.6.0.RELEASE
+  release: 0.6.0.RELEASE
   versions:
   - 0.1.0.RELEASE
   - 0.2.0.RELEASE
@@ -12,4 +12,5 @@ versioning:
   - 0.4.0.RELEASE
   - 0.5.0.RELEASE
   - 0.5.1.RELEASE
-  lastUpdated: 20221006184832
+  - 0.6.0.RELEASE
+  lastUpdated: 20230326142743
