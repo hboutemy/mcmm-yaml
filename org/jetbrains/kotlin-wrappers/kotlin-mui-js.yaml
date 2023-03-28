@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-mui-js
 versioning:
-  latest: 5.9.1-pre.524
-  release: 5.9.1-pre.524
+  latest: 5.9.1-pre.524-compat
+  release: 5.9.1-pre.524-compat
   versions:
   - 5.9.1-pre.493
   - 5.9.1-pre.493-compat
@@ -43,4 +43,5 @@ versioning:
   - 5.9.1-pre.522
   - 5.9.1-pre.523
   - 5.9.1-pre.524
-  lastUpdated: 20230326193623
+  - 5.9.1-pre.524-compat
+  lastUpdated: 20230327084344

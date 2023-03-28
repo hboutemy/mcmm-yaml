@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.metadata
 artifactId: jboss-metadata-common
 versioning:
-  latest: 16.0.0.Beta1
-  release: 16.0.0.Beta1
+  latest: 16.0.0.Final
+  release: 16.0.0.Final
   versions:
   - 2.0.0.Alpha
   - 2.0.0.Alpha2
@@ -135,5 +135,6 @@ versioning:
   - 15.3.0.Final
   - 15.4.0
   - 16.0.0.Beta1
+  - 16.0.0.Final
   - 15.3.0
-  lastUpdated: 20230228124655
+  lastUpdated: 20230327131907
