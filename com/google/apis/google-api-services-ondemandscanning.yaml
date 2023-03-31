@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-ondemandscanning
 versioning:
-  latest: v1-rev20230313-2.0.0
-  release: v1-rev20230313-2.0.0
+  latest: v1-rev20230327-2.0.0
+  release: v1-rev20230327-2.0.0
   versions:
   - v1beta1-rev20210222-1.31.0
   - v1beta1-rev20210319-1.31.0
@@ -42,6 +42,7 @@ versioning:
   - v1beta1-rev20230109-2.0.0
   - v1beta1-rev20230213-2.0.0
   - v1beta1-rev20230313-2.0.0
+  - v1beta1-rev20230327-2.0.0
   - v1-rev20210329-1.31.0
   - v1-rev20210403-1.31.0
   - v1-rev20210410-1.31.0
@@ -76,4 +77,5 @@ versioning:
   - v1-rev20230109-2.0.0
   - v1-rev20230213-2.0.0
   - v1-rev20230313-2.0.0
-  lastUpdated: 20230320203036
+  - v1-rev20230327-2.0.0
+  lastUpdated: 20230330083051

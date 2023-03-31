@@ -3,8 +3,8 @@
 groupId: com.daml
 artifactId: ledger-api-proto
 versioning:
-  latest: 2.7.0-snapshot.20230328.11617.0.b5441712
-  release: 2.7.0-snapshot.20230328.11617.0.b5441712
+  latest: 2.7.0-snapshot.20230329.11623.0.f3943c45
+  release: 2.7.0-snapshot.20230329.11623.0.f3943c45
   versions:
   - 1.8.0-snapshot.20201201.5776.0.4b91f2a6
   - 1.8.0-snapshot.20201208.5840.0.38455e8c
@@ -288,6 +288,7 @@ versioning:
   - 2.3.9
   - 2.3.10-snapshot.20230302.10121.0.069258bc
   - 2.3.10
+  - 2.3.11
   - 2.4.0-snapshot.20220622.10127.0.c2cd6141
   - 2.4.0-snapshot.20220623.10129.0.0d1ef104
   - 2.4.0-snapshot.20220624.10131.0.7cd677e3
@@ -497,6 +498,7 @@ versioning:
   - 2.6.0-snapshot.20230222.11475.0.ec147a82
   - 2.6.0-snapshot.20230302.11477.0.f98e37e8
   - 2.6.0
+  - 2.6.1
   - 2.7.0-snapshot.20230228.11494.0.510b7e1f
   - 2.7.0-snapshot.20230228.11503.0.d8d55ca4
   - 2.7.0-snapshot.20230301.11513.0.9b50c9f1
@@ -518,4 +520,5 @@ versioning:
   - 2.7.0-snapshot.20230327.11609.0.7f6b1fe3
   - 2.7.0-snapshot.20230327.11615.0.9aa586fb
   - 2.7.0-snapshot.20230328.11617.0.b5441712
-  lastUpdated: 20230329025835
+  - 2.7.0-snapshot.20230329.11623.0.f3943c45
+  lastUpdated: 20230330223950

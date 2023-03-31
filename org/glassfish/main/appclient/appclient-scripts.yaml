@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.main.appclient
 artifactId: appclient-scripts
 versioning:
-  latest: 7.0.2
-  release: 7.0.2
+  latest: 7.0.3
+  release: 7.0.3
   versions:
   - 5.1.0
   - 6.0.0-M1
@@ -29,6 +29,7 @@ versioning:
   - 7.0.0
   - 7.0.1
   - 7.0.2
+  - 7.0.3
   - 4.0
   - 4.0-b33
   - 4.0-b72
@@ -40,4 +41,4 @@ versioning:
   - 5.0.1
   - 5.1.0-RC1
   - 5.1.0-RC2
-  lastUpdated: 20230227121458
+  lastUpdated: 20230330110037

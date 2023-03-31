@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-avro-glue-schema-registry
 versioning:
-  latest: 1.14.6
-  release: 1.14.6
+  latest: 4.1.0-1.16
+  release: 4.1.0-1.16
   versions:
   - 1.13.0
   - 1.13.1
@@ -20,4 +20,5 @@ versioning:
   - 1.14.4
   - 1.14.5
   - 1.14.6
-  lastUpdated: 20220927023634
+  - 4.1.0-1.16
+  lastUpdated: 20230330142417

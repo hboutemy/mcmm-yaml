@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-datamigration
 versioning:
-  latest: v1-rev20230308-2.0.0
-  release: v1-rev20230308-2.0.0
+  latest: v1-rev20230320-2.0.0
+  release: v1-rev20230320-2.0.0
   versions:
   - v1beta1-rev20201027-1.30.10
   - v1beta1-rev20201028-1.30.10
@@ -60,4 +60,5 @@ versioning:
   - v1-rev20230215-2.0.0
   - v1-rev20230301-2.0.0
   - v1-rev20230308-2.0.0
-  lastUpdated: 20230317213205
+  - v1-rev20230320-2.0.0
+  lastUpdated: 20230330081718

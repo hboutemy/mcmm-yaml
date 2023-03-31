@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-hibernate-search-orm-coordination-outbox-polling
 versioning:
-  latest: 3.0.0.Beta1
-  release: 3.0.0.Beta1
+  latest: 3.0.0.CR1
+  release: 3.0.0.CR1
   versions:
   - 2.7.0.CR1
   - 2.7.0.Final
@@ -73,4 +73,5 @@ versioning:
   - 3.0.0.Alpha5
   - 3.0.0.Alpha6
   - 3.0.0.Beta1
-  lastUpdated: 20230322124428
+  - 3.0.0.CR1
+  lastUpdated: 20230330130627

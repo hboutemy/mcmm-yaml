@@ -3,8 +3,8 @@
 groupId: io.quarkus.platform
 artifactId: quarkus-camel-bom-quarkus-platform-descriptor
 versioning:
-  latest: 3.0.0.Beta1
-  release: 3.0.0.Beta1
+  latest: 3.0.0.CR1
+  release: 3.0.0.CR1
   versions:
   - 2.0.0.Final
   - 2.0.1.Final
@@ -98,4 +98,5 @@ versioning:
   - 2.16.4.Final
   - 2.16.5.Final
   - 3.0.0.Beta1
-  lastUpdated: 20230322185345
+  - 3.0.0.CR1
+  lastUpdated: 20230330161440

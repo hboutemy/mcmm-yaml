@@ -3,8 +3,8 @@
 groupId: com.netflix.spectator
 artifactId: spectator-reg-servo
 versioning:
-  latest: 1.6.0
-  release: 1.6.0
+  latest: 1.6.1
+  release: 1.6.1
   versions:
   - 0.12
   - 0.13
@@ -188,4 +188,5 @@ versioning:
   - 1.5.3
   - 1.5.4
   - 1.6.0
-  lastUpdated: 20230317150314
+  - 1.6.1
+  lastUpdated: 20230330214602
