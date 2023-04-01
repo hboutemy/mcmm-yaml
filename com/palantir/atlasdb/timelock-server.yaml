@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: timelock-server
 versioning:
-  latest: 0.824.0
-  release: 0.824.0
+  latest: 0.826.0
+  release: 0.826.0
   versions:
   - 0.311.6
   - 0.311.7
@@ -610,4 +610,6 @@ versioning:
   - 0.822.0-rc1
   - 0.822.0
   - 0.824.0
-  lastUpdated: 20230330035427
+  - 0.825.0
+  - 0.826.0
+  lastUpdated: 20230331161407

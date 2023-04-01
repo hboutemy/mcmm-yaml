@@ -3,8 +3,8 @@
 groupId: io.gravitee.node
 artifactId: gravitee-node-license
 versioning:
-  latest: 3.0.2
-  release: 3.0.2
+  latest: 3.0.3
+  release: 3.0.3
   versions:
   - 1.24.0
   - 1.24.1
@@ -12,10 +12,12 @@ versioning:
   - 1.24.3
   - 1.24.4
   - 1.24.5
+  - 1.24.6
   - 1.25.0
   - 1.25.1
   - 1.25.2
   - 1.25.3
+  - 1.25.4
   - 1.26.0
   - 1.26.1
   - 1.27.0
@@ -35,6 +37,7 @@ versioning:
   - 2.0.3
   - 2.0.4
   - 2.0.5
+  - 2.0.6
   - 2.1.0-alpha.1
   - 2.1.0-alpha.2
   - 3.0.0-alpha.1
@@ -44,4 +47,5 @@ versioning:
   - 3.0.0
   - 3.0.1
   - 3.0.2
-  lastUpdated: 20230328133514
+  - 3.0.3
+  lastUpdated: 20230331092219
