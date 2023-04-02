@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-firestore
 versioning:
-  latest: v1-rev20230315-2.0.0
-  release: v1-rev20230315-2.0.0
+  latest: v1-rev20230328-2.0.0
+  release: v1-rev20230328-2.0.0
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.21.0
@@ -201,6 +201,7 @@ versioning:
   - v1beta1-rev20220915-2.0.0
   - v1beta1-rev20221210-2.0.0
   - v1beta1-rev20230315-2.0.0
+  - v1beta1-rev20230328-2.0.0
   - v1beta2-rev1-1.18.0-rc
   - v1beta2-rev1-1.22.0
   - v1beta2-rev1-1.23.0
@@ -397,4 +398,5 @@ versioning:
   - v1-rev20221210-2.0.0
   - v1-rev20230118-2.0.0
   - v1-rev20230315-2.0.0
-  lastUpdated: 20230320201816
+  - v1-rev20230328-2.0.0
+  lastUpdated: 20230401082359

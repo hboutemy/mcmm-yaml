@@ -3,8 +3,8 @@
 groupId: org.springdoc
 artifactId: springdoc-openapi
 versioning:
-  latest: 2.0.4
-  release: 2.0.4
+  latest: 2.1.0
+  release: 2.1.0
   versions:
   - 0.0.4
   - 0.0.5
@@ -150,6 +150,7 @@ versioning:
   - 1.6.13
   - 1.6.14
   - 1.6.15
+  - 1.7.0
   - 2.0.0-M1
   - 2.0.0-M2
   - 2.0.0-M3
@@ -164,4 +165,5 @@ versioning:
   - 2.0.2
   - 2.0.3
   - 2.0.4
-  lastUpdated: 20230314234632
+  - 2.1.0
+  lastUpdated: 20230401223734
