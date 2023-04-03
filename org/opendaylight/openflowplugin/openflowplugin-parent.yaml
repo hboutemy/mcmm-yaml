@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.openflowplugin
 artifactId: openflowplugin-parent
 versioning:
-  latest: 0.15.2
-  release: 0.15.2
+  latest: 0.16.0
+  release: 0.16.0
   versions:
   - 0.0.1
   - 0.0.2
@@ -81,4 +81,5 @@ versioning:
   - 0.15.0
   - 0.15.1
   - 0.15.2
-  lastUpdated: 20230131024139
+  - 0.16.0
+  lastUpdated: 20230402124447
