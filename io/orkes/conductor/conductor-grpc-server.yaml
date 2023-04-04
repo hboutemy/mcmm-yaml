@@ -3,8 +3,8 @@
 groupId: io.orkes.conductor
 artifactId: conductor-grpc-server
 versioning:
-  latest: 3.9.0-orkes-o
-  release: 3.9.0-orkes-o
+  latest: 3.9.0-orkes-p-rc
+  release: 3.9.0-orkes-p-rc
   versions:
   - 3.7.3-a
   - 3.9.0-orkes-g
@@ -13,4 +13,5 @@ versioning:
   - 3.9.0-orkes-m
   - 3.9.0-orkes-n
   - 3.9.0-orkes-o
-  lastUpdated: 20230306024252
+  - 3.9.0-orkes-p-rc
+  lastUpdated: 20230403055019

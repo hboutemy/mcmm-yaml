@@ -3,8 +3,8 @@
 groupId: io.dropwizard.modules
 artifactId: dropwizard-foundationdb
 versioning:
-  latest: 2.0.1
-  release: 2.0.1
+  latest: 4.0.0
+  release: 4.0.0
   versions:
   - 1.3.11-2
   - 1.3.12-1
@@ -15,4 +15,6 @@ versioning:
   - 1.6.1
   - 2.0.0
   - 2.0.1
-  lastUpdated: 20230222221419
+  - 3.0.0
+  - 4.0.0
+  lastUpdated: 20230403194717
