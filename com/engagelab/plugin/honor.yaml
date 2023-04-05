@@ -3,8 +3,11 @@
 groupId: com.engagelab.plugin
 artifactId: honor
 versioning:
-  latest: test.*.*.*
-  release: test.*.*.*
+  latest: 3.3.0
+  release: 3.3.0
   versions:
   - test.*.*.*
-  lastUpdated: 20230403092306
+  - '*.*.*'
+  - test.3.3.0-test
+  - 3.3.0
+  lastUpdated: 20230404030727

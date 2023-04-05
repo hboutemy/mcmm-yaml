@@ -3,8 +3,8 @@
 groupId: org.projectnessie
 artifactId: nessie-versioned-persist-mongodb
 versioning:
-  latest: 0.54.0
-  release: 0.54.0
+  latest: 0.55.0
+  release: 0.55.0
   versions:
   - 0.10.0
   - 0.10.1
@@ -61,4 +61,5 @@ versioning:
   - 0.53.0
   - 0.53.1
   - 0.54.0
-  lastUpdated: 20230330180301
+  - 0.55.0
+  lastUpdated: 20230404195145

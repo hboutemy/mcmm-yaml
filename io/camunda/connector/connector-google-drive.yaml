@@ -3,8 +3,8 @@
 groupId: io.camunda.connector
 artifactId: connector-google-drive
 versioning:
-  latest: 0.17.1
-  release: 0.17.1
+  latest: 0.18.0-alpha2
+  release: 0.18.0-alpha2
   versions:
   - 0.4.0-rc1
   - 0.4.0
@@ -18,4 +18,6 @@ versioning:
   - 0.17.0-alpha6
   - 0.17.0
   - 0.17.1
-  lastUpdated: 20230317123110
+  - 0.18.0-alpha1
+  - 0.18.0-alpha2
+  lastUpdated: 20230404182243
