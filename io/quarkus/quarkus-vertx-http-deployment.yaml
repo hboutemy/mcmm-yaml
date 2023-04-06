@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-vertx-http-deployment
 versioning:
-  latest: 3.0.0.CR1
-  release: 3.0.0.CR1
+  latest: 3.0.0.CR2
+  release: 3.0.0.CR2
   versions:
   - 0.23.0
   - 0.23.1
@@ -205,4 +205,5 @@ versioning:
   - 3.0.0.Alpha6
   - 3.0.0.Beta1
   - 3.0.0.CR1
-  lastUpdated: 20230403155412
+  - 3.0.0.CR2
+  lastUpdated: 20230405112631

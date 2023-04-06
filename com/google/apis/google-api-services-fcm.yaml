@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-fcm
 versioning:
-  latest: v1-rev20221003-2.0.0
-  release: v1-rev20221003-2.0.0
+  latest: v1-rev20230327-2.0.0
+  release: v1-rev20230327-2.0.0
   versions:
   - v1-rev2-1.18.0-rc
   - v1-rev2-1.25.0
@@ -103,4 +103,5 @@ versioning:
   - v1-rev20220307-1.32.1
   - v1-rev20220307-2.0.0
   - v1-rev20221003-2.0.0
-  lastUpdated: 20221005082802
+  - v1-rev20230327-2.0.0
+  lastUpdated: 20230405085747

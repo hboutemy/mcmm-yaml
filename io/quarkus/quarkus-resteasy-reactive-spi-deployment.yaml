@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-resteasy-reactive-spi-deployment
 versioning:
-  latest: 3.0.0.CR1
-  release: 3.0.0.CR1
+  latest: 3.0.0.CR2
+  release: 3.0.0.CR2
   versions:
   - 1.11.0.Final
   - 1.11.1.Final
@@ -137,4 +137,5 @@ versioning:
   - 3.0.0.Alpha6
   - 3.0.0.Beta1
   - 3.0.0.CR1
-  lastUpdated: 20230403155312
+  - 3.0.0.CR2
+  lastUpdated: 20230405112538
