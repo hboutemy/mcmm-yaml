@@ -3,8 +3,8 @@
 groupId: org.ops4j.pax.web.samples
 artifactId: config-fragment-undertow-vhosts
 versioning:
-  latest: 9.0.7
-  release: 9.0.7
+  latest: 9.0.8
+  release: 9.0.8
   versions:
   - 8.0.1
   - 8.0.2
@@ -24,6 +24,7 @@ versioning:
   - 8.0.16
   - 8.0.17
   - 8.0.18
+  - 8.0.19
   - 9.0.0
   - 9.0.1
   - 9.0.2
@@ -32,4 +33,5 @@ versioning:
   - 9.0.5
   - 9.0.6
   - 9.0.7
-  lastUpdated: 20230323152938
+  - 9.0.8
+  lastUpdated: 20230406182435

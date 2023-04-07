@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.windup.web
 artifactId: windup-web-tests-parent
 versioning:
-  latest: 6.2.0.Alpha1
-  release: 6.2.0.Alpha1
+  latest: 6.2.0.Alpha2
+  release: 6.2.0.Alpha2
   versions:
   - 4.0.0.Beta1
   - 4.0.0.Beta2
@@ -64,4 +64,5 @@ versioning:
   - 6.1.6.Final
   - 6.1.7.Final
   - 6.2.0.Alpha1
-  lastUpdated: 20230405154432
+  - 6.2.0.Alpha2
+  lastUpdated: 20230406083432

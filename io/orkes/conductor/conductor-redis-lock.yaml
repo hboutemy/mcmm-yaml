@@ -3,8 +3,8 @@
 groupId: io.orkes.conductor
 artifactId: conductor-redis-lock
 versioning:
-  latest: 3.9.0-orkes-p-rc
-  release: 3.9.0-orkes-p-rc
+  latest: 3.9.1-orkes
+  release: 3.9.1-orkes
   versions:
   - 3.7.3-a
   - 3.9.0-orkes-g
@@ -14,4 +14,6 @@ versioning:
   - 3.9.0-orkes-n
   - 3.9.0-orkes-o
   - 3.9.0-orkes-p-rc
-  lastUpdated: 20230403055024
+  - 3.9.0-orkes-p
+  - 3.9.1-orkes
+  lastUpdated: 20230406213458

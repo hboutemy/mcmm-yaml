@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb.examples
 artifactId: profile-client
 versioning:
-  latest: 0.830.0
-  release: 0.830.0
+  latest: 0.832.0
+  release: 0.832.0
   versions:
   - 0.566.0-rc1
   - 0.571.0
@@ -232,6 +232,7 @@ versioning:
   - 0.754.0
   - 0.755.0-rc1
   - 0.756.0
+  - 0.756.1
   - 0.757.0
   - 0.758.0
   - 0.759.0
@@ -320,4 +321,5 @@ versioning:
   - 0.826.0
   - 0.829.0
   - 0.830.0
-  lastUpdated: 20230405163110
+  - 0.832.0
+  lastUpdated: 20230406112959
