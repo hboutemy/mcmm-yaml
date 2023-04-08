@@ -3,8 +3,8 @@
 groupId: com.linecorp.armeria
 artifactId: armeria-kafka
 versioning:
-  latest: 1.22.1
-  release: 1.22.1
+  latest: 1.23.1
+  release: 1.23.1
   versions:
   - 0.32.0
   - 0.33.0
@@ -165,4 +165,6 @@ versioning:
   - 1.21.0
   - 1.22.0
   - 1.22.1
-  lastUpdated: 20230220093623
+  - 1.23.0
+  - 1.23.1
+  lastUpdated: 20230407175509
