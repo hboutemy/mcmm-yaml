@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.odlparent
 artifactId: odlparent
 versioning:
-  latest: 12.0.3
-  release: 12.0.3
+  latest: 12.0.4
+  release: 12.0.4
   versions:
   - 1.4.2-Helium
   - 1.4.3-Helium-SR1
@@ -153,8 +153,10 @@ versioning:
   - 11.0.2
   - 11.0.3
   - 11.0.4
+  - 11.0.5
   - 12.0.0
   - 12.0.1
   - 12.0.2
   - 12.0.3
-  lastUpdated: 20230313110010
+  - 12.0.4
+  lastUpdated: 20230411105659

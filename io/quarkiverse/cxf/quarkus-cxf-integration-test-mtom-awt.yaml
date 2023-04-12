@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.cxf
 artifactId: quarkus-cxf-integration-test-mtom-awt
 versioning:
-  latest: 2.0.0.Alpha5
-  release: 2.0.0.Alpha5
+  latest: 2.0.0.Alpha7
+  release: 2.0.0.Alpha7
   versions:
   - 1.5.5
   - 1.5.6
@@ -22,4 +22,6 @@ versioning:
   - 2.0.0.Alpha3
   - 2.0.0.Alpha4
   - 2.0.0.Alpha5
-  lastUpdated: 20230330221707
+  - 2.0.0.Alpha6
+  - 2.0.0.Alpha7
+  lastUpdated: 20230411215229

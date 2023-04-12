@@ -3,8 +3,8 @@
 groupId: com.github.fd4s
 artifactId: fs2-kafka_2.13
 versioning:
-  latest: 3.0.0-RC1
-  release: 3.0.0-RC1
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 1.0.0-RC1
   - 1.0.0
@@ -38,6 +38,7 @@ versioning:
   - 2.5.0-M3
   - 2.5.0-RC1
   - 2.5.0
+  - 2.6.0
   - 3.0.0-M1
   - 3.0.0-M2
   - 3.0.0-M3
@@ -48,4 +49,5 @@ versioning:
   - 3.0.0-M8
   - 3.0.0-M9
   - 3.0.0-RC1
-  lastUpdated: 20230327143024
+  - 3.0.0
+  lastUpdated: 20230411122910

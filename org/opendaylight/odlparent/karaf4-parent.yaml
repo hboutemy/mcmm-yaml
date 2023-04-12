@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.odlparent
 artifactId: karaf4-parent
 versioning:
-  latest: 12.0.3
-  release: 12.0.3
+  latest: 12.0.4
+  release: 12.0.4
   versions:
   - 1.8.0-Carbon
   - 1.8.1-Carbon
@@ -130,10 +130,12 @@ versioning:
   - 11.0.2
   - 11.0.3
   - 11.0.4
+  - 11.0.5
   - 12.0.0
   - 12.0.1
   - 12.0.2
   - 12.0.3
+  - 12.0.4
   - 4.0.3
   - 4.0.4
-  lastUpdated: 20230313105924
+  lastUpdated: 20230411105615

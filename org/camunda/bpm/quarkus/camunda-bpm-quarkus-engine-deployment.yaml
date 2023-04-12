@@ -3,8 +3,8 @@
 groupId: org.camunda.bpm.quarkus
 artifactId: camunda-bpm-quarkus-engine-deployment
 versioning:
-  latest: 7.19.0-alpha5
-  release: 7.19.0-alpha5
+  latest: 7.19.0
+  release: 7.19.0
   versions:
   - 7.16.0-alpha4
   - 7.16.0-alpha5
@@ -28,4 +28,5 @@ versioning:
   - 7.19.0-alpha3
   - 7.19.0-alpha4
   - 7.19.0-alpha5
-  lastUpdated: 20230328115520
+  - 7.19.0
+  lastUpdated: 20230411051111

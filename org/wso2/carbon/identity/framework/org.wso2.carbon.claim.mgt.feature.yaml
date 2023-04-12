@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.claim.mgt.feature
 versioning:
-  latest: 6.0.4
-  release: 6.0.4
+  latest: 6.0.5
+  release: 6.0.5
   versions:
   - 5.5.0
   - 5.5.1
@@ -2197,9 +2197,11 @@ versioning:
   - 5.25.149
   - 5.25.150
   - 5.25.151
+  - 5.25.152
   - 6.0.0
   - 6.0.1
   - 6.0.2
   - 6.0.3
   - 6.0.4
-  lastUpdated: 20230410084256
+  - 6.0.5
+  lastUpdated: 20230411131424
