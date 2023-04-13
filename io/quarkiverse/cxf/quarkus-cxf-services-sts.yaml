@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.cxf
 artifactId: quarkus-cxf-services-sts
 versioning:
-  latest: 2.0.0.Alpha7
-  release: 2.0.0.Alpha7
+  latest: 2.0.0.CR1
+  release: 2.0.0.CR1
   versions:
   - 1.5.3
   - 1.5.4
@@ -14,6 +14,7 @@ versioning:
   - 1.5.8
   - 1.5.9
   - 1.5.10
+  - 1.5.11
   - 1.6.0
   - 1.7.0
   - 1.7.1
@@ -26,4 +27,5 @@ versioning:
   - 2.0.0.Alpha5
   - 2.0.0.Alpha6
   - 2.0.0.Alpha7
-  lastUpdated: 20230411215237
+  - 2.0.0.CR1
+  lastUpdated: 20230412232631

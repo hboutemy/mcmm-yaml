@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-rest-data-panache-parent
 versioning:
-  latest: 3.0.0.CR2
-  release: 3.0.0.CR2
+  latest: 3.0.0.Final
+  release: 3.0.0.Final
   versions:
   - 1.5.0.CR1
   - 1.5.0.Final
@@ -173,4 +173,5 @@ versioning:
   - 3.0.0.Beta1
   - 3.0.0.CR1
   - 3.0.0.CR2
-  lastUpdated: 20230405112515
+  - 3.0.0.Final
+  lastUpdated: 20230412101318

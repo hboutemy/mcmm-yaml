@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-react-router
 versioning:
-  latest: 6.10.0-pre.536
-  release: 6.10.0-pre.536
+  latest: 6.10.0-pre.536-compat
+  release: 6.10.0-pre.536-compat
   versions:
   - 6.7.0-pre.481
   - 6.7.0-pre.481-compat
@@ -74,4 +74,5 @@ versioning:
   - 6.10.0-pre.534
   - 6.10.0-pre.535
   - 6.10.0-pre.536
-  lastUpdated: 20230411161632
+  - 6.10.0-pre.536-compat
+  lastUpdated: 20230412160936

@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-tanstack-table-core-js
 versioning:
-  latest: 8.8.5-pre.536
-  release: 8.8.5-pre.536
+  latest: 8.8.5-pre.536-compat
+  release: 8.8.5-pre.536-compat
   versions:
   - 8.6.0-pre.493
   - 8.6.0-pre.493-compat
@@ -56,4 +56,5 @@ versioning:
   - 8.8.5-pre.534
   - 8.8.5-pre.535
   - 8.8.5-pre.536
-  lastUpdated: 20230411161717
+  - 8.8.5-pre.536-compat
+  lastUpdated: 20230412161030

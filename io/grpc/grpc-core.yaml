@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: io.grpc
 artifactId: grpc-core
 versioning:
@@ -73,7 +74,6 @@ versioning:
   - 1.27.0
   - 1.27.1
   - 1.27.2
-  - 1.28.0
   - 1.28.1
   - 1.29.0
   - 1.30.0
@@ -144,4 +144,5 @@ versioning:
   - 1.52.1
   - 1.53.0
   - 1.54.0
-  lastUpdated: 20230411224604
+  - 1.28.0
+  lastUpdated: 20230412221423

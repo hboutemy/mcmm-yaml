@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.identity.framework
 artifactId: central-logger-feature
 versioning:
-  latest: 6.0.5
-  release: 6.0.5
+  latest: 6.0.8
+  release: 6.0.8
   versions:
   - 5.20.168
   - 5.20.169
@@ -269,6 +269,7 @@ versioning:
   - 5.24.6
   - 5.24.7
   - 5.24.8
+  - 5.24.9
   - 5.25.0
   - 5.25.1
   - 5.25.2
@@ -394,10 +395,16 @@ versioning:
   - 5.25.150
   - 5.25.151
   - 5.25.152
+  - 5.25.153
+  - 5.25.154
+  - 5.25.155
   - 6.0.0
   - 6.0.1
   - 6.0.2
   - 6.0.3
   - 6.0.4
   - 6.0.5
-  lastUpdated: 20230411131417
+  - 6.0.6
+  - 6.0.7
+  - 6.0.8
+  lastUpdated: 20230412154731

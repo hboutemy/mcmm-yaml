@@ -3,10 +3,11 @@
 groupId: com.datastax.oss.quarkus
 artifactId: cassandra-quarkus-integration-tests-dse
 versioning:
-  latest: 1.2.0-alpha1
-  release: 1.2.0-alpha1
+  latest: 1.2.0-alpha2
+  release: 1.2.0-alpha2
   versions:
   - 1.1.2
   - 1.1.3
   - 1.2.0-alpha1
-  lastUpdated: 20230330033547
+  - 1.2.0-alpha2
+  lastUpdated: 20230412193641

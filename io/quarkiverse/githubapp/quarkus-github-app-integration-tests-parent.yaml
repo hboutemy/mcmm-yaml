@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.githubapp
 artifactId: quarkus-github-app-integration-tests-parent
 versioning:
-  latest: 2.0.0.Alpha2
-  release: 2.0.0.Alpha2
+  latest: 2.0.0
+  release: 2.0.0
   versions:
   - 1.0.8
   - 1.0.9
@@ -50,4 +50,5 @@ versioning:
   - 1.17.0
   - 2.0.0.Alpha1
   - 2.0.0.Alpha2
-  lastUpdated: 20230405162507
+  - 2.0.0
+  lastUpdated: 20230412143900

@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-cache-deployment-spi
 versioning:
-  latest: 3.0.0.CR2
-  release: 3.0.0.CR2
+  latest: 3.0.0.Final
+  release: 3.0.0.Final
   versions:
   - 3.0.0.Alpha3
   - 3.0.0.Alpha4
@@ -13,4 +13,5 @@ versioning:
   - 3.0.0.Beta1
   - 3.0.0.CR1
   - 3.0.0.CR2
-  lastUpdated: 20230405112237
+  - 3.0.0.Final
+  lastUpdated: 20230412101041

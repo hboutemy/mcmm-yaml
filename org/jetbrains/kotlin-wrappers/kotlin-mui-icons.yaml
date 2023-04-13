@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-mui-icons
 versioning:
-  latest: 5.11.11-pre.536
-  release: 5.11.11-pre.536
+  latest: 5.11.11-pre.536-compat
+  release: 5.11.11-pre.536-compat
   versions:
   - 5.2.0-pre.273-kotlin-1.6.0
   - 5.2.0-pre.274-kotlin-1.6.0
@@ -307,4 +307,5 @@ versioning:
   - 5.11.11-pre.534
   - 5.11.11-pre.535
   - 5.11.11-pre.536
-  lastUpdated: 20230411161553
+  - 5.11.11-pre.536-compat
+  lastUpdated: 20230412160853

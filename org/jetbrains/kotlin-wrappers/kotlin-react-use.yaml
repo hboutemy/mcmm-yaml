@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-react-use
 versioning:
-  latest: 17.4.0-pre.536
-  release: 17.4.0-pre.536
+  latest: 17.4.0-pre.536-compat
+  release: 17.4.0-pre.536-compat
   versions:
   - 17.4.0-pre.475
   - 17.4.0-pre.476
@@ -82,4 +82,5 @@ versioning:
   - 17.4.0-pre.534
   - 17.4.0-pre.535
   - 17.4.0-pre.536
-  lastUpdated: 20230411161641
+  - 17.4.0-pre.536-compat
+  lastUpdated: 20230412160948

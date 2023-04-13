@@ -3,8 +3,8 @@
 groupId: com.hazelcast.jet
 artifactId: hazelcast-jet-cdc-mysql
 versioning:
-  latest: 5.3.0-BETA-1
-  release: 5.3.0-BETA-1
+  latest: 5.3.0-BETA-2
+  release: 5.3.0-BETA-2
   versions:
   - 4.2
   - 4.3
@@ -35,4 +35,5 @@ versioning:
   - 5.2.2
   - 5.2.3
   - 5.3.0-BETA-1
-  lastUpdated: 20230323130453
+  - 5.3.0-BETA-2
+  lastUpdated: 20230412103450
