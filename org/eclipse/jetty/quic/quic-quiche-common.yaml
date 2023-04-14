@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty.quic
 artifactId: quic-quiche-common
 versioning:
-  latest: 11.0.14
-  release: 11.0.14
+  latest: 11.0.15
+  release: 11.0.15
   versions:
   - 10.0.8
   - 10.0.9
@@ -13,6 +13,7 @@ versioning:
   - 10.0.12
   - 10.0.13
   - 10.0.14
+  - 10.0.15
   - 11.0.8
   - 11.0.9
   - 11.0.10
@@ -20,4 +21,5 @@ versioning:
   - 11.0.12
   - 11.0.13
   - 11.0.14
-  lastUpdated: 20230227172600
+  - 11.0.15
+  lastUpdated: 20230413180301

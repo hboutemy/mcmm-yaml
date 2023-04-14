@@ -3,8 +3,8 @@
 groupId: org.apache.spark
 artifactId: spark-kubernetes_2.12
 versioning:
-  latest: 3.3.2
-  release: 3.3.2
+  latest: 3.4.0
+  release: 3.4.0
   versions:
   - 2.4.0
   - 2.4.1
@@ -29,7 +29,9 @@ versioning:
   - 3.2.1
   - 3.2.2
   - 3.2.3
+  - 3.2.4
   - 3.3.0
   - 3.3.1
   - 3.3.2
-  lastUpdated: 20230215211946
+  - 3.4.0
+  lastUpdated: 20230413184401

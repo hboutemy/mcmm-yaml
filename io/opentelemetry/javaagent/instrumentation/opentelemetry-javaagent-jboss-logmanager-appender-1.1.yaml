@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-jboss-logmanager-appender-1.1
 versioning:
-  latest: 1.24.0-alpha
-  release: 1.24.0-alpha
+  latest: 1.25.0-alpha
+  release: 1.25.0-alpha
   versions:
   - 1.15.0-alpha
   - 1.16.0-alpha
@@ -21,4 +21,5 @@ versioning:
   - 1.22.1-alpha
   - 1.23.0-alpha
   - 1.24.0-alpha
-  lastUpdated: 20230315162550
+  - 1.25.0-alpha
+  lastUpdated: 20230413201835

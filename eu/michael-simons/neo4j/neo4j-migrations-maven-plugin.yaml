@@ -3,8 +3,8 @@
 groupId: eu.michael-simons.neo4j
 artifactId: neo4j-migrations-maven-plugin
 versioning:
-  latest: 2.2.2
-  release: 2.2.2
+  latest: 2.2.3
+  release: 2.2.3
   versions:
   - 0.0.11
   - 0.0.12
@@ -59,6 +59,7 @@ versioning:
   - 1.15.3
   - 1.16.0
   - 1.16.1
+  - 1.16.2
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -69,4 +70,5 @@ versioning:
   - 2.2.0
   - 2.2.1
   - 2.2.2
-  lastUpdated: 20230323100617
+  - 2.2.3
+  lastUpdated: 20230413131009
