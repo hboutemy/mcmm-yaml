@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-instrumentation-http
 versioning:
-  latest: 5.15.0
-  release: 5.15.0
+  latest: 5.15.1
+  release: 5.15.1
   versions:
   - 4.3.1
   - 4.3.2
@@ -122,4 +122,5 @@ versioning:
   - 5.14.0
   - 5.14.1
   - 5.15.0
-  lastUpdated: 20230201105446
+  - 5.15.1
+  lastUpdated: 20230414152939

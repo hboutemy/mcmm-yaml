@@ -3,8 +3,8 @@
 groupId: org.liquibase.ext
 artifactId: liquibase-nochangeloglock
 versioning:
-  latest: 4.20.0
-  release: 4.20.0
+  latest: 4.21.1
+  release: 4.21.1
   versions:
   - 1.0
   - 1.1
@@ -13,4 +13,6 @@ versioning:
   - 4.19.0
   - 4.19.1
   - 4.20.0
-  lastUpdated: 20230308202955
+  - 4.21.0
+  - 4.21.1
+  lastUpdated: 20230414201753
