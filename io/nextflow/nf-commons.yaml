@@ -3,8 +3,8 @@
 groupId: io.nextflow
 artifactId: nf-commons
 versioning:
-  latest: 23.04.0
-  release: 23.04.0
+  latest: 23.04.1
+  release: 23.04.1
   versions:
   - 19.01.0
   - 19.01.0-edge
@@ -114,6 +114,7 @@ versioning:
   - 22.10.5
   - 22.10.6
   - 22.10.7
+  - 22.10.8
   - 22.11.0-edge
   - 22.11.1-edge
   - 22.12.0-edge
@@ -122,4 +123,5 @@ versioning:
   - 23.02.1-edge
   - 23.03.0-edge
   - 23.04.0
-  lastUpdated: 20230401212918
+  - 23.04.1
+  lastUpdated: 20230415100802
