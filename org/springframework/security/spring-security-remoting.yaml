@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.security
 artifactId: spring-security-remoting
 versioning:
-  latest: 5.8.2
-  release: 5.8.2
+  latest: 5.8.3
+  release: 5.8.3
   versions:
   - 3.1.0.RELEASE
   - 3.1.1.RELEASE
@@ -162,7 +162,9 @@ versioning:
   - 5.7.5
   - 5.7.6
   - 5.7.7
+  - 5.7.8
   - 5.8.0
   - 5.8.1
   - 5.8.2
-  lastUpdated: 20230320183451
+  - 5.8.3
+  lastUpdated: 20230417155828

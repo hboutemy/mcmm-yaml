@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.micronaut
 artifactId: micronaut-parent
 versioning:
-  latest: 3.8.9
-  release: 3.8.9
+  latest: 4.0.0-M1
+  release: 4.0.0-M1
   versions:
   - 2.0.0.M2
   - 2.0.0.M3
@@ -115,4 +115,6 @@ versioning:
   - 3.8.7
   - 3.8.8
   - 3.8.9
-  lastUpdated: 20230413073001
+  - 3.9.0
+  - 4.0.0-M1
+  lastUpdated: 20230417184122
