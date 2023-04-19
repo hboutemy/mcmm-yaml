@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: template-management-feature
 versioning:
-  latest: 6.0.9
-  release: 6.0.9
+  latest: 6.0.10
+  release: 6.0.10
   versions:
   - 5.12.226
   - 5.12.227
@@ -1157,6 +1157,7 @@ versioning:
   - 5.24.7
   - 5.24.8
   - 5.24.9
+  - 5.24.10
   - 5.25.0
   - 5.25.1
   - 5.25.2
@@ -1297,4 +1298,5 @@ versioning:
   - 6.0.7
   - 6.0.8
   - 6.0.9
-  lastUpdated: 20230417144954
+  - 6.0.10
+  lastUpdated: 20230418105411
