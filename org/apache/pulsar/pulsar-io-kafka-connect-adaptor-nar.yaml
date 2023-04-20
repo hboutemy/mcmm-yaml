@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: pulsar-io-kafka-connect-adaptor-nar
 versioning:
-  latest: 2.11.0
-  release: 2.11.0
+  latest: 2.11.1
+  release: 2.11.1
   versions:
   - 2.8.0
   - 2.8.1
@@ -20,5 +20,7 @@ versioning:
   - 2.10.1
   - 2.10.2
   - 2.10.3
+  - 2.10.4
   - 2.11.0
-  lastUpdated: 20230110063818
+  - 2.11.1
+  lastUpdated: 20230419033645

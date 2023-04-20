@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-ogm-quarkus-deployment
 versioning:
-  latest: 2.2.3
-  release: 2.2.3
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 1.2.0
   - 1.2.1
@@ -21,4 +21,5 @@ versioning:
   - 2.2.1
   - 2.2.2
   - 2.2.3
-  lastUpdated: 20230404115747
+  - 3.0.0
+  lastUpdated: 20230419091433

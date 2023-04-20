@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.cxf
 artifactId: quarkus-cxf-saaj-parent
 versioning:
-  latest: 2.0.0.CR1
-  release: 2.0.0.CR1
+  latest: 2.0.1
+  release: 2.0.1
   versions:
   - 1.5.2
   - 1.5.3
@@ -16,6 +16,8 @@ versioning:
   - 1.5.9
   - 1.5.10
   - 1.5.11
+  - 1.5.12
+  - 1.5.13
   - 1.6.0
   - 1.7.0
   - 1.7.1
@@ -29,4 +31,6 @@ versioning:
   - 2.0.0.Alpha6
   - 2.0.0.Alpha7
   - 2.0.0.CR1
-  lastUpdated: 20230412232631
+  - 2.0.0
+  - 2.0.1
+  lastUpdated: 20230419184157

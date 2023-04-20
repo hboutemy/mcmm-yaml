@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.tektonclient
 artifactId: quarkus-tekton-client-parent
 versioning:
-  latest: 1.0.0.Alpha1
-  release: 1.0.0.Alpha1
+  latest: 1.0.0
+  release: 1.0.0
   versions:
   - 0.1
   - 0.2.0
@@ -14,4 +14,5 @@ versioning:
   - 0.6.0
   - 0.7.0
   - 1.0.0.Alpha1
-  lastUpdated: 20230411101833
+  - 1.0.0
+  lastUpdated: 20230419163319

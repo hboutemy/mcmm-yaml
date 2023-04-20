@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-cypher-planner-spi
 versioning:
-  latest: 5.6.0
-  release: 5.6.0
+  latest: 5.7.0
+  release: 5.7.0
   versions:
   - 4.0.0-rc01
   - 4.0.0
@@ -103,4 +103,5 @@ versioning:
   - 5.4.0
   - 5.5.0
   - 5.6.0
-  lastUpdated: 20230328094642
+  - 5.7.0
+  lastUpdated: 20230419142453
