@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.artemis
 artifactId: quarkus-integration-test-artemis-jms-with-default
 versioning:
-  latest: 3.0.0.CR1
-  release: 3.0.0.CR1
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 2.0.0
   - 2.0.1.CR1
@@ -22,4 +22,5 @@ versioning:
   - 3.0.0.Alpha6
   - 3.0.0.Alpha7
   - 3.0.0.CR1
-  lastUpdated: 20230331080156
+  - 3.0.0
+  lastUpdated: 20230420140054

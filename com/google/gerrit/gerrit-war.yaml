@@ -3,8 +3,8 @@
 groupId: com.google.gerrit
 artifactId: gerrit-war
 versioning:
-  latest: 3.8.0-rc1
-  release: 3.8.0-rc1
+  latest: 3.8.0-rc2
+  release: 3.8.0-rc2
   versions:
   - 2.9-rc2
   - 2.9
@@ -278,6 +278,7 @@ versioning:
   - 3.7.2
   - 3.8.0-rc0
   - 3.8.0-rc1
+  - 3.8.0-rc2
   - 2.10.5
   - 2.11.1
-  lastUpdated: 20230410223533
+  lastUpdated: 20230420050449

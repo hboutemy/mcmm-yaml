@@ -3,11 +3,12 @@
 groupId: io.debezium
 artifactId: debezium-quarkus-outbox-reactive-integration-tests
 versioning:
-  latest: 2.2.0.CR1
-  release: 2.2.0.CR1
+  latest: 2.2.0.Final
+  release: 2.2.0.Final
   versions:
   - 2.2.0.Alpha2
   - 2.2.0.Alpha3
   - 2.2.0.Beta1
   - 2.2.0.CR1
-  lastUpdated: 20230414140532
+  - 2.2.0.Final
+  lastUpdated: 20230420071619

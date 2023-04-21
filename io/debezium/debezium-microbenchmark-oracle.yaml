@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-microbenchmark-oracle
 versioning:
-  latest: 2.2.0.CR1
-  release: 2.2.0.CR1
+  latest: 2.2.0.Final
+  release: 2.2.0.Final
   versions:
   - 1.4.2.Final
   - 1.5.0.Beta1
@@ -70,4 +70,5 @@ versioning:
   - 2.2.0.Alpha3
   - 2.2.0.Beta1
   - 2.2.0.CR1
-  lastUpdated: 20230414140527
+  - 2.2.0.Final
+  lastUpdated: 20230420071615

@@ -3,9 +3,10 @@
 groupId: com.netease.cloudmusic.iotsdk
 artifactId: iot-player-cache
 versioning:
-  latest: 0.3.3
-  release: 0.3.3
+  latest: 0.3.4-rc2
+  release: 0.3.4-rc2
   versions:
+  - =0.3.4-rc2
   - 0.1.0-rc1
   - 0.1.0-rc2
   - 0.1.0-rc4
@@ -20,6 +21,8 @@ versioning:
   - 0.1.6-rc1
   - 0.1.6-rc2
   - 0.1.6-rc4
+  - 0.1.6-rc5
+  - 0.1.6-rc6
   - 0.2.0
   - 0.2.1
   - 0.2.2
@@ -56,4 +59,6 @@ versioning:
   - 0.3.2-rc6
   - 0.3.2
   - 0.3.3
-  lastUpdated: 20230419122402
+  - 0.3.4-rc1
+  - 0.3.4-rc2
+  lastUpdated: 20230420075518
