@@ -3,8 +3,8 @@
 groupId: org.sdase.commons
 artifactId: sda-commons-bom
 versioning:
-  latest: 4.1.4
-  release: 4.1.4
+  latest: 4.2.1
+  release: 4.2.1
   versions:
   - 0.80.6
   - 0.80.7
@@ -633,6 +633,7 @@ versioning:
   - 2.64.30
   - 2.64.31
   - 2.64.32
+  - 2.64.33
   - 3.0.0-alpha.1
   - 3.0.0-alpha.2
   - 3.0.0-rc.1
@@ -664,4 +665,6 @@ versioning:
   - 4.1.2
   - 4.1.3
   - 4.1.4
-  lastUpdated: 20230420101436
+  - 4.2.0
+  - 4.2.1
+  lastUpdated: 20230421111550

@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-client
 versioning:
-  latest: 2.11.0.5
-  release: 2.11.0.5
+  latest: 3.0.0.1-rc1
+  release: 3.0.0.1-rc1
   versions:
   - master-rc-daily
   - v2.8.0-rc-202106091140
@@ -585,4 +585,5 @@ versioning:
   - 2.11.0.3
   - 2.11.0.4
   - 2.11.0.5
-  lastUpdated: 20230418035647
+  - 3.0.0.1-rc1
+  lastUpdated: 20230421112516

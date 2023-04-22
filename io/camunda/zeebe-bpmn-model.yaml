@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-bpmn-model
 versioning:
-  latest: 8.2.2
-  release: 8.2.2
+  latest: 8.2.3
+  release: 8.2.3
   versions:
   - 1.0.0-rc1
   - 1.0.0-rc2
@@ -96,6 +96,7 @@ versioning:
   - 8.1.8
   - 8.1.9
   - 8.1.10
+  - 8.1.11
   - 8.2.0-alpha1
   - 8.2.0-alpha2
   - 8.2.0-alpha3
@@ -105,4 +106,5 @@ versioning:
   - 8.2.0
   - 8.2.1
   - 8.2.2
-  lastUpdated: 20230417165624
+  - 8.2.3
+  lastUpdated: 20230421131809

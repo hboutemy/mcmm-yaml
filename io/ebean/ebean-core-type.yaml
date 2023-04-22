@@ -3,8 +3,8 @@
 groupId: io.ebean
 artifactId: ebean-core-type
 versioning:
-  latest: 13.17.2
-  release: 13.17.2
+  latest: 13.17.2-jakarta
+  release: 13.17.2-jakarta
   versions:
   - 12.6.1
   - 12.6.2
@@ -98,4 +98,5 @@ versioning:
   - 13.17.1-jakarta
   - 13.17.1.1
   - 13.17.2
-  lastUpdated: 20230420150703
+  - 13.17.2-jakarta
+  lastUpdated: 20230421044738

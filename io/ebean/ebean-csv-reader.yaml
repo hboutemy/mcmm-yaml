@@ -3,8 +3,8 @@
 groupId: io.ebean
 artifactId: ebean-csv-reader
 versioning:
-  latest: 13.17.2
-  release: 13.17.2
+  latest: 13.17.2-jakarta
+  release: 13.17.2-jakarta
   versions:
   - 13.9.0
   - 13.9.1
@@ -43,4 +43,5 @@ versioning:
   - 13.17.1-jakarta
   - 13.17.1.1
   - 13.17.2
-  lastUpdated: 20230420150737
+  - 13.17.2-jakarta
+  lastUpdated: 20230421044721

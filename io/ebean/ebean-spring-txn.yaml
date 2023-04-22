@@ -3,8 +3,8 @@
 groupId: io.ebean
 artifactId: ebean-spring-txn
 versioning:
-  latest: 13.17.2
-  release: 13.17.2
+  latest: 13.17.2-jakarta
+  release: 13.17.2-jakarta
   versions:
   - 10.1.1
   - 11.5.1
@@ -42,4 +42,5 @@ versioning:
   - 13.17.1-jakarta
   - 13.17.1.1
   - 13.17.2
-  lastUpdated: 20230420150739
+  - 13.17.2-jakarta
+  lastUpdated: 20230421044723
