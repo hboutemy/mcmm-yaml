@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-scripting
 versioning:
-  latest: 14.0.8.Final
-  release: 14.0.8.Final
+  latest: 15.0.0.Dev01
+  release: 15.0.0.Dev01
   versions:
   - 7.2.0.Beta1
   - 7.2.0.Beta2
@@ -248,5 +248,6 @@ versioning:
   - 14.0.6.Final
   - 14.0.7.Final
   - 14.0.8.Final
+  - 15.0.0.Dev01
   - 12.0.0.Dev03
-  lastUpdated: 20230407201209
+  lastUpdated: 20230422105118

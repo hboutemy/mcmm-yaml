@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-cachestore-sql
 versioning:
-  latest: 14.0.8.Final
-  release: 14.0.8.Final
+  latest: 15.0.0.Dev01
+  release: 15.0.0.Dev01
   versions:
   - 13.0.0.CR1
   - 13.0.0.CR2
@@ -40,4 +40,5 @@ versioning:
   - 14.0.6.Final
   - 14.0.7.Final
   - 14.0.8.Final
-  lastUpdated: 20230407201140
+  - 15.0.0.Dev01
+  lastUpdated: 20230422105056
