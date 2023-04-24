@@ -3,8 +3,8 @@
 groupId: dev.crashteam
 artifactId: openapi-ke-analytics
 versioning:
-  latest: 1.24-9e01cc1-server
-  release: 1.24-9e01cc1-server
+  latest: 1.27-866e5e7-server
+  release: 1.27-866e5e7-server
   versions:
   - 1.1-c06abca-client
   - 1.1-c06abca-server
@@ -41,4 +41,8 @@ versioning:
   - 1.23-ce7a20b-server
   - 1.24-9e01cc1-client
   - 1.24-9e01cc1-server
-  lastUpdated: 20230405161457
+  - 1.26-f39b764-client
+  - 1.26-f39b764-server
+  - 1.27-866e5e7-client
+  - 1.27-866e5e7-server
+  lastUpdated: 20230423155721
