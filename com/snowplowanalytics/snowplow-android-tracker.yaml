@@ -3,8 +3,8 @@
 groupId: com.snowplowanalytics
 artifactId: snowplow-android-tracker
 versioning:
-  latest: 5.0.0
-  release: 5.0.0
+  latest: 5.0.1
+  release: 5.0.1
   versions:
   - 0.6.0
   - 0.6.1
@@ -54,4 +54,6 @@ versioning:
   - 5.0.0-beta.1
   - 5.0.0-beta.2
   - 5.0.0
-  lastUpdated: 20230404145459
+  - 5.0.0-dev.1
+  - 5.0.1
+  lastUpdated: 20230424111239

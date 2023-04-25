@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.identity.cors.mgt.core
 versioning:
-  latest: 6.0.13
-  release: 6.0.13
+  latest: 6.0.15
+  release: 6.0.15
   versions:
   - 5.18.1
   - 5.18.2
@@ -877,6 +877,9 @@ versioning:
   - 5.25.161
   - 5.25.162
   - 5.25.163
+  - 5.25.164
+  - 5.25.165
+  - 5.25.166
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -891,4 +894,5 @@ versioning:
   - 6.0.11
   - 6.0.12
   - 6.0.13
-  lastUpdated: 20230422183327
+  - 6.0.15
+  lastUpdated: 20230424201030
