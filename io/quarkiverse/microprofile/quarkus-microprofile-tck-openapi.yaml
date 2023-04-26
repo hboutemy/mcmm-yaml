@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.microprofile
 artifactId: quarkus-microprofile-tck-openapi
 versioning:
-  latest: 3.0.0.Alpha3
-  release: 3.0.0.Alpha3
+  latest: 3.0.0.Final
+  release: 3.0.0.Final
   versions:
   - 2.2.2.CR1
   - 2.2.2.CR2
@@ -13,4 +13,5 @@ versioning:
   - 2.4.1.Final
   - 2.7.2.Final
   - 3.0.0.Alpha3
-  lastUpdated: 20230217142728
+  - 3.0.0.Final
+  lastUpdated: 20230425202251

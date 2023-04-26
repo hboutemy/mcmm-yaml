@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-micrometer-registry-prometheus-parent
 versioning:
-  latest: 3.0.0.Final
-  release: 3.0.0.Final
+  latest: 3.0.1.Final
+  release: 3.0.1.Final
   versions:
   - 1.11.0.CR1
   - 1.11.0.Final
@@ -140,4 +140,5 @@ versioning:
   - 3.0.0.CR1
   - 3.0.0.CR2
   - 3.0.0.Final
-  lastUpdated: 20230412101232
+  - 3.0.1.Final
+  lastUpdated: 20230425192352

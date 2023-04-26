@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-accessapproval
 versioning:
-  latest: v1-rev20230317-2.0.0
-  release: v1-rev20230317-2.0.0
+  latest: v1-rev20230421-2.0.0
+  release: v1-rev20230421-2.0.0
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.22.0
@@ -136,4 +136,5 @@ versioning:
   - v1-rev20230203-2.0.0
   - v1-rev20230303-2.0.0
   - v1-rev20230317-2.0.0
-  lastUpdated: 20230321080645
+  - v1-rev20230421-2.0.0
+  lastUpdated: 20230425080910
