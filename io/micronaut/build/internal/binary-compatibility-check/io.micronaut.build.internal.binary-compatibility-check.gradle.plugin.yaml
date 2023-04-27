@@ -3,8 +3,8 @@
 groupId: io.micronaut.build.internal.binary-compatibility-check
 artifactId: io.micronaut.build.internal.binary-compatibility-check.gradle.plugin
 versioning:
-  latest: 6.4.1
-  release: 6.4.1
+  latest: 6.4.2
+  release: 6.4.2
   versions:
   - 5.3.0
   - 5.3.1
@@ -51,6 +51,8 @@ versioning:
   - 6.3.4
   - 6.3.5
   - 6.3.6
+  - 6.3.7
   - 6.4.0
   - 6.4.1
-  lastUpdated: 20230417095642
+  - 6.4.2
+  lastUpdated: 20230426111110

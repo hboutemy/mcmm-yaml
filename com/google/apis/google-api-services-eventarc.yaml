@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-eventarc
 versioning:
-  latest: v1-rev20230331-2.0.0
-  release: v1-rev20230331-2.0.0
+  latest: v1-rev20230421-2.0.0
+  release: v1-rev20230421-2.0.0
   versions:
   - v1beta1-rev20201015-1.30.10
   - v1beta1-rev20201023-1.30.10
@@ -36,6 +36,7 @@ versioning:
   - v1beta1-rev20230113-2.0.0
   - v1beta1-rev20230127-2.0.0
   - v1beta1-rev20230307-2.0.0
+  - v1beta1-rev20230421-2.0.0
   - v1-rev20210113-1.31.0
   - v1-rev20210218-1.31.0
   - v1-rev20210312-1.31.0
@@ -72,4 +73,5 @@ versioning:
   - v1-rev20230127-2.0.0
   - v1-rev20230321-2.0.0
   - v1-rev20230331-2.0.0
-  lastUpdated: 20230404083002
+  - v1-rev20230421-2.0.0
+  lastUpdated: 20230426090926

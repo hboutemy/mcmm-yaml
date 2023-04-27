@@ -4,7 +4,7 @@ groupId: org.keycloak
 artifactId: keycloak-wildfly-subsystem
 versioning:
   latest: 18.0.2
-  release: 21.1.0
+  release: 21.1.1
   versions:
   - 1.0-alpha-2
   - 1.0-alpha-3
@@ -141,4 +141,5 @@ versioning:
   - 21.0.1
   - 21.0.2
   - 21.1.0
-  lastUpdated: 20230419073827
+  - 21.1.1
+  lastUpdated: 20230426100117
