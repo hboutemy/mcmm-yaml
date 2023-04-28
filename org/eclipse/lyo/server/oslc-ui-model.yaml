@@ -3,8 +3,8 @@
 groupId: org.eclipse.lyo.server
 artifactId: oslc-ui-model
 versioning:
-  latest: 5.0.0.Final
-  release: 5.0.0.Final
+  latest: 5.1.0-alpha
+  release: 5.1.0-alpha
   versions:
   - 4.1.0.alpha1
   - 4.1.0.M1
@@ -16,4 +16,6 @@ versioning:
   - 5.0.0.alpha4
   - 5.0.0.CR
   - 5.0.0.Final
-  lastUpdated: 20220510211205
+  - 5.0.1.CR
+  - 5.1.0-alpha
+  lastUpdated: 20230427224729

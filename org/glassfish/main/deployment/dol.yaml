@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.main.deployment
 artifactId: dol
 versioning:
-  latest: 7.0.3
-  release: 7.0.3
+  latest: 7.0.4
+  release: 7.0.4
   versions:
   - 5.1.0
   - 6.0.0-M1
@@ -30,6 +30,7 @@ versioning:
   - 7.0.1
   - 7.0.2
   - 7.0.3
+  - 7.0.4
   - 3.1.2
   - 3.1.2.2
   - 4.0
@@ -43,4 +44,4 @@ versioning:
   - 5.0.1
   - 5.1.0-RC1
   - 5.1.0-RC2
-  lastUpdated: 20230330110053
+  lastUpdated: 20230427083048
