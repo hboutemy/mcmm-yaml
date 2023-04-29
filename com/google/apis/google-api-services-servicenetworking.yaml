@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-servicenetworking
 versioning:
-  latest: v1-rev20230419-2.0.0
-  release: v1-rev20230419-2.0.0
+  latest: v1-rev20230426-2.0.0
+  release: v1-rev20230426-2.0.0
   versions:
   - v1beta-rev1-1.18.0-rc
   - v1beta-rev1-1.22.0
@@ -473,6 +473,7 @@ versioning:
   - v1beta-rev20230329-2.0.0
   - v1beta-rev20230409-2.0.0
   - v1beta-rev20230419-2.0.0
+  - v1beta-rev20230426-2.0.0
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.22.0
   - v1-rev1-1.23.0
@@ -788,4 +789,5 @@ versioning:
   - v1-rev20230329-2.0.0
   - v1-rev20230409-2.0.0
   - v1-rev20230419-2.0.0
-  lastUpdated: 20230421083959
+  - v1-rev20230426-2.0.0
+  lastUpdated: 20230428085925
