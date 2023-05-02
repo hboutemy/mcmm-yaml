@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-popper
 versioning:
-  latest: 2.11.7-pre.545
-  release: 2.11.7-pre.545
+  latest: 2.11.7-pre.545-compat
+  release: 2.11.7-pre.545-compat
   versions:
   - 2.10.2-pre.269-kotlin-1.6.0
   - 2.10.2-pre.270-kotlin-1.6.0
@@ -321,4 +321,5 @@ versioning:
   - 2.11.7-pre.543
   - 2.11.7-pre.544
   - 2.11.7-pre.545
-  lastUpdated: 20230429061039
+  - 2.11.7-pre.545-compat
+  lastUpdated: 20230501150112

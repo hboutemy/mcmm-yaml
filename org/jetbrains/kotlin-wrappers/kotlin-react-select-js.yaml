@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-react-select-js
 versioning:
-  latest: 5.7.2-pre.545
-  release: 5.7.2-pre.545
+  latest: 5.7.2-pre.545-compat
+  release: 5.7.2-pre.545-compat
   versions:
   - 5.7.0-pre.493
   - 5.7.0-pre.493-compat
@@ -66,4 +66,5 @@ versioning:
   - 5.7.2-pre.543
   - 5.7.2-pre.544
   - 5.7.2-pre.545
-  lastUpdated: 20230429061120
+  - 5.7.2-pre.545-compat
+  lastUpdated: 20230501150158

@@ -3,8 +3,8 @@
 groupId: org.reactivemongo
 artifactId: reactivemongo-bson-geo_2.11
 versioning:
-  latest: 1.1.0-noshaded-RC9
-  release: 1.1.0-noshaded-RC9
+  latest: 1.1.0-noshaded-RC10
+  release: 1.1.0-noshaded-RC10
   versions:
   - 0.18.5
   - 0.18.6
@@ -75,6 +75,7 @@ versioning:
   - 1.1.0-RC7
   - 1.1.0-RC8
   - 1.1.0-RC9
+  - 1.1.0-RC10
   - 1.1.0-noshaded-RC1
   - 1.1.0-noshaded-RC2
   - 1.1.0-noshaded-RC3
@@ -84,4 +85,5 @@ versioning:
   - 1.1.0-noshaded-RC7
   - 1.1.0-noshaded-RC8
   - 1.1.0-noshaded-RC9
-  lastUpdated: 20230312162718
+  - 1.1.0-noshaded-RC10
+  lastUpdated: 20230501141058

@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-react-dom-legacy
 versioning:
-  latest: 18.2.0-pre.545
-  release: 18.2.0-pre.545
+  latest: 18.2.0-pre.545-compat
+  release: 18.2.0-pre.545-compat
   versions:
   - 17.0.2-pre.282-kotlin-1.6.10
   - 17.0.2-pre.283-kotlin-1.6.10
@@ -308,4 +308,5 @@ versioning:
   - 18.2.0-pre.543
   - 18.2.0-pre.544
   - 18.2.0-pre.545
-  lastUpdated: 20230429061054
+  - 18.2.0-pre.545-compat
+  lastUpdated: 20230501150129

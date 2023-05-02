@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-react-redux-js
 versioning:
-  latest: 7.2.6-pre.545
-  release: 7.2.6-pre.545
+  latest: 7.2.6-pre.545-compat
+  release: 7.2.6-pre.545-compat
   versions:
   - 7.2.6-pre.493
   - 7.2.6-pre.493-compat
@@ -66,4 +66,5 @@ versioning:
   - 7.2.6-pre.543
   - 7.2.6-pre.544
   - 7.2.6-pre.545
-  lastUpdated: 20230429061110
+  - 7.2.6-pre.545-compat
+  lastUpdated: 20230501150147
