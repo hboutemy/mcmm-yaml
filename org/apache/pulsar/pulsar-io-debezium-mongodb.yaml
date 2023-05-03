@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: pulsar-io-debezium-mongodb
 versioning:
-  latest: 2.11.1
-  release: 2.11.1
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 2.5.0
   - 2.5.1
@@ -38,4 +38,5 @@ versioning:
   - 2.10.4
   - 2.11.0
   - 2.11.1
-  lastUpdated: 20230421040558
+  - 3.0.0
+  lastUpdated: 20230502223918

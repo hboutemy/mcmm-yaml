@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.newrelic.agent.java
 artifactId: newrelic-agent
 versioning:
-  latest: 8.1.0
-  release: 8.1.0
+  latest: 8.2.0
+  release: 8.2.0
   versions:
   - 2.11.0
   - 2.12.0
@@ -173,5 +173,6 @@ versioning:
   - 8.0.0
   - 8.0.1
   - 8.1.0
+  - 8.2.0
   - 3.3.0
-  lastUpdated: 20230413135850
+  lastUpdated: 20230502214328

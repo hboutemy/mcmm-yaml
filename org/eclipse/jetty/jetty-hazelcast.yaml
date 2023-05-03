@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty
 artifactId: jetty-hazelcast
 versioning:
-  latest: 12.0.0.beta0
-  release: 12.0.0.beta0
+  latest: 12.0.0.beta1
+  release: 12.0.0.beta1
   versions:
   - 9.3.21.M0
   - 9.3.21.RC0
@@ -119,4 +119,5 @@ versioning:
   - 12.0.0.alpha2
   - 12.0.0.alpha3
   - 12.0.0.beta0
-  lastUpdated: 20230413180254
+  - 12.0.0.beta1
+  lastUpdated: 20230502201451
