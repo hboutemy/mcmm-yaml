@@ -3,8 +3,8 @@
 groupId: com.daml
 artifactId: daml-lf-transaction-java-proto
 versioning:
-  latest: 2.7.0-snapshot.20230427.11728.0.1f3c22cf
-  release: 2.7.0-snapshot.20230427.11728.0.1f3c22cf
+  latest: 2.7.0-snapshot.20230502.11737.0.eb537914
+  release: 2.7.0-snapshot.20230502.11737.0.eb537914
   versions:
   - 0.13.56-snapshot.20200403.3814.0.47541e70
   - 0.13.56-snapshot.20200404.3816.0.30f2c742
@@ -359,6 +359,7 @@ versioning:
   - 2.3.10
   - 2.3.11
   - 2.3.12-snapshot.20230421.10127.0.b799c56c
+  - 2.3.12
   - 2.4.0-snapshot.20220622.10127.0.c2cd6141
   - 2.4.0-snapshot.20220623.10129.0.0d1ef104
   - 2.4.0-snapshot.20220624.10131.0.7cd677e3
@@ -613,4 +614,5 @@ versioning:
   - 2.7.0-snapshot.20230425.11718.0.4ace70f7
   - 2.7.0-snapshot.20230426.11722.0.dc40709e
   - 2.7.0-snapshot.20230427.11728.0.1f3c22cf
-  lastUpdated: 20230428034046
+  - 2.7.0-snapshot.20230502.11737.0.eb537914
+  lastUpdated: 20230503184913

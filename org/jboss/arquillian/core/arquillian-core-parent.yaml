@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.arquillian.core
 artifactId: arquillian-core-parent
 versioning:
-  latest: 1.7.0.Alpha14
-  release: 1.7.0.Alpha14
+  latest: 1.7.0.Final
+  release: 1.7.0.Final
   versions:
   - 1.0.0.CR1
   - 1.0.0.CR2
@@ -60,4 +60,5 @@ versioning:
   - 1.7.0.Alpha12
   - 1.7.0.Alpha13
   - 1.7.0.Alpha14
-  lastUpdated: 20230204013005
+  - 1.7.0.Final
+  lastUpdated: 20230503053606

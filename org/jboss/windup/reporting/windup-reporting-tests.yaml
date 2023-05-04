@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.windup.reporting
 artifactId: windup-reporting-tests
 versioning:
-  latest: 6.2.1.Final
-  release: 6.2.1.Final
+  latest: 6.2.3.Final
+  release: 6.2.3.Final
   versions:
   - 2.0.0.Beta1
   - 2.0.0.Beta2
@@ -98,4 +98,6 @@ versioning:
   - 6.2.0.Alpha2
   - 6.2.0.Final
   - 6.2.1.Final
-  lastUpdated: 20230420112609
+  - 6.2.2.Final
+  - 6.2.3.Final
+  lastUpdated: 20230503122344

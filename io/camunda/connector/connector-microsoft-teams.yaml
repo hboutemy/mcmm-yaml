@@ -3,8 +3,8 @@
 groupId: io.camunda.connector
 artifactId: connector-microsoft-teams
 versioning:
-  latest: 0.18.1
-  release: 0.18.1
+  latest: 0.19.0-rc2
+  release: 0.19.0-rc2
   versions:
   - 0.14.0
   - 0.14.1
@@ -23,4 +23,7 @@ versioning:
   - 0.18.0
   - 0.18.1-rc1
   - 0.18.1
-  lastUpdated: 20230413130707
+  - 0.18.2
+  - 0.19.0-rc1
+  - 0.19.0-rc2
+  lastUpdated: 20230503130910

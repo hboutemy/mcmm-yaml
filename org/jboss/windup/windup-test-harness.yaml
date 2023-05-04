@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.windup
 artifactId: windup-test-harness
 versioning:
-  latest: 6.2.1.Final
-  release: 6.2.1.Final
+  latest: 6.2.3.Final
+  release: 6.2.3.Final
   versions:
   - 2.4.0.CR1
   - 2.4.0.CR2
@@ -85,4 +85,6 @@ versioning:
   - 6.2.0.Alpha2
   - 6.2.0.Final
   - 6.2.1.Final
-  lastUpdated: 20230420112638
+  - 6.2.2.Final
+  - 6.2.3.Final
+  lastUpdated: 20230503122413

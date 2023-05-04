@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-broker
 versioning:
-  latest: 8.2.3
-  release: 8.2.3
+  latest: 8.3.0-alpha1
+  release: 8.3.0-alpha1
   versions:
   - 1.0.0-rc1
   - 1.0.0-rc2
@@ -76,6 +76,7 @@ versioning:
   - 8.0.11
   - 8.0.12
   - 8.0.13
+  - 8.0.14
   - 8.1.0-alpha1
   - 8.1.0-alpha2
   - 8.1.0-alpha3
@@ -97,6 +98,7 @@ versioning:
   - 8.1.9
   - 8.1.10
   - 8.1.11
+  - 8.1.12
   - 8.2.0-alpha1
   - 8.2.0-alpha2
   - 8.2.0-alpha3
@@ -107,4 +109,6 @@ versioning:
   - 8.2.1
   - 8.2.2
   - 8.2.3
-  lastUpdated: 20230421131810
+  - 8.2.4
+  - 8.3.0-alpha1
+  lastUpdated: 20230503114632

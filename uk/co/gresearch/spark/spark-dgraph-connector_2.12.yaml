@@ -3,8 +3,8 @@
 groupId: uk.co.gresearch.spark
 artifactId: spark-dgraph-connector_2.12
 versioning:
-  latest: 0.9.0-3.4
-  release: 0.9.0-3.4
+  latest: 0.10.0-3.4
+  release: 0.10.0-3.4
   versions:
   - 0.1.0
   - 0.3.0-2.4
@@ -32,4 +32,9 @@ versioning:
   - 0.9.0-3.2
   - 0.9.0-3.3
   - 0.9.0-3.4
-  lastUpdated: 20230426082435
+  - 0.10.0-3.0
+  - 0.10.0-3.1
+  - 0.10.0-3.2
+  - 0.10.0-3.3
+  - 0.10.0-3.4
+  lastUpdated: 20230503202801
