@@ -3,8 +3,8 @@
 groupId: org.openrewrite
 artifactId: rewrite-core
 versioning:
-  latest: 7.40.3
-  release: 7.40.3
+  latest: 7.40.5
+  release: 7.40.5
   versions:
   - 2.0.0-rc.2
   - 2.0.0-rc.3
@@ -158,4 +158,6 @@ versioning:
   - 7.40.1
   - 7.40.2
   - 7.40.3
-  lastUpdated: 20230426201705
+  - 7.40.4
+  - 7.40.5
+  lastUpdated: 20230504150620

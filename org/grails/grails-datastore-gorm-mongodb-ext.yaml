@@ -3,8 +3,8 @@
 groupId: org.grails
 artifactId: grails-datastore-gorm-mongodb-ext
 versioning:
-  latest: 7.3.0
-  release: 7.3.0
+  latest: 8.0.0-M2
+  release: 8.0.0-M2
   versions:
   - 6.0.0.M1
   - 6.0.0.RC1
@@ -46,4 +46,6 @@ versioning:
   - 7.2.0
   - 7.2.1
   - 7.3.0
-  lastUpdated: 20220609085248
+  - 8.0.0-M1
+  - 8.0.0-M2
+  lastUpdated: 20230504173904

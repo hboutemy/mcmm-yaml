@@ -3,8 +3,8 @@
 groupId: com.daml
 artifactId: rs-grpc-akka_2.13
 versioning:
-  latest: 2.7.0-snapshot.20230502.11737.0.eb537914
-  release: 2.7.0-snapshot.20230502.11737.0.eb537914
+  latest: 2.7.0-snapshot.20230503.11744.0.01cfae4e
+  release: 2.7.0-snapshot.20230503.11744.0.01cfae4e
   versions:
   - 0.0.0
   - 1.11.0-snapshot.20210217.6338.0.ba6ba901
@@ -161,6 +161,7 @@ versioning:
   - 2.0.1-snapshot.20220331.9373.0.4a445be6
   - 2.0.1-snapshot.20220419.9374.0.44df8f12
   - 2.0.1
+  - 2.0.2-snapshot.20230421.9377.0.cb87f482
   - 2.1.0-snapshot.20220223.9363.0.d96b7bdc
   - 2.1.0-snapshot.20220223.9379.0.2f86d8d3
   - 2.1.0-snapshot.20220224.9392.0.786906f2
@@ -215,6 +216,7 @@ versioning:
   - 2.2.0-snapshot.20220502.9831.0.58c615a2
   - 2.2.0-snapshot.20220503.9846.0.1b9e9905
   - 2.2.0-snapshot.20220504.9851.0.4c8e027d
+  - 2.2.0-snapshot.20230503.9857.0.66ba85bb
   - 2.2.0
   - 2.2.1-snapshot.20220705.9854.0.2cf0eb0a
   - 2.2.1
@@ -481,6 +483,7 @@ versioning:
   - 2.6.1
   - 2.6.2
   - 2.6.3
+  - 2.6.4
   - 2.7.0-snapshot.20230228.11494.0.510b7e1f
   - 2.7.0-snapshot.20230228.11503.0.d8d55ca4
   - 2.7.0-snapshot.20230301.11513.0.9b50c9f1
@@ -524,4 +527,5 @@ versioning:
   - 2.7.0-snapshot.20230426.11722.0.dc40709e
   - 2.7.0-snapshot.20230427.11728.0.1f3c22cf
   - 2.7.0-snapshot.20230502.11737.0.eb537914
-  lastUpdated: 20230503184944
+  - 2.7.0-snapshot.20230503.11744.0.01cfae4e
+  lastUpdated: 20230504195040
