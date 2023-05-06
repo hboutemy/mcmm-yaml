@@ -3,8 +3,8 @@
 groupId: io.camunda.connector
 artifactId: connector-runtime-bundle
 versioning:
-  latest: 0.19.0-rc4
-  release: 0.19.0-rc4
+  latest: 0.19.0-rc5
+  release: 0.19.0-rc5
   versions:
   - 0.14.0
   - 0.14.1
@@ -24,8 +24,10 @@ versioning:
   - 0.18.1-rc1
   - 0.18.1
   - 0.18.2
+  - 0.19.0-alpha1
   - 0.19.0-rc1
   - 0.19.0-rc2
   - 0.19.0-rc3
   - 0.19.0-rc4
-  lastUpdated: 20230504093024
+  - 0.19.0-rc5
+  lastUpdated: 20230505094900

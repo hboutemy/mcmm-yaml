@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-workload-server
 versioning:
-  latest: 0.847.0
-  release: 0.847.0
+  latest: 0.849.0-rc1
+  release: 0.849.0-rc1
   versions:
   - 0.802.0
   - 0.803.0
@@ -50,5 +50,7 @@ versioning:
   - 0.843.0
   - 0.844.0
   - 0.845.0-rc2
+  - 0.845.0-rc6
   - 0.847.0
-  lastUpdated: 20230503161630
+  - 0.849.0-rc1
+  lastUpdated: 20230505180512
