@@ -3,8 +3,8 @@
 groupId: org.apache.cxf.systests
 artifactId: cxf-systests-ws-security
 versioning:
-  latest: 4.0.0
-  release: 4.0.0
+  latest: 4.0.1
+  release: 4.0.1
   versions:
   - 2.4.0
   - 2.4.1
@@ -150,4 +150,7 @@ versioning:
   - 3.5.3
   - 3.5.4
   - 3.5.5
-  lastUpdated: 20221222132427
+  - 3.5.6
+  - 3.6.0
+  - 4.0.1
+  lastUpdated: 20230508184401

@@ -3,8 +3,8 @@
 groupId: org.apache.cxf.systests
 artifactId: cxf-systests-transports
 versioning:
-  latest: 4.0.0
-  release: 4.0.0
+  latest: 4.0.1
+  release: 4.0.1
   versions:
   - 2.1.7
   - 2.1.8
@@ -175,4 +175,7 @@ versioning:
   - 3.5.3
   - 3.5.4
   - 3.5.5
-  lastUpdated: 20221222132425
+  - 3.5.6
+  - 3.6.0
+  - 4.0.1
+  lastUpdated: 20230508184347
