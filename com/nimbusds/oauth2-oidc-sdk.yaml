@@ -3,8 +3,8 @@
 groupId: com.nimbusds
 artifactId: oauth2-oidc-sdk
 versioning:
-  latest: 10.9
-  release: 10.9
+  latest: 10.9.1
+  release: 10.9.1
   versions:
   - 2.0
   - 2.1
@@ -350,6 +350,7 @@ versioning:
   - 9.42
   - 9.43
   - 9.43.1
+  - 9.43.2
   - 10.0
   - 10.1
   - 10.2.1
@@ -365,4 +366,5 @@ versioning:
   - 10.7.2
   - 10.8
   - 10.9
-  lastUpdated: 20230506101514
+  - 10.9.1
+  lastUpdated: 20230511100053

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: dynamodb-enhanced
 versioning:
-  latest: 2.20.64
-  release: 2.20.64
+  latest: 2.20.65
+  release: 2.20.65
   versions:
   - 2.7.29-PREVIEW
   - 2.7.30-PREVIEW
@@ -888,4 +888,5 @@ versioning:
   - 2.20.62
   - 2.20.63
   - 2.20.64
-  lastUpdated: 20230510201747
+  - 2.20.65
+  lastUpdated: 20230511212208

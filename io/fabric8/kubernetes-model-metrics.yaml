@@ -3,8 +3,8 @@
 groupId: io.fabric8
 artifactId: kubernetes-model-metrics
 versioning:
-  latest: 6.6.0
-  release: 6.6.0
+  latest: 6.6.1
+  release: 6.6.1
   versions:
   - 4.10.0
   - 4.10.1
@@ -70,4 +70,5 @@ versioning:
   - 6.5.0
   - 6.5.1
   - 6.6.0
-  lastUpdated: 20230503112312
+  - 6.6.1
+  lastUpdated: 20230511070515
