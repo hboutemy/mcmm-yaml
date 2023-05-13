@@ -3,8 +3,8 @@
 groupId: com.starrocks
 artifactId: flink-connector-starrocks
 versioning:
-  latest: 1.2.6_flink-1.15
-  release: 1.2.6_flink-1.15
+  latest: 1.2.7_flink-1.15
+  release: 1.2.7_flink-1.15
   versions:
   - 1.1.0_flink-1.11
   - 1.1.0_flink-1.13
@@ -114,4 +114,13 @@ versioning:
   - 1.2.6_flink-1.14_2.11
   - 1.2.6_flink-1.14_2.12
   - 1.2.6_flink-1.15
-  lastUpdated: 20230306082526
+  - 1.2.7_flink-1.11_2.11
+  - 1.2.7_flink-1.11_2.12
+  - 1.2.7_flink-1.12_2.11
+  - 1.2.7_flink-1.12_2.12
+  - 1.2.7_flink-1.13_2.11
+  - 1.2.7_flink-1.13_2.12
+  - 1.2.7_flink-1.14_2.11
+  - 1.2.7_flink-1.14_2.12
+  - 1.2.7_flink-1.15
+  lastUpdated: 20230510023028

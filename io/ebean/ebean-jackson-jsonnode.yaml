@@ -3,8 +3,8 @@
 groupId: io.ebean
 artifactId: ebean-jackson-jsonnode
 versioning:
-  latest: 13.17.4
-  release: 13.17.4
+  latest: 13.17.4-jakarta
+  release: 13.17.4-jakarta
   versions:
   - 13.10.0
   - 13.10.1
@@ -43,4 +43,5 @@ versioning:
   - 13.17.3
   - 13.17.3-jakarta
   - 13.17.4
-  lastUpdated: 20230509120225
+  - 13.17.4-jakarta
+  lastUpdated: 20230510041809
