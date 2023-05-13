@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: kafka-connect-avro-converter-shaded
 versioning:
-  latest: 2.11.1.0
-  release: 2.11.1.0
+  latest: 2.11.1.1
+  release: 2.11.1.1
   versions:
   - master-rc-daily
   - v2.8.0-rc-202106091140
@@ -587,4 +587,5 @@ versioning:
   - 2.11.0.4
   - 2.11.0.5
   - 2.11.1.0
-  lastUpdated: 20230428223031
+  - 2.11.1.1
+  lastUpdated: 20230512100117

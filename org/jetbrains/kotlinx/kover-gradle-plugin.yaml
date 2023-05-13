@@ -1,12 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.jetbrains.kotlinx
 artifactId: kover-gradle-plugin
 versioning:
   latest: 0.7.0-Beta
   release: 0.7.0-Beta
   versions:
-  - 0.7.0-ALPHA
-  - 0.7.0-Beta
   - 0.7.0-Alpha
-  lastUpdated: 20230421154849
+  - 0.7.0-Beta
+  - 0.7.0-ALPHA
+  lastUpdated: 20230512224703

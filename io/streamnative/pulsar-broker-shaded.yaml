@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-broker-shaded
 versioning:
-  latest: 2.11.1.0
-  release: 2.11.1.0
+  latest: 2.11.1.1
+  release: 2.11.1.1
   versions:
   - v2.8.0-rc-202106091140
   - v2.8.0-rc-202106121853
@@ -586,4 +586,5 @@ versioning:
   - 2.11.0.4
   - 2.11.0.5
   - 2.11.1.0
-  lastUpdated: 20230428223035
+  - 2.11.1.1
+  lastUpdated: 20230512100122
