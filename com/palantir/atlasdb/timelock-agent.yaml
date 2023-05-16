@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: timelock-agent
 versioning:
-  latest: 0.852.0
-  release: 0.852.0
+  latest: 0.854.0-rc11
+  release: 0.854.0-rc11
   versions:
   - 0.311.6
   - 0.311.7
@@ -638,4 +638,10 @@ versioning:
   - 0.849.0
   - 0.850.0
   - 0.852.0
-  lastUpdated: 20230511230213
+  - 0.854.0-rc6
+  - 0.854.0-rc7
+  - 0.854.0-rc8
+  - 0.854.0-rc9
+  - 0.854.0-rc10
+  - 0.854.0-rc11
+  lastUpdated: 20230515163429

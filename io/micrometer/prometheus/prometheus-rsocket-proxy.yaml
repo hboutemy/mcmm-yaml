@@ -3,8 +3,8 @@
 groupId: io.micrometer.prometheus
 artifactId: prometheus-rsocket-proxy
 versioning:
-  latest: 1.5.0
-  release: 1.5.0
+  latest: 1.5.1
+  release: 1.5.1
   versions:
   - 0.8.0
   - 0.9.0
@@ -20,4 +20,5 @@ versioning:
   - 1.3.2
   - 1.4.0
   - 1.5.0
-  lastUpdated: 20220817215928
+  - 1.5.1
+  lastUpdated: 20230515072727
