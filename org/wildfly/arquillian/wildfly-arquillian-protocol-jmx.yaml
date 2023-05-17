@@ -3,9 +3,11 @@
 groupId: org.wildfly.arquillian
 artifactId: wildfly-arquillian-protocol-jmx
 versioning:
-  latest: 5.0.0.Alpha6
-  release: 5.0.0.Alpha6
+  latest: 5.0.0.Final
+  release: 5.0.0.Final
   versions:
+  - 4.0.0.Final
+  - 5.0.0.Final
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
   - 1.0.0.Alpha3
@@ -48,4 +50,4 @@ versioning:
   - 5.0.0.Alpha4
   - 5.0.0.Alpha5
   - 5.0.0.Alpha6
-  lastUpdated: 20221111181421
+  lastUpdated: 20230516221011
