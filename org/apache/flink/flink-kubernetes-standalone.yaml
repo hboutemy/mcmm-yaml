@@ -3,11 +3,12 @@
 groupId: org.apache.flink
 artifactId: flink-kubernetes-standalone
 versioning:
-  latest: 1.4.0
-  release: 1.4.0
+  latest: 1.5.0
+  release: 1.5.0
   versions:
   - 1.2.0
   - 1.3.0
   - 1.3.1
   - 1.4.0
-  lastUpdated: 20230222125958
+  - 1.5.0
+  lastUpdated: 20230517081105

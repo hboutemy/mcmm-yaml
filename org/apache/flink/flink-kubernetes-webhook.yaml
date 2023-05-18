@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-kubernetes-webhook
 versioning:
-  latest: 1.4.0
-  release: 1.4.0
+  latest: 1.5.0
+  release: 1.5.0
   versions:
   - 0.1.0
   - 1.0.0
@@ -14,4 +14,5 @@ versioning:
   - 1.3.0
   - 1.3.1
   - 1.4.0
-  lastUpdated: 20230222130000
+  - 1.5.0
+  lastUpdated: 20230517081111
