@@ -3,8 +3,8 @@
 groupId: io.streamnative.pulsar.handlers
 artifactId: pulsar-protocol-handler-kafka-parent
 versioning:
-  latest: 2.11.1.1
-  release: 2.11.1.1
+  latest: 3.0.0.1
+  release: 3.0.0.1
   versions:
   - 2.8.0-rc-202106121853
   - 2.8.0-rc-202106151929
@@ -173,4 +173,5 @@ versioning:
   - 2.11.0.5
   - 2.11.1.0
   - 2.11.1.1
-  lastUpdated: 20230515122812
+  - 3.0.0.1
+  lastUpdated: 20230518035009

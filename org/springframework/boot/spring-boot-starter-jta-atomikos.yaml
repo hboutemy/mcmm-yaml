@@ -3,8 +3,8 @@
 groupId: org.springframework.boot
 artifactId: spring-boot-starter-jta-atomikos
 versioning:
-  latest: 2.7.11
-  release: 2.7.11
+  latest: 2.7.12
+  release: 2.7.12
   versions:
   - 1.2.0.RELEASE
   - 1.2.1.RELEASE
@@ -140,6 +140,7 @@ versioning:
   - 2.5.12
   - 2.5.13
   - 2.5.14
+  - 2.5.15
   - 2.6.0
   - 2.6.1
   - 2.6.2
@@ -155,6 +156,7 @@ versioning:
   - 2.6.12
   - 2.6.13
   - 2.6.14
+  - 2.6.15
   - 2.7.0
   - 2.7.1
   - 2.7.2
@@ -167,4 +169,5 @@ versioning:
   - 2.7.9
   - 2.7.10
   - 2.7.11
-  lastUpdated: 20230420085021
+  - 2.7.12
+  lastUpdated: 20230518200617

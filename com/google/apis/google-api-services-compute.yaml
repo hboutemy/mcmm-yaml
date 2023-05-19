@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-compute
 versioning:
-  latest: v1-rev20230502-2.0.0
-  release: v1-rev20230502-2.0.0
+  latest: v1-rev20230509-2.0.0
+  release: v1-rev20230509-2.0.0
   versions:
   - alpha-rev20210505-1.31.0
   - alpha-rev20210518-1.31.0
@@ -65,6 +65,7 @@ versioning:
   - alpha-rev20230418-2.0.0
   - alpha-rev20230425-2.0.0
   - alpha-rev20230502-2.0.0
+  - alpha-rev20230509-2.0.0
   - beta-rev20210505-1.31.0
   - beta-rev20210518-1.31.0
   - beta-rev20210525-1.31.0
@@ -125,6 +126,7 @@ versioning:
   - beta-rev20230418-2.0.0
   - beta-rev20230425-2.0.0
   - beta-rev20230502-2.0.0
+  - beta-rev20230509-2.0.0
   - v1-rev20210505-1.31.0
   - v1-rev20210518-1.31.0
   - v1-rev20210525-1.31.0
@@ -183,6 +185,7 @@ versioning:
   - v1-rev20230418-2.0.0
   - v1-rev20230425-2.0.0
   - v1-rev20230502-2.0.0
+  - v1-rev20230509-2.0.0
   - alpha-rev100-1.22.0
   - alpha-rev100-1.23.0
   - alpha-rev100-1.24.1
@@ -1786,4 +1789,4 @@ versioning:
   - v1beta16-rev9-1.15.0-rc
   - v1beta16-rev9-1.16.0-rc
   - v1beta16-rev9-1.17.0-rc
-  lastUpdated: 20230513081946
+  lastUpdated: 20230518083859
