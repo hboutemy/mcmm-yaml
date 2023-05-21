@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-web
 versioning:
-  latest: 1.0.0-pre.554
-  release: 1.0.0-pre.554
+  latest: 1.0.0-pre.554-compat
+  release: 1.0.0-pre.554-compat
   versions:
   - 1.0.0-pre.393
   - 1.0.0-pre.394
@@ -195,4 +195,5 @@ versioning:
   - 1.0.0-pre.552
   - 1.0.0-pre.553
   - 1.0.0-pre.554
-  lastUpdated: 20230519071829
+  - 1.0.0-pre.554-compat
+  lastUpdated: 20230520165542

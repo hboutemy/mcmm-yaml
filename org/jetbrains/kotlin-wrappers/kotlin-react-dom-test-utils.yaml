@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-react-dom-test-utils
 versioning:
-  latest: 18.2.0-pre.554
-  release: 18.2.0-pre.554
+  latest: 18.2.0-pre.554-compat
+  release: 18.2.0-pre.554-compat
   versions:
   - 18.2.0-pre.472
   - 18.2.0-pre.472-compat
@@ -106,4 +106,5 @@ versioning:
   - 18.2.0-pre.552
   - 18.2.0-pre.553
   - 18.2.0-pre.554
-  lastUpdated: 20230519071640
+  - 18.2.0-pre.554-compat
+  lastUpdated: 20230520165312

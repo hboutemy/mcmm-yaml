@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-remix-run-router
 versioning:
-  latest: 1.6.2-pre.554
-  release: 1.6.2-pre.554
+  latest: 1.6.2-pre.554-compat
+  release: 1.6.2-pre.554-compat
   versions:
   - 1.0.3-pre.441
   - 1.0.3-pre.442
@@ -141,4 +141,5 @@ versioning:
   - 1.6.2-pre.552
   - 1.6.2-pre.553
   - 1.6.2-pre.554
-  lastUpdated: 20230519071728
+  - 1.6.2-pre.554-compat
+  lastUpdated: 20230520165421

@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-mui
 versioning:
-  latest: 5.11.2-pre.554
-  release: 5.11.2-pre.554
+  latest: 5.11.2-pre.554-compat
+  release: 5.11.2-pre.554-compat
   versions:
   - 5.0.2-pre.252-kotlin-1.5.31
   - 5.0.2-pre.253-kotlin-1.5.31
@@ -348,4 +348,5 @@ versioning:
   - 5.11.2-pre.552
   - 5.11.2-pre.553
   - 5.11.2-pre.554
-  lastUpdated: 20230519071555
+  - 5.11.2-pre.554-compat
+  lastUpdated: 20230520165211

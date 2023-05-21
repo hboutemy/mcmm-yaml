@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-styled-next
 versioning:
-  latest: 1.2.2-pre.554
-  release: 1.2.2-pre.554
+  latest: 1.2.2-pre.554-compat
+  release: 1.2.2-pre.554-compat
   versions:
   - 0.1-pre.220-kotlin-1.5.21
   - 0.1-pre.221-kotlin-1.5.21
@@ -380,4 +380,5 @@ versioning:
   - 1.2.2-pre.552
   - 1.2.2-pre.553
   - 1.2.2-pre.554
-  lastUpdated: 20230519071744
+  - 1.2.2-pre.554-compat
+  lastUpdated: 20230520165441
