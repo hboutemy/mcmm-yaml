@@ -3,8 +3,8 @@
 groupId: org.xerial
 artifactId: sqlite-jdbc
 versioning:
-  latest: 3.41.2.2
-  release: 3.41.2.2
+  latest: 3.42.0.0
+  release: 3.42.0.0
   versions:
   - 3.7.15-M1
   - 3.8.5-pre1
@@ -58,6 +58,7 @@ versioning:
   - 3.41.2.0
   - 3.41.2.1
   - 3.41.2.2
+  - 3.42.0.0
   - 3.5.7
   - 3.5.8
   - 3.5.9
@@ -81,4 +82,4 @@ versioning:
   - 3.6.6.2
   - 3.6.7
   - 3.7.2
-  lastUpdated: 20230519105132
+  lastUpdated: 20230522120204

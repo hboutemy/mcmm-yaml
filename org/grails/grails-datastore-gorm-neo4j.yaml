@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.grails
 artifactId: grails-datastore-gorm-neo4j
 versioning:
-  latest: 7.3.0
-  release: 7.3.0
+  latest: 8.0.0-M1
+  release: 8.0.0-M1
   versions:
   - 1.0.0.M13
   - 1.0.0.M14
@@ -89,4 +89,5 @@ versioning:
   - 7.2.0
   - 7.2.1
   - 7.3.0
-  lastUpdated: 20220610190342
+  - 8.0.0-M1
+  lastUpdated: 20230522110616
