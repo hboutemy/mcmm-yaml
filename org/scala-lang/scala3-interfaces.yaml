@@ -3,8 +3,8 @@
 groupId: org.scala-lang
 artifactId: scala3-interfaces
 versioning:
-  latest: 3.3.1-RC1-bin-20230521-4f3632f-NIGHTLY
-  release: 3.3.1-RC1-bin-20230521-4f3632f-NIGHTLY
+  latest: 3.3.1-RC1-bin-20230522-fe08f5f-NIGHTLY
+  release: 3.3.1-RC1-bin-20230522-fe08f5f-NIGHTLY
   versions:
   - 3.0.0-M1
   - 3.0.0-M1-bin-20201015-8c56525-NIGHTLY
@@ -660,6 +660,7 @@ versioning:
   - 3.3.0-RC4
   - 3.3.0-RC5
   - 3.3.0-RC6
+  - 3.3.0
   - 3.3.1-RC1-bin-20230126-f545d10-NIGHTLY
   - 3.3.1-RC1-bin-20230127-c0a7d12-NIGHTLY
   - 3.3.1-RC1-bin-20230129-b8ad7b1-NIGHTLY
@@ -742,4 +743,5 @@ versioning:
   - 3.3.1-RC1-bin-20230518-4ffe5af-NIGHTLY
   - 3.3.1-RC1-bin-20230519-b67e269-NIGHTLY
   - 3.3.1-RC1-bin-20230521-4f3632f-NIGHTLY
-  lastUpdated: 20230522042601
+  - 3.3.1-RC1-bin-20230522-fe08f5f-NIGHTLY
+  lastUpdated: 20230523143045

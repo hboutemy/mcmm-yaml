@@ -3,8 +3,8 @@
 groupId: com.tangzc
 artifactId: mybatis-plus-ext-demo-actable-flyway
 versioning:
-  latest: 3.5.3.1-EXT307.2
-  release: 3.5.3.1-EXT307.2
+  latest: 3.5.3.1-jdk17-EXT307.2
+  release: 3.5.3.1-jdk17-EXT307.2
   versions:
   - 1.3.11
   - 3.5.2-EXT140
@@ -28,4 +28,5 @@ versioning:
   - 3.5.3.1-EXT307
   - 3.5.3.1-EXT307.1
   - 3.5.3.1-EXT307.2
-  lastUpdated: 20230522231744
+  - 3.5.3.1-jdk17-EXT307.2
+  lastUpdated: 20230523122204

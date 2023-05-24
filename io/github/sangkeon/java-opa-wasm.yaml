@@ -3,10 +3,11 @@
 groupId: io.github.sangkeon
 artifactId: java-opa-wasm
 versioning:
-  latest: 0.2.3
-  release: 0.2.3
+  latest: 0.2.3_glibc2.31
+  release: 0.2.3_glibc2.31
   versions:
   - 0.2.1
   - 0.2.2
   - 0.2.3
-  lastUpdated: 20230522143428
+  - 0.2.3_glibc2.31
+  lastUpdated: 20230523005553

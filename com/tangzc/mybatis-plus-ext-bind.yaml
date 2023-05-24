@@ -3,8 +3,8 @@
 groupId: com.tangzc
 artifactId: mybatis-plus-ext-bind
 versioning:
-  latest: 3.5.3.1-EXT307.2
-  release: 3.5.3.1-EXT307.2
+  latest: 3.5.3.1-jdk17-EXT307.2
+  release: 3.5.3.1-jdk17-EXT307.2
   versions:
   - 1.1.0
   - 1.1.2
@@ -53,4 +53,5 @@ versioning:
   - 3.5.3.1-EXT307
   - 3.5.3.1-EXT307.1
   - 3.5.3.1-EXT307.2
-  lastUpdated: 20230522231743
+  - 3.5.3.1-jdk17-EXT307.2
+  lastUpdated: 20230523122202
