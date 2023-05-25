@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-smallrye-reactive-messaging-amqp-deployment
 versioning:
-  latest: 3.1.0.CR1
-  release: 3.1.0.CR1
+  latest: 3.1.0.Final
+  release: 3.1.0.Final
   versions:
   - 0.17.0
   - 0.18.0
@@ -220,5 +220,7 @@ versioning:
   - 3.0.1.Final
   - 3.0.2.Final
   - 3.0.3.Final
+  - 3.0.4.Final
   - 3.1.0.CR1
-  lastUpdated: 20230517111318
+  - 3.1.0.Final
+  lastUpdated: 20230524133355

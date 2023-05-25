@@ -3,8 +3,8 @@
 groupId: com.getwemap
 artifactId: providers
 versioning:
-  latest: 1.16.2
-  release: 1.16.2
+  latest: 1.16.2-noloc
+  release: 1.16.2-noloc
   versions:
   - 1.11.0
   - 1.12.0
@@ -16,4 +16,7 @@ versioning:
   - 1.16.0
   - 1.16.1
   - 1.16.2
-  lastUpdated: 20230427155605
+  - 1.16.2-inwink
+  - 1.16.2-inwink-NO-LOC
+  - 1.16.2-noloc
+  lastUpdated: 20230524155047

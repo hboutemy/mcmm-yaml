@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.grails
 artifactId: grails-datastore-gorm-mongodb
 versioning:
-  latest: 8.0.0-M2
-  release: 8.0.0-M2
+  latest: 8.0.0-RC1
+  release: 8.0.0-RC1
   versions:
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
@@ -85,4 +85,5 @@ versioning:
   - 7.3.0
   - 8.0.0-M1
   - 8.0.0-M2
-  lastUpdated: 20230504173903
+  - 8.0.0-RC1
+  lastUpdated: 20230524124649

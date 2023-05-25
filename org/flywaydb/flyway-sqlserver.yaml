@@ -3,8 +3,8 @@
 groupId: org.flywaydb
 artifactId: flyway-sqlserver
 versioning:
-  latest: 9.19.0
-  release: 9.19.0
+  latest: 9.19.1
+  release: 9.19.1
   versions:
   - 8.1.0
   - 8.2.0
@@ -77,4 +77,5 @@ versioning:
   - 9.17.0
   - 9.18.0
   - 9.19.0
-  lastUpdated: 20230523140900
+  - 9.19.1
+  lastUpdated: 20230524143249

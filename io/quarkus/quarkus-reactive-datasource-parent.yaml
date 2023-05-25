@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-reactive-datasource-parent
 versioning:
-  latest: 3.1.0.CR1
-  release: 3.1.0.CR1
+  latest: 3.1.0.Final
+  release: 3.1.0.Final
   versions:
   - 1.3.0.CR1
   - 1.3.0.CR2
@@ -189,5 +189,7 @@ versioning:
   - 3.0.1.Final
   - 3.0.2.Final
   - 3.0.3.Final
+  - 3.0.4.Final
   - 3.1.0.CR1
-  lastUpdated: 20230517111220
+  - 3.1.0.Final
+  lastUpdated: 20230524133255

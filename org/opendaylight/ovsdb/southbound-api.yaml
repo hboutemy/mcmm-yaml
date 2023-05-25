@@ -3,8 +3,8 @@
 groupId: org.opendaylight.ovsdb
 artifactId: southbound-api
 versioning:
-  latest: 1.16.0
-  release: 1.16.0
+  latest: 1.16.1
+  release: 1.16.1
   versions:
   - 1.1.0-Lithium
   - 1.1.1-Lithium-SR1
@@ -73,4 +73,5 @@ versioning:
   - 1.15.1
   - 1.15.2
   - 1.16.0
-  lastUpdated: 20230402125137
+  - 1.16.1
+  lastUpdated: 20230524024848
