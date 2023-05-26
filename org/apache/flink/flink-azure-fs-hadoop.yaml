@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-azure-fs-hadoop
 versioning:
-  latest: 1.17.0
-  release: 1.17.0
+  latest: 1.17.1
+  release: 1.17.1
   versions:
   - 1.9.0
   - 1.9.1
@@ -50,5 +50,7 @@ versioning:
   - 1.15.4
   - 1.16.0
   - 1.16.1
+  - 1.16.2
   - 1.17.0
-  lastUpdated: 20230323075708
+  - 1.17.1
+  lastUpdated: 20230525094227

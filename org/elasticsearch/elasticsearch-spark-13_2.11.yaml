@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-spark-13_2.11
 versioning:
-  latest: 8.7.1
-  release: 8.7.1
+  latest: 8.8.0
+  release: 8.8.0
   versions:
   - 5.0.0-alpha5
   - 5.0.0-beta1
@@ -201,4 +201,5 @@ versioning:
   - 8.6.2
   - 8.7.0
   - 8.7.1
-  lastUpdated: 20230502122607
+  - 8.8.0
+  lastUpdated: 20230525091449

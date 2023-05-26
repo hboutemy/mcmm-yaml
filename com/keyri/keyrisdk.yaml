@@ -3,8 +3,8 @@
 groupId: com.keyri
 artifactId: keyrisdk
 versioning:
-  latest: 3.0.5
-  release: 3.0.5
+  latest: 3.0.6-compat
+  release: 3.0.6-compat
   versions:
   - VERSION
   - 1.1.0
@@ -58,4 +58,6 @@ versioning:
   - 3.0.3
   - 3.0.4
   - 3.0.5
-  lastUpdated: 20230505135408
+  - 3.0.6
+  - 3.0.6-compat
+  lastUpdated: 20230525162155

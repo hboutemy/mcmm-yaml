@@ -3,8 +3,8 @@
 groupId: org.apache.hudi
 artifactId: hudi-flink1.15-bundle
 versioning:
-  latest: 0.13.0
-  release: 0.13.0
+  latest: 0.13.1
+  release: 0.13.1
   versions:
   - 0.12.0
   - 0.12.1-rc2
@@ -12,4 +12,5 @@ versioning:
   - 0.12.2
   - 0.12.3
   - 0.13.0
-  lastUpdated: 20230424022854
+  - 0.13.1
+  lastUpdated: 20230525063321
