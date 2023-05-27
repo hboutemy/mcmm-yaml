@@ -3,8 +3,8 @@
 groupId: com.arangodb
 artifactId: arangodb-java-driver
 versioning:
-  latest: 7.0.0
-  release: 7.0.0
+  latest: 7.1.0
+  release: 7.1.0
   versions:
   - v6.16.0
   - 2.2
@@ -139,6 +139,7 @@ versioning:
   - 6.22.0
   - 6.23.0
   - 6.24.0
+  - 6.25.0
   - 7.0.0-ALPHA.1
   - 7.0.0-ALPHA.2
   - 7.0.0-ALPHA.3
@@ -149,4 +150,5 @@ versioning:
   - 7.0.0-RC.4
   - 7.0.0-RC.5
   - 7.0.0
-  lastUpdated: 20230516212931
+  - 7.1.0
+  lastUpdated: 20230526121001

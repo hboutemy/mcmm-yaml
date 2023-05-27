@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-dlp
 versioning:
-  latest: v2-rev20230514-2.0.0
-  release: v2-rev20230514-2.0.0
+  latest: v2-rev20230521-2.0.0
+  release: v2-rev20230521-2.0.0
   versions:
   - v2beta1-rev1-1.18.0-rc
   - v2beta1-rev1-1.20.0
@@ -650,4 +650,5 @@ versioning:
   - v2-rev20230402-2.0.0
   - v2-rev20230428-2.0.0
   - v2-rev20230514-2.0.0
-  lastUpdated: 20230519083132
+  - v2-rev20230521-2.0.0
+  lastUpdated: 20230526082543

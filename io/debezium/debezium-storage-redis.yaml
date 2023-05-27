@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-storage-redis
 versioning:
-  latest: 2.3.0.Alpha1
-  release: 2.3.0.Alpha1
+  latest: 2.3.0.Beta1
+  release: 2.3.0.Beta1
   versions:
   - 2.1.0.Alpha1
   - 2.1.0.Alpha2
@@ -22,4 +22,5 @@ versioning:
   - 2.2.0.Final
   - 2.2.1.Final
   - 2.3.0.Alpha1
-  lastUpdated: 20230512095743
+  - 2.3.0.Beta1
+  lastUpdated: 20230526114532
