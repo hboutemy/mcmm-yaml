@@ -3,8 +3,8 @@
 groupId: ca.uhn.hapi.fhir
 artifactId: org.hl7.fhir.r4b
 versioning:
-  latest: 6.0.8
-  release: 6.0.8
+  latest: 6.0.10
+  release: 6.0.10
   versions:
   - 5.6.22
   - 5.6.23
@@ -112,4 +112,6 @@ versioning:
   - 6.0.6
   - 6.0.7
   - 6.0.8
-  lastUpdated: 20230524144349
+  - 6.0.9
+  - 6.0.10
+  lastUpdated: 20230529223648

@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-integration-tests-support-custom-log-component-deployment
 versioning:
-  latest: 3.0.0-M1
-  release: 3.0.0-M1
+  latest: 3.0.0-M2
+  release: 3.0.0-M2
   versions:
   - 1.0.0-CR2
   - 1.0.0-CR3
@@ -46,4 +46,5 @@ versioning:
   - 2.15.0
   - 2.16.0
   - 3.0.0-M1
-  lastUpdated: 20230417182615
+  - 3.0.0-M2
+  lastUpdated: 20230529084047
