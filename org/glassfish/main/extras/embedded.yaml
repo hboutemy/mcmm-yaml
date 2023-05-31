@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.main.extras
 artifactId: embedded
 versioning:
-  latest: 7.0.4
-  release: 7.0.4
+  latest: 7.0.5
+  release: 7.0.5
   versions:
   - 5.1.0
   - 6.1.0
@@ -25,6 +25,7 @@ versioning:
   - 7.0.2
   - 7.0.3
   - 7.0.4
+  - 7.0.5
   - 3.1.2
   - 3.1.2.2
   - 4.0
@@ -35,4 +36,4 @@ versioning:
   - 4.1.2
   - 5.0
   - 5.1.0-RC2
-  lastUpdated: 20230427083056
+  lastUpdated: 20230530113754

@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-core-feature-pack-parent
 versioning:
-  latest: 20.0.2.Final
-  release: 20.0.2.Final
+  latest: 21.0.0.Beta1
+  release: 21.0.0.Beta1
   versions:
   - 13.0.0.Beta1
   - 13.0.0.Beta2
@@ -88,4 +88,5 @@ versioning:
   - 20.0.0.Final
   - 20.0.1.Final
   - 20.0.2.Final
-  lastUpdated: 20230517073930
+  - 21.0.0.Beta1
+  lastUpdated: 20230530172241
