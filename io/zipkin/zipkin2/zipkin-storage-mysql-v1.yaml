@@ -3,8 +3,8 @@
 groupId: io.zipkin.zipkin2
 artifactId: zipkin-storage-mysql-v1
 versioning:
-  latest: 2.24.1
-  release: 2.24.1
+  latest: 2.24.2
+  release: 2.24.2
   versions:
   - 2.9.0
   - 2.9.1
@@ -89,4 +89,5 @@ versioning:
   - 2.23.19
   - 2.24.0
   - 2.24.1
-  lastUpdated: 20230428094042
+  - 2.24.2
+  lastUpdated: 20230531162821

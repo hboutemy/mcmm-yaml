@@ -3,8 +3,8 @@
 groupId: io.quarkus.platform
 artifactId: quarkus-amazon-services-bom
 versioning:
-  latest: 3.1.0.CR1
-  release: 3.1.0.CR1
+  latest: 3.1.0.Final
+  release: 3.1.0.Final
   versions:
   - 2.6.0.CR1
   - 2.6.0.Final
@@ -84,4 +84,5 @@ versioning:
   - 3.0.3.Final
   - 3.0.4.Final
   - 3.1.0.CR1
-  lastUpdated: 20230525155754
+  - 3.1.0.Final
+  lastUpdated: 20230531085014

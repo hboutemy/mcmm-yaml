@@ -3,8 +3,8 @@
 groupId: org.testcontainers
 artifactId: neo4j
 versioning:
-  latest: 1.18.2
-  release: 1.18.2
+  latest: 1.18.3
+  release: 1.18.3
   versions:
   - 1.10.3
   - 1.10.4
@@ -47,4 +47,5 @@ versioning:
   - 1.18.0
   - 1.18.1
   - 1.18.2
-  lastUpdated: 20230530145113
+  - 1.18.3
+  lastUpdated: 20230531212617
