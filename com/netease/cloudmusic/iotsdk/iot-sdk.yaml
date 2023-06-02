@@ -3,8 +3,8 @@
 groupId: com.netease.cloudmusic.iotsdk
 artifactId: iot-sdk
 versioning:
-  latest: 0.3.7-rc4
-  release: 0.3.7-rc4
+  latest: 0.3.7-rc6
+  release: 0.3.7-rc6
   versions:
   - =0.3.4-rc2
   - 0.1.0-rc1
@@ -32,6 +32,7 @@ versioning:
   - 0.1.8-rc3
   - 0.1.8-rc4
   - 0.1.8-rc5
+  - 0.1.8-rc6
   - 0.2.0
   - 0.2.1
   - 0.2.2
@@ -76,4 +77,6 @@ versioning:
   - 0.3.6
   - 0.3.7-rc3
   - 0.3.7-rc4
-  lastUpdated: 20230531091435
+  - 0.3.7-rc5
+  - 0.3.7-rc6
+  lastUpdated: 20230601122735

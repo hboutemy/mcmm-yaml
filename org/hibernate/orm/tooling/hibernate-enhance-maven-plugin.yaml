@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.hibernate.orm.tooling
 artifactId: hibernate-enhance-maven-plugin
 versioning:
-  latest: 6.2.3.Final
-  release: 6.2.3.Final
+  latest: 6.2.4.Final
+  release: 6.2.4.Final
   versions:
   - 4.2.9.Final
   - 4.2.10.Final
@@ -109,6 +109,7 @@ versioning:
   - 5.3.27.Final
   - 5.3.28.Final
   - 5.3.29.Final
+  - 5.3.30.Final
   - 5.4.0.CR1
   - 5.4.0.CR2
   - 5.4.0.Final
@@ -208,6 +209,7 @@ versioning:
   - 6.2.1.Final
   - 6.2.2.Final
   - 6.2.3.Final
+  - 6.2.4.Final
   - 5.1.13.Final
   - 5.1.14.Final
   - 5.1.15.Final
@@ -221,4 +223,4 @@ versioning:
   - 5.2.18.Final
   - 5.4.33.Final
   - 5.5.6.Final
-  lastUpdated: 20230518134604
+  lastUpdated: 20230601120033

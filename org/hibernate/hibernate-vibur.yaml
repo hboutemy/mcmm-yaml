@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.hibernate
 artifactId: hibernate-vibur
 versioning:
-  latest: 6.2.3.Final
-  release: 6.2.3.Final
+  latest: 6.2.4.Final
+  release: 6.2.4.Final
   versions:
   - 5.3.0.Beta1
   - 5.3.0.Beta2
@@ -41,6 +41,7 @@ versioning:
   - 5.3.27.Final
   - 5.3.28.Final
   - 5.3.29.Final
+  - 5.3.30.Final
   - 5.4.0.CR1
   - 5.4.0.CR2
   - 5.4.0.Final
@@ -141,6 +142,7 @@ versioning:
   - 6.2.1.Final
   - 6.2.2.Final
   - 6.2.3.Final
+  - 6.2.4.Final
   - 5.4.33.Final
   - 5.5.6.Final
-  lastUpdated: 20230518134521
+  lastUpdated: 20230601120032
