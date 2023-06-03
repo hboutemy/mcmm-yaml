@@ -3,8 +3,8 @@
 groupId: io.camunda.connector
 artifactId: connector-aws-lambda
 versioning:
-  latest: 0.20.0-alpha1
-  release: 0.20.0-alpha1
+  latest: 0.20.0-alpha2
+  release: 0.20.0-alpha2
   versions:
   - 0.3.0-rc1
   - 0.3.0
@@ -41,4 +41,5 @@ versioning:
   - 0.19.1
   - 0.19.2
   - 0.20.0-alpha1
-  lastUpdated: 20230601151335
+  - 0.20.0-alpha2
+  lastUpdated: 20230602105720

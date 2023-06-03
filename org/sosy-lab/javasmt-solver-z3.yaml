@@ -3,8 +3,8 @@
 groupId: org.sosy-lab
 artifactId: javasmt-solver-z3
 versioning:
-  latest: 4.12.1-glibc_2.27
-  release: 4.12.1-glibc_2.27
+  latest: 4.12.2-glibc_2.27
+  release: 4.12.2-glibc_2.27
   versions:
   - z3-4.4.1-788-g8df145d
   - z3-4.4.1-863-g96f6bf7-2
@@ -23,4 +23,6 @@ versioning:
   - 4.11.2
   - 4.12.1
   - 4.12.1-glibc_2.27
-  lastUpdated: 20230222203320
+  - 4.12.2
+  - 4.12.2-glibc_2.27
+  lastUpdated: 20230602202049
