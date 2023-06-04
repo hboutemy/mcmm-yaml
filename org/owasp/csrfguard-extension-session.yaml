@@ -3,8 +3,8 @@
 groupId: org.owasp
 artifactId: csrfguard-extension-session
 versioning:
-  latest: 4.3.0
-  release: 4.3.0
+  latest: 4.3.0-jakarta
+  release: 4.3.0-jakarta
   versions:
   - 4.0.0
   - 4.1.1
@@ -14,4 +14,5 @@ versioning:
   - 4.2.0
   - 4.2.1
   - 4.3.0
-  lastUpdated: 20230602231045
+  - 4.3.0-jakarta
+  lastUpdated: 20230602234909
