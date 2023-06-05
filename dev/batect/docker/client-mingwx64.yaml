@@ -3,9 +3,10 @@
 groupId: dev.batect.docker
 artifactId: client-mingwx64
 versioning:
-  latest: 0.8.6
-  release: 0.8.6
+  latest: 0.8.8
+  release: 0.8.8
   versions:
+  - unspecified
   - 0.1.2
   - 0.2.0
   - 0.3.0
@@ -23,4 +24,5 @@ versioning:
   - 0.8.4
   - 0.8.5
   - 0.8.6
-  lastUpdated: 20230312050252
+  - 0.8.8
+  lastUpdated: 20230604214113

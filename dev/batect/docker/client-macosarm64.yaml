@@ -3,9 +3,10 @@
 groupId: dev.batect.docker
 artifactId: client-macosarm64
 versioning:
-  latest: 0.8.6
-  release: 0.8.6
+  latest: 0.8.8
+  release: 0.8.8
   versions:
+  - unspecified
   - 0.1.0-prerelease.0.87+20210909T051037Z
   - 0.1.0-prerelease.0.87+20210909T051757Z
   - 0.1.2
@@ -25,4 +26,5 @@ versioning:
   - 0.8.4
   - 0.8.5
   - 0.8.6
-  lastUpdated: 20230312050250
+  - 0.8.8
+  lastUpdated: 20230604214111
