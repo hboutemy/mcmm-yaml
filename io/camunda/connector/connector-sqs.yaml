@@ -3,8 +3,8 @@
 groupId: io.camunda.connector
 artifactId: connector-sqs
 versioning:
-  latest: 0.20.0-alpha2
-  release: 0.20.0-alpha2
+  latest: 0.20.0-alpha3
+  release: 0.20.0-alpha3
   versions:
   - 0.2.0-rc1
   - 0.2.0
@@ -40,4 +40,5 @@ versioning:
   - 0.19.2
   - 0.20.0-alpha1
   - 0.20.0-alpha2
-  lastUpdated: 20230602105733
+  - 0.20.0-alpha3
+  lastUpdated: 20230605095135
