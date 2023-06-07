@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: digitalocean
 versioning:
-  latest: 4.20.0-alpha.1685079377+992d3282
-  release: 4.20.0-alpha.1685079377+992d3282
+  latest: 4.20.0-alpha.1686020426+e79ed5bb
+  release: 4.20.0-alpha.1686020426+e79ed5bb
   versions:
   - 4.15.0-alpha.1660649491+39f45410
   - 4.15.0
@@ -30,6 +30,7 @@ versioning:
   - 4.19.0
   - 4.19.1
   - 4.19.3
+  - 4.19.4
   - 4.20.0-alpha.1679334401+1035d46d
   - 4.20.0-alpha.1679413776+2c550fcd
   - 4.20.0-alpha.1679591047+1a9c60da
@@ -42,4 +43,5 @@ versioning:
   - 4.20.0-alpha.1684959260+f4ea7109
   - 4.20.0-alpha.1684968910+8ac80eff
   - 4.20.0-alpha.1685079377+992d3282
-  lastUpdated: 20230526062746
+  - 4.20.0-alpha.1686020426+e79ed5bb
+  lastUpdated: 20230606184501

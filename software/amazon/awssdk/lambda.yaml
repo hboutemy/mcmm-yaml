@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: lambda
 versioning:
-  latest: 2.20.79
-  release: 2.20.79
+  latest: 2.20.80
+  release: 2.20.80
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -1056,4 +1056,5 @@ versioning:
   - 2.20.77
   - 2.20.78
   - 2.20.79
-  lastUpdated: 20230605201825
+  - 2.20.80
+  lastUpdated: 20230606202906

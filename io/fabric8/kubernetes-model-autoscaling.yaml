@@ -3,8 +3,8 @@
 groupId: io.fabric8
 artifactId: kubernetes-model-autoscaling
 versioning:
-  latest: 6.7.0
-  release: 6.7.0
+  latest: 6.7.1
+  release: 6.7.1
   versions:
   - 4.10.0
   - 4.10.1
@@ -73,4 +73,5 @@ versioning:
   - 6.6.1
   - 6.6.2
   - 6.7.0
-  lastUpdated: 20230601091439
+  - 6.7.1
+  lastUpdated: 20230606141925

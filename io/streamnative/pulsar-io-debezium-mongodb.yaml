@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-io-debezium-mongodb
 versioning:
-  latest: 3.0.0.1
-  release: 3.0.0.1
+  latest: 3.0.0.2
+  release: 3.0.0.2
   versions:
   - master-rc-daily
   - v2.8.0-rc-202106091140
@@ -556,6 +556,7 @@ versioning:
   - 2.10.4.2
   - 2.10.4.2-5ce22c
   - 2.10.4.3
+  - 2.10.4.3-attentive
   - 2.11.0.0-rc2
   - 2.11.0.0-rc3
   - 2.11.0.0-rc5
@@ -595,4 +596,5 @@ versioning:
   - 2.11.1.2
   - 3.0.0.1-rc1
   - 3.0.0.1
-  lastUpdated: 20230529025216
+  - 3.0.0.2
+  lastUpdated: 20230606112018
