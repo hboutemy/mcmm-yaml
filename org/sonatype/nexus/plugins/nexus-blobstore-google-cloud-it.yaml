@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.plugins
 artifactId: nexus-blobstore-google-cloud-it
 versioning:
-  latest: 0.54.1
-  release: 0.54.1
+  latest: 0.55.0
+  release: 0.55.0
   versions:
   - 0.10.2
   - 0.11.0
@@ -44,5 +44,6 @@ versioning:
   - 0.51.0
   - 0.52.0
   - 0.54.1
+  - 0.55.0
   - 0.33.0
-  lastUpdated: 20230523150547
+  lastUpdated: 20230607163941

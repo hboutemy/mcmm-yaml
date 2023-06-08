@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-opensearch-exporter
 versioning:
-  latest: 8.3.0-alpha1
-  release: 8.3.0-alpha1
+  latest: 8.3.0-alpha2
+  release: 8.3.0-alpha2
   versions:
   - 8.2.0-rc1
   - 8.2.0
@@ -13,5 +13,7 @@ versioning:
   - 8.2.3
   - 8.2.4
   - 8.2.5
+  - 8.2.6
   - 8.3.0-alpha1
-  lastUpdated: 20230516141429
+  - 8.3.0-alpha2
+  lastUpdated: 20230607114001

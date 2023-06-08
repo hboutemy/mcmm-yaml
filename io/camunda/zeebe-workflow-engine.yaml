@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-workflow-engine
 versioning:
-  latest: 8.3.0-alpha1
-  release: 8.3.0-alpha1
+  latest: 8.3.0-alpha2
+  release: 8.3.0-alpha2
   versions:
   - 1.0.0-rc1
   - 1.0.0-rc2
@@ -77,6 +77,8 @@ versioning:
   - 8.0.12
   - 8.0.13
   - 8.0.14
+  - 8.0.15
+  - 8.0.16
   - 8.1.0-alpha1
   - 8.1.0-alpha2
   - 8.1.0-alpha3
@@ -99,6 +101,7 @@ versioning:
   - 8.1.10
   - 8.1.11
   - 8.1.12
+  - 8.1.13
   - 8.2.0-alpha1
   - 8.2.0-alpha2
   - 8.2.0-alpha3
@@ -111,5 +114,7 @@ versioning:
   - 8.2.3
   - 8.2.4
   - 8.2.5
+  - 8.2.6
   - 8.3.0-alpha1
-  lastUpdated: 20230516141436
+  - 8.3.0-alpha2
+  lastUpdated: 20230607145839
