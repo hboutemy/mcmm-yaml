@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.order.rule.api
 versioning:
-  latest: 5.0.2
+  latest: 7.2.0
   release: 7.2.0
   versions:
   - 1.0.0
@@ -30,4 +31,4 @@ versioning:
   - 7.0.0
   - 7.1.0
   - 7.2.0
-  lastUpdated: 20230525195730
+  lastUpdated: 20230608135634

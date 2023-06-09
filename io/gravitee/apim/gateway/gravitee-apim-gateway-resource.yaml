@@ -3,8 +3,8 @@
 groupId: io.gravitee.apim.gateway
 artifactId: gravitee-apim-gateway-resource
 versioning:
-  latest: 3.20.10
-  release: 3.20.10
+  latest: 3.20.11
+  release: 3.20.11
   versions:
   - 3.5.25
   - 3.5.26
@@ -93,6 +93,7 @@ versioning:
   - 3.18.24
   - 3.18.25
   - 3.18.26
+  - 3.18.27
   - 3.19.0
   - 3.19.1
   - 3.19.2
@@ -109,6 +110,7 @@ versioning:
   - 3.19.13
   - 3.19.14
   - 3.19.15
+  - 3.19.16
   - 3.20.0
   - 3.20.1
   - 3.20.2
@@ -120,4 +122,5 @@ versioning:
   - 3.20.8
   - 3.20.9
   - 3.20.10
-  lastUpdated: 20230526141402
+  - 3.20.11
+  lastUpdated: 20230608153836

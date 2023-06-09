@@ -3,8 +3,8 @@
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.api
 versioning:
-  latest: 54.0.2
-  release: 70.0.0
+  latest: 70.0.0
+  release: 70.1.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -105,6 +105,9 @@ versioning:
   - 22.10.3
   - 22.10.4
   - 22.10.5
+  - 22.11.0
+  - 22.12.0
+  - 22.13.0
   - 23.0.0
   - 23.1.0
   - 24.0.0
@@ -169,7 +172,6 @@ versioning:
   - 55.1.0
   - 56.0.0
   - 56.1.0
-  - 22.11.0
   - 57.0.0
   - 57.1.0
   - 57.2.0
@@ -188,8 +190,7 @@ versioning:
   - 66.0.0
   - 67.1.0
   - 68.0.0
-  - 22.12.0
   - 69.0.0
-  - 22.13.0
   - 70.0.0
-  lastUpdated: 20230601185646
+  - 70.1.0
+  lastUpdated: 20230608192551

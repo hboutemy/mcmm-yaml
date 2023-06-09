@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.controller
 artifactId: netty-event-executor-config
 versioning:
-  latest: 0.18.7
-  release: 0.18.7
+  latest: 0.18.8
+  release: 0.18.8
   versions:
   - 0.2.3
   - 0.2.5-Helium
@@ -130,4 +130,5 @@ versioning:
   - 0.18.5
   - 0.18.6
   - 0.18.7
-  lastUpdated: 20230530112533
+  - 0.18.8
+  lastUpdated: 20230608144223

@@ -3,8 +3,8 @@
 groupId: org.openl.rules.ext
 artifactId: org.openl.rules.ext.cassandra
 versioning:
-  latest: 5.26.9
-  release: 5.26.9
+  latest: 5.26.9.1
+  release: 5.26.9.1
   versions:
   - 5.22.2
   - 5.22.3
@@ -70,4 +70,5 @@ versioning:
   - 5.26.7
   - 5.26.8
   - 5.26.9
-  lastUpdated: 20230607101252
+  - 5.26.9.1
+  lastUpdated: 20230608093912

@@ -3,8 +3,8 @@
 groupId: org.apache.james
 artifactId: apache-james-mailbox-deleted-messages-vault-cassandra
 versioning:
-  latest: 3.7.4
-  release: 3.7.4
+  latest: 3.8.0
+  release: 3.8.0
   versions:
   - 3.4.0
   - 3.5.0
@@ -15,4 +15,5 @@ versioning:
   - 3.7.2
   - 3.7.3
   - 3.7.4
-  lastUpdated: 20230331044825
+  - 3.8.0
+  lastUpdated: 20230608073359

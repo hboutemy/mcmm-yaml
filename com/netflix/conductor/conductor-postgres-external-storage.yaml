@@ -3,8 +3,8 @@
 groupId: com.netflix.conductor
 artifactId: conductor-postgres-external-storage
 versioning:
-  latest: 3.13.6
-  release: 3.13.6
+  latest: 3.13.7
+  release: 3.13.7
   versions:
   - 3.4.2
   - 3.5.0
@@ -37,4 +37,5 @@ versioning:
   - 3.13.3
   - 3.13.5
   - 3.13.6
-  lastUpdated: 20230421203717
+  - 3.13.7
+  lastUpdated: 20230608163831

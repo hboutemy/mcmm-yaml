@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.payment.method.money.order
 versioning:
-  latest: 4.0.14
+  latest: 4.0.17
   release: 4.0.17
   versions:
   - 1.0.0
@@ -61,6 +62,7 @@ versioning:
   - 3.0.10
   - 3.0.11
   - 3.0.12
+  - 3.0.13
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -78,6 +80,5 @@ versioning:
   - 4.0.14
   - 4.0.15
   - 4.0.16
-  - 3.0.13
   - 4.0.17
-  lastUpdated: 20230420204148
+  lastUpdated: 20230608134607

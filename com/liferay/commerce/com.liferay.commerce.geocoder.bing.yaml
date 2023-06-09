@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.geocoder.bing
 versioning:
-  latest: 4.0.10
+  latest: 4.0.12
   release: 4.0.12
   versions:
   - 1.0.0
@@ -65,4 +66,4 @@ versioning:
   - 4.0.10
   - 4.0.11
   - 4.0.12
-  lastUpdated: 20230525195659
+  lastUpdated: 20230608134749
