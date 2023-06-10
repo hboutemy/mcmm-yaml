@@ -3,8 +3,8 @@
 groupId: org.apache.cxf.systests
 artifactId: cxf-systests-microprofile-nocdi
 versioning:
-  latest: 4.0.1
-  release: 4.0.1
+  latest: 4.0.2
+  release: 4.0.2
   versions:
   - 3.3.12
   - 3.3.13
@@ -22,5 +22,7 @@ versioning:
   - 3.5.5
   - 3.5.6
   - 3.6.0
+  - 3.6.1
   - 4.0.1
-  lastUpdated: 20230508184201
+  - 4.0.2
+  lastUpdated: 20230609190938

@@ -3,8 +3,8 @@
 groupId: org.finos.symphony.wdk
 artifactId: workflow-bot-app
 versioning:
-  latest: 1.5.1
-  release: 1.5.1
+  latest: 1.6.0-pre3
+  release: 1.6.0-pre3
   versions:
   - DUMMY_RELEASE_TEST
   - DUMMY_VERSION
@@ -25,4 +25,9 @@ versioning:
   - 1.5.0-TEST
   - 1.5.0-TEST2
   - 1.5.1
-  lastUpdated: 20230418135305
+  - 1.6.0
+  - 1.6.0-pre
+  - 1.6.0-pre1
+  - 1.6.0-pre2
+  - 1.6.0-pre3
+  lastUpdated: 20230609105522
