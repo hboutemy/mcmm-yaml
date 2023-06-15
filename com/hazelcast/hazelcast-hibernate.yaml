@@ -3,8 +3,8 @@
 groupId: com.hazelcast
 artifactId: hazelcast-hibernate
 versioning:
-  latest: 5.0.0
-  release: 5.0.0
+  latest: 5.1.0
+  release: 5.1.0
   versions:
   - 1.9.2
   - 1.9.2.1
@@ -125,6 +125,7 @@ versioning:
   - 3.8.3
   - 3.8.4
   - 5.0.0
+  - 5.1.0
   - 1.7
   - 1.7-RC2
   - 1.7-RC3
@@ -145,4 +146,4 @@ versioning:
   - 3.4.3
   - 3.4.4
   - 3.5
-  lastUpdated: 20221124131510
+  lastUpdated: 20230612132327

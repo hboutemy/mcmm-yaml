@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.apache.tomee
 artifactId: tomee-config
 versioning:
-  latest: 9.0.0
-  release: 9.0.0
+  latest: 9.1.0
+  release: 9.1.0
   versions:
   - 8.0.0-M2
   - 8.0.0-M3
@@ -28,4 +28,5 @@ versioning:
   - 9.0.0-M8
   - 9.0.0.RC1
   - 9.0.0
-  lastUpdated: 20230516112046
+  - 9.1.0
+  lastUpdated: 20230612082441

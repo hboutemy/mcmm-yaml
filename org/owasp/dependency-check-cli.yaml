@@ -3,8 +3,8 @@
 groupId: org.owasp
 artifactId: dependency-check-cli
 versioning:
-  latest: 8.2.1
-  release: 8.2.1
+  latest: 8.3.1
+  release: 8.3.1
   versions:
   - 6.0.4
   - 6.0.5
@@ -53,4 +53,6 @@ versioning:
   - 8.1.2
   - 8.2.0
   - 8.2.1
-  lastUpdated: 20230323113733
+  - 8.3.0
+  - 8.3.1
+  lastUpdated: 20230612113902
