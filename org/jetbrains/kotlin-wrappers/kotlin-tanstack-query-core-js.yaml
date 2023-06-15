@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-tanstack-query-core-js
 versioning:
-  latest: 4.29.11-pre.564
-  release: 4.29.11-pre.564
+  latest: 4.29.11-pre.565-compat
+  release: 4.29.11-pre.565-compat
   versions:
   - 4.24.4-pre.493
   - 4.24.4-pre.493-compat
@@ -87,4 +87,6 @@ versioning:
   - 4.29.11-pre.562
   - 4.29.11-pre.563
   - 4.29.11-pre.564
-  lastUpdated: 20230609061244
+  - 4.29.11-pre.565
+  - 4.29.11-pre.565-compat
+  lastUpdated: 20230610182123
