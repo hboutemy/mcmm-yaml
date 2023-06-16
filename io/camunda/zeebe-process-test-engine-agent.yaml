@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-process-test-engine-agent
 versioning:
-  latest: 8.3.0-alpha2
-  release: 8.3.0-alpha2
+  latest: 8.3.0-alpha2.2
+  release: 8.3.0-alpha2.2
   versions:
   - 1.4.0-alpha2
   - 8.0.0-rc1
@@ -23,6 +23,7 @@ versioning:
   - 8.0.13
   - 8.0.14
   - 8.0.16
+  - 8.0.17
   - 8.1.0-alpha1
   - 8.1.0-alpha2
   - 8.1.0-alpha3
@@ -57,4 +58,5 @@ versioning:
   - 8.2.7
   - 8.3.0-alpha1
   - 8.3.0-alpha2
-  lastUpdated: 20230613172750
+  - 8.3.0-alpha2.2
+  lastUpdated: 20230614062910

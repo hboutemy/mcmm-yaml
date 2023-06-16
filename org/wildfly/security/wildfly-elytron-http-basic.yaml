@@ -3,8 +3,8 @@
 groupId: org.wildfly.security
 artifactId: wildfly-elytron-http-basic
 versioning:
-  latest: 2.2.0.Final
-  release: 2.2.0.Final
+  latest: 2.2.1.Final
+  release: 2.2.1.Final
   versions:
   - 1.9.0.CR1
   - 1.9.0.CR2
@@ -79,6 +79,7 @@ versioning:
   - 1.15.15.Final
   - 1.15.16.Final
   - 1.15.17.Final
+  - 1.15.18.Final
   - 1.16.0.CR1
   - 1.16.0.Final
   - 1.16.1.Final
@@ -113,4 +114,5 @@ versioning:
   - 2.0.0.Final
   - 2.1.0.Final
   - 2.2.0.Final
-  lastUpdated: 20230607101339
+  - 2.2.1.Final
+  lastUpdated: 20230614192759

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-security-integrationtests
 versioning:
-  latest: 14.0.10.Final
-  release: 14.0.10.Final
+  latest: 14.0.11.Final
+  release: 14.0.11.Final
   versions:
   - 7.0.0.Alpha3
   - 7.0.0.Alpha4
@@ -271,5 +271,6 @@ versioning:
   - 14.0.8.Final
   - 14.0.9.Final
   - 14.0.10.Final
+  - 14.0.11.Final
   - 12.0.0.Dev03
-  lastUpdated: 20230607124415
+  lastUpdated: 20230614133341
