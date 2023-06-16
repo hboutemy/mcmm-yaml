@@ -3,8 +3,8 @@
 groupId: com.oracle.oci.sdk
 artifactId: oci-java-sdk-goldengate
 versioning:
-  latest: 3.16.1
-  release: 3.16.1
+  latest: 3.17.0
+  release: 3.17.0
   versions:
   - 1.33.1
   - 1.33.2
@@ -108,6 +108,7 @@ versioning:
   - 2.63.0
   - 2.64.0
   - 2.64.1
+  - 2.65.0
   - 3.0.0-beta1
   - 3.0.0-beta2
   - 3.0.0
@@ -135,4 +136,5 @@ versioning:
   - 3.15.0
   - 3.16.0
   - 3.16.1
-  lastUpdated: 20230606163603
+  - 3.17.0
+  lastUpdated: 20230613171624

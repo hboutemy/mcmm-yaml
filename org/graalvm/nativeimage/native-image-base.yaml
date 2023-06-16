@@ -3,8 +3,8 @@
 groupId: org.graalvm.nativeimage
 artifactId: native-image-base
 versioning:
-  latest: 22.3.2
-  release: 22.3.2
+  latest: 23.0.0
+  release: 23.0.0
   versions:
   - 22.0.0
   - 22.0.0.2
@@ -15,4 +15,5 @@ versioning:
   - 22.3.0
   - 22.3.1
   - 22.3.2
-  lastUpdated: 20230418143153
+  - 23.0.0
+  lastUpdated: 20230613145918
