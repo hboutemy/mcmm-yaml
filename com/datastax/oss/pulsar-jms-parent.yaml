@@ -3,8 +3,8 @@
 groupId: com.datastax.oss
 artifactId: pulsar-jms-parent
 versioning:
-  latest: 3.2.1
-  release: 3.2.1
+  latest: 4.0.0
+  release: 4.0.0
   versions:
   - 1.0.0-ALPHA
   - 1.0.0
@@ -37,4 +37,5 @@ versioning:
   - 3.1.0
   - 3.2.0
   - 3.2.1
-  lastUpdated: 20230202165641
+  - 4.0.0
+  lastUpdated: 20230615220810
