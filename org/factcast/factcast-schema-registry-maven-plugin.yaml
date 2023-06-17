@@ -3,8 +3,8 @@
 groupId: org.factcast
 artifactId: factcast-schema-registry-maven-plugin
 versioning:
-  latest: 0.6.6
-  release: 0.6.6
+  latest: 0.6.7.1
+  release: 0.6.7.1
   versions:
   - 0.2.0-M10
   - 0.2.0-RC
@@ -58,4 +58,6 @@ versioning:
   - 0.6.4
   - 0.6.5
   - 0.6.6
-  lastUpdated: 20230519115324
+  - 0.6.7
+  - 0.6.7.1
+  lastUpdated: 20230616150800

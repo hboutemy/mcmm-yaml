@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-tagmanager
 versioning:
-  latest: v2-rev20230612-2.0.0
-  release: v2-rev20230612-2.0.0
+  latest: v2-rev20230614-2.0.0
+  release: v2-rev20230614-2.0.0
   versions:
   - v1-rev1-1.15.0-rc
   - v1-rev1-1.16.0-rc
@@ -341,4 +341,5 @@ versioning:
   - v2-rev20230222-2.0.0
   - v2-rev20230405-2.0.0
   - v2-rev20230612-2.0.0
-  lastUpdated: 20230614091907
+  - v2-rev20230614-2.0.0
+  lastUpdated: 20230616084716

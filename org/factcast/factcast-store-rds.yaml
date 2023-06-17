@@ -3,8 +3,8 @@
 groupId: org.factcast
 artifactId: factcast-store-rds
 versioning:
-  latest: 0.6.6
-  release: 0.6.6
+  latest: 0.6.7.1
+  release: 0.6.7.1
   versions:
   - 0.4.0-RC1
   - 0.4.0-RC2
@@ -39,4 +39,6 @@ versioning:
   - 0.6.4
   - 0.6.5
   - 0.6.6
-  lastUpdated: 20230519115332
+  - 0.6.7
+  - 0.6.7.1
+  lastUpdated: 20230616150805

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.data
 artifactId: spring-data-mongodb-parent
 versioning:
-  latest: 4.1.0
-  release: 4.1.0
+  latest: 4.1.1
+  release: 4.1.1
   versions:
   - 1.0.0.RELEASE
   - 1.0.1.RELEASE
@@ -195,6 +195,7 @@ versioning:
   - 3.4.10
   - 3.4.11
   - 3.4.12
+  - 3.4.13
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -202,9 +203,11 @@ versioning:
   - 4.0.4
   - 4.0.5
   - 4.0.6
+  - 4.0.7
   - 4.1.0
+  - 4.1.1
   - 2.2.13.RELEASE
   - 3.0.7.RELEASE
   - 3.1.4
   - 3.1.5
-  lastUpdated: 20230512124952
+  lastUpdated: 20230616154504
