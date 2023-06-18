@@ -3,8 +3,8 @@
 groupId: io.gravitee.node
 artifactId: gravitee-node-kubernetes
 versioning:
-  latest: 3.1.0-alpha.10
-  release: 3.1.0-alpha.10
+  latest: 3.1.0-alpha.11
+  release: 3.1.0-alpha.11
   versions:
   - 1.18.0
   - 1.18.1
@@ -100,4 +100,5 @@ versioning:
   - 3.1.0-alpha.8
   - 3.1.0-alpha.9
   - 3.1.0-alpha.10
-  lastUpdated: 20230612094102
+  - 3.1.0-alpha.11
+  lastUpdated: 20230617152519
