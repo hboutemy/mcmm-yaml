@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: fastly
 versioning:
-  latest: 8.1.0
-  release: 8.1.0
+  latest: 8.2.0-alpha.1687050452+4f478efb
+  release: 8.2.0-alpha.1687050452+4f478efb
   versions:
   - 5.1.0
   - 5.2.0-alpha.1673416729+14fca93f
@@ -55,4 +55,6 @@ versioning:
   - 8.1.0-alpha.1686634705+71c7be02
   - 8.1.0-alpha.1686825094+338b7fea
   - 8.1.0
-  lastUpdated: 20230615122934
+  - 8.1.1
+  - 8.2.0-alpha.1687050452+4f478efb
+  lastUpdated: 20230618015118
