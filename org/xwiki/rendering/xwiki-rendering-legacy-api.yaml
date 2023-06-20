@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.rendering
 artifactId: xwiki-rendering-legacy-api
 versioning:
-  latest: 15.4
-  release: 15.4
+  latest: 15.5-rc-1
+  release: 15.5-rc-1
   versions:
   - 4.1-milestone-1
   - 4.1-milestone-2
@@ -408,4 +408,5 @@ versioning:
   - 15.3
   - 15.4-rc-1
   - 15.4
-  lastUpdated: 20230608082637
+  - 15.5-rc-1
+  lastUpdated: 20230619135258

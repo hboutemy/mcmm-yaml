@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-storage
 versioning:
-  latest: v1-rev20230301-2.0.0
-  release: v1-rev20230301-2.0.0
+  latest: v1-rev20230617-2.0.0
+  release: v1-rev20230617-2.0.0
   versions:
   - v1beta1-rev21-1.13.2-beta
   - v1beta1-rev21-1.14.1-beta
@@ -2068,5 +2068,6 @@ versioning:
   - v1-rev20220705-1.32.1
   - v1-rev20220705-2.0.0
   - v1-rev20230301-2.0.0
+  - v1-rev20230617-2.0.0
   - v1beta2-rev18-1.15.0-rc
-  lastUpdated: 20230315210654
+  lastUpdated: 20230619081936

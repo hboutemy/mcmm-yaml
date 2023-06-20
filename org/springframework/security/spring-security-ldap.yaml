@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.security
 artifactId: spring-security-ldap
 versioning:
-  latest: 6.1.0
-  release: 6.1.0
+  latest: 6.1.1
+  release: 6.1.1
   versions:
   - 3.0.0.RELEASE
   - 3.0.1.RELEASE
@@ -163,6 +163,7 @@ versioning:
   - 5.6.8
   - 5.6.9
   - 5.6.10
+  - 5.6.11
   - 5.7.0
   - 5.7.1
   - 5.7.2
@@ -172,13 +173,17 @@ versioning:
   - 5.7.6
   - 5.7.7
   - 5.7.8
+  - 5.7.9
   - 5.8.0
   - 5.8.1
   - 5.8.2
   - 5.8.3
+  - 5.8.4
   - 6.0.0
   - 6.0.1
   - 6.0.2
   - 6.0.3
+  - 6.0.4
   - 6.1.0
-  lastUpdated: 20230515154440
+  - 6.1.1
+  lastUpdated: 20230619164938

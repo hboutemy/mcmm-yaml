@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin
 artifactId: kotlin-scripting-dependencies-maven-all
 versioning:
-  latest: 1.9.0-Beta
-  release: 1.9.0-Beta
+  latest: 1.9.0-RC
+  release: 1.9.0-RC
   versions:
   - 1.6.0-M1
   - 1.6.0-RC
@@ -39,4 +39,5 @@ versioning:
   - 1.8.21
   - 1.8.22
   - 1.9.0-Beta
-  lastUpdated: 20230607190226
+  - 1.9.0-RC
+  lastUpdated: 20230619143007
