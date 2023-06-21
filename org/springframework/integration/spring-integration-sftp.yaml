@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.integration
 artifactId: spring-integration-sftp
 versioning:
-  latest: 6.1.0
-  release: 6.1.0
+  latest: 6.1.1
+  release: 6.1.1
   versions:
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
@@ -180,11 +180,13 @@ versioning:
   - 6.0.3
   - 6.0.4
   - 6.0.5
+  - 6.0.6
   - 6.1.0
+  - 6.1.1
   - 4.0.0.M3
   - 5.3.6.RELEASE
   - 5.3.7.RELEASE
   - 5.4.4
   - 5.4.5
   - 5.4.6
-  lastUpdated: 20230516210350
+  lastUpdated: 20230620182914

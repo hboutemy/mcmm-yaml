@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-connector-vitess
 versioning:
-  latest: 2.3.0.CR1
-  release: 2.3.0.CR1
+  latest: 2.3.0.Final
+  release: 2.3.0.Final
   versions:
   - 1.4.0.Alpha1
   - 1.4.0.Alpha2
@@ -81,5 +81,6 @@ versioning:
   - 2.3.0.Alpha1
   - 2.3.0.Beta1
   - 2.3.0.CR1
+  - 2.3.0.Final
   - 1.5.0.Alpha1
-  lastUpdated: 20230609102540
+  lastUpdated: 20230620153244

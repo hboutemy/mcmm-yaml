@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-quarkus-outbox-common-parent
 versioning:
-  latest: 2.3.0.CR1
-  release: 2.3.0.CR1
+  latest: 2.3.0.Final
+  release: 2.3.0.Final
   versions:
   - 2.2.0.Alpha2
   - 2.2.0.Alpha3
@@ -15,4 +15,5 @@ versioning:
   - 2.3.0.Alpha1
   - 2.3.0.Beta1
   - 2.3.0.CR1
-  lastUpdated: 20230609102651
+  - 2.3.0.Final
+  lastUpdated: 20230620153359
