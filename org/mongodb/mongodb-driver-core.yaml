@@ -3,8 +3,8 @@
 groupId: org.mongodb
 artifactId: mongodb-driver-core
 versioning:
-  latest: 4.10.0-alpha1
-  release: 4.10.0-alpha1
+  latest: 4.10.0
+  release: 4.10.0
   versions:
   - 3.0.0-beta1
   - 3.0.0-beta2
@@ -133,4 +133,5 @@ versioning:
   - 4.9.1
   - 4.10.0-alpha0
   - 4.10.0-alpha1
-  lastUpdated: 20230612154448
+  - 4.10.0
+  lastUpdated: 20230622025025

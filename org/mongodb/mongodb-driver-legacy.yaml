@@ -3,8 +3,8 @@
 groupId: org.mongodb
 artifactId: mongodb-driver-legacy
 versioning:
-  latest: 4.10.0-alpha1
-  release: 4.10.0-alpha1
+  latest: 4.10.0
+  release: 4.10.0
   versions:
   - 3.9.0-rc0
   - 3.9.0
@@ -89,4 +89,5 @@ versioning:
   - 4.9.1
   - 4.10.0-alpha0
   - 4.10.0-alpha1
-  lastUpdated: 20230612154451
+  - 4.10.0
+  lastUpdated: 20230622025028
