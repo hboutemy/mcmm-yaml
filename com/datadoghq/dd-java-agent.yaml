@@ -3,8 +3,8 @@
 groupId: com.datadoghq
 artifactId: dd-java-agent
 versioning:
-  latest: 1.16.0
-  release: 1.16.0
+  latest: 1.16.2
+  release: 1.16.2
   versions:
   - 0.0.1
   - 0.0.2
@@ -201,4 +201,6 @@ versioning:
   - 1.15.1
   - 1.15.3
   - 1.16.0
-  lastUpdated: 20230619180208
+  - 1.16.1
+  - 1.16.2
+  lastUpdated: 20230623194443
