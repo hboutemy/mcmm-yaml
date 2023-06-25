@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.operatorsdk
 artifactId: quarkus-operator-sdk-deployment
 versioning:
-  latest: 6.1.1
-  release: 6.1.1
+  latest: 6.2.0.CR1
+  release: 6.2.0.CR1
   versions:
   - 1.8.0.CR1
   - 1.8.0
@@ -73,4 +73,5 @@ versioning:
   - 6.0.3
   - 6.1.0
   - 6.1.1
-  lastUpdated: 20230602171334
+  - 6.2.0.CR1
+  lastUpdated: 20230624085031
