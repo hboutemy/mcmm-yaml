@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-extensions
 versioning:
-  latest: 1.0.1-pre.573
-  release: 1.0.1-pre.573
+  latest: 1.0.1-pre.574-compat
+  release: 1.0.1-pre.574-compat
   versions:
   - 1.0.1-pre.202-kotlin-1.5.0
   - 1.0.1-pre.203-kotlin-1.5.0
@@ -423,4 +423,6 @@ versioning:
   - 1.0.1-pre.571
   - 1.0.1-pre.572
   - 1.0.1-pre.573
-  lastUpdated: 20230624073223
+  - 1.0.1-pre.574
+  - 1.0.1-pre.574-compat
+  lastUpdated: 20230625165337

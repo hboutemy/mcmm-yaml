@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-electron
 versioning:
-  latest: 24.0.0-pre.573
-  release: 24.0.0-pre.573
+  latest: 24.0.0-pre.574-compat
+  release: 24.0.0-pre.574-compat
   versions:
   - 24.0.0-pre.531
   - 24.0.0-pre.532
@@ -53,4 +53,6 @@ versioning:
   - 24.0.0-pre.571
   - 24.0.0-pre.572
   - 24.0.0-pre.573
-  lastUpdated: 20230624073216
+  - 24.0.0-pre.574
+  - 24.0.0-pre.574-compat
+  lastUpdated: 20230625165323

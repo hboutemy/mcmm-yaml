@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-styled-js
 versioning:
-  latest: 5.3.10-pre.573
-  release: 5.3.10-pre.573
+  latest: 5.3.10-pre.574-compat
+  release: 5.3.10-pre.574-compat
   versions:
   - 5.3.6-pre.493
   - 5.3.6-pre.493-compat
@@ -97,4 +97,6 @@ versioning:
   - 5.3.10-pre.571
   - 5.3.10-pre.572
   - 5.3.10-pre.573
-  lastUpdated: 20230624073341
+  - 5.3.10-pre.574
+  - 5.3.10-pre.574-compat
+  lastUpdated: 20230625165619
