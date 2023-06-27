@@ -3,8 +3,8 @@
 groupId: org.hibernate.search
 artifactId: hibernate-search-mapper-orm-coordination-outbox-polling-orm6
 versioning:
-  latest: 6.2.0.Beta1
-  release: 6.2.0.Beta1
+  latest: 6.2.0.CR1
+  release: 6.2.0.CR1
   versions:
   - 6.1.0.CR1
   - 6.1.0.Final
@@ -19,4 +19,5 @@ versioning:
   - 6.2.0.Alpha1
   - 6.2.0.Alpha2
   - 6.2.0.Beta1
-  lastUpdated: 20230602080311
+  - 6.2.0.CR1
+  lastUpdated: 20230626070614
