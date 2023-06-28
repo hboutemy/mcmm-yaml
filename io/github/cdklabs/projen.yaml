@@ -3,9 +3,10 @@
 groupId: io.github.cdklabs
 artifactId: projen
 versioning:
-  latest: 0.71.111
-  release: 0.71.111
+  latest: 0.71.113
+  release: 0.71.113
   versions:
+  - 0.0.0
   - 0.27.48
   - 0.27.49
   - 0.27.50
@@ -1028,4 +1029,6 @@ versioning:
   - 0.71.109
   - 0.71.110
   - 0.71.111
-  lastUpdated: 20230626124321
+  - 0.71.112
+  - 0.71.113
+  lastUpdated: 20230627184334

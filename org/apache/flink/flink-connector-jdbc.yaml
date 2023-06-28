@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-connector-jdbc
 versioning:
-  latest: 3.1.0-1.17
-  release: 3.1.0-1.17
+  latest: 3.1.1-1.17
+  release: 3.1.1-1.17
   versions:
   - 1.15.0
   - 1.15.1
@@ -17,4 +17,6 @@ versioning:
   - 3.0.0-1.16
   - 3.1.0-1.16
   - 3.1.0-1.17
-  lastUpdated: 20230525060911
+  - 3.1.1-1.16
+  - 3.1.1-1.17
+  lastUpdated: 20230627072931

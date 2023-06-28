@@ -3,8 +3,8 @@
 groupId: com.teamscale
 artifactId: teamscale-config
 versioning:
-  latest: 8.9.3
-  release: 8.9.3
+  latest: 8.9.4
+  release: 8.9.4
   versions:
   - 8.1.0-rc3
   - 8.1.0
@@ -166,6 +166,7 @@ versioning:
   - 8.7.13
   - 8.7.14
   - 8.7.15
+  - 8.7.16
   - 8.8.0-rc1
   - 8.8.0-rc2
   - 8.8.0-rc3
@@ -179,6 +180,7 @@ versioning:
   - 8.8.7
   - 8.8.8
   - 8.8.9
+  - 8.8.10
   - 8.9.0-rc1
   - 8.9.0-rc2
   - 8.9.0-rc3
@@ -186,4 +188,5 @@ versioning:
   - 8.9.1
   - 8.9.2
   - 8.9.3
-  lastUpdated: 20230620143259
+  - 8.9.4
+  lastUpdated: 20230627131843
