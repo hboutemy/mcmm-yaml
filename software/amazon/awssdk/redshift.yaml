@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: redshift
 versioning:
-  latest: 2.20.95
-  release: 2.20.95
+  latest: 2.20.96
+  release: 2.20.96
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -1071,4 +1071,5 @@ versioning:
   - 2.20.93
   - 2.20.94
   - 2.20.95
-  lastUpdated: 20230628222620
+  - 2.20.96
+  lastUpdated: 20230629211228

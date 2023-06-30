@@ -3,8 +3,8 @@
 groupId: io.gravitee.cockpit
 artifactId: gravitee-cockpit-connectors-ws
 versioning:
-  latest: 4.0.1-alpha.1
-  release: 4.0.1-alpha.1
+  latest: 4.0.2-alpha.1
+  release: 4.0.2-alpha.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -44,6 +44,7 @@ versioning:
   - 2.5.5
   - 2.5.6
   - 2.6.0
+  - 2.6.1
   - 3.0.0-alpha.1
   - 3.0.0-alpha.2
   - 3.0.0-alpha.3
@@ -52,6 +53,9 @@ versioning:
   - 3.0.1
   - 3.0.2
   - 3.0.3
+  - 3.0.4
   - 4.0.0
   - 4.0.1-alpha.1
-  lastUpdated: 20230621125540
+  - 4.0.1
+  - 4.0.2-alpha.1
+  lastUpdated: 20230629154812

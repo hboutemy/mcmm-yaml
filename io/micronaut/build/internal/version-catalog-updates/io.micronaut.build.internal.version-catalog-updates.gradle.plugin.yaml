@@ -3,8 +3,8 @@
 groupId: io.micronaut.build.internal.version-catalog-updates
 artifactId: io.micronaut.build.internal.version-catalog-updates.gradle.plugin
 versioning:
-  latest: 6.5.1
-  release: 6.5.1
+  latest: 6.5.3
+  release: 6.5.3
   versions:
   - 4.1.0
   - 4.1.1
@@ -86,4 +86,6 @@ versioning:
   - 6.4.4
   - 6.5.0
   - 6.5.1
-  lastUpdated: 20230628161442
+  - 6.5.2
+  - 6.5.3
+  lastUpdated: 20230629140407

@@ -3,8 +3,8 @@
 groupId: io.micronaut.build.internal.quality-checks
 artifactId: io.micronaut.build.internal.quality-checks.gradle.plugin
 versioning:
-  latest: 6.5.1
-  release: 6.5.1
+  latest: 6.5.3
+  release: 6.5.3
   versions:
   - 5.2.0
   - 5.2.1
@@ -65,4 +65,6 @@ versioning:
   - 6.4.4
   - 6.5.0
   - 6.5.1
-  lastUpdated: 20230628161442
+  - 6.5.2
+  - 6.5.3
+  lastUpdated: 20230629140407

@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.plugin
 artifactId: transport-netty4-client
 versioning:
-  latest: 7.17.10
-  release: 7.17.10
+  latest: 7.17.11
+  release: 7.17.11
   versions:
   - 5.0.0-alpha5
   - 5.0.0-beta1
@@ -171,4 +171,5 @@ versioning:
   - 7.17.8
   - 7.17.9
   - 7.17.10
-  lastUpdated: 20230502122528
+  - 7.17.11
+  lastUpdated: 20230629094629

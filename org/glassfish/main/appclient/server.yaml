@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.main.appclient
 artifactId: server
 versioning:
-  latest: 7.0.5
-  release: 7.0.5
+  latest: 7.0.6
+  release: 7.0.6
   versions:
   - 5.1.0
   - 6.0.0-M1
@@ -32,6 +32,7 @@ versioning:
   - 7.0.3
   - 7.0.4
   - 7.0.5
+  - 7.0.6
   - 4.0
   - 4.0-b33
   - 4.0-b72
@@ -43,4 +44,4 @@ versioning:
   - 5.0.1
   - 5.1.0-RC1
   - 5.1.0-RC2
-  lastUpdated: 20230530113731
+  lastUpdated: 20230629131256
