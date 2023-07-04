@@ -3,8 +3,8 @@
 groupId: org.neo4j.gds
 artifactId: cypher-test
 versioning:
-  latest: 2.4.1
-  release: 2.4.1
+  latest: 2.5.0-alpha01
+  release: 2.5.0-alpha01
   versions:
   - 1.7.0-alpha03
   - 1.7.0-alpha04
@@ -90,4 +90,5 @@ versioning:
   - 2.4.0-alpha06
   - 2.4.0
   - 2.4.1
-  lastUpdated: 20230627114316
+  - 2.5.0-alpha01
+  lastUpdated: 20230703153743

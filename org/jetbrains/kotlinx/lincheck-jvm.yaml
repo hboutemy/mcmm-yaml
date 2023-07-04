@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlinx
 artifactId: lincheck-jvm
 versioning:
-  latest: 2.20
-  release: 2.20
+  latest: 2.21-IDEA-PLUGIN
+  release: 2.21-IDEA-PLUGIN
   versions:
   - 2.12
   - 2.13
@@ -17,4 +17,6 @@ versioning:
   - 2.18.1
   - 2.19
   - 2.20
-  lastUpdated: 20230630183201
+  - 2.21
+  - 2.21-IDEA-PLUGIN
+  lastUpdated: 20230703223824
