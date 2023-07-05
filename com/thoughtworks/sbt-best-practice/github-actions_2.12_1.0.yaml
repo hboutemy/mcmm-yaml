@@ -3,8 +3,8 @@
 groupId: com.thoughtworks.sbt-best-practice
 artifactId: github-actions_2.12_1.0
 versioning:
-  latest: 8.3.1
-  release: 8.3.1
+  latest: 8.3.1+1-64252119
+  release: 8.3.1+1-64252119
   versions:
   - 8.3.0+96-f3857305
   - 8.3.0+96-178f8e32
@@ -23,6 +23,7 @@ versioning:
   - 8.3.0+112-3c4e0037
   - 8.3.0+113-101d2272
   - 8.3.1
+  - 8.3.1+1-64252119
   - 7.2.0+43-d7a84252
   - 7.2.0+45-ef41108d
   - 7.2.0+49-82732700
@@ -137,4 +138,4 @@ versioning:
   - 8.2.5+7-14f27e32
   - 8.3.0
   - 8.3.0+90-153f32b5
-  lastUpdated: 20230702061033
+  lastUpdated: 20230704062147

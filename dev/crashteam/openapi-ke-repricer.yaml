@@ -3,8 +3,8 @@
 groupId: dev.crashteam
 artifactId: openapi-ke-repricer
 versioning:
-  latest: 1.52-cb442aa-server
-  release: 1.52-cb442aa-server
+  latest: 1.54-66de0c3-server
+  release: 1.54-66de0c3-server
   versions:
   - 1.3-4883df9-client
   - 1.3-4883df9-server
@@ -86,4 +86,8 @@ versioning:
   - 1.51-b43ff8e-server
   - 1.52-cb442aa-client
   - 1.52-cb442aa-server
-  lastUpdated: 20230621182030
+  - 1.53-54df4dd-client
+  - 1.53-54df4dd-server
+  - 1.54-66de0c3-client
+  - 1.54-66de0c3-server
+  lastUpdated: 20230704161450
