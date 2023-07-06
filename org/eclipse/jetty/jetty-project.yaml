@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.eclipse.jetty
 artifactId: jetty-project
 versioning:
-  latest: 12.0.0.beta2
-  release: 12.0.0.beta2
+  latest: 12.0.0.beta3
+  release: 12.0.0.beta3
   versions:
   - 7.0.0.M0
   - 7.0.0.M1
@@ -355,4 +355,5 @@ versioning:
   - 12.0.0.beta0
   - 12.0.0.beta1
   - 12.0.0.beta2
-  lastUpdated: 20230618233401
+  - 12.0.0.beta3
+  lastUpdated: 20230705212905

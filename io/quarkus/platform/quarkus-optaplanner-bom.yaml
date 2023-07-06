@@ -3,8 +3,8 @@
 groupId: io.quarkus.platform
 artifactId: quarkus-optaplanner-bom
 versioning:
-  latest: 3.2.0.CR1
-  release: 3.2.0.CR1
+  latest: 3.2.0.Final
+  release: 3.2.0.Final
   versions:
   - 2.0.0.Final
   - 2.0.1.Final
@@ -101,6 +101,7 @@ versioning:
   - 2.16.5.Final
   - 2.16.6.Final
   - 2.16.7.Final
+  - 2.16.8.Final
   - 3.0.1.Final
   - 3.0.2.Final
   - 3.0.3.Final
@@ -111,4 +112,5 @@ versioning:
   - 3.1.2.Final
   - 3.1.3.Final
   - 3.2.0.CR1
-  lastUpdated: 20230628183656
+  - 3.2.0.Final
+  lastUpdated: 20230705082805

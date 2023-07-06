@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin-wrappers
 artifactId: kotlin-cssom-core
 versioning:
-  latest: 0.0.1-pre.584
-  release: 0.0.1-pre.584
+  latest: 0.0.1-pre.585-compat
+  release: 0.0.1-pre.585-compat
   versions:
   - 0.0.1-pre.542
   - 0.0.1-pre.543
@@ -58,4 +58,6 @@ versioning:
   - 0.0.1-pre.582
   - 0.0.1-pre.583
   - 0.0.1-pre.584
-  lastUpdated: 20230702065441
+  - 0.0.1-pre.585
+  - 0.0.1-pre.585-compat
+  lastUpdated: 20230705055348

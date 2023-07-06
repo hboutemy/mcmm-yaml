@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.product.type.grouped.api
 versioning:
   latest: 9.4.0
-  release: 9.4.0
+  release: 3.1.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -86,4 +85,6 @@ versioning:
   - 9.2.0
   - 9.3.0
   - 9.4.0
-  lastUpdated: 20230608133930
+  - 2.1.0
+  - 3.1.0
+  lastUpdated: 20230705183856

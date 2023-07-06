@@ -3,8 +3,8 @@
 groupId: org.opendaylight.netconf
 artifactId: netconf-topology-singleton
 versioning:
-  latest: 5.0.6
-  release: 5.0.6
+  latest: 6.0.0
+  release: 6.0.0
   versions:
   - 1.1.1-Boron-SR1
   - 1.1.2-Boron-SR2
@@ -102,4 +102,5 @@ versioning:
   - 5.0.4
   - 5.0.5
   - 5.0.6
-  lastUpdated: 20230602020300
+  - 6.0.0
+  lastUpdated: 20230705124037
