@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.object.admin.rest.impl
 versioning:
-  latest: 1.0.62
+  latest: 1.0.95
   release: 1.0.95
   versions:
   - 1.0.0
@@ -102,4 +103,4 @@ versioning:
   - 1.0.93
   - 1.0.94
   - 1.0.95
-  lastUpdated: 20230629124348
+  lastUpdated: 20230706053344

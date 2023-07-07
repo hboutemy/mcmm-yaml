@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: org.springframework.orm
 versioning:
-  latest: 5.2.22.LIFERAY-PATCHED-1
+  latest: 5.2.24.LIFERAY-PATCHED-1
   release: 5.2.24.LIFERAY-PATCHED-1
   versions:
   - 4.3.22.LIFERAY-PATCHED-1
@@ -11,4 +12,4 @@ versioning:
   - 5.2.20.LIFERAY-PATCHED-1
   - 5.2.22.LIFERAY-PATCHED-1
   - 5.2.24.LIFERAY-PATCHED-1
-  lastUpdated: 20230503085457
+  lastUpdated: 20230706023708

@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.data.engine.js.components.web
 versioning:
-  latest: 1.0.79
+  latest: 1.0.107
   release: 1.0.107
   versions:
   - 1.0.0
@@ -95,6 +96,7 @@ versioning:
   - 1.0.86
   - 1.0.87
   - 1.0.88
+  - 1.0.89
   - 1.0.90
   - 1.0.91
   - 1.0.92
@@ -113,5 +115,4 @@ versioning:
   - 1.0.105
   - 1.0.106
   - 1.0.107
-  - 1.0.89
-  lastUpdated: 20230629090346
+  lastUpdated: 20230706053948

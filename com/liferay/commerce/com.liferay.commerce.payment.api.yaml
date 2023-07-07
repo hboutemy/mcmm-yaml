@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.payment.api
 versioning:
   latest: 11.3.0
-  release: 3.2.0
+  release: 11.3.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -38,6 +39,7 @@ versioning:
   - 2.3.0
   - 2.3.1
   - 2.3.2
+  - 2.4.0
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -45,6 +47,7 @@ versioning:
   - 3.1.1
   - 3.1.2
   - 3.1.3
+  - 3.2.0
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -87,6 +90,4 @@ versioning:
   - 11.1.0
   - 11.2.0
   - 11.3.0
-  - 2.4.0
-  - 3.2.0
-  lastUpdated: 20230705200433
+  lastUpdated: 20230706015445

@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.document.library.file.version.discussion.web
 versioning:
-  latest: 2.0.24
+  latest: 2.0.25
   release: 2.0.25
   versions:
   - 1.0.0
@@ -33,4 +34,4 @@ versioning:
   - 2.0.23
   - 2.0.24
   - 2.0.25
-  lastUpdated: 20221206222236
+  lastUpdated: 20230706062122

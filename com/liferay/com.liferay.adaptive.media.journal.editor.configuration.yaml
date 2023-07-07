@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.adaptive.media.journal.editor.configuration
 versioning:
-  latest: 5.0.11
+  latest: 5.0.12
   release: 5.0.12
   versions:
   - 1.0.0
@@ -42,6 +43,7 @@ versioning:
   - 3.0.12
   - 3.0.13
   - 3.0.14
+  - 3.0.15
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -67,6 +69,5 @@ versioning:
   - 5.0.9
   - 5.0.10
   - 5.0.11
-  - 3.0.15
   - 5.0.12
-  lastUpdated: 20230210040502
+  lastUpdated: 20230706070628

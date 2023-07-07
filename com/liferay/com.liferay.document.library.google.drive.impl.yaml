@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.document.library.google.drive.impl
 versioning:
-  latest: 3.0.5
+  latest: 3.0.6
   release: 3.0.6
   versions:
   - 1.0.0
@@ -29,4 +30,4 @@ versioning:
   - 3.0.4
   - 3.0.5
   - 3.0.6
-  lastUpdated: 20221111004209
+  lastUpdated: 20230706063205

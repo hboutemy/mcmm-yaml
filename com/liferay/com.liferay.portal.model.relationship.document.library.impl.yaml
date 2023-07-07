@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.model.relationship.document.library.impl
 versioning:
-  latest: 4.0.7
+  latest: 4.0.10
   release: 4.0.10
   versions:
   - 1.0.0
@@ -38,4 +39,4 @@ versioning:
   - 4.0.8
   - 4.0.9
   - 4.0.10
-  lastUpdated: 20230629111347
+  lastUpdated: 20230706024356

@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.js.react.web
 versioning:
-  latest: 5.0.22
-  release: 3.0.8
+  latest: 5.0.27
+  release: 5.0.27
   versions:
   - 1.0.0
   - 1.0.1
@@ -29,6 +30,7 @@ versioning:
   - 3.0.5
   - 3.0.6
   - 3.0.7
+  - 3.0.8
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -79,5 +81,4 @@ versioning:
   - 5.0.25
   - 5.0.26
   - 5.0.27
-  - 3.0.8
-  lastUpdated: 20230705164320
+  lastUpdated: 20230706050747

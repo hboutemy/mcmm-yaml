@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.osgi.web.portlet.tracker
 versioning:
-  latest: 6.0.25
+  latest: 6.0.30
   release: 6.0.30
   versions:
   - 1.0.0
@@ -72,6 +73,7 @@ versioning:
   - 4.0.14
   - 4.0.15
   - 4.0.16
+  - 4.0.17
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -124,8 +126,7 @@ versioning:
   - 6.0.25
   - 6.0.26
   - 6.0.27
-  - 4.0.17
   - 6.0.28
   - 6.0.29
   - 6.0.30
-  lastUpdated: 20230609042327
+  lastUpdated: 20230706013615

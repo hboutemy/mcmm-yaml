@@ -1,10 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: org.mvel2
 versioning:
+  latest: 2.1.0.drools16.LIFERAY-PATCHED-2
   release: 2.1.0.drools16.LIFERAY-PATCHED-2
   versions:
   - 2.1.0.drools16.LIFERAY-PATCHED-1
   - 2.1.0.drools16.LIFERAY-PATCHED-2
-  lastUpdated: 20221220150036
+  lastUpdated: 20230706060150

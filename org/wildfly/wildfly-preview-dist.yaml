@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-preview-dist
 versioning:
-  latest: 29.0.0.Alpha1
-  release: 29.0.0.Alpha1
+  latest: 29.0.0.Beta1
+  release: 29.0.0.Beta1
   versions:
   - 22.0.0.Alpha1
   - 22.0.0.Beta1
@@ -40,4 +40,5 @@ versioning:
   - 28.0.0.Final
   - 28.0.1.Final
   - 29.0.0.Alpha1
-  lastUpdated: 20230612193830
+  - 29.0.0.Beta1
+  lastUpdated: 20230705183924

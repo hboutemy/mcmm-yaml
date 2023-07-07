@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.client.extension.service
 versioning:
-  latest: 1.0.27
+  latest: 1.0.39
   release: 1.0.39
   versions:
   - 1.0.0
@@ -46,4 +47,4 @@ versioning:
   - 1.0.37
   - 1.0.38
   - 1.0.39
-  lastUpdated: 20230629113444
+  lastUpdated: 20230706065655

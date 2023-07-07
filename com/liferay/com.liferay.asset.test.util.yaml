@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.asset.test.util
 versioning:
-  latest: 5.0.9
-  release: 7.0.0
+  latest: 8.0.0
+  release: 8.0.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -43,6 +44,7 @@ versioning:
   - 3.2.6
   - 3.2.7
   - 3.2.8
+  - 3.2.9
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -57,9 +59,8 @@ versioning:
   - 5.0.7
   - 5.0.8
   - 5.0.9
-  - 3.2.9
   - 5.0.10
   - 6.0.0
-  - 8.0.0
   - 7.0.0
-  lastUpdated: 20230614111932
+  - 8.0.0
+  lastUpdated: 20230706045608

@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.digital.signature.api
 versioning:
-  latest: 3.0.12
+  latest: 3.3.1
   release: 3.3.1
   versions:
   - 1.0.0
@@ -38,4 +39,4 @@ versioning:
   - 3.2.0
   - 3.3.0
   - 3.3.1
-  lastUpdated: 20230225124444
+  lastUpdated: 20230706045036

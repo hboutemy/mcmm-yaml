@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.workflow.kaleo.runtime.impl
 versioning:
-  latest: 6.0.38
+  latest: 6.0.61
   release: 6.0.61
   versions:
   - 1.0.0
@@ -86,6 +87,7 @@ versioning:
   - 3.0.29
   - 3.0.30
   - 3.0.31
+  - 3.0.32
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -196,7 +198,6 @@ versioning:
   - 6.0.49
   - 6.0.50
   - 6.0.51
-  - 3.0.32
   - 6.0.52
   - 6.0.53
   - 6.0.54
@@ -207,4 +208,4 @@ versioning:
   - 6.0.59
   - 6.0.60
   - 6.0.61
-  lastUpdated: 20230629114359
+  lastUpdated: 20230706065412

@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.notification.rest.api
 versioning:
-  latest: 3.0.0
+  latest: 7.0.0
   release: 7.0.0
   versions:
   - 1.0.0
@@ -25,4 +26,4 @@ versioning:
   - 6.1.0
   - 6.2.0
   - 7.0.0
-  lastUpdated: 20230601191058
+  lastUpdated: 20230706054711

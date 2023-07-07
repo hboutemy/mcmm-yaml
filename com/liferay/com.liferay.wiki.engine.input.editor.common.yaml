@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.wiki.engine.input.editor.common
 versioning:
-  latest: 7.0.11
+  latest: 7.0.13
   release: 7.0.13
   versions:
   - 1.0.0
@@ -24,6 +25,7 @@ versioning:
   - 3.0.9
   - 3.0.10
   - 3.0.11
+  - 3.0.12
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -82,6 +84,5 @@ versioning:
   - 7.0.10
   - 7.0.11
   - 7.0.12
-  - 3.0.12
   - 7.0.13
-  lastUpdated: 20230512092830
+  lastUpdated: 20230706064156

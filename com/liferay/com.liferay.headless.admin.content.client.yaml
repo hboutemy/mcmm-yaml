@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.headless.admin.content.client
 versioning:
-  latest: 2.0.17
+  latest: 2.0.23
   release: 2.0.23
   versions:
   - 1.0.0
@@ -29,6 +30,10 @@ versioning:
   - 1.0.20
   - 1.0.21
   - 1.0.22
+  - 1.0.23
+  - 1.0.24
+  - 1.0.25
+  - 1.0.26
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -47,14 +52,10 @@ versioning:
   - 2.0.15
   - 2.0.16
   - 2.0.17
-  - 1.0.23
   - 2.0.18
   - 2.0.19
-  - 1.0.24
   - 2.0.20
-  - 1.0.25
   - 2.0.21
-  - 1.0.26
   - 2.0.22
   - 2.0.23
-  lastUpdated: 20230518234727
+  lastUpdated: 20230706052315

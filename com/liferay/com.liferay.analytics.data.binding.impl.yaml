@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.analytics.data.binding.impl
 versioning:
   latest: 4.0.6
-  release: 3.0.13
+  release: 4.0.6
   versions:
   - 1.0.0
   - 1.0.1
@@ -25,6 +26,7 @@ versioning:
   - 3.0.10
   - 3.0.11
   - 3.0.12
+  - 3.0.13
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -32,5 +34,4 @@ versioning:
   - 4.0.4
   - 4.0.5
   - 4.0.6
-  - 3.0.13
-  lastUpdated: 20230123171432
+  lastUpdated: 20230706021854

@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.osgi.debug.impl
 versioning:
-  latest: 4.0.9
+  latest: 4.0.13
   release: 4.0.13
   versions:
   - 1.0.0
@@ -43,8 +44,8 @@ versioning:
   - 4.0.7
   - 4.0.8
   - 4.0.9
+  - 4.0.10
   - 4.0.11
   - 4.0.12
   - 4.0.13
-  - 4.0.10
-  lastUpdated: 20230205063709
+  lastUpdated: 20230706062301

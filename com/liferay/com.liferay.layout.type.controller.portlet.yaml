@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.layout.type.controller.portlet
 versioning:
-  latest: 2.0.15
+  latest: 2.0.20
   release: 2.0.20
   versions:
   - 1.0.0
@@ -32,6 +33,9 @@ versioning:
   - 1.0.23
   - 1.0.24
   - 1.0.25
+  - 1.0.26
+  - 1.0.27
+  - 1.0.28
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -51,9 +55,6 @@ versioning:
   - 2.0.16
   - 2.0.17
   - 2.0.18
-  - 1.0.26
   - 2.0.19
-  - 1.0.27
-  - 1.0.28
   - 2.0.20
-  lastUpdated: 20230616153153
+  lastUpdated: 20230706032715

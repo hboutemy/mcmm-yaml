@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.social.bookmarks.api
 versioning:
-  latest: 4.0.4
+  latest: 4.0.5
   release: 4.0.5
   versions:
   - 1.0.0
@@ -30,4 +31,4 @@ versioning:
   - 4.0.3
   - 4.0.4
   - 4.0.5
-  lastUpdated: 20221216064048
+  lastUpdated: 20230706054123

@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.gradle.plugins.poshi.runner
 versioning:
-  latest: 3.0.51
+  latest: 3.0.72
   release: 3.0.72
   versions:
   - 1.0.0
@@ -127,4 +128,4 @@ versioning:
   - 3.0.70
   - 3.0.71
   - 3.0.72
-  lastUpdated: 20230703085804
+  lastUpdated: 20230706063732

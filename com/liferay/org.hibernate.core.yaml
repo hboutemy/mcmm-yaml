@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: org.hibernate.core
 versioning:
-  latest: 3.6.10.LIFERAY-PATCHED-7
+  latest: 5.6.7.LIFERAY-PATCHED-1
   release: 5.6.7.LIFERAY-PATCHED-1
   versions:
   - 3.6.10.LIFERAY-PATCHED-1
@@ -14,4 +15,4 @@ versioning:
   - 3.6.10.LIFERAY-PATCHED-6
   - 3.6.10.LIFERAY-PATCHED-7
   - 5.6.7.LIFERAY-PATCHED-1
-  lastUpdated: 20230228114805
+  lastUpdated: 20230706060605

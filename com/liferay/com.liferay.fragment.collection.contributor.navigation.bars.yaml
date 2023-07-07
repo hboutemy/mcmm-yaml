@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.fragment.collection.contributor.navigation.bars
 versioning:
-  latest: 2.0.9
+  latest: 2.0.10
   release: 2.0.10
   versions:
   - 1.0.0
@@ -33,6 +34,7 @@ versioning:
   - 1.0.24
   - 1.0.25
   - 1.0.26
+  - 1.0.27
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -43,6 +45,5 @@ versioning:
   - 2.0.7
   - 2.0.8
   - 2.0.9
-  - 1.0.27
   - 2.0.10
-  lastUpdated: 20230519004756
+  lastUpdated: 20230706045102

@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.theme.browser.support
 versioning:
-  latest: 2.0.35
-  release: 1.0.25
+  latest: 2.0.46
+  release: 2.0.46
   versions:
   - 1.0.0
   - 1.0.1
@@ -27,6 +28,11 @@ versioning:
   - 1.0.18
   - 1.0.19
   - 1.0.20
+  - 1.0.21
+  - 1.0.22
+  - 1.0.23
+  - 1.0.24
+  - 1.0.25
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -65,18 +71,13 @@ versioning:
   - 2.0.35
   - 2.0.36
   - 2.0.37
-  - 1.0.21
   - 2.0.38
   - 2.0.39
   - 2.0.40
   - 2.0.41
-  - 1.0.22
   - 2.0.42
   - 2.0.43
   - 2.0.44
   - 2.0.45
-  - 1.0.23
   - 2.0.46
-  - 1.0.24
-  - 1.0.25
-  lastUpdated: 20230614104625
+  lastUpdated: 20230706052203

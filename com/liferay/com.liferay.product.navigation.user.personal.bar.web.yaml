@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.product.navigation.user.personal.bar.web
 versioning:
-  latest: 6.0.12
-  release: 4.0.22
+  latest: 6.0.15
+  release: 6.0.15
   versions:
   - 1.0.0
   - 2.0.0
@@ -34,6 +35,7 @@ versioning:
   - 2.0.24
   - 2.0.25
   - 2.0.26
+  - 2.0.27
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -48,6 +50,7 @@ versioning:
   - 3.0.11
   - 3.0.12
   - 3.0.13
+  - 3.0.14
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -70,6 +73,7 @@ versioning:
   - 4.0.19
   - 4.0.20
   - 4.0.21
+  - 4.0.22
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -92,6 +96,7 @@ versioning:
   - 5.0.19
   - 5.0.20
   - 5.0.21
+  - 5.0.22
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -106,10 +111,6 @@ versioning:
   - 6.0.11
   - 6.0.12
   - 6.0.13
-  - 2.0.27
   - 6.0.14
-  - 5.0.22
   - 6.0.15
-  - 3.0.14
-  - 4.0.22
-  lastUpdated: 20230705182833
+  lastUpdated: 20230706054421

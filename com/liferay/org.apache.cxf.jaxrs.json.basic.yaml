@@ -1,9 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: org.apache.cxf.jaxrs.json.basic
 versioning:
+  latest: 3.2.14.LIFERAY-PATCHED-1
   release: 3.2.14.LIFERAY-PATCHED-1
   versions:
   - 3.2.14.LIFERAY-PATCHED-1
-  lastUpdated: 20221110215630
+  lastUpdated: 20230706063929

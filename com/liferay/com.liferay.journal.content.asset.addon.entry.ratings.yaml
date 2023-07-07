@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.journal.content.asset.addon.entry.ratings
 versioning:
-  latest: 6.0.9
+  latest: 6.0.10
   release: 6.0.10
   versions:
   - 1.0.0
@@ -51,4 +52,4 @@ versioning:
   - 6.0.8
   - 6.0.9
   - 6.0.10
-  lastUpdated: 20230113060232
+  lastUpdated: 20230706032011

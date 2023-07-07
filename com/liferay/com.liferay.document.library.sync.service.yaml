@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.document.library.sync.service
 versioning:
-  latest: 4.0.18
-  release: 2.0.33
+  latest: 4.0.23
+  release: 4.0.23
   versions:
   - 1.0.0
   - 1.0.1
@@ -42,6 +43,7 @@ versioning:
   - 1.0.33
   - 1.0.34
   - 1.0.35
+  - 1.0.36
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -75,6 +77,7 @@ versioning:
   - 2.0.30
   - 2.0.31
   - 2.0.32
+  - 2.0.33
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -104,6 +107,8 @@ versioning:
   - 3.0.26
   - 3.0.27
   - 3.0.28
+  - 3.0.29
+  - 3.0.30
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -126,10 +131,6 @@ versioning:
   - 4.0.19
   - 4.0.20
   - 4.0.21
-  - 3.0.29
   - 4.0.22
   - 4.0.23
-  - 3.0.30
-  - 1.0.36
-  - 2.0.33
-  lastUpdated: 20230705174911
+  lastUpdated: 20230706012451

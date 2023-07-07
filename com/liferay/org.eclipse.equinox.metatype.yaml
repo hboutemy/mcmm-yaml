@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: org.eclipse.equinox.metatype
 versioning:
-  latest: 1.4.200.LIFERAY-PATCHED-4
+  latest: 1.4.200.LIFERAY-PATCHED-5
   release: 1.4.200.LIFERAY-PATCHED-5
   versions:
   - 1.4.200.LIFERAY-PATCHED-1
@@ -11,4 +12,4 @@ versioning:
   - 1.4.200.LIFERAY-PATCHED-3
   - 1.4.200.LIFERAY-PATCHED-4
   - 1.4.200.LIFERAY-PATCHED-5
-  lastUpdated: 20230324170529
+  lastUpdated: 20230706032419

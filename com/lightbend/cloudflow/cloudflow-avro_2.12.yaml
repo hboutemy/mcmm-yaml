@@ -3,8 +3,8 @@
 groupId: com.lightbend.cloudflow
 artifactId: cloudflow-avro_2.12
 versioning:
-  latest: 2.3.2-NIGHTLY20221003
-  release: 2.3.2-NIGHTLY20221003
+  latest: 2.3.4-debug.8
+  release: 2.3.4-debug.8
   versions:
   - 2.2.2-NIGHTLY20220124
   - 2.3.0-RC33
@@ -54,5 +54,8 @@ versioning:
   - 2.3.2-NIGHTLY20220919
   - 2.3.2-NIGHTLY20220926
   - 2.3.2-NIGHTLY20221003
+  - 2.3.4-RC1
+  - 2.3.4-RC3
+  - 2.3.4-debug.8
   - 2.3.1-RC1
-  lastUpdated: 20221003002412
+  lastUpdated: 20230706160704

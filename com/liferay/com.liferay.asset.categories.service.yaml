@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.asset.categories.service
 versioning:
-  latest: 5.0.29
-  release: 4.0.18
+  latest: 5.0.37
+  release: 5.0.37
   versions:
   - 1.0.0
   - 1.0.1
@@ -78,6 +79,7 @@ versioning:
   - 4.0.15
   - 4.0.16
   - 4.0.17
+  - 4.0.18
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -116,5 +118,4 @@ versioning:
   - 5.0.35
   - 5.0.36
   - 5.0.37
-  - 4.0.18
-  lastUpdated: 20230519123623
+  lastUpdated: 20230706022839

@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.translation.web
 versioning:
-  latest: 2.0.67
+  latest: 2.0.84
   release: 2.0.84
   versions:
   - 1.0.0
@@ -35,6 +36,7 @@ versioning:
   - 1.0.26
   - 1.0.27
   - 1.0.28
+  - 1.0.29
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -113,7 +115,6 @@ versioning:
   - 2.0.75
   - 2.0.76
   - 2.0.77
-  - 1.0.29
   - 2.0.78
   - 2.0.79
   - 2.0.80
@@ -121,4 +122,4 @@ versioning:
   - 2.0.82
   - 2.0.83
   - 2.0.84
-  lastUpdated: 20230629112208
+  lastUpdated: 20230706064241

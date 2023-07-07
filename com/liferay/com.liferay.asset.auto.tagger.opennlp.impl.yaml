@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.asset.auto.tagger.opennlp.impl
 versioning:
-  latest: 3.0.14
-  release: 1.0.35
+  latest: 3.0.20
+  release: 3.0.20
   versions:
   - 1.0.0
   - 1.0.1
@@ -41,6 +42,7 @@ versioning:
   - 1.0.32
   - 1.0.33
   - 1.0.34
+  - 1.0.35
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -70,6 +72,7 @@ versioning:
   - 2.0.26
   - 2.0.27
   - 2.0.28
+  - 2.0.29
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -89,8 +92,6 @@ versioning:
   - 3.0.16
   - 3.0.17
   - 3.0.18
-  - 2.0.29
   - 3.0.19
   - 3.0.20
-  - 1.0.35
-  lastUpdated: 20230705183620
+  lastUpdated: 20230706045600

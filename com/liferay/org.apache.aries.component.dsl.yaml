@@ -1,9 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: org.apache.aries.component.dsl
 versioning:
+  latest: 1.2.2.LIFERAY-PATCHED-1
   release: 1.2.2.LIFERAY-PATCHED-1
   versions:
   - 1.2.2.LIFERAY-PATCHED-1
-  lastUpdated: 20230607170758
+  lastUpdated: 20230706053937

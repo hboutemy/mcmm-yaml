@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.headless.commerce.admin.account.api
 versioning:
   latest: 23.0.0
-  release: 20.1.0
+  release: 23.0.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -121,12 +122,12 @@ versioning:
   - 18.1.1
   - 18.2.0
   - 19.0.0
+  - 19.1.0
   - 20.0.0
+  - 20.1.0
   - 21.0.0
   - 21.1.0
   - 22.0.0
   - 22.1.0
   - 23.0.0
-  - 19.1.0
-  - 20.1.0
-  lastUpdated: 20230705185327
+  lastUpdated: 20230706014722

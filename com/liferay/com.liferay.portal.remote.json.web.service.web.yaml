@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.remote.json.web.service.web
 versioning:
-  latest: 1.0.11
+  latest: 1.0.18
   release: 1.0.18
   versions:
   - 1.0.0
@@ -25,4 +26,4 @@ versioning:
   - 1.0.17
   - 1.0.18
   - 1.0.8
-  lastUpdated: 20230629111439
+  lastUpdated: 20230706051805

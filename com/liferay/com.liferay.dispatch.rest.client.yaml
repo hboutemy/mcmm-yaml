@@ -1,12 +1,14 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.dispatch.rest.client
 versioning:
+  latest: 1.0.3
   release: 1.0.3
   versions:
   - 1.0.0
   - 1.0.1
   - 1.0.2
   - 1.0.3
-  lastUpdated: 20230420180847
+  lastUpdated: 20230706032715

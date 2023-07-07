@@ -3,8 +3,8 @@
 groupId: io.kestra.plugin
 artifactId: plugin-jdbc-snowflake
 versioning:
-  latest: 0.9.0
-  release: 0.9.0
+  latest: 0.10.0
+  release: 0.10.0
   versions:
   - 0.4.1
   - 0.4.2
@@ -15,4 +15,5 @@ versioning:
   - 0.6.1
   - 0.8.0
   - 0.9.0
-  lastUpdated: 20230524104000
+  - 0.10.0
+  lastUpdated: 20230706133649

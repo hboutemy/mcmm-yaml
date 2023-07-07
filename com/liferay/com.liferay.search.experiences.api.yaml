@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.search.experiences.api
 versioning:
-  latest: 12.1.0
+  latest: 26.2.0
   release: 26.2.0
   versions:
   - 1.0.0
@@ -35,15 +36,15 @@ versioning:
   - 20.0.0
   - 21.0.0
   - 22.0.0
-  - 23.0.0
   - 22.1.0
+  - 23.0.0
   - 24.0.0
   - 24.1.0
   - 24.1.1
   - 24.2.0
   - 25.0.0
-  - 26.0.0
   - 25.1.0
+  - 26.0.0
   - 26.1.0
   - 26.2.0
-  lastUpdated: 20230629132416
+  lastUpdated: 20230706055836

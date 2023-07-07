@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.segments.simulation.web
 versioning:
-  latest: 3.0.20
+  latest: 3.0.31
   release: 3.0.31
   versions:
   - 1.0.0
@@ -77,4 +78,4 @@ versioning:
   - 3.0.29
   - 3.0.30
   - 3.0.31
-  lastUpdated: 20230629111938
+  lastUpdated: 20230706061731

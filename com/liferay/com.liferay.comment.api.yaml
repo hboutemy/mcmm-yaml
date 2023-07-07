@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.comment.api
 versioning:
-  latest: 6.1.8
-  release: 4.5.2
+  latest: 7.0.0
+  release: 7.0.0
   versions:
   - 1.0.0
   - 2.0.0
@@ -39,6 +40,7 @@ versioning:
   - 3.2.16
   - 3.2.17
   - 3.2.18
+  - 3.2.19
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -75,6 +77,7 @@ versioning:
   - 4.4.4
   - 4.5.0
   - 4.5.1
+  - 4.5.2
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -106,6 +109,8 @@ versioning:
   - 5.5.5
   - 5.5.6
   - 5.5.7
+  - 5.5.8
+  - 5.5.9
   - 6.0.0
   - 6.0.1
   - 6.1.0
@@ -118,8 +123,4 @@ versioning:
   - 6.1.7
   - 6.1.8
   - 7.0.0
-  - 5.5.8
-  - 5.5.9
-  - 3.2.19
-  - 4.5.2
-  lastUpdated: 20230705174616
+  lastUpdated: 20230706013735

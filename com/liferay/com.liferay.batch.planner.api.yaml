@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.batch.planner.api
 versioning:
-  latest: 12.2.2
+  latest: 13.2.0
   release: 13.2.0
   versions:
   - 1.0.0
@@ -44,4 +45,4 @@ versioning:
   - 13.0.0
   - 13.1.0
   - 13.2.0
-  lastUpdated: 20230525183817
+  lastUpdated: 20230706034952
