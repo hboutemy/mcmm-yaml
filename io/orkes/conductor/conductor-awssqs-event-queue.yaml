@@ -3,8 +3,8 @@
 groupId: io.orkes.conductor
 artifactId: conductor-awssqs-event-queue
 versioning:
-  latest: 3.9.12-orkes
-  release: 3.9.12-orkes
+  latest: 3.9.15-orkes
+  release: 3.9.15-orkes
   versions:
   - 3.9.0-orkes-g
   - 3.9.0-orkes-h
@@ -25,4 +25,6 @@ versioning:
   - 3.9.10-orkes
   - 3.9.11-orkes
   - 3.9.12-orkes
-  lastUpdated: 20230627064358
+  - 3.9.13-orkes
+  - 3.9.15-orkes
+  lastUpdated: 20230707212454

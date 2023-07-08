@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-integration-test-jsonata
 versioning:
-  latest: 3.0.0-M2
-  release: 3.0.0-M2
+  latest: 3.0.0-RC1
+  release: 3.0.0-RC1
   versions:
   - 1.6.0
   - 1.7.0
@@ -38,4 +38,5 @@ versioning:
   - 2.16.0
   - 3.0.0-M1
   - 3.0.0-M2
-  lastUpdated: 20230529082613
+  - 3.0.0-RC1
+  lastUpdated: 20230707095058

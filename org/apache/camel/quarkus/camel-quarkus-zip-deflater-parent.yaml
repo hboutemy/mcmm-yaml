@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-zip-deflater-parent
 versioning:
-  latest: 3.0.0-M2
-  release: 3.0.0-M2
+  latest: 3.0.0-RC1
+  release: 3.0.0-RC1
   versions:
   - 1.0.0-M4
   - 1.0.0-M5
@@ -51,4 +51,5 @@ versioning:
   - 2.16.0
   - 3.0.0-M1
   - 3.0.0-M2
-  lastUpdated: 20230529091417
+  - 3.0.0-RC1
+  lastUpdated: 20230707104251

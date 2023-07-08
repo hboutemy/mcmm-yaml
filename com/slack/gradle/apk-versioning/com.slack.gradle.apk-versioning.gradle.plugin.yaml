@@ -3,8 +3,8 @@
 groupId: com.slack.gradle.apk-versioning
 artifactId: com.slack.gradle.apk-versioning.gradle.plugin
 versioning:
-  latest: 0.9.16-1.9.0-RC
-  release: 0.9.16-1.9.0-RC
+  latest: 0.9.17-1.9.0
+  release: 0.9.17-1.9.0
   versions:
   - 0.1.0
   - 0.1.1
@@ -85,4 +85,6 @@ versioning:
   - 0.9.15
   - 0.9.16
   - 0.9.16-1.9.0-RC
-  lastUpdated: 20230701031827
+  - 0.9.17
+  - 0.9.17-1.9.0
+  lastUpdated: 20230707213150
