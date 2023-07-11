@@ -3,8 +3,8 @@
 groupId: ch.epfl.bluebrain.nexus
 artifactId: delta-sourcing-psql_2.13
 versioning:
-  latest: 1.8.0
-  release: 1.8.0
+  latest: 1.9.0-M1
+  release: 1.9.0-M1
   versions:
   - 1.8.0-M4
   - 1.8.0-M5
@@ -16,4 +16,5 @@ versioning:
   - 1.8.0-M11
   - 1.8.0-M12
   - 1.8.0
-  lastUpdated: 20230614160235
+  - 1.9.0-M1
+  lastUpdated: 20230710140628

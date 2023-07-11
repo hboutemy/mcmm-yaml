@@ -3,8 +3,8 @@
 groupId: io.kubernetes
 artifactId: e2e-tests
 versioning:
-  latest: 18.0.0
-  release: 18.0.0
+  latest: 18.0.1
+  release: 18.0.1
   versions:
   - 10.0.0
   - 10.0.1
@@ -33,4 +33,5 @@ versioning:
   - 17.0.1
   - 17.0.2
   - 18.0.0
-  lastUpdated: 20230414012325
+  - 18.0.1
+  lastUpdated: 20230710180118
