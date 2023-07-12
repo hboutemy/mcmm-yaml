@@ -3,8 +3,8 @@
 groupId: com.teamscale
 artifactId: teamscale-config-test-fixtures
 versioning:
-  latest: 8.9.5
-  release: 8.9.5
+  latest: 8.9.6
+  release: 8.9.6
   versions:
   - 8.1.0-rc3
   - 8.1.0
@@ -168,6 +168,7 @@ versioning:
   - 8.7.15
   - 8.7.16
   - 8.7.17
+  - 8.7.18
   - 8.8.0-rc1
   - 8.8.0-rc2
   - 8.8.0-rc3
@@ -183,6 +184,7 @@ versioning:
   - 8.8.9
   - 8.8.10
   - 8.8.11
+  - 8.8.12
   - 8.9.0-rc1
   - 8.9.0-rc2
   - 8.9.0-rc3
@@ -192,4 +194,5 @@ versioning:
   - 8.9.3
   - 8.9.4
   - 8.9.5
-  lastUpdated: 20230704142047
+  - 8.9.6
+  lastUpdated: 20230711140725

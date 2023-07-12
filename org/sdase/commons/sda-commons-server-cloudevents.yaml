@@ -3,8 +3,8 @@
 groupId: org.sdase.commons
 artifactId: sda-commons-server-cloudevents
 versioning:
-  latest: 4.4.33
-  release: 4.4.33
+  latest: 4.4.34
+  release: 4.4.34
   versions:
   - 2.47.0
   - 2.47.1
@@ -301,6 +301,10 @@ versioning:
   - 2.64.64
   - 2.64.65
   - 2.64.66
+  - 2.64.67
+  - 2.64.68
+  - 2.64.69
+  - 2.64.70
   - 3.0.0-alpha.1
   - 3.0.0-alpha.2
   - 3.0.0-rc.1
@@ -421,4 +425,5 @@ versioning:
   - 4.4.31
   - 4.4.32
   - 4.4.33
-  lastUpdated: 20230710091400
+  - 4.4.34
+  lastUpdated: 20230711131058
