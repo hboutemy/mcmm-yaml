@@ -3,8 +3,8 @@
 groupId: org.mongodb.spark
 artifactId: mongo-spark-connector_2.12
 versioning:
-  latest: 10.1.1
-  release: 10.1.1
+  latest: 10.2.0
+  release: 10.2.0
   versions:
   - 2.4.0
   - 2.4.1
@@ -16,4 +16,5 @@ versioning:
   - 3.0.2
   - 10.1.0
   - 10.1.1
-  lastUpdated: 20230207145750
+  - 10.2.0
+  lastUpdated: 20230712092026

@@ -3,8 +3,8 @@
 groupId: org.sdase.commons
 artifactId: sda-commons-dependencies
 versioning:
-  latest: 4.4.34
-  release: 4.4.34
+  latest: 5.0.1
+  release: 5.0.1
   versions:
   - 0.80.6
   - 0.80.7
@@ -671,6 +671,8 @@ versioning:
   - 2.64.68
   - 2.64.69
   - 2.64.70
+  - 2.64.71
+  - 2.64.72
   - 3.0.0-alpha.1
   - 3.0.0-alpha.2
   - 3.0.0-rc.1
@@ -792,4 +794,6 @@ versioning:
   - 4.4.32
   - 4.4.33
   - 4.4.34
-  lastUpdated: 20230711131054
+  - 5.0.0
+  - 5.0.1
+  lastUpdated: 20230712123228

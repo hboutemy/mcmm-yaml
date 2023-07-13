@@ -3,8 +3,8 @@
 groupId: io.avaje
 artifactId: avaje-inject-test
 versioning:
-  latest: 9.3-RC3
-  release: 9.3-RC3
+  latest: 9.3-javax
+  release: 9.3-javax
   versions:
   - 3.1
   - 3.3
@@ -119,4 +119,6 @@ versioning:
   - 9.3-RC1
   - 9.3-RC2
   - 9.3-RC3
-  lastUpdated: 20230704213510
+  - 9.3
+  - 9.3-javax
+  lastUpdated: 20230712204856

@@ -3,8 +3,8 @@
 groupId: org.openmrs.maven.archetypes
 artifactId: openmrs-sdk-archetype-module-platform
 versioning:
-  latest: 4.4.0
-  release: 4.4.0
+  latest: 5.1.0
+  release: 5.1.0
   versions:
   - 3.1.1
   - 3.1.2
@@ -41,4 +41,7 @@ versioning:
   - 4.2.0
   - 4.3.0
   - 4.4.0
-  lastUpdated: 20220315151212
+  - 4.6.0
+  - 5.0.0
+  - 5.1.0
+  lastUpdated: 20230712180039
