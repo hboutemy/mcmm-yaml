@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.saml.persistence.service
 versioning:
   latest: 5.0.51
-  release: 5.0.51
+  release: 5.0.52
   versions:
   - 1.0.43
   - 1.0.44
@@ -119,4 +118,5 @@ versioning:
   - 5.0.49
   - 5.0.50
   - 5.0.51
-  lastUpdated: 20230706023240
+  - 5.0.52
+  lastUpdated: 20230713150151

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.workflow.metrics.rest.impl
 versioning:
   latest: 3.0.73
-  release: 3.0.73
+  release: 3.0.74
   versions:
   - 1.0.38
   - 1.0.39
@@ -166,4 +165,5 @@ versioning:
   - 3.0.71
   - 3.0.72
   - 3.0.73
-  lastUpdated: 20230706021850
+  - 3.0.74
+  lastUpdated: 20230713151554

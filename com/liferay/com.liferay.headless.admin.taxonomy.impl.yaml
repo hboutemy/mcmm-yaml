@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.headless.admin.taxonomy.impl
 versioning:
   latest: 5.0.66
-  release: 5.0.66
+  release: 5.0.67
   versions:
   - 1.0.0
   - 1.0.1
@@ -326,5 +325,6 @@ versioning:
   - 5.0.64
   - 5.0.65
   - 5.0.66
+  - 5.0.67
   - 3.0.81
-  lastUpdated: 20230706023900
+  lastUpdated: 20230713134809

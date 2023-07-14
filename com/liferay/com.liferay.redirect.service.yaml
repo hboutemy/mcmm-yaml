@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.redirect.service
 versioning:
   latest: 2.0.55
-  release: 2.0.55
+  release: 2.0.56
   versions:
   - 1.0.0
   - 1.0.1
@@ -119,4 +118,5 @@ versioning:
   - 2.0.53
   - 2.0.54
   - 2.0.55
-  lastUpdated: 20230706065319
+  - 2.0.56
+  lastUpdated: 20230713112010

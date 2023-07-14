@@ -3,8 +3,8 @@
 groupId: org.springframework
 artifactId: spring-framework-bom
 versioning:
-  latest: 6.0.10
-  release: 6.0.10
+  latest: 6.0.11
+  release: 6.0.11
   versions:
   - 3.2.6.RELEASE
   - 3.2.7.RELEASE
@@ -147,6 +147,7 @@ versioning:
   - 5.2.22.RELEASE
   - 5.2.23.RELEASE
   - 5.2.24.RELEASE
+  - 5.2.25.RELEASE
   - 5.3.0
   - 5.3.1
   - 5.3.2
@@ -176,6 +177,7 @@ versioning:
   - 5.3.26
   - 5.3.27
   - 5.3.28
+  - 5.3.29
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -187,4 +189,5 @@ versioning:
   - 6.0.8
   - 6.0.9
   - 6.0.10
-  lastUpdated: 20230615113241
+  - 6.0.11
+  lastUpdated: 20230713085535

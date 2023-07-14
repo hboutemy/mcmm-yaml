@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.poshi.core
 versioning:
   latest: 1.0.124
-  release: 1.0.124
+  release: 1.0.125
   versions:
   - 1.0.0
   - 1.0.1
@@ -132,4 +131,5 @@ versioning:
   - 1.0.122
   - 1.0.123
   - 1.0.124
-  lastUpdated: 20230706055726
+  - 1.0.125
+  lastUpdated: 20230713025021

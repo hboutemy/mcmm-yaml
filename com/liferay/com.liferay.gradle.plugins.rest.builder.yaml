@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.gradle.plugins.rest.builder
 versioning:
   latest: 1.1.187
-  release: 1.1.187
+  release: 1.1.190
   versions:
   - 1.0.0
   - 1.0.1
@@ -318,5 +317,8 @@ versioning:
   - 1.1.185
   - 1.1.186
   - 1.1.187
+  - 1.1.188
+  - 1.1.189
+  - 1.1.190
   - 1.1.39
-  lastUpdated: 20230706070017
+  lastUpdated: 20230713075737

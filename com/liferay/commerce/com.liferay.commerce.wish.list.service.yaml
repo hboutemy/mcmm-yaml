@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.wish.list.service
 versioning:
   latest: 4.0.44
-  release: 4.0.44
+  release: 4.0.45
   versions:
   - 1.0.0
   - 1.0.1
@@ -152,4 +151,5 @@ versioning:
   - 4.0.42
   - 4.0.43
   - 4.0.44
-  lastUpdated: 20230706015749
+  - 4.0.45
+  lastUpdated: 20230713130207

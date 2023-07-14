@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.machine.learning.forecast.alert.service
 versioning:
   latest: 5.0.31
-  release: 5.0.31
+  release: 5.0.32
   versions:
   - 2.0.0
   - 2.0.24
@@ -81,4 +80,5 @@ versioning:
   - 5.0.29
   - 5.0.30
   - 5.0.31
-  lastUpdated: 20230706014042
+  - 5.0.32
+  lastUpdated: 20230713145030

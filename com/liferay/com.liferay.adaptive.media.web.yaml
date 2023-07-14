@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.adaptive.media.web
 versioning:
   latest: 5.0.63
-  release: 5.0.63
+  release: 5.0.64
   versions:
   - 1.0.0
   - 1.0.1
@@ -339,4 +338,5 @@ versioning:
   - 5.0.61
   - 5.0.62
   - 5.0.63
-  lastUpdated: 20230706060551
+  - 5.0.64
+  lastUpdated: 20230713114536
