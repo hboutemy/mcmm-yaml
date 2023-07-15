@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.segments.asah.connector
 versioning:
   latest: 3.0.47
-  release: 3.0.47
+  release: 2.0.34
   versions:
   - 1.0.0
   - 1.0.1
@@ -100,4 +99,5 @@ versioning:
   - 3.0.45
   - 3.0.46
   - 3.0.47
-  lastUpdated: 20230706023135
+  - 2.0.34
+  lastUpdated: 20230714093004

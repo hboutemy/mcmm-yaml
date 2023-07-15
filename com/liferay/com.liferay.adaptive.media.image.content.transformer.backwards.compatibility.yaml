@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.adaptive.media.image.content.transformer.backwards.compatibility
 versioning:
   latest: 5.0.19
-  release: 5.0.19
+  release: 4.0.16
   versions:
   - 1.0.0
   - 1.0.1
@@ -70,4 +69,5 @@ versioning:
   - 5.0.16
   - 5.0.18
   - 5.0.19
-  lastUpdated: 20230706021827
+  - 4.0.16
+  lastUpdated: 20230714080930

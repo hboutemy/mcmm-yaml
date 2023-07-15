@@ -3,8 +3,8 @@
 groupId: org.springframework.data
 artifactId: spring-data-neo4j
 versioning:
-  latest: 7.1.1
-  release: 7.1.1
+  latest: 7.1.2
+  release: 7.1.2
   versions:
   - 1.0.0.RELEASE
   - 1.1.0.RELEASE
@@ -193,6 +193,7 @@ versioning:
   - 6.3.11
   - 6.3.12
   - 6.3.13
+  - 6.3.14
   - 7.0.0
   - 7.0.1
   - 7.0.2
@@ -201,10 +202,12 @@ versioning:
   - 7.0.5
   - 7.0.6
   - 7.0.7
+  - 7.0.8
   - 7.1.0
   - 7.1.1
+  - 7.1.2
   - 5.2.13.RELEASE
   - 5.3.7.RELEASE
   - 6.0.4
   - 6.0.5
-  lastUpdated: 20230616154504
+  lastUpdated: 20230714121907

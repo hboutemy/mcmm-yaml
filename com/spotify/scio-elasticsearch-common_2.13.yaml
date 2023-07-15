@@ -3,9 +3,11 @@
 groupId: com.spotify
 artifactId: scio-elasticsearch-common_2.13
 versioning:
-  latest: 0.13.0
-  release: 0.13.0
+  latest: 0.14.0-dev1
+  release: 0.14.0-dev1
   versions:
   - 0.13.0-RC1
   - 0.13.0
-  lastUpdated: 20230621174954
+  - 0.14.0-dev0
+  - 0.14.0-dev1
+  lastUpdated: 20230714205623
