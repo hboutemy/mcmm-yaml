@@ -3,12 +3,14 @@
 groupId: io.github.rediscala
 artifactId: rediscala_2.13
 versioning:
-  latest: 1.13.1
-  release: 1.13.1
+  latest: 1.14.0-pekko
+  release: 1.14.0-pekko
   versions:
   - 1.10.0
   - 1.11.0
   - 1.12.0
   - 1.13.0
   - 1.13.1
-  lastUpdated: 20230506040439
+  - 1.14.0-akka
+  - 1.14.0-pekko
+  lastUpdated: 20230715002155
