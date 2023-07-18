@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.remote.http.tunnel.extender
 versioning:
   latest: 6.0.15
-  release: 6.0.15
+  release: 2.0.32
   versions:
   - 1.0.0
   - 2.0.0
@@ -120,4 +119,5 @@ versioning:
   - 6.0.13
   - 6.0.14
   - 6.0.15
-  lastUpdated: 20230706065717
+  - 2.0.32
+  lastUpdated: 20230717082140

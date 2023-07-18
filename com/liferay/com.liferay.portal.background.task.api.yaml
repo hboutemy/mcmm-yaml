@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.background.task.api
 versioning:
   latest: 7.6.0
-  release: 7.6.0
+  release: 2.2.0
   versions:
   - 1.0.0
   - 2.0.0
@@ -112,4 +111,5 @@ versioning:
   - 7.4.1
   - 7.5.0
   - 7.6.0
-  lastUpdated: 20230706022126
+  - 2.2.0
+  lastUpdated: 20230717081913

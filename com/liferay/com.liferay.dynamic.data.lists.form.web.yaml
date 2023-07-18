@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.dynamic.data.lists.form.web
 versioning:
   latest: 2.0.72
-  release: 2.0.72
+  release: 2.0.73
   versions:
   - 1.0.0
   - 1.0.1
@@ -113,4 +112,5 @@ versioning:
   - 2.0.70
   - 2.0.71
   - 2.0.72
-  lastUpdated: 20230706054656
+  - 2.0.73
+  lastUpdated: 20230717095951

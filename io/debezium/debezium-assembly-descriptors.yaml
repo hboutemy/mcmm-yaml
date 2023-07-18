@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-assembly-descriptors
 versioning:
-  latest: 2.3.0.Final
-  release: 2.3.0.Final
+  latest: 2.4.0.Alpha1
+  release: 2.4.0.Alpha1
   versions:
   - 0.1.0
   - 0.2.0
@@ -167,5 +167,6 @@ versioning:
   - 2.3.0.Beta1
   - 2.3.0.CR1
   - 2.3.0.Final
+  - 2.4.0.Alpha1
   - 1.5.0.Alpha1
-  lastUpdated: 20230620153347
+  lastUpdated: 20230717114706
