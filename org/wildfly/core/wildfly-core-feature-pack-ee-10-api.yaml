@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-core-feature-pack-ee-10-api
 versioning:
-  latest: 21.1.0.Beta2
-  release: 21.1.0.Beta2
+  latest: 21.1.0.Final
+  release: 21.1.0.Final
   versions:
   - 19.0.0.Beta17
   - 19.0.0.Beta18
@@ -27,4 +27,5 @@ versioning:
   - 21.0.0.Beta4
   - 21.1.0.Beta1
   - 21.1.0.Beta2
-  lastUpdated: 20230703121536
+  - 21.1.0.Final
+  lastUpdated: 20230717115201

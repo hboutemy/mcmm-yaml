@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: gitlab
 versioning:
-  latest: 6.1.0
-  release: 6.1.0
+  latest: 6.2.0-alpha.1689690121+7b7f7cf0
+  release: 6.2.0-alpha.1689690121+7b7f7cf0
   versions:
   - 4.9.0-alpha.1666628674+a29b05ea
   - 4.9.0
@@ -51,4 +51,6 @@ versioning:
   - 6.1.0-alpha.1687929913+7611ebce
   - 6.1.0-alpha.1688977388+74bb1cc3
   - 6.1.0
-  lastUpdated: 20230710091355
+  - 6.1.1
+  - 6.2.0-alpha.1689690121+7b7f7cf0
+  lastUpdated: 20230718151754

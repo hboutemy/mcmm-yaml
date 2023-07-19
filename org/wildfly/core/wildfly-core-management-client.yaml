@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-core-management-client
 versioning:
-  latest: 21.1.0.Beta2
-  release: 21.1.0.Beta2
+  latest: 21.1.0.Final
+  release: 21.1.0.Final
   versions:
   - 3.0.0.Alpha13
   - 3.0.0.Alpha14
@@ -249,4 +249,5 @@ versioning:
   - 21.0.0.Beta4
   - 21.1.0.Beta1
   - 21.1.0.Beta2
-  lastUpdated: 20230703121536
+  - 21.1.0.Final
+  lastUpdated: 20230717115201

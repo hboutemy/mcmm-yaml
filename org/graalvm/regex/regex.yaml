@@ -3,8 +3,8 @@
 groupId: org.graalvm.regex
 artifactId: regex
 versioning:
-  latest: 23.0.0
-  release: 23.0.0
+  latest: 23.0.1
+  release: 23.0.1
   versions:
   - 1.0.0-rc8
   - 1.0.0-rc9
@@ -47,6 +47,7 @@ versioning:
   - 20.3.8
   - 20.3.9
   - 20.3.10
+  - 20.3.11
   - 21.0.0
   - 21.0.0.2
   - 21.1.0
@@ -60,6 +61,7 @@ versioning:
   - 21.3.4
   - 21.3.5
   - 21.3.6
+  - 21.3.7
   - 22.0.0
   - 22.0.0.2
   - 22.1.0
@@ -69,5 +71,7 @@ versioning:
   - 22.3.0
   - 22.3.1
   - 22.3.2
+  - 22.3.3
   - 23.0.0
-  lastUpdated: 20230613145927
+  - 23.0.1
+  lastUpdated: 20230718135113
