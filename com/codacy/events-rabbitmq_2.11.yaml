@@ -3,8 +3,8 @@
 groupId: com.codacy
 artifactId: events-rabbitmq_2.11
 versioning:
-  latest: 5.3.0_circe_0.11.1
-  release: 5.3.0_circe_0.11.1
+  latest: 5.3.1_circe_0.11.1
+  release: 5.3.1_circe_0.11.1
   versions:
   - 2.0.0-cleanup.76cd279_circe_0.8.0
   - 2.0.0-cleanup.76cd279_circe_0.9.1
@@ -144,4 +144,7 @@ versioning:
   - 5.3.0_circe_0.8.0
   - 5.3.0_circe_0.9.1
   - 5.3.0_circe_0.11.1
-  lastUpdated: 20230609123404
+  - 5.3.1_circe_0.8.0
+  - 5.3.1_circe_0.9.1
+  - 5.3.1_circe_0.11.1
+  lastUpdated: 20230719162330
