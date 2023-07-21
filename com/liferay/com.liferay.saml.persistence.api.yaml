@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.saml.persistence.api
 versioning:
   latest: 11.2.0
-  release: 11.2.0
+  release: 1.1.0
   versions:
   - 1.0.23
   - 1.0.24
@@ -80,4 +79,5 @@ versioning:
   - 11.0.0
   - 11.1.0
   - 11.2.0
-  lastUpdated: 20230706034812
+  - 1.1.0
+  lastUpdated: 20230720093325

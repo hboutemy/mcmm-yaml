@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.plugins
 artifactId: sharepoint-hook
 versioning:
   latest: 7.2.10.24
-  release: 7.2.10.24
+  release: 7.0.10.42
   versions:
   - 7.0.10.28
   - 7.0.10.29
@@ -49,4 +48,5 @@ versioning:
   - 7.2.10.22
   - 7.2.10.23
   - 7.2.10.24
-  lastUpdated: 20230706050339
+  - 7.0.10.42
+  lastUpdated: 20230720093451

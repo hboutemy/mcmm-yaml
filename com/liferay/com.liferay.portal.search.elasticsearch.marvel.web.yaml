@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.search.elasticsearch.marvel.web
 versioning:
   latest: 1.0.43
-  release: 1.0.43
+  release: 1.0.44
   versions:
   - 1.0.34
   - 1.0.35
@@ -17,4 +16,5 @@ versioning:
   - 1.0.41
   - 1.0.42
   - 1.0.43
-  lastUpdated: 20230706013816
+  - 1.0.44
+  lastUpdated: 20230720093002

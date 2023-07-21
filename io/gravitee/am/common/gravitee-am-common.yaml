@@ -3,8 +3,8 @@
 groupId: io.gravitee.am.common
 artifactId: gravitee-am-common
 versioning:
-  latest: 3.21.2
-  release: 3.21.2
+  latest: 3.21.4
+  release: 3.21.4
   versions:
   - 2.1.0
   - 2.1.1
@@ -222,6 +222,7 @@ versioning:
   - 3.19.11
   - 3.19.12
   - 3.19.13
+  - 3.19.16
   - 3.20.0-alpha.1
   - 3.20.0-alpha.2
   - 3.20.0
@@ -233,6 +234,7 @@ versioning:
   - 3.20.6
   - 3.20.7
   - 3.20.8
+  - 3.20.10
   - 3.21.0-alpha.1
   - 3.21.0-alpha.2
   - 3.21.0-alpha.3
@@ -241,4 +243,5 @@ versioning:
   - 3.21.0
   - 3.21.1
   - 3.21.2
-  lastUpdated: 20230628205153
+  - 3.21.4
+  lastUpdated: 20230720170323
