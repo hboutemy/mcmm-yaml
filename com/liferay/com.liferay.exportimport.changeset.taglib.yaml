@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.exportimport.changeset.taglib
 versioning:
   latest: 4.0.20
-  release: 4.0.20
+  release: 1.0.25
   versions:
   - 1.0.0
   - 1.0.1
@@ -89,4 +88,5 @@ versioning:
   - 4.0.18
   - 4.0.19
   - 4.0.20
-  lastUpdated: 20230706070206
+  - 1.0.25
+  lastUpdated: 20230721144626

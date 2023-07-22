@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-jsr77
 versioning:
-  latest: 29.0.0.Beta1
-  release: 29.0.0.Beta1
+  latest: 29.0.0.Final
+  release: 29.0.0.Final
   versions:
   - 8.0.0.Alpha1
   - 8.0.0.Alpha2
@@ -113,4 +113,5 @@ versioning:
   - 28.0.1.Final
   - 29.0.0.Alpha1
   - 29.0.0.Beta1
-  lastUpdated: 20230705183916
+  - 29.0.0.Final
+  lastUpdated: 20230720170733

@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-clustering-ejb-client
 versioning:
-  latest: 29.0.0.Beta1
-  release: 29.0.0.Beta1
+  latest: 29.0.0.Final
+  release: 29.0.0.Final
   versions:
   - 25.0.0.Final
   - 25.0.1.Final
@@ -29,4 +29,5 @@ versioning:
   - 28.0.1.Final
   - 29.0.0.Alpha1
   - 29.0.0.Beta1
-  lastUpdated: 20230705183843
+  - 29.0.0.Final
+  lastUpdated: 20230720170657

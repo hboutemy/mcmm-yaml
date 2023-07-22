@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.bulk.selection.impl
 versioning:
   latest: 3.0.12
-  release: 3.0.12
+  release: 1.0.11
   versions:
   - 1.0.0
   - 1.0.1
@@ -44,4 +43,5 @@ versioning:
   - 3.0.10
   - 3.0.11
   - 3.0.12
-  lastUpdated: 20230706012639
+  - 1.0.11
+  lastUpdated: 20230721190157

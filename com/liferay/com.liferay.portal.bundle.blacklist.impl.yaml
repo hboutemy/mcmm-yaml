@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.bundle.blacklist.impl
 versioning:
   latest: 4.0.19
-  release: 4.0.19
+  release: 2.0.24
   versions:
   - 1.0.0
   - 1.0.1
@@ -97,4 +96,6 @@ versioning:
   - 4.0.17
   - 4.0.18
   - 4.0.19
-  lastUpdated: 20230706041327
+  - 1.0.23
+  - 2.0.24
+  lastUpdated: 20230721203037

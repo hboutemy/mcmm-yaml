@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.document.library.asset.auto.tagger.microsoft.cognitive.services
 versioning:
   latest: 3.0.18
-  release: 3.0.18
+  release: 1.0.35
   versions:
   - 1.0.0
   - 1.0.1
@@ -87,4 +86,5 @@ versioning:
   - 3.0.16
   - 3.0.17
   - 3.0.18
-  lastUpdated: 20230706070130
+  - 1.0.35
+  lastUpdated: 20230721212752

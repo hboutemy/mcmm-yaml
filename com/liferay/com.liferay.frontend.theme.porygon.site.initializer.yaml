@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.theme.porygon.site.initializer
 versioning:
   latest: 3.0.4
-  release: 3.0.4
+  release: 2.0.35
   versions:
   - 1.0.0
   - 1.0.1
@@ -72,4 +71,6 @@ versioning:
   - 3.0.2
   - 3.0.3
   - 3.0.4
-  lastUpdated: 20230706031504
+  - 1.0.25
+  - 2.0.35
+  lastUpdated: 20230721180127

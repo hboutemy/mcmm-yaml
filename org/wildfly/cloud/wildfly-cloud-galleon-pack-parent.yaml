@@ -3,8 +3,8 @@
 groupId: org.wildfly.cloud
 artifactId: wildfly-cloud-galleon-pack-parent
 versioning:
-  latest: 4.0.0.Beta1
-  release: 4.0.0.Beta1
+  latest: 4.0.0.Final
+  release: 4.0.0.Final
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -31,4 +31,5 @@ versioning:
   - 2.0.1.Final
   - 3.0.0.Final
   - 4.0.0.Beta1
-  lastUpdated: 20230718130028
+  - 4.0.0.Final
+  lastUpdated: 20230720171810

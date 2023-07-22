@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.reading.time.web
 versioning:
   latest: 4.0.19
-  release: 4.0.19
+  release: 2.0.22
   versions:
   - 1.0.0
   - 1.0.1
@@ -98,4 +97,6 @@ versioning:
   - 4.0.17
   - 4.0.18
   - 4.0.19
-  lastUpdated: 20230706065815
+  - 1.0.25
+  - 2.0.22
+  lastUpdated: 20230721192212

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.organizations.item.selector.api
 versioning:
   latest: 4.1.0
-  release: 4.1.0
+  release: 2.0.5
   versions:
   - 1.0.0
   - 1.0.1
@@ -34,4 +33,6 @@ versioning:
   - 4.0.4
   - 4.0.5
   - 4.1.0
-  lastUpdated: 20230706060708
+  - 1.0.7
+  - 2.0.5
+  lastUpdated: 20230721200624

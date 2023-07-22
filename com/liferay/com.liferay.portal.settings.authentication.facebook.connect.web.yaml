@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.settings.authentication.facebook.connect.web
 versioning:
   latest: 5.0.13
-  release: 5.0.13
+  release: 2.0.11
   versions:
   - 1.0.0
   - 1.0.1
@@ -76,4 +75,5 @@ versioning:
   - 5.0.11
   - 5.0.12
   - 5.0.13
-  lastUpdated: 20230706045839
+  - 2.0.11
+  lastUpdated: 20230721140411

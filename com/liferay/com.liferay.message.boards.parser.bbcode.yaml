@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.message.boards.parser.bbcode
 versioning:
   latest: 6.0.11
-  release: 6.0.11
+  release: 4.0.9
   versions:
   - 1.0.0
   - 2.0.0
@@ -69,4 +68,6 @@ versioning:
   - 6.0.9
   - 6.0.10
   - 6.0.11
-  lastUpdated: 20230706041335
+  - 3.0.8
+  - 4.0.9
+  lastUpdated: 20230721205233

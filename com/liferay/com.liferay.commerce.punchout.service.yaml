@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.commerce.punchout.service
 versioning:
   latest: 4.0.16
-  release: 4.0.16
+  release: 1.0.17
   versions:
   - 1.0.10
   - 1.0.11
@@ -41,4 +40,5 @@ versioning:
   - 4.0.14
   - 4.0.15
   - 4.0.16
-  lastUpdated: 20230706050556
+  - 1.0.17
+  lastUpdated: 20230721164049

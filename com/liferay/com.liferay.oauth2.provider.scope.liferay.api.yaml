@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.oauth2.provider.scope.liferay.api
 versioning:
   latest: 5.0.0
-  release: 5.0.0
+  release: 2.1.9
   versions:
   - 1.0.0
   - 1.0.1
@@ -47,4 +46,6 @@ versioning:
   - 4.0.3
   - 4.0.4
   - 5.0.0
-  lastUpdated: 20230706012755
+  - 1.1.7
+  - 2.1.9
+  lastUpdated: 20230721193715

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise
 versioning:
   latest: 4.0.18
-  release: 4.0.18
+  release: 2.0.45
   versions:
   - 1.0.48
   - 1.0.49
@@ -51,4 +50,5 @@ versioning:
   - 4.0.16
   - 4.0.17
   - 4.0.18
-  lastUpdated: 20230706070140
+  - 2.0.45
+  lastUpdated: 20230721162624

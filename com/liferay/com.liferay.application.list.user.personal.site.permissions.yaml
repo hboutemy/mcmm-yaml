@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.application.list.user.personal.site.permissions
 versioning:
   latest: 6.0.11
-  release: 6.0.11
+  release: 4.0.8
   versions:
   - 1.0.0
   - 2.0.0
@@ -63,4 +62,6 @@ versioning:
   - 6.0.9
   - 6.0.10
   - 6.0.11
-  lastUpdated: 20230706061821
+  - 3.0.9
+  - 4.0.8
+  lastUpdated: 20230721211910

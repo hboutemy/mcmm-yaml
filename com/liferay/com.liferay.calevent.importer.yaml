@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.calevent.importer
 versioning:
   latest: 5.0.16
-  release: 5.0.16
+  release: 3.0.13
   versions:
   - 1.0.0
   - 1.0.1
@@ -95,4 +94,6 @@ versioning:
   - 5.0.14
   - 5.0.15
   - 5.0.16
-  lastUpdated: 20230706044418
+  - 2.0.17
+  - 3.0.13
+  lastUpdated: 20230721220324

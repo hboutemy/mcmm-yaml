@@ -3,8 +3,8 @@
 groupId: io.gravitee.apim.repository
 artifactId: gravitee-apim-repository-elasticsearch
 versioning:
-  latest: 4.0.0-alpha.4
-  release: 4.0.0-alpha.4
+  latest: 4.0.0
+  release: 4.0.0
   versions:
   - 3.5.31
   - 3.10.15
@@ -100,4 +100,5 @@ versioning:
   - 4.0.0-alpha.2
   - 4.0.0-alpha.3
   - 4.0.0-alpha.4
-  lastUpdated: 20230720185719
+  - 4.0.0
+  lastUpdated: 20230721150955

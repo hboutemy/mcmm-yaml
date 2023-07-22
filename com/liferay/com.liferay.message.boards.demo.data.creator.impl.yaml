@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.message.boards.demo.data.creator.impl
 versioning:
   latest: 4.0.9
-  release: 4.0.9
+  release: 2.0.6
   versions:
   - 1.0.0
   - 1.0.1
@@ -43,4 +42,6 @@ versioning:
   - 4.0.7
   - 4.0.8
   - 4.0.9
-  lastUpdated: 20230706065748
+  - 1.0.11
+  - 2.0.6
+  lastUpdated: 20230721213623

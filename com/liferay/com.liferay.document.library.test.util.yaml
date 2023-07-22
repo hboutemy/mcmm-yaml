@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.document.library.test.util
 versioning:
   latest: 4.0.14
-  release: 4.0.14
+  release: 2.2.8
   versions:
   - 1.0.0
   - 1.0.1
@@ -49,4 +48,6 @@ versioning:
   - 4.0.12
   - 4.0.13
   - 4.0.14
-  lastUpdated: 20230706051443
+  - 1.0.5
+  - 2.2.8
+  lastUpdated: 20230721175032

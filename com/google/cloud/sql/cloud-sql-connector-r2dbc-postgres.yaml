@@ -3,8 +3,8 @@
 groupId: com.google.cloud.sql
 artifactId: cloud-sql-connector-r2dbc-postgres
 versioning:
-  latest: 1.13.0
-  release: 1.13.0
+  latest: 1.13.1
+  release: 1.13.1
   versions:
   - 1.1.0
   - 1.2.0
@@ -24,6 +24,7 @@ versioning:
   - 1.11.2
   - 1.12.0
   - 1.13.0
+  - 1.13.1
   - 1.2.2
   - 1.2.3
   - 1.3.0
@@ -40,4 +41,4 @@ versioning:
   - 1.6.0
   - 1.6.1
   - 1.6.2
-  lastUpdated: 20230712004038
+  lastUpdated: 20230721155949

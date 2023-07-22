@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.machine.learning.forecast.alert.api
 versioning:
   latest: 8.3.0
-  release: 8.3.0
+  release: 2.0.19
   versions:
   - 2.0.0
   - 2.0.2
@@ -66,4 +65,5 @@ versioning:
   - 8.1.0
   - 8.2.0
   - 8.3.0
-  lastUpdated: 20230706015054
+  - 2.0.19
+  lastUpdated: 20230721162118
