@@ -3,8 +3,8 @@
 groupId: org.scalatra
 artifactId: scalatra-json_2.12
 versioning:
-  latest: 3.0.0-M4-jakarta
-  release: 3.0.0-M4-jakarta
+  latest: 3.0.0-M5-javax
+  release: 3.0.0-M5-javax
   versions:
   - 2.5.0-RC1
   - 2.5.0
@@ -31,4 +31,6 @@ versioning:
   - 3.0.0-M3
   - 3.0.0-M4
   - 3.0.0-M4-jakarta
-  lastUpdated: 20230611132511
+  - 3.0.0-M5-jakarta
+  - 3.0.0-M5-javax
+  lastUpdated: 20230722120908
