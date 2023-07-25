@@ -3,8 +3,8 @@
 groupId: com.azure
 artifactId: azure-core-http-netty
 versioning:
-  latest: 1.13.5
-  release: 1.13.5
+  latest: 1.14.0-beta.1
+  release: 1.14.0-beta.1
   versions:
   - 1.0.0
   - 1.0.0-preview.4
@@ -58,4 +58,5 @@ versioning:
   - 1.13.3
   - 1.13.4
   - 1.13.5
-  lastUpdated: 20230707224959
+  - 1.14.0-beta.1
+  lastUpdated: 20230724232031

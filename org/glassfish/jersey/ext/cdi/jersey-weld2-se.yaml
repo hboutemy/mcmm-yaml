@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.ext.cdi
 artifactId: jersey-weld2-se
 versioning:
-  latest: 3.1.2
-  release: 3.1.2
+  latest: 3.1.3
+  release: 3.1.3
   versions:
   - 2.15
   - 2.16
@@ -78,4 +78,5 @@ versioning:
   - 3.1.0
   - 3.1.1
   - 3.1.2
-  lastUpdated: 20230712044821
+  - 3.1.3
+  lastUpdated: 20230724084230

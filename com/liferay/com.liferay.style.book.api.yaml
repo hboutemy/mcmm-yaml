@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.style.book.api
 versioning:
   latest: 4.3.0
-  release: 4.3.0
+  release: 1.7.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -41,4 +40,5 @@ versioning:
   - 4.1.1
   - 4.2.0
   - 4.3.0
-  lastUpdated: 20230706052129
+  - 1.7.1
+  lastUpdated: 20230724084029

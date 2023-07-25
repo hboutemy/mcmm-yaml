@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.view.count.api
 versioning:
   latest: 3.4.0
-  release: 3.4.0
+  release: 1.7.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -56,4 +55,5 @@ versioning:
   - 3.2.0
   - 3.3.0
   - 3.4.0
-  lastUpdated: 20230706053545
+  - 1.7.1
+  lastUpdated: 20230724105003
