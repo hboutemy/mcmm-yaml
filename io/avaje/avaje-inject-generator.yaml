@@ -3,8 +3,8 @@
 groupId: io.avaje
 artifactId: avaje-inject-generator
 versioning:
-  latest: 9.4-RC4
-  release: 9.4-RC4
+  latest: 9.4-javax
+  release: 9.4-javax
   versions:
   - 0.9
   - 1.0
@@ -140,4 +140,6 @@ versioning:
   - 9.4-RC2
   - 9.4-RC3
   - 9.4-RC4
-  lastUpdated: 20230723102346
+  - 9.4
+  - 9.4-javax
+  lastUpdated: 20230725074847

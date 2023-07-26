@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.app.builder.workflow.web
 versioning:
   latest: 2.0.3
-  release: 2.0.3
+  release: 1.0.46
   versions:
   - 1.0.20
   - 1.0.21
@@ -37,4 +36,5 @@ versioning:
   - 2.0.1
   - 2.0.2
   - 2.0.3
-  lastUpdated: 20230706050933
+  - 1.0.46
+  lastUpdated: 20230725041240

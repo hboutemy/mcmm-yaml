@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.app.builder.workflow.rest.client
 versioning:
   latest: 2.0.2
-  release: 2.0.2
+  release: 1.0.25
   versions:
   - 1.0.5
   - 1.0.6
@@ -30,4 +29,5 @@ versioning:
   - 2.0.0
   - 2.0.1
   - 2.0.2
-  lastUpdated: 20230706025106
+  - 1.0.25
+  lastUpdated: 20230725034207

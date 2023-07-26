@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: postgresql
 versioning:
-  latest: 3.9.0
-  release: 3.9.0
+  latest: 3.10.0-alpha.1690264243+9fa6867a
+  release: 3.10.0-alpha.1690264243+9fa6867a
   versions:
   - 3.6.0-alpha.1661293361+3b92a88b
   - 3.6.0
@@ -41,4 +41,5 @@ versioning:
   - 3.9.0-alpha.1689315090+345e1894
   - 3.9.0-alpha.1689896978+859ee321
   - 3.9.0
-  lastUpdated: 20230721211516
+  - 3.10.0-alpha.1690264243+9fa6867a
+  lastUpdated: 20230725062632

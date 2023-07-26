@@ -3,10 +3,12 @@
 groupId: io.github.spotim
 artifactId: spotim-core
 versioning:
-  latest: 1.18.0
-  release: 1.18.0
+  latest: 1.19.1-BetaSDK
+  release: 1.19.1-BetaSDK
   versions:
   - 1.18.0
+  - 1.19.0-BetaSDK
+  - 1.19.1-BetaSDK
   - '"1.17.3.9"'
   - 1.17.2
   - 1.17.3
@@ -27,4 +29,4 @@ versioning:
   - 1.17.3.4
   - 1.17.3.5
   - 1.17.3.6
-  lastUpdated: 20230709095244
+  lastUpdated: 20230725143755

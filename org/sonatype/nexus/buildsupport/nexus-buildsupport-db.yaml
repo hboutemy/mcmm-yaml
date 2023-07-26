@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.buildsupport
 artifactId: nexus-buildsupport-db
 versioning:
-  latest: 3.58.1-01
-  release: 3.58.1-01
+  latest: 3.58.1-02
+  release: 3.58.1-02
   versions:
   - 2.8.0-01
   - 2.8.0-05
@@ -180,6 +180,8 @@ versioning:
   - 3.56.0-01
   - 3.57.0-01
   - 3.57.1-02
+  - 3.57.1-03
   - 3.58.0-01
   - 3.58.1-01
-  lastUpdated: 20230721221150
+  - 3.58.1-02
+  lastUpdated: 20230725115310
