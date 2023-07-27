@@ -3,8 +3,8 @@
 groupId: org.ops4j.pax.web.samples
 artifactId: limit-post-config-fragment-undertow
 versioning:
-  latest: 9.0.9
-  release: 9.0.9
+  latest: 9.0.10
+  release: 9.0.10
   versions:
   - 8.0.0
   - 8.0.1
@@ -27,6 +27,7 @@ versioning:
   - 8.0.18
   - 8.0.19
   - 8.0.20
+  - 8.0.21
   - 9.0.0
   - 9.0.1
   - 9.0.2
@@ -37,4 +38,5 @@ versioning:
   - 9.0.7
   - 9.0.8
   - 9.0.9
-  lastUpdated: 20230419063408
+  - 9.0.10
+  lastUpdated: 20230726183205
