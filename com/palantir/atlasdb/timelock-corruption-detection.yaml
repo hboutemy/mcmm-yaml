@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: timelock-corruption-detection
 versioning:
-  latest: 0.905.0
-  release: 0.905.0
+  latest: 0.907.0
+  release: 0.907.0
   versions:
   - 0.311.6
   - 0.311.7
@@ -712,4 +712,6 @@ versioning:
   - 0.902.0
   - 0.904.0
   - 0.905.0
-  lastUpdated: 20230726094654
+  - 0.906.0
+  - 0.907.0
+  lastUpdated: 20230727181859

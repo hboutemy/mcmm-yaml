@@ -3,8 +3,8 @@
 groupId: org.flywaydb
 artifactId: flyway-gcp-spanner
 versioning:
-  latest: 9.21.0-beta
-  release: 9.21.0-beta
+  latest: 9.21.1-beta
+  release: 9.21.1-beta
   versions:
   - 7.11.0-beta
   - 7.11.1-beta
@@ -91,4 +91,5 @@ versioning:
   - 9.15.1-beta
   - 9.20.1-beta
   - 9.21.0-beta
-  lastUpdated: 20230720085508
+  - 9.21.1-beta
+  lastUpdated: 20230727101322
