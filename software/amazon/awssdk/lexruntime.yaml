@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: lexruntime
 versioning:
-  latest: 2.20.113
-  release: 2.20.113
+  latest: 2.20.115
+  release: 2.20.115
   versions:
   - 2.0.0-preview-12
   - 2.0.0-preview-13
@@ -1079,4 +1079,6 @@ versioning:
   - 2.20.111
   - 2.20.112
   - 2.20.113
-  lastUpdated: 20230727201537
+  - 2.20.114
+  - 2.20.115
+  lastUpdated: 20230728201210

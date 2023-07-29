@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-emr
 versioning:
-  latest: 1.12.516
-  release: 1.12.516
+  latest: 1.12.518
+  release: 1.12.518
   versions:
   - 1.9.0
   - 1.9.1
@@ -1683,4 +1683,6 @@ versioning:
   - 1.12.514
   - 1.12.515
   - 1.12.516
-  lastUpdated: 20230727211249
+  - 1.12.517
+  - 1.12.518
+  lastUpdated: 20230728211035
