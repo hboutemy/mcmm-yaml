@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.micronaut
 artifactId: micronaut-bom
 versioning:
-  latest: 3.9.4
-  release: 3.9.4
+  latest: 3.10.0
+  release: 3.10.0
   versions:
   - 1.0.0.RC3
   - 1.0.0
@@ -162,4 +162,6 @@ versioning:
   - 3.9.2
   - 3.9.3
   - 3.9.4
-  lastUpdated: 20230623151831
+  - 3.9.5
+  - 3.10.0
+  lastUpdated: 20230730203006
