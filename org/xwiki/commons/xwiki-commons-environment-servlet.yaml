@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.commons
 artifactId: xwiki-commons-environment-servlet
 versioning:
-  latest: 15.6-rc-1
-  release: 15.6-rc-1
+  latest: 15.6
+  release: 15.6
   versions:
   - 3.5-milestone-1
   - 3.5
@@ -425,4 +425,5 @@ versioning:
   - 15.5
   - 15.5.1
   - 15.6-rc-1
-  lastUpdated: 20230729081809
+  - 15.6
+  lastUpdated: 20230731090233

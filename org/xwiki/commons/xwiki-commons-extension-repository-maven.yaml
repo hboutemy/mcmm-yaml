@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.commons
 artifactId: xwiki-commons-extension-repository-maven
 versioning:
-  latest: 15.6-rc-1
-  release: 15.6-rc-1
+  latest: 15.6
+  release: 15.6
   versions:
   - 4.2-milestone-1
   - 4.2-milestone-2
@@ -409,4 +409,5 @@ versioning:
   - 15.5
   - 15.5.1
   - 15.6-rc-1
-  lastUpdated: 20230729081812
+  - 15.6
+  lastUpdated: 20230731090237

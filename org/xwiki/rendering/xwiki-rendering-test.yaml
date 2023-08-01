@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.rendering
 artifactId: xwiki-rendering-test
 versioning:
-  latest: 15.6-rc-1
-  release: 15.6-rc-1
+  latest: 15.6
+  release: 15.6
   versions:
   - 3.2-milestone-3
   - 3.2-rc-1
@@ -434,4 +434,5 @@ versioning:
   - 15.5
   - 15.5.1
   - 15.6-rc-1
-  lastUpdated: 20230729082723
+  - 15.6
+  lastUpdated: 20230731091351

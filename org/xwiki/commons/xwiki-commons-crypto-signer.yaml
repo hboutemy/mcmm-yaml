@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.commons
 artifactId: xwiki-commons-crypto-signer
 versioning:
-  latest: 15.6-rc-1
-  release: 15.6-rc-1
+  latest: 15.6
+  release: 15.6
   versions:
   - 6.0-milestone-1
   - 6.0-milestone-2
@@ -357,4 +357,5 @@ versioning:
   - 15.5
   - 15.5.1
   - 15.6-rc-1
-  lastUpdated: 20230729081804
+  - 15.6
+  lastUpdated: 20230731090228

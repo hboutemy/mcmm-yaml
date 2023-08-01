@@ -3,8 +3,8 @@
 groupId: org.apache.camel.kafkaconnector
 artifactId: camel-syslog-kafka-connector
 versioning:
-  latest: 3.20.3
-  release: 3.20.3
+  latest: 3.20.6
+  release: 3.20.6
   versions:
   - 0.2.0
   - 0.3.0
@@ -29,4 +29,5 @@ versioning:
   - 3.19.0
   - 3.20.0
   - 3.20.3
-  lastUpdated: 20230426123939
+  - 3.20.6
+  lastUpdated: 20230731162735
