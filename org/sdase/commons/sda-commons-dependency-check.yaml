@@ -3,8 +3,8 @@
 groupId: org.sdase.commons
 artifactId: sda-commons-dependency-check
 versioning:
-  latest: 5.2.12
-  release: 5.2.12
+  latest: 5.2.13
+  release: 5.2.13
   versions:
   - 0.80.6
   - 0.80.7
@@ -684,6 +684,9 @@ versioning:
   - 2.64.81
   - 2.64.82
   - 2.64.83
+  - 2.64.84
+  - 2.64.85
+  - 2.64.86
   - 3.0.0-alpha.1
   - 3.0.0-alpha.2
   - 3.0.0-rc.1
@@ -821,4 +824,5 @@ versioning:
   - 5.2.10
   - 5.2.11
   - 5.2.12
-  lastUpdated: 20230731161347
+  - 5.2.13
+  lastUpdated: 20230801103043
