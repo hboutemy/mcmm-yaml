@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-integration-test-stax
 versioning:
-  latest: 3.0.0-RC1
-  release: 3.0.0-RC1
+  latest: 3.0.0-RC2
+  release: 3.0.0-RC2
   versions:
   - 1.7.0
   - 1.8.0
@@ -37,4 +37,5 @@ versioning:
   - 2.16.0
   - 3.0.0-M2
   - 3.0.0-RC1
-  lastUpdated: 20230707100029
+  - 3.0.0-RC2
+  lastUpdated: 20230802114956

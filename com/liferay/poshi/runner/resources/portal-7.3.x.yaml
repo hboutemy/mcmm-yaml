@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.poshi.runner.resources
 artifactId: portal-7.3.x
 versioning:
   latest: 20230614-8023ee1
-  release: 20230614-8023ee1
+  release: 20230802-8546c18
   versions:
   - 20200811-cdc353a
   - 20201104-da538cb
@@ -30,4 +29,5 @@ versioning:
   - 20230330-b8ba199
   - 20230405-4a44d12
   - 20230614-8023ee1
-  lastUpdated: 20230706032723
+  - 20230802-8546c18
+  lastUpdated: 20230802165647

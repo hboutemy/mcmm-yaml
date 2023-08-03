@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-support-debezium-parent
 versioning:
-  latest: 3.0.0-RC1
-  release: 3.0.0-RC1
+  latest: 3.0.0-RC2
+  release: 3.0.0-RC2
   versions:
   - 1.0.0-M6
   - 1.0.0-M7
@@ -50,4 +50,5 @@ versioning:
   - 3.0.0-M1
   - 3.0.0-M2
   - 3.0.0-RC1
-  lastUpdated: 20230707103422
+  - 3.0.0-RC2
+  lastUpdated: 20230802121713
