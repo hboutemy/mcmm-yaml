@@ -3,8 +3,8 @@
 groupId: io.github.cmu-phil
 artifactId: tetrad-gui
 versioning:
-  latest: 7.4.0
-  release: 7.4.0
+  latest: 7.5.0-jdk1.8
+  release: 7.5.0-jdk1.8
   versions:
   - 7.1.0
   - 7.1.1
@@ -20,4 +20,6 @@ versioning:
   - 7.3.3
   - 7.3.4
   - 7.4.0
-  lastUpdated: 20230518214349
+  - 7.5.0
+  - 7.5.0-jdk1.8
+  lastUpdated: 20230803204513

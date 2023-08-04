@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: newrelic
 versioning:
-  latest: 5.14.0
-  release: 5.14.0
+  latest: 5.15.0-alpha.1691055778+c0375c6a
+  release: 5.15.0-alpha.1691055778+c0375c6a
   versions:
   - 4.20.0-alpha.1661884582+853a0ea8
   - 4.20.0
@@ -77,4 +77,6 @@ versioning:
   - 5.14.0-alpha.1689314023+b640c99b
   - 5.14.0-alpha.1690263706+327236f7
   - 5.14.0
-  lastUpdated: 20230726103106
+  - 5.15.0-alpha.1691042289+9235e099
+  - 5.15.0-alpha.1691055778+c0375c6a
+  lastUpdated: 20230803100748

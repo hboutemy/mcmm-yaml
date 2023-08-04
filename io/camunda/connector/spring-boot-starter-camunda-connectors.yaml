@@ -3,8 +3,8 @@
 groupId: io.camunda.connector
 artifactId: spring-boot-starter-camunda-connectors
 versioning:
-  latest: 0.21.4
-  release: 0.21.4
+  latest: 0.22.0-alpha2
+  release: 0.22.0-alpha2
   versions:
   - 0.19.0-alpha1
   - 0.19.0-rc3
@@ -26,4 +26,5 @@ versioning:
   - 0.21.2
   - 0.21.3
   - 0.21.4
-  lastUpdated: 20230728141123
+  - 0.22.0-alpha2
+  lastUpdated: 20230803134439

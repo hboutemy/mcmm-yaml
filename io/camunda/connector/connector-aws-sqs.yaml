@@ -3,8 +3,8 @@
 groupId: io.camunda.connector
 artifactId: connector-aws-sqs
 versioning:
-  latest: 0.21.4
-  release: 0.21.4
+  latest: 0.22.0-alpha2
+  release: 0.22.0-alpha2
   versions:
   - 0.20.3
   - 0.21.0
@@ -12,4 +12,5 @@ versioning:
   - 0.21.2
   - 0.21.3
   - 0.21.4
-  lastUpdated: 20230728141103
+  - 0.22.0-alpha2
+  lastUpdated: 20230803134417
