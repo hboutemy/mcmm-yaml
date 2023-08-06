@@ -3,11 +3,12 @@
 groupId: io.quarkiverse.amazonservices
 artifactId: quarkus-amazon-sts
 versioning:
-  latest: 2.4.2
-  release: 2.4.2
+  latest: 2.4.3
+  release: 2.4.3
   versions:
   - 1.8.0
   - 1.9.0
+  - 1.9.1
   - 2.1.0
   - 2.1.1
   - 2.2.0
@@ -18,4 +19,5 @@ versioning:
   - 2.4.0
   - 2.4.1
   - 2.4.2
-  lastUpdated: 20230726182246
+  - 2.4.3
+  lastUpdated: 20230805164807
