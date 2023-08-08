@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.scripting.executor
 versioning:
-  latest: 7.0.10
+  latest: 7.0.11
   release: 7.0.11
   versions:
   - 1.0.0
@@ -39,6 +40,7 @@ versioning:
   - 4.0.8
   - 4.0.9
   - 4.0.10
+  - 4.0.11
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -48,6 +50,7 @@ versioning:
   - 5.0.6
   - 5.0.7
   - 5.0.8
+  - 5.0.9
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -58,6 +61,7 @@ versioning:
   - 6.0.7
   - 6.0.8
   - 6.0.9
+  - 6.0.10
   - 7.0.0
   - 7.0.1
   - 7.0.2
@@ -69,8 +73,5 @@ versioning:
   - 7.0.8
   - 7.0.9
   - 7.0.10
-  - 4.0.11
-  - 5.0.9
-  - 6.0.10
   - 7.0.11
-  lastUpdated: 20230731010433
+  lastUpdated: 20230807192849

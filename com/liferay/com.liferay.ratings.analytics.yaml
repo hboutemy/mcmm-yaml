@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.ratings.analytics
 versioning:
-  latest: 4.0.10
+  latest: 4.0.11
   release: 4.0.11
   versions:
   - 1.0.0
@@ -12,6 +13,7 @@ versioning:
   - 1.0.3
   - 1.0.4
   - 1.0.5
+  - 1.0.6
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -20,6 +22,7 @@ versioning:
   - 2.0.5
   - 2.0.6
   - 2.0.7
+  - 2.0.8
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -30,6 +33,7 @@ versioning:
   - 3.0.7
   - 3.0.8
   - 3.0.9
+  - 3.0.10
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -41,8 +45,5 @@ versioning:
   - 4.0.8
   - 4.0.9
   - 4.0.10
-  - 1.0.6
-  - 2.0.8
-  - 3.0.10
   - 4.0.11
-  lastUpdated: 20230730233553
+  lastUpdated: 20230807223703

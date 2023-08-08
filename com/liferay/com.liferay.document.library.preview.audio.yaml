@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.document.library.preview.audio
 versioning:
-  latest: 3.0.16
+  latest: 3.0.17
   release: 3.0.17
   versions:
   - 1.0.0
@@ -29,6 +30,7 @@ versioning:
   - 1.0.20
   - 1.0.21
   - 1.0.22
+  - 1.0.23
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -42,6 +44,7 @@ versioning:
   - 2.0.10
   - 2.0.11
   - 2.0.12
+  - 2.0.13
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -59,7 +62,5 @@ versioning:
   - 3.0.14
   - 3.0.15
   - 3.0.16
-  - 1.0.23
-  - 2.0.13
   - 3.0.17
-  lastUpdated: 20230731073857
+  lastUpdated: 20230807212029

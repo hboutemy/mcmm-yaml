@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.elasticsearch7
 versioning:
-  latest: 4.0.14
+  latest: 4.0.15
   release: 4.0.15
   versions:
   - 3.0.0
@@ -18,6 +19,7 @@ versioning:
   - 3.0.9
   - 3.0.10
   - 3.0.11
+  - 3.0.12
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -33,6 +35,5 @@ versioning:
   - 4.0.12
   - 4.0.13
   - 4.0.14
-  - 3.0.12
   - 4.0.15
-  lastUpdated: 20230731053611
+  lastUpdated: 20230807182436

@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty
 artifactId: jetty-unixdomain-server
 versioning:
-  latest: 12.0.0.beta4
-  release: 12.0.0.beta4
+  latest: 12.0.0
+  release: 12.0.0
   versions:
   - 10.0.7
   - 10.0.8
@@ -33,4 +33,5 @@ versioning:
   - 12.0.0.beta2
   - 12.0.0.beta3
   - 12.0.0.beta4
-  lastUpdated: 20230727133916
+  - 12.0.0
+  lastUpdated: 20230807184036

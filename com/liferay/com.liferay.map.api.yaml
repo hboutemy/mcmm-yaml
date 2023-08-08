@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.map.api
 versioning:
-  latest: 7.0.0
+  latest: 7.0.1
   release: 7.0.1
   versions:
   - 1.0.0
@@ -26,6 +27,7 @@ versioning:
   - 3.0.3
   - 3.0.4
   - 3.0.5
+  - 3.0.6
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -38,6 +40,7 @@ versioning:
   - 4.0.9
   - 4.0.10
   - 4.0.11
+  - 4.0.12
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -48,6 +51,7 @@ versioning:
   - 5.0.7
   - 5.0.8
   - 5.0.9
+  - 5.0.10
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -55,8 +59,5 @@ versioning:
   - 6.0.4
   - 6.0.5
   - 7.0.0
-  - 3.0.6
-  - 4.0.12
-  - 5.0.10
   - 7.0.1
-  lastUpdated: 20230731013843
+  lastUpdated: 20230807210545

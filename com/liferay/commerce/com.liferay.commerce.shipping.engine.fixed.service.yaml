@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.shipping.engine.fixed.service
 versioning:
-  latest: 4.0.46
+  latest: 4.0.48
   release: 4.0.48
   versions:
   - 1.0.0
@@ -56,6 +57,7 @@ versioning:
   - 1.0.47
   - 1.0.48
   - 1.0.49
+  - 1.0.50
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -70,6 +72,7 @@ versioning:
   - 2.0.11
   - 2.0.12
   - 2.0.13
+  - 2.0.14
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -98,6 +101,7 @@ versioning:
   - 3.0.25
   - 3.0.26
   - 3.0.27
+  - 3.0.28
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -146,8 +150,5 @@ versioning:
   - 4.0.45
   - 4.0.46
   - 4.0.47
-  - 1.0.50
-  - 2.0.14
-  - 3.0.28
   - 4.0.48
-  lastUpdated: 20230731081656
+  lastUpdated: 20230807180907

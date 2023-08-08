@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.currency.web
 versioning:
-  latest: 4.0.41
+  latest: 4.0.42
   release: 4.0.42
   versions:
   - 1.0.0
@@ -45,10 +46,12 @@ versioning:
   - 1.0.36
   - 1.0.37
   - 1.0.38
+  - 1.0.39
   - 2.0.0
   - 2.0.1
   - 2.0.2
   - 2.0.3
+  - 2.0.4
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -61,6 +64,7 @@ versioning:
   - 3.0.9
   - 3.0.10
   - 3.0.11
+  - 3.0.12
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -103,8 +107,5 @@ versioning:
   - 4.0.39
   - 4.0.40
   - 4.0.41
-  - 1.0.39
-  - 2.0.4
-  - 3.0.12
   - 4.0.42
-  lastUpdated: 20230731095402
+  lastUpdated: 20230807184810

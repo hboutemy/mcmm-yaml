@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.asset.tags.api
 versioning:
-  latest: 5.0.7
+  latest: 5.0.8
   release: 5.0.8
   versions:
   - 1.0.0
@@ -18,11 +19,13 @@ versioning:
   - 2.0.1
   - 2.0.2
   - 2.0.3
+  - 2.0.4
   - 3.0.0
   - 3.0.1
   - 3.0.2
   - 3.0.3
   - 3.0.4
+  - 3.0.5
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -31,6 +34,7 @@ versioning:
   - 4.0.5
   - 4.0.6
   - 4.0.7
+  - 4.0.8
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -39,8 +43,5 @@ versioning:
   - 5.0.5
   - 5.0.6
   - 5.0.7
-  - 2.0.4
-  - 3.0.5
-  - 4.0.8
   - 5.0.8
-  lastUpdated: 20230731053133
+  lastUpdated: 20230807222305

@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.headless.commerce.delivery.cart.api
 versioning:
-  latest: 18.3.0
+  latest: 18.4.0
   release: 18.4.0
   versions:
   - 1.0.0
@@ -96,13 +97,17 @@ versioning:
   - 14.0.0
   - 14.0.1
   - 14.0.2
+  - 14.1.0
   - 15.0.0
   - 15.0.1
   - 15.0.2
+  - 15.1.0
   - 16.0.0
   - 16.0.1
   - 16.0.2
   - 16.1.0
+  - 16.1.1
+  - 16.2.0
   - 17.0.0
   - 17.0.1
   - 17.0.2
@@ -113,9 +118,5 @@ versioning:
   - 18.2.0
   - 18.3.0
   - 18.3.1
-  - 16.1.1
-  - 14.1.0
-  - 15.1.0
-  - 16.2.0
   - 18.4.0
-  lastUpdated: 20230731042324
+  lastUpdated: 20230807175741

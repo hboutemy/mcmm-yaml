@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.workflow.kaleo.metrics.integration
 versioning:
-  latest: 2.0.20
+  latest: 2.0.22
   release: 2.0.22
   versions:
   - 1.0.6
@@ -11,6 +12,8 @@ versioning:
   - 1.0.8
   - 1.0.9
   - 1.0.10
+  - 1.0.11
+  - 1.0.12
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -33,7 +36,5 @@ versioning:
   - 2.0.19
   - 2.0.20
   - 2.0.21
-  - 1.0.11
-  - 1.0.12
   - 2.0.22
-  lastUpdated: 20230801033509
+  lastUpdated: 20230807223959

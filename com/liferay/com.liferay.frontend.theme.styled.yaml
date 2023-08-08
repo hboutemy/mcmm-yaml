@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.theme.styled
 versioning:
-  latest: 6.0.64
+  latest: 6.0.66
   release: 6.0.66
   versions:
   - 1.0.0
@@ -68,6 +69,7 @@ versioning:
   - 2.1.24
   - 2.1.25
   - 2.1.26
+  - 2.1.27
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -157,6 +159,7 @@ versioning:
   - 4.0.46
   - 4.0.47
   - 4.0.48
+  - 4.0.49
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -208,6 +211,8 @@ versioning:
   - 5.0.48
   - 5.0.49
   - 5.0.50
+  - 5.0.51
+  - 5.0.52
   - 6.0.0
   - 6.0.2
   - 6.0.3
@@ -273,9 +278,5 @@ versioning:
   - 6.0.63
   - 6.0.64
   - 6.0.65
-  - 5.0.51
-  - 2.1.27
-  - 4.0.49
-  - 5.0.52
   - 6.0.66
-  lastUpdated: 20230730225654
+  lastUpdated: 20230807193534

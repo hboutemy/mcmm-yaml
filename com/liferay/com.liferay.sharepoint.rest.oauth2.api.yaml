@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.sharepoint.rest.oauth2.api
 versioning:
-  latest: 6.3.0
+  latest: 6.3.1
   release: 6.3.1
   versions:
   - 1.0.20
@@ -13,6 +14,7 @@ versioning:
   - 1.0.24
   - 1.0.25
   - 1.0.26
+  - 1.1.0
   - 2.0.13
   - 2.0.14
   - 2.0.15
@@ -21,6 +23,7 @@ versioning:
   - 2.0.18
   - 2.0.19
   - 2.1.0
+  - 2.1.1
   - 3.0.9
   - 3.0.10
   - 3.0.11
@@ -29,6 +32,7 @@ versioning:
   - 3.0.14
   - 3.0.15
   - 3.1.0
+  - 3.1.1
   - 4.1.0
   - 4.1.1
   - 4.2.0
@@ -46,6 +50,7 @@ versioning:
   - 4.3.3
   - 4.4.0
   - 4.5.0
+  - 4.5.1
   - 5.0.0
   - 5.1.0
   - 5.1.1
@@ -59,9 +64,5 @@ versioning:
   - 6.1.0
   - 6.2.0
   - 6.3.0
-  - 1.1.0
-  - 2.1.1
-  - 3.1.1
-  - 4.5.1
   - 6.3.1
-  lastUpdated: 20230801032733
+  lastUpdated: 20230807203421

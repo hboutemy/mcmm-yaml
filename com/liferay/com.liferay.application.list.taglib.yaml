@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.application.list.taglib
 versioning:
-  latest: 7.0.6
+  latest: 7.0.7
   release: 7.0.7
   versions:
   - 1.0.0
@@ -48,6 +49,7 @@ versioning:
   - 3.0.12
   - 3.0.13
   - 3.0.14
+  - 3.0.15
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -67,6 +69,7 @@ versioning:
   - 4.0.16
   - 4.0.17
   - 4.0.18
+  - 4.0.19
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -84,6 +87,7 @@ versioning:
   - 5.0.14
   - 5.0.15
   - 5.0.16
+  - 5.0.17
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -104,8 +108,5 @@ versioning:
   - 7.0.4
   - 7.0.5
   - 7.0.6
-  - 3.0.15
-  - 4.0.19
-  - 5.0.17
   - 7.0.7
-  lastUpdated: 20230731030203
+  lastUpdated: 20230807194307

@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.screens.api
 versioning:
   latest: 7.1.0
-  release: 6.1.1
+  release: 7.1.0
   versions:
   - 1.0.0
   - 2.0.0
@@ -31,6 +32,7 @@ versioning:
   - 3.3.14
   - 3.3.15
   - 3.3.16
+  - 3.4.0
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -42,6 +44,7 @@ versioning:
   - 4.0.8
   - 4.0.9
   - 4.1.0
+  - 4.1.1
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -53,6 +56,7 @@ versioning:
   - 5.0.8
   - 5.0.9
   - 5.1.0
+  - 5.1.1
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -67,6 +71,7 @@ versioning:
   - 6.0.11
   - 6.0.12
   - 6.1.0
+  - 6.1.1
   - 7.0.0
   - 7.0.1
   - 7.0.2
@@ -74,8 +79,4 @@ versioning:
   - 7.0.4
   - 7.0.5
   - 7.1.0
-  - 3.4.0
-  - 4.1.1
-  - 5.1.1
-  - 6.1.1
-  lastUpdated: 20230724140107
+  lastUpdated: 20230807174933

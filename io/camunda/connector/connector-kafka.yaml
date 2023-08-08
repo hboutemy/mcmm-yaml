@@ -3,8 +3,8 @@
 groupId: io.camunda.connector
 artifactId: connector-kafka
 versioning:
-  latest: 0.22.0-alpha2
-  release: 0.22.0-alpha2
+  latest: 0.22.0
+  release: 0.22.0
   versions:
   - 0.1.0
   - 0.14.0
@@ -48,4 +48,5 @@ versioning:
   - 0.21.3
   - 0.21.4
   - 0.22.0-alpha2
-  lastUpdated: 20230803134424
+  - 0.22.0
+  lastUpdated: 20230807153848

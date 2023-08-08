@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.change.tracking.rest.api
 versioning:
-  latest: 2.1.0
+  latest: 2.3.0
   release: 2.3.0
   versions:
   - 1.0.0
@@ -12,4 +13,4 @@ versioning:
   - 2.1.0
   - 2.2.0
   - 2.3.0
-  lastUpdated: 20230731030807
+  lastUpdated: 20230807210621

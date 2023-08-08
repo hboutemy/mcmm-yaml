@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.shop.by.diagram.api
 versioning:
-  latest: 8.2.0
+  latest: 8.2.1
   release: 8.2.1
   versions:
   - 1.0.0
@@ -34,4 +35,4 @@ versioning:
   - 8.1.0
   - 8.2.0
   - 8.2.1
-  lastUpdated: 20230731054127
+  lastUpdated: 20230807181649

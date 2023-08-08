@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.item.selector.upload.web
 versioning:
-  latest: 6.0.15
+  latest: 6.0.16
   release: 6.0.16
   versions:
   - 1.0.0
@@ -33,6 +34,7 @@ versioning:
   - 3.0.4
   - 3.0.5
   - 3.0.6
+  - 3.0.7
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -48,6 +50,7 @@ versioning:
   - 4.0.12
   - 4.0.13
   - 4.0.14
+  - 4.0.15
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -61,6 +64,7 @@ versioning:
   - 5.0.10
   - 5.0.11
   - 5.0.12
+  - 5.0.13
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -77,8 +81,5 @@ versioning:
   - 6.0.13
   - 6.0.14
   - 6.0.15
-  - 3.0.7
-  - 4.0.15
-  - 5.0.13
   - 6.0.16
-  lastUpdated: 20230731082627
+  lastUpdated: 20230807203844

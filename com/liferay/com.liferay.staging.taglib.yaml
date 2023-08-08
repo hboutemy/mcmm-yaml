@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.staging.taglib
 versioning:
-  latest: 7.0.43
+  latest: 7.0.44
   release: 7.0.44
   versions:
   - 1.0.0
@@ -109,6 +110,7 @@ versioning:
   - 4.1.34
   - 4.1.35
   - 4.1.36
+  - 4.1.37
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -153,6 +155,7 @@ versioning:
   - 5.0.41
   - 5.0.42
   - 5.0.43
+  - 5.0.44
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -190,6 +193,8 @@ versioning:
   - 6.0.34
   - 6.0.35
   - 6.0.36
+  - 6.0.37
+  - 6.0.38
   - 7.0.0
   - 7.0.1
   - 7.0.2
@@ -234,9 +239,5 @@ versioning:
   - 7.0.41
   - 7.0.42
   - 7.0.43
-  - 6.0.37
-  - 4.1.37
-  - 5.0.44
-  - 6.0.38
   - 7.0.44
-  lastUpdated: 20230731101655
+  lastUpdated: 20230807202323

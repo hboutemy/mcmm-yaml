@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.pop.notifications
 versioning:
-  latest: 6.0.14
+  latest: 6.0.15
   release: 6.0.15
   versions:
   - 1.0.0
@@ -32,6 +33,7 @@ versioning:
   - 3.0.6
   - 3.0.7
   - 3.0.8
+  - 3.0.9
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -44,6 +46,7 @@ versioning:
   - 4.0.9
   - 4.0.10
   - 4.0.11
+  - 4.0.12
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -57,6 +60,7 @@ versioning:
   - 5.0.10
   - 5.0.11
   - 5.0.12
+  - 5.0.13
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -72,8 +76,5 @@ versioning:
   - 6.0.12
   - 6.0.13
   - 6.0.14
-  - 3.0.9
-  - 4.0.12
-  - 5.0.13
   - 6.0.15
-  lastUpdated: 20230730231835
+  lastUpdated: 20230807203734

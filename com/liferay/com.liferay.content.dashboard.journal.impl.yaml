@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.content.dashboard.journal.impl
 versioning:
-  latest: 2.0.29
+  latest: 2.0.31
   release: 2.0.31
   versions:
   - 1.0.0
@@ -14,6 +15,7 @@ versioning:
   - 1.0.5
   - 1.0.6
   - 1.0.7
+  - 1.0.8
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -45,6 +47,5 @@ versioning:
   - 2.0.28
   - 2.0.29
   - 2.0.30
-  - 1.0.8
   - 2.0.31
-  lastUpdated: 20230731064414
+  lastUpdated: 20230807214940

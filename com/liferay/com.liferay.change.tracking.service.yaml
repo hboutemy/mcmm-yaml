@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.change.tracking.service
 versioning:
-  latest: 3.0.73
+  latest: 3.0.75
   release: 3.0.75
   versions:
   - 1.0.0
@@ -109,6 +110,8 @@ versioning:
   - 2.0.78
   - 2.0.79
   - 2.0.80
+  - 2.0.81
+  - 2.0.82
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -184,7 +187,5 @@ versioning:
   - 3.0.72
   - 3.0.73
   - 3.0.74
-  - 2.0.81
-  - 2.0.82
   - 3.0.75
-  lastUpdated: 20230731053515
+  lastUpdated: 20230807221143

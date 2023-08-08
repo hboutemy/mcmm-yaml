@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.analytics.settings.impl
 versioning:
-  latest: 8.0.0
+  latest: 9.0.1
   release: 9.0.1
   versions:
   - 1.0.0
@@ -108,12 +109,12 @@ versioning:
   - 5.0.28
   - 5.0.29
   - 6.0.0
-  - 7.0.0
-  - 8.0.0
-  - 9.0.0
-  - 8.0.1
   - 6.0.1
+  - 7.0.0
   - 7.0.1
+  - 8.0.0
+  - 8.0.1
   - 8.0.2
+  - 9.0.0
   - 9.0.1
-  lastUpdated: 20230731043121
+  lastUpdated: 20230807223944

@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.sharepoint.soap.repository
 versioning:
-  latest: 5.0.14
+  latest: 5.0.15
   release: 5.0.15
   versions:
   - 1.0.13
@@ -43,6 +44,7 @@ versioning:
   - 3.0.5
   - 3.0.6
   - 3.0.7
+  - 3.0.8
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -53,6 +55,7 @@ versioning:
   - 4.0.7
   - 4.0.8
   - 4.0.9
+  - 4.0.10
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -67,7 +70,5 @@ versioning:
   - 5.0.12
   - 5.0.13
   - 5.0.14
-  - 3.0.8
-  - 4.0.10
   - 5.0.15
-  lastUpdated: 20230801032809
+  lastUpdated: 20230807212845

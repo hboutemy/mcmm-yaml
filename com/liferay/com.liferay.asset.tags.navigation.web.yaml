@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.asset.tags.navigation.web
 versioning:
-  latest: 7.0.27
+  latest: 7.0.28
   release: 7.0.28
   versions:
   - 1.0.0
@@ -57,6 +58,7 @@ versioning:
   - 3.0.35
   - 3.0.36
   - 3.0.37
+  - 3.0.38
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -88,6 +90,7 @@ versioning:
   - 4.0.28
   - 4.0.29
   - 4.0.30
+  - 4.0.31
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -127,6 +130,7 @@ versioning:
   - 5.0.36
   - 5.0.37
   - 5.0.38
+  - 5.0.39
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -161,6 +165,7 @@ versioning:
   - 6.0.31
   - 6.0.32
   - 6.0.33
+  - 6.0.34
   - 7.0.0
   - 7.0.1
   - 7.0.2
@@ -189,9 +194,5 @@ versioning:
   - 7.0.25
   - 7.0.26
   - 7.0.27
-  - 3.0.38
-  - 4.0.31
-  - 5.0.39
-  - 6.0.34
   - 7.0.28
-  lastUpdated: 20230731085729
+  lastUpdated: 20230807224209

@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.petra.sql.dsl.spi
 versioning:
-  latest: 3.3.1
+  latest: 3.3.2
   release: 3.3.2
   versions:
   - 1.0.0
@@ -18,6 +19,7 @@ versioning:
   - 1.1.6
   - 1.1.7
   - 1.2.0
+  - 1.2.1
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -30,6 +32,5 @@ versioning:
   - 3.2.0
   - 3.3.0
   - 3.3.1
-  - 1.2.1
   - 3.3.2
-  lastUpdated: 20230730220149
+  lastUpdated: 20230807191802

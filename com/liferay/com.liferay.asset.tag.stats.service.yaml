@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.asset.tag.stats.service
 versioning:
-  latest: 2.0.31
+  latest: 2.0.32
   release: 2.0.32
   versions:
   - 1.0.0
@@ -45,6 +46,7 @@ versioning:
   - 1.0.36
   - 1.0.37
   - 1.0.38
+  - 1.0.39
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -77,6 +79,5 @@ versioning:
   - 2.0.29
   - 2.0.30
   - 2.0.31
-  - 1.0.39
   - 2.0.32
-  lastUpdated: 20230721190108
+  lastUpdated: 20230807203204

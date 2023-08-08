@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.price.list.service
 versioning:
-  latest: 4.0.65
+  latest: 4.0.69
   release: 4.0.69
   versions:
   - 1.0.0
@@ -78,6 +79,7 @@ versioning:
   - 1.0.69
   - 1.0.70
   - 1.0.71
+  - 1.0.72
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -96,6 +98,7 @@ versioning:
   - 2.0.15
   - 2.0.16
   - 2.0.17
+  - 2.0.18
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -139,6 +142,7 @@ versioning:
   - 3.0.40
   - 3.0.41
   - 3.0.42
+  - 3.0.43
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -208,8 +212,5 @@ versioning:
   - 4.0.66
   - 4.0.67
   - 4.0.68
-  - 1.0.72
-  - 2.0.18
-  - 3.0.43
   - 4.0.69
-  lastUpdated: 20230731090351
+  lastUpdated: 20230807182039
