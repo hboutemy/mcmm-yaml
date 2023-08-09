@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.bean.portlet.registration.impl
 versioning:
-  latest: 2.0.16
+  latest: 2.0.17
   release: 2.0.17
   versions:
   - 1.0.0
@@ -23,6 +24,7 @@ versioning:
   - 1.0.14
   - 1.0.15
   - 1.0.16
+  - 1.0.17
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -40,6 +42,5 @@ versioning:
   - 2.0.14
   - 2.0.15
   - 2.0.16
-  - 1.0.17
   - 2.0.17
-  lastUpdated: 20230731005107
+  lastUpdated: 20230808003139

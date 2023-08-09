@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.site.initializer.extender
 versioning:
-  latest: 1.0.95
+  latest: 1.0.97
   release: 1.0.97
   versions:
   - 1.0.0
@@ -104,4 +105,4 @@ versioning:
   - 1.0.95
   - 1.0.96
   - 1.0.97
-  lastUpdated: 20230731094046
+  lastUpdated: 20230807230410

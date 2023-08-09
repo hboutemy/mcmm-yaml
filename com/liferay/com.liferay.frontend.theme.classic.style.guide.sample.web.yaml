@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.theme.classic.style.guide.sample.web
 versioning:
-  latest: 2.0.52
+  latest: 2.0.54
   release: 2.0.54
   versions:
   - 1.0.0
@@ -51,6 +52,8 @@ versioning:
   - 1.0.42
   - 1.0.43
   - 1.0.44
+  - 1.0.45
+  - 1.0.46
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -105,7 +108,5 @@ versioning:
   - 2.0.51
   - 2.0.52
   - 2.0.53
-  - 1.0.45
-  - 1.0.46
   - 2.0.54
-  lastUpdated: 20230730225426
+  lastUpdated: 20230808003646

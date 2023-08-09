@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.db.partition
 versioning:
-  latest: 2.0.16
+  latest: 2.0.18
   release: 2.0.18
   versions:
   - 1.0.0
@@ -25,6 +26,7 @@ versioning:
   - 1.0.16
   - 1.0.17
   - 1.0.18
+  - 1.0.19
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -43,6 +45,5 @@ versioning:
   - 2.0.15
   - 2.0.16
   - 2.0.17
-  - 1.0.19
   - 2.0.18
-  lastUpdated: 20230731014305
+  lastUpdated: 20230808004334

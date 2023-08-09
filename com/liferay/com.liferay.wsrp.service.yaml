@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.wsrp.service
 versioning:
-  latest: 2.0.73
+  latest: 2.0.74
   release: 2.0.74
   versions:
   - 1.0.0
@@ -121,4 +122,4 @@ versioning:
   - 2.0.72
   - 2.0.73
   - 2.0.74
-  lastUpdated: 20230717085456
+  lastUpdated: 20230807235600

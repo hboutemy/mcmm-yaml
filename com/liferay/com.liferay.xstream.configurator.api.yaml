@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.xstream.configurator.api
 versioning:
-  latest: 7.0.0
+  latest: 7.0.1
   release: 7.0.1
   versions:
   - 1.0.0
@@ -33,6 +34,7 @@ versioning:
   - 3.0.7
   - 3.0.8
   - 3.0.9
+  - 3.0.10
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -41,6 +43,7 @@ versioning:
   - 4.0.5
   - 4.0.6
   - 4.0.7
+  - 4.0.8
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -49,6 +52,7 @@ versioning:
   - 5.0.5
   - 5.0.6
   - 5.0.7
+  - 5.0.8
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -57,8 +61,5 @@ versioning:
   - 6.0.5
   - 6.0.6
   - 7.0.0
-  - 3.0.10
-  - 4.0.8
-  - 5.0.8
   - 7.0.1
-  lastUpdated: 20230730235214
+  lastUpdated: 20230808000853

@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.site.initializer.masterclass
 versioning:
-  latest: 1.0.50
+  latest: 1.0.52
   release: 1.0.52
   versions:
   - 1.0.0
@@ -59,4 +60,4 @@ versioning:
   - 1.0.50
   - 1.0.51
   - 1.0.52
-  lastUpdated: 20230730234100
+  lastUpdated: 20230808004224

@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.configuration.extender
 versioning:
-  latest: 7.0.12
+  latest: 7.0.13
   release: 7.0.13
   versions:
   - 1.0.0
@@ -59,6 +60,7 @@ versioning:
   - 4.0.20
   - 4.0.21
   - 4.0.22
+  - 4.0.23
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -84,6 +86,7 @@ versioning:
   - 5.0.22
   - 5.0.23
   - 5.0.24
+  - 5.0.25
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -98,6 +101,7 @@ versioning:
   - 6.0.11
   - 6.0.12
   - 6.0.13
+  - 6.0.14
   - 7.0.0
   - 7.0.1
   - 7.0.2
@@ -111,8 +115,5 @@ versioning:
   - 7.0.10
   - 7.0.11
   - 7.0.12
-  - 4.0.23
-  - 5.0.25
-  - 6.0.14
   - 7.0.13
-  lastUpdated: 20230730232204
+  lastUpdated: 20230807234941

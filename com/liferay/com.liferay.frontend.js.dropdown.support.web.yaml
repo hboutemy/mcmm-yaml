@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.js.dropdown.support.web
 versioning:
-  latest: 2.0.11
+  latest: 2.0.13
   release: 2.0.13
   versions:
   - 1.0.0
@@ -17,6 +18,7 @@ versioning:
   - 1.0.8
   - 1.0.9
   - 1.0.10
+  - 1.0.11
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -30,6 +32,5 @@ versioning:
   - 2.0.10
   - 2.0.11
   - 2.0.12
-  - 1.0.11
   - 2.0.13
-  lastUpdated: 20230731005448
+  lastUpdated: 20230807231357

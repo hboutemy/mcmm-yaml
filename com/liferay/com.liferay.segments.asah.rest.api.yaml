@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.segments.asah.rest.api
 versioning:
-  latest: 10.1.0
+  latest: 10.2.0
   release: 10.2.0
   versions:
   - 1.0.0
@@ -64,14 +65,14 @@ versioning:
   - 7.0.1
   - 8.0.0
   - 8.0.1
+  - 8.1.0
   - 9.0.0
   - 9.0.1
+  - 9.0.2
+  - 9.1.0
   - 10.0.0
   - 10.0.1
   - 10.1.0
   - 10.1.1
-  - 9.0.2
-  - 8.1.0
-  - 9.1.0
   - 10.2.0
-  lastUpdated: 20230801032548
+  lastUpdated: 20230807233033

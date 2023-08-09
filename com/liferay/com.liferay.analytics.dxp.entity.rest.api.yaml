@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.analytics.dxp.entity.rest.api
 versioning:
-  latest: 3.0.1
+  latest: 3.0.5
   release: 3.0.5
   versions:
   - 1.0.0
@@ -20,4 +21,4 @@ versioning:
   - 3.0.3
   - 3.0.4
   - 3.0.5
-  lastUpdated: 20230731052638
+  lastUpdated: 20230808001430

@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.friendly.url.service
 versioning:
-  latest: 4.0.63
+  latest: 4.0.65
   release: 4.0.65
   versions:
   - 1.0.0
@@ -75,6 +76,7 @@ versioning:
   - 1.0.66
   - 1.0.67
   - 1.0.68
+  - 1.0.69
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -127,6 +129,7 @@ versioning:
   - 2.0.49
   - 2.0.50
   - 2.0.51
+  - 2.0.52
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -182,6 +185,8 @@ versioning:
   - 3.0.52
   - 3.0.53
   - 3.0.54
+  - 3.0.55
+  - 3.0.56
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -247,9 +252,5 @@ versioning:
   - 4.0.62
   - 4.0.63
   - 4.0.64
-  - 3.0.55
-  - 1.0.69
-  - 2.0.52
-  - 3.0.56
   - 4.0.65
-  lastUpdated: 20230731045038
+  lastUpdated: 20230807234016

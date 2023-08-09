@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.headless.form.impl
 versioning:
-  latest: 5.0.52
+  latest: 5.0.54
   release: 5.0.54
   versions:
   - 1.0.0
@@ -97,6 +98,7 @@ versioning:
   - 2.0.78
   - 2.0.79
   - 2.0.80
+  - 2.0.81
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -183,6 +185,7 @@ versioning:
   - 3.0.83
   - 3.0.84
   - 3.0.85
+  - 3.0.86
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -258,6 +261,8 @@ versioning:
   - 4.0.72
   - 4.0.73
   - 4.0.74
+  - 4.0.75
+  - 4.0.76
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -312,9 +317,5 @@ versioning:
   - 5.0.51
   - 5.0.52
   - 5.0.53
-  - 4.0.75
-  - 2.0.81
-  - 3.0.86
-  - 4.0.76
   - 5.0.54
-  lastUpdated: 20230731075951
+  lastUpdated: 20230808003233

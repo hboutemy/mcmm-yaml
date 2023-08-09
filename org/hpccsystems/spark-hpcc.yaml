@@ -3,8 +3,8 @@
 groupId: org.hpccsystems
 artifactId: spark-hpcc
 versioning:
-  latest: 9.2.8-1
-  release: 9.2.8-1
+  latest: 9.2.10-1
+  release: 9.2.10-1
   versions:
   - 7.0.0-beta-1
   - 7.0.0-rc1
@@ -452,6 +452,7 @@ versioning:
   - 8.12.38-1
   - 8.12.38-2
   - 8.12.40-1
+  - 8.12.42-1
   - 9.0.0-1
   - 9.0.2-1
   - 9.0.4-1
@@ -468,9 +469,11 @@ versioning:
   - 9.0.26-1
   - 9.0.28-1
   - 9.0.30-1
+  - 9.0.32-1
   - 9.2.0-1
   - 9.2.2-1
   - 9.2.4-1
   - 9.2.6-1
   - 9.2.8-1
-  lastUpdated: 20230801191854
+  - 9.2.10-1
+  lastUpdated: 20230808163533

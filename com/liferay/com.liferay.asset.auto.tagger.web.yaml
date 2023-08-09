@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.asset.auto.tagger.web
 versioning:
-  latest: 3.0.14
+  latest: 3.0.15
   release: 3.0.15
   versions:
   - 1.0.0
@@ -33,6 +34,7 @@ versioning:
   - 1.0.24
   - 1.0.25
   - 1.0.26
+  - 1.0.27
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -58,6 +60,7 @@ versioning:
   - 2.0.22
   - 2.0.23
   - 2.0.24
+  - 2.0.25
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -73,7 +76,5 @@ versioning:
   - 3.0.12
   - 3.0.13
   - 3.0.14
-  - 1.0.27
-  - 2.0.25
   - 3.0.15
-  lastUpdated: 20230731063346
+  lastUpdated: 20230807234033
