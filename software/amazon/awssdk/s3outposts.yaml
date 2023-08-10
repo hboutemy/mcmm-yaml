@@ -3,8 +3,8 @@
 groupId: software.amazon.awssdk
 artifactId: s3outposts
 versioning:
-  latest: 2.20.121
-  release: 2.20.121
+  latest: 2.20.123
+  release: 2.20.123
   versions:
   - 2.15.0
   - 2.15.1
@@ -686,4 +686,6 @@ versioning:
   - 2.20.119
   - 2.20.120
   - 2.20.121
-  lastUpdated: 20230807201507
+  - 2.20.122
+  - 2.20.123
+  lastUpdated: 20230809201524

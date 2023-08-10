@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-version
 versioning:
-  latest: 21.1.0.Final
-  release: 21.1.0.Final
+  latest: 22.0.0.Beta1
+  release: 22.0.0.Beta1
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -353,4 +353,5 @@ versioning:
   - 21.1.0.Beta1
   - 21.1.0.Beta2
   - 21.1.0.Final
-  lastUpdated: 20230717115211
+  - 22.0.0.Beta1
+  lastUpdated: 20230809124010

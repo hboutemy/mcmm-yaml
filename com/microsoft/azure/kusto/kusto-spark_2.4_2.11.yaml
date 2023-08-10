@@ -3,8 +3,8 @@
 groupId: com.microsoft.azure.kusto
 artifactId: kusto-spark_2.4_2.11
 versioning:
-  latest: 3.1.16
-  release: 3.1.16
+  latest: 5.0.1
+  release: 5.0.1
   versions:
   - 2.3.0
   - 2.3.1
@@ -45,4 +45,5 @@ versioning:
   - 3.1.14
   - 3.1.15
   - 3.1.16
-  lastUpdated: 20230619064021
+  - 5.0.1
+  lastUpdated: 20230809150257

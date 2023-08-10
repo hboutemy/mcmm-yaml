@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld.environment
 artifactId: weld-environment-common
 versioning:
-  latest: 5.1.1.SP1
-  release: 5.1.1.SP1
+  latest: 5.1.1.SP2
+  release: 5.1.1.SP2
   versions:
   - 2.2.5.Final
   - 2.2.6.Final
@@ -109,4 +109,5 @@ versioning:
   - 5.1.0.Final
   - 5.1.1.Final
   - 5.1.1.SP1
-  lastUpdated: 20230711151509
+  - 5.1.1.SP2
+  lastUpdated: 20230809084411

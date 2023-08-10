@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld.examples.se
 artifactId: weld-se-groovy-numberguess
 versioning:
-  latest: 5.1.1.SP1
-  release: 5.1.1.SP1
+  latest: 5.1.1.SP2
+  release: 5.1.1.SP2
   versions:
   - 2.2.10.Final
   - 2.2.10.SP1
@@ -101,4 +101,5 @@ versioning:
   - 5.1.0.Final
   - 5.1.1.Final
   - 5.1.1.SP1
-  lastUpdated: 20230711151514
+  - 5.1.1.SP2
+  lastUpdated: 20230809084416

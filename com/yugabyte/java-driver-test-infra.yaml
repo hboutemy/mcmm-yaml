@@ -3,8 +3,8 @@
 groupId: com.yugabyte
 artifactId: java-driver-test-infra
 versioning:
-  latest: 4.11.4-yb-1-RC1
-  release: 4.11.4-yb-1-RC1
+  latest: 4.15.0-yb-1
+  release: 4.15.0-yb-1
   versions:
   - 4.6.0-yb-2-RC1
   - 4.6.0-yb-4-RC2
@@ -16,4 +16,5 @@ versioning:
   - 4.6.0-yb-11
   - 4.6.0-yb-12
   - 4.11.4-yb-1-RC1
-  lastUpdated: 20230314121714
+  - 4.15.0-yb-1
+  lastUpdated: 20230809060337

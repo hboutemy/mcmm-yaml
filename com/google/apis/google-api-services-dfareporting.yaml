@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-dfareporting
 versioning:
-  latest: v4-rev20230425-2.0.0
-  release: v4-rev20230425-2.0.0
+  latest: v4-rev20230726-2.0.0
+  release: v4-rev20230726-2.0.0
   versions:
   - v1-rev11-1.13.2-beta
   - v1-rev11-1.14.1-beta
@@ -1287,6 +1287,7 @@ versioning:
   - v3.5-rev20220815-2.0.0
   - v3.5-rev20230118-2.0.0
   - v3.5-rev20230321-2.0.0
+  - v3.5-rev20230523-2.0.0
   - v4-rev20220607-1.32.1
   - v4-rev20220611-1.32.1
   - v4-rev20220611-2.0.0
@@ -1294,4 +1295,5 @@ versioning:
   - v4-rev20220920-2.0.0
   - v4-rev20230321-2.0.0
   - v4-rev20230425-2.0.0
-  lastUpdated: 20230427083437
+  - v4-rev20230726-2.0.0
+  lastUpdated: 20230809104950

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld.examples.jsf.translator
 artifactId: weld-jsf-translator-ftest
 versioning:
-  latest: 5.1.1.SP1
-  release: 5.1.1.SP1
+  latest: 5.1.1.SP2
+  release: 5.1.1.SP2
   versions:
   - 1.1.5.AS71.Final
   - 1.1.6.Final
@@ -184,4 +184,5 @@ versioning:
   - 5.1.0.Final
   - 5.1.1.Final
   - 5.1.1.SP1
-  lastUpdated: 20230711151511
+  - 5.1.1.SP2
+  lastUpdated: 20230809084413

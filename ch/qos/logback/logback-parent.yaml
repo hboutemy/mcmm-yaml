@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: ch.qos.logback
 artifactId: logback-parent
 versioning:
-  latest: 1.4.9
-  release: 1.4.9
+  latest: 1.4.11
+  release: 1.4.11
   versions:
   - 0.6
   - 0.7
@@ -111,6 +111,8 @@ versioning:
   - 1.3.7
   - 1.3.8
   - 1.3.9
+  - 1.3.10
+  - 1.3.11
   - 1.4.0
   - 1.4.1
   - 1.4.2
@@ -121,4 +123,6 @@ versioning:
   - 1.4.7
   - 1.4.8
   - 1.4.9
-  lastUpdated: 20230804202646
+  - 1.4.10
+  - 1.4.11
+  lastUpdated: 20230809193656

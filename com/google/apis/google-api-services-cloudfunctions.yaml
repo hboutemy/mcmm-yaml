@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-cloudfunctions
 versioning:
-  latest: v2-rev20230608-2.0.0
-  release: v2-rev20230608-2.0.0
+  latest: v2-rev20230803-2.0.0
+  release: v2-rev20230803-2.0.0
   versions:
   - v1-rev20210409-1.31.5
   - v1-rev20210409-1.32.1
@@ -36,6 +36,7 @@ versioning:
   - v1-rev20230504-2.0.0
   - v1-rev20230515-2.0.0
   - v1-rev20230608-2.0.0
+  - v1-rev20230803-2.0.0
   - v2alpha-rev20220203-1.32.1
   - v2alpha-rev20220218-1.32.1
   - v2alpha-rev20220317-1.32.1
@@ -66,6 +67,7 @@ versioning:
   - v2alpha-rev20230524-2.0.0
   - v2alpha-rev20230601-2.0.0
   - v2alpha-rev20230608-2.0.0
+  - v2alpha-rev20230803-2.0.0
   - v2beta-rev20220203-1.32.1
   - v2beta-rev20220218-1.32.1
   - v2beta-rev20220317-1.32.1
@@ -96,6 +98,7 @@ versioning:
   - v2beta-rev20230524-2.0.0
   - v2beta-rev20230601-2.0.0
   - v2beta-rev20230608-2.0.0
+  - v2beta-rev20230803-2.0.0
   - v2-rev20220428-1.32.1
   - v2-rev20220509-1.32.1
   - v2-rev20220707-1.32.1
@@ -118,6 +121,7 @@ versioning:
   - v2-rev20230524-2.0.0
   - v2-rev20230601-2.0.0
   - v2-rev20230608-2.0.0
+  - v2-rev20230803-2.0.0
   - v1-rev10-1.18.0-rc
   - v1-rev10-1.20.0
   - v1-rev10-1.21.0
@@ -745,4 +749,4 @@ versioning:
   - v1beta2-rev94-1.25.0
   - v1beta2-rev95-1.18.0-rc
   - v1beta2-rev95-1.25.0
-  lastUpdated: 20230614082006
+  lastUpdated: 20230809094219

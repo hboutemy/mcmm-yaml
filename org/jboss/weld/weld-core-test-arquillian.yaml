@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld
 artifactId: weld-core-test-arquillian
 versioning:
-  latest: 5.1.1.SP1
-  release: 5.1.1.SP1
+  latest: 5.1.1.SP2
+  release: 5.1.1.SP2
   versions:
   - 1.1.0.Beta1
   - 1.1.0.Beta2
@@ -197,4 +197,5 @@ versioning:
   - 5.1.0.Final
   - 5.1.1.Final
   - 5.1.1.SP1
-  lastUpdated: 20230711151529
+  - 5.1.1.SP2
+  lastUpdated: 20230809084430
