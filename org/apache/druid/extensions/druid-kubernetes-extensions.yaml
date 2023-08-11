@@ -3,8 +3,8 @@
 groupId: org.apache.druid.extensions
 artifactId: druid-kubernetes-extensions
 versioning:
-  latest: 26.0.0
-  release: 26.0.0
+  latest: 27.0.0
+  release: 27.0.0
   versions:
   - 0.21.0
   - 0.21.1
@@ -16,4 +16,5 @@ versioning:
   - 24.0.2
   - 25.0.0
   - 26.0.0
-  lastUpdated: 20230523003241
+  - 27.0.0
+  lastUpdated: 20230810044330

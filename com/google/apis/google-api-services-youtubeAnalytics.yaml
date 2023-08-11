@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-youtubeAnalytics
 versioning:
-  latest: v2-rev20210510-2.0.0
-  release: v2-rev20210510-2.0.0
+  latest: v2-rev20230704-2.0.0
+  release: v2-rev20230704-2.0.0
   versions:
   - v1beta1-rev18-1.13.2-beta
   - v1beta1-rev18-1.14.1-beta
@@ -3287,4 +3287,5 @@ versioning:
   - v2-rev20210510-1.31.5
   - v2-rev20210510-1.32.1
   - v2-rev20210510-2.0.0
-  lastUpdated: 20220808210259
+  - v2-rev20230704-2.0.0
+  lastUpdated: 20230810122010

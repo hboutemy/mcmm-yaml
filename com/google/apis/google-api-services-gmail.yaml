@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-gmail
 versioning:
-  latest: v1-rev20230612-2.0.0
-  release: v1-rev20230612-2.0.0
+  latest: v1-rev20230703-2.0.0
+  release: v1-rev20230703-2.0.0
   versions:
   - v1-rev1-1.14.2-beta
   - v1-rev1-1.15.0-rc
@@ -465,4 +465,5 @@ versioning:
   - v1-rev20230424-2.0.0
   - v1-rev20230515-2.0.0
   - v1-rev20230612-2.0.0
-  lastUpdated: 20230615084112
+  - v1-rev20230703-2.0.0
+  lastUpdated: 20230810112655

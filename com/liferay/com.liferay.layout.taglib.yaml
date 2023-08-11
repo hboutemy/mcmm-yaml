@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.layout.taglib
 versioning:
-  latest: 15.0.0
-  release: 15.0.0
+  latest: 15.0.1
+  release: 15.0.1
   versions:
   - 1.0.0
   - 2.0.0
@@ -343,4 +342,5 @@ versioning:
   - 14.1.2
   - 14.2.0
   - 15.0.0
-  lastUpdated: 20230807214934
+  - 15.0.1
+  lastUpdated: 20230810025822

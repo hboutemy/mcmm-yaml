@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.data.engine.taglib
 versioning:
-  latest: 3.4.16
-  release: 3.4.16
+  latest: 3.4.17
+  release: 3.4.17
   versions:
   - 1.0.0
   - 1.0.1
@@ -216,4 +215,5 @@ versioning:
   - 3.4.14
   - 3.4.15
   - 3.4.16
-  lastUpdated: 20230807231225
+  - 3.4.17
+  lastUpdated: 20230810021943

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.mail.reader.web
 versioning:
-  latest: 5.0.33
-  release: 5.0.33
+  latest: 2.0.46
+  release: 2.0.46
   versions:
   - 1.0.0
   - 1.0.1
@@ -232,4 +231,5 @@ versioning:
   - 5.0.31
   - 5.0.32
   - 5.0.33
-  lastUpdated: 20230808004556
+  - 2.0.46
+  lastUpdated: 20230810190611

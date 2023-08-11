@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.taglib.form.navigator
 versioning:
-  latest: 6.2.1
-  release: 6.2.1
+  latest: 2.0.32
+  release: 2.0.32
   versions:
   - 1.0.0
   - 1.0.1
@@ -156,4 +155,6 @@ versioning:
   - 6.1.0
   - 6.2.0
   - 6.2.1
-  lastUpdated: 20230807212236
+  - 6.2.2
+  - 2.0.32
+  lastUpdated: 20230810190507

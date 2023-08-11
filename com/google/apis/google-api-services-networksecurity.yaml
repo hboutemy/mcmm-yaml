@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-networksecurity
 versioning:
-  latest: v1-rev20230511-2.0.0
-  release: v1-rev20230511-2.0.0
+  latest: v1-rev20230710-2.0.0
+  release: v1-rev20230710-2.0.0
   versions:
   - v1beta1-rev20210624-1.31.5
   - v1beta1-rev20210624-1.32.1
@@ -27,6 +27,7 @@ versioning:
   - v1beta1-rev20230406-2.0.0
   - v1beta1-rev20230415-2.0.0
   - v1beta1-rev20230420-2.0.0
+  - v1beta1-rev20230719-2.0.0
   - v1-rev20210818-1.32.1
   - v1-rev20220105-1.32.1
   - v1-rev20220128-1.32.1
@@ -41,4 +42,5 @@ versioning:
   - v1-rev20230415-2.0.0
   - v1-rev20230420-2.0.0
   - v1-rev20230511-2.0.0
-  lastUpdated: 20230520083953
+  - v1-rev20230710-2.0.0
+  lastUpdated: 20230810120217

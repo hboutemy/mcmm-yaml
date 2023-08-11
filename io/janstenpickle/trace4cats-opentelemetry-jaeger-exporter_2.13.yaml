@@ -3,8 +3,8 @@
 groupId: io.janstenpickle
 artifactId: trace4cats-opentelemetry-jaeger-exporter_2.13
 versioning:
-  latest: 0.14.2+8-3b8bd435
-  release: 0.14.2+8-3b8bd435
+  latest: 0.14.4
+  release: 0.14.4
   versions:
   - 0.0.0+1-7a9df181
   - 0.0.0+2-5ffb9ec2
@@ -427,4 +427,6 @@ versioning:
   - 0.14.2
   - 0.14.2+6-e00443e9
   - 0.14.2+8-3b8bd435
-  lastUpdated: 20230809180909
+  - 0.14.3
+  - 0.14.4
+  lastUpdated: 20230810110454

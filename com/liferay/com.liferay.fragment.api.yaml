@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.fragment.api
 versioning:
-  latest: 35.1.0
-  release: 35.1.0
+  latest: 36.0.0
+  release: 36.0.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -241,4 +240,5 @@ versioning:
   - 34.1.0
   - 35.0.0
   - 35.1.0
-  lastUpdated: 20230807204646
+  - 36.0.0
+  lastUpdated: 20230810013457

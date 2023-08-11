@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.petra.nio
 versioning:
-  latest: 5.0.4
-  release: 5.0.4
+  latest: 2.0.4
+  release: 2.0.4
   versions:
   - 1.0.0
   - 1.0.1
@@ -33,4 +32,6 @@ versioning:
   - 5.0.2
   - 5.0.3
   - 5.0.4
-  lastUpdated: 20230807222356
+  - 5.0.5
+  - 2.0.4
+  lastUpdated: 20230810182622

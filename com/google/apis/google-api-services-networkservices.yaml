@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-networkservices
 versioning:
-  latest: v1-rev20230510-2.0.0
-  release: v1-rev20230510-2.0.0
+  latest: v1-rev20230724-2.0.0
+  release: v1-rev20230724-2.0.0
   versions:
   - v1beta1-rev20210721-1.32.1
   - v1beta1-rev20210728-1.32.1
@@ -27,6 +27,7 @@ versioning:
   - v1beta1-rev20230323-2.0.0
   - v1beta1-rev20230424-2.0.0
   - v1beta1-rev20230510-2.0.0
+  - v1beta1-rev20230724-2.0.0
   - v1-rev20210721-1.32.1
   - v1-rev20210728-1.32.1
   - v1-rev20210811-1.32.1
@@ -48,4 +49,5 @@ versioning:
   - v1-rev20230404-2.0.0
   - v1-rev20230424-2.0.0
   - v1-rev20230510-2.0.0
-  lastUpdated: 20230522082325
+  - v1-rev20230724-2.0.0
+  lastUpdated: 20230810120639

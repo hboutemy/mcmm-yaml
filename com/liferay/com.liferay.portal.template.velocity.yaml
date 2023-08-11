@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.template.velocity
 versioning:
-  latest: 6.0.37
-  release: 6.0.37
+  latest: 3.0.48
+  release: 3.0.48
   versions:
   - 1.0.0
   - 2.0.0
@@ -249,4 +248,6 @@ versioning:
   - 6.0.35
   - 6.0.36
   - 6.0.37
-  lastUpdated: 20230807205707
+  - 6.0.38
+  - 3.0.48
+  lastUpdated: 20230810191458

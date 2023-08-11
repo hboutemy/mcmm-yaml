@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-games
 versioning:
-  latest: v1-rev20230310-2.0.0
-  release: v1-rev20230310-2.0.0
+  latest: v1-rev20230712-2.0.0
+  release: v1-rev20230712-2.0.0
   versions:
   - v1-rev1-1.13.2-beta
   - v1-rev1-1.14.2-beta
@@ -1223,4 +1223,5 @@ versioning:
   - v1-rev20220525-1.32.1
   - v1-rev20220525-2.0.0
   - v1-rev20230310-2.0.0
-  lastUpdated: 20230323203910
+  - v1-rev20230712-2.0.0
+  lastUpdated: 20230810111130

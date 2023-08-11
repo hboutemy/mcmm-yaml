@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.account.admin.web
 versioning:
-  latest: 2.0.98
-  release: 2.0.98
+  latest: 2.0.99
+  release: 2.0.99
   versions:
   - 1.0.0
   - 1.0.1
@@ -160,4 +159,5 @@ versioning:
   - 2.0.96
   - 2.0.97
   - 2.0.98
-  lastUpdated: 20230807174324
+  - 2.0.99
+  lastUpdated: 20230810024708

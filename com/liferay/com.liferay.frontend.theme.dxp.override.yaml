@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.theme.dxp.override
 versioning:
-  latest: 4.0.48
-  release: 4.0.48
+  latest: 1.0.22
+  release: 1.0.22
   versions:
   - 1.0.11
   - 1.0.12
@@ -108,4 +107,5 @@ versioning:
   - 4.0.46
   - 4.0.47
   - 4.0.48
-  lastUpdated: 20230807221939
+  - 1.0.22
+  lastUpdated: 20230810192733
