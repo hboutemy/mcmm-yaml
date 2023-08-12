@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-sheets
 versioning:
-  latest: v4-rev20230526-2.0.0
-  release: v4-rev20230526-2.0.0
+  latest: v4-rev20230808-2.0.0
+  release: v4-rev20230808-2.0.0
   versions:
   - v4-rev1-1.18.0-rc
   - v4-rev1-1.20.0
@@ -748,4 +748,5 @@ versioning:
   - v4-rev20221216-2.0.0
   - v4-rev20230227-2.0.0
   - v4-rev20230526-2.0.0
-  lastUpdated: 20230531090346
+  - v4-rev20230808-2.0.0
+  lastUpdated: 20230811113251

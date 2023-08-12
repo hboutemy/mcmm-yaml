@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-dynamodb
 versioning:
-  latest: 1.12.526
-  release: 1.12.526
+  latest: 1.12.528
+  release: 1.12.528
   versions:
   - 1.9.0
   - 1.9.1
@@ -1693,4 +1693,6 @@ versioning:
   - 1.12.524
   - 1.12.525
   - 1.12.526
-  lastUpdated: 20230809205512
+  - 1.12.527
+  - 1.12.528
+  lastUpdated: 20230811205421

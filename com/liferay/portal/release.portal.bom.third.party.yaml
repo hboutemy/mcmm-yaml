@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.portal
 artifactId: release.portal.bom.third.party
 versioning:
   latest: 7.4.3.88
-  release: 7.4.3.88
+  release: 7.4.3.89
   versions:
   - 7.0.6
   - 7.0.6-1
@@ -125,4 +124,5 @@ versioning:
   - 7.4.3.86
   - 7.4.3.87
   - 7.4.3.88
-  lastUpdated: 20230807214401
+  - 7.4.3.89
+  lastUpdated: 20230811220933

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.initializer.util
 versioning:
-  latest: 8.0.53
-  release: 8.0.53
+  latest: 8.0.54
+  release: 8.0.54
   versions:
   - 1.0.0
   - 1.0.1
@@ -154,4 +153,5 @@ versioning:
   - 8.0.51
   - 8.0.52
   - 8.0.53
-  lastUpdated: 20230807182011
+  - 8.0.54
+  lastUpdated: 20230811003959

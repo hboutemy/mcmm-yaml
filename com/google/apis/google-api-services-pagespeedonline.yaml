@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-pagespeedonline
 versioning:
-  latest: v5-rev20230316-2.0.0
-  release: v5-rev20230316-2.0.0
+  latest: v5-rev20230705-2.0.0
+  release: v5-rev20230705-2.0.0
   versions:
   - v1-rev15-1.13.2-beta
   - v1-rev15-1.14.1-beta
@@ -551,4 +551,5 @@ versioning:
   - v5-rev20210603-1.32.1
   - v5-rev20210603-2.0.0
   - v5-rev20230316-2.0.0
-  lastUpdated: 20230320203446
+  - v5-rev20230705-2.0.0
+  lastUpdated: 20230811095349
