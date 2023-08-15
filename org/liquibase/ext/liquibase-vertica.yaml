@@ -3,8 +3,8 @@
 groupId: org.liquibase.ext
 artifactId: liquibase-vertica
 versioning:
-  latest: 4.23.0
-  release: 4.23.0
+  latest: 4.23.1
+  release: 4.23.1
   versions:
   - 3.9.0
   - 3.10.0
@@ -26,4 +26,5 @@ versioning:
   - 4.21.1
   - 4.22.0
   - 4.23.0
-  lastUpdated: 20230626201204
+  - 4.23.1
+  lastUpdated: 20230814161619

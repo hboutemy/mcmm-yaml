@@ -3,8 +3,8 @@
 groupId: pl.morgwai.base
 artifactId: servlet-scopes
 versioning:
-  latest: 10.0-SNAPSHOT-javax
-  release: 10.0-SNAPSHOT-javax
+  latest: 10.0-javax
+  release: 10.0-javax
   versions:
   - 1.0-alpha1
   - 1.0-alpha2
@@ -59,4 +59,6 @@ versioning:
   - 9.4-javax
   - 10.0-SNAPSHOT-jakarta
   - 10.0-SNAPSHOT-javax
-  lastUpdated: 20230813142543
+  - 10.0-jakarta
+  - 10.0-javax
+  lastUpdated: 20230814224639

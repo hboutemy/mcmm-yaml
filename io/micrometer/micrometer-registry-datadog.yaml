@@ -3,8 +3,8 @@
 groupId: io.micrometer
 artifactId: micrometer-registry-datadog
 versioning:
-  latest: 1.11.2
-  release: 1.11.2
+  latest: 1.11.3
+  release: 1.11.3
   versions:
   - 0.12.0.RELEASE
   - 1.0.0-rc.1
@@ -144,6 +144,7 @@ versioning:
   - 1.9.11
   - 1.9.12
   - 1.9.13
+  - 1.9.14
   - 1.10.0
   - 1.10.1
   - 1.10.2
@@ -154,10 +155,12 @@ versioning:
   - 1.10.7
   - 1.10.8
   - 1.10.9
+  - 1.10.10
   - 1.11.0
   - 1.11.1
   - 1.11.2
+  - 1.11.3
   - 1.3.17
   - 1.5.11
   - 1.6.4
-  lastUpdated: 20230710183428
+  lastUpdated: 20230814230124

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.analytics.reports.web
 versioning:
-  latest: 2.0.80
-  release: 2.0.80
+  latest: 1.0.66
+  release: 1.0.66
   versions:
   - 1.0.14
   - 1.0.15
@@ -140,4 +139,5 @@ versioning:
   - 2.0.78
   - 2.0.79
   - 2.0.80
-  lastUpdated: 20230808000735
+  - 1.0.66
+  lastUpdated: 20230814162933

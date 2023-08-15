@@ -3,8 +3,8 @@
 groupId: org.apache.camel.springboot
 artifactId: camel-aws2-athena-starter
 versioning:
-  latest: 4.0.0-RC2
-  release: 4.0.0-RC2
+  latest: 4.0.0
+  release: 4.0.0
   versions:
   - 3.4.0
   - 3.4.1
@@ -72,4 +72,5 @@ versioning:
   - 4.0.0-M3
   - 4.0.0-RC1
   - 4.0.0-RC2
-  lastUpdated: 20230729152800
+  - 4.0.0
+  lastUpdated: 20230814081653

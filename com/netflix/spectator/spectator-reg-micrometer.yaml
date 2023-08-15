@@ -3,8 +3,8 @@
 groupId: com.netflix.spectator
 artifactId: spectator-reg-micrometer
 versioning:
-  latest: 1.6.8
-  release: 1.6.8
+  latest: 1.6.9
+  release: 1.6.9
   versions:
   - 0.80.0
   - 0.80.1
@@ -115,4 +115,5 @@ versioning:
   - 1.6.6
   - 1.6.7
   - 1.6.8
-  lastUpdated: 20230808181040
+  - 1.6.9
+  lastUpdated: 20230814150122

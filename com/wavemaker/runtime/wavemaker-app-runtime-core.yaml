@@ -3,8 +3,8 @@
 groupId: com.wavemaker.runtime
 artifactId: wavemaker-app-runtime-core
 versioning:
-  latest: 11.3.6
-  release: 11.3.6
+  latest: 11.3.6.ee
+  release: 11.3.6.ee
   versions:
   - 9.4.0.10
   - 9.4.0.12
@@ -85,6 +85,7 @@ versioning:
   - 10.16.4.ee
   - 10.16.5
   - 10.16.6
+  - 10.16.6.ee
   - 11.0.0.beta
   - 11.0.0.beta.ee-20220401222842
   - 11.0.1.beta
@@ -115,4 +116,5 @@ versioning:
   - 11.3.4.ee
   - 11.3.5
   - 11.3.6
-  lastUpdated: 20230729112050
+  - 11.3.6.ee
+  lastUpdated: 20230814143625
