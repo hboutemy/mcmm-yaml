@@ -3,8 +3,8 @@
 groupId: io.grpc
 artifactId: grpc-gcp-observability
 versioning:
-  latest: 1.57.1
-  release: 1.57.1
+  latest: 1.57.2
+  release: 1.57.2
   versions:
   - 1.46.0
   - 1.46.1
@@ -35,4 +35,5 @@ versioning:
   - 1.56.1
   - 1.57.0
   - 1.57.1
-  lastUpdated: 20230801201007
+  - 1.57.2
+  lastUpdated: 20230815222053

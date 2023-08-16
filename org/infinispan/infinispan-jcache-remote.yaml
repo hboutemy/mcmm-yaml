@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-jcache-remote
 versioning:
-  latest: 14.0.13.Final
-  release: 14.0.13.Final
+  latest: 14.0.14.Final
+  release: 14.0.14.Final
   versions:
   - 7.2.0.Beta1
   - 7.2.0.Beta2
@@ -256,5 +256,6 @@ versioning:
   - 14.0.11.Final
   - 14.0.12.Final
   - 14.0.13.Final
+  - 14.0.14.Final
   - 12.0.0.Dev03
-  lastUpdated: 20230720082944
+  lastUpdated: 20230815135754

@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: parent
 versioning:
-  latest: 5.10.0
-  release: 5.10.0
+  latest: 5.11.0
+  release: 5.11.0
   versions:
   - 1.9.M05
   - 1.9.RC1
@@ -354,4 +354,5 @@ versioning:
   - 5.8.0
   - 5.9.0
   - 5.10.0
-  lastUpdated: 20230803132827
+  - 5.11.0
+  lastUpdated: 20230815092050
