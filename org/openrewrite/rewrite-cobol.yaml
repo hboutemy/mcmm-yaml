@@ -3,8 +3,8 @@
 groupId: org.openrewrite
 artifactId: rewrite-cobol
 versioning:
-  latest: 2.10.4
-  release: 2.10.4
+  latest: 2.11.1
+  release: 2.11.1
   versions:
   - 2.0.0
   - 2.0.1
@@ -20,4 +20,6 @@ versioning:
   - 2.10.1
   - 2.10.2
   - 2.10.4
-  lastUpdated: 20230813123756
+  - 2.11.0
+  - 2.11.1
+  lastUpdated: 20230816162007

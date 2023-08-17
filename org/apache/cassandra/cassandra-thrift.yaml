@@ -3,8 +3,8 @@
 groupId: org.apache.cassandra
 artifactId: cassandra-thrift
 versioning:
-  latest: 3.11.15
-  release: 3.11.15
+  latest: 3.11.16
+  release: 3.11.16
   versions:
   - 0.8.0-beta1
   - 0.8.0-beta2
@@ -217,4 +217,5 @@ versioning:
   - 3.11.13
   - 3.11.14
   - 3.11.15
-  lastUpdated: 20230515155622
+  - 3.11.16
+  lastUpdated: 20230816164728

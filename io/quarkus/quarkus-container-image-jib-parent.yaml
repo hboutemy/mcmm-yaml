@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-container-image-jib-parent
 versioning:
-  latest: 3.3.0.CR1
-  release: 3.3.0.CR1
+  latest: 3.3.0
+  release: 3.3.0
   versions:
   - 1.3.0.CR1
   - 1.3.0.CR2
@@ -205,4 +205,5 @@ versioning:
   - 3.2.3.Final
   - 3.2.4.Final
   - 3.3.0.CR1
-  lastUpdated: 20230811122534
+  - 3.3.0
+  lastUpdated: 20230816132150
