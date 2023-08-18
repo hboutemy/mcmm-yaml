@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.micrometer.registry
 artifactId: quarkus-micrometer-registry-newrelic-telemetry
 versioning:
-  latest: 3.1.2
-  release: 3.1.2
+  latest: 3.2.4
+  release: 3.2.4
   versions:
   - 2.11.0
   - 2.12.0
@@ -12,4 +12,6 @@ versioning:
   - 3.0.1
   - 3.0.2
   - 3.1.2
-  lastUpdated: 20230630020227
+  - 3.2.1
+  - 3.2.4
+  lastUpdated: 20230817132051

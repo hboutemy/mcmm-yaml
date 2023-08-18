@@ -3,8 +3,8 @@
 groupId: dev.crashteam
 artifactId: openapi-uzum-analytics
 versioning:
-  latest: 1.12-df88451-server
-  release: 1.12-df88451-server
+  latest: 1.13-257a790-server
+  release: 1.13-257a790-server
   versions:
   - 1.3-0aae9be-client
   - 1.3-0aae9be-server
@@ -26,4 +26,6 @@ versioning:
   - 1.11-afbdcf0-server
   - 1.12-df88451-client
   - 1.12-df88451-server
-  lastUpdated: 20230815163634
+  - 1.13-257a790-client
+  - 1.13-257a790-server
+  lastUpdated: 20230817195744

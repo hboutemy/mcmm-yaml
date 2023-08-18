@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: ec2instanceconnect
 versioning:
-  latest: 2.20.128
-  release: 2.20.128
+  latest: 2.20.129
+  release: 2.20.129
   versions:
   - 2.6.2
   - 2.6.3
@@ -985,4 +985,5 @@ versioning:
   - 2.20.126
   - 2.20.127
   - 2.20.128
-  lastUpdated: 20230816201931
+  - 2.20.129
+  lastUpdated: 20230817223231
