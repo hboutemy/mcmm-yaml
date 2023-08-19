@@ -3,8 +3,8 @@
 groupId: org.zalando
 artifactId: nakadi-producer-loadtest
 versioning:
-  latest: 21.1.0-RC2
-  release: 21.1.0-RC2
+  latest: 21.1.0-RC4
+  release: 21.1.0-RC4
   versions:
   - 20.3.0
   - 20.3.1
@@ -16,4 +16,6 @@ versioning:
   - 21.0.0
   - 21.1.0-RC1
   - 21.1.0-RC2
-  lastUpdated: 20230816141147
+  - 21.1.0-RC3
+  - 21.1.0-RC4
+  lastUpdated: 20230818150524

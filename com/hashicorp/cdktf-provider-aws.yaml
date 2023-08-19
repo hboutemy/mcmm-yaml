@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf-provider-aws
 versioning:
-  latest: 16.0.7
-  release: 16.0.7
+  latest: 16.0.8
+  release: 16.0.8
   versions:
   - 2.0.12
   - 2.0.13
@@ -283,4 +283,5 @@ versioning:
   - 16.0.5
   - 16.0.6
   - 16.0.7
-  lastUpdated: 20230811053623
+  - 16.0.8
+  lastUpdated: 20230818054931
