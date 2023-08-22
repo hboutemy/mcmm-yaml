@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: aws
 versioning:
-  latest: 6.0.0
-  release: 6.0.0
+  latest: 6.0.2-alpha.2+9b14ba69
+  release: 6.0.2-alpha.2+9b14ba69
   versions:
   - v5.10.0-alpha.1657285141+dcd8bd3f
   - v5.10.0-alpha.1657535550+a0b26b1c
@@ -113,4 +113,5 @@ versioning:
   - 6.0.0-alpha.1691787511+dbe3da96
   - 6.0.0-alpha.1692395996+3b2d02b0
   - 6.0.0
-  lastUpdated: 20230819000943
+  - 6.0.2-alpha.2+9b14ba69
+  lastUpdated: 20230821213101

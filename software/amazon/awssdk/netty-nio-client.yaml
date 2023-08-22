@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: netty-nio-client
 versioning:
-  latest: 2.20.130
-  release: 2.20.130
+  latest: 2.20.131
+  release: 2.20.131
   versions:
   - 2.0.0
   - 2.0.0-preview-2
@@ -1112,4 +1112,5 @@ versioning:
   - 2.20.128
   - 2.20.129
   - 2.20.130
-  lastUpdated: 20230818202000
+  - 2.20.131
+  lastUpdated: 20230821200825

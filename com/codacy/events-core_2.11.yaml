@@ -3,8 +3,8 @@
 groupId: com.codacy
 artifactId: events-core_2.11
 versioning:
-  latest: 6.0.0_circe_0.11.1
-  release: 6.0.0_circe_0.11.1
+  latest: 6.1.0_circe_0.11.1
+  release: 6.1.0_circe_0.11.1
   versions:
   - 2.0.0-cleanup.76cd279_circe_0.8.0
   - 2.0.0-cleanup.76cd279_circe_0.9.1
@@ -150,4 +150,7 @@ versioning:
   - 6.0.0_circe_0.8.0
   - 6.0.0_circe_0.9.1
   - 6.0.0_circe_0.11.1
-  lastUpdated: 20230721111809
+  - 6.1.0_circe_0.8.0
+  - 6.1.0_circe_0.9.1
+  - 6.1.0_circe_0.11.1
+  lastUpdated: 20230821122809

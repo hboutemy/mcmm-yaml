@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.rendering
 artifactId: xwiki-rendering-macro-ctsreport
 versioning:
-  latest: 15.6
-  release: 15.6
+  latest: 15.7-rc-1
+  release: 15.7-rc-1
   versions:
   - 4.1-milestone-2
   - 4.1-rc-1
@@ -415,4 +415,5 @@ versioning:
   - 15.5.1
   - 15.6-rc-1
   - 15.6
-  lastUpdated: 20230816113106
+  - 15.7-rc-1
+  lastUpdated: 20230821124306
