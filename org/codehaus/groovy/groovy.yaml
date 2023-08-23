@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.codehaus.groovy
 artifactId: groovy
 versioning:
-  latest: 3.0.18
-  release: 3.0.18
+  latest: 3.0.19
+  release: 3.0.19
   versions:
   - 1.1-beta-2
   - 1.1-beta-3
@@ -187,6 +187,7 @@ versioning:
   - 2.5.20
   - 2.5.21
   - 2.5.22
+  - 2.5.23
   - 2.6.0-alpha-1
   - 2.6.0-alpha-2
   - 2.6.0-alpha-3
@@ -220,4 +221,5 @@ versioning:
   - 3.0.16
   - 3.0.17
   - 3.0.18
-  lastUpdated: 20230629080856
+  - 3.0.19
+  lastUpdated: 20230822070107

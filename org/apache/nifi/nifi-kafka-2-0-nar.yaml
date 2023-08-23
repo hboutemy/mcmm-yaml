@@ -3,8 +3,8 @@
 groupId: org.apache.nifi
 artifactId: nifi-kafka-2-0-nar
 versioning:
-  latest: 1.23.1
-  release: 1.23.1
+  latest: 1.23.2
+  release: 1.23.2
   versions:
   - 1.8.0
   - 1.9.0
@@ -39,4 +39,5 @@ versioning:
   - 1.22.0
   - 1.23.0
   - 1.23.1
-  lastUpdated: 20230818193907
+  - 1.23.2
+  lastUpdated: 20230822205307

@@ -1,10 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.garmin
 artifactId: fit
 versioning:
-  latest: 21.120.0
-  release: 21.120.0
+  latest: 21.120.2
+  release: 21.120.2
   versions:
+  - 21.120.2
   - 21.120.0
-  lastUpdated: 20230818231459
+  - 21.120.1
+  lastUpdated: 20230822230741

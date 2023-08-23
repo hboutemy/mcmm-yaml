@@ -3,8 +3,8 @@
 groupId: com.scylladb
 artifactId: scylla-driver-parent
 versioning:
-  latest: 3.11.2.5
-  release: 3.11.2.5
+  latest: 3.11.4.0
+  release: 3.11.4.0
   versions:
   - 3.7.1-scylla-0
   - 3.7.1-scylla-1
@@ -20,4 +20,5 @@ versioning:
   - 3.11.2.3
   - 3.11.2.4
   - 3.11.2.5
-  lastUpdated: 20230707164539
+  - 3.11.4.0
+  lastUpdated: 20230822101950
