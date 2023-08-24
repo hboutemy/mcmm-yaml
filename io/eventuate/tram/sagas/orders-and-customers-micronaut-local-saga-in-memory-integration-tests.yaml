@@ -3,8 +3,8 @@
 groupId: io.eventuate.tram.sagas
 artifactId: orders-and-customers-micronaut-local-saga-in-memory-integration-tests
 versioning:
-  latest: 0.21.0.RELEASE
-  release: 0.21.0.RELEASE
+  latest: 0.23.0.RELEASE
+  release: 0.23.0.RELEASE
   versions:
   - 0.16.0.RELEASE
   - 0.17.0.RELEASE
@@ -12,4 +12,6 @@ versioning:
   - 0.19.0.RELEASE
   - 0.20.0.RELEASE
   - 0.21.0.RELEASE
-  lastUpdated: 20230326064456
+  - 0.22.0.RELEASE
+  - 0.23.0.RELEASE
+  lastUpdated: 20230823110112

@@ -3,9 +3,10 @@
 groupId: ai.chronon
 artifactId: spark_embedded_2.12
 versioning:
-  latest: 0.0.45
-  release: 0.0.45
+  latest: 0.0.46
+  release: 0.0.46
   versions:
+  - chaining-0.0.46-dev
   - 0.0.31
   - 0.0.32
   - 0.0.33
@@ -21,4 +22,5 @@ versioning:
   - 0.0.43
   - 0.0.44
   - 0.0.45
-  lastUpdated: 20230802221049
+  - 0.0.46
+  lastUpdated: 20230823214557

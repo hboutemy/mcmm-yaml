@@ -3,8 +3,8 @@
 groupId: com.daml
 artifactId: daml-script-runner_2.13
 versioning:
-  latest: 2.8.0-snapshot.20230821.12054.0.v9f9ecb20
-  release: 2.8.0-snapshot.20230821.12054.0.v9f9ecb20
+  latest: 2.8.0-snapshot.20230822.12060.0.v9179b2e7
+  release: 2.8.0-snapshot.20230822.12060.0.v9179b2e7
   versions:
   - 2.3.0-snapshot.20220525.9963.0.12a488f6
   - 2.3.0-snapshot.20220526.9966.0.ef43df48
@@ -363,6 +363,8 @@ versioning:
   - 2.7.0-snapshot.20230808.11990.0.vb6c93df1
   - 2.7.0
   - 2.7.1-rc1
+  - 2.7.1-rc2
+  - 2.7.1
   - 2.8.0-snapshot.20230720.11990.0.v5d026ac9
   - 2.8.0-snapshot.20230721.11992.0.v25c60bf8
   - 2.8.0-snapshot.20230724.11994.0.v235abfa8
@@ -386,4 +388,5 @@ versioning:
   - 2.8.0-snapshot.20230817.12046.0.v444266ed
   - 2.8.0-snapshot.20230818.12049.0.vab038ab0
   - 2.8.0-snapshot.20230821.12054.0.v9f9ecb20
-  lastUpdated: 20230822151228
+  - 2.8.0-snapshot.20230822.12060.0.v9179b2e7
+  lastUpdated: 20230823225213
