@@ -3,8 +3,8 @@
 groupId: org.springframework.boot
 artifactId: spring-boot-actuator-autoconfigure
 versioning:
-  latest: 3.1.2
-  release: 3.1.2
+  latest: 3.1.3
+  release: 3.1.3
   versions:
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
@@ -123,6 +123,7 @@ versioning:
   - 2.7.12
   - 2.7.13
   - 2.7.14
+  - 2.7.15
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -133,7 +134,9 @@ versioning:
   - 3.0.7
   - 3.0.8
   - 3.0.9
+  - 3.0.10
   - 3.1.0
   - 3.1.1
   - 3.1.2
-  lastUpdated: 20230720110134
+  - 3.1.3
+  lastUpdated: 20230824102452

@@ -3,8 +3,8 @@
 groupId: com.palantir.gradle.consistentversions
 artifactId: gradle-consistent-versions
 versioning:
-  latest: 2.14.0-rc2
-  release: 2.14.0-rc2
+  latest: 2.15.0
+  release: 2.15.0
   versions:
   - 0.14.0
   - 0.15.0
@@ -81,4 +81,6 @@ versioning:
   - 2.13.0
   - 2.14.0-rc1
   - 2.14.0-rc2
-  lastUpdated: 20230627165639
+  - 2.14.0
+  - 2.15.0
+  lastUpdated: 20230824165951
