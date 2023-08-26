@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.headless.builder.api
 versioning:
-  latest: 4.0.0
-  release: 4.0.0
+  latest: 5.0.0
+  release: 5.0.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -13,4 +12,5 @@ versioning:
   - 2.0.0
   - 3.0.0
   - 4.0.0
-  lastUpdated: 20230807174602
+  - 5.0.0
+  lastUpdated: 20230825023055

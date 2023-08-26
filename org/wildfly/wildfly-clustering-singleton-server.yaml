@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-clustering-singleton-server
 versioning:
-  latest: 29.0.0.Final
-  release: 29.0.0.Final
+  latest: 29.0.1.Final
+  release: 29.0.1.Final
   versions:
   - 27.0.0.Alpha1
   - 27.0.0.Alpha2
@@ -20,4 +20,5 @@ versioning:
   - 29.0.0.Alpha1
   - 29.0.0.Beta1
   - 29.0.0.Final
-  lastUpdated: 20230720170704
+  - 29.0.1.Final
+  lastUpdated: 20230825160428

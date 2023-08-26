@@ -3,8 +3,8 @@
 groupId: com.testsigma
 artifactId: testsigma-addon-archetype
 versioning:
-  latest: 1.2.2_cloud
-  release: 1.2.2_cloud
+  latest: 1.2.2_onprem_test
+  release: 1.2.2_onprem_test
   versions:
   - 1.0.0.rc1
   - 1.0.1
@@ -22,4 +22,5 @@ versioning:
   - 1.1.0_cloud_1
   - 1.1.1_cloud
   - 1.2.2_cloud
-  lastUpdated: 20230808064649
+  - 1.2.2_onprem_test
+  lastUpdated: 20230825094554

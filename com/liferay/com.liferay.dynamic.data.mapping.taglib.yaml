@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.dynamic.data.mapping.taglib
 versioning:
-  latest: 6.1.6
-  release: 6.1.6
+  latest: 6.1.7
+  release: 6.1.7
   versions:
   - 1.0.0
   - 2.0.0
@@ -165,4 +164,5 @@ versioning:
   - 6.1.4
   - 6.1.5
   - 6.1.6
-  lastUpdated: 20230807234603
+  - 6.1.7
+  lastUpdated: 20230825145520

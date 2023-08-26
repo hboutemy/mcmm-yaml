@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.remote.jaxrs.whiteboard
 versioning:
-  latest: 8.2.0
-  release: 8.2.0
+  latest: 8.2.1
+  release: 8.2.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -76,4 +75,5 @@ versioning:
   - 8.0.2
   - 8.1.0
   - 8.2.0
-  lastUpdated: 20230807235335
+  - 8.2.1
+  lastUpdated: 20230825005504

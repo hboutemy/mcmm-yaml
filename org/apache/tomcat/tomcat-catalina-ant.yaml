@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat
 artifactId: tomcat-catalina-ant
 versioning:
-  latest: 11.0.0-M10
-  release: 11.0.0-M10
+  latest: 11.0.0-M11
+  release: 11.0.0-M11
   versions:
   - 7.0.0
   - 7.0.2
@@ -204,6 +204,7 @@ versioning:
   - 8.5.90
   - 8.5.91
   - 8.5.92
+  - 8.5.93
   - 9.0.0.M1
   - 9.0.0.M3
   - 9.0.0.M4
@@ -286,6 +287,7 @@ versioning:
   - 9.0.76
   - 9.0.78
   - 9.0.79
+  - 9.0.80
   - 10.0.0-M1
   - 10.0.0-M3
   - 10.0.0-M4
@@ -342,6 +344,7 @@ versioning:
   - 10.1.10
   - 10.1.11
   - 10.1.12
+  - 10.1.13
   - 11.0.0-M1
   - 11.0.0-M3
   - 11.0.0-M4
@@ -350,4 +353,5 @@ versioning:
   - 11.0.0-M7
   - 11.0.0-M9
   - 11.0.0-M10
-  lastUpdated: 20230815031101
+  - 11.0.0-M11
+  lastUpdated: 20230825163554

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.js.aui.web
 versioning:
-  latest: 5.0.76
-  release: 5.0.76
+  latest: 5.0.77
+  release: 5.0.77
   versions:
   - 1.0.0
   - 1.0.1
@@ -394,4 +393,5 @@ versioning:
   - 5.0.74
   - 5.0.75
   - 5.0.76
-  lastUpdated: 20230807201028
+  - 5.0.77
+  lastUpdated: 20230825004057
