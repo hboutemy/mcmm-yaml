@@ -3,8 +3,8 @@
 groupId: io.ebean
 artifactId: composites
 versioning:
-  latest: 13.21.0
-  release: 13.21.0
+  latest: 13.21.0-jakarta
+  release: 13.21.0-jakarta
   versions:
   - 13.0.0
   - 13.1.0
@@ -75,4 +75,5 @@ versioning:
   - 13.20.1
   - 13.20.1-jakarta
   - 13.21.0
-  lastUpdated: 20230817105025
+  - 13.21.0-jakarta
+  lastUpdated: 20230827204140
