@@ -3,10 +3,12 @@
 groupId: com.starrocks
 artifactId: starrocks-bdb-je
 versioning:
-  latest: 18.3.13
-  release: 18.3.13
+  latest: 18.3.15
+  release: 18.3.15
   versions:
   - 7.3.8
   - 7.5.17
   - 18.3.13
-  lastUpdated: 20230221061701
+  - 18.3.14
+  - 18.3.15
+  lastUpdated: 20230828083101

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.main
 artifactId: glassfish-main-aggregator
 versioning:
-  latest: 7.0.7
-  release: 7.0.7
+  latest: 7.0.8
+  release: 7.0.8
   versions:
   - 5.1.0
   - 6.0.0-M1
@@ -34,5 +34,6 @@ versioning:
   - 7.0.5
   - 7.0.6
   - 7.0.7
+  - 7.0.8
   - 5.1.0-RC2
-  lastUpdated: 20230729161134
+  lastUpdated: 20230828142231

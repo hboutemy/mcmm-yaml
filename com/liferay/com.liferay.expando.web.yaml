@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.expando.web
 versioning:
-  latest: 5.0.39
-  release: 5.0.39
+  latest: 4.0.54
+  release: 4.0.54
   versions:
   - 1.0.0
   - 1.0.1
@@ -259,4 +258,5 @@ versioning:
   - 5.0.37
   - 5.0.38
   - 5.0.39
-  lastUpdated: 20230807215639
+  - 4.0.54
+  lastUpdated: 20230828143809

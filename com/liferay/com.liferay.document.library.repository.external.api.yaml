@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.document.library.repository.external.api
 versioning:
-  latest: 8.0.3
-  release: 8.0.3
+  latest: 4.0.15
+  release: 4.0.15
   versions:
   - 1.0.0
   - 1.0.1
@@ -84,4 +83,5 @@ versioning:
   - 8.0.1
   - 8.0.2
   - 8.0.3
-  lastUpdated: 20230807192900
+  - 4.0.15
+  lastUpdated: 20230828132549

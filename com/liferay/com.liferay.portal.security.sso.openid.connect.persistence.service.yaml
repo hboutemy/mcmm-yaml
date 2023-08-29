@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.security.sso.openid.connect.persistence.service
 versioning:
-  latest: 6.0.24
-  release: 6.0.24
+  latest: 5.0.9
+  release: 5.0.9
   versions:
   - 1.0.0
   - 1.0.1
@@ -59,4 +58,5 @@ versioning:
   - 6.0.22
   - 6.0.23
   - 6.0.24
-  lastUpdated: 20230807200725
+  - 5.0.9
+  lastUpdated: 20230828134414

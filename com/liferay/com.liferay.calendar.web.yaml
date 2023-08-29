@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.calendar.web
 versioning:
-  latest: 5.0.77
-  release: 5.0.77
+  latest: 4.0.81
+  release: 4.0.81
   versions:
   - 1.0.0
   - 1.0.1
@@ -504,4 +503,5 @@ versioning:
   - 5.0.75
   - 5.0.76
   - 5.0.77
-  lastUpdated: 20230807190412
+  - 4.0.81
+  lastUpdated: 20230828143205

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.chat.service
 versioning:
-  latest: 6.0.37
-  release: 6.0.37
+  latest: 5.0.51
+  release: 5.0.51
   versions:
   - 1.0.0
   - 1.0.1
@@ -328,4 +327,5 @@ versioning:
   - 6.0.35
   - 6.0.36
   - 6.0.37
-  lastUpdated: 20230807202727
+  - 5.0.51
+  lastUpdated: 20230828131259

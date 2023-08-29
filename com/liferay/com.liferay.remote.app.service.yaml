@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.remote.app.service
 versioning:
-  latest: 2.0.28
-  release: 2.0.28
+  latest: 1.0.22
+  release: 1.0.22
   versions:
   - 1.0.0
   - 1.0.1
@@ -58,4 +57,5 @@ versioning:
   - 2.0.26
   - 2.0.27
   - 2.0.28
-  lastUpdated: 20230807200608
+  - 1.0.22
+  lastUpdated: 20230828134624

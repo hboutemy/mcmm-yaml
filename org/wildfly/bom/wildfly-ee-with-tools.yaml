@@ -3,8 +3,8 @@
 groupId: org.wildfly.bom
 artifactId: wildfly-ee-with-tools
 versioning:
-  latest: 29.0.0.Final
-  release: 29.0.0.Final
+  latest: 29.0.1.Final
+  release: 29.0.1.Final
   versions:
   - 27.0.0.Alpha4
   - 27.0.0.Beta1
@@ -15,4 +15,5 @@ versioning:
   - 28.0.1.Final
   - 29.0.0.Beta1
   - 29.0.0.Final
-  lastUpdated: 20230721083233
+  - 29.0.1.Final
+  lastUpdated: 20230828121712
