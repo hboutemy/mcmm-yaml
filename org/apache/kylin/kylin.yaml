@@ -3,8 +3,8 @@
 groupId: org.apache.kylin
 artifactId: kylin
 versioning:
-  latest: 5.0.0-alpha
-  release: 5.0.0-alpha
+  latest: 5.0.0-beta
+  release: 5.0.0-beta
   versions:
   - 0.7.1-incubating
   - 0.7.2-incubating
@@ -55,4 +55,5 @@ versioning:
   - 4.0.2
   - 4.0.3
   - 5.0.0-alpha
-  lastUpdated: 20230425084938
+  - 5.0.0-beta
+  lastUpdated: 20230829065924

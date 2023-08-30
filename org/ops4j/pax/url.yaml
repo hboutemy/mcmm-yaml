@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.ops4j.pax
 artifactId: url
 versioning:
-  latest: 2.6.1
-  release: 2.6.1
+  latest: 2.6.14
+  release: 2.6.14
   versions:
   - 1.0.0
   - 1.1.0
@@ -58,11 +59,6 @@ versioning:
   - 2.5.4
   - 2.6.0
   - 2.6.1
-  - 2.6.10
-  - 2.6.11
-  - 2.6.12
-  - 2.6.13
-  - 2.6.14
   - 2.6.2
   - 2.6.3
   - 2.6.4
@@ -71,4 +67,9 @@ versioning:
   - 2.6.7
   - 2.6.8
   - 2.6.9
-  lastUpdated: 20190108104051
+  - 2.6.10
+  - 2.6.11
+  - 2.6.12
+  - 2.6.13
+  - 2.6.14
+  lastUpdated: 20230829185452

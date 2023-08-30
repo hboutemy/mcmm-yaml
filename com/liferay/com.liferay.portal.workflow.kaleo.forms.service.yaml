@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.workflow.kaleo.forms.service
 versioning:
-  latest: 5.0.42
-  release: 5.0.42
+  latest: 4.0.44
+  release: 4.0.44
   versions:
   - 1.1.58
   - 1.1.59
@@ -112,4 +111,5 @@ versioning:
   - 5.0.40
   - 5.0.41
   - 5.0.42
-  lastUpdated: 20230807232057
+  - 4.0.44
+  lastUpdated: 20230829015457

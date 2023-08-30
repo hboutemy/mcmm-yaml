@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-checkstyle
 versioning:
-  latest: 2.4.0.Alpha2
-  release: 2.4.0.Alpha2
+  latest: 2.4.0.Beta1
+  release: 2.4.0.Beta1
   versions:
   - 1.5.0.Beta2
   - 1.5.0.CR1
@@ -78,4 +78,5 @@ versioning:
   - 2.3.2.Final
   - 2.4.0.Alpha1
   - 2.4.0.Alpha2
-  lastUpdated: 20230809112433
+  - 2.4.0.Beta1
+  lastUpdated: 20230829150605
