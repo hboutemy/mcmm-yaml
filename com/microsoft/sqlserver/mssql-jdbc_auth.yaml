@@ -3,8 +3,8 @@
 groupId: com.microsoft.sqlserver
 artifactId: mssql-jdbc_auth
 versioning:
-  latest: 12.4.0.x86
-  release: 12.4.0.x86
+  latest: 12.4.1.x86
+  release: 12.4.1.x86
   versions:
   - 8.1.1.x64-preview
   - 8.1.1.x86-preview
@@ -72,4 +72,6 @@ versioning:
   - 12.3.1.x86-preview
   - 12.4.0.x64
   - 12.4.0.x86
-  lastUpdated: 20230814195814
+  - 12.4.1.x64
+  - 12.4.1.x86
+  lastUpdated: 20230830225144

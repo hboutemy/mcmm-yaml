@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty
 artifactId: jetty-home
 versioning:
-  latest: 12.0.0
-  release: 12.0.0
+  latest: 12.0.1
+  release: 12.0.1
   versions:
   - 9.4.0.M1
   - 9.4.0.RC0
@@ -102,6 +102,7 @@ versioning:
   - 10.0.13
   - 10.0.14
   - 10.0.15
+  - 10.0.16
   - 11.0.0-alpha0
   - 11.0.0.beta1
   - 11.0.0.beta2
@@ -122,6 +123,7 @@ versioning:
   - 11.0.13
   - 11.0.14
   - 11.0.15
+  - 11.0.16
   - 12.0.0.alpha0
   - 12.0.0.alpha1
   - 12.0.0.alpha2
@@ -132,4 +134,5 @@ versioning:
   - 12.0.0.beta3
   - 12.0.0.beta4
   - 12.0.0
-  lastUpdated: 20230828154342
+  - 12.0.1
+  lastUpdated: 20230830214833
