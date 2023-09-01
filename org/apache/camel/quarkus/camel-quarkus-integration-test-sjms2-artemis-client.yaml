@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-integration-test-sjms2-artemis-client
 versioning:
-  latest: 3.0.0-RC2
-  release: 3.0.0-RC2
+  latest: 3.2.0
+  release: 3.2.0
   versions:
   - 2.2.0
   - 2.2.1
@@ -32,4 +32,5 @@ versioning:
   - 3.0.0-M2
   - 3.0.0-RC1
   - 3.0.0-RC2
-  lastUpdated: 20230802114900
+  - 3.2.0
+  lastUpdated: 20230831210041

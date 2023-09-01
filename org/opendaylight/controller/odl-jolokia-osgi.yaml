@@ -3,8 +3,8 @@
 groupId: org.opendaylight.controller
 artifactId: odl-jolokia-osgi
 versioning:
-  latest: 8.0.0
-  release: 8.0.0
+  latest: 8.0.1
+  release: 8.0.1
   versions:
   - 0.3.0-Beryllium
   - 0.3.1-Beryllium-SR1
@@ -120,4 +120,5 @@ versioning:
   - 7.0.8
   - 7.0.9
   - 8.0.0
-  lastUpdated: 20230727093214
+  - 8.0.1
+  lastUpdated: 20230831070429

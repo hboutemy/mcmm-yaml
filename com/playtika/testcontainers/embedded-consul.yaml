@@ -3,8 +3,8 @@
 groupId: com.playtika.testcontainers
 artifactId: embedded-consul
 versioning:
-  latest: 3.0.0-RC9
-  release: 3.0.0-RC9
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 2.0.11
   - 2.0.12
@@ -48,4 +48,5 @@ versioning:
   - 3.0.0-RC7
   - 3.0.0-RC8
   - 3.0.0-RC9
-  lastUpdated: 20230807083021
+  - 3.0.0
+  lastUpdated: 20230831125115

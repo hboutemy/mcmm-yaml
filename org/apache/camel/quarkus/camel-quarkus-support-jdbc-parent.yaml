@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-support-jdbc-parent
 versioning:
-  latest: 3.0.0-RC2
-  release: 3.0.0-RC2
+  latest: 3.2.0
+  release: 3.2.0
   versions:
   - 2.13.0
   - 2.13.1
@@ -17,4 +17,5 @@ versioning:
   - 3.0.0-M2
   - 3.0.0-RC1
   - 3.0.0-RC2
-  lastUpdated: 20230802121818
+  - 3.2.0
+  lastUpdated: 20230831213202

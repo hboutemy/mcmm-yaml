@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-activemq-deployment
 versioning:
-  latest: 3.0.0-RC2
-  release: 3.0.0-RC2
+  latest: 3.2.0
+  release: 3.2.0
   versions:
   - 1.0.0-M5
   - 1.0.0-M6
@@ -49,4 +49,5 @@ versioning:
   - 2.15.0
   - 2.16.0
   - 3.0.0-RC2
-  lastUpdated: 20230802110341
+  - 3.2.0
+  lastUpdated: 20230831201732
