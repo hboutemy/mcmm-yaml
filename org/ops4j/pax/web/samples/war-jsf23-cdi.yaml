@@ -3,8 +3,8 @@
 groupId: org.ops4j.pax.web.samples
 artifactId: war-jsf23-cdi
 versioning:
-  latest: 9.0.10
-  release: 9.0.10
+  latest: 9.0.11
+  release: 9.0.11
   versions:
   - 8.0.0
   - 8.0.1
@@ -28,6 +28,7 @@ versioning:
   - 8.0.19
   - 8.0.20
   - 8.0.21
+  - 8.0.22
   - 9.0.0
   - 9.0.1
   - 9.0.2
@@ -39,4 +40,5 @@ versioning:
   - 9.0.8
   - 9.0.9
   - 9.0.10
-  lastUpdated: 20230726183221
+  - 9.0.11
+  lastUpdated: 20230901154835
