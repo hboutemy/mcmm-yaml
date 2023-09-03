@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.ops4j.pax.exam
 artifactId: pax-exam-features
 versioning:
-  latest: 4.13.1
-  release: 4.13.1
+  latest: 4.13.5
+  release: 4.13.5
   versions:
   - 3.4.0
   - 3.5.0
@@ -30,4 +31,4 @@ versioning:
   - 4.13.3
   - 4.13.4
   - 4.13.5
-  lastUpdated: 20181209073118
+  lastUpdated: 20230829185211

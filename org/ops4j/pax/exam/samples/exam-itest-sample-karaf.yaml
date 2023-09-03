@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.ops4j.pax.exam.samples
 artifactId: exam-itest-sample-karaf
 versioning:
-  latest: 4.13.1
-  release: 4.13.1
+  latest: 4.13.5
+  release: 4.13.5
   versions:
   - 3.5.0
   - 3.6.0
@@ -29,4 +30,4 @@ versioning:
   - 4.13.3
   - 4.13.4
   - 4.13.5
-  lastUpdated: 20181209073122
+  lastUpdated: 20230829185026
