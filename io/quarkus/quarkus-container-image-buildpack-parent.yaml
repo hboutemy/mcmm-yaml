@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-container-image-buildpack-parent
 versioning:
-  latest: 3.3.1
-  release: 3.3.1
+  latest: 3.3.2
+  release: 3.3.2
   versions:
   - 2.7.0.CR1
   - 2.7.0.Final
@@ -101,4 +101,5 @@ versioning:
   - 3.3.0.CR1
   - 3.3.0
   - 3.3.1
-  lastUpdated: 20230828183251
+  - 3.3.2
+  lastUpdated: 20230905133631
