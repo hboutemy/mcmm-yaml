@@ -3,8 +3,8 @@
 groupId: com.datastax.cassandra
 artifactId: cassandra-driver-parent
 versioning:
-  latest: 3.11.4
-  release: 3.11.4
+  latest: 3.11.5
+  release: 3.11.5
   versions:
   - 1.0.0-beta1
   - 1.0.0-beta2
@@ -110,5 +110,6 @@ versioning:
   - 3.11.2
   - 3.11.3
   - 3.11.4
+  - 3.11.5
   - 2.2.0-rc1
-  lastUpdated: 20230726221326
+  lastUpdated: 20230906171450

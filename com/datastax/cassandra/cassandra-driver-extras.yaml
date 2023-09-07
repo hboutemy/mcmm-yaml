@@ -3,8 +3,8 @@
 groupId: com.datastax.cassandra
 artifactId: cassandra-driver-extras
 versioning:
-  latest: 3.11.4
-  release: 3.11.4
+  latest: 3.11.5
+  release: 3.11.5
   versions:
   - 3.0.0-alpha5
   - 3.0.0-beta1
@@ -44,4 +44,5 @@ versioning:
   - 3.11.2
   - 3.11.3
   - 3.11.4
-  lastUpdated: 20230726221324
+  - 3.11.5
+  lastUpdated: 20230906171449

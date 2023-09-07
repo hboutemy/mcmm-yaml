@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-process-test-assertions
 versioning:
-  latest: 8.3.0-alpha4
-  release: 8.3.0-alpha4
+  latest: 8.3.0-alpha5
+  release: 8.3.0-alpha5
   versions:
   - 1.4.0-alpha2
   - 8.0.0-rc1
@@ -26,6 +26,7 @@ versioning:
   - 8.0.17
   - 8.0.18
   - 8.0.19
+  - 8.0.20
   - 8.1.0-alpha1
   - 8.1.0-alpha2
   - 8.1.0-alpha3
@@ -47,6 +48,7 @@ versioning:
   - 8.1.13
   - 8.1.14
   - 8.1.15
+  - 8.1.16
   - 8.2.0-alpha1
   - 8.2.0-alpha2
   - 8.2.0-alpha3
@@ -65,9 +67,11 @@ versioning:
   - 8.2.10
   - 8.2.11
   - 8.2.12
+  - 8.2.13
   - 8.3.0-alpha1
   - 8.3.0-alpha2
   - 8.3.0-alpha2.2
   - 8.3.0-alpha3
   - 8.3.0-alpha4
-  lastUpdated: 20230816093022
+  - 8.3.0-alpha5
+  lastUpdated: 20230906204502

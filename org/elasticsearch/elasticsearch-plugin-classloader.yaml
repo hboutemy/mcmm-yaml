@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-plugin-classloader
 versioning:
-  latest: 8.9.1
-  release: 8.9.1
+  latest: 8.9.2
+  release: 8.9.2
   versions:
   - 7.11.1
   - 7.11.2
@@ -38,6 +38,7 @@ versioning:
   - 7.17.10
   - 7.17.11
   - 7.17.12
+  - 7.17.13
   - 8.0.0-alpha1
   - 8.0.0-alpha2
   - 8.0.0-beta1
@@ -75,4 +76,5 @@ versioning:
   - 8.8.2
   - 8.9.0
   - 8.9.1
-  lastUpdated: 20230817112227
+  - 8.9.2
+  lastUpdated: 20230906210700
