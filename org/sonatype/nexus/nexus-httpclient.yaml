@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus
 artifactId: nexus-httpclient
 versioning:
-  latest: 3.59.0-01
-  release: 3.59.0-01
+  latest: 3.60.0-02
+  release: 3.60.0-02
   versions:
   - 3.0.0-b2015061001
   - 3.0.0-b2015091801
@@ -135,4 +135,5 @@ versioning:
   - 3.58.1-01
   - 3.58.1-02
   - 3.59.0-01
-  lastUpdated: 20230809174442
+  - 3.60.0-02
+  lastUpdated: 20230907124231
