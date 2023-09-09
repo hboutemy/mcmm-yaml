@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-marshaller-parent
 versioning:
-  latest: 14.0.16.Final
-  release: 14.0.16.Final
+  latest: 14.0.17.Final
+  release: 14.0.17.Final
   versions:
   - 9.0.0.Beta1
   - 9.0.0.Beta2
@@ -208,5 +208,6 @@ versioning:
   - 14.0.14.Final
   - 14.0.15.Final
   - 14.0.16.Final
+  - 14.0.17.Final
   - 12.0.0.Dev03
-  lastUpdated: 20230904114939
+  lastUpdated: 20230908114719

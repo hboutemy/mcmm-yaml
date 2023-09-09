@@ -3,8 +3,8 @@
 groupId: com.arkivanov.decompose
 artifactId: decompose-iossimulatorarm64
 versioning:
-  latest: 2.1.0-compose-experimental-alpha-07
-  release: 2.1.0-compose-experimental-alpha-07
+  latest: 2.1.0-compose-experimental-alpha-08
+  release: 2.1.0-compose-experimental-alpha-08
   versions:
   - 0.4.0
   - 0.5.0
@@ -51,6 +51,8 @@ versioning:
   - 2.0.0-compose-experimental
   - 2.0.1
   - 2.0.1-compose-experimental
+  - 2.0.2
+  - 2.0.2-compose-experimental
   - 2.1.0-alpha-01
   - 2.1.0-alpha-02
   - 2.1.0-alpha-03
@@ -58,6 +60,7 @@ versioning:
   - 2.1.0-alpha-05
   - 2.1.0-alpha-06
   - 2.1.0-alpha-07
+  - 2.1.0-alpha-08
   - 2.1.0-compose-experimental-alpha-01
   - 2.1.0-compose-experimental-alpha-02
   - 2.1.0-compose-experimental-alpha-03
@@ -65,4 +68,5 @@ versioning:
   - 2.1.0-compose-experimental-alpha-05
   - 2.1.0-compose-experimental-alpha-06
   - 2.1.0-compose-experimental-alpha-07
-  lastUpdated: 20230819114147
+  - 2.1.0-compose-experimental-alpha-08
+  lastUpdated: 20230908214740

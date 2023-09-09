@@ -3,8 +3,8 @@
 groupId: io.helidon.integrations.cdi
 artifactId: helidon-integrations-cdi-datasource-hikaricp
 versioning:
-  latest: 4.0.0-M1
-  release: 4.0.0-M1
+  latest: 4.0.0-M2
+  release: 4.0.0-M2
   versions:
   - 0.10.3
   - 0.10.4
@@ -68,6 +68,7 @@ versioning:
   - 2.6.0
   - 2.6.1
   - 2.6.2
+  - 2.6.3
   - 3.0.0-M1
   - 3.0.0-M2
   - 3.0.0-RC1
@@ -88,4 +89,5 @@ versioning:
   - 4.0.0-ALPHA5
   - 4.0.0-ALPHA6
   - 4.0.0-M1
-  lastUpdated: 20230718213358
+  - 4.0.0-M2
+  lastUpdated: 20230908222147
