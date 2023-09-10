@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.editor.ckeditor.web
 versioning:
-  latest: 5.0.82
-  release: 5.0.82
+  latest: 5.0.83
+  release: 5.0.83
   versions:
   - 1.0.0
   - 1.0.1
@@ -404,4 +403,5 @@ versioning:
   - 5.0.80
   - 5.0.81
   - 5.0.82
-  lastUpdated: 20230807200330
+  - 5.0.83
+  lastUpdated: 20230909172228

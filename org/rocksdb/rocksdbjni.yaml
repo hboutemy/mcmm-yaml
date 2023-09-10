@@ -3,8 +3,8 @@
 groupId: org.rocksdb
 artifactId: rocksdbjni
 versioning:
-  latest: 8.3.3
-  release: 8.3.3
+  latest: 8.5.3
+  release: 8.5.3
   versions:
   - 3.5.0
   - 3.5.1
@@ -119,5 +119,7 @@ versioning:
   - 8.1.1.1
   - 8.3.2
   - 8.3.3
+  - 8.4.4
+  - 8.5.3
   - 4.1.0
-  lastUpdated: 20230908222635
+  lastUpdated: 20230909230553

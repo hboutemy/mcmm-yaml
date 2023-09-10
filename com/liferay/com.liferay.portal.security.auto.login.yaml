@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.security.auto.login
 versioning:
-  latest: 6.0.17
-  release: 6.0.17
+  latest: 6.0.18
+  release: 6.0.18
   versions:
   - 1.0.0
   - 2.0.0
@@ -160,4 +159,5 @@ versioning:
   - 6.0.15
   - 6.0.16
   - 6.0.17
-  lastUpdated: 20230807222805
+  - 6.0.18
+  lastUpdated: 20230909173337
