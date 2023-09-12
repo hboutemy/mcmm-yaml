@@ -3,8 +3,8 @@
 groupId: io.micrometer
 artifactId: micrometer-registry-opentsdb
 versioning:
-  latest: 1.11.3
-  release: 1.11.3
+  latest: 1.11.4
+  release: 1.11.4
   versions:
   - 1.4.0
   - 1.4.1
@@ -81,6 +81,7 @@ versioning:
   - 1.9.12
   - 1.9.13
   - 1.9.14
+  - 1.9.15
   - 1.10.0
   - 1.10.1
   - 1.10.2
@@ -92,10 +93,12 @@ versioning:
   - 1.10.8
   - 1.10.9
   - 1.10.10
+  - 1.10.11
   - 1.11.0
   - 1.11.1
   - 1.11.2
   - 1.11.3
+  - 1.11.4
   - 1.5.11
   - 1.6.4
-  lastUpdated: 20230814230133
+  lastUpdated: 20230911192045

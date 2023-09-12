@@ -4,7 +4,7 @@ groupId: org.keycloak
 artifactId: keycloak-distribution-maven-plugins-parent
 versioning:
   latest: 18.0.2
-  release: 22.0.1
+  release: 22.0.2
   versions:
   - 3.4.1.CR1
   - 3.4.1.Final
@@ -81,4 +81,5 @@ versioning:
   - 21.1.2
   - 22.0.0
   - 22.0.1
-  lastUpdated: 20230718091436
+  - 22.0.2
+  lastUpdated: 20230911100302
