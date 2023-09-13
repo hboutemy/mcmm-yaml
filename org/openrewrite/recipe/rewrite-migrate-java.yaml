@@ -3,8 +3,8 @@
 groupId: org.openrewrite.recipe
 artifactId: rewrite-migrate-java
 versioning:
-  latest: 2.0.10
-  release: 2.0.10
+  latest: 2.1.0
+  release: 2.1.0
   versions:
   - 0.1.0
   - 0.2.0
@@ -57,4 +57,5 @@ versioning:
   - 2.0.8
   - 2.0.9
   - 2.0.10
-  lastUpdated: 20230825023121
+  - 2.1.0
+  lastUpdated: 20230912175006

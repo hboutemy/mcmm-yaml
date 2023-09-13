@@ -3,8 +3,8 @@
 groupId: com.google.cloud.sql
 artifactId: mysql-socket-factory-connector-j-8
 versioning:
-  latest: 1.13.1
-  release: 1.13.1
+  latest: 1.14.0
+  release: 1.14.0
   versions:
   - 1.0.10
   - 1.0.11
@@ -32,6 +32,7 @@ versioning:
   - 1.12.0
   - 1.13.0
   - 1.13.1
+  - 1.14.0
   - 1.2.2
   - 1.2.3
   - 1.3.0
@@ -48,4 +49,4 @@ versioning:
   - 1.6.0
   - 1.6.1
   - 1.6.2
-  lastUpdated: 20230721155949
+  lastUpdated: 20230912163936

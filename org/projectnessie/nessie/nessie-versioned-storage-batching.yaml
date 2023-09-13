@@ -3,8 +3,8 @@
 groupId: org.projectnessie.nessie
 artifactId: nessie-versioned-storage-batching
 versioning:
-  latest: 0.70.0
-  release: 0.70.0
+  latest: 0.70.2
+  release: 0.70.2
   versions:
   - 0.53.1
   - 0.54.0
@@ -30,4 +30,6 @@ versioning:
   - 0.69.1
   - 0.69.2
   - 0.70.0
-  lastUpdated: 20230831155511
+  - 0.70.1
+  - 0.70.2
+  lastUpdated: 20230912152209
