@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-storage-jdbc
 versioning:
-  latest: 2.4.0.Beta1
-  release: 2.4.0.Beta1
+  latest: 2.4.0.Beta2
+  release: 2.4.0.Beta2
   versions:
   - 2.3.0.Alpha1
   - 2.3.0.Beta1
@@ -16,4 +16,5 @@ versioning:
   - 2.4.0.Alpha1
   - 2.4.0.Alpha2
   - 2.4.0.Beta1
-  lastUpdated: 20230904125254
+  - 2.4.0.Beta2
+  lastUpdated: 20230913103316

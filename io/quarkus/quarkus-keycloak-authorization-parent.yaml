@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-keycloak-authorization-parent
 versioning:
-  latest: 3.4.0.CR1
-  release: 3.4.0.CR1
+  latest: 3.4.0
+  release: 3.4.0
   versions:
   - 0.27.0
   - 0.28.0
@@ -226,4 +226,5 @@ versioning:
   - 3.3.1
   - 3.3.2
   - 3.4.0.CR1
-  lastUpdated: 20230906102247
+  - 3.4.0
+  lastUpdated: 20230913141914

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.antivirus.clamd.scanner
 versioning:
-  latest: 5.0.10
-  release: 5.0.10
+  latest: 3.0.15
+  release: 3.0.15
   versions:
   - 1.0.0
   - 1.0.1
@@ -87,4 +86,5 @@ versioning:
   - 5.0.8
   - 5.0.9
   - 5.0.10
-  lastUpdated: 20230807193051
+  - 3.0.15
+  lastUpdated: 20230913193056
