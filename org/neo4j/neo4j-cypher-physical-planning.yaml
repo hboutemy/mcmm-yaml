@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-cypher-physical-planning
 versioning:
-  latest: 5.11.0
-  release: 5.11.0
+  latest: 5.12.0
+  release: 5.12.0
   versions:
   - 3.3.0-beta01
   - 3.3.0-beta02
@@ -74,4 +74,5 @@ versioning:
   - 5.9.0
   - 5.10.0
   - 5.11.0
-  lastUpdated: 20230815091950
+  - 5.12.0
+  lastUpdated: 20230914085647

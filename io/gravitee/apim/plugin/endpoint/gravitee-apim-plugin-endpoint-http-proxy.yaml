@@ -3,8 +3,8 @@
 groupId: io.gravitee.apim.plugin.endpoint
 artifactId: gravitee-apim-plugin-endpoint-http-proxy
 versioning:
-  latest: 4.0.7
-  release: 4.0.7
+  latest: 4.0.8
+  release: 4.0.8
   versions:
   - 3.20.0
   - 3.20.1
@@ -25,6 +25,7 @@ versioning:
   - 3.20.16
   - 3.20.17
   - 3.20.18
+  - 3.20.19
   - 4.0.0-alpha.2
   - 4.0.0-alpha.3
   - 4.0.0-alpha.4
@@ -36,4 +37,5 @@ versioning:
   - 4.0.5
   - 4.0.6
   - 4.0.7
-  lastUpdated: 20230911150652
+  - 4.0.8
+  lastUpdated: 20230914153808

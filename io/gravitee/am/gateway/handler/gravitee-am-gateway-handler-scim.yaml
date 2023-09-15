@@ -3,8 +3,8 @@
 groupId: io.gravitee.am.gateway.handler
 artifactId: gravitee-am-gateway-handler-scim
 versioning:
-  latest: 4.0.0
-  release: 4.0.0
+  latest: 4.1.0-alpha.2
+  release: 4.1.0-alpha.2
   versions:
   - 2.6.0
   - 2.7.0
@@ -238,5 +238,7 @@ versioning:
   - 3.21.1
   - 3.21.2
   - 3.21.4
+  - 3.21.6
   - 4.0.0
-  lastUpdated: 20230726105024
+  - 4.1.0-alpha.2
+  lastUpdated: 20230914192909
