@@ -3,8 +3,8 @@
 groupId: org.springframework.data.build
 artifactId: spring-data-parent
 versioning:
-  latest: 3.1.3
-  release: 3.1.3
+  latest: 3.1.4
+  release: 3.1.4
   versions:
   - 1.0.0.RELEASE
   - 1.0.1.RELEASE
@@ -190,6 +190,7 @@ versioning:
   - 2.7.13
   - 2.7.14
   - 2.7.15
+  - 2.7.16
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -200,12 +201,14 @@ versioning:
   - 3.0.7
   - 3.0.8
   - 3.0.9
+  - 3.0.10
   - 3.1.0
   - 3.1.1
   - 3.1.2
   - 3.1.3
+  - 3.1.4
   - 2.2.13.RELEASE
   - 2.3.7.RELEASE
   - 2.4.4
   - 2.4.5
-  lastUpdated: 20230818122509
+  lastUpdated: 20230915091251

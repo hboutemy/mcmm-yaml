@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: commons-db
 versioning:
-  latest: 0.930.0-rc4
-  release: 0.930.0-rc4
+  latest: 0.930.0
+  release: 0.930.0
   versions:
   - 0.311.6
   - 0.311.7
@@ -742,4 +742,5 @@ versioning:
   - 0.929.0
   - 0.930.0-rc1
   - 0.930.0-rc4
-  lastUpdated: 20230914154419
+  - 0.930.0
+  lastUpdated: 20230915000952
