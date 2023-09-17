@@ -3,9 +3,13 @@
 groupId: io.github.studeyang
 artifactId: kubernetes-discovery
 versioning:
-  latest: 2021.0.5_1
-  release: 2021.0.5_1
+  latest: 2021.0.5C1
+  release: 2021.0.5C1
   versions:
+  - Finchley.RELEASE
+  - Finchley.RELEASE_1
   - 2021.0.5
   - 2021.0.5_1
-  lastUpdated: 20230915103459
+  - 2021.0.5_2
+  - 2021.0.5C1
+  lastUpdated: 20230916024039
