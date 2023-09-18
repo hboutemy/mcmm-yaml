@@ -3,8 +3,8 @@
 groupId: org.apache.cxf.systests
 artifactId: cxf-wsdl-maven
 versioning:
-  latest: 4.0.2
-  release: 4.0.2
+  latest: 4.0.3
+  release: 4.0.3
   versions:
   - 2.2.5
   - 2.2.6
@@ -171,8 +171,11 @@ versioning:
   - 3.5.4
   - 3.5.5
   - 3.5.6
+  - 3.5.7
   - 3.6.0
   - 3.6.1
+  - 3.6.2
   - 4.0.1
   - 4.0.2
-  lastUpdated: 20230609191118
+  - 4.0.3
+  lastUpdated: 20230917212336
