@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-integration-test-nitrite
 versioning:
-  latest: 3.2.0
-  release: 3.2.0
+  latest: 3.4.0
+  release: 3.4.0
   versions:
   - 1.8.0
   - 1.8.1
@@ -39,4 +39,5 @@ versioning:
   - 3.0.0-RC1
   - 3.0.0-RC2
   - 3.2.0
-  lastUpdated: 20230831205658
+  - 3.4.0
+  lastUpdated: 20230918105628

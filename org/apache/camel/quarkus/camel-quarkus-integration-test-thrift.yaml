@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-integration-test-thrift
 versioning:
-  latest: 3.2.0
-  release: 3.2.0
+  latest: 3.4.0
+  release: 3.4.0
   versions:
   - 2.3.0
   - 2.4.0
@@ -31,4 +31,5 @@ versioning:
   - 3.0.0-RC1
   - 3.0.0-RC2
   - 3.2.0
-  lastUpdated: 20230831210251
+  - 3.4.0
+  lastUpdated: 20230918110205

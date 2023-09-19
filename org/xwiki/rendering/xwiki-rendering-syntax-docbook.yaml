@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.rendering
 artifactId: xwiki-rendering-syntax-docbook
 versioning:
-  latest: 15.7
-  release: 15.7
+  latest: 15.8-rc-1
+  release: 15.8-rc-1
   versions:
   - 4.1-milestone-1
   - 4.1-milestone-2
@@ -402,6 +402,7 @@ versioning:
   - 14.10.14
   - 14.10.15
   - 14.10.16
+  - 14.10.17
   - 15.0-rc-1
   - 15.0
   - 15.1-rc-1
@@ -420,4 +421,5 @@ versioning:
   - 15.6
   - 15.7-rc-1
   - 15.7
-  lastUpdated: 20230901143948
+  - 15.8-rc-1
+  lastUpdated: 20230918103027

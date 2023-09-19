@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.controller
 artifactId: sal-binding-it
 versioning:
-  latest: 8.0.1
-  release: 8.0.1
+  latest: 8.0.2
+  release: 8.0.2
   versions:
   - 1.0
   - 1.1-Helium
@@ -134,4 +134,5 @@ versioning:
   - 7.0.9
   - 8.0.0
   - 8.0.1
-  lastUpdated: 20230831070723
+  - 8.0.2
+  lastUpdated: 20230918122406

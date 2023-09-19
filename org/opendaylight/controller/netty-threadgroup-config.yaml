@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.controller
 artifactId: netty-threadgroup-config
 versioning:
-  latest: 0.19.1
-  release: 0.19.1
+  latest: 0.19.2
+  release: 0.19.2
   versions:
   - 0.2.3
   - 0.2.5-Helium
@@ -134,4 +134,5 @@ versioning:
   - 0.18.9
   - 0.19.0
   - 0.19.1
-  lastUpdated: 20230831070320
+  - 0.19.2
+  lastUpdated: 20230918122002
