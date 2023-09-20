@@ -3,8 +3,8 @@
 groupId: org.sdase.commons
 artifactId: sda-commons-shared-asyncapi
 versioning:
-  latest: 5.4.21
-  release: 5.4.21
+  latest: 5.4.25
+  release: 5.4.25
   versions:
   - 0.82.0
   - 0.82.1
@@ -681,6 +681,8 @@ versioning:
   - 2.64.93
   - 2.64.94
   - 2.64.95
+  - 2.64.96
+  - 2.64.97
   - 3.0.0-alpha.1
   - 3.0.0-alpha.2
   - 3.0.0-rc.1
@@ -851,4 +853,7 @@ versioning:
   - 5.4.19
   - 5.4.20
   - 5.4.21
-  lastUpdated: 20230918151728
+  - 5.4.23
+  - 5.4.24
+  - 5.4.25
+  lastUpdated: 20230919151023

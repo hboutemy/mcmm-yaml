@@ -3,8 +3,8 @@
 groupId: org.graalvm.nativeimage
 artifactId: svm-truffle-tck
 versioning:
-  latest: 23.0.1
-  release: 23.0.1
+  latest: 23.1.0
+  release: 23.1.0
   versions:
   - 19.3.0
   - 19.3.0.2
@@ -56,4 +56,5 @@ versioning:
   - 22.3.3
   - 23.0.0
   - 23.0.1
-  lastUpdated: 20230718135112
+  - 23.1.0
+  lastUpdated: 20230919121149

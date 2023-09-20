@@ -3,8 +3,8 @@
 groupId: com.teamscale
 artifactId: teamscale-bom
 versioning:
-  latest: 9.2.0-rc1
-  release: 9.2.0-rc1
+  latest: 9.2.0-rc2
+  release: 9.2.0-rc2
   versions:
   - 5.9.0-rc1
   - 5.9.0-rc3
@@ -545,6 +545,7 @@ versioning:
   - 8.9.13
   - 8.9.14
   - 8.9.15
+  - 8.9.16
   - 9.0.0-rc1
   - 9.0.0-rc2
   - 9.0.0-rc3
@@ -558,6 +559,7 @@ versioning:
   - 9.0.7
   - 9.0.8
   - 9.0.9
+  - 9.0.10
   - 9.1.0-rc1
   - 9.1.0-rc2
   - 9.1.0-rc3
@@ -565,5 +567,7 @@ versioning:
   - 9.1.0
   - 9.1.1
   - 9.1.2
+  - 9.1.3
   - 9.2.0-rc1
-  lastUpdated: 20230915152243
+  - 9.2.0-rc2
+  lastUpdated: 20230919145015

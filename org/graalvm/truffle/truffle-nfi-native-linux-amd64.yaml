@@ -3,8 +3,8 @@
 groupId: org.graalvm.truffle
 artifactId: truffle-nfi-native-linux-amd64
 versioning:
-  latest: 23.0.1
-  release: 23.0.1
+  latest: 23.1.0
+  release: 23.1.0
   versions:
   - 1.0.0-rc8
   - 1.0.0-rc9
@@ -68,4 +68,5 @@ versioning:
   - 22.1.0.1
   - 23.0.0
   - 23.0.1
-  lastUpdated: 20230718135128
+  - 23.1.0
+  lastUpdated: 20230919121242
