@@ -3,8 +3,8 @@
 groupId: com.tencent.openmap
 artifactId: foundation
 versioning:
-  latest: 0.2.2.9df68c9
-  release: 0.2.2.9df68c9
+  latest: 0.2.2.9df68c9-lite
+  release: 0.2.2.9df68c9-lite
   versions:
   - 0.1.1.41db75f
   - 0.1.1.41db75f-lite
@@ -45,4 +45,6 @@ versioning:
   - 0.2.2.1b552a4-essential
   - 0.2.2.1b552a4-lite
   - 0.2.2.9df68c9
-  lastUpdated: 20230915135307
+  - 0.2.2.9df68c9-essential
+  - 0.2.2.9df68c9-lite
+  lastUpdated: 20230920035652

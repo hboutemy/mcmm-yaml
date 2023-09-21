@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-test-kubernetes-client
 versioning:
-  latest: 3.4.0
-  release: 3.4.0
+  latest: 3.4.1
+  release: 3.4.1
   versions:
   - 0.19.0
   - 0.19.1
@@ -244,4 +244,5 @@ versioning:
   - 3.3.3
   - 3.4.0.CR1
   - 3.4.0
-  lastUpdated: 20230914143052
+  - 3.4.1
+  lastUpdated: 20230920110203

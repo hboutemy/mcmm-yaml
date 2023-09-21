@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-osgi
 versioning:
-  latest: 1.12.553
-  release: 1.12.553
+  latest: 1.12.555
+  release: 1.12.555
   versions:
   - 1.9.11
   - 1.9.12
@@ -1708,4 +1708,6 @@ versioning:
   - 1.12.551
   - 1.12.552
   - 1.12.553
-  lastUpdated: 20230918204702
+  - 1.12.554
+  - 1.12.555
+  lastUpdated: 20230920224722
