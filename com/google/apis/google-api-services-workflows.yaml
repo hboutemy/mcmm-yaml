@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-workflows
 versioning:
-  latest: v1-rev20230906-2.0.0
-  release: v1-rev20230906-2.0.0
+  latest: v1-rev20230913-2.0.0
+  release: v1-rev20230913-2.0.0
   versions:
   - v1beta-rev20200828-1.30.10
   - v1beta-rev20201008-1.30.10
@@ -44,4 +44,5 @@ versioning:
   - v1-rev20230510-2.0.0
   - v1-rev20230802-2.0.0
   - v1-rev20230906-2.0.0
-  lastUpdated: 20230913092900
+  - v1-rev20230913-2.0.0
+  lastUpdated: 20230921084845
