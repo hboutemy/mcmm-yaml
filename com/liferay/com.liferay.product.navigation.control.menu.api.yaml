@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.product.navigation.control.menu.api
 versioning:
-  latest: 11.0.0
-  release: 11.0.0
+  latest: 12.0.0
+  release: 12.0.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -62,4 +61,6 @@ versioning:
   - 9.1.1
   - 10.0.0
   - 11.0.0
-  lastUpdated: 20230807232004
+  - 11.1.0
+  - 12.0.0
+  lastUpdated: 20230922123350
