@@ -3,10 +3,12 @@
 groupId: org.apache.submarine
 artifactId: submarine-test-k8s
 versioning:
-  latest: 0.7.0
-  release: 0.7.0
+  latest: 0.8.0
+  release: 0.8.0
   versions:
   - 0.4.0
   - 0.6.0
   - 0.7.0
-  lastUpdated: 20220425005820
+  - 0.8.0-RC0
+  - 0.8.0
+  lastUpdated: 20230923120353
