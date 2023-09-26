@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.newrelic.agent.android
 artifactId: android-agent
 versioning:
-  latest: 7.0.0
-  release: 7.0.0
+  latest: 7.1.0
+  release: 7.1.0
   versions:
   - 2.365
   - 2.397
@@ -117,6 +117,7 @@ versioning:
   - 6.11.0
   - 6.11.1
   - 7.0.0
+  - 7.1.0
   - 4.119.0
   - 5.1.2
-  lastUpdated: 20230710202122
+  lastUpdated: 20230925180352
