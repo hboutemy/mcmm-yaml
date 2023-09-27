@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-package-management
 versioning:
-  latest: 3.1.0.3
-  release: 3.1.0.3
+  latest: 3.1.0.4
+  release: 3.1.0.4
   versions:
   - master-rc-daily
   - v2.8.0-rc-202106091140
@@ -571,4 +571,5 @@ versioning:
   - 3.1.0.1
   - 3.1.0.2
   - 3.1.0.3
-  lastUpdated: 20230925035158
+  - 3.1.0.4
+  lastUpdated: 20230926023037
