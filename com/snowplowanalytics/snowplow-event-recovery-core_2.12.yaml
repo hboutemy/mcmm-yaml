@@ -3,8 +3,8 @@
 groupId: com.snowplowanalytics
 artifactId: snowplow-event-recovery-core_2.12
 versioning:
-  latest: 0.6.0
-  release: 0.6.0
+  latest: 0.6.1-rc1
+  release: 0.6.1-rc1
   versions:
   - 0.4.0
   - 0.4.1-rc1
@@ -16,4 +16,5 @@ versioning:
   - 0.5.1
   - 0.5.2
   - 0.6.0
-  lastUpdated: 20230525193127
+  - 0.6.1-rc1
+  lastUpdated: 20230927175249

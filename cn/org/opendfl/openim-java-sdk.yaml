@@ -3,8 +3,8 @@
 groupId: cn.org.opendfl
 artifactId: openim-java-sdk
 versioning:
-  latest: 0.6-nospring
-  release: 0.6-nospring
+  latest: 0.6-springboot3
+  release: 0.6-springboot3
   versions:
   - 0.1
   - 0.2
@@ -13,4 +13,6 @@ versioning:
   - 0.4-nospring
   - 0.5-nospring
   - 0.6-nospring
-  lastUpdated: 20230925152755
+  - 0.6-springboot2
+  - 0.6-springboot3
+  lastUpdated: 20230927150341
