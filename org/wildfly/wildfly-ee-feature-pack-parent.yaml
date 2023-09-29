@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-ee-feature-pack-parent
 versioning:
-  latest: 29.0.1.Final
-  release: 29.0.1.Final
+  latest: 30.0.0.Beta1
+  release: 30.0.0.Beta1
   versions:
   - 21.0.0.Beta1
   - 21.0.0.Final
@@ -47,4 +47,5 @@ versioning:
   - 29.0.0.Beta1
   - 29.0.0.Final
   - 29.0.1.Final
-  lastUpdated: 20230825160501
+  - 30.0.0.Beta1
+  lastUpdated: 20230927175311

@@ -3,8 +3,8 @@
 groupId: com.netflix.conductor
 artifactId: conductor-redis-concurrency-limit
 versioning:
-  latest: 3.13.8
-  release: 3.13.8
+  latest: 3.14.0
+  release: 3.14.0
   versions:
   - 3.3.5
   - 3.3.6
@@ -47,4 +47,5 @@ versioning:
   - 3.13.6
   - 3.13.7
   - 3.13.8
-  lastUpdated: 20230724193422
+  - 3.14.0
+  lastUpdated: 20230928061549
