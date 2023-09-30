@@ -3,8 +3,8 @@
 groupId: io.github.jan-tennert.supabase
 artifactId: apollo-graphql
 versioning:
-  latest: 1.3.2-k2
-  release: 1.3.2-k2
+  latest: 1.3.2-no-port
+  release: 1.3.2-no-port
   versions:
   - 0.8.0-beta-2
   - 0.8.0-beta-2-ios
@@ -88,4 +88,5 @@ versioning:
   - 1.3.2
   - 1.3.2-dev-1
   - 1.3.2-k2
-  lastUpdated: 20230926142755
+  - 1.3.2-no-port
+  lastUpdated: 20230929211702

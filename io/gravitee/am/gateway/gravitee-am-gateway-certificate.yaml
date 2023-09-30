@@ -3,8 +3,8 @@
 groupId: io.gravitee.am.gateway
 artifactId: gravitee-am-gateway-certificate
 versioning:
-  latest: 4.1.0-alpha.2
-  release: 4.1.0-alpha.2
+  latest: 4.1.0
+  release: 4.1.0
   versions:
   - 2.10.8
   - 2.10.9
@@ -220,5 +220,7 @@ versioning:
   - 3.21.4
   - 3.21.6
   - 4.0.0
+  - 4.0.2
   - 4.1.0-alpha.2
-  lastUpdated: 20230916052251
+  - 4.1.0
+  lastUpdated: 20230929121406

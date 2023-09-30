@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.main.diagnostics
 artifactId: diagnostics-api
 versioning:
-  latest: 7.0.8
-  release: 7.0.8
+  latest: 7.0.9
+  release: 7.0.9
   versions:
   - 5.1.0
   - 6.0.0-M1
@@ -35,6 +35,7 @@ versioning:
   - 7.0.6
   - 7.0.7
   - 7.0.8
+  - 7.0.9
   - 4.0
   - 4.0-b72
   - 4.0-b90
@@ -45,4 +46,4 @@ versioning:
   - 5.0.1
   - 5.1.0-RC1
   - 5.1.0-RC2
-  lastUpdated: 20230828142211
+  lastUpdated: 20230929141448

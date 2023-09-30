@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.portal
 artifactId: release.portal.distro
 versioning:
-  latest: 7.4.3.88
+  latest: 7.4.3.95
   release: 7.4.3.95
   versions:
   - 7.0.6
@@ -126,4 +127,4 @@ versioning:
   - 7.4.3.93
   - 7.4.3.94
   - 7.4.3.95
-  lastUpdated: 20230922170029
+  lastUpdated: 20230929230035
