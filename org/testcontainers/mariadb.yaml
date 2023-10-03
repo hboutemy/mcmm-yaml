@@ -3,8 +3,8 @@
 groupId: org.testcontainers
 artifactId: mariadb
 versioning:
-  latest: 1.19.0
-  release: 1.19.0
+  latest: 1.19.1
+  release: 1.19.1
   versions:
   - 1.1.6
   - 1.1.7
@@ -72,4 +72,5 @@ versioning:
   - 1.18.2
   - 1.18.3
   - 1.19.0
-  lastUpdated: 20230821184908
+  - 1.19.1
+  lastUpdated: 20231002180400

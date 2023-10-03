@@ -3,11 +3,13 @@
 groupId: one.tomorrow.transactional-outbox
 artifactId: outbox-kafka-spring-reactive
 versioning:
-  latest: 2.0.0
-  release: 2.0.0
+  latest: 2.0.1
+  release: 2.0.1
   versions:
   - 1.0.11
   - 1.0.12
   - 1.0.13
+  - 1.0.14
   - 2.0.0
-  lastUpdated: 20230801135151
+  - 2.0.1
+  lastUpdated: 20231002230331

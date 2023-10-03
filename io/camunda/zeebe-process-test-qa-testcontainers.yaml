@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-process-test-qa-testcontainers
 versioning:
-  latest: 8.3.0-rc
-  release: 8.3.0-rc
+  latest: 8.3.0-rc1
+  release: 8.3.0-rc1
   versions:
   - 8.1.0-alpha1
   - 8.1.0-alpha2
@@ -57,4 +57,5 @@ versioning:
   - 8.3.0-alpha5
   - 8.3.0-alpha6
   - 8.3.0-rc
-  lastUpdated: 20230929215017
+  - 8.3.0-rc1
+  lastUpdated: 20231002084505
