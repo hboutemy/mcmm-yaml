@@ -3,8 +3,8 @@
 groupId: org.openrewrite
 artifactId: rewrite-maven
 versioning:
-  latest: 8.7.0
-  release: 8.7.0
+  latest: 8.7.2
+  release: 8.7.2
   versions:
   - 2.1.0-rc.3
   - 2.2.0
@@ -174,4 +174,6 @@ versioning:
   - 8.6.1
   - 8.6.2
   - 8.7.0
-  lastUpdated: 20231002053430
+  - 8.7.1
+  - 8.7.2
+  lastUpdated: 20231003100242

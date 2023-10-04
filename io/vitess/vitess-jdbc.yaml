@@ -3,8 +3,8 @@
 groupId: io.vitess
 artifactId: vitess-jdbc
 versioning:
-  latest: 17.0.1
-  release: 17.0.1
+  latest: 18.0.0-rc1
+  release: 18.0.0-rc1
   versions:
   - 2.1.0-rc.1
   - 2.1.0
@@ -34,8 +34,10 @@ versioning:
   - 14.0.1
   - 15.0.0
   - 15.0.4
+  - 15.0.5
   - 16.0.0
   - 16.0.3
   - 17.0.0
   - 17.0.1
-  lastUpdated: 20230728135955
+  - 18.0.0-rc1
+  lastUpdated: 20231003152326

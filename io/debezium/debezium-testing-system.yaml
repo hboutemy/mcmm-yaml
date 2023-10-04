@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-testing-system
 versioning:
-  latest: 2.4.0.CR1
-  release: 2.4.0.CR1
+  latest: 2.4.0.Final
+  release: 2.4.0.Final
   versions:
   - 1.7.0.Alpha1
   - 1.7.0.Beta1
@@ -67,4 +67,5 @@ versioning:
   - 2.4.0.Beta1
   - 2.4.0.Beta2
   - 2.4.0.CR1
-  lastUpdated: 20230922101113
+  - 2.4.0.Final
+  lastUpdated: 20231003151200
