@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.buildsupport
 artifactId: nexus-buildsupport-guice
 versioning:
-  latest: 3.61.0-01
-  release: 3.61.0-01
+  latest: 3.61.0-02
+  release: 3.61.0-02
   versions:
   - 2.6.0-01
   - 2.6.0-05
@@ -209,4 +209,5 @@ versioning:
   - 3.59.0-01
   - 3.60.0-02
   - 3.61.0-01
-  lastUpdated: 20231003094723
+  - 3.61.0-02
+  lastUpdated: 20231004145114

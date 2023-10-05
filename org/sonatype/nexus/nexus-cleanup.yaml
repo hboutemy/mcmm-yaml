@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus
 artifactId: nexus-cleanup
 versioning:
-  latest: 3.61.0-01
-  release: 3.61.0-01
+  latest: 3.61.0-02
+  release: 3.61.0-02
   versions:
   - 3.14.0-04
   - 3.15.0-01
@@ -108,4 +108,5 @@ versioning:
   - 3.59.0-01
   - 3.60.0-02
   - 3.61.0-01
-  lastUpdated: 20231003094735
+  - 3.61.0-02
+  lastUpdated: 20231004145122

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-indexing
 versioning:
-  latest: v3-rev20200804-2.0.0
-  release: v3-rev20200804-2.0.0
+  latest: v3-rev20230927-2.0.0
+  release: v3-rev20230927-2.0.0
   versions:
   - v3-rev1-1.18.0-rc
   - v3-rev1-1.21.0
@@ -235,4 +235,5 @@ versioning:
   - v3-rev20200804-1.31.5
   - v3-rev20200804-1.32.1
   - v3-rev20200804-2.0.0
-  lastUpdated: 20220802084949
+  - v3-rev20230927-2.0.0
+  lastUpdated: 20231004085713
