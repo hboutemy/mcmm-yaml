@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-snapshots
 versioning:
-  latest: 8.3.0-rc1
-  release: 8.3.0-rc1
+  latest: 8.3.0
+  release: 8.3.0
   versions:
   - 1.0.0-rc1
   - 1.0.0-rc2
@@ -143,4 +143,5 @@ versioning:
   - 8.3.0-alpha5
   - 8.3.0-alpha6
   - 8.3.0-rc1
-  lastUpdated: 20231004145534
+  - 8.3.0
+  lastUpdated: 20231005153631
