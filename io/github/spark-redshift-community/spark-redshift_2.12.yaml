@@ -3,8 +3,8 @@
 groupId: io.github.spark-redshift-community
 artifactId: spark-redshift_2.12
 versioning:
-  latest: 6.0.0-spark_3.4
-  release: 6.0.0-spark_3.4
+  latest: 6.1.0-spark_3.5
+  release: 6.1.0-spark_3.5
   versions:
   - 4.1.1
   - 4.2.0
@@ -12,4 +12,7 @@ versioning:
   - 5.1.0
   - 6.0.0-spark_3.3
   - 6.0.0-spark_3.4
-  lastUpdated: 20230718182147
+  - 6.1.0-spark_3.3
+  - 6.1.0-spark_3.4
+  - 6.1.0-spark_3.5
+  lastUpdated: 20231006055826

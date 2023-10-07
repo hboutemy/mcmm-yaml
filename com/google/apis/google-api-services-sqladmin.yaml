@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-sqladmin
 versioning:
-  latest: v1-rev20230831-2.0.0
-  release: v1-rev20230831-2.0.0
+  latest: v1-rev20231004-2.0.0
+  release: v1-rev20231004-2.0.0
   versions:
   - v1beta1-rev1-1.13.2-beta
   - v1beta1-rev1-1.14.2-beta
@@ -937,4 +937,5 @@ versioning:
   - v1-rev20230607-2.0.0
   - v1-rev20230721-2.0.0
   - v1-rev20230831-2.0.0
-  lastUpdated: 20230905084032
+  - v1-rev20231004-2.0.0
+  lastUpdated: 20231006084029
