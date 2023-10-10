@@ -3,8 +3,8 @@
 groupId: com.daml
 artifactId: daml-lf-transaction-proto
 versioning:
-  latest: 2.8.0-snapshot.20231005.12176.0.vfedcb135
-  release: 2.8.0-snapshot.20231005.12176.0.vfedcb135
+  latest: 2.8.0-snapshot.20231006.12179.0.va01e862b
+  release: 2.8.0-snapshot.20231006.12179.0.va01e862b
   versions:
   - 1.8.0-snapshot.20201208.5840.0.38455e8c
   - 1.8.0-snapshot.20201214.5841.0.a8ae8e4a
@@ -619,6 +619,7 @@ versioning:
   - 2.7.2-rc1
   - 2.7.2
   - 2.7.3
+  - 2.7.4
   - 2.8.0-snapshot.20230720.11990.0.v5d026ac9
   - 2.8.0-snapshot.20230721.11992.0.v25c60bf8
   - 2.8.0-snapshot.20230724.11994.0.v235abfa8
@@ -674,4 +675,5 @@ versioning:
   - 2.8.0-snapshot.20231003.12170.0.vfead01dd
   - 2.8.0-snapshot.20231004.12173.0.v39440539
   - 2.8.0-snapshot.20231005.12176.0.vfedcb135
-  lastUpdated: 20231006030557
+  - 2.8.0-snapshot.20231006.12179.0.va01e862b
+  lastUpdated: 20231009115000

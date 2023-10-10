@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.saml.addon.keep.alive.web
 versioning:
-  latest: 5.0.23
-  release: 5.0.23
+  latest: 5.0.24
+  release: 5.0.24
   versions:
   - 1.0.25
   - 1.0.26
@@ -87,4 +86,5 @@ versioning:
   - 5.0.21
   - 5.0.22
   - 5.0.23
-  lastUpdated: 20230807212718
+  - 5.0.24
+  lastUpdated: 20231009051608

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.headless.admin.user.api
 versioning:
-  latest: 22.11.0
-  release: 22.11.0
+  latest: 23.0.0
+  release: 23.0.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -177,4 +176,5 @@ versioning:
   - 22.9.0
   - 22.10.0
   - 22.11.0
-  lastUpdated: 20230807194335
+  - 23.0.0
+  lastUpdated: 20231009002539

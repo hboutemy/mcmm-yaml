@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.sharing.test.util
 versioning:
-  latest: 3.0.9
-  release: 3.0.9
+  latest: 3.0.10
+  release: 3.0.10
   versions:
   - 1.0.0
   - 1.0.1
@@ -37,4 +36,5 @@ versioning:
   - 3.0.7
   - 3.0.8
   - 3.0.9
-  lastUpdated: 20230807191227
+  - 3.0.10
+  lastUpdated: 20231009005814

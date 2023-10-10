@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.layout.test.util
 versioning:
-  latest: 10.1.2
-  release: 10.1.2
+  latest: 10.1.3
+  release: 10.1.3
   versions:
   - 1.0.0
   - 1.0.1
@@ -70,4 +69,5 @@ versioning:
   - 10.1.0
   - 10.1.1
   - 10.1.2
-  lastUpdated: 20230807234353
+  - 10.1.3
+  lastUpdated: 20231009020758

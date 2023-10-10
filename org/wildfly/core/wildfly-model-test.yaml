@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-model-test
 versioning:
-  latest: 22.0.0.Beta3
-  release: 22.0.0.Beta3
+  latest: 22.0.0.Final
+  release: 22.0.0.Final
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -358,4 +358,5 @@ versioning:
   - 22.0.0.Beta1
   - 22.0.0.Beta2
   - 22.0.0.Beta3
-  lastUpdated: 20230926081205
+  - 22.0.0.Final
+  lastUpdated: 20231009133728
