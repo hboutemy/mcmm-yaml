@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-jcache-tck-runner-remote
 versioning:
-  latest: 14.0.17.Final
-  release: 14.0.17.Final
+  latest: 14.0.18.Final
+  release: 14.0.18.Final
   versions:
   - 10.1.1.Final
   - 10.1.2.Final
@@ -118,5 +118,6 @@ versioning:
   - 14.0.15.Final
   - 14.0.16.Final
   - 14.0.17.Final
+  - 14.0.18.Final
   - 12.0.0.Dev03
-  lastUpdated: 20231005154039
+  lastUpdated: 20231010200811

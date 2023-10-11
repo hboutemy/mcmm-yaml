@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty
 artifactId: jetty-slf4j-impl
 versioning:
-  latest: 12.0.1
-  release: 12.0.1
+  latest: 12.0.2
+  release: 12.0.2
   versions:
   - 10.0.0.alpha2
   - 10.0.0.beta0
@@ -28,6 +28,7 @@ versioning:
   - 10.0.14
   - 10.0.15
   - 10.0.16
+  - 10.0.17
   - 11.0.0-alpha0
   - 11.0.0.beta1
   - 11.0.0.beta2
@@ -49,6 +50,7 @@ versioning:
   - 11.0.14
   - 11.0.15
   - 11.0.16
+  - 11.0.17
   - 12.0.0.alpha0
   - 12.0.0.alpha1
   - 12.0.0.alpha2
@@ -60,4 +62,5 @@ versioning:
   - 12.0.0.beta4
   - 12.0.0
   - 12.0.1
-  lastUpdated: 20230830214836
+  - 12.0.2
+  lastUpdated: 20231010041855

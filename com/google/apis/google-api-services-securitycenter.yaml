@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-securitycenter
 versioning:
-  latest: v1-rev20231001-2.0.0
-  release: v1-rev20231001-2.0.0
+  latest: v1-rev20231005-2.0.0
+  release: v1-rev20231005-2.0.0
   versions:
   - v1beta1-rev3-1.18.0-rc
   - v1beta1-rev3-1.22.0
@@ -258,6 +258,7 @@ versioning:
   - v1beta1-rev20230904-2.0.0
   - v1beta1-rev20230907-2.0.0
   - v1beta1-rev20231001-2.0.0
+  - v1beta1-rev20231005-2.0.0
   - v1beta2-rev20200820-1.30.10
   - v1beta2-rev20200918-1.30.10
   - v1beta2-rev20201112-1.30.10
@@ -323,6 +324,7 @@ versioning:
   - v1beta2-rev20230904-2.0.0
   - v1beta2-rev20230907-2.0.0
   - v1beta2-rev20231001-2.0.0
+  - v1beta2-rev20231005-2.0.0
   - v1p1alpha1-rev1-1.18.0-rc
   - v1p1alpha1-rev1-1.25.0
   - v1p1alpha1-rev2-1.25.0
@@ -681,4 +683,5 @@ versioning:
   - v1-rev20230904-2.0.0
   - v1-rev20230907-2.0.0
   - v1-rev20231001-2.0.0
-  lastUpdated: 20231003084935
+  - v1-rev20231005-2.0.0
+  lastUpdated: 20231010084835

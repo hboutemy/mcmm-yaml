@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-secure-sm
 versioning:
-  latest: 8.10.2
-  release: 8.10.2
+  latest: 8.10.3
+  release: 8.10.3
   versions:
   - 6.3.0
   - 6.3.1
@@ -116,6 +116,7 @@ versioning:
   - 7.17.11
   - 7.17.12
   - 7.17.13
+  - 7.17.14
   - 8.0.0-alpha1
   - 8.0.0-alpha2
   - 8.0.0-beta1
@@ -157,4 +158,5 @@ versioning:
   - 8.10.0
   - 8.10.1
   - 8.10.2
-  lastUpdated: 20230921084916
+  - 8.10.3
+  lastUpdated: 20231010130058

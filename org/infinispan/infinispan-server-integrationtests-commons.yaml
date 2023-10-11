@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-server-integrationtests-commons
 versioning:
-  latest: 14.0.17.Final
-  release: 14.0.17.Final
+  latest: 14.0.18.Final
+  release: 14.0.18.Final
   versions:
   - 11.0.6.Final
   - 12.0.0.CR1
@@ -84,5 +84,6 @@ versioning:
   - 14.0.15.Final
   - 14.0.16.Final
   - 14.0.17.Final
+  - 14.0.18.Final
   - 12.0.0.Dev03
-  lastUpdated: 20230908114728
+  lastUpdated: 20231010200824

@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty.http2
 artifactId: http2-client
 versioning:
-  latest: 11.0.16
-  release: 11.0.16
+  latest: 11.0.17
+  release: 11.0.17
   versions:
   - 9.3.0.M0
   - 9.3.0.M1
@@ -128,6 +128,7 @@ versioning:
   - 9.4.50.v20221201
   - 9.4.51.v20230217
   - 9.4.52.v20230823
+  - 9.4.53.v20231009
   - 10.0.0-alpha0
   - 10.0.0.alpha1
   - 10.0.0.alpha2
@@ -152,6 +153,7 @@ versioning:
   - 10.0.14
   - 10.0.15
   - 10.0.16
+  - 10.0.17
   - 11.0.0-alpha0
   - 11.0.0.beta1
   - 11.0.0.beta2
@@ -173,4 +175,5 @@ versioning:
   - 11.0.14
   - 11.0.15
   - 11.0.16
-  lastUpdated: 20230830214831
+  - 11.0.17
+  lastUpdated: 20231010030044
