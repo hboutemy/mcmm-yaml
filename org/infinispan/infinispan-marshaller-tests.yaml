@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-marshaller-tests
 versioning:
-  latest: 14.0.18.Final
-  release: 14.0.18.Final
+  latest: 14.0.19.Final
+  release: 14.0.19.Final
   versions:
   - 9.0.0.Beta1
   - 9.0.0.Beta2
@@ -161,6 +161,7 @@ versioning:
   - 12.1.12.Final
   - 12.1.13.Final
   - 12.1.14.Final
+  - 12.1.15.Final
   - 13.0.0.CR1
   - 13.0.0.CR2
   - 13.0.0.Final
@@ -186,6 +187,7 @@ versioning:
   - 13.0.16.Final
   - 13.0.17.Final
   - 13.0.18.Final
+  - 13.0.19.Final
   - 14.0.0.CR1
   - 14.0.0.CR2
   - 14.0.0.Final
@@ -211,5 +213,6 @@ versioning:
   - 14.0.16.Final
   - 14.0.17.Final
   - 14.0.18.Final
+  - 14.0.19.Final
   - 12.0.0.Dev03
-  lastUpdated: 20231010200815
+  lastUpdated: 20231011174958

@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-jdbc-derby
 versioning:
-  latest: 3.4.2
-  release: 3.4.2
+  latest: 3.5.0.CR1
+  release: 3.5.0.CR1
   versions:
   - 0.25.0
   - 0.26.0
@@ -235,4 +235,5 @@ versioning:
   - 3.4.0
   - 3.4.1
   - 3.4.2
-  lastUpdated: 20231004110719
+  - 3.5.0.CR1
+  lastUpdated: 20231011103030

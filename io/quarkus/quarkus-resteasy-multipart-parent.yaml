@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-resteasy-multipart-parent
 versioning:
-  latest: 3.4.2
-  release: 3.4.2
+  latest: 3.5.0.CR1
+  release: 3.5.0.CR1
   versions:
   - 1.8.1.Final
   - 1.8.2.Final
@@ -188,4 +188,5 @@ versioning:
   - 3.4.0
   - 3.4.1
   - 3.4.2
-  lastUpdated: 20231004110848
+  - 3.5.0.CR1
+  lastUpdated: 20231011103207
