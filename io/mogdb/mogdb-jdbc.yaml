@@ -3,11 +3,14 @@
 groupId: io.mogdb
 artifactId: mogdb-jdbc
 versioning:
-  latest: 5.0.0-pg.1
-  release: 5.0.0-pg.1
+  latest: 5.0.0.2.pg
+  release: 5.0.0.2.pg
   versions:
   - 5.0.0-og
   - 5.0.0-og.1
   - 5.0.0-pg
   - 5.0.0-pg.1
-  lastUpdated: 20230714112318
+  - 5.0.0.2.mg
+  - 5.0.0.2.og
+  - 5.0.0.2.pg
+  lastUpdated: 20231012125527

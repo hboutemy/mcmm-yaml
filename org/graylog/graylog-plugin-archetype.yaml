@@ -3,8 +3,8 @@
 groupId: org.graylog
 artifactId: graylog-plugin-archetype
 versioning:
-  latest: 5.2.0-beta.1
-  release: 5.2.0-beta.1
+  latest: 5.2.0-beta.2
+  release: 5.2.0-beta.2
   versions:
   - 1.0.0-beta.2
   - 1.0.0-rc.1
@@ -201,6 +201,7 @@ versioning:
   - 5.0.10
   - 5.0.11
   - 5.0.12
+  - 5.0.13
   - 5.1.0
   - 5.1.1
   - 5.1.2
@@ -208,6 +209,8 @@ versioning:
   - 5.1.4
   - 5.1.5
   - 5.1.6
+  - 5.1.7
   - 5.2.0-alpha.1
   - 5.2.0-beta.1
-  lastUpdated: 20231004131119
+  - 5.2.0-beta.2
+  lastUpdated: 20231012180814
