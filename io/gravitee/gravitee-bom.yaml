@@ -3,8 +3,8 @@
 groupId: io.gravitee
 artifactId: gravitee-bom
 versioning:
-  latest: 6.0.14
-  release: 6.0.14
+  latest: 6.0.15
+  release: 6.0.15
   versions:
   - 1.0
   - 1.1
@@ -36,6 +36,8 @@ versioning:
   - 3.0.11
   - 3.0.12
   - 3.0.13
+  - 3.0.14
+  - 3.0.15
   - 4.0.0-alpha.1
   - 4.0.0-alpha.2
   - 4.0.0
@@ -52,9 +54,11 @@ versioning:
   - 6.0.7
   - 6.0.8
   - 6.0.9
+  - 6.0.10
   - 6.0.11
   - 6.0.12
   - 6.0.13
   - 6.0.14
+  - 6.0.15
   - 2.9.0
-  lastUpdated: 20231012194050
+  lastUpdated: 20231013095604

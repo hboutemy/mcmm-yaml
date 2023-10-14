@@ -3,8 +3,8 @@
 groupId: com.google.cloud.bigdataoss
 artifactId: util-hadoop
 versioning:
-  latest: 1.9.4-hadoop3
-  release: 1.9.4-hadoop3
+  latest: 3.0.0-RC01
+  release: 3.0.0-RC01
   versions:
   - hadoop1-1.9.5
   - hadoop1-1.9.6
@@ -179,4 +179,5 @@ versioning:
   - 1.9.4-hadoop1
   - 1.9.4-hadoop2
   - 1.9.4-hadoop3
-  lastUpdated: 20230817044956
+  - 3.0.0-RC01
+  lastUpdated: 20231013082856

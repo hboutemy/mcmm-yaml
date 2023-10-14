@@ -3,8 +3,8 @@
 groupId: org.jetbrains.compose
 artifactId: gradle-plugin-internal-jdk-version-probe
 versioning:
-  latest: 1.5.10-beta02
-  release: 1.5.10-beta02
+  latest: 1.5.10-rc01
+  release: 1.5.10-rc01
   versions:
   - 1.5.0-beta01
   - 1.5.0-beta02
@@ -14,4 +14,5 @@ versioning:
   - 1.5.3
   - 1.5.10-beta01
   - 1.5.10-beta02
-  lastUpdated: 20231005175726
+  - 1.5.10-rc01
+  lastUpdated: 20231013171130

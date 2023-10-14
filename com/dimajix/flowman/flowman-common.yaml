@@ -3,8 +3,8 @@
 groupId: com.dimajix.flowman
 artifactId: flowman-common
 versioning:
-  latest: 1.1.0-oss-spark3.1-hadoop2.7-oss-spark3.1-hadoop2.7-oss-spark3.1-hadoop2.7
-  release: 1.1.0-oss-spark3.1-hadoop2.7-oss-spark3.1-hadoop2.7-oss-spark3.1-hadoop2.7
+  latest: 1.1.0-oss-spark3.4-hadoop3.3
+  release: 1.1.0-oss-spark3.4-hadoop3.3
   versions:
   - 0.19.0
   - 0.19.0-cdh6-spark2.4-hadoop3.0
@@ -206,4 +206,10 @@ versioning:
   - 1.1.0-oss-spark3.0-hadoop3.2
   - 1.1.0-oss-spark3.1-hadoop2.7
   - 1.1.0-oss-spark3.1-hadoop2.7-oss-spark3.1-hadoop2.7-oss-spark3.1-hadoop2.7
-  lastUpdated: 20231012144456
+  - 1.1.0-oss-spark3.1-hadoop3.2
+  - 1.1.0-oss-spark3.2-hadoop2.7
+  - 1.1.0-oss-spark3.2-hadoop3.3
+  - 1.1.0-oss-spark3.3-hadoop2.7
+  - 1.1.0-oss-spark3.3-hadoop3.3
+  - 1.1.0-oss-spark3.4-hadoop3.3
+  lastUpdated: 20231013132050
