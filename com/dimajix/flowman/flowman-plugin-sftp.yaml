@@ -3,8 +3,8 @@
 groupId: com.dimajix.flowman
 artifactId: flowman-plugin-sftp
 versioning:
-  latest: 1.1.0-oss-spark3.4-hadoop3.3
-  release: 1.1.0-oss-spark3.4-hadoop3.3
+  latest: 1.1.0-synapse3.3-spark3.3-hadoop3.3
+  release: 1.1.0-synapse3.3-spark3.3-hadoop3.3
   versions:
   - 0.28.0
   - 0.28.0-cdh6-spark2.4-hadoop3.0
@@ -65,6 +65,12 @@ versioning:
   - 1.0.0-oss-spark3.3-hadoop2.7
   - 1.0.0-oss-spark3.3-hadoop3.3
   - 1.0.0-synapse3.3-spark3.3-hadoop3.3
+  - 1.1.0
+  - 1.1.0-cdh6-spark2.4-hadoop3.0
+  - 1.1.0-cdp7-spark2.4-hadoop3.1
+  - 1.1.0-cdp7-spark3.2-hadoop3.1
+  - 1.1.0-cdp7-spark3.3-hadoop3.1
+  - 1.1.0-emr6.12-spark3.4-hadoop3.3
   - 1.1.0-oss-spark2.4-hadoop2.6
   - 1.1.0-oss-spark2.4-hadoop2.7
   - 1.1.0-oss-spark3.0-hadoop2.7
@@ -77,4 +83,5 @@ versioning:
   - 1.1.0-oss-spark3.3-hadoop2.7
   - 1.1.0-oss-spark3.3-hadoop3.3
   - 1.1.0-oss-spark3.4-hadoop3.3
-  lastUpdated: 20231013132116
+  - 1.1.0-synapse3.3-spark3.3-hadoop3.3
+  lastUpdated: 20231016114826

@@ -3,8 +3,8 @@
 groupId: org.sdase.commons
 artifactId: sda-commons-shared-certificates
 versioning:
-  latest: 5.5.11
-  release: 5.5.11
+  latest: 5.5.15
+  release: 5.5.15
   versions:
   - 2.36.0
   - 2.36.1
@@ -512,6 +512,7 @@ versioning:
   - 2.64.101
   - 2.64.102
   - 2.64.103
+  - 2.64.104
   - 3.0.0-alpha.1
   - 3.0.0-alpha.2
   - 3.0.0-rc.1
@@ -721,4 +722,8 @@ versioning:
   - 5.5.9
   - 5.5.10
   - 5.5.11
-  lastUpdated: 20231013121724
+  - 5.5.12
+  - 5.5.13
+  - 5.5.14
+  - 5.5.15
+  lastUpdated: 20231016091453
