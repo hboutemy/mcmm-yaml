@@ -3,8 +3,8 @@
 groupId: berlin.yuna
 artifactId: nats-server-embedded
 versioning:
-  latest: 2.10.3
-  release: 2.10.3
+  latest: 2.10.4-rc.1
+  release: 2.10.4-rc.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -203,4 +203,5 @@ versioning:
   - 2.10.1
   - 2.10.2-rc.1
   - 2.10.3
-  lastUpdated: 20231013101144
+  - 2.10.4-rc.1
+  lastUpdated: 20231017101312

@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: vault
 versioning:
-  latest: 5.16.0
-  release: 5.16.0
+  latest: 5.17.0-alpha.1697567784+f450edc4
+  release: 5.17.0-alpha.1697567784+f450edc4
   versions:
   - 5.6.0-alpha.1660649408+7c17b76a
   - 5.6.0
@@ -67,4 +67,6 @@ versioning:
   - 5.16.0-alpha.1697145324+c8f36fe1
   - 5.16.0-alpha.1697217180+8821c97f
   - 5.16.0
-  lastUpdated: 20231013192402
+  - 5.16.1
+  - 5.17.0-alpha.1697567784+f450edc4
+  lastUpdated: 20231017205643

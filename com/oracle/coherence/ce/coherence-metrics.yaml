@@ -3,8 +3,8 @@
 groupId: com.oracle.coherence.ce
 artifactId: coherence-metrics
 versioning:
-  latest: 22.06.5
-  release: 22.06.5
+  latest: 22.06.6
+  release: 22.06.6
   versions:
   - 14.1.1-0-1
   - 14.1.1-0-2
@@ -20,6 +20,7 @@ versioning:
   - 14.1.1-0-12
   - 14.1.1-0-13
   - 14.1.1-0-14
+  - 14.1.1-0-15
   - 20.06
   - 20.06.1
   - 20.12
@@ -44,4 +45,5 @@ versioning:
   - 22.06.3
   - 22.06.4
   - 22.06.5
-  lastUpdated: 20230718154043
+  - 22.06.6
+  lastUpdated: 20231017144000
