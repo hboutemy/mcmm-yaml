@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-apache-httpclient-deployment
 versioning:
-  latest: 3.5.0.CR1
-  release: 3.5.0.CR1
+  latest: 3.5.0
+  release: 3.5.0
   versions:
   - 2.0.0.Alpha1
   - 2.0.0.Alpha2
@@ -153,4 +153,5 @@ versioning:
   - 3.4.2
   - 3.4.3
   - 3.5.0.CR1
-  lastUpdated: 20231017080143
+  - 3.5.0
+  lastUpdated: 20231018125333

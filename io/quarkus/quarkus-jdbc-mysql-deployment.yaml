@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-jdbc-mysql-deployment
 versioning:
-  latest: 3.5.0.CR1
-  release: 3.5.0.CR1
+  latest: 3.5.0
+  release: 3.5.0
   versions:
   - 0.23.0
   - 0.23.1
@@ -242,4 +242,5 @@ versioning:
   - 3.4.2
   - 3.4.3
   - 3.5.0.CR1
-  lastUpdated: 20231017080326
+  - 3.5.0
+  lastUpdated: 20231018125529

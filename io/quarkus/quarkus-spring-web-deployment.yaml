@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-spring-web-deployment
 versioning:
-  latest: 3.5.0.CR1
-  release: 3.5.0.CR1
+  latest: 3.5.0
+  release: 3.5.0
   versions:
   - 0.21.0
   - 0.21.1
@@ -246,4 +246,5 @@ versioning:
   - 3.4.2
   - 3.4.3
   - 3.5.0.CR1
-  lastUpdated: 20231017080608
+  - 3.5.0
+  lastUpdated: 20231018125818

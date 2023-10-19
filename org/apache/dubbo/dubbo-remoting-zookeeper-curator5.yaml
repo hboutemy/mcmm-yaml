@@ -3,8 +3,8 @@
 groupId: org.apache.dubbo
 artifactId: dubbo-remoting-zookeeper-curator5
 versioning:
-  latest: 3.2.7
-  release: 3.2.7
+  latest: 3.3.0-beta.1
+  release: 3.3.0-beta.1
   versions:
   - 2.7.13
   - 2.7.14
@@ -57,4 +57,5 @@ versioning:
   - 3.2.5
   - 3.2.6
   - 3.2.7
-  lastUpdated: 20231007055913
+  - 3.3.0-beta.1
+  lastUpdated: 20231018020514

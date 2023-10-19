@@ -3,8 +3,8 @@
 groupId: io.avaje
 artifactId: avaje-inject-parent
 versioning:
-  latest: 9.8-RC1
-  release: 9.8-RC1
+  latest: 9.8-javax
+  release: 9.8-javax
   versions:
   - 1.5
   - 2.0
@@ -143,4 +143,6 @@ versioning:
   - 9.7
   - 9.7-javax
   - 9.8-RC1
-  lastUpdated: 20231009072031
+  - 9.8
+  - 9.8-javax
+  lastUpdated: 20231018003217

@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-datasources-galleon-pack-parent
 versioning:
-  latest: 6.0.0.Beta1
-  release: 6.0.0.Beta1
+  latest: 6.0.0.Final
+  release: 6.0.0.Final
   versions:
   - 2.0.0.Final
   - 2.0.1.Final
@@ -30,4 +30,5 @@ versioning:
   - 5.0.0.Beta1
   - 5.0.0.Final
   - 6.0.0.Beta1
-  lastUpdated: 20230928092105
+  - 6.0.0.Final
+  lastUpdated: 20231018154935

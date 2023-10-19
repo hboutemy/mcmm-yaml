@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-mongodb-client
 versioning:
-  latest: 3.5.0.CR1
-  release: 3.5.0.CR1
+  latest: 3.5.0
+  release: 3.5.0
   versions:
   - 0.19.0
   - 0.19.1
@@ -249,4 +249,5 @@ versioning:
   - 3.4.2
   - 3.4.3
   - 3.5.0.CR1
-  lastUpdated: 20231017080402
+  - 3.5.0
+  lastUpdated: 20231018125607

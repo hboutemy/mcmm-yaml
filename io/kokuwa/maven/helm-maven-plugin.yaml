@@ -3,8 +3,8 @@
 groupId: io.kokuwa.maven
 artifactId: helm-maven-plugin
 versioning:
-  latest: 6.11.0
-  release: 6.11.0
+  latest: 6.11.1
+  release: 6.11.1
   versions:
   - 6.0.0
   - 6.0.1
@@ -26,4 +26,5 @@ versioning:
   - 6.10.1
   - 6.10.2
   - 6.11.0
-  lastUpdated: 20230915101216
+  - 6.11.1
+  lastUpdated: 20231018064713

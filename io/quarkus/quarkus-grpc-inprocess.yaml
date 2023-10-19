@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-grpc-inprocess
 versioning:
-  latest: 3.5.0.CR1
-  release: 3.5.0.CR1
+  latest: 3.5.0
+  release: 3.5.0
   versions:
   - 3.0.0.Alpha4
   - 3.0.0.Alpha5
@@ -41,4 +41,5 @@ versioning:
   - 3.4.2
   - 3.4.3
   - 3.5.0.CR1
-  lastUpdated: 20231012144542
+  - 3.5.0
+  lastUpdated: 20231018125447
