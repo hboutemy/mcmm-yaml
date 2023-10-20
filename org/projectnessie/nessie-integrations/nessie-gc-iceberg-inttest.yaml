@@ -3,8 +3,8 @@
 groupId: org.projectnessie.nessie-integrations
 artifactId: nessie-gc-iceberg-inttest
 versioning:
-  latest: 0.72.1
-  release: 0.72.1
+  latest: 0.72.2
+  release: 0.72.2
   versions:
   - 0.61.0
   - 0.62.0
@@ -27,4 +27,5 @@ versioning:
   - 0.71.1
   - 0.72.0
   - 0.72.1
-  lastUpdated: 20231018183728
+  - 0.72.2
+  lastUpdated: 20231019164904

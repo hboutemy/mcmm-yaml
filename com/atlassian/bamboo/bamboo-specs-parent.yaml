@@ -3,8 +3,8 @@
 groupId: com.atlassian.bamboo
 artifactId: bamboo-specs-parent
 versioning:
-  latest: 9.4.0-rc1
-  release: 9.4.0-rc1
+  latest: 9.4.0-rc2
+  release: 9.4.0-rc2
   versions:
   - 6.2.9
   - 6.3.0
@@ -158,6 +158,7 @@ versioning:
   - 9.3.3
   - 9.3.4
   - 9.4.0-rc1
+  - 9.4.0-rc2
   - 5.16.33
   - 6.0.0
   - 6.0.1
@@ -175,4 +176,4 @@ versioning:
   - 6.2.4
   - 6.2.5
   - 6.3.0-rc3
-  lastUpdated: 20231016134055
+  lastUpdated: 20231019144025
