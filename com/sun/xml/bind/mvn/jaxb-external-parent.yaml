@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.sun.xml.bind.mvn
 artifactId: jaxb-external-parent
 versioning:
-  latest: 4.0.3
-  release: 4.0.3
+  latest: 4.0.4
+  release: 4.0.4
   versions:
   - 2.2.10-b140310.1920
   - 2.2.10-b140802.1033
@@ -24,6 +24,7 @@ versioning:
   - 2.3.6
   - 2.3.7
   - 2.3.8
+  - 2.3.9
   - 2.4.0-b180725.0644
   - 2.4.0-b180830.0438
   - 3.0.0-M1
@@ -45,4 +46,5 @@ versioning:
   - 4.0.1
   - 4.0.2
   - 4.0.3
-  lastUpdated: 20230609170004
+  - 4.0.4
+  lastUpdated: 20231020093635
