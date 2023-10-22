@@ -3,8 +3,8 @@
 groupId: com.fasterxml.jackson.datatype
 artifactId: jackson-datatype-hibernate5-jakarta
 versioning:
-  latest: 2.15.3
-  release: 2.15.3
+  latest: 2.16.0-rc1
+  release: 2.16.0-rc1
   versions:
   - 2.13.0
   - 2.13.1
@@ -26,4 +26,5 @@ versioning:
   - 2.15.1
   - 2.15.2
   - 2.15.3
-  lastUpdated: 20231013020616
+  - 2.16.0-rc1
+  lastUpdated: 20231021002322

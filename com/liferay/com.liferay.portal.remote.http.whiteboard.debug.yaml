@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.remote.http.whiteboard.debug
 versioning:
-  latest: 6.0.8
-  release: 6.0.8
+  latest: 6.0.9
+  release: 6.0.9
   versions:
   - 1.0.0
   - 1.0.1
@@ -53,4 +52,5 @@ versioning:
   - 6.0.6
   - 6.0.7
   - 6.0.8
-  lastUpdated: 20230807232531
+  - 6.0.9
+  lastUpdated: 20231021135223
