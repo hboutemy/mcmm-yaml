@@ -3,8 +3,8 @@
 groupId: com.slack.gradle.apk-versioning
 artifactId: com.slack.gradle.apk-versioning.gradle.plugin
 versioning:
-  latest: 0.11.0-alpha01
-  release: 0.11.0-alpha01
+  latest: 0.11.0
+  release: 0.11.0
   versions:
   - 0.1.0
   - 0.1.1
@@ -108,4 +108,5 @@ versioning:
   - 0.10.10
   - 0.10.11
   - 0.11.0-alpha01
-  lastUpdated: 20231021190256
+  - 0.11.0
+  lastUpdated: 20231022191123
