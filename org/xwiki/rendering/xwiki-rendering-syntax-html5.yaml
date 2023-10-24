@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.rendering
 artifactId: xwiki-rendering-syntax-html5
 versioning:
-  latest: 15.8
-  release: 15.8
+  latest: 15.9-rc-1
+  release: 15.9-rc-1
   versions:
   - 6.4-milestone-3
   - 6.4-rc-1
@@ -340,4 +340,5 @@ versioning:
   - 15.7
   - 15.8-rc-1
   - 15.8
-  lastUpdated: 20231006135353
+  - 15.9-rc-1
+  lastUpdated: 20231023135144
