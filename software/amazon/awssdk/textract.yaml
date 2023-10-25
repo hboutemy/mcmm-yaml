@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: textract
 versioning:
-  latest: 2.21.5
-  release: 2.21.5
+  latest: 2.21.7
+  release: 2.21.7
   versions:
   - 2.5.3
   - 2.5.4
@@ -1095,4 +1095,6 @@ versioning:
   - 2.21.3
   - 2.21.4
   - 2.21.5
-  lastUpdated: 20231021025933
+  - 2.21.6
+  - 2.21.7
+  lastUpdated: 20231024201505
