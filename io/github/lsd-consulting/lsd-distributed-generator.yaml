@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: io.github.lsd-consulting
 artifactId: lsd-distributed-generator
 versioning:
-  latest: 745ca0c
-  release: 745ca0c
+  latest: 7.2.3
+  release: 7.2.3
   versions:
   - 0.1.0
   - 0.1.1
@@ -50,5 +51,6 @@ versioning:
   - 7.2.0
   - 7.2.1
   - 7.2.2
+  - 7.2.3
   - 745ca0c
-  lastUpdated: 20231024075840
+  lastUpdated: 20231025210840

@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.operatorsdk
 artifactId: quarkus-operator-sdk-bom
 versioning:
-  latest: 6.3.3
-  release: 6.3.3
+  latest: 6.4.0.Beta1
+  release: 6.4.0.Beta1
   versions:
   - 1.9.7
   - 2.0.2
@@ -59,4 +59,5 @@ versioning:
   - 6.3.1
   - 6.3.2
   - 6.3.3
-  lastUpdated: 20230924202931
+  - 6.4.0.Beta1
+  lastUpdated: 20231025084033

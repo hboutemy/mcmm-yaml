@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-assuredworkloads
 versioning:
-  latest: v1-rev20231017-2.0.0
-  release: v1-rev20231017-2.0.0
+  latest: v1-rev20231023-2.0.0
+  release: v1-rev20231023-2.0.0
   versions:
   - v1beta1-rev20200914-1.30.10
   - v1beta1-rev20200924-1.30.10
@@ -19,6 +19,7 @@ versioning:
   - v1beta1-rev20230818-2.0.0
   - v1beta1-rev20230831-2.0.0
   - v1beta1-rev20230914-2.0.0
+  - v1beta1-rev20231023-2.0.0
   - v1-rev20201112-1.30.10
   - v1-rev20201112-1.31.0
   - v1-rev20210113-1.31.0
@@ -75,4 +76,5 @@ versioning:
   - v1-rev20230907-2.0.0
   - v1-rev20230914-2.0.0
   - v1-rev20231017-2.0.0
-  lastUpdated: 20231018082254
+  - v1-rev20231023-2.0.0
+  lastUpdated: 20231025080932
