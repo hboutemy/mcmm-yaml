@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld.examples.jsf.translator
 artifactId: weld-jsf-translator-ejb
 versioning:
-  latest: 5.1.2.Final
-  release: 5.1.2.Final
+  latest: 6.0.0.Alpha1
+  release: 6.0.0.Alpha1
   versions:
   - 1.0.0-CR1
   - 1.0.0-CR2
@@ -203,4 +203,5 @@ versioning:
   - 5.1.1.SP1
   - 5.1.1.SP2
   - 5.1.2.Final
-  lastUpdated: 20231005192515
+  - 6.0.0.Alpha1
+  lastUpdated: 20231026090740

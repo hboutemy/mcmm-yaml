@@ -3,8 +3,8 @@
 groupId: io.helidon.webserver.transport.netty
 artifactId: helidon-webserver-transport-netty-iouring
 versioning:
-  latest: 3.2.2
-  release: 3.2.2
+  latest: 3.2.3
+  release: 3.2.3
   versions:
   - 2.4.0
   - 2.4.1
@@ -20,6 +20,7 @@ versioning:
   - 2.6.1
   - 2.6.2
   - 2.6.3
+  - 2.6.4
   - 3.0.0-M1
   - 3.0.0-M2
   - 3.0.0-RC1
@@ -33,4 +34,5 @@ versioning:
   - 3.2.0
   - 3.2.1
   - 3.2.2
-  lastUpdated: 20230907232053
+  - 3.2.3
+  lastUpdated: 20231026172332

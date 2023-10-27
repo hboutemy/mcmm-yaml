@@ -3,8 +3,8 @@
 groupId: software.amazon.awssdk
 artifactId: s3-transfer-manager
 versioning:
-  latest: 2.21.7
-  release: 2.21.7
+  latest: 2.21.9
+  release: 2.21.9
   versions:
   - 2.17.16-PREVIEW
   - 2.17.17-PREVIEW
@@ -531,4 +531,6 @@ versioning:
   - 2.21.5
   - 2.21.6
   - 2.21.7
-  lastUpdated: 20231024201449
+  - 2.21.8
+  - 2.21.9
+  lastUpdated: 20231026201704

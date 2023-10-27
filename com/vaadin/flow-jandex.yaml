@@ -3,8 +3,8 @@
 groupId: com.vaadin
 artifactId: flow-jandex
 versioning:
-  latest: 24.2.0
-  release: 24.2.0
+  latest: 24.2.1
+  release: 24.2.1
   versions:
   - 8.0.0
   - 8.0.1
@@ -46,6 +46,7 @@ versioning:
   - 9.1.4
   - 9.1.5
   - 9.1.6
+  - 9.1.7
   - 23.0.0
   - 23.0.1
   - 23.0.2
@@ -109,6 +110,8 @@ versioning:
   - 23.3.20
   - 23.3.21
   - 23.3.22
+  - 23.3.23
+  - 23.3.24
   - 24.0.0
   - 24.0.1
   - 24.0.2
@@ -143,5 +146,7 @@ versioning:
   - 24.1.14
   - 24.1.15
   - 24.1.16
+  - 24.1.17
   - 24.2.0
-  lastUpdated: 20231025125619
+  - 24.2.1
+  lastUpdated: 20231026123832

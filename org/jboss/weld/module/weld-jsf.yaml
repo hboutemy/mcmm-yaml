@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld.module
 artifactId: weld-jsf
 versioning:
-  latest: 5.1.2.Final
-  release: 5.1.2.Final
+  latest: 6.0.0.Alpha1
+  release: 6.0.0.Alpha1
   versions:
   - 3.0.0.Alpha6
   - 3.0.0.Alpha7
@@ -70,4 +70,5 @@ versioning:
   - 5.1.1.SP1
   - 5.1.1.SP2
   - 5.1.2.Final
-  lastUpdated: 20231005192522
+  - 6.0.0.Alpha1
+  lastUpdated: 20231026090748

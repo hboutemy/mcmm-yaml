@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.api.grpc
 artifactId: grpc-google-cloud-bigquerystorage-v1
 versioning:
-  latest: 2.44.0
-  release: 2.44.0
+  latest: 2.44.1
+  release: 2.44.1
   versions:
   - 0.88.0
   - 0.89.0
@@ -189,4 +189,5 @@ versioning:
   - 2.42.0
   - 2.43.0
   - 2.44.0
-  lastUpdated: 20231011141749
+  - 2.44.1
+  lastUpdated: 20231026153109

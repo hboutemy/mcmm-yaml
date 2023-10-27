@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.hibernate
 artifactId: hibernate-envers
 versioning:
-  latest: 6.3.1.Final
-  release: 6.3.1.Final
+  latest: 6.4.0.CR1
+  release: 6.4.0.CR1
   versions:
   - 3.5.0.Beta-1
   - 3.5.0-Beta-2
@@ -309,6 +309,7 @@ versioning:
   - 6.3.0.CR1
   - 6.3.0.Final
   - 6.3.1.Final
+  - 6.4.0.CR1
   - 4.1.2
   - 5.1.13.Final
   - 5.1.14.Final
@@ -321,4 +322,4 @@ versioning:
   - 5.2.17.Final
   - 5.4.33.Final
   - 5.5.6.Final
-  lastUpdated: 20231011165518
+  lastUpdated: 20231026011701

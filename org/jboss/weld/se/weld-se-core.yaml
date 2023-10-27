@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld.se
 artifactId: weld-se-core
 versioning:
-  latest: 5.1.2.Final
-  release: 5.1.2.Final
+  latest: 6.0.0.Alpha1
+  release: 6.0.0.Alpha1
   versions:
   - 1.1.0.Beta1
   - 1.1.0.Beta2
@@ -200,4 +200,5 @@ versioning:
   - 5.1.1.SP1
   - 5.1.1.SP2
   - 5.1.2.Final
-  lastUpdated: 20231005192524
+  - 6.0.0.Alpha1
+  lastUpdated: 20231026090750
