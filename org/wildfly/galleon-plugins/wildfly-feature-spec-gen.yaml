@@ -3,8 +3,8 @@
 groupId: org.wildfly.galleon-plugins
 artifactId: wildfly-feature-spec-gen
 versioning:
-  latest: 6.5.0.Final
-  release: 6.5.0.Final
+  latest: 6.5.1.Final
+  release: 6.5.1.Final
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -143,5 +143,7 @@ versioning:
   - 6.4.4.Final
   - 6.4.5.Final
   - 6.4.6.Final
+  - 6.4.7.Final
   - 6.5.0.Final
-  lastUpdated: 20231025192304
+  - 6.5.1.Final
+  lastUpdated: 20231027153500
