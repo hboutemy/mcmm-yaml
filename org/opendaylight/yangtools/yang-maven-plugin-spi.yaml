@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.yangtools
 artifactId: yang-maven-plugin-spi
 versioning:
-  latest: 9.0.8
-  release: 9.0.8
+  latest: 9.0.9
+  release: 9.0.9
   versions:
   - 0.5.8
   - 0.6.0
@@ -187,4 +187,5 @@ versioning:
   - 9.0.6
   - 9.0.7
   - 9.0.8
-  lastUpdated: 20230529124136
+  - 9.0.9
+  lastUpdated: 20231029222707

@@ -3,8 +3,8 @@
 groupId: org.opendaylight.odlparent
 artifactId: odl-karaf-feat-war
 versioning:
-  latest: 13.0.6
-  release: 13.0.6
+  latest: 13.0.7
+  release: 13.0.7
   versions:
   - 1.8.0-Carbon
   - 1.8.1-Carbon
@@ -133,6 +133,7 @@ versioning:
   - 11.0.4
   - 11.0.5
   - 11.0.6
+  - 11.0.7
   - 12.0.0
   - 12.0.1
   - 12.0.2
@@ -151,4 +152,5 @@ versioning:
   - 13.0.4
   - 13.0.5
   - 13.0.6
-  lastUpdated: 20231024122541
+  - 13.0.7
+  lastUpdated: 20231029194330
