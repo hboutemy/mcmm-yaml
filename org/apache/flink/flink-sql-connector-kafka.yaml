@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-sql-connector-kafka
 versioning:
-  latest: 3.0.0-1.17
-  release: 3.0.0-1.17
+  latest: 3.0.1-1.18
+  release: 3.0.1-1.18
   versions:
   - 1.15.0
   - 1.15.1
@@ -17,4 +17,6 @@ versioning:
   - 1.17.0
   - 1.17.1
   - 3.0.0-1.17
-  lastUpdated: 20230525095122
+  - 3.0.1-1.17
+  - 3.0.1-1.18
+  lastUpdated: 20231030224330

@@ -3,8 +3,8 @@
 groupId: org.opendaylight.mdsal.binding.model.ietf
 artifactId: rfc8349-ietf-ipv4-unicast-routing
 versioning:
-  latest: 12.0.2
-  release: 12.0.2
+  latest: 12.0.3
+  release: 12.0.3
   versions:
   - 1.0.0
   - 1.0.1
@@ -126,6 +126,7 @@ versioning:
   - 10.0.6
   - 10.0.7
   - 10.0.8
+  - 10.0.9
   - 11.0.0
   - 11.0.1
   - 11.0.2
@@ -145,4 +146,5 @@ versioning:
   - 12.0.0
   - 12.0.1
   - 12.0.2
-  lastUpdated: 20231025014614
+  - 12.0.3
+  lastUpdated: 20231030185115

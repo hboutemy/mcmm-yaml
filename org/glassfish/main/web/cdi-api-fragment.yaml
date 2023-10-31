@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.main.web
 artifactId: cdi-api-fragment
 versioning:
-  latest: 7.0.9
-  release: 7.0.9
+  latest: 7.0.10
+  release: 7.0.10
   versions:
   - 5.1.0
   - 6.0.0-M1
@@ -36,6 +36,7 @@ versioning:
   - 7.0.7
   - 7.0.8
   - 7.0.9
+  - 7.0.10
   - 4.1
   - 4.1.1
   - 4.1.2
@@ -43,4 +44,4 @@ versioning:
   - 5.0.1
   - 5.1.0-RC1
   - 5.1.0-RC2
-  lastUpdated: 20230929141525
+  lastUpdated: 20231030134603

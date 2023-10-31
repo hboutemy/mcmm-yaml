@@ -3,8 +3,8 @@
 groupId: org.opendaylight.mdsal.model
 artifactId: ietf-type-util
 versioning:
-  latest: 12.0.2
-  release: 12.0.2
+  latest: 12.0.3
+  release: 12.0.3
   versions:
   - 0.8.1-Beryllium-SR1
   - 0.8.2-Beryllium-SR2
@@ -149,6 +149,7 @@ versioning:
   - 10.0.6
   - 10.0.7
   - 10.0.8
+  - 10.0.9
   - 11.0.0
   - 11.0.1
   - 11.0.2
@@ -168,4 +169,5 @@ versioning:
   - 12.0.0
   - 12.0.1
   - 12.0.2
-  lastUpdated: 20231025022558
+  - 12.0.3
+  lastUpdated: 20231030193025
