@@ -3,8 +3,8 @@
 groupId: org.opendaylight.controller
 artifactId: sample-toaster-it
 versioning:
-  latest: 8.0.2
-  release: 8.0.2
+  latest: 8.0.3
+  release: 8.0.3
   versions:
   - 1.4.0-Boron
   - 1.4.1-Boron-SR1
@@ -104,6 +104,7 @@ versioning:
   - 6.0.7
   - 6.0.8
   - 6.0.9
+  - 6.0.10
   - 7.0.0
   - 7.0.1
   - 7.0.2
@@ -119,4 +120,5 @@ versioning:
   - 8.0.0
   - 8.0.1
   - 8.0.2
-  lastUpdated: 20231026072341
+  - 8.0.3
+  lastUpdated: 20231031095244

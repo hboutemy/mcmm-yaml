@@ -3,8 +3,8 @@
 groupId: org.cometd.java
 artifactId: cometd-java-oort
 versioning:
-  latest: 7.0.10
-  release: 7.0.10
+  latest: 8.0.0.beta0
+  release: 8.0.0.beta0
   versions:
   - 1.0.beta8
   - 1.0.beta9
@@ -128,6 +128,7 @@ versioning:
   - 5.0.13
   - 5.0.14
   - 5.0.15
+  - 5.0.16
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -139,6 +140,7 @@ versioning:
   - 6.0.8
   - 6.0.9
   - 6.0.10
+  - 6.0.11
   - 7.0.0
   - 7.0.1
   - 7.0.2
@@ -149,4 +151,6 @@ versioning:
   - 7.0.8
   - 7.0.9
   - 7.0.10
-  lastUpdated: 20230320160017
+  - 7.0.11
+  - 8.0.0.beta0
+  lastUpdated: 20231031193241

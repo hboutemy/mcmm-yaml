@@ -3,8 +3,8 @@
 groupId: org.opendaylight.aaa.web
 artifactId: web-api
 versioning:
-  latest: 0.18.2
-  release: 0.18.2
+  latest: 0.18.3
+  release: 0.18.3
   versions:
   - 0.8.0
   - 0.8.1
@@ -75,6 +75,8 @@ versioning:
   - 0.16.7
   - 0.16.8
   - 0.16.9
+  - 0.16.10
+  - 0.16.11
   - 0.17.0
   - 0.17.1
   - 0.17.2
@@ -93,4 +95,5 @@ versioning:
   - 0.18.0
   - 0.18.1
   - 0.18.2
-  lastUpdated: 20231026122918
+  - 0.18.3
+  lastUpdated: 20231031135107

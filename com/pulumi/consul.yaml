@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: consul
 versioning:
-  latest: 3.10.0-alpha.1698475952+538a3073
-  release: 3.10.0-alpha.1698475952+538a3073
+  latest: 3.10.0
+  release: 3.10.0
   versions:
   - 3.7.0
   - 3.8.0-alpha.1673416230+665c5598
@@ -55,4 +55,6 @@ versioning:
   - 3.10.0-alpha.1698211631+358edb23
   - 3.10.0-alpha.1698437032+927185a2
   - 3.10.0-alpha.1698475952+538a3073
-  lastUpdated: 20231028073036
+  - 3.10.0-alpha.1698713492+a7a1ef21
+  - 3.10.0
+  lastUpdated: 20231031015008

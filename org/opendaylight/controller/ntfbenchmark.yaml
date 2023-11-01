@@ -3,8 +3,8 @@
 groupId: org.opendaylight.controller
 artifactId: ntfbenchmark
 versioning:
-  latest: 8.0.2
-  release: 8.0.2
+  latest: 8.0.3
+  release: 8.0.3
   versions:
   - 1.1.0-Beryllium
   - 1.1.1-Beryllium-SR1
@@ -109,6 +109,7 @@ versioning:
   - 6.0.7
   - 6.0.8
   - 6.0.9
+  - 6.0.10
   - 7.0.0
   - 7.0.1
   - 7.0.2
@@ -124,4 +125,5 @@ versioning:
   - 8.0.0
   - 8.0.1
   - 8.0.2
-  lastUpdated: 20231026071443
+  - 8.0.3
+  lastUpdated: 20231031094316
