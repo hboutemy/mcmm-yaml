@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: awsx
 versioning:
-  latest: 2.0.3
-  release: 2.0.3
+  latest: 2.1.0
+  release: 2.1.0
   versions:
   - 1.0.0-alpha.1658318389+fef74730
   - 1.0.0-alpha.1659441349+791e7c8f
@@ -54,6 +54,11 @@ versioning:
   - 1.0.0-alpha.1698229935+5722a4f2
   - 1.0.0-alpha.1698757768+e1880b25
   - 1.0.0-alpha.1698779463+793f90d9
+  - 1.0.0-alpha.1698813829+5cdf0d41
+  - 1.0.0-alpha.1698824186+43bb1447
+  - 1.0.0-alpha.1698824211+716216c2
+  - 1.0.0-alpha.1698830957+2de278b0
+  - 1.0.0-alpha.1698834300+af69664e
   - 1.0.0-beta.1
   - 1.0.0-beta.2
   - 1.0.0-beta.3
@@ -76,4 +81,5 @@ versioning:
   - 2.0.1
   - 2.0.2
   - 2.0.3
-  lastUpdated: 20231031195948
+  - 2.1.0
+  lastUpdated: 20231101111009
