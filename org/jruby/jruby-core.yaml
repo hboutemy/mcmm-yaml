@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jruby
 artifactId: jruby-core
 versioning:
-  latest: 9.4.4.0
-  release: 9.4.4.0
+  latest: 9.4.5.0
+  release: 9.4.5.0
   versions:
   - 1.6.0.RC3
   - 1.6.0
@@ -121,9 +121,11 @@ versioning:
   - 9.3.10.0
   - 9.3.11.0
   - 9.3.12.0
+  - 9.3.13.0
   - 9.4.0.0
   - 9.4.1.0
   - 9.4.2.0
   - 9.4.3.0
   - 9.4.4.0
-  lastUpdated: 20231101185846
+  - 9.4.5.0
+  lastUpdated: 20231102151110
