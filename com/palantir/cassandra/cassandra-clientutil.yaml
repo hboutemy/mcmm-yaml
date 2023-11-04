@@ -3,8 +3,8 @@
 groupId: com.palantir.cassandra
 artifactId: cassandra-clientutil
 versioning:
-  latest: 2.2.18-1.129.0
-  release: 2.2.18-1.129.0
+  latest: 2.2.18-1.131.0
+  release: 2.2.18-1.131.0
   versions:
   - 2.2.18-1.113.0-rc2
   - 2.2.18-1.113.0-rc3
@@ -37,4 +37,6 @@ versioning:
   - 2.2.18-1.128.0
   - 2.2.18-1.129.0-rc1
   - 2.2.18-1.129.0
-  lastUpdated: 20231031021526
+  - 2.2.18-1.130.0
+  - 2.2.18-1.131.0
+  lastUpdated: 20231103201702

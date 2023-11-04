@@ -3,8 +3,8 @@
 groupId: io.github.jeff-zou
 artifactId: flink-catalog-in-jdbc
 versioning:
-  latest: 1.8-flink-1.15
-  release: 1.8-flink-1.15
+  latest: 1.8.2-flink-1.15
+  release: 1.8.2-flink-1.15
   versions:
   - 1.0
   - 1.1
@@ -19,4 +19,7 @@ versioning:
   - 1.7-flink-1.15
   - 1.8
   - 1.8-flink-1.15
-  lastUpdated: 20231025090827
+  - 1.8.1-flink-1.15
+  - 1.8.2
+  - 1.8.2-flink-1.15
+  lastUpdated: 20231103113240

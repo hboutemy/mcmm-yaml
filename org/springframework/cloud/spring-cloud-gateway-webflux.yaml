@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud
 artifactId: spring-cloud-gateway-webflux
 versioning:
-  latest: 4.0.7
-  release: 4.0.7
+  latest: 4.0.8
+  release: 4.0.8
   versions:
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
@@ -39,6 +39,7 @@ versioning:
   - 3.1.6
   - 3.1.7
   - 3.1.8
+  - 3.1.9
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -47,6 +48,7 @@ versioning:
   - 4.0.5
   - 4.0.6
   - 4.0.7
+  - 4.0.8
   - 2.2.10.RELEASE
   - 2.2.8.RELEASE
   - 2.2.9.RELEASE
@@ -54,4 +56,4 @@ versioning:
   - 3.0.3
   - 3.0.4
   - 3.0.5
-  lastUpdated: 20230728011332
+  lastUpdated: 20231103203637
