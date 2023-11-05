@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.rules.engine.drools
 versioning:
-  latest: 5.0.19
-  release: 5.0.19
+  latest: 5.0.20
+  release: 5.0.20
   versions:
   - 1.0.20
   - 1.0.21
@@ -59,4 +58,5 @@ versioning:
   - 5.0.17
   - 5.0.18
   - 5.0.19
-  lastUpdated: 20230807185939
+  - 5.0.20
+  lastUpdated: 20231104171429

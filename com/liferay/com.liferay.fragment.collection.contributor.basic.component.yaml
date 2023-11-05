@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.fragment.collection.contributor.basic.component
 versioning:
-  latest: 3.0.33
-  release: 3.0.33
+  latest: 2.0.75
+  release: 2.0.75
   versions:
   - 1.0.0
   - 1.0.1
@@ -183,4 +182,5 @@ versioning:
   - 3.0.31
   - 3.0.32
   - 3.0.33
-  lastUpdated: 20230807175329
+  - 2.0.75
+  lastUpdated: 20231104200315

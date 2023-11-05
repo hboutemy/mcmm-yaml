@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.web.form.web
 versioning:
-  latest: 5.0.25
-  release: 5.0.25
+  latest: 4.0.38
+  release: 4.0.38
   versions:
   - 1.0.0
   - 1.0.1
@@ -233,4 +232,5 @@ versioning:
   - 5.0.23
   - 5.0.24
   - 5.0.25
-  lastUpdated: 20230807234442
+  - 4.0.38
+  lastUpdated: 20231104190318

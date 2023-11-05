@@ -3,8 +3,8 @@
 groupId: com.mikepenz
 artifactId: aboutlibraries-core-watchosx64
 versioning:
-  latest: 10.9.1
-  release: 10.9.1
+  latest: 10.9.2-wasm1
+  release: 10.9.2-wasm1
   versions:
   - 10.0.0-b01
   - 10.0.0-b02
@@ -47,4 +47,6 @@ versioning:
   - 10.9.0-b02
   - 10.9.0
   - 10.9.1
-  lastUpdated: 20230926201336
+  - 10.9.2
+  - 10.9.2-wasm1
+  lastUpdated: 20231104094413
