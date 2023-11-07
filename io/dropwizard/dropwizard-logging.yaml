@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.dropwizard
 artifactId: dropwizard-logging
 versioning:
-  latest: 4.0.3
-  release: 4.0.3
+  latest: 4.0.4
+  release: 4.0.4
   versions:
   - 0.7.0-rc1
   - 0.7.0-rc2
@@ -183,6 +183,7 @@ versioning:
   - 2.1.7
   - 2.1.8
   - 2.1.9
+  - 2.1.10
   - 3.0.0-beta.1
   - 3.0.0-beta.2
   - 3.0.0-beta.3
@@ -192,6 +193,7 @@ versioning:
   - 3.0.1
   - 3.0.2
   - 3.0.3
+  - 3.0.4
   - 4.0.0-beta.1
   - 4.0.0-beta.2
   - 4.0.0-beta.3
@@ -200,4 +202,5 @@ versioning:
   - 4.0.1
   - 4.0.2
   - 4.0.3
-  lastUpdated: 20231020180019
+  - 4.0.4
+  lastUpdated: 20231106214623

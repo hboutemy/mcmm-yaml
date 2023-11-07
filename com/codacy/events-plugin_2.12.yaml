@@ -3,8 +3,8 @@
 groupId: com.codacy
 artifactId: events-plugin_2.12
 versioning:
-  latest: 7.1.0_akka_2.6_circe_0.14
-  release: 7.1.0_akka_2.6_circe_0.14
+  latest: 8.0.0_akka_2.6_circe_0.14
+  release: 8.0.0_akka_2.6_circe_0.14
   versions:
   - 2.0.0-cleanup.76cd279_circe_0.8.0
   - 2.0.0-cleanup.76cd279_circe_0.9.1
@@ -216,4 +216,10 @@ versioning:
   - 7.1.0_akka_2.5_circe_0.12
   - 7.1.0_akka_2.6_circe_0.12
   - 7.1.0_akka_2.6_circe_0.14
-  lastUpdated: 20231023103754
+  - 7.1.1_akka_2.5_circe_0.12
+  - 7.1.1_akka_2.6_circe_0.12
+  - 7.1.1_akka_2.6_circe_0.14
+  - 8.0.0_akka_2.5_circe_0.12
+  - 8.0.0_akka_2.6_circe_0.12
+  - 8.0.0_akka_2.6_circe_0.14
+  lastUpdated: 20231106185015

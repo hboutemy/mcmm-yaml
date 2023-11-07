@@ -3,8 +3,8 @@
 groupId: org.apache.maven.surefire
 artifactId: surefire-shadefire
 versioning:
-  latest: 3.2.1
-  release: 3.2.1
+  latest: 3.2.2
+  release: 3.2.2
   versions:
   - 2.12.1
   - 2.12.2
@@ -34,4 +34,5 @@ versioning:
   - 3.1.0
   - 3.1.2
   - 3.2.1
-  lastUpdated: 20231023194522
+  - 3.2.2
+  lastUpdated: 20231106211500

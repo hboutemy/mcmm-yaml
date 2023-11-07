@@ -3,8 +3,8 @@
 groupId: io.vitess
 artifactId: vitess-client
 versioning:
-  latest: 18.0.0-rc1
-  release: 18.0.0-rc1
+  latest: 18.0.0
+  release: 18.0.0
   versions:
   - 2.1.0-rc.1
   - 2.1.0
@@ -39,4 +39,5 @@ versioning:
   - 17.0.0
   - 17.0.1
   - 18.0.0-rc1
-  lastUpdated: 20231003152322
+  - 18.0.0
+  lastUpdated: 20231106182825
