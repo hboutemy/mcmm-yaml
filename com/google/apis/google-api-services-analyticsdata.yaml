@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-analyticsdata
 versioning:
-  latest: v1beta-rev20230917-2.0.0
-  release: v1beta-rev20230917-2.0.0
+  latest: v1beta-rev20231105-2.0.0
+  release: v1beta-rev20231105-2.0.0
   versions:
   - v1alpha-rev20200907-1.30.10
   - v1alpha-rev20201006-1.30.10
@@ -53,4 +53,5 @@ versioning:
   - v1beta-rev20230808-2.0.0
   - v1beta-rev20230904-2.0.0
   - v1beta-rev20230917-2.0.0
-  lastUpdated: 20230919080903
+  - v1beta-rev20231105-2.0.0
+  lastUpdated: 20231107090646

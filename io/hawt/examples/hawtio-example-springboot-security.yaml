@@ -3,8 +3,8 @@
 groupId: io.hawt.examples
 artifactId: hawtio-example-springboot-security
 versioning:
-  latest: 4.0-M1
-  release: 4.0-M1
+  latest: 4.0-M2
+  release: 4.0-M2
   versions:
   - 2.9.0
   - 2.9.1
@@ -42,8 +42,10 @@ versioning:
   - 2.17.4
   - 2.17.5
   - 2.17.6
+  - 2.17.7
   - 3.0-beta-1
   - 3.0-beta-2
+  - 3.0-beta-3
   - 3.0-M1
   - 3.0-M2
   - 3.0-M3
@@ -53,4 +55,5 @@ versioning:
   - 3.0-M7
   - 3.0-M8
   - 4.0-M1
-  lastUpdated: 20231019085352
+  - 4.0-M2
+  lastUpdated: 20231107084732

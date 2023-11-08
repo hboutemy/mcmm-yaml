@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-displayvideo
 versioning:
-  latest: v3-rev20231026-2.0.0
-  release: v3-rev20231026-2.0.0
+  latest: v3-rev20231105-2.0.0
+  release: v3-rev20231105-2.0.0
   versions:
   - v1beta2-rev20200825-1.30.10
   - v1beta-rev20200825-1.30.10
@@ -115,6 +115,7 @@ versioning:
   - v1-rev20230914-2.0.0
   - v1-rev20231009-2.0.0
   - v1-rev20231026-2.0.0
+  - v1-rev20231105-2.0.0
   - v2-rev20220916-2.0.0
   - v2-rev20220922-2.0.0
   - v2-rev20221021-2.0.0
@@ -149,7 +150,9 @@ versioning:
   - v2-rev20230921-2.0.0
   - v2-rev20231009-2.0.0
   - v2-rev20231026-2.0.0
+  - v2-rev20231105-2.0.0
   - v3-rev20231009-2.0.0
   - v3-rev20231012-2.0.0
   - v3-rev20231026-2.0.0
-  lastUpdated: 20231027082928
+  - v3-rev20231105-2.0.0
+  lastUpdated: 20231107093800
