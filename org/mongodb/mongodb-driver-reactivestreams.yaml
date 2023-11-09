@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.mongodb
 artifactId: mongodb-driver-reactivestreams
 versioning:
-  latest: 4.11.0
-  release: 4.11.0
+  latest: 4.11.1
+  release: 4.11.1
   versions:
   - 1.0.0-beta1
   - 1.0.0-rc0
@@ -89,4 +89,5 @@ versioning:
   - 4.10.1
   - 4.10.2
   - 4.11.0
-  lastUpdated: 20231010141742
+  - 4.11.1
+  lastUpdated: 20231108213955

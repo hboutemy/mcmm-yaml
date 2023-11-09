@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-backup
 versioning:
-  latest: 8.3.1
-  release: 8.3.1
+  latest: 8.4.0-alpha1
+  release: 8.4.0-alpha1
   versions:
   - 8.0.15
   - 8.1.0-alpha4
@@ -32,6 +32,7 @@ versioning:
   - 8.1.16
   - 8.1.17
   - 8.1.18
+  - 8.1.19
   - 8.2.0-alpha1
   - 8.2.0-alpha2
   - 8.2.0-alpha3
@@ -55,6 +56,7 @@ versioning:
   - 8.2.14
   - 8.2.15
   - 8.2.16
+  - 8.2.17
   - 8.3.0-alpha1
   - 8.3.0-alpha2
   - 8.3.0-alpha2.1
@@ -66,4 +68,6 @@ versioning:
   - 8.3.0-rc1
   - 8.3.0
   - 8.3.1
-  lastUpdated: 20231020122414
+  - 8.3.2
+  - 8.4.0-alpha1
+  lastUpdated: 20231108142343

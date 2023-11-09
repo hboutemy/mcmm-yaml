@@ -3,8 +3,8 @@
 groupId: io.sentry
 artifactId: sentry-android-ndk
 versioning:
-  latest: 7.0.0-beta.1
-  release: 7.0.0-beta.1
+  latest: 7.0.0-rc.1
+  release: 7.0.0-rc.1
   versions:
   - 2.0.0-alpha04
   - 2.0.0-alpha05
@@ -169,4 +169,5 @@ versioning:
   - 6.33.0
   - 6.33.1
   - 7.0.0-beta.1
-  lastUpdated: 20231107111821
+  - 7.0.0-rc.1
+  lastUpdated: 20231108111818

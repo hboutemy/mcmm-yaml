@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-resteasy-reactive-jsonb
 versioning:
-  latest: 3.5.0
-  release: 3.5.0
+  latest: 3.5.1
+  release: 3.5.1
   versions:
   - 1.11.0.Beta1
   - 1.11.0.Beta2
@@ -167,6 +167,7 @@ versioning:
   - 3.2.5.Final
   - 3.2.6.Final
   - 3.2.7.Final
+  - 3.2.8.Final
   - 3.3.0.CR1
   - 3.3.0
   - 3.3.1
@@ -179,4 +180,5 @@ versioning:
   - 3.4.3
   - 3.5.0.CR1
   - 3.5.0
-  lastUpdated: 20231019120959
+  - 3.5.1
+  lastUpdated: 20231108130157

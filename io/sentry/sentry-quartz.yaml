@@ -3,8 +3,8 @@
 groupId: io.sentry
 artifactId: sentry-quartz
 versioning:
-  latest: 7.0.0-beta.1
-  release: 7.0.0-beta.1
+  latest: 7.0.0-rc.1
+  release: 7.0.0-rc.1
   versions:
   - 6.30.0
   - 6.31.0
@@ -12,4 +12,5 @@ versioning:
   - 6.33.0
   - 6.33.1
   - 7.0.0-beta.1
-  lastUpdated: 20231107111844
+  - 7.0.0-rc.1
+  lastUpdated: 20231108111837

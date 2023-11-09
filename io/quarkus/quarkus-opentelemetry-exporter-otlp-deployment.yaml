@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-opentelemetry-exporter-otlp-deployment
 versioning:
-  latest: 3.5.0
-  release: 3.5.0
+  latest: 3.5.1
+  release: 3.5.1
   versions:
   - 2.0.0.Final
   - 2.0.1.Final
@@ -137,6 +137,7 @@ versioning:
   - 3.2.5.Final
   - 3.2.6.Final
   - 3.2.7.Final
+  - 3.2.8.Final
   - 3.3.0.CR1
   - 3.3.0
   - 3.3.1
@@ -149,4 +150,5 @@ versioning:
   - 3.4.3
   - 3.5.0.CR1
   - 3.5.0
-  lastUpdated: 20231019120906
+  - 3.5.1
+  lastUpdated: 20231108130009
