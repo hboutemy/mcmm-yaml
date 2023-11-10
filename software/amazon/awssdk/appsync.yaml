@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: appsync
 versioning:
-  latest: 2.21.17
-  release: 2.21.17
+  latest: 2.21.20
+  release: 2.21.20
   versions:
   - 2.0.0-preview-6
   - 2.0.0-preview-7
@@ -1152,4 +1152,7 @@ versioning:
   - 2.21.15
   - 2.21.16
   - 2.21.17
-  lastUpdated: 20231107214008
+  - 2.21.18
+  - 2.21.19
+  - 2.21.20
+  lastUpdated: 20231109212628
