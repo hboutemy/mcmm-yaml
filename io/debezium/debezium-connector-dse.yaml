@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-connector-dse
 versioning:
-  latest: 2.5.0.Alpha1
-  release: 2.5.0.Alpha1
+  latest: 2.5.0.Alpha2
+  release: 2.5.0.Alpha2
   versions:
   - 2.2.0.Alpha3
   - 2.2.0.Beta1
@@ -26,4 +26,5 @@ versioning:
   - 2.4.0.CR1
   - 2.4.0.Final
   - 2.5.0.Alpha1
-  lastUpdated: 20231026164854
+  - 2.5.0.Alpha2
+  lastUpdated: 20231110113000
