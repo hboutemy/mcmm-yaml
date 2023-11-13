@@ -3,8 +3,8 @@
 groupId: io.springboot.nacos
 artifactId: nacos-sys
 versioning:
-  latest: 2.2.4-OEM
-  release: 2.2.4-OEM
+  latest: 2.2.4-x86
+  release: 2.2.4-x86
   versions:
   - 2.0.3
   - 2.0.4
@@ -17,4 +17,5 @@ versioning:
   - 2.2.3
   - 2.2.4
   - 2.2.4-OEM
-  lastUpdated: 20230824143504
+  - 2.2.4-x86
+  lastUpdated: 20231112070624

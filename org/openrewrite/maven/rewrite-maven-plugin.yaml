@@ -3,8 +3,8 @@
 groupId: org.openrewrite.maven
 artifactId: rewrite-maven-plugin
 versioning:
-  latest: 5.10.0
-  release: 5.10.0
+  latest: 5.11.0
+  release: 5.11.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -148,4 +148,5 @@ versioning:
   - 5.9.0
   - 5.9.1
   - 5.10.0
-  lastUpdated: 20231030202519
+  - 5.11.0
+  lastUpdated: 20231112215858

@@ -3,8 +3,8 @@
 groupId: io.springboot.nacos
 artifactId: nacos-custom-environment-plugin
 versioning:
-  latest: 2.2.4-OEM
-  release: 2.2.4-OEM
+  latest: 2.2.4-x86
+  release: 2.2.4-x86
   versions:
   - 2.2.0
   - 2.2.0.PIGOEM
@@ -12,4 +12,5 @@ versioning:
   - 2.2.3
   - 2.2.4
   - 2.2.4-OEM
-  lastUpdated: 20230824143501
+  - 2.2.4-x86
+  lastUpdated: 20231112070620
