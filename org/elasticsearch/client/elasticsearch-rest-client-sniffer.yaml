@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.client
 artifactId: elasticsearch-rest-client-sniffer
 versioning:
-  latest: 8.11.0
-  release: 8.11.0
+  latest: 8.11.1
+  release: 8.11.1
   versions:
   - 5.6.0
   - 5.6.1
@@ -150,6 +150,7 @@ versioning:
   - 7.17.12
   - 7.17.13
   - 7.17.14
+  - 7.17.15
   - 8.0.0-alpha1
   - 8.0.0-alpha2
   - 8.0.0-beta1
@@ -194,4 +195,5 @@ versioning:
   - 8.10.3
   - 8.10.4
   - 8.11.0
-  lastUpdated: 20231107155504
+  - 8.11.1
+  lastUpdated: 20231113182258

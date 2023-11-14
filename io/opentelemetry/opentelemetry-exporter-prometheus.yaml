@@ -3,8 +3,8 @@
 groupId: io.opentelemetry
 artifactId: opentelemetry-exporter-prometheus
 versioning:
-  latest: 1.31.0-alpha
-  release: 1.31.0-alpha
+  latest: 1.32.0-alpha
+  release: 1.32.0-alpha
   versions:
   - 0.10.0
   - 0.11.0
@@ -58,4 +58,5 @@ versioning:
   - 1.30.0-alpha
   - 1.30.1-alpha
   - 1.31.0-alpha
-  lastUpdated: 20231006205635
+  - 1.32.0-alpha
+  lastUpdated: 20231113183831
