@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: gcp
 versioning:
-  latest: 7.0.0
-  release: 7.0.0
+  latest: 7.1.0-alpha.1699987375+f41f0b17
+  release: 7.1.0-alpha.1699987375+f41f0b17
   versions:
   - v6.31.0-alpha.1657285227+6c9897a8
   - 6.21.0
@@ -156,4 +156,6 @@ versioning:
   - 7.0.0-alpha.1699651384+c642f325
   - 7.0.0-rc.0
   - 7.0.0
-  lastUpdated: 20231110220918
+  - 7.1.0-alpha.1699971849+f951d401
+  - 7.1.0-alpha.1699987375+f41f0b17
+  lastUpdated: 20231114192941
