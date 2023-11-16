@@ -3,8 +3,8 @@
 groupId: org.testcontainers
 artifactId: mongodb
 versioning:
-  latest: 1.19.1
-  release: 1.19.1
+  latest: 1.19.2
+  release: 1.19.2
   versions:
   - 1.14.2
   - 1.14.3
@@ -31,4 +31,5 @@ versioning:
   - 1.18.3
   - 1.19.0
   - 1.19.1
-  lastUpdated: 20231002180404
+  - 1.19.2
+  lastUpdated: 20231115023618

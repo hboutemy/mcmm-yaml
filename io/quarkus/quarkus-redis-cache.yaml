@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-redis-cache
 versioning:
-  latest: 3.5.1
-  release: 3.5.1
+  latest: 3.6.0.CR1
+  release: 3.6.0.CR1
   versions:
   - 3.0.0.CR1
   - 3.0.0.CR2
@@ -41,4 +41,5 @@ versioning:
   - 3.5.0.CR1
   - 3.5.0
   - 3.5.1
-  lastUpdated: 20231108130049
+  - 3.6.0.CR1
+  lastUpdated: 20231115105332

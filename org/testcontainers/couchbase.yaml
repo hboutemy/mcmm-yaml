@@ -3,8 +3,8 @@
 groupId: org.testcontainers
 artifactId: couchbase
 versioning:
-  latest: 1.19.1
-  release: 1.19.1
+  latest: 1.19.2
+  release: 1.19.2
   versions:
   - 1.8.0
   - 1.8.1
@@ -59,4 +59,5 @@ versioning:
   - 1.18.3
   - 1.19.0
   - 1.19.1
-  lastUpdated: 20231002180345
+  - 1.19.2
+  lastUpdated: 20231115023600

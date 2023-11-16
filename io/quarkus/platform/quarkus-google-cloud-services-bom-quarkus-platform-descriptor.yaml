@@ -3,8 +3,8 @@
 groupId: io.quarkus.platform
 artifactId: quarkus-google-cloud-services-bom-quarkus-platform-descriptor
 versioning:
-  latest: 3.5.1
-  release: 3.5.1
+  latest: 3.6.0.CR1
+  release: 3.6.0.CR1
   versions:
   - 2.0.0.Final
   - 2.0.1.Final
@@ -137,4 +137,5 @@ versioning:
   - 3.5.0.CR1
   - 3.5.0
   - 3.5.1
-  lastUpdated: 20231108164903
+  - 3.6.0.CR1
+  lastUpdated: 20231115155454

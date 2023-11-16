@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-bootstrap-bom-test
 versioning:
-  latest: 3.5.1
-  release: 3.5.1
+  latest: 3.6.0.CR1
+  release: 3.6.0.CR1
   versions:
   - 2.4.0.Final
   - 2.4.1.Final
@@ -130,4 +130,5 @@ versioning:
   - 3.5.0.CR1
   - 3.5.0
   - 3.5.1
-  lastUpdated: 20231108125420
+  - 3.6.0.CR1
+  lastUpdated: 20231115105032

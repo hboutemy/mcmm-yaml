@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-elasticsearch-rest-client-deployment
 versioning:
-  latest: 3.5.1
-  release: 3.5.1
+  latest: 3.6.0.CR1
+  release: 3.6.0.CR1
   versions:
   - 0.15.0
   - 0.16.0
@@ -258,4 +258,5 @@ versioning:
   - 3.5.0.CR1
   - 3.5.0
   - 3.5.1
-  lastUpdated: 20231108125540
+  - 3.6.0.CR1
+  lastUpdated: 20231115105111

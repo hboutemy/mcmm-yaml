@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-hibernate-search-orm-elasticsearch-deployment
 versioning:
-  latest: 3.5.1
-  release: 3.5.1
+  latest: 3.6.0.CR1
+  release: 3.6.0.CR1
   versions:
   - 1.10.0.CR1
   - 1.10.0.Final
@@ -188,4 +188,5 @@ versioning:
   - 3.5.0.CR1
   - 3.5.0
   - 3.5.1
-  lastUpdated: 20231108125700
+  - 3.6.0.CR1
+  lastUpdated: 20231115105153
