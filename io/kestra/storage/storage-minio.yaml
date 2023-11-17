@@ -3,8 +3,8 @@
 groupId: io.kestra.storage
 artifactId: storage-minio
 versioning:
-  latest: 0.12.0
-  release: 0.12.0
+  latest: 0.13.0
+  release: 0.13.0
   versions:
   - 0.2.0
   - 0.2.1
@@ -17,4 +17,5 @@ versioning:
   - 0.9.0
   - 0.11.0
   - 0.12.0
-  lastUpdated: 20230928164451
+  - 0.13.0
+  lastUpdated: 20231116122826

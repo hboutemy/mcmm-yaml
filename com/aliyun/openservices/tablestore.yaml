@@ -3,8 +3,8 @@
 groupId: com.aliyun.openservices
 artifactId: tablestore
 versioning:
-  latest: 5.16.3
-  release: 5.16.3
+  latest: 5.16.3-time
+  release: 5.16.3-time
   versions:
   - 4.0.0
   - 4.1.0
@@ -82,4 +82,5 @@ versioning:
   - 5.16.1
   - 5.16.2
   - 5.16.3
-  lastUpdated: 20230907055841
+  - 5.16.3-time
+  lastUpdated: 20231116073343

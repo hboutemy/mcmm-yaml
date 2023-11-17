@@ -3,8 +3,8 @@
 groupId: io.zipkin.zipkin2
 artifactId: zipkin
 versioning:
-  latest: 2.24.3
-  release: 2.24.3
+  latest: 3.0.0-rc0
+  release: 3.0.0-rc0
   versions:
   - 2.0.0
   - 2.0.1
@@ -127,4 +127,5 @@ versioning:
   - 2.24.1
   - 2.24.2
   - 2.24.3
-  lastUpdated: 20230801071518
+  - 3.0.0-rc0
+  lastUpdated: 20231116072059

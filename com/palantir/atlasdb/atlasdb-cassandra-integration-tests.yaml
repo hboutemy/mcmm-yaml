@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-cassandra-integration-tests
 versioning:
-  latest: 0.979.0
-  release: 0.979.0
+  latest: 0.980.0
+  release: 0.980.0
   versions:
   - 0.311.6
   - 0.311.7
@@ -786,4 +786,5 @@ versioning:
   - 0.976.0
   - 0.978.0
   - 0.979.0
-  lastUpdated: 20231115204327
+  - 0.980.0
+  lastUpdated: 20231116213604
