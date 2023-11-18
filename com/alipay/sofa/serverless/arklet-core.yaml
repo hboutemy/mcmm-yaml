@@ -3,8 +3,8 @@
 groupId: com.alipay.sofa.serverless
 artifactId: arklet-core
 versioning:
-  latest: 0.5.2
-  release: 0.5.2
+  latest: 0.5.3-jdk17
+  release: 0.5.3-jdk17
   versions:
   - 0.3.0
   - 0.3.1
@@ -13,4 +13,6 @@ versioning:
   - 0.5.0
   - 0.5.1
   - 0.5.2
-  lastUpdated: 20231109034446
+  - 0.5.3
+  - 0.5.3-jdk17
+  lastUpdated: 20231117004507

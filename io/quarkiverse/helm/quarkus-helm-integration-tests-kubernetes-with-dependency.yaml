@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.helm
 artifactId: quarkus-helm-integration-tests-kubernetes-with-dependency
 versioning:
-  latest: 1.2.0
-  release: 1.2.0
+  latest: 1.2.1
+  release: 1.2.1
   versions:
   - 0.0.6
   - 0.0.7
@@ -33,4 +33,5 @@ versioning:
   - 1.0.9
   - 1.1.0
   - 1.2.0
-  lastUpdated: 20231030150151
+  - 1.2.1
+  lastUpdated: 20231117121606
