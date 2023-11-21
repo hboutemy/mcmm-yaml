@@ -3,8 +3,8 @@
 groupId: io.gravitee.node
 artifactId: gravitee-node-monitoring
 versioning:
-  latest: 4.5.0
-  release: 4.5.0
+  latest: 4.6.0-alpha.2
+  release: 4.6.0-alpha.2
   versions:
   - 1.12.0
   - 1.12.1
@@ -136,4 +136,6 @@ versioning:
   - 4.4.0-alpha.6
   - 4.4.0
   - 4.5.0
-  lastUpdated: 20231117084733
+  - 4.6.0-alpha.1
+  - 4.6.0-alpha.2
+  lastUpdated: 20231120095243

@@ -3,8 +3,8 @@
 groupId: io.gravitee.node
 artifactId: gravitee-node-certificates
 versioning:
-  latest: 4.5.0
-  release: 4.5.0
+  latest: 4.6.0-alpha.2
+  release: 4.6.0-alpha.2
   versions:
   - 1.19.0
   - 1.19.1
@@ -113,4 +113,6 @@ versioning:
   - 4.4.0-alpha.6
   - 4.4.0
   - 4.5.0
-  lastUpdated: 20231117084725
+  - 4.6.0-alpha.1
+  - 4.6.0-alpha.2
+  lastUpdated: 20231120095235

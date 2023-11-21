@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.commons
 artifactId: xwiki-commons-filter-streams
 versioning:
-  latest: 15.9
-  release: 15.9
+  latest: 15.10-rc-1
+  release: 15.10-rc-1
   versions:
   - 6.2-milestone-1
   - 6.2-milestone-2
@@ -362,4 +362,5 @@ versioning:
   - 15.8
   - 15.9-rc-1
   - 15.9
-  lastUpdated: 20231109084659
+  - 15.10-rc-1
+  lastUpdated: 20231120152256
