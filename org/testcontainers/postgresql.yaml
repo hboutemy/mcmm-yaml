@@ -3,8 +3,8 @@
 groupId: org.testcontainers
 artifactId: postgresql
 versioning:
-  latest: 1.19.2
-  release: 1.19.2
+  latest: 1.19.3
+  release: 1.19.3
   versions:
   - 0.9.6
   - 0.9.7
@@ -95,4 +95,5 @@ versioning:
   - 1.19.0
   - 1.19.1
   - 1.19.2
-  lastUpdated: 20231115023626
+  - 1.19.3
+  lastUpdated: 20231121162037
