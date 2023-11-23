@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-rest-client-mutiny-parent
 versioning:
-  latest: 3.6.0.CR1
-  release: 3.6.0.CR1
+  latest: 3.6.0
+  release: 3.6.0
   versions:
   - 1.9.0.CR1
   - 1.9.0.Final
@@ -197,4 +197,5 @@ versioning:
   - 3.5.2
   - 3.5.3
   - 3.6.0.CR1
-  lastUpdated: 20231121111213
+  - 3.6.0
+  lastUpdated: 20231122133847

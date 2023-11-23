@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-reactive-mssql-client-deployment
 versioning:
-  latest: 3.6.0.CR1
-  release: 3.6.0.CR1
+  latest: 3.6.0
+  release: 3.6.0
   versions:
   - 2.1.0.CR1
   - 2.1.0.Final
@@ -152,4 +152,5 @@ versioning:
   - 3.5.2
   - 3.5.3
   - 3.6.0.CR1
-  lastUpdated: 20231121111201
+  - 3.6.0
+  lastUpdated: 20231122133835

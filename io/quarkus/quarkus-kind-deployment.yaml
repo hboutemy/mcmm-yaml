@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-kind-deployment
 versioning:
-  latest: 3.6.0.CR1
-  release: 3.6.0.CR1
+  latest: 3.6.0
+  release: 3.6.0
   versions:
   - 2.8.0.CR1
   - 2.8.0.Final
@@ -112,4 +112,5 @@ versioning:
   - 3.5.2
   - 3.5.3
   - 3.6.0.CR1
-  lastUpdated: 20231121111110
+  - 3.6.0
+  lastUpdated: 20231122133747

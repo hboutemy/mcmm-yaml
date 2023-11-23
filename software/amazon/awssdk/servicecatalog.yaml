@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: servicecatalog
 versioning:
-  latest: 2.21.27
-  release: 2.21.27
+  latest: 2.21.29
+  release: 2.21.29
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -1166,4 +1166,6 @@ versioning:
   - 2.21.25
   - 2.21.26
   - 2.21.27
-  lastUpdated: 20231120223146
+  - 2.21.28
+  - 2.21.29
+  lastUpdated: 20231122215235
