@@ -3,8 +3,8 @@
 groupId: org.hibernate.orm
 artifactId: hibernate-ant
 versioning:
-  latest: 6.4.0.CR1
-  release: 6.4.0.CR1
+  latest: 6.4.0.Final
+  release: 6.4.0.Final
   versions:
   - 6.0.0.Beta1
   - 6.0.0.Beta2
@@ -43,5 +43,7 @@ versioning:
   - 6.3.0.CR1
   - 6.3.0.Final
   - 6.3.1.Final
+  - 6.3.2.Final
   - 6.4.0.CR1
-  lastUpdated: 20231026011705
+  - 6.4.0.Final
+  lastUpdated: 20231123150513
