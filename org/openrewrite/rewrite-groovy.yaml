@@ -3,8 +3,8 @@
 groupId: org.openrewrite
 artifactId: rewrite-groovy
 versioning:
-  latest: 8.9.7
-  release: 8.9.7
+  latest: 8.9.9
+  release: 8.9.9
   versions:
   - 7.15.0
   - 7.15.1
@@ -113,4 +113,6 @@ versioning:
   - 8.9.5
   - 8.9.6
   - 8.9.7
-  lastUpdated: 20231123073756
+  - 8.9.8
+  - 8.9.9
+  lastUpdated: 20231124232302

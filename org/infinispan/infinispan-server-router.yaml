@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-server-router
 versioning:
-  latest: 15.0.0.Dev04
-  release: 15.0.0.Dev04
+  latest: 15.0.0.Dev05
+  release: 15.0.0.Dev05
   versions:
   - 9.0.0.Beta2
   - 9.0.0.CR1
@@ -221,5 +221,6 @@ versioning:
   - 15.0.0.Dev02
   - 15.0.0.Dev03
   - 15.0.0.Dev04
+  - 15.0.0.Dev05
   - 12.0.0.Dev03
-  lastUpdated: 20231120133120
+  lastUpdated: 20231124163157

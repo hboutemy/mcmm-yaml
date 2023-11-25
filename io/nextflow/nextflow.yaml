@@ -3,8 +3,8 @@
 groupId: io.nextflow
 artifactId: nextflow
 versioning:
-  latest: 23.10.0
-  release: 23.10.0
+  latest: 23.11.0-edge
+  release: 23.11.0-edge
   versions:
   - 0.13.0
   - 0.13.1
@@ -259,4 +259,5 @@ versioning:
   - 23.09.2-edge
   - 23.09.3-edge
   - 23.10.0
-  lastUpdated: 20231015151324
+  - 23.11.0-edge
+  lastUpdated: 20231124213851
