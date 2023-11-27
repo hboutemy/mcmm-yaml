@@ -3,8 +3,8 @@
 groupId: org.apache.nifi
 artifactId: nifi-framework-cluster-protocol
 versioning:
-  latest: 1.23.2
-  release: 1.23.2
+  latest: 2.0.0-M1
+  release: 2.0.0-M1
   versions:
   - 0.0.1-incubating
   - 0.0.2-incubating
@@ -70,4 +70,5 @@ versioning:
   - 1.23.0
   - 1.23.1
   - 1.23.2
-  lastUpdated: 20230822204252
+  - 2.0.0-M1
+  lastUpdated: 20231126031757

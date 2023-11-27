@@ -3,8 +3,8 @@
 groupId: org.apache.nifi
 artifactId: nifi-websocket-services-jetty-nar
 versioning:
-  latest: 1.23.2
-  release: 1.23.2
+  latest: 2.0.0-M1
+  release: 2.0.0-M1
   versions:
   - 1.1.0
   - 1.1.1
@@ -50,4 +50,5 @@ versioning:
   - 1.23.0
   - 1.23.1
   - 1.23.2
-  lastUpdated: 20230822211411
+  - 2.0.0-M1
+  lastUpdated: 20231126035652

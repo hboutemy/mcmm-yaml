@@ -3,8 +3,8 @@
 groupId: pl.morgwai.base
 artifactId: servlet-scopes
 versioning:
-  latest: 13.1-javax
-  release: 13.1-javax
+  latest: 13.2-javax
+  release: 13.2-javax
   versions:
   - 1.0-alpha1
   - 1.0-alpha2
@@ -75,4 +75,6 @@ versioning:
   - 13.0-javax
   - 13.1-jakarta
   - 13.1-javax
-  lastUpdated: 20231108040905
+  - 13.2-jakarta
+  - 13.2-javax
+  lastUpdated: 20231126134041
