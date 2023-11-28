@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: workdocs
 versioning:
-  latest: 2.21.29
-  release: 2.21.29
+  latest: 2.21.31
+  release: 2.21.31
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -1168,4 +1168,6 @@ versioning:
   - 2.21.27
   - 2.21.28
   - 2.21.29
-  lastUpdated: 20231122215249
+  - 2.21.30
+  - 2.21.31
+  lastUpdated: 20231127222204

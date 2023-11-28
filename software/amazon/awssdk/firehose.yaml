@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: firehose
 versioning:
-  latest: 2.21.29
-  release: 2.21.29
+  latest: 2.21.31
+  release: 2.21.31
   versions:
   - 2.0.0-preview-12
   - 2.0.0-preview-13
@@ -1158,4 +1158,6 @@ versioning:
   - 2.21.27
   - 2.21.28
   - 2.21.29
-  lastUpdated: 20231122215138
+  - 2.21.30
+  - 2.21.31
+  lastUpdated: 20231127222046

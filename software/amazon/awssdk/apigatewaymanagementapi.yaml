@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: apigatewaymanagementapi
 versioning:
-  latest: 2.21.29
-  release: 2.21.29
+  latest: 2.21.31
+  release: 2.21.31
   versions:
   - 2.3.0
   - 2.3.1
@@ -1150,4 +1150,6 @@ versioning:
   - 2.21.27
   - 2.21.28
   - 2.21.29
-  lastUpdated: 20231122215046
+  - 2.21.30
+  - 2.21.31
+  lastUpdated: 20231127221951
