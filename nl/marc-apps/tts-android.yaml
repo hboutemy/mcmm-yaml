@@ -3,8 +3,8 @@
 groupId: nl.marc-apps
 artifactId: tts-android
 versioning:
-  latest: 2.2.0
-  release: 2.2.0
+  latest: 2.3.0-wasm0
+  release: 2.3.0-wasm0
   versions:
   - 0.7.1
   - 0.7.2
@@ -26,4 +26,6 @@ versioning:
   - 2.0.0
   - 2.1.0
   - 2.2.0
-  lastUpdated: 20231015140819
+  - 2.3.0
+  - 2.3.0-wasm0
+  lastUpdated: 20231128164403
