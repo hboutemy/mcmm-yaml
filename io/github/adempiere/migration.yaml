@@ -3,8 +3,8 @@
 groupId: io.github.adempiere
 artifactId: migration
 versioning:
-  latest: 3.9.4-develop-1.0
-  release: 3.9.4-develop-1.0
+  latest: 3.9.4.001
+  release: 3.9.4.001
   versions:
   - test-adempiere-1.0.0
   - v3.9.4.001
@@ -14,4 +14,5 @@ versioning:
   - 3.9.4-rc-1.0.6
   - 3.9.4
   - 3.9.4-develop-1.0
-  lastUpdated: 20231129022317
+  - 3.9.4.001
+  lastUpdated: 20231130215333

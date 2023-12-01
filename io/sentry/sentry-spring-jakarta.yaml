@@ -3,8 +3,8 @@
 groupId: io.sentry
 artifactId: sentry-spring-jakarta
 versioning:
-  latest: 7.0.0-rc.2
-  release: 7.0.0-rc.2
+  latest: 7.0.0
+  release: 7.0.0
   versions:
   - 6.7.0-alpha.1
   - 6.7.0
@@ -50,4 +50,5 @@ versioning:
   - 7.0.0-beta.1
   - 7.0.0-rc.1
   - 7.0.0-rc.2
-  lastUpdated: 20231120134701
+  - 7.0.0
+  lastUpdated: 20231130124922

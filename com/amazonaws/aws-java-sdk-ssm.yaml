@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-ssm
 versioning:
-  latest: 1.12.599
-  release: 1.12.599
+  latest: 1.12.603
+  release: 1.12.603
   versions:
   - 1.9.20
   - 1.9.20.1
@@ -1746,4 +1746,7 @@ versioning:
   - 1.12.597
   - 1.12.598
   - 1.12.599
-  lastUpdated: 20231128215204
+  - 1.12.600
+  - 1.12.602
+  - 1.12.603
+  lastUpdated: 20231130214832

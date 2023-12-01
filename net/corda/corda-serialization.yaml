@@ -3,8 +3,8 @@
 groupId: net.corda
 artifactId: corda-serialization
 versioning:
-  latest: 5.0.0.765
-  release: 5.0.0.765
+  latest: 5.1.0.39
+  release: 5.1.0.39
   versions:
   - 4.0
   - 4.1
@@ -25,6 +25,7 @@ versioning:
   - 4.9.8
   - 4.10
   - 4.10.3
+  - 4.11
   - 5.0.0-DevPreview
   - 5.0.0-DevPreview-1.0
   - 5.0.0-DevPreview-1.0.1
@@ -37,4 +38,5 @@ versioning:
   - 5.0.0.755-Hawk1.0.1
   - 5.0.0.763-Iguana1.0
   - 5.0.0.765
-  lastUpdated: 20230919101930
+  - 5.1.0.39
+  lastUpdated: 20231130171259
