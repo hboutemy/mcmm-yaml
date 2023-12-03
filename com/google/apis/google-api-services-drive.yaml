@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-drive
 versioning:
-  latest: v3-rev20230822-2.0.0
-  release: v3-rev20230822-2.0.0
+  latest: v3-rev20231120-2.0.0
+  release: v3-rev20231120-2.0.0
   versions:
   - v1-rev45-1.13.2-beta
   - v1-rev45-1.14.1-beta
@@ -2298,4 +2298,5 @@ versioning:
   - v3-rev20230714-2.0.0
   - v3-rev20230815-2.0.0
   - v3-rev20230822-2.0.0
-  lastUpdated: 20231201094927
+  - v3-rev20231120-2.0.0
+  lastUpdated: 20231202091757

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.document.library.repository.cmis.impl
 versioning:
-  latest: 6.0.32
-  release: 6.0.32
+  latest: 6.0.33
+  release: 6.0.33
   versions:
   - 1.0.0
   - 2.0.0
@@ -213,4 +212,5 @@ versioning:
   - 6.0.30
   - 6.0.31
   - 6.0.32
-  lastUpdated: 20230807202006
+  - 6.0.33
+  lastUpdated: 20231202165115
