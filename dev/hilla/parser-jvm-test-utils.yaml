@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: dev.hilla
 artifactId: parser-jvm-test-utils
 versioning:
-  latest: 24.1.15
-  release: 24.1.15
+  latest: 2.4.0
+  release: 2.4.0
   versions:
   - 1.2.0
   - 1.2.1
@@ -95,4 +96,4 @@ versioning:
   - 2.3.4
   - 2.4.0
   - 24.1.15
-  lastUpdated: 20231129104740
+  lastUpdated: 20231204155212

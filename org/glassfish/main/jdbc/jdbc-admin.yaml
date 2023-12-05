@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.main.jdbc
 artifactId: jdbc-admin
 versioning:
-  latest: 7.0.10
-  release: 7.0.10
+  latest: 7.0.11
+  release: 7.0.11
   versions:
   - 5.1.0
   - 6.0.0-M1
@@ -37,6 +37,7 @@ versioning:
   - 7.0.8
   - 7.0.9
   - 7.0.10
+  - 7.0.11
   - 3.1.2
   - 3.1.2.2
   - 4.0
@@ -50,4 +51,4 @@ versioning:
   - 5.0.1
   - 5.1.0-RC1
   - 5.1.0-RC2
-  lastUpdated: 20231030134546
+  lastUpdated: 20231204145155

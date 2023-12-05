@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-operator
 versioning:
-  latest: 2.5.0.Alpha2
-  release: 2.5.0.Alpha2
+  latest: 2.5.0.Beta1
+  release: 2.5.0.Beta1
   versions:
   - 2.3.0.CR1
   - 2.3.0.Final
@@ -21,4 +21,5 @@ versioning:
   - 2.4.1.Final
   - 2.5.0.Alpha1
   - 2.5.0.Alpha2
-  lastUpdated: 20231116133846
+  - 2.5.0.Beta1
+  lastUpdated: 20231204175618

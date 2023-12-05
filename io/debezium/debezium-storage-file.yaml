@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-storage-file
 versioning:
-  latest: 2.5.0.Alpha2
-  release: 2.5.0.Alpha2
+  latest: 2.5.0.Beta1
+  release: 2.5.0.Beta1
   versions:
   - 2.0.0.Beta1
   - 2.0.0.Beta2
@@ -43,4 +43,5 @@ versioning:
   - 2.4.1.Final
   - 2.5.0.Alpha1
   - 2.5.0.Alpha2
-  lastUpdated: 20231116134144
+  - 2.5.0.Beta1
+  lastUpdated: 20231204180034

@@ -3,8 +3,8 @@
 groupId: io.zonky.test.postgres
 artifactId: embedded-postgres-binaries-darwin-arm64v8
 versioning:
-  latest: 16.1.0
-  release: 16.1.0
+  latest: 16.1.1
+  release: 16.1.1
   versions:
   - 10.20.0
   - 11.15.0
@@ -19,12 +19,15 @@ versioning:
   - 14.8.0
   - 14.9.0
   - 14.10.0
+  - 14.10.1
   - 15.0.0
   - 15.1.0
   - 15.2.0
   - 15.3.0
   - 15.4.0
   - 15.5.0
+  - 15.5.1
   - 16.0.0
   - 16.1.0
-  lastUpdated: 20231111034416
+  - 16.1.1
+  lastUpdated: 20231204115913
