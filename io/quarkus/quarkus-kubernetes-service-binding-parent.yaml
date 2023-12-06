@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-kubernetes-service-binding-parent
 versioning:
-  latest: 3.6.0
-  release: 3.6.0
+  latest: 3.6.1
+  release: 3.6.1
   versions:
   - 1.11.0.Beta1
   - 1.11.0.Beta2
@@ -187,4 +187,5 @@ versioning:
   - 3.5.3
   - 3.6.0.CR1
   - 3.6.0
-  lastUpdated: 20231122133753
+  - 3.6.1
+  lastUpdated: 20231205162254

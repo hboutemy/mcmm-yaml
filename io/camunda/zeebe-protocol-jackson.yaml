@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-protocol-jackson
 versioning:
-  latest: 8.4.0-alpha1
-  release: 8.4.0-alpha1
+  latest: 8.4.0-alpha2
+  release: 8.4.0-alpha2
   versions:
   - 1.2.0-alpha2
   - 1.2.0
@@ -93,6 +93,7 @@ versioning:
   - 8.1.18
   - 8.1.19
   - 8.1.20
+  - 8.1.21
   - 8.2.0-alpha1
   - 8.2.0-alpha2
   - 8.2.0-alpha3
@@ -118,6 +119,7 @@ versioning:
   - 8.2.16
   - 8.2.17
   - 8.2.18
+  - 8.2.19
   - 8.3.0-alpha1
   - 8.3.0-alpha2
   - 8.3.0-alpha2.1
@@ -131,5 +133,7 @@ versioning:
   - 8.3.1
   - 8.3.2
   - 8.3.3
+  - 8.3.4
   - 8.4.0-alpha1
-  lastUpdated: 20231116205737
+  - 8.4.0-alpha2
+  lastUpdated: 20231205202428
