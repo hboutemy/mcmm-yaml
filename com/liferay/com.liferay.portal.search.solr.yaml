@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.search.solr
 versioning:
-  latest: 3.0.26
-  release: 3.0.26
+  latest: 2.0.92
+  release: 2.0.92
   versions:
   - 1.0.0
   - 2.0.0
@@ -127,4 +126,5 @@ versioning:
   - 3.0.24
   - 3.0.25
   - 3.0.26
-  lastUpdated: 20230807204610
+  - 2.0.92
+  lastUpdated: 20231206170739

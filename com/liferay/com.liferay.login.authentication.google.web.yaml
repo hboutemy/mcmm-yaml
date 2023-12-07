@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.login.authentication.google.web
 versioning:
-  latest: 3.0.29
-  release: 3.0.29
+  latest: 2.0.38
+  release: 2.0.38
   versions:
   - 1.0.0
   - 2.0.0
@@ -76,4 +75,5 @@ versioning:
   - 3.0.27
   - 3.0.28
   - 3.0.29
-  lastUpdated: 20230807233346
+  - 2.0.38
+  lastUpdated: 20231206172203

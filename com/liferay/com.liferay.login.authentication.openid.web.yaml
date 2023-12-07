@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.login.authentication.openid.web
 versioning:
-  latest: 3.0.24
-  release: 3.0.24
+  latest: 2.0.28
+  release: 2.0.28
   versions:
   - 1.0.0
   - 2.0.0
@@ -61,4 +60,5 @@ versioning:
   - 3.0.22
   - 3.0.23
   - 3.0.24
-  lastUpdated: 20230807185842
+  - 2.0.28
+  lastUpdated: 20231206184653

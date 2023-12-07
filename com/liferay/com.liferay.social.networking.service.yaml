@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.social.networking.service
 versioning:
-  latest: 3.0.44
-  release: 3.0.44
+  latest: 3.0.45
+  release: 3.0.45
   versions:
   - 1.0.1
   - 2.0.0
@@ -74,4 +73,5 @@ versioning:
   - 3.0.42
   - 3.0.43
   - 3.0.44
-  lastUpdated: 20230807204035
+  - 3.0.45
+  lastUpdated: 20231206170921

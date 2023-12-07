@@ -3,8 +3,8 @@
 groupId: org.apache.struts
 artifactId: struts2-bean-validation-plugin
 versioning:
-  latest: 6.3.0.1
-  release: 6.3.0.1
+  latest: 6.3.0.2
+  release: 6.3.0.2
   versions:
   - 2.5-BETA1
   - 2.5-BETA2
@@ -36,6 +36,7 @@ versioning:
   - 2.5.30
   - 2.5.31
   - 2.5.32
+  - 2.5.33
   - 6.0.0
   - 6.0.3
   - 6.1.1
@@ -45,4 +46,5 @@ versioning:
   - 6.2.0
   - 6.3.0
   - 6.3.0.1
-  lastUpdated: 20230913130652
+  - 6.3.0.2
+  lastUpdated: 20231206185036

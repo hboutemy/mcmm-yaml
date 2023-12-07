@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.petra.doulos
 versioning:
-  latest: 7.0.8
-  release: 7.0.8
+  latest: 3.5.11
+  release: 3.5.11
   versions:
   - 1.0.0
   - 1.0.1
@@ -76,4 +75,5 @@ versioning:
   - 7.0.6
   - 7.0.7
   - 7.0.8
-  lastUpdated: 20230807220503
+  - 3.5.11
+  lastUpdated: 20231206153846

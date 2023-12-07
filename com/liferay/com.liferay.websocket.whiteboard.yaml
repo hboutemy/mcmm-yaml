@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.websocket.whiteboard
 versioning:
-  latest: 5.0.9
-  release: 5.0.9
+  latest: 1.0.11
+  release: 1.0.11
   versions:
   - 1.0.0
   - 1.0.1
@@ -62,4 +61,5 @@ versioning:
   - 5.0.7
   - 5.0.8
   - 5.0.9
-  lastUpdated: 20230807223913
+  - 1.0.11
+  lastUpdated: 20231206155228

@@ -3,8 +3,8 @@
 groupId: org.apache.struts
 artifactId: struts2-bom
 versioning:
-  latest: 6.3.0.1
-  release: 6.3.0.1
+  latest: 6.3.0.2
+  release: 6.3.0.2
   versions:
   - 2.3.20
   - 2.3.20.1
@@ -53,6 +53,7 @@ versioning:
   - 2.5.30
   - 2.5.31
   - 2.5.32
+  - 2.5.33
   - 6.0.0
   - 6.0.3
   - 6.1.1
@@ -62,4 +63,5 @@ versioning:
   - 6.2.0
   - 6.3.0
   - 6.3.0.1
-  lastUpdated: 20230913130709
+  - 6.3.0.2
+  lastUpdated: 20231206185042

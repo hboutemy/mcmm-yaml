@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-processors-tests
 versioning:
-  latest: 0.998.0
-  release: 0.998.0
+  latest: 0.999.0-rc2
+  release: 0.999.0-rc2
   versions:
   - 0.311.6
   - 0.311.7
@@ -811,8 +811,11 @@ versioning:
   - 0.993.0-rc6
   - 0.993.0-rc7
   - 0.993.0-rc8
+  - 0.993.0-rc10
   - 0.993.0
   - 0.996.0
   - 0.997.0
   - 0.998.0
-  lastUpdated: 20231205175201
+  - 0.999.0-rc1
+  - 0.999.0-rc2
+  lastUpdated: 20231206174122

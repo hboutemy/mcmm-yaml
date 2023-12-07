@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.quick.note.web
 versioning:
-  latest: 6.0.11
-  release: 6.0.11
+  latest: 2.0.26
+  release: 2.0.26
   versions:
   - 1.0.0
   - 2.0.0
@@ -111,4 +110,5 @@ versioning:
   - 6.0.9
   - 6.0.10
   - 6.0.11
-  lastUpdated: 20230807221731
+  - 2.0.26
+  lastUpdated: 20231206183038

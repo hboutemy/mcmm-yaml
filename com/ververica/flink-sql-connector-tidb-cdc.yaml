@@ -3,8 +3,8 @@
 groupId: com.ververica
 artifactId: flink-sql-connector-tidb-cdc
 versioning:
-  latest: 2.4.2
-  release: 2.4.2
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 2.2.0
   - 2.2.1
@@ -12,4 +12,5 @@ versioning:
   - 2.4.0
   - 2.4.1
   - 2.4.2
-  lastUpdated: 20231101014311
+  - 3.0.0
+  lastUpdated: 20231206151646

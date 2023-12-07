@@ -3,8 +3,8 @@
 groupId: cn.com.vastdata
 artifactId: vastbase-jdbc
 versioning:
-  latest: 2.8v_jre7
-  release: 2.8v_jre7
+  latest: 2.9v_jre7
+  release: 2.9v_jre7
   versions:
   - 2.3p
   - 2.7p
@@ -19,4 +19,10 @@ versioning:
   - 2.8v
   - 2.8v_jre6
   - 2.8v_jre7
-  lastUpdated: 20230920084714
+  - 2.9p
+  - 2.9p_jre6
+  - 2.9p_jre7
+  - 2.9v
+  - 2.9v_jre6
+  - 2.9v_jre7
+  lastUpdated: 20231206121337

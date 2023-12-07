@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.petra.content
 versioning:
-  latest: 5.0.7
-  release: 5.0.7
+  latest: 1.0.8
+  release: 1.0.8
   versions:
   - 1.0.0
   - 1.0.1
@@ -46,4 +45,5 @@ versioning:
   - 5.0.5
   - 5.0.6
   - 5.0.7
-  lastUpdated: 20230807201327
+  - 1.0.8
+  lastUpdated: 20231206153825

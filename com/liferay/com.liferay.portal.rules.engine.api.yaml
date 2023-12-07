@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.rules.engine.api
 versioning:
-  latest: 7.0.1
-  release: 7.0.1
+  latest: 2.0.18
+  release: 2.0.18
   versions:
   - 1.0.0
   - 2.0.0
@@ -67,4 +66,5 @@ versioning:
   - 6.0.4
   - 7.0.0
   - 7.0.1
-  lastUpdated: 20230807234531
+  - 2.0.18
+  lastUpdated: 20231206162535

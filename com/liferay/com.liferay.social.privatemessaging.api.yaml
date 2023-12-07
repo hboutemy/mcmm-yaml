@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.social.privatemessaging.api
 versioning:
-  latest: 2.1.0
-  release: 2.1.0
+  latest: 2.1.1
+  release: 2.1.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -59,4 +58,5 @@ versioning:
   - 2.0.47
   - 2.0.48
   - 2.1.0
-  lastUpdated: 20230807210808
+  - 2.1.1
+  lastUpdated: 20231206161621

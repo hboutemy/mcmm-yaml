@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.security.sso.google
 versioning:
-  latest: 3.0.21
-  release: 3.0.21
+  latest: 3.0.22
+  release: 3.0.22
   versions:
   - 1.0.0
   - 2.0.0
@@ -46,4 +45,5 @@ versioning:
   - 3.0.19
   - 3.0.20
   - 3.0.21
-  lastUpdated: 20230807215028
+  - 3.0.22
+  lastUpdated: 20231206173136
