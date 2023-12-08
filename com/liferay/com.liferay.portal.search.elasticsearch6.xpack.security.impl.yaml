@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.search.elasticsearch6.xpack.security.impl
 versioning:
-  latest: 3.0.31
-  release: 3.0.31
+  latest: 3.0.32
+  release: 3.0.32
   versions:
   - 1.0.17
   - 1.0.18
@@ -61,4 +60,6 @@ versioning:
   - 3.0.29
   - 3.0.30
   - 3.0.31
-  lastUpdated: 20230807174949
+  - 2.0.41
+  - 3.0.32
+  lastUpdated: 20231207162034
