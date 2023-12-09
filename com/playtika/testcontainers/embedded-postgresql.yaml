@@ -3,8 +3,8 @@
 groupId: com.playtika.testcontainers
 artifactId: embedded-postgresql
 versioning:
-  latest: 3.0.6
-  release: 3.0.6
+  latest: 3.1.0
+  release: 3.1.0
   versions:
   - 1.8
   - 1.9
@@ -118,4 +118,5 @@ versioning:
   - 3.0.4
   - 3.0.5
   - 3.0.6
-  lastUpdated: 20231101224713
+  - 3.1.0
+  lastUpdated: 20231208082417

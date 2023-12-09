@@ -3,8 +3,8 @@
 groupId: com.playtika.testcontainers
 artifactId: embedded-localstack
 versioning:
-  latest: 3.0.6
-  release: 3.0.6
+  latest: 3.1.0
+  release: 3.1.0
   versions:
   - 1.64
   - 1.65
@@ -86,4 +86,5 @@ versioning:
   - 3.0.4
   - 3.0.5
   - 3.0.6
-  lastUpdated: 20231101224704
+  - 3.1.0
+  lastUpdated: 20231208082407
