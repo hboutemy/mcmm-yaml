@@ -3,8 +3,8 @@
 groupId: io.gravitee.am.identityprovider
 artifactId: gravitee-am-identityprovider-salesforce
 versioning:
-  latest: 3.21.9
-  release: 3.21.9
+  latest: 3.21.12
+  release: 3.21.12
   versions:
   - 3.6.0
   - 3.6.1
@@ -152,6 +152,7 @@ versioning:
   - 3.20.10
   - 3.20.11
   - 3.20.13
+  - 3.20.16
   - 3.21.0-alpha.1
   - 3.21.0-alpha.2
   - 3.21.0-alpha.3
@@ -164,4 +165,5 @@ versioning:
   - 3.21.6
   - 3.21.8
   - 3.21.9
-  lastUpdated: 20231016120051
+  - 3.21.12
+  lastUpdated: 20231211104500
