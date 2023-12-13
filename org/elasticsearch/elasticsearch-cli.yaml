@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-cli
 versioning:
-  latest: 8.11.2
-  release: 8.11.2
+  latest: 8.11.3
+  release: 8.11.3
   versions:
   - 6.1.0
   - 6.1.1
@@ -128,6 +128,7 @@ versioning:
   - 7.17.13
   - 7.17.14
   - 7.17.15
+  - 7.17.16
   - 8.0.0-alpha1
   - 8.0.0-alpha2
   - 8.0.0-beta1
@@ -174,4 +175,5 @@ versioning:
   - 8.11.0
   - 8.11.1
   - 8.11.2
-  lastUpdated: 20231207124550
+  - 8.11.3
+  lastUpdated: 20231212132421

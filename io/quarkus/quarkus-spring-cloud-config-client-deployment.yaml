@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-spring-cloud-config-client-deployment
 versioning:
-  latest: 3.6.1
-  release: 3.6.1
+  latest: 3.6.3
+  release: 3.6.3
   versions:
   - 1.3.0.Alpha2
   - 1.3.0.CR1
@@ -232,4 +232,6 @@ versioning:
   - 3.6.0.CR1
   - 3.6.0
   - 3.6.1
-  lastUpdated: 20231205162514
+  - 3.6.2
+  - 3.6.3
+  lastUpdated: 20231212194856

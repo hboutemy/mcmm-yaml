@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.connectors
 artifactId: jersey-apache-connector
 versioning:
-  latest: 3.1.4
-  release: 3.1.4
+  latest: 3.1.5
+  release: 3.1.5
   versions:
   - 2.0-m12-1
   - 2.0-m13
@@ -113,4 +113,5 @@ versioning:
   - 3.1.2
   - 3.1.3
   - 3.1.4
-  lastUpdated: 20231201095335
+  - 3.1.5
+  lastUpdated: 20231212140710

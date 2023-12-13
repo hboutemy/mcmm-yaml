@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-clustered-counter
 versioning:
-  latest: 15.0.0.Dev05
-  release: 15.0.0.Dev05
+  latest: 15.0.0.Dev06
+  release: 15.0.0.Dev06
   versions:
   - 9.0.2.Final
   - 9.1.0.Alpha1
@@ -214,5 +214,6 @@ versioning:
   - 15.0.0.Dev03
   - 15.0.0.Dev04
   - 15.0.0.Dev05
+  - 15.0.0.Dev06
   - 12.0.0.Dev03
-  lastUpdated: 20231124163127
+  lastUpdated: 20231212165539

@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-oidc-db-token-state-manager-deployment
 versioning:
-  latest: 3.6.1
-  release: 3.6.1
+  latest: 3.6.3
+  release: 3.6.3
   versions:
   - 3.5.0.CR1
   - 3.5.0
@@ -14,4 +14,6 @@ versioning:
   - 3.6.0.CR1
   - 3.6.0
   - 3.6.1
-  lastUpdated: 20231205162324
+  - 3.6.2
+  - 3.6.3
+  lastUpdated: 20231212194711

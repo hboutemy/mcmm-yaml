@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-defaults-maven-plugin
 versioning:
-  latest: 15.0.0.Dev05
-  release: 15.0.0.Dev05
+  latest: 15.0.0.Dev06
+  release: 15.0.0.Dev06
   versions:
   - 9.0.0.Beta2
   - 9.0.0.CR1
@@ -222,5 +222,6 @@ versioning:
   - 15.0.0.Dev03
   - 15.0.0.Dev04
   - 15.0.0.Dev05
+  - 15.0.0.Dev06
   - 12.0.0.Dev03
-  lastUpdated: 20231124163136
+  lastUpdated: 20231212165545
