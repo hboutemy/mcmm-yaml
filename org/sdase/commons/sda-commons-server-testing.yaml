@@ -3,8 +3,8 @@
 groupId: org.sdase.commons
 artifactId: sda-commons-server-testing
 versioning:
-  latest: 5.15.1
-  release: 5.15.1
+  latest: 5.16.0
+  release: 5.16.0
   versions:
   - 0.80.6
   - 0.80.7
@@ -718,6 +718,8 @@ versioning:
   - 2.64.117
   - 2.64.118
   - 2.64.119
+  - 2.64.120
+  - 2.64.121
   - 3.0.0-alpha.1
   - 3.0.0-alpha.2
   - 3.0.0-rc.1
@@ -989,4 +991,5 @@ versioning:
   - 5.14.0
   - 5.15.0
   - 5.15.1
-  lastUpdated: 20231211071556
+  - 5.16.0
+  lastUpdated: 20231213111843
