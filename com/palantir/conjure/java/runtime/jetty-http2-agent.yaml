@@ -3,8 +3,8 @@
 groupId: com.palantir.conjure.java.runtime
 artifactId: jetty-http2-agent
 versioning:
-  latest: 8.0.0
-  release: 8.0.0
+  latest: 8.1.0
+  release: 8.1.0
   versions:
   - 6.16.0
   - 7.0.0
@@ -78,4 +78,5 @@ versioning:
   - 7.67.0
   - 7.68.0
   - 8.0.0
-  lastUpdated: 20231201180412
+  - 8.1.0
+  lastUpdated: 20231214205718

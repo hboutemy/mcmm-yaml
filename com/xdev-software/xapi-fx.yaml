@@ -3,8 +3,8 @@
 groupId: com.xdev-software
 artifactId: xapi-fx
 versioning:
-  latest: 6.0.2-java17
-  release: 6.0.2-java17
+  latest: 6.0.3-java21
+  release: 6.0.3-java21
   versions:
   - 6.0.1-java8
   - 6.0.1-java11
@@ -12,4 +12,8 @@ versioning:
   - 6.0.2-java8
   - 6.0.2-java11
   - 6.0.2-java17
-  lastUpdated: 20220210085031
+  - 6.0.3-java8
+  - 6.0.3-java11
+  - 6.0.3-java17
+  - 6.0.3-java21
+  lastUpdated: 20231214105107

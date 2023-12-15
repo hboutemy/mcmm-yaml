@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-ddl-parser
 versioning:
-  latest: 2.5.0.Beta1
-  release: 2.5.0.Beta1
+  latest: 2.5.0.CR1
+  release: 2.5.0.CR1
   versions:
   - 0.8.0.Beta1
   - 0.8.0.CR1
@@ -155,5 +155,6 @@ versioning:
   - 2.5.0.Alpha1
   - 2.5.0.Alpha2
   - 2.5.0.Beta1
+  - 2.5.0.CR1
   - 1.5.0.Alpha1
-  lastUpdated: 20231213124823
+  lastUpdated: 20231214114401

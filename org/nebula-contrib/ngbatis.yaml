@@ -3,8 +3,8 @@
 groupId: org.nebula-contrib
 artifactId: ngbatis
 versioning:
-  latest: 1.2.0
-  release: 1.2.0
+  latest: 1.2.0-jdk17
+  release: 1.2.0-jdk17
   versions:
   - 1.1.0-beta
   - 1.1.0-rc
@@ -15,4 +15,5 @@ versioning:
   - 1.1.4
   - 1.1.5
   - 1.2.0
-  lastUpdated: 20231213063928
+  - 1.2.0-jdk17
+  lastUpdated: 20231214144731
