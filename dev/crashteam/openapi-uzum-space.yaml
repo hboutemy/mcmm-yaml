@@ -3,9 +3,14 @@
 groupId: dev.crashteam
 artifactId: openapi-uzum-space
 versioning:
-  latest: 1.5-3d0fc10-server
-  release: 1.5-3d0fc10-server
+  latest: 1.9-7a60aae-server
+  release: 1.9-7a60aae-server
   versions:
   - 1.5-3d0fc10-client
   - 1.5-3d0fc10-server
-  lastUpdated: 20231214190025
+  - 1.7-b0ba5d3-server
+  - 1.8-b227ddb-client
+  - 1.8-b227ddb-server
+  - 1.9-7a60aae-client
+  - 1.9-7a60aae-server
+  lastUpdated: 20231217123807
