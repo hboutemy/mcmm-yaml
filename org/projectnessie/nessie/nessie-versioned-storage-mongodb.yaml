@@ -3,8 +3,8 @@
 groupId: org.projectnessie.nessie
 artifactId: nessie-versioned-storage-mongodb
 versioning:
-  latest: 0.74.0
-  release: 0.74.0
+  latest: 0.75.0
+  release: 0.75.0
   versions:
   - 0.52.0
   - 0.52.1
@@ -45,4 +45,5 @@ versioning:
   - 0.72.4
   - 0.73.0
   - 0.74.0
-  lastUpdated: 20231121190735
+  - 0.75.0
+  lastUpdated: 20231215145233
