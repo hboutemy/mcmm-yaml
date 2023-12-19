@@ -3,8 +3,8 @@
 groupId: com.agorapulse
 artifactId: micronaut-aws-sdk-dynamodb-dax
 versioning:
-  latest: 2.1.11-micronaut-3.0
-  release: 2.1.11-micronaut-3.0
+  latest: 3.0.1
+  release: 3.0.1
   versions:
   - 2.1.0-micronaut-1.0
   - 2.1.0-micronaut-2.0
@@ -39,4 +39,6 @@ versioning:
   - 2.1.11-micronaut-1.0
   - 2.1.11-micronaut-2.0
   - 2.1.11-micronaut-3.0
-  lastUpdated: 20230919111754
+  - 3.0.0
+  - 3.0.1
+  lastUpdated: 20231218133827

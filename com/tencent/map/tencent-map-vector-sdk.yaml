@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.tencent.map
 artifactId: tencent-map-vector-sdk
 versioning:
-  latest: 5.4.2-bmw
-  release: 5.4.2-bmw
+  latest: 5.4.2-lite
+  release: 5.4.2-lite
   versions:
   - 2.1.7.14
   - 2.1.7.16
@@ -214,5 +214,7 @@ versioning:
   - 5.3.3-231206.06fbc0c2
   - 5.4.0
   - 5.4.1
+  - 5.4.2
   - 5.4.2-bmw
-  lastUpdated: 20231206100712
+  - 5.4.2-lite
+  lastUpdated: 20231218045103
