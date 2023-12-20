@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.apache.tomee
 artifactId: openejb-hsql
 versioning:
-  latest: 9.1.1
-  release: 9.1.1
+  latest: 9.1.2
+  release: 9.1.2
   versions:
   - 7.0.0-M1
   - 7.0.0-M2
@@ -50,4 +50,5 @@ versioning:
   - 9.0.0
   - 9.1.0
   - 9.1.1
-  lastUpdated: 20231102192419
+  - 9.1.2
+  lastUpdated: 20231219160210

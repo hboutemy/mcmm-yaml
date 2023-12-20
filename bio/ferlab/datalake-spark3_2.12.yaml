@@ -3,8 +3,8 @@
 groupId: bio.ferlab
 artifactId: datalake-spark3_2.12
 versioning:
-  latest: 11.2.2
-  release: 11.2.2
+  latest: 12.0.1
+  release: 12.0.1
   versions:
   - 0.0.26
   - 0.0.31
@@ -150,4 +150,6 @@ versioning:
   - 11.2.0
   - 11.2.1
   - 11.2.2
-  lastUpdated: 20231207164406
+  - 12.0.0
+  - 12.0.1
+  lastUpdated: 20231219201517

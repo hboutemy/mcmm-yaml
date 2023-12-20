@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty
 artifactId: jetty-p2
 versioning:
-  latest: 11.0.18
-  release: 11.0.18
+  latest: 11.0.19
+  release: 11.0.19
   versions:
   - 10.0.7
   - 10.0.8
@@ -17,6 +17,7 @@ versioning:
   - 10.0.16
   - 10.0.17
   - 10.0.18
+  - 10.0.19
   - 11.0.7
   - 11.0.8
   - 11.0.9
@@ -28,4 +29,5 @@ versioning:
   - 11.0.16
   - 11.0.17
   - 11.0.18
-  lastUpdated: 20231030160805
+  - 11.0.19
+  lastUpdated: 20231219202909

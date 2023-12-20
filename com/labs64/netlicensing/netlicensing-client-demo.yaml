@@ -3,8 +3,8 @@
 groupId: com.labs64.netlicensing
 artifactId: netlicensing-client-demo
 versioning:
-  latest: 2.9.6
-  release: 2.9.6
+  latest: 2.9.7-jdk17
+  release: 2.9.7-jdk17
   versions:
   - 2.1.1
   - 2.1.2
@@ -36,4 +36,6 @@ versioning:
   - 2.9.4
   - 2.9.5
   - 2.9.6
-  lastUpdated: 20230501124846
+  - 2.9.7
+  - 2.9.7-jdk17
+  lastUpdated: 20231219131544
