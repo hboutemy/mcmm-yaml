@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-mod_cluster-undertow
 versioning:
-  latest: 30.0.1.Final
-  release: 30.0.1.Final
+  latest: 31.0.0.Beta1
+  release: 31.0.0.Beta1
   versions:
   - 8.0.0.Alpha3
   - 8.0.0.Alpha4
@@ -116,4 +116,5 @@ versioning:
   - 30.0.0.Beta1
   - 30.0.0.Final
   - 30.0.1.Final
-  lastUpdated: 20231205145719
+  - 31.0.0.Beta1
+  lastUpdated: 20231220145222

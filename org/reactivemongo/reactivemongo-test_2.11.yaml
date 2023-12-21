@@ -3,8 +3,8 @@
 groupId: org.reactivemongo
 artifactId: reactivemongo-test_2.11
 versioning:
-  latest: 1.1.0-noshaded-RC11
-  release: 1.1.0-noshaded-RC11
+  latest: 1.1.0.noshaded-RC12
+  release: 1.1.0.noshaded-RC12
   versions:
   - 1.0.0-rc.1
   - 1.0.0-rc.2
@@ -22,6 +22,7 @@ versioning:
   - 1.1.0-RC9
   - 1.1.0-RC10
   - 1.1.0-RC11
+  - 1.1.0-RC12
   - 1.1.0-noshaded-RC4
   - 1.1.0-noshaded-RC5
   - 1.1.0-noshaded-RC6
@@ -30,4 +31,5 @@ versioning:
   - 1.1.0-noshaded-RC9
   - 1.1.0-noshaded-RC10
   - 1.1.0-noshaded-RC11
-  lastUpdated: 20230714185432
+  - 1.1.0.noshaded-RC12
+  lastUpdated: 20231220174440
