@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-testing
 versioning:
-  latest: 2.5.0.CR1
-  release: 2.5.0.CR1
+  latest: 2.5.0.Final
+  release: 2.5.0.Final
   versions:
   - 1.0.2.Final
   - 1.0.3.Final
@@ -124,5 +124,6 @@ versioning:
   - 2.5.0.Alpha2
   - 2.5.0.Beta1
   - 2.5.0.CR1
+  - 2.5.0.Final
   - 1.5.0.Alpha1
-  lastUpdated: 20231215181958
+  lastUpdated: 20231221093337

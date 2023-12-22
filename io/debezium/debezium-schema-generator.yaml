@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-schema-generator
 versioning:
-  latest: 2.5.0.CR1
-  release: 2.5.0.CR1
+  latest: 2.5.0.Final
+  release: 2.5.0.Final
   versions:
   - 1.8.0.Final
   - 1.8.1.Final
@@ -65,4 +65,5 @@ versioning:
   - 2.5.0.Alpha2
   - 2.5.0.Beta1
   - 2.5.0.CR1
-  lastUpdated: 20231215181931
+  - 2.5.0.Final
+  lastUpdated: 20231221093327

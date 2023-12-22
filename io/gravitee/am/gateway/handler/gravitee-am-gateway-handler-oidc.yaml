@@ -3,8 +3,8 @@
 groupId: io.gravitee.am.gateway.handler
 artifactId: gravitee-am-gateway-handler-oidc
 versioning:
-  latest: 4.2.0-alpha.1
-  release: 4.2.0-alpha.1
+  latest: 4.2.0
+  release: 4.2.0
   versions:
   - 2.6.0
   - 2.7.0
@@ -263,4 +263,5 @@ versioning:
   - 4.1.7
   - 4.1.8
   - 4.2.0-alpha.1
-  lastUpdated: 20231211153805
+  - 4.2.0
+  lastUpdated: 20231221143412
