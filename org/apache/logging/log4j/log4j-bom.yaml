@@ -3,8 +3,8 @@
 groupId: org.apache.logging.log4j
 artifactId: log4j-bom
 versioning:
-  latest: 3.0.0-alpha1
-  release: 3.0.0-alpha1
+  latest: 3.0.0-beta1
+  release: 3.0.0-beta1
   versions:
   - 2.0-rc2
   - 2.0
@@ -54,4 +54,5 @@ versioning:
   - 2.21.1
   - 2.22.0
   - 3.0.0-alpha1
-  lastUpdated: 20231120080504
+  - 3.0.0-beta1
+  lastUpdated: 20231222201053

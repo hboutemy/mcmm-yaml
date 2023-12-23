@@ -3,8 +3,8 @@
 groupId: org.apache.logging.log4j
 artifactId: log4j-appserver
 versioning:
-  latest: 3.0.0-alpha1
-  release: 3.0.0-alpha1
+  latest: 3.0.0-beta1
+  release: 3.0.0-beta1
   versions:
   - 2.10.0
   - 2.11.0
@@ -33,4 +33,5 @@ versioning:
   - 2.21.1
   - 2.22.0
   - 3.0.0-alpha1
-  lastUpdated: 20231120080453
+  - 3.0.0-beta1
+  lastUpdated: 20231222201048

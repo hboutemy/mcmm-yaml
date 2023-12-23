@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.plugins
 artifactId: nexus-blobstore-s3
 versioning:
-  latest: 3.63.0-01
-  release: 3.63.0-01
+  latest: 3.64.0-01
+  release: 3.64.0-01
   versions:
   - 3.6.1-02
   - 3.6.2-01
@@ -120,4 +120,5 @@ versioning:
   - 3.61.0-02
   - 3.62.0-01
   - 3.63.0-01
-  lastUpdated: 20231204133718
+  - 3.64.0-01
+  lastUpdated: 20231222010008
