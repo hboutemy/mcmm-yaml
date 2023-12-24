@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.main.tests
 artifactId: tests
 versioning:
-  latest: 7.0.11
-  release: 7.0.11
+  latest: 8.0.0-M1
+  release: 8.0.0-M1
   versions:
   - 5.1.0
   - 6.0.0-M1
@@ -38,8 +38,9 @@ versioning:
   - 7.0.9
   - 7.0.10
   - 7.0.11
+  - 8.0.0-M1
   - 3.1.2
   - 3.1.2.2
   - 4.0-b33
   - 5.1.0-RC2
-  lastUpdated: 20231204145213
+  lastUpdated: 20231223145555
