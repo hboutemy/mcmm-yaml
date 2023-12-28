@@ -3,8 +3,8 @@
 groupId: io.github.jan-tennert.supabase
 artifactId: apollo-graphql-tvosarm64
 versioning:
-  latest: 2.0.2-dev
-  release: 2.0.2-dev
+  latest: 2.0.2-wasm0
+  release: 2.0.2-wasm0
   versions:
   - 1.2.0-alpha-1
   - 1.2.0-alpha-2
@@ -50,4 +50,5 @@ versioning:
   - 2.0.1
   - 2.0.2
   - 2.0.2-dev
-  lastUpdated: 20231224114555
+  - 2.0.2-wasm0
+  lastUpdated: 20231227144028
