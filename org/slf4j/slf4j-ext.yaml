@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.slf4j
 artifactId: slf4j-ext
 versioning:
-  latest: 2.0.9
-  release: 2.0.9
+  latest: 2.1.0-alpha0
+  release: 2.1.0-alpha0
   versions:
   - 1.0-alpha0
   - 1.5.4
@@ -89,4 +89,6 @@ versioning:
   - 2.0.7
   - 2.0.8
   - 2.0.9
-  lastUpdated: 20230903161911
+  - 2.0.10
+  - 2.1.0-alpha0
+  lastUpdated: 20231228210708

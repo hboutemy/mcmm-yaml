@@ -3,10 +3,12 @@
 groupId: org.apache.flink
 artifactId: flink-connector-pulsar-parent
 versioning:
-  latest: 4.0.0-1.17
-  release: 4.0.0-1.17
+  latest: 4.1.0-1.18
+  release: 4.1.0-1.18
   versions:
   - 3.0.0-1.16
   - 3.0.1-1.16
   - 4.0.0-1.17
-  lastUpdated: 20230607073931
+  - 4.1.0-1.17
+  - 4.1.0-1.18
+  lastUpdated: 20231228070119
