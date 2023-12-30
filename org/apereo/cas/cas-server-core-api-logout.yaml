@@ -3,8 +3,8 @@
 groupId: org.apereo.cas
 artifactId: cas-server-core-api-logout
 versioning:
-  latest: 7.0.0-RC9
-  release: 7.0.0-RC9
+  latest: 7.0.0
+  release: 7.0.0
   versions:
   - v6.4.0-RC5
   - v6.4.0-RC6
@@ -200,6 +200,7 @@ versioning:
   - 6.6.12
   - 6.6.13
   - 6.6.14
+  - 6.6.15
   - 7.0.0-RC1
   - 7.0.0-RC2
   - 7.0.0-RC3
@@ -209,4 +210,5 @@ versioning:
   - 7.0.0-RC7
   - 7.0.0-RC8
   - 7.0.0-RC9
-  lastUpdated: 20231125091304
+  - 7.0.0
+  lastUpdated: 20231229122325

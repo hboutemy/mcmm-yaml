@@ -3,8 +3,8 @@
 groupId: io.github.jan-tennert.supabase
 artifactId: bom
 versioning:
-  latest: 2.0.2-wasm0
-  release: 2.0.2-wasm0
+  latest: 2.0.3-dev
+  release: 2.0.3-dev
   versions:
   - 0.6.0-beta-1
   - 0.6.0-RC-1
@@ -135,4 +135,5 @@ versioning:
   - 2.0.2
   - 2.0.2-dev
   - 2.0.2-wasm0
-  lastUpdated: 20231227144036
+  - 2.0.3-dev
+  lastUpdated: 20231229230153
