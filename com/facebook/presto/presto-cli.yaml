@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-cli
 versioning:
-  latest: 0.285
-  release: 0.285
+  latest: 0.285.1
+  release: 0.285.1
   versions:
   - 0.52
   - 0.53
@@ -295,4 +295,5 @@ versioning:
   - 0.283
   - 0.284
   - 0.285
-  lastUpdated: 20231209053316
+  - 0.285.1
+  lastUpdated: 20231230044040

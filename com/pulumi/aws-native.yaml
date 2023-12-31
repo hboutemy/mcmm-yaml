@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: aws-native
 versioning:
-  latest: 0.91.0
-  release: 0.91.0
+  latest: 0.91.1-alpha.1703902030+5e782c3f
+  release: 0.91.1-alpha.1703902030+5e782c3f
   versions:
   - 0.16.1
   - 0.20.1-alpha.1661286973+74e59199
@@ -194,4 +194,5 @@ versioning:
   - 0.90.1-alpha.1703234573+f5bbff0c
   - 0.90.1-alpha.1703263258+1df3f6cd
   - 0.91.0
-  lastUpdated: 20231229182811
+  - 0.91.1-alpha.1703902030+5e782c3f
+  lastUpdated: 20231230095209
