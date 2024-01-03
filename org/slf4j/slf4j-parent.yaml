@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.slf4j
 artifactId: slf4j-parent
 versioning:
-  latest: 2.1.0-alpha0
-  release: 2.1.0-alpha0
+  latest: 2.1.0-alpha1
+  release: 2.1.0-alpha1
   versions:
   - 1.1.0-beta0
   - 1.1.0-RC1
@@ -104,5 +104,6 @@ versioning:
   - 2.0.9
   - 2.0.10
   - 2.1.0-alpha0
+  - 2.1.0-alpha1
   - 1.0-SNAPSHOT
-  lastUpdated: 20231228210712
+  lastUpdated: 20240102192951
