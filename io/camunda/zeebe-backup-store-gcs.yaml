@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-backup-store-gcs
 versioning:
-  latest: 8.4.0-alpha2
-  release: 8.4.0-alpha2
+  latest: 8.4.0
+  release: 8.4.0
   versions:
   - 8.2.0-rc1
   - 8.2.0
@@ -26,6 +26,7 @@ versioning:
   - 8.2.16
   - 8.2.17
   - 8.2.19
+  - 8.2.20
   - 8.3.0-alpha1
   - 8.3.0-alpha2
   - 8.3.0-alpha2.1
@@ -40,6 +41,8 @@ versioning:
   - 8.3.2
   - 8.3.3
   - 8.3.4
+  - 8.3.5
   - 8.4.0-alpha1
   - 8.4.0-alpha2
-  lastUpdated: 20231205202411
+  - 8.4.0
+  lastUpdated: 20240103142719
