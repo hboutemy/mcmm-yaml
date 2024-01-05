@@ -3,8 +3,8 @@
 groupId: io.github.jan-tennert.supabase
 artifactId: storage-kt-watchossimulatorarm64
 versioning:
-  latest: 2.0.4
-  release: 2.0.4
+  latest: 2.0.4-wasm0
+  release: 2.0.4-wasm0
   versions:
   - 1.2.0-alpha-1
   - 1.2.0-alpha-2
@@ -55,4 +55,5 @@ versioning:
   - 2.0.3-dev
   - 2.0.3-wasm0
   - 2.0.4
-  lastUpdated: 20240103184832
+  - 2.0.4-wasm0
+  lastUpdated: 20240104171139
