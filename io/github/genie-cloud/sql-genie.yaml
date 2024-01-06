@@ -3,10 +3,11 @@
 groupId: io.github.genie-cloud
 artifactId: sql-genie
 versioning:
-  latest: 0.0.2
-  release: 0.0.2
+  latest: 0.0.2-jdk8
+  release: 0.0.2-jdk8
   versions:
   - 0.0.1
   - 0.0.1-jdk8
   - 0.0.2
-  lastUpdated: 20240103151202
+  - 0.0.2-jdk8
+  lastUpdated: 20240105130536

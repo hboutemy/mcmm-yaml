@@ -3,8 +3,8 @@
 groupId: com.codingapi.springboot
 artifactId: springboot-starter-security-jwt
 versioning:
-  latest: 3.1.7
-  release: 3.1.7
+  latest: 3.1.8
+  release: 3.1.8
   versions:
   - 0.0.1
   - 0.1.0
@@ -74,6 +74,9 @@ versioning:
   - 2.7.4
   - 2.7.5
   - 2.7.6
+  - 2.7.7
+  - 2.7.8
+  - 2.7.8.dev
   - 3.1.1
   - 3.1.2
   - 3.1.3
@@ -82,4 +85,5 @@ versioning:
   - 3.1.5
   - 3.1.6
   - 3.1.7
-  lastUpdated: 20240102064813
+  - 3.1.8
+  lastUpdated: 20240105103050

@@ -3,8 +3,8 @@
 groupId: io.stargate.db.dse
 artifactId: persistence-dse-6.8
 versioning:
-  latest: 2.1.0-BETA-7
-  release: 2.1.0-BETA-7
+  latest: 2.1.0-BETA-8
+  release: 2.1.0-BETA-8
   versions:
   - 0.0.2
   - 0.0.3
@@ -148,6 +148,7 @@ versioning:
   - 2.0.20
   - 2.0.21
   - 2.0.22
+  - 2.0.23
   - 2.1.0-ALPHA-1
   - 2.1.0-ALPHA-2
   - 2.1.0-ALPHA-3
@@ -166,4 +167,5 @@ versioning:
   - 2.1.0-BETA-5
   - 2.1.0-BETA-6
   - 2.1.0-BETA-7
-  lastUpdated: 20231211172654
+  - 2.1.0-BETA-8
+  lastUpdated: 20240105233615
