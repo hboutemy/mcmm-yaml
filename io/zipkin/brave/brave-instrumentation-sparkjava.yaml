@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-instrumentation-sparkjava
 versioning:
-  latest: 5.17.0
-  release: 5.17.0
+  latest: 5.17.1
+  release: 5.17.1
   versions:
   - 4.3.0
   - 4.3.1
@@ -126,4 +126,5 @@ versioning:
   - 5.15.1
   - 5.16.0
   - 5.17.0
-  lastUpdated: 20231218062955
+  - 5.17.1
+  lastUpdated: 20240106103043
