@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.headless.user.notification.api
 versioning:
-  latest: 1.2.0
-  release: 1.2.0
+  latest: 1.2.1
+  release: 1.2.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -13,4 +12,5 @@ versioning:
   - 1.1.0
   - 1.1.1
   - 1.2.0
-  lastUpdated: 20230807191537
+  - 1.2.1
+  lastUpdated: 20240107082940

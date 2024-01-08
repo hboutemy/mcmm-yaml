@@ -3,8 +3,8 @@
 groupId: com.palantir.baseline
 artifactId: gradle-baseline-java
 versioning:
-  latest: 5.32.0
-  release: 5.32.0
+  latest: 5.33.0
+  release: 5.33.0
   versions:
   - 0.66.0
   - 2.39.0
@@ -383,4 +383,6 @@ versioning:
   - 5.30.0
   - 5.31.0
   - 5.32.0
-  lastUpdated: 20240105155947
+  - 5.33.0-rc1
+  - 5.33.0
+  lastUpdated: 20240107230244
