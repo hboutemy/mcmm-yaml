@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-shaded-guava
 versioning:
-  latest: 31.1-jre-17.0
-  release: 31.1-jre-17.0
+  latest: 32.1.3-jre-18.0
+  release: 32.1.3-jre-18.0
   versions:
   - 18.0-1.0
   - 18.0-2.0
@@ -25,4 +25,5 @@ versioning:
   - 30.1.1-jre-16.1
   - 30.1.1-jre-16.2
   - 31.1-jre-17.0
-  lastUpdated: 20231117075745
+  - 32.1.3-jre-18.0
+  lastUpdated: 20240108234127

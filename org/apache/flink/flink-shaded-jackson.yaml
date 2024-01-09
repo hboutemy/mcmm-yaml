@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-shaded-jackson
 versioning:
-  latest: 2.14.2-17.0
-  release: 2.14.2-17.0
+  latest: 2.15.3-18.0
+  release: 2.15.3-18.0
   versions:
   - 2.7.9-2.0
   - 2.7.9-3.0
@@ -24,4 +24,5 @@ versioning:
   - 2.13.4-16.1
   - 2.13.4-16.2
   - 2.14.2-17.0
-  lastUpdated: 20231117075751
+  - 2.15.3-18.0
+  lastUpdated: 20240108234129

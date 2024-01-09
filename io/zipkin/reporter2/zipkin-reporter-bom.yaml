@@ -3,8 +3,8 @@
 groupId: io.zipkin.reporter2
 artifactId: zipkin-reporter-bom
 versioning:
-  latest: 3.0.0
-  release: 3.0.0
+  latest: 3.0.2
+  release: 3.0.2
   versions:
   - 2.4.0
   - 2.4.1
@@ -61,4 +61,5 @@ versioning:
   - 2.17.1
   - 2.17.2
   - 3.0.0
-  lastUpdated: 20240107231318
+  - 3.0.2
+  lastUpdated: 20240108232652

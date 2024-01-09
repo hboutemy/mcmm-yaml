@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-instrumentation-servlet-jakarta
 versioning:
-  latest: 5.17.1
-  release: 5.17.1
+  latest: 5.18.1
+  release: 5.18.1
   versions:
   - 5.14.0
   - 5.14.1
@@ -13,4 +13,6 @@ versioning:
   - 5.16.0
   - 5.17.0
   - 5.17.1
-  lastUpdated: 20240106103042
+  - 5.18.0
+  - 5.18.1
+  lastUpdated: 20240108103944
