@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-customsearch
 versioning:
-  latest: v1-rev20230702-2.0.0
-  release: v1-rev20230702-2.0.0
+  latest: v1-rev20240103-2.0.0
+  release: v1-rev20240103-2.0.0
   versions:
   - v1-rev14-1.13.2-beta
   - v1-rev14-1.14.1-beta
@@ -250,4 +250,5 @@ versioning:
   - v1-rev20210918-2.0.0
   - v1-rev20230319-2.0.0
   - v1-rev20230702-2.0.0
-  lastUpdated: 20230810093010
+  - v1-rev20240103-2.0.0
+  lastUpdated: 20240109112632

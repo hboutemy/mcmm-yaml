@@ -3,8 +3,8 @@
 groupId: org.openrewrite.recipe
 artifactId: rewrite-github-actions
 versioning:
-  latest: 2.0.14
-  release: 2.0.14
+  latest: 2.1.1
+  release: 2.1.1
   versions:
   - 0.1.0
   - 0.2.0
@@ -47,4 +47,6 @@ versioning:
   - 2.0.12
   - 2.0.13
   - 2.0.14
-  lastUpdated: 20231221133243
+  - 2.1.0
+  - 2.1.1
+  lastUpdated: 20240109140511

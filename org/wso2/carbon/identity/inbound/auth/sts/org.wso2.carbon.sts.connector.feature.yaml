@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.identity.inbound.auth.sts
 artifactId: org.wso2.carbon.sts.connector.feature
 versioning:
-  latest: 5.10.10
-  release: 5.10.10
+  latest: 5.10.21
+  release: 5.10.21
   versions:
   - 5.6.5
   - 5.6.6
@@ -37,4 +37,5 @@ versioning:
   - 5.10.8
   - 5.10.9
   - 5.10.10
-  lastUpdated: 20230410150802
+  - 5.10.21
+  lastUpdated: 20240109081109

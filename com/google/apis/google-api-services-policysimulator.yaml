@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-policysimulator
 versioning:
-  latest: v1-rev20231203-2.0.0
-  release: v1-rev20231203-2.0.0
+  latest: v1-rev20231217-2.0.0
+  release: v1-rev20231217-2.0.0
   versions:
   - v1alpha-rev20220821-2.0.0
   - v1alpha-rev20220826-2.0.0
@@ -15,6 +15,7 @@ versioning:
   - v1alpha-rev20230904-2.0.0
   - v1alpha-rev20230917-2.0.0
   - v1alpha-rev20231203-2.0.0
+  - v1alpha-rev20231217-2.0.0
   - v1beta1-rev20210213-1.31.0
   - v1beta1-rev20210220-1.31.0
   - v1beta1-rev20210307-1.31.0
@@ -39,6 +40,7 @@ versioning:
   - v1beta-rev20230904-2.0.0
   - v1beta-rev20230917-2.0.0
   - v1beta-rev20231203-2.0.0
+  - v1beta-rev20231217-2.0.0
   - v1-rev20210330-1.31.0
   - v1-rev20210330-1.31.5
   - v1-rev20210330-1.32.1
@@ -61,4 +63,5 @@ versioning:
   - v1-rev20230806-2.0.0
   - v1-rev20230917-2.0.0
   - v1-rev20231203-2.0.0
-  lastUpdated: 20231206094625
+  - v1-rev20231217-2.0.0
+  lastUpdated: 20240109135520

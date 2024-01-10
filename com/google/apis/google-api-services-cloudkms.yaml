@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-cloudkms
 versioning:
-  latest: v1-rev20231012-2.0.0
-  release: v1-rev20231012-2.0.0
+  latest: v1-rev20231212-2.0.0
+  release: v1-rev20231212-2.0.0
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.20.0
@@ -442,4 +442,5 @@ versioning:
   - v1-rev20230711-2.0.0
   - v1-rev20230808-2.0.0
   - v1-rev20231012-2.0.0
-  lastUpdated: 20231019081348
+  - v1-rev20231212-2.0.0
+  lastUpdated: 20240109104616

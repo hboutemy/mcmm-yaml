@@ -3,8 +3,8 @@
 groupId: io.zipkin.gcp
 artifactId: zipkin-translation-stackdriver
 versioning:
-  latest: 1.1.0
-  release: 1.1.0
+  latest: 2.0.0
+  release: 2.0.0
   versions:
   - 0.2.0
   - 0.3.0
@@ -56,4 +56,6 @@ versioning:
   - 1.0.3
   - 1.0.4
   - 1.1.0
-  lastUpdated: 20231218065945
+  - 1.1.1
+  - 2.0.0
+  lastUpdated: 20240109233034

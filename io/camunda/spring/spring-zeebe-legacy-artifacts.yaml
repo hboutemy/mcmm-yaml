@@ -3,8 +3,8 @@
 groupId: io.camunda.spring
 artifactId: spring-zeebe-legacy-artifacts
 versioning:
-  latest: 8.4.0-alpha2-rc6
-  release: 8.4.0-alpha2-rc6
+  latest: 8.4.0-rc1
+  release: 8.4.0-rc1
   versions:
   - 8.2.0-alpha2
   - 8.2.0-alpha3
@@ -39,10 +39,12 @@ versioning:
   - 8.3.4.3
   - 8.3.4.4
   - 8.3.4.5
+  - 8.3.4.6
   - 8.4.0-alpha2-rc1
   - 8.4.0-alpha2-rc2
   - 8.4.0-alpha2-rc3
   - 8.4.0-alpha2-rc4
   - 8.4.0-alpha2-rc5
   - 8.4.0-alpha2-rc6
-  lastUpdated: 20240105171120
+  - 8.4.0-rc1
+  lastUpdated: 20240109180011

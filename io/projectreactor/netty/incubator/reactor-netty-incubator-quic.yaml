@@ -3,8 +3,8 @@
 groupId: io.projectreactor.netty.incubator
 artifactId: reactor-netty-incubator-quic
 versioning:
-  latest: 0.1.14
-  release: 0.1.14
+  latest: 0.1.15
+  release: 0.1.15
   versions:
   - 0.0.1
   - 0.0.2
@@ -35,6 +35,7 @@ versioning:
   - 0.0.27
   - 0.0.28
   - 0.0.29
+  - 0.0.30
   - 0.1.0
   - 0.1.1
   - 0.1.2
@@ -50,4 +51,5 @@ versioning:
   - 0.1.12
   - 0.1.13
   - 0.1.14
-  lastUpdated: 20231212090610
+  - 0.1.15
+  lastUpdated: 20240109152407

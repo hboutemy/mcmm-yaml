@@ -3,8 +3,8 @@
 groupId: org.openrewrite
 artifactId: rewrite-kotlin
 versioning:
-  latest: 1.8.4
-  release: 1.8.4
+  latest: 1.9.1
+  release: 1.9.1
   versions:
   - 0.1.1
   - 0.2.0
@@ -71,4 +71,6 @@ versioning:
   - 1.8.2
   - 1.8.3
   - 1.8.4
-  lastUpdated: 20231221133439
+  - 1.9.0
+  - 1.9.1
+  lastUpdated: 20240109140710

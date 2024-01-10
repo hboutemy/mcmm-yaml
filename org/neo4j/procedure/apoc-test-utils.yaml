@@ -3,8 +3,8 @@
 groupId: org.neo4j.procedure
 artifactId: apoc-test-utils
 versioning:
-  latest: 5.15.0
-  release: 5.15.0
+  latest: 5.16.1
+  release: 5.16.1
   versions:
   - 5.0.0-rc01
   - 5.0.0-rc02
@@ -27,4 +27,6 @@ versioning:
   - 5.13.0
   - 5.14.0
   - 5.15.0
-  lastUpdated: 20231218133726
+  - 5.15.1
+  - 5.16.1
+  lastUpdated: 20240109123705

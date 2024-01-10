@@ -3,8 +3,8 @@
 groupId: org.openrewrite.recipe
 artifactId: rewrite-kubernetes
 versioning:
-  latest: 2.0.13
-  release: 2.0.13
+  latest: 2.1.1
+  release: 2.1.1
   versions:
   - 1.0.0
   - 1.1.0
@@ -51,4 +51,6 @@ versioning:
   - 2.0.11
   - 2.0.12
   - 2.0.13
-  lastUpdated: 20231221133312
+  - 2.1.0
+  - 2.1.1
+  lastUpdated: 20240109140533
