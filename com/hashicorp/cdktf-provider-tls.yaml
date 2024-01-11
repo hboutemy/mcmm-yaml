@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf-provider-tls
 versioning:
-  latest: 9.0.1
-  release: 9.0.1
+  latest: 10.0.0
+  release: 10.0.0
   versions:
   - 0.0.0
   - 0.0.1
@@ -625,4 +625,5 @@ versioning:
   - 8.0.0
   - 9.0.0
   - 9.0.1
-  lastUpdated: 20231128031509
+  - 10.0.0
+  lastUpdated: 20240110115204

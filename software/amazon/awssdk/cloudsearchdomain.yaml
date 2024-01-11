@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: cloudsearchdomain
 versioning:
-  latest: 2.22.13
-  release: 2.22.13
+  latest: 2.23.0
+  release: 2.23.0
   versions:
   - 2.0.0-preview-11
   - 2.0.0-preview-12
@@ -1190,4 +1190,5 @@ versioning:
   - 2.22.11
   - 2.22.12
   - 2.22.13
-  lastUpdated: 20240108213652
+  - 2.23.0
+  lastUpdated: 20240110213345

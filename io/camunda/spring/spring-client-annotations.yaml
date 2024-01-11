@@ -3,8 +3,8 @@
 groupId: io.camunda.spring
 artifactId: spring-client-annotations
 versioning:
-  latest: 8.4.0-rc1
-  release: 8.4.0-rc1
+  latest: 8.4.0-rc3
+  release: 8.4.0-rc3
   versions:
   - 8.2.0-alpha2
   - 8.2.0-alpha3
@@ -40,6 +40,8 @@ versioning:
   - 8.3.4.4
   - 8.3.4.5
   - 8.3.4.6
+  - 8.3.4.7
+  - 8.3.4.8
   - 8.4.0-alpha2-rc1
   - 8.4.0-alpha2-rc2
   - 8.4.0-alpha2-rc3
@@ -47,4 +49,6 @@ versioning:
   - 8.4.0-alpha2-rc5
   - 8.4.0-alpha2-rc6
   - 8.4.0-rc1
-  lastUpdated: 20240109180007
+  - 8.4.0-rc2
+  - 8.4.0-rc3
+  lastUpdated: 20240110182345
