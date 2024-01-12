@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud
 artifactId: spring-cloud-dataflow-common-test-docker
 versioning:
-  latest: 2.11.1
-  release: 2.11.1
+  latest: 2.11.2
+  release: 2.11.2
   versions:
   - 2.4.0.RELEASE
   - 2.5.0.RELEASE
@@ -34,4 +34,5 @@ versioning:
   - 2.10.3
   - 2.11.0
   - 2.11.1
-  lastUpdated: 20231013012128
+  - 2.11.2
+  lastUpdated: 20240111181638

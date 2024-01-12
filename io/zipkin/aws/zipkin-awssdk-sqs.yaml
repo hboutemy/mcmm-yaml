@@ -3,8 +3,8 @@
 groupId: io.zipkin.aws
 artifactId: zipkin-awssdk-sqs
 versioning:
-  latest: 1.0.0
-  release: 1.0.0
+  latest: 1.1.0
+  release: 1.1.0
   versions:
   - 0.18.0
   - 0.18.1
@@ -25,4 +25,5 @@ versioning:
   - 0.23.5
   - 0.24.0
   - 1.0.0
-  lastUpdated: 20240109050840
+  - 1.1.0
+  lastUpdated: 20240111002712
