@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.instrumentation
 artifactId: opentelemetry-armeria-1.3
 versioning:
-  latest: 1.32.0-alpha
-  release: 1.32.0-alpha
+  latest: 2.0.0-alpha
+  release: 2.0.0-alpha
   versions:
   - 0.14.0
   - 0.15.0
@@ -67,4 +67,5 @@ versioning:
   - 1.30.0-alpha
   - 1.31.0-alpha
   - 1.32.0-alpha
-  lastUpdated: 20231118012354
+  - 2.0.0-alpha
+  lastUpdated: 20240112220647

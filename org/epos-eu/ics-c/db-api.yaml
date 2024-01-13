@@ -3,8 +3,8 @@
 groupId: org.epos-eu.ics-c
 artifactId: db-api
 versioning:
-  latest: 2.5.6
-  release: 2.5.6
+  latest: 2.5.9
+  release: 2.5.9
   versions:
   - CI_COMMIT_REF_NAME
   - main
@@ -102,4 +102,7 @@ versioning:
   - 2.5.4
   - 2.5.5
   - 2.5.6
-  lastUpdated: 20240111150511
+  - 2.5.7
+  - 2.5.8
+  - 2.5.9
+  lastUpdated: 20240112105544

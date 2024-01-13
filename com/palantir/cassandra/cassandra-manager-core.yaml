@@ -3,8 +3,8 @@
 groupId: com.palantir.cassandra
 artifactId: cassandra-manager-core
 versioning:
-  latest: 0.96.0-rc1
-  release: 0.96.0-rc1
+  latest: 0.96.0
+  release: 0.96.0
   versions:
   - 0.21.0
   - 0.21.1
@@ -203,4 +203,5 @@ versioning:
   - 0.94.0
   - 0.95.0
   - 0.96.0-rc1
-  lastUpdated: 20240105002705
+  - 0.96.0
+  lastUpdated: 20240112162650

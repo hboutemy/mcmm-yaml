@@ -3,8 +3,8 @@
 groupId: me.ahoo.wow
 artifactId: wow-openapi
 versioning:
-  latest: 2.13.6
-  release: 2.13.6
+  latest: 2.14.0
+  release: 2.14.0
   versions:
   - 2.3.0
   - 2.3.2
@@ -72,6 +72,9 @@ versioning:
   - 2.8.54
   - 2.8.55
   - 2.8.56
+  - 2.8.60
+  - 2.8.61
+  - 2.8.62
   - 2.9.0
   - 2.9.2
   - 2.9.3
@@ -98,4 +101,7 @@ versioning:
   - 2.13.4
   - 2.13.5
   - 2.13.6
-  lastUpdated: 20240111145059
+  - 2.13.8
+  - 2.13.9
+  - 2.14.0
+  lastUpdated: 20240112083341
