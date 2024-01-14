@@ -3,8 +3,8 @@
 groupId: org.openrewrite
 artifactId: rewrite-protobuf
 versioning:
-  latest: 8.13.1
-  release: 8.13.1
+  latest: 8.13.3
+  release: 8.13.3
   versions:
   - 7.19.0
   - 7.20.0
@@ -114,4 +114,6 @@ versioning:
   - 8.12.0
   - 8.13.0
   - 8.13.1
-  lastUpdated: 20240109134221
+  - 8.13.2
+  - 8.13.3
+  lastUpdated: 20240113184836
