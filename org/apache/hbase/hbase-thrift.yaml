@@ -3,8 +3,8 @@
 groupId: org.apache.hbase
 artifactId: hbase-thrift
 versioning:
-  latest: 3.0.0-alpha-4
-  release: 3.0.0-alpha-4
+  latest: 3.0.0-beta-1
+  release: 3.0.0-beta-1
   versions:
   - 0.96.0-hadoop1
   - 0.96.0-hadoop2
@@ -209,4 +209,5 @@ versioning:
   - 3.0.0-alpha-2
   - 3.0.0-alpha-3
   - 3.0.0-alpha-4
-  lastUpdated: 20231224150310
+  - 3.0.0-beta-1
+  lastUpdated: 20240114091745

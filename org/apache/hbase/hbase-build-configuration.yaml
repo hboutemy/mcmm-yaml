@@ -3,8 +3,8 @@
 groupId: org.apache.hbase
 artifactId: hbase-build-configuration
 versioning:
-  latest: 3.0.0-alpha-4
-  release: 3.0.0-alpha-4
+  latest: 3.0.0-beta-1
+  release: 3.0.0-beta-1
   versions:
   - 2.0.0-alpha3
   - 2.0.0-alpha4
@@ -80,4 +80,5 @@ versioning:
   - 3.0.0-alpha-2
   - 3.0.0-alpha-3
   - 3.0.0-alpha-4
-  lastUpdated: 20231224145753
+  - 3.0.0-beta-1
+  lastUpdated: 20240114091010

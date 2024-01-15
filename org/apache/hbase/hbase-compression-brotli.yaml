@@ -3,8 +3,8 @@
 groupId: org.apache.hbase
 artifactId: hbase-compression-brotli
 versioning:
-  latest: 3.0.0-alpha-4
-  release: 3.0.0-alpha-4
+  latest: 3.0.0-beta-1
+  release: 3.0.0-beta-1
   versions:
   - 2.5.0
   - 2.5.1
@@ -22,4 +22,5 @@ versioning:
   - 2.5.7-hadoop3
   - 3.0.0-alpha-3
   - 3.0.0-alpha-4
-  lastUpdated: 20231224145837
+  - 3.0.0-beta-1
+  lastUpdated: 20240114091111
