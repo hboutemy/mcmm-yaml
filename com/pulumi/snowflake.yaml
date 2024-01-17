@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: snowflake
 versioning:
-  latest: 0.46.1
-  release: 0.46.1
+  latest: 0.46.2-alpha.1705436448+28cfe2d9
+  release: 0.46.2-alpha.1705436448+28cfe2d9
   versions:
   - 0.12.1-alpha.1660927856+a949bfde
   - 0.13.0
@@ -158,4 +158,5 @@ versioning:
   - 0.46.0
   - 0.46.1-alpha.1705199050+f8a2ac12
   - 0.46.1
-  lastUpdated: 20240114032232
+  - 0.46.2-alpha.1705436448+28cfe2d9
+  lastUpdated: 20240116205345

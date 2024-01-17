@@ -3,8 +3,8 @@
 groupId: org.eclipse.microprofile.metrics
 artifactId: microprofile-metrics-optional-tck
 versioning:
-  latest: 5.1.1-RC1
-  release: 5.1.1-RC1
+  latest: 5.1.1
+  release: 5.1.1
   versions:
   - 2.3-RC2
   - 2.3
@@ -45,7 +45,9 @@ versioning:
   - 5.0.1-RC1
   - 5.0.1
   - 5.0.2-RC1
+  - 5.0.2
   - 5.1.0-RC1
   - 5.1.0
   - 5.1.1-RC1
-  lastUpdated: 20240110034952
+  - 5.1.1
+  lastUpdated: 20240116221722
