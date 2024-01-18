@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-spark-30_2.13
 versioning:
-  latest: 8.11.4
-  release: 8.11.4
+  latest: 8.12.0
+  release: 8.12.0
   versions:
   - 8.1.0
   - 8.1.1
@@ -47,4 +47,5 @@ versioning:
   - 8.11.2
   - 8.11.3
   - 8.11.4
-  lastUpdated: 20240111094529
+  - 8.12.0
+  lastUpdated: 20240117161010

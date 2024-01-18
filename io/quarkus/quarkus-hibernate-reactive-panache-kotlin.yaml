@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-hibernate-reactive-panache-kotlin
 versioning:
-  latest: 3.6.6
-  release: 3.6.6
+  latest: 3.7.0.CR1
+  release: 3.7.0.CR1
   versions:
   - 2.14.0.CR1
   - 2.14.0.Final
@@ -80,4 +80,5 @@ versioning:
   - 3.6.4
   - 3.6.5
   - 3.6.6
-  lastUpdated: 20240116112348
+  - 3.7.0.CR1
+  lastUpdated: 20240117124328
