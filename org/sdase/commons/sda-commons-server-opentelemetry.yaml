@@ -3,8 +3,8 @@
 groupId: org.sdase.commons
 artifactId: sda-commons-server-opentelemetry
 versioning:
-  latest: 6.0.0-rc.2
-  release: 6.0.0-rc.2
+  latest: 6.1.3
+  release: 6.1.3
   versions:
   - 3.0.0-alpha.1
   - 3.0.0-alpha.2
@@ -296,4 +296,10 @@ versioning:
   - 5.17.4
   - 6.0.0-rc.1
   - 6.0.0-rc.2
-  lastUpdated: 20240115082516
+  - 6.0.0
+  - 6.0.1
+  - 6.1.0
+  - 6.1.1
+  - 6.1.2
+  - 6.1.3
+  lastUpdated: 20240118175337
