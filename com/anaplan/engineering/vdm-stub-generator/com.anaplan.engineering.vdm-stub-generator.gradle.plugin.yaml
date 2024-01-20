@@ -3,9 +3,10 @@
 groupId: com.anaplan.engineering.vdm-stub-generator
 artifactId: com.anaplan.engineering.vdm-stub-generator.gradle.plugin
 versioning:
-  latest: 0.4.0-alpha.8
-  release: 0.4.0-alpha.8
+  latest: 0.4.0-alpha.9
+  release: 0.4.0-alpha.9
   versions:
+  - -Pversion=0.4.0-alpha.9
   - 0.3.12
   - 0.3.13
   - 0.3.14
@@ -17,5 +18,6 @@ versioning:
   - 0.4.0-alpha.6
   - 0.4.0-alpha.7
   - 0.4.0-alpha.8
+  - 0.4.0-alpha.9
   - 0.4.0.alpha.2
-  lastUpdated: 20231218123217
+  lastUpdated: 20240119094346

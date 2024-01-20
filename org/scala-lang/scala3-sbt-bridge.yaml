@@ -3,8 +3,8 @@
 groupId: org.scala-lang
 artifactId: scala3-sbt-bridge
 versioning:
-  latest: 3.4.0-RC1-bin-20240116-78c4da2-NIGHTLY
-  release: 3.4.0-RC1-bin-20240116-78c4da2-NIGHTLY
+  latest: 3.4.0-RC2
+  release: 3.4.0-RC2
   versions:
   - 3.0.0-M1
   - 3.0.0-M1-bin-20201015-8c56525-NIGHTLY
@@ -909,4 +909,5 @@ versioning:
   - 3.4.0-RC1-bin-20240114-bfabc31-NIGHTLY
   - 3.4.0-RC1-bin-20240115-31f837e-NIGHTLY
   - 3.4.0-RC1-bin-20240116-78c4da2-NIGHTLY
-  lastUpdated: 20240117042316
+  - 3.4.0-RC2
+  lastUpdated: 20240119150228

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-documentai
 versioning:
-  latest: v1-rev20231113-2.0.0
-  release: v1-rev20231113-2.0.0
+  latest: v1-rev20240112-2.0.0
+  release: v1-rev20240112-2.0.0
   versions:
   - v1beta2-rev20200612-1.30.9
   - v1beta2-rev20200619-1.30.9
@@ -87,6 +87,7 @@ versioning:
   - v1beta2-rev20230923-2.0.0
   - v1beta2-rev20231026-2.0.0
   - v1beta2-rev20231113-2.0.0
+  - v1beta2-rev20240112-2.0.0
   - v1beta3-rev20200828-1.30.10
   - v1beta3-rev20200828-1.31.0
   - v1beta3-rev20201207-1.31.0
@@ -188,6 +189,7 @@ versioning:
   - v1beta3-rev20231026-2.0.0
   - v1beta3-rev20231113-2.0.0
   - v1beta3-rev20231123-2.0.0
+  - v1beta3-rev20240112-2.0.0
   - v1-rev20210329-1.31.0
   - v1-rev20210413-1.31.0
   - v1-rev20210430-1.31.0
@@ -269,4 +271,5 @@ versioning:
   - v1-rev20230923-2.0.0
   - v1-rev20231026-2.0.0
   - v1-rev20231113-2.0.0
-  lastUpdated: 20231201094707
+  - v1-rev20240112-2.0.0
+  lastUpdated: 20240119094242
