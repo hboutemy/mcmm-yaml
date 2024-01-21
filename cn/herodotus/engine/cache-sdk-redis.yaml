@@ -3,8 +3,8 @@
 groupId: cn.herodotus.engine
 artifactId: cache-sdk-redis
 versioning:
-  latest: 3.2.1.7
-  release: 3.2.1.7
+  latest: 3.2.2.0
+  release: 3.2.2.0
   versions:
   - 2.7.0.10
   - 2.7.0.20
@@ -142,6 +142,7 @@ versioning:
   - 3.1.7.3
   - 3.1.7.4
   - 3.1.7.5
+  - 3.1.8.0
   - 3.2.0-RC1
   - 3.2.0-RC2
   - 3.2.0-RC3
@@ -156,4 +157,5 @@ versioning:
   - 3.2.1.5
   - 3.2.1.6
   - 3.2.1.7
-  lastUpdated: 20240116160335
+  - 3.2.2.0
+  lastUpdated: 20240120025856
