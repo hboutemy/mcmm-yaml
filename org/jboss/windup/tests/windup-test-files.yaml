@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.windup.tests
 artifactId: windup-test-files
 versioning:
-  latest: 6.3.4.Final
-  release: 6.3.4.Final
+  latest: 6.3.6.Final
+  release: 6.3.6.Final
   versions:
   - 2.5.0.CR2
   - 2.5.0.CR3
@@ -90,4 +90,6 @@ versioning:
   - 6.3.2.Final
   - 6.3.3.Final
   - 6.3.4.Final
-  lastUpdated: 20231204121451
+  - 6.3.5.Final
+  - 6.3.6.Final
+  lastUpdated: 20240122160720

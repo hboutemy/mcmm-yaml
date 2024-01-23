@@ -3,8 +3,8 @@
 groupId: org.daisy.pipeline
 artifactId: assembly
 versioning:
-  latest: 1.14.17
-  release: 1.14.17
+  latest: 1.14.17-p1
+  release: 1.14.17-p1
   versions:
   - 1.9.1
   - 1.9.2
@@ -51,4 +51,5 @@ versioning:
   - 1.14.15
   - 1.14.16
   - 1.14.17
-  lastUpdated: 20240118225149
+  - 1.14.17-p1
+  lastUpdated: 20240122171104

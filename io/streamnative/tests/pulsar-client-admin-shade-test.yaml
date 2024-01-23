@@ -3,8 +3,8 @@
 groupId: io.streamnative.tests
 artifactId: pulsar-client-admin-shade-test
 versioning:
-  latest: 3.1.1.2
-  release: 3.1.1.2
+  latest: 3.1.2.1
+  release: 3.1.2.1
   versions:
   - master-rc-daily
   - v2.8.0-rc-202106091140
@@ -663,4 +663,5 @@ versioning:
   - 3.1.0.7
   - 3.1.1.1
   - 3.1.1.2
-  lastUpdated: 20240118065321
+  - 3.1.2.1
+  lastUpdated: 20240122084703

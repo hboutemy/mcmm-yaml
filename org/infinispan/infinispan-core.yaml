@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-core
 versioning:
-  latest: 15.0.0.Dev06
-  release: 15.0.0.Dev06
+  latest: 15.0.0.Dev07
+  release: 15.0.0.Dev07
   versions:
   - 5.0.0.FINAL
   - 5.0.1.FINAL
@@ -368,12 +368,14 @@ versioning:
   - 14.0.19.Final
   - 14.0.20.Final
   - 14.0.21.Final
+  - 14.0.22.Final
   - 15.0.0.Dev01
   - 15.0.0.Dev02
   - 15.0.0.Dev03
   - 15.0.0.Dev04
   - 15.0.0.Dev05
   - 15.0.0.Dev06
+  - 15.0.0.Dev07
   - 12.0.0.Dev03
   - 5.2.7-wolfc-1
-  lastUpdated: 20231222085128
+  lastUpdated: 20240122160043
