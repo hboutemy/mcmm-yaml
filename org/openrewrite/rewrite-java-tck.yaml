@@ -3,8 +3,8 @@
 groupId: org.openrewrite
 artifactId: rewrite-java-tck
 versioning:
-  latest: 8.13.8
-  release: 8.13.8
+  latest: 8.14.0
+  release: 8.14.0
   versions:
   - 7.28.0
   - 7.29.0
@@ -102,4 +102,5 @@ versioning:
   - 8.13.6
   - 8.13.7
   - 8.13.8
-  lastUpdated: 20240117192116
+  - 8.14.0
+  lastUpdated: 20240123132012

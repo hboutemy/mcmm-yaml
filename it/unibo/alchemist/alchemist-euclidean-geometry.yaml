@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: it.unibo.alchemist
 artifactId: alchemist-euclidean-geometry
 versioning:
-  latest: 29.5.1
-  release: 29.5.1
+  latest: 30.0.1
+  release: 30.0.1
   versions:
   - 9.3.0-dev1bc+fd2c3a1c0
   - 9.3.0-dev1bn+1fc9a8ebd
@@ -246,4 +246,6 @@ versioning:
   - 29.4.0
   - 29.5.0
   - 29.5.1
-  lastUpdated: 20240121125909
+  - 30.0.0
+  - 30.0.1
+  lastUpdated: 20240123203326

@@ -3,8 +3,8 @@
 groupId: com.datadoghq
 artifactId: dd-trace-api
 versioning:
-  latest: 1.28.0-RC3
-  release: 1.28.0-RC3
+  latest: 1.28.0
+  release: 1.28.0
   versions:
   - 0.3.0.RC1
   - 0.3.0.RC2
@@ -204,4 +204,5 @@ versioning:
   - 1.27.0
   - 1.28.0-RC2
   - 1.28.0-RC3
-  lastUpdated: 20240119205941
+  - 1.28.0
+  lastUpdated: 20240123212947

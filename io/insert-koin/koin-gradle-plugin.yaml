@@ -3,8 +3,8 @@
 groupId: io.insert-koin
 artifactId: koin-gradle-plugin
 versioning:
-  latest: 3.5.3
-  release: 3.5.3
+  latest: 3.6.0-wasm-alpha1
+  release: 3.6.0-wasm-alpha1
   versions:
   - 2.1.6
   - 2.2.2
@@ -32,4 +32,6 @@ versioning:
   - 3.5.0
   - 3.5.2-RC1
   - 3.5.3
-  lastUpdated: 20240104094830
+  - 3.6.0-alpha1
+  - 3.6.0-wasm-alpha1
+  lastUpdated: 20240123121735

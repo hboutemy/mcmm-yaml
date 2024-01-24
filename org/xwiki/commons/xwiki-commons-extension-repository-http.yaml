@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.commons
 artifactId: xwiki-commons-extension-repository-http
 versioning:
-  latest: 15.10.5
-  release: 15.10.5
+  latest: 16.0.0-rc-1
+  release: 16.0.0-rc-1
   versions:
   - 5.2-milestone-1
   - 5.2-milestone-2
@@ -402,4 +402,5 @@ versioning:
   - 15.10.3
   - 15.10.4
   - 15.10.5
-  lastUpdated: 20240117091005
+  - 16.0.0-rc-1
+  lastUpdated: 20240123143206
