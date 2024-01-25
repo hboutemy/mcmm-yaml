@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-oidc-token-propagation-reactive
 versioning:
-  latest: 3.7.0.CR1
-  release: 3.7.0.CR1
+  latest: 3.7.0
+  release: 3.7.0
   versions:
   - 2.7.1.Final
   - 2.7.2.Final
@@ -128,4 +128,5 @@ versioning:
   - 3.6.6
   - 3.6.7
   - 3.7.0.CR1
-  lastUpdated: 20240123113925
+  - 3.7.0
+  lastUpdated: 20240124113226

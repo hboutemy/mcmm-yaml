@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: spring-zeebe-starter
 versioning:
-  latest: 8.4.0
-  release: 8.4.0
+  latest: 8.4.1-rc2
+  release: 8.4.1-rc2
   versions:
   - 1.0.0-rc2
   - 1.0.0-rc3
@@ -96,4 +96,6 @@ versioning:
   - 8.4.0-rc2
   - 8.4.0-rc3
   - 8.4.0
-  lastUpdated: 20240112142637
+  - 8.4.1-rc1
+  - 8.4.1-rc2
+  lastUpdated: 20240124145713

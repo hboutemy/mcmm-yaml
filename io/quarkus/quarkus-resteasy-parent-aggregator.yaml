@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-resteasy-parent-aggregator
 versioning:
-  latest: 3.7.0.CR1
-  release: 3.7.0.CR1
+  latest: 3.7.0
+  release: 3.7.0
   versions:
   - 2.0.0.Alpha1
   - 2.0.0.Alpha2
@@ -171,4 +171,5 @@ versioning:
   - 3.6.6
   - 3.6.7
   - 3.7.0.CR1
-  lastUpdated: 20240123114013
+  - 3.7.0
+  lastUpdated: 20240124113315

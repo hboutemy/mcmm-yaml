@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-microprofile-reactive-streams-operators-parent
 versioning:
-  latest: 31.0.0.Beta1
-  release: 31.0.0.Beta1
+  latest: 31.0.0.Final
+  release: 31.0.0.Final
   versions:
   - 23.0.0.Beta1
   - 23.0.0.Final
@@ -43,4 +43,5 @@ versioning:
   - 30.0.0.Final
   - 30.0.1.Final
   - 31.0.0.Beta1
-  lastUpdated: 20231220145221
+  - 31.0.0.Final
+  lastUpdated: 20240124181001

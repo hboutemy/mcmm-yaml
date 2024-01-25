@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-security-jpa-common-deployment
 versioning:
-  latest: 3.7.0.CR1
-  release: 3.7.0.CR1
+  latest: 3.7.0
+  release: 3.7.0
   versions:
   - 3.1.0.CR1
   - 3.1.0.Final
@@ -47,4 +47,5 @@ versioning:
   - 3.6.6
   - 3.6.7
   - 3.7.0.CR1
-  lastUpdated: 20240123114039
+  - 3.7.0
+  lastUpdated: 20240124113340

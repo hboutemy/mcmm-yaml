@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-resteasy-deployment
 versioning:
-  latest: 3.7.0.CR1
-  release: 3.7.0.CR1
+  latest: 3.7.0
+  release: 3.7.0
   versions:
   - 0.13.0
   - 0.13.1
@@ -277,4 +277,5 @@ versioning:
   - 3.6.6
   - 3.6.7
   - 3.7.0.CR1
-  lastUpdated: 20240123114005
+  - 3.7.0
+  lastUpdated: 20240124113307

@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-elytron-security-jdbc-deployment
 versioning:
-  latest: 3.7.0.CR1
-  release: 3.7.0.CR1
+  latest: 3.7.0
+  release: 3.7.0
   versions:
   - 0.24.0
   - 0.25.0
@@ -257,4 +257,5 @@ versioning:
   - 3.6.6
   - 3.6.7
   - 3.7.0.CR1
-  lastUpdated: 20240123113732
+  - 3.7.0
+  lastUpdated: 20240124113036
