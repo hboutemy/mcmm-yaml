@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.product.type.virtual.api
 versioning:
-  latest: 8.0.1
-  release: 8.0.1
+  latest: 9.0.0
+  release: 9.0.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -92,4 +91,5 @@ versioning:
   - 7.5.0
   - 8.0.0
   - 8.0.1
-  lastUpdated: 20230807183511
+  - 9.0.0
+  lastUpdated: 20240125030431

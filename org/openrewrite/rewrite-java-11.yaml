@@ -3,8 +3,8 @@
 groupId: org.openrewrite
 artifactId: rewrite-java-11
 versioning:
-  latest: 8.14.0
-  release: 8.14.0
+  latest: 8.14.1
+  release: 8.14.1
   versions:
   - 2.0.0-rc.10
   - 2.0.0-rc.11
@@ -217,4 +217,5 @@ versioning:
   - 8.13.7
   - 8.13.8
   - 8.14.0
-  lastUpdated: 20240123132007
+  - 8.14.1
+  lastUpdated: 20240125221653

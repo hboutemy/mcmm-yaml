@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.workflow.metrics.demo
 versioning:
-  latest: 2.0.15
-  release: 2.0.15
+  latest: 2.0.16
+  release: 2.0.16
   versions:
   - 1.0.11
   - 1.0.12
@@ -31,4 +30,5 @@ versioning:
   - 2.0.13
   - 2.0.14
   - 2.0.15
-  lastUpdated: 20230807222130
+  - 2.0.16
+  lastUpdated: 20240125051532
