@@ -3,8 +3,8 @@
 groupId: org.projectnessie.nessie
 artifactId: nessie-gc-repository-jdbc
 versioning:
-  latest: 0.76.3
-  release: 0.76.3
+  latest: 0.76.6
+  release: 0.76.6
   versions:
   - 0.51.1
   - 0.52.0
@@ -51,4 +51,7 @@ versioning:
   - 0.76.1
   - 0.76.2
   - 0.76.3
-  lastUpdated: 20240116182519
+  - 0.76.4
+  - 0.76.5
+  - 0.76.6
+  lastUpdated: 20240126222945
