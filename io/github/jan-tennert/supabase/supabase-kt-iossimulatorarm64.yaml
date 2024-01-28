@@ -3,8 +3,8 @@
 groupId: io.github.jan-tennert.supabase
 artifactId: supabase-kt-iossimulatorarm64
 versioning:
-  latest: 2.1.0-alpha-2
-  release: 2.1.0-alpha-2
+  latest: 2.1.0-dev-1
+  release: 2.1.0-dev-1
   versions:
   - 0.8.4-ios-2
   - 0.8.5-ios
@@ -100,4 +100,6 @@ versioning:
   - 2.0.4-wasm0
   - 2.1.0-alpha-1
   - 2.1.0-alpha-2
-  lastUpdated: 20240109193610
+  - 2.1.0-rc-1
+  - 2.1.0-dev-1
+  lastUpdated: 20240127094817
