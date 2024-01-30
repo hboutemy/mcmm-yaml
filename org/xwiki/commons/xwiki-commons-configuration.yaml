@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.commons
 artifactId: xwiki-commons-configuration
 versioning:
-  latest: 16.0.0-rc-1
-  release: 16.0.0-rc-1
+  latest: 16.0.0
+  release: 16.0.0
   versions:
   - 3.2-milestone-3
   - 3.2-rc-1
@@ -461,4 +461,5 @@ versioning:
   - 15.10.4
   - 15.10.5
   - 16.0.0-rc-1
-  lastUpdated: 20240123143155
+  - 16.0.0
+  lastUpdated: 20240129093440
