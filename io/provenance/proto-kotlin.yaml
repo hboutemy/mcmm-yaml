@@ -3,8 +3,8 @@
 groupId: io.provenance
 artifactId: proto-kotlin
 versioning:
-  latest: 1.17.1
-  release: 1.17.1
+  latest: 1.18.0-rc1
+  release: 1.18.0-rc1
   versions:
   - feature_562-protobuf-bindings-support-2c55e17
   - feature_562-protobuf-bindings-support-7e1c0c4
@@ -51,4 +51,5 @@ versioning:
   - 1.17.0-rc3
   - 1.17.0
   - 1.17.1
-  lastUpdated: 20240111204457
+  - 1.18.0-rc1
+  lastUpdated: 20240130195032
