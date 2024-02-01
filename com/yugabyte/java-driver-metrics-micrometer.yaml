@@ -3,10 +3,12 @@
 groupId: com.yugabyte
 artifactId: java-driver-metrics-micrometer
 versioning:
-  latest: 4.15.0-yb-2-TEST.0
-  release: 4.15.0-yb-2-TEST.0
+  latest: 4.15.0-yb-2-TESTFIX.0
+  release: 4.15.0-yb-2-TESTFIX.0
   versions:
   - 4.11.4-yb-1-RC1
   - 4.15.0-yb-1
   - 4.15.0-yb-2-TEST.0
-  lastUpdated: 20240130140520
+  - 4.15.0-yb-2-TEST.1
+  - 4.15.0-yb-2-TESTFIX.0
+  lastUpdated: 20240131124402

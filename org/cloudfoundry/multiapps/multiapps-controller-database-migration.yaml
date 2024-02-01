@@ -3,8 +3,8 @@
 groupId: org.cloudfoundry.multiapps
 artifactId: multiapps-controller-database-migration
 versioning:
-  latest: 1.165.0
-  release: 1.165.0
+  latest: 1.165.2
+  release: 1.165.2
   versions:
   - 1.73.35
   - 1.107.0
@@ -106,5 +106,8 @@ versioning:
   - 1.163.0
   - 1.164.0
   - 1.164.1
+  - 1.164.2
   - 1.165.0
-  lastUpdated: 20240123091736
+  - 1.165.1
+  - 1.165.2
+  lastUpdated: 20240131081303

@@ -3,8 +3,8 @@
 groupId: io.ebean
 artifactId: ebean-platform-postgres
 versioning:
-  latest: 13.26.0-jakarta
-  release: 13.26.0-jakarta
+  latest: 13.26.1-jakarta-rc1
+  release: 13.26.1-jakarta-rc1
   versions:
   - 13.0.0
   - 13.1.0
@@ -96,4 +96,5 @@ versioning:
   - 13.25.2-jakarta
   - 13.26.0
   - 13.26.0-jakarta
-  lastUpdated: 20240120093711
+  - 13.26.1-jakarta-rc1
+  lastUpdated: 20240131073558
