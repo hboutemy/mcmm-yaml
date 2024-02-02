@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-marshaller-kryo-bundle
 versioning:
-  latest: 14.0.22.Final
-  release: 14.0.22.Final
+  latest: 14.0.24.Final
+  release: 14.0.24.Final
   versions:
   - 9.0.0.Beta1
   - 9.0.0.Beta2
@@ -221,5 +221,7 @@ versioning:
   - 14.0.20.Final
   - 14.0.21.Final
   - 14.0.22.Final
+  - 14.0.23.Final
+  - 14.0.24.Final
   - 12.0.0.Dev03
-  lastUpdated: 20240122071900
+  lastUpdated: 20240201171020

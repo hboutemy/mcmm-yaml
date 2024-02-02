@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-spring-boot-starter-remote
 versioning:
-  latest: 14.0.22.Final
-  release: 14.0.22.Final
+  latest: 14.0.24.Final
+  release: 14.0.24.Final
   versions:
   - 1.0.1.Final
   - 1.0.2.Final
@@ -129,5 +129,7 @@ versioning:
   - 14.0.20.Final
   - 14.0.21.Final
   - 14.0.22.Final
+  - 14.0.23.Final
+  - 14.0.24.Final
   - 12.0.0.Dev03
-  lastUpdated: 20240122071920
+  lastUpdated: 20240201171042

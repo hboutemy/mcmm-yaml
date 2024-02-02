@@ -3,8 +3,8 @@
 groupId: com.google.cloud.spark
 artifactId: spark-bigquery-reactor
 versioning:
-  latest: 0.36.0
-  release: 0.36.0
+  latest: 0.36.1
+  release: 0.36.1
   versions:
   - 0.23.0
   - 0.23.1
@@ -33,4 +33,5 @@ versioning:
   - 0.35.0
   - 0.35.1
   - 0.36.0
-  lastUpdated: 20240125232319
+  - 0.36.1
+  lastUpdated: 20240201053013
