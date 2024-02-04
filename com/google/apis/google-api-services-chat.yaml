@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-chat
 versioning:
-  latest: v1-rev20240128-2.0.0
-  release: v1-rev20240128-2.0.0
+  latest: v1-rev20240130-2.0.0
+  release: v1-rev20240130-2.0.0
   versions:
   - v1-rev20210522-1.31.0
   - v1-rev20210605-1.31.0
@@ -100,6 +100,7 @@ versioning:
   - v1-rev20240109-2.0.0
   - v1-rev20240111-2.0.0
   - v1-rev20240128-2.0.0
+  - v1-rev20240130-2.0.0
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.21.0
   - v1-rev1-1.22.0
@@ -441,4 +442,4 @@ versioning:
   - v1-rev9-1.23.0
   - v1-rev92-1.18.0-rc
   - v1-rev92-1.25.0
-  lastUpdated: 20240201091439
+  lastUpdated: 20240203091117

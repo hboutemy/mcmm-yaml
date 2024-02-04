@@ -3,8 +3,8 @@
 groupId: io.github.jan-tennert.supabase
 artifactId: gotrue-kt-tvossimulatorarm64
 versioning:
-  latest: 2.1.1
-  release: 2.1.1
+  latest: 2.1.1-wasm0
+  release: 2.1.1-wasm0
   versions:
   - 1.2.0-alpha-1
   - 1.2.0-alpha-2
@@ -62,4 +62,5 @@ versioning:
   - 2.1.0
   - 2.1.0-dev-1
   - 2.1.1
-  lastUpdated: 20240201175614
+  - 2.1.1-wasm0
+  lastUpdated: 20240203142638
