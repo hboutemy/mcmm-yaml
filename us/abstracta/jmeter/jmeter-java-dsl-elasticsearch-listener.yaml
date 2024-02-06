@@ -3,8 +3,8 @@
 groupId: us.abstracta.jmeter
 artifactId: jmeter-java-dsl-elasticsearch-listener
 versioning:
-  latest: 1.25
-  release: 1.25
+  latest: 1.25.3
+  release: 1.25.3
   versions:
   - 0.40
   - 0.41
@@ -72,6 +72,9 @@ versioning:
   - 1.23.3
   - 1.24
   - 1.25
+  - 1.25.1
+  - 1.25.2
+  - 1.25.3
   - 0.20
   - 0.21
   - 0.22
@@ -96,4 +99,4 @@ versioning:
   - 0.39
   - 0.39.1
   - 028
-  lastUpdated: 20240130140547
+  lastUpdated: 20240205232940

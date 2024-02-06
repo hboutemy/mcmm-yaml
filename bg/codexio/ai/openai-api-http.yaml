@@ -3,8 +3,8 @@
 groupId: bg.codexio.ai
 artifactId: openai-api-http
 versioning:
-  latest: 0.8.1.BETA-JDK17
-  release: 0.8.1.BETA-JDK17
+  latest: 0.9.0.BETA-JDK17
+  release: 0.9.0.BETA-JDK17
   versions:
   - 0.8.0.BETA
   - 0.8.0.BETA-JDK11
@@ -12,4 +12,6 @@ versioning:
   - 0.8.1.BETA
   - 0.8.1.BETA-JDK11
   - 0.8.1.BETA-JDK17
-  lastUpdated: 20240110075121
+  - 0.9.0.BETA
+  - 0.9.0.BETA-JDK17
+  lastUpdated: 20240205204237

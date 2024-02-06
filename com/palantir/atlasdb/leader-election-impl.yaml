@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: leader-election-impl
 versioning:
-  latest: 0.1023.0
-  release: 0.1023.0
+  latest: 0.1024.0
+  release: 0.1024.0
   versions:
   - 0.311.6
   - 0.311.7
@@ -854,4 +854,6 @@ versioning:
   - 0.1022.0
   - 0.1023.0-rc1
   - 0.1023.0
-  lastUpdated: 20240202175530
+  - 0.1024.0-rc1
+  - 0.1024.0
+  lastUpdated: 20240205164520
