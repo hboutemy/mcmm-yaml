@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.identity.configuration.mgt.endpoint
 versioning:
-  latest: 6.0.101
-  release: 6.0.101
+  latest: 7.0.32
+  release: 7.0.32
   versions:
   - 5.12.237
   - 5.12.238
@@ -1338,4 +1338,9 @@ versioning:
   - 6.0.12
   - 6.0.13
   - 6.0.15
-  lastUpdated: 20240117164722
+  - 7.0.28
+  - 7.0.29
+  - 7.0.30
+  - 7.0.31
+  - 7.0.32
+  lastUpdated: 20240206180332

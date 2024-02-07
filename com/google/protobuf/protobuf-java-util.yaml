@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.protobuf
 artifactId: protobuf-java-util
 versioning:
-  latest: 4.26.0-RC1
-  release: 4.26.0-RC1
+  latest: 4.26.0-RC2
+  release: 4.26.0-RC2
   versions:
   - 3.0.0-beta-1
   - 3.0.0-beta-2
@@ -142,4 +142,5 @@ versioning:
   - 4.0.0-rc-1
   - 4.0.0-rc-2
   - 4.26.0-RC1
-  lastUpdated: 20240125191132
+  - 4.26.0-RC2
+  lastUpdated: 20240206201850
