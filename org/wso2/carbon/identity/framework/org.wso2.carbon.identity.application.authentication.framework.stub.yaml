@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.identity.application.authentication.framework.stub
 versioning:
-  latest: 7.0.32
-  release: 7.0.32
+  latest: 7.0.35
+  release: 7.0.35
   versions:
   - 5.11.198
   - 5.11.199
@@ -1650,4 +1650,7 @@ versioning:
   - 7.0.30
   - 7.0.31
   - 7.0.32
-  lastUpdated: 20240206180320
+  - 7.0.33
+  - 7.0.34
+  - 7.0.35
+  lastUpdated: 20240207144827

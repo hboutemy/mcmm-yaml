@@ -3,8 +3,8 @@
 groupId: com.yahoo.vespa
 artifactId: zookeeper-command-line-client
 versioning:
-  latest: 8.296.15
-  release: 8.296.15
+  latest: 8.300.15
+  release: 8.300.15
   versions:
   - 7.112.6
   - 7.113.28
@@ -562,4 +562,6 @@ versioning:
   - 8.294.50
   - 8.295.13
   - 8.296.15
-  lastUpdated: 20240131222950
+  - 8.299.14
+  - 8.300.15
+  lastUpdated: 20240207222817

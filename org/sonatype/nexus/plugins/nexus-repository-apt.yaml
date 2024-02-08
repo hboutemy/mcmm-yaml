@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.plugins
 artifactId: nexus-repository-apt
 versioning:
-  latest: 3.64.0-04
-  release: 3.64.0-04
+  latest: 3.65.0-02
+  release: 3.65.0-02
   versions:
   - 3.17.0-01
   - 3.17.1-01
@@ -106,4 +106,5 @@ versioning:
   - 3.64.0-01
   - 3.64.0-03
   - 3.64.0-04
-  lastUpdated: 20240112161722
+  - 3.65.0-02
+  lastUpdated: 20240207142637

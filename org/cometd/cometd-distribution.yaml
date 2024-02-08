@@ -3,8 +3,8 @@
 groupId: org.cometd
 artifactId: cometd-distribution
 versioning:
-  latest: 8.0.0.beta1
-  release: 8.0.0.beta1
+  latest: 8.0.0.beta2
+  release: 8.0.0.beta2
   versions:
   - 1.0.1
   - 1.1.0
@@ -136,6 +136,7 @@ versioning:
   - 6.0.9
   - 6.0.10
   - 6.0.11
+  - 6.0.12
   - 7.0.0
   - 7.0.1
   - 7.0.2
@@ -147,6 +148,8 @@ versioning:
   - 7.0.9
   - 7.0.10
   - 7.0.11
+  - 7.0.12
   - 8.0.0.beta0
   - 8.0.0.beta1
-  lastUpdated: 20231220150535
+  - 8.0.0.beta2
+  lastUpdated: 20240207213123
