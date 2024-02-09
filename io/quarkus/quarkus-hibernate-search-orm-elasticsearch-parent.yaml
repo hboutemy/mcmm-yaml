@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-hibernate-search-orm-elasticsearch-parent
 versioning:
-  latest: 3.7.1
-  release: 3.7.1
+  latest: 3.7.2
+  release: 3.7.2
   versions:
   - 1.10.0.CR1
   - 1.10.0.Final
@@ -207,4 +207,5 @@ versioning:
   - 3.7.0.CR1
   - 3.7.0
   - 3.7.1
-  lastUpdated: 20240131124531
+  - 3.7.2
+  lastUpdated: 20240208102606
