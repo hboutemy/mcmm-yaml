@@ -3,8 +3,8 @@
 groupId: io.ebean
 artifactId: ebean-jackson-mapper
 versioning:
-  latest: 13.26.1-jakarta-rc1
-  release: 13.26.1-jakarta-rc1
+  latest: 13.26.1-jakarta
+  release: 13.26.1-jakarta
   versions:
   - 13.10.0
   - 13.10.1
@@ -74,5 +74,7 @@ versioning:
   - 13.25.2-jakarta
   - 13.26.0
   - 13.26.0-jakarta
+  - 13.26.1
   - 13.26.1-jakarta-rc1
-  lastUpdated: 20240131073551
+  - 13.26.1-jakarta
+  lastUpdated: 20240210001721

@@ -3,8 +3,8 @@
 groupId: io.janstenpickle
 artifactId: trace4cats-opentelemetry-otlp-grpc-exporter_2.13
 versioning:
-  latest: 0.14.4
-  release: 0.14.4
+  latest: 0.14.4+27-80f218ff
+  release: 0.14.4+27-80f218ff
   versions:
   - 0.0.0+1-7a9df181
   - 0.0.0+2-5ffb9ec2
@@ -429,4 +429,9 @@ versioning:
   - 0.14.2+8-3b8bd435
   - 0.14.3
   - 0.14.4
-  lastUpdated: 20230810110457
+  - 0.14.4+15-a8f7c5e3
+  - 0.14.4+17-0ea97161
+  - 0.14.4+22-82754546
+  - 0.14.4+24-1b1d13f2
+  - 0.14.4+27-80f218ff
+  lastUpdated: 20240210102336

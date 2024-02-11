@@ -3,8 +3,8 @@
 groupId: io.ebean
 artifactId: ebean-cockroach
 versioning:
-  latest: 13.26.1-jakarta-rc1
-  release: 13.26.1-jakarta-rc1
+  latest: 13.26.1-jakarta
+  release: 13.26.1-jakarta
   versions:
   - 13.0.0
   - 13.1.0
@@ -96,5 +96,7 @@ versioning:
   - 13.25.2-jakarta
   - 13.26.0
   - 13.26.0-jakarta
+  - 13.26.1
   - 13.26.1-jakarta-rc1
-  lastUpdated: 20240131073548
+  - 13.26.1-jakarta
+  lastUpdated: 20240210001718

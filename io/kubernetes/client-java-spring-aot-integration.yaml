@@ -3,8 +3,8 @@
 groupId: io.kubernetes
 artifactId: client-java-spring-aot-integration
 versioning:
-  latest: 20.0.0
-  release: 20.0.0
+  latest: 20.0.0-legacy
+  release: 20.0.0-legacy
   versions:
   - 17.0.0
   - 17.0.1
@@ -13,4 +13,5 @@ versioning:
   - 18.0.1
   - 19.0.0
   - 20.0.0
-  lastUpdated: 20240207004653
+  - 20.0.0-legacy
+  lastUpdated: 20240210033755
