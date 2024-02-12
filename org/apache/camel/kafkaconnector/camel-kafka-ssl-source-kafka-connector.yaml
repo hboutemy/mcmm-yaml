@@ -3,8 +3,8 @@
 groupId: org.apache.camel.kafkaconnector
 artifactId: camel-kafka-ssl-source-kafka-connector
 versioning:
-  latest: 4.0.0
-  release: 4.0.0
+  latest: 4.0.3
+  release: 4.0.3
   versions:
   - 3.18.1
   - 3.18.2
@@ -14,4 +14,5 @@ versioning:
   - 3.20.6
   - 3.21.0
   - 4.0.0
-  lastUpdated: 20230925103010
+  - 4.0.3
+  lastUpdated: 20240211115617

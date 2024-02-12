@@ -3,9 +3,10 @@
 groupId: org.testfx
 artifactId: openjfx-monocle
 versioning:
-  latest: 8u76-b04
-  release: 8u76-b04
+  latest: 17.0.10
+  release: 17.0.10
   versions:
+  - jdk-8.0.372
   - jdk-9+181
   - jdk-9+181.1
   - jdk-11+23
@@ -16,4 +17,6 @@ versioning:
   - 8u40-b27
   - 8u60-b27
   - 8u76-b04
-  lastUpdated: 20190511193205
+  - 11.0.2
+  - 17.0.10
+  lastUpdated: 20240211043922

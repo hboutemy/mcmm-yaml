@@ -3,8 +3,8 @@
 groupId: com.clickhouse
 artifactId: clickhouse-client
 versioning:
-  latest: 0.6.0
-  release: 0.6.0
+  latest: 0.6.0-patch1
+  release: 0.6.0-patch1
   versions:
   - 0.3.2
   - 0.3.2-patch1
@@ -30,4 +30,5 @@ versioning:
   - 0.4.6
   - 0.5.0
   - 0.6.0
-  lastUpdated: 20240115193458
+  - 0.6.0-patch1
+  lastUpdated: 20240211125418
