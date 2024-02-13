@@ -3,8 +3,8 @@
 groupId: dev.crashteam
 artifactId: openapi-crm
 versioning:
-  latest: 1.15-8dfa405-server
-  release: 1.15-8dfa405-server
+  latest: 1.16-e87864f-server
+  release: 1.16-e87864f-server
   versions:
   - 1.3-9548589-client
   - 1.3-9548589-server
@@ -32,4 +32,6 @@ versioning:
   - 1.14-e935d03-server
   - 1.15-8dfa405-client
   - 1.15-8dfa405-server
-  lastUpdated: 20240205171507
+  - 1.16-e87864f-client
+  - 1.16-e87864f-server
+  lastUpdated: 20240212174243
