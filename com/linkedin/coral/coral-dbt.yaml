@@ -3,8 +3,8 @@
 groupId: com.linkedin.coral
 artifactId: coral-dbt
 versioning:
-  latest: 2.2.27
-  release: 2.2.27
+  latest: 2.2.27-li-trino-hotfix
+  release: 2.2.27-li-trino-hotfix
   versions:
   - 2.0.134
   - 2.0.135
@@ -85,4 +85,5 @@ versioning:
   - 2.2.25
   - 2.2.26
   - 2.2.27
-  lastUpdated: 20240212202359
+  - 2.2.27-li-trino-hotfix
+  lastUpdated: 20240213020759

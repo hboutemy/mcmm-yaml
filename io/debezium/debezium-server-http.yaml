@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-server-http
 versioning:
-  latest: 2.6.0.Alpha1
-  release: 2.6.0.Alpha1
+  latest: 2.6.0.Alpha2
+  release: 2.6.0.Alpha2
   versions:
   - 1.9.0.Beta1
   - 1.9.0.CR1
@@ -66,4 +66,5 @@ versioning:
   - 2.5.0.Final
   - 2.5.1.Final
   - 2.6.0.Alpha1
-  lastUpdated: 20240130162129
+  - 2.6.0.Alpha2
+  lastUpdated: 20240213110150

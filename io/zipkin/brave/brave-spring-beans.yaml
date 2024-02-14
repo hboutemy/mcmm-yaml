@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-spring-beans
 versioning:
-  latest: 6.0.0
-  release: 6.0.0
+  latest: 6.0.1
+  release: 6.0.1
   versions:
   - 4.3.0
   - 4.3.1
@@ -130,4 +130,5 @@ versioning:
   - 5.18.0
   - 5.18.1
   - 6.0.0
-  lastUpdated: 20240109003614
+  - 6.0.1
+  lastUpdated: 20240213105401

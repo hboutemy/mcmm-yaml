@@ -3,8 +3,8 @@
 groupId: com.microsoft.signalr
 artifactId: signalr
 versioning:
-  latest: 8.0.1
-  release: 8.0.1
+  latest: 9.0.0-preview.1.24081.5
+  release: 9.0.0-preview.1.24081.5
   versions:
   - 1.0.0
   - 1.0.0-preview3-35501
@@ -119,6 +119,7 @@ versioning:
   - 6.0.24
   - 6.0.25
   - 6.0.26
+  - 6.0.27
   - 7.0.0-rc.1.22427.2
   - 7.0.0-rc.2.22476.2
   - 7.0.0
@@ -143,6 +144,7 @@ versioning:
   - 7.0.13
   - 7.0.14
   - 7.0.15
+  - 7.0.16
   - 8.0.0-rc.1.23421.29
   - 8.0.0-rc.2.23480.2
   - 8.0.0
@@ -154,4 +156,6 @@ versioning:
   - 8.0.0-preview.6.23329.11
   - 8.0.0-preview.7.23375.9
   - 8.0.1
-  lastUpdated: 20240109142035
+  - 8.0.2
+  - 9.0.0-preview.1.24081.5
+  lastUpdated: 20240213143939

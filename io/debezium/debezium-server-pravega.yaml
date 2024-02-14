@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-server-pravega
 versioning:
-  latest: 2.6.0.Alpha1
-  release: 2.6.0.Alpha1
+  latest: 2.6.0.Alpha2
+  release: 2.6.0.Alpha2
   versions:
   - 1.6.0.Beta2
   - 1.6.0.CR1
@@ -88,4 +88,5 @@ versioning:
   - 2.5.0.Final
   - 2.5.1.Final
   - 2.6.0.Alpha1
-  lastUpdated: 20240130162134
+  - 2.6.0.Alpha2
+  lastUpdated: 20240213110154

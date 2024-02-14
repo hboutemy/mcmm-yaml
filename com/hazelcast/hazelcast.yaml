@@ -3,8 +3,8 @@
 groupId: com.hazelcast
 artifactId: hazelcast
 versioning:
-  latest: 5.3.6
-  release: 5.3.6
+  latest: 5.4.0-BETA-2
+  release: 5.4.0-BETA-2
   versions:
   - 1.9.2
   - 1.9.2.1
@@ -242,6 +242,7 @@ versioning:
   - 5.3.4
   - 5.3.5
   - 5.3.6
+  - 5.4.0-BETA-2
   - 1.5
   - 1.5.1
   - 1.5.2
@@ -268,4 +269,4 @@ versioning:
   - 3.4.3
   - 3.4.4
   - 3.5
-  lastUpdated: 20231109133513
+  lastUpdated: 20240213205742
