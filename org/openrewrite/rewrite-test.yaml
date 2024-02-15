@@ -3,8 +3,8 @@
 groupId: org.openrewrite
 artifactId: rewrite-test
 versioning:
-  latest: 8.15.2
-  release: 8.15.2
+  latest: 8.16.0
+  release: 8.16.0
   versions:
   - 2.0.0-rc.10
   - 2.0.0-rc.11
@@ -222,4 +222,5 @@ versioning:
   - 8.15.0
   - 8.15.1
   - 8.15.2
-  lastUpdated: 20240206115124
+  - 8.16.0
+  lastUpdated: 20240214190143

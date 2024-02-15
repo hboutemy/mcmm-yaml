@@ -3,8 +3,8 @@
 groupId: org.apache.jena
 artifactId: jena-fuseki-docker
 versioning:
-  latest: 4.10.0
-  release: 4.10.0
+  latest: 5.0.0-rc1
+  release: 5.0.0-rc1
   versions:
   - 3.17.0
   - 4.0.0
@@ -21,4 +21,5 @@ versioning:
   - 4.8.0
   - 4.9.0
   - 4.10.0
-  lastUpdated: 20231101162505
+  - 5.0.0-rc1
+  lastUpdated: 20240214130224

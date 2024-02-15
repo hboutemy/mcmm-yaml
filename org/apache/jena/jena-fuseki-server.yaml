@@ -3,8 +3,8 @@
 groupId: org.apache.jena
 artifactId: jena-fuseki-server
 versioning:
-  latest: 4.10.0
-  release: 4.10.0
+  latest: 5.0.0-rc1
+  release: 5.0.0-rc1
   versions:
   - 2.0.0
   - 2.3.0
@@ -42,4 +42,5 @@ versioning:
   - 4.8.0
   - 4.9.0
   - 4.10.0
-  lastUpdated: 20231101162544
+  - 5.0.0-rc1
+  lastUpdated: 20240214130317

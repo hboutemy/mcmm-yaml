@@ -3,8 +3,8 @@
 groupId: io.lakefs
 artifactId: api-client
 versioning:
-  latest: 1.9.1
-  release: 1.9.1
+  latest: 1.11.0
+  release: 1.11.0
   versions:
   - 0.40.3-RC.0
   - 0.40.3
@@ -109,4 +109,6 @@ versioning:
   - 1.8.0
   - 1.9.0
   - 1.9.1
-  lastUpdated: 20240122091929
+  - 1.10.0
+  - 1.11.0
+  lastUpdated: 20240214104816
