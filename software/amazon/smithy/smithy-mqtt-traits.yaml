@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.smithy
 artifactId: smithy-mqtt-traits
 versioning:
-  latest: 1.44.0
-  release: 1.44.0
+  latest: 1.45.0
+  release: 1.45.0
   versions:
   - 0.8.0
   - 0.9.0
@@ -97,4 +97,5 @@ versioning:
   - 1.42.0
   - 1.43.0
   - 1.44.0
-  lastUpdated: 20240205175143
+  - 1.45.0
+  lastUpdated: 20240215232112

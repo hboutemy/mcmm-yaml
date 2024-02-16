@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: rancher2
 versioning:
-  latest: 6.0.0
-  release: 6.0.0
+  latest: 6.1.0-alpha.1707980579+9ba2e0fa
+  release: 6.1.0-alpha.1707980579+9ba2e0fa
   versions:
   - v3.9.0-alpha.1657287258+d72a94df
   - 3.9.0-alpha.1658168245+d8bc95ca
@@ -97,4 +97,5 @@ versioning:
   - 5.3.0-alpha.1707893320+8c6949c7
   - 6.0.0-alpha.1707933817+8a646839
   - 6.0.0
-  lastUpdated: 20240214185533
+  - 6.1.0-alpha.1707980579+9ba2e0fa
+  lastUpdated: 20240215072947

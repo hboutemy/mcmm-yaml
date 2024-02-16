@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan.archetypes
 artifactId: store
 versioning:
-  latest: 15.0.0.Dev08
-  release: 15.0.0.Dev08
+  latest: 15.0.0.Dev10
+  release: 15.0.0.Dev10
   versions:
   - 11.0.1.Final
   - 11.0.2.Final
@@ -122,5 +122,7 @@ versioning:
   - 15.0.0.Dev06
   - 15.0.0.Dev07
   - 15.0.0.Dev08
+  - 15.0.0.Dev09
+  - 15.0.0.Dev10
   - 12.0.0.Dev03
-  lastUpdated: 20240201170944
+  lastUpdated: 20240215212732

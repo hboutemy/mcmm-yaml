@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-objectfilter
 versioning:
-  latest: 15.0.0.Dev08
-  release: 15.0.0.Dev08
+  latest: 15.0.0.Dev10
+  release: 15.0.0.Dev10
   versions:
   - 7.0.0.Alpha4
   - 7.0.0.Alpha5
@@ -299,5 +299,7 @@ versioning:
   - 15.0.0.Dev06
   - 15.0.0.Dev07
   - 15.0.0.Dev08
+  - 15.0.0.Dev09
+  - 15.0.0.Dev10
   - 12.0.0.Dev03
-  lastUpdated: 20240201171024
+  lastUpdated: 20240215212801

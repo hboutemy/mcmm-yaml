@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-cachestore-remote
 versioning:
-  latest: 15.0.0.Dev08
-  release: 15.0.0.Dev08
+  latest: 15.0.0.Dev10
+  release: 15.0.0.Dev10
   versions:
   - 5.0.0.FINAL
   - 5.0.1.FINAL
@@ -379,5 +379,7 @@ versioning:
   - 15.0.0.Dev06
   - 15.0.0.Dev07
   - 15.0.0.Dev08
+  - 15.0.0.Dev09
+  - 15.0.0.Dev10
   - 12.0.0.Dev03
-  lastUpdated: 20240201170948
+  lastUpdated: 20240215212736

@@ -3,8 +3,8 @@
 groupId: io.ebean
 artifactId: querybean-generator
 versioning:
-  latest: 13.26.1-jakarta
-  release: 13.26.1-jakarta
+  latest: 14.0.0-javax
+  release: 14.0.0-javax
   versions:
   - 10.1.1
   - 10.1.2
@@ -204,4 +204,6 @@ versioning:
   - 13.26.1
   - 13.26.1-jakarta-rc1
   - 13.26.1-jakarta
-  lastUpdated: 20240210001734
+  - 14.0.0
+  - 14.0.0-javax
+  lastUpdated: 20240215101347

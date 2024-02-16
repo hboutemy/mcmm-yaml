@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-transcoder
 versioning:
-  latest: v1-rev20240124-2.0.0
-  release: v1-rev20240124-2.0.0
+  latest: v1-rev20240207-2.0.0
+  release: v1-rev20240207-2.0.0
   versions:
   - v1beta1-rev20201111-1.30.10
   - v1beta1-rev20201111-1.31.0
@@ -37,4 +37,5 @@ versioning:
   - v1-rev20230712-2.0.0
   - v1-rev20230906-2.0.0
   - v1-rev20240124-2.0.0
-  lastUpdated: 20240201101140
+  - v1-rev20240207-2.0.0
+  lastUpdated: 20240215101629
