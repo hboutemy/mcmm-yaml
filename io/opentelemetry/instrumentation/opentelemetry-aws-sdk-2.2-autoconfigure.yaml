@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.instrumentation
 artifactId: opentelemetry-aws-sdk-2.2-autoconfigure
 versioning:
-  latest: 2.0.0-alpha
-  release: 2.0.0-alpha
+  latest: 2.1.0-alpha
+  release: 2.1.0-alpha
   versions:
   - 1.9.0-alpha
   - 1.9.1-alpha
@@ -44,4 +44,5 @@ versioning:
   - 1.32.0-alpha
   - 1.32.1-alpha
   - 2.0.0-alpha
-  lastUpdated: 20240202162344
+  - 2.1.0-alpha
+  lastUpdated: 20240216053748

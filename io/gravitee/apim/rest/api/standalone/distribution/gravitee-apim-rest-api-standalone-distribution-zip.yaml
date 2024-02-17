@@ -3,8 +3,8 @@
 groupId: io.gravitee.apim.rest.api.standalone.distribution
 artifactId: gravitee-apim-rest-api-standalone-distribution-zip
 versioning:
-  latest: 4.2.2
-  release: 4.2.2
+  latest: 4.2.3
+  release: 4.2.3
   versions:
   - 3.5.19
   - 3.5.20
@@ -176,6 +176,7 @@ versioning:
   - 3.20.26
   - 3.20.27
   - 3.20.28
+  - 3.20.29
   - 4.0.0-alpha.2
   - 4.0.0-alpha.3
   - 4.0.0-alpha.4
@@ -197,6 +198,7 @@ versioning:
   - 4.0.15
   - 4.0.16
   - 4.0.17
+  - 4.0.18
   - 4.1.0
   - 4.1.1
   - 4.1.2
@@ -206,8 +208,10 @@ versioning:
   - 4.1.6
   - 4.1.7
   - 4.1.8
+  - 4.1.9
   - 4.2.0-alpha.2
   - 4.2.0
   - 4.2.1
   - 4.2.2
-  lastUpdated: 20240202153342
+  - 4.2.3
+  lastUpdated: 20240216201304

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-books
 versioning:
-  latest: v1-rev20230203-2.0.0
-  release: v1-rev20230203-2.0.0
+  latest: v1-rev20240214-2.0.0
+  release: v1-rev20240214-2.0.0
   versions:
   - v1-rev21-1.13.2-beta
   - v1-rev21-1.14.1-beta
@@ -360,4 +360,5 @@ versioning:
   - v1-rev20220318-1.32.1
   - v1-rev20220318-2.0.0
   - v1-rev20230203-2.0.0
-  lastUpdated: 20230208090939
+  - v1-rev20240214-2.0.0
+  lastUpdated: 20240216090842

@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-play-ws-2.0
 versioning:
-  latest: 2.0.0-alpha
-  release: 2.0.0-alpha
+  latest: 2.1.0-alpha
+  release: 2.1.0-alpha
   versions:
   - 0.12.0
   - 0.12.1
@@ -73,4 +73,5 @@ versioning:
   - 1.32.0-alpha
   - 1.32.1-alpha
   - 2.0.0-alpha
-  lastUpdated: 20240202163103
+  - 2.1.0-alpha
+  lastUpdated: 20240216054414
