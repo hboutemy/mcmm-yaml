@@ -3,8 +3,8 @@
 groupId: org.apache.druid.extensions
 artifactId: simple-client-sslcontext
 versioning:
-  latest: 28.0.1
-  release: 28.0.1
+  latest: 29.0.0
+  release: 29.0.0
   versions:
   - 0.13.0-incubating
   - 0.14.0-incubating
@@ -35,4 +35,5 @@ versioning:
   - 27.0.0
   - 28.0.0
   - 28.0.1
-  lastUpdated: 20231218055849
+  - 29.0.0
+  lastUpdated: 20240219090918

@@ -3,12 +3,13 @@
 groupId: org.glavo.hmcl
 artifactId: lwjgl3-natives
 versioning:
-  latest: 3.3.1-rc2-linux-mips64el
-  release: 3.3.1-rc2-linux-mips64el
+  latest: 3.3.4-rc1-linux-loongarch64
+  release: 3.3.4-rc1-linux-loongarch64
   versions:
   - 3.3.1-rc1-linux-loongarch64
   - 3.3.1-rc1-linux-loongarch64_ow
   - 3.3.1-rc1-linux-mips64el
   - 3.3.1-rc1-linux-riscv64
   - 3.3.1-rc2-linux-mips64el
-  lastUpdated: 20230823041309
+  - 3.3.4-rc1-linux-loongarch64
+  lastUpdated: 20240219173126

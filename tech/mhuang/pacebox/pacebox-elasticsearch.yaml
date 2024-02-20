@@ -3,8 +3,8 @@
 groupId: tech.mhuang.pacebox
 artifactId: pacebox-elasticsearch
 versioning:
-  latest: 1.0.13-jdk17
-  release: 1.0.13-jdk17
+  latest: 1.0.13-jdk21
+  release: 1.0.13-jdk21
   versions:
   - 1.0.0
   - 1.0.1
@@ -24,4 +24,5 @@ versioning:
   - 1.0.11-jdk17
   - 1.0.12-jdk17
   - 1.0.13-jdk17
-  lastUpdated: 20230901023641
+  - 1.0.13-jdk21
+  lastUpdated: 20240219021259
