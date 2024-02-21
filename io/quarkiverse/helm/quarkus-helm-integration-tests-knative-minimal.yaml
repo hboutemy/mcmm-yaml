@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.helm
 artifactId: quarkus-helm-integration-tests-knative-minimal
 versioning:
-  latest: 1.2.1
-  release: 1.2.1
+  latest: 1.2.2
+  release: 1.2.2
   versions:
   - 0.2.9
   - 0.2.10
@@ -18,4 +18,5 @@ versioning:
   - 1.1.0
   - 1.2.0
   - 1.2.1
-  lastUpdated: 20231117121604
+  - 1.2.2
+  lastUpdated: 20240220144125

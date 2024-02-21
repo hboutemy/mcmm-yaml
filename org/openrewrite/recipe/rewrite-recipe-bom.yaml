@@ -3,8 +3,8 @@
 groupId: org.openrewrite.recipe
 artifactId: rewrite-recipe-bom
 versioning:
-  latest: 2.6.4
-  release: 2.6.4
+  latest: 2.7.1
+  release: 2.7.1
   versions:
   - 1.0.0
   - 1.1.0
@@ -72,4 +72,6 @@ versioning:
   - 2.6.2
   - 2.6.3
   - 2.6.4
-  lastUpdated: 20240206210837
+  - 2.7.0
+  - 2.7.1
+  lastUpdated: 20240220221554

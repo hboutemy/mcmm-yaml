@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.commons
 artifactId: xwiki-commons-legacy-component-default
 versioning:
-  latest: 16.0.0
-  release: 16.0.0
+  latest: 16.1.0-rc-1
+  release: 16.1.0-rc-1
   versions:
   - 4.1-milestone-1
   - 4.1-milestone-2
@@ -444,4 +444,5 @@ versioning:
   - 15.10.6
   - 16.0.0-rc-1
   - 16.0.0
-  lastUpdated: 20240212111421
+  - 16.1.0-rc-1
+  lastUpdated: 20240220120915

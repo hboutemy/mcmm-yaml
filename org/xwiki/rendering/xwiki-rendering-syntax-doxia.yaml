@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.rendering
 artifactId: xwiki-rendering-syntax-doxia
 versioning:
-  latest: 16.0.0
-  release: 16.0.0
+  latest: 16.1.0-rc-1
+  release: 16.1.0-rc-1
   versions:
   - 3.2-milestone-3
   - 3.2-rc-1
@@ -462,4 +462,5 @@ versioning:
   - 15.10.6
   - 16.0.0-rc-1
   - 16.0.0
-  lastUpdated: 20240212112435
+  - 16.1.0-rc-1
+  lastUpdated: 20240220122009
