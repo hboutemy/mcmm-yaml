@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.amqp
 artifactId: spring-rabbit
 versioning:
-  latest: 3.1.1
-  release: 3.1.1
+  latest: 3.1.2
+  release: 3.1.2
   versions:
   - 1.0.0.RELEASE
   - 1.1.0.RELEASE
@@ -168,11 +168,13 @@ versioning:
   - 3.0.8
   - 3.0.9
   - 3.0.10
+  - 3.0.11
   - 3.1.0
   - 3.1.1
+  - 3.1.2
   - 1.3.0.M2
   - 2.2.15.RELEASE
   - 2.2.16.RELEASE
   - 2.3.5
   - 2.3.6
-  lastUpdated: 20231218191538
+  lastUpdated: 20240221121409
