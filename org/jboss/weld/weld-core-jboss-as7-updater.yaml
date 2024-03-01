@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld
 artifactId: weld-core-jboss-as7-updater
 versioning:
-  latest: 6.0.0.Alpha1
-  release: 6.0.0.Alpha1
+  latest: 6.0.0.Beta1
+  release: 6.0.0.Beta1
   versions:
   - 1.1.27.Final
   - 1.1.28.Final
@@ -122,4 +122,5 @@ versioning:
   - 5.1.1.SP2
   - 5.1.2.Final
   - 6.0.0.Alpha1
-  lastUpdated: 20231026090757
+  - 6.0.0.Beta1
+  lastUpdated: 20240226122915

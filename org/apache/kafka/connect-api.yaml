@@ -3,8 +3,8 @@
 groupId: org.apache.kafka
 artifactId: connect-api
 versioning:
-  latest: 3.6.1
-  release: 3.6.1
+  latest: 3.7.0
+  release: 3.7.0
   versions:
   - 0.9.0.0
   - 0.9.0.1
@@ -67,4 +67,5 @@ versioning:
   - 3.5.2
   - 3.6.0
   - 3.6.1
-  lastUpdated: 20231208120603
+  - 3.7.0
+  lastUpdated: 20240226223313
