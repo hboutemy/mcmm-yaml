@@ -3,8 +3,8 @@
 groupId: com.scylladb
 artifactId: scylla-driver-mapping
 versioning:
-  latest: 3.11.5.1
-  release: 3.11.5.1
+  latest: 3.11.5.2
+  release: 3.11.5.2
   versions:
   - 3.7.1-scylla-0
   - 3.7.1-scylla-1
@@ -23,4 +23,5 @@ versioning:
   - 3.11.4.0
   - 3.11.5.0
   - 3.11.5.1
-  lastUpdated: 20240105175910
+  - 3.11.5.2
+  lastUpdated: 20240223183446

@@ -3,8 +3,8 @@
 groupId: com.datastax.spark
 artifactId: spark-cassandra-connector-driver_2.12
 versioning:
-  latest: 3.4.1
-  release: 3.4.1
+  latest: 3.5.0
+  release: 3.5.0
   versions:
   - v3.0.0-alpha2
   - 2.5.0
@@ -20,4 +20,5 @@ versioning:
   - 3.3.0
   - 3.4.0
   - 3.4.1
-  lastUpdated: 20230821091742
+  - 3.5.0
+  lastUpdated: 20240223140341

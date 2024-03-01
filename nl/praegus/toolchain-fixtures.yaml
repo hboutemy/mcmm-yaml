@@ -3,8 +3,8 @@
 groupId: nl.praegus
 artifactId: toolchain-fixtures
 versioning:
-  latest: 1.37-JDK11
-  release: 1.37-JDK11
+  latest: 1.38.1
+  release: 1.38.1
   versions:
   - 1.0
   - 1.1
@@ -48,4 +48,6 @@ versioning:
   - 1.35-JDK11
   - 1.36-JDK11
   - 1.37-JDK11
-  lastUpdated: 20231203203922
+  - 1.38
+  - 1.38.1
+  lastUpdated: 20240223151937
