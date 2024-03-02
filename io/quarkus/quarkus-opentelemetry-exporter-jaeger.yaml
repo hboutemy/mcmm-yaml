@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-opentelemetry-exporter-jaeger
 versioning:
-  latest: 3.8.0
-  release: 3.8.0
+  latest: 3.8.1
+  release: 3.8.1
   versions:
   - 1.13.0.Final
   - 1.13.1.Final
@@ -189,4 +189,5 @@ versioning:
   - 3.7.4
   - 3.8.0.CR1
   - 3.8.0
-  lastUpdated: 20240221113827
+  - 3.8.1
+  lastUpdated: 20240228103118

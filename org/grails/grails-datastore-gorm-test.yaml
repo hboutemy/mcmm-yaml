@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.grails
 artifactId: grails-datastore-gorm-test
 versioning:
-  latest: 8.0.4
-  release: 8.0.4
+  latest: 8.1.0
+  release: 8.1.0
   versions:
   - 1.0.0.M2
   - 1.0.0.M3
@@ -145,4 +145,5 @@ versioning:
   - 8.0.2
   - 8.0.3
   - 8.0.4
-  lastUpdated: 20240111130249
+  - 8.1.0
+  lastUpdated: 20240228115631

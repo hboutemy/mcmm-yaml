@@ -3,8 +3,8 @@
 groupId: org.hibernate.search
 artifactId: hibernate-search-backend-elasticsearch-aws
 versioning:
-  latest: 7.1.0.CR1
-  release: 7.1.0.CR1
+  latest: 7.1.0.Final
+  release: 7.1.0.Final
   versions:
   - 6.0.7.Final
   - 6.0.8.Final
@@ -38,6 +38,7 @@ versioning:
   - 7.1.0.Alpha1
   - 7.1.0.Alpha2
   - 7.1.0.CR1
+  - 7.1.0.Final
   - 6.0.0.Alpha4
   - 6.0.0.Alpha5
   - 6.0.0.Alpha6
@@ -65,4 +66,4 @@ versioning:
   - 6.0.5.Final
   - 6.0.6.Final
   - 6.1.0.Alpha1
-  lastUpdated: 20240212142515
+  lastUpdated: 20240228101300

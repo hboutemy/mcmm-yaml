@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: minio
 versioning:
-  latest: 0.15.2
-  release: 0.15.2
+  latest: 0.15.3-alpha.1709102348+32f05f77
+  release: 0.15.3-alpha.1709102348+32f05f77
   versions:
   - 0.4.2-alpha.1660861611+ba05df91
   - 0.5.0
@@ -137,4 +137,5 @@ versioning:
   - 0.15.2-alpha.1708670229+7272f4a5
   - 0.15.2-alpha.1708726860+097fb4b1
   - 0.15.2
-  lastUpdated: 20240226103557
+  - 0.15.3-alpha.1709102348+32f05f77
+  lastUpdated: 20240228070651

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: codegen-lite-maven-plugin
 versioning:
-  latest: 2.24.10
-  release: 2.24.10
+  latest: 2.24.13
+  release: 2.24.13
   versions:
   - 2.0.0-preview-13
   - 2.1.0
@@ -1221,4 +1221,5 @@ versioning:
   - 2.24.8
   - 2.24.9
   - 2.24.10
-  lastUpdated: 20240223221721
+  - 2.24.13
+  lastUpdated: 20240228212900
