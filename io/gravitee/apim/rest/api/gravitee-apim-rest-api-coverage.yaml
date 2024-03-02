@@ -3,8 +3,8 @@
 groupId: io.gravitee.apim.rest.api
 artifactId: gravitee-apim-rest-api-coverage
 versioning:
-  latest: 4.2.3
-  release: 4.2.3
+  latest: 4.2.4
+  release: 4.2.4
   versions:
   - 3.10.15
   - 3.10.16
@@ -120,6 +120,7 @@ versioning:
   - 3.20.27
   - 3.20.28
   - 3.20.29
+  - 3.20.30
   - 4.0.0-alpha.2
   - 4.0.0-alpha.3
   - 4.0.0-alpha.4
@@ -142,6 +143,7 @@ versioning:
   - 4.0.16
   - 4.0.17
   - 4.0.18
+  - 4.0.19
   - 4.1.0
   - 4.1.1
   - 4.1.2
@@ -152,9 +154,11 @@ versioning:
   - 4.1.7
   - 4.1.8
   - 4.1.9
+  - 4.1.10
   - 4.2.0-alpha.2
   - 4.2.0
   - 4.2.1
   - 4.2.2
   - 4.2.3
-  lastUpdated: 20240216201241
+  - 4.2.4
+  lastUpdated: 20240301144327
