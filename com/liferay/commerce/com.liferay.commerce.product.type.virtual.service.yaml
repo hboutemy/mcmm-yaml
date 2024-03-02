@@ -3,8 +3,8 @@
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.product.type.virtual.service
 versioning:
-  latest: 4.0.45
-  release: 4.0.45
+  latest: 4.0.46
+  release: 4.0.46
   versions:
   - 1.0.0
   - 1.0.1
@@ -62,6 +62,7 @@ versioning:
   - 1.0.53
   - 1.0.54
   - 1.0.55
+  - 1.0.56
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -77,6 +78,7 @@ versioning:
   - 2.0.12
   - 2.0.13
   - 2.0.14
+  - 2.0.15
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -104,6 +106,7 @@ versioning:
   - 3.0.24
   - 3.0.25
   - 3.0.26
+  - 3.0.27
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -147,10 +150,8 @@ versioning:
   - 4.0.40
   - 4.0.41
   - 4.0.42
-  - 3.0.27
-  - 1.0.56
-  - 2.0.15
   - 4.0.43
   - 4.0.44
   - 4.0.45
-  lastUpdated: 20240125041154
+  - 4.0.46
+  lastUpdated: 20240229154620

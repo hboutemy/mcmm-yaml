@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.blogs.reading.time
 versioning:
@@ -36,6 +37,7 @@ versioning:
   - 2.0.20
   - 2.0.21
   - 2.0.22
+  - 2.0.23
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -63,6 +65,8 @@ versioning:
   - 3.0.24
   - 3.0.25
   - 3.0.26
+  - 3.0.27
+  - 3.0.28
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -77,7 +81,6 @@ versioning:
   - 4.0.11
   - 4.0.12
   - 4.0.13
-  - 3.0.27
   - 4.0.14
   - 4.0.15
-  lastUpdated: 20240124225435
+  lastUpdated: 20240228113711

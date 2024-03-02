@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: jakarta.enterprise
 artifactId: jakarta.enterprise.cdi-api
 versioning:
-  latest: 4.1.0-M1
-  release: 4.1.0-M1
+  latest: 4.1.0.RC1
+  release: 4.1.0.RC1
   versions:
   - 2.0.1
   - 2.0.2
@@ -31,4 +31,5 @@ versioning:
   - 4.1.0.Beta1
   - 4.1.0.Beta2
   - 4.1.0-M1
-  lastUpdated: 20240226232010
+  - 4.1.0.RC1
+  lastUpdated: 20240229234822

@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.osgi.service.tracker.collections
 versioning:
-  latest: 2.0.17
-  release: 2.0.17
+  latest: 8.0.1
+  release: 8.0.1
   versions:
   - 1.0.1
   - 2.0.0
@@ -24,6 +25,7 @@ versioning:
   - 2.0.14
   - 2.0.15
   - 2.0.16
+  - 2.0.17
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -42,6 +44,7 @@ versioning:
   - 3.1.0
   - 3.1.1
   - 3.1.2
+  - 3.1.3
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -77,6 +80,4 @@ versioning:
   - 7.2.0
   - 8.0.0
   - 8.0.1
-  - 3.1.3
-  - 2.0.17
-  lastUpdated: 20231206150711
+  lastUpdated: 20240131111006

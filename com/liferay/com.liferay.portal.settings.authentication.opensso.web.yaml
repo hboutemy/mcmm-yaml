@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.settings.authentication.opensso.web
 versioning:
-  latest: 1.0.26
-  release: 1.0.26
+  latest: 5.0.17
+  release: 5.0.17
   versions:
   - 1.0.0
   - 1.0.1
@@ -32,6 +33,7 @@ versioning:
   - 1.0.23
   - 1.0.24
   - 1.0.25
+  - 1.0.26
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -94,5 +96,4 @@ versioning:
   - 5.0.15
   - 5.0.16
   - 5.0.17
-  - 1.0.26
-  lastUpdated: 20231206234334
+  lastUpdated: 20240131103824

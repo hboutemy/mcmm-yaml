@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.startup.monitor
 versioning:
-  latest: 1.0.9
-  release: 1.0.9
+  latest: 5.0.9
+  release: 5.0.9
   versions:
   - 1.0.0
   - 1.0.1
@@ -15,6 +16,7 @@ versioning:
   - 1.0.6
   - 1.0.7
   - 1.0.8
+  - 1.0.9
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -54,5 +56,4 @@ versioning:
   - 5.0.7
   - 5.0.8
   - 5.0.9
-  - 1.0.9
-  lastUpdated: 20231206155557
+  lastUpdated: 20240131093918

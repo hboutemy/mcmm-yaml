@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.layout.type.controller.node
 versioning:
-  latest: 5.0.31
-  release: 5.0.31
+  latest: 6.0.17
+  release: 6.0.17
   versions:
   - 1.0.0
   - 2.0.0
@@ -37,6 +38,7 @@ versioning:
   - 2.0.27
   - 2.0.28
   - 2.0.29
+  - 2.0.30
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -59,6 +61,7 @@ versioning:
   - 3.0.19
   - 3.0.20
   - 3.0.21
+  - 3.0.22
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -84,6 +87,7 @@ versioning:
   - 4.0.22
   - 4.0.23
   - 4.0.24
+  - 4.0.25
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -115,6 +119,7 @@ versioning:
   - 5.0.28
   - 5.0.29
   - 5.0.30
+  - 5.0.31
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -133,8 +138,4 @@ versioning:
   - 6.0.15
   - 6.0.16
   - 6.0.17
-  - 2.0.30
-  - 3.0.22
-  - 4.0.25
-  - 5.0.31
-  lastUpdated: 20231207183343
+  lastUpdated: 20240131111754

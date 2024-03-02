@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.lcs.client.web
 versioning:
-  latest: 1.0.61
-  release: 1.0.61
+  latest: 1.0.62
+  release: 1.0.62
   versions:
   - 1.0.44
   - 1.0.45
@@ -25,4 +24,5 @@ versioning:
   - 1.0.59
   - 1.0.60
   - 1.0.61
-  lastUpdated: 20230807220908
+  - 1.0.62
+  lastUpdated: 20240227141128

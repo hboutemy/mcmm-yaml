@@ -3,8 +3,8 @@
 groupId: com.liferay
 artifactId: com.liferay.layout.api
 versioning:
-  latest: 43.0.0
-  release: 43.0.0
+  latest: 43.0.1
+  release: 43.0.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -84,6 +84,7 @@ versioning:
   - 6.19.0
   - 6.20.0
   - 6.21.0
+  - 6.21.1
   - 7.0.0
   - 7.0.1
   - 7.1.0
@@ -162,7 +163,6 @@ versioning:
   - 35.0.0
   - 35.0.1
   - 35.1.0
-  - 6.21.1
   - 36.0.0
   - 36.1.0
   - 37.0.0
@@ -174,4 +174,5 @@ versioning:
   - 42.0.0
   - 42.1.0
   - 43.0.0
-  lastUpdated: 20240107091016
+  - 43.0.1
+  lastUpdated: 20240229144232

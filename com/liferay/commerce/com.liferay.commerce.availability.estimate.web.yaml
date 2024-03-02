@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.availability.estimate.web
 versioning:
@@ -36,6 +37,7 @@ versioning:
   - 1.0.27
   - 1.0.28
   - 1.0.29
+  - 1.0.30
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -52,6 +54,8 @@ versioning:
   - 3.0.8
   - 3.0.9
   - 3.0.10
+  - 3.0.11
+  - 3.0.12
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -88,4 +92,4 @@ versioning:
   - 4.0.33
   - 4.0.34
   - 4.0.35
-  lastUpdated: 20231118142102
+  lastUpdated: 20240227082723

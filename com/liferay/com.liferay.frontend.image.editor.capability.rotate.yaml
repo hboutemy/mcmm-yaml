@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.image.editor.capability.rotate
 versioning:
-  latest: 1.0.35
-  release: 1.0.35
+  latest: 4.0.4
+  release: 4.0.4
   versions:
   - 1.0.0
   - 1.0.1
@@ -41,6 +42,7 @@ versioning:
   - 1.0.32
   - 1.0.33
   - 1.0.34
+  - 1.0.35
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -95,5 +97,4 @@ versioning:
   - 4.0.2
   - 4.0.3
   - 4.0.4
-  - 1.0.35
-  lastUpdated: 20231206163050
+  lastUpdated: 20240131115004

@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.lock.api
 versioning:
-  latest: 2.2.1
-  release: 2.2.1
+  latest: 7.3.1
+  release: 7.3.1
   versions:
   - 1.0.0
   - 2.0.0
@@ -35,6 +36,7 @@ versioning:
   - 2.1.23
   - 2.1.24
   - 2.2.0
+  - 2.2.1
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -107,5 +109,4 @@ versioning:
   - 7.2.0
   - 7.3.0
   - 7.3.1
-  - 2.2.1
-  lastUpdated: 20231206164037
+  lastUpdated: 20240131105927

@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.fragment.entry.processor.drop.zone
 versioning:
@@ -33,6 +34,9 @@ versioning:
   - 1.0.24
   - 1.0.25
   - 1.0.26
+  - 1.0.27
+  - 1.0.28
+  - 1.0.29
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -62,11 +66,9 @@ versioning:
   - 2.0.27
   - 2.0.28
   - 2.0.29
-  - 1.0.27
   - 2.0.30
-  - 1.0.28
   - 2.0.31
   - 2.0.32
   - 2.0.33
   - 2.0.8
-  lastUpdated: 20240107093150
+  lastUpdated: 20240223102404

@@ -1,15 +1,17 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.remote.soap.extender.api
 versioning:
-  latest: 1.0.4
-  release: 1.0.4
+  latest: 5.0.6
+  release: 5.0.6
   versions:
   - 1.0.0
   - 1.0.1
   - 1.0.2
   - 1.0.3
+  - 1.0.4
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -33,5 +35,4 @@ versioning:
   - 5.0.4
   - 5.0.5
   - 5.0.6
-  - 1.0.4
-  lastUpdated: 20231206154635
+  lastUpdated: 20240131110010

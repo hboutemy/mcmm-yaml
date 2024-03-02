@@ -3,8 +3,8 @@
 groupId: com.liferay
 artifactId: com.liferay.frontend.js.aui.web
 versioning:
-  latest: 5.0.85
-  release: 5.0.85
+  latest: 5.0.88
+  release: 5.0.88
   versions:
   - 1.0.0
   - 1.0.1
@@ -250,6 +250,7 @@ versioning:
   - 3.0.84
   - 3.0.85
   - 3.0.86
+  - 3.0.87
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -316,6 +317,7 @@ versioning:
   - 4.0.63
   - 4.0.64
   - 4.0.65
+  - 4.0.66
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -395,8 +397,6 @@ versioning:
   - 5.0.76
   - 5.0.77
   - 5.0.78
-  - 4.0.66
-  - 3.0.87
   - 5.0.79
   - 5.0.80
   - 5.0.81
@@ -404,4 +404,7 @@ versioning:
   - 5.0.83
   - 5.0.84
   - 5.0.85
-  lastUpdated: 20240124145530
+  - 5.0.86
+  - 5.0.87
+  - 5.0.88
+  lastUpdated: 20240229133846

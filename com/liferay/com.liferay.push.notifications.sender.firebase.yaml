@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.push.notifications.sender.firebase
 versioning:
-  latest: 3.0.33
-  release: 3.0.33
+  latest: 5.0.17
+  release: 5.0.17
   versions:
   - 1.0.0
   - 1.0.1
@@ -36,6 +37,7 @@ versioning:
   - 1.0.27
   - 1.0.28
   - 1.0.29
+  - 1.0.30
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -67,6 +69,7 @@ versioning:
   - 2.0.28
   - 2.0.29
   - 2.0.30
+  - 2.0.31
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -100,6 +103,7 @@ versioning:
   - 3.0.30
   - 3.0.31
   - 3.0.32
+  - 3.0.33
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -128,6 +132,7 @@ versioning:
   - 4.0.25
   - 4.0.26
   - 4.0.27
+  - 4.0.28
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -145,9 +150,5 @@ versioning:
   - 5.0.15
   - 5.0.16
   - 5.0.17
-  - 4.0.28
-  - 1.0.30
-  - 2.0.31
-  - 3.0.33
   - 5.0.7
-  lastUpdated: 20231207130609
+  lastUpdated: 20240131110140

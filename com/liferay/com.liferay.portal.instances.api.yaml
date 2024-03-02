@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.instances.api
 versioning:
-  latest: 1.1.1
-  release: 1.1.1
+  latest: 9.1.1
+  release: 9.1.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -24,6 +25,7 @@ versioning:
   - 1.0.15
   - 1.0.16
   - 1.1.0
+  - 1.1.1
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -69,6 +71,7 @@ versioning:
   - 4.3.1
   - 4.4.0
   - 4.4.1
+  - 4.5.0
   - 5.0.0
   - 6.0.0
   - 6.1.0
@@ -84,5 +87,4 @@ versioning:
   - 9.0.0
   - 9.1.0
   - 9.1.1
-  - 1.1.1
-  lastUpdated: 20231206163942
+  lastUpdated: 20240131084139

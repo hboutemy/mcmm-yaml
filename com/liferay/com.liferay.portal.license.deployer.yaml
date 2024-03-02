@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.license.deployer
 versioning:
-  latest: 1.0.17
-  release: 1.0.17
+  latest: 5.0.10
+  release: 5.0.10
   versions:
   - 1.0.0
   - 1.0.1
@@ -23,6 +24,7 @@ versioning:
   - 1.0.14
   - 1.0.15
   - 1.0.16
+  - 1.0.17
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -101,5 +103,4 @@ versioning:
   - 5.0.8
   - 5.0.9
   - 5.0.10
-  - 1.0.17
-  lastUpdated: 20231206154357
+  lastUpdated: 20240131102035

@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.network.utilities.web
 versioning:
-  latest: 1.0.36
-  release: 1.0.36
+  latest: 5.0.16
+  release: 5.0.16
   versions:
   - 1.0.0
   - 1.0.1
@@ -42,6 +43,7 @@ versioning:
   - 1.0.33
   - 1.0.34
   - 1.0.35
+  - 1.0.36
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -130,5 +132,4 @@ versioning:
   - 5.0.14
   - 5.0.15
   - 5.0.16
-  - 1.0.36
-  lastUpdated: 20231206181701
+  lastUpdated: 20240131104705

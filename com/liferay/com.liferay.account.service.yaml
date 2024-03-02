@@ -3,8 +3,8 @@
 groupId: com.liferay
 artifactId: com.liferay.account.service
 versioning:
-  latest: 2.0.118
-  release: 2.0.118
+  latest: 2.0.120
+  release: 2.0.120
   versions:
   - 1.0.0
   - 1.0.1
@@ -64,6 +64,9 @@ versioning:
   - 1.0.55
   - 1.0.56
   - 1.0.57
+  - 1.0.58
+  - 1.0.59
+  - 1.0.60
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -172,10 +175,8 @@ versioning:
   - 2.0.106
   - 2.0.107
   - 2.0.108
-  - 1.0.58
   - 2.0.109
   - 2.0.110
-  - 1.0.59
   - 2.0.111
   - 2.0.112
   - 2.0.113
@@ -184,4 +185,6 @@ versioning:
   - 2.0.116
   - 2.0.117
   - 2.0.118
-  lastUpdated: 20240125000730
+  - 2.0.119
+  - 2.0.120
+  lastUpdated: 20240229142426

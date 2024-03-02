@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.dynamic.data.mapping.type.radio
 versioning:
-  latest: 2.0.44
-  release: 2.0.44
+  latest: 3.0.2
+  release: 3.0.2
   versions:
   - 1.0.0
   - 2.0.0
@@ -51,8 +52,9 @@ versioning:
   - 2.0.41
   - 2.0.42
   - 2.0.43
+  - 2.0.44
+  - 2.0.45
   - 3.0.0
   - 3.0.1
   - 3.0.2
-  - 2.0.44
-  lastUpdated: 20231206175451
+  lastUpdated: 20240228115431

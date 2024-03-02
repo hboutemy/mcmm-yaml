@@ -3,8 +3,8 @@
 groupId: com.liferay.commerce
 artifactId: com.liferay.headless.commerce.admin.catalog.api
 versioning:
-  latest: 35.5.0
-  release: 35.5.0
+  latest: 35.6.0
+  release: 35.6.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -143,13 +143,16 @@ versioning:
   - 27.0.0
   - 27.1.0
   - 27.2.0
+  - 27.2.1
   - 28.0.0
   - 28.1.0
   - 28.2.0
+  - 28.2.1
   - 29.0.0
   - 29.1.0
   - 29.1.1
   - 29.2.0
+  - 29.2.1
   - 30.0.0
   - 30.1.0
   - 31.0.0
@@ -172,4 +175,6 @@ versioning:
   - 35.4.0
   - 35.4.1
   - 35.5.0
-  lastUpdated: 20240124154120
+  - 35.5.1
+  - 35.6.0
+  lastUpdated: 20240229140314

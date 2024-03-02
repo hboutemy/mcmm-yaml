@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.js.jquery.web
 versioning:
@@ -51,6 +52,7 @@ versioning:
   - 1.0.42
   - 1.0.43
   - 1.0.44
+  - 1.0.45
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -83,6 +85,8 @@ versioning:
   - 2.0.29
   - 2.0.30
   - 2.0.31
+  - 2.0.32
+  - 2.0.33
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -106,9 +110,6 @@ versioning:
   - 3.0.20
   - 3.0.21
   - 3.0.22
-  - 2.0.32
-  - 2.0.33
   - 3.0.23
-  - 1.0.45
   - 3.0.24
-  lastUpdated: 20240107071545
+  lastUpdated: 20240131114435

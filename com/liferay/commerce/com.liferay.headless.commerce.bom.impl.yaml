@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.headless.commerce.bom.impl
 versioning:
-  latest: 3.0.31
-  release: 3.0.31
+  latest: 5.0.3
+  release: 5.0.3
   versions:
   - 2.0.0
   - 2.0.29
@@ -30,6 +31,9 @@ versioning:
   - 2.0.49
   - 2.0.50
   - 2.0.51
+  - 2.0.52
+  - 2.0.53
+  - 2.0.54
   - 3.0.2
   - 3.0.3
   - 3.0.4
@@ -58,6 +62,9 @@ versioning:
   - 3.0.27
   - 3.0.28
   - 3.0.29
+  - 3.0.30
+  - 3.0.31
+  - 3.0.32
   - 4.0.9
   - 4.0.10
   - 4.0.11
@@ -91,14 +98,11 @@ versioning:
   - 4.0.39
   - 4.0.40
   - 4.0.41
+  - 4.0.42
+  - 4.0.43
+  - 4.0.44
   - 5.0.0
   - 5.0.1
   - 5.0.2
   - 5.0.3
-  - 2.0.52
-  - 3.0.30
-  - 4.0.42
-  - 4.0.43
-  - 2.0.53
-  - 3.0.31
-  lastUpdated: 20231207162820
+  lastUpdated: 20240228081429

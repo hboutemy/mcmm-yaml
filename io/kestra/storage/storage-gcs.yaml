@@ -3,8 +3,8 @@
 groupId: io.kestra.storage
 artifactId: storage-gcs
 versioning:
-  latest: 0.14.0
-  release: 0.14.0
+  latest: 0.15.0
+  release: 0.15.0
   versions:
   - 0.2.0
   - 0.2.2
@@ -23,4 +23,5 @@ versioning:
   - 0.13.1
   - 0.13.2
   - 0.14.0
-  lastUpdated: 20240120202353
+  - 0.15.0
+  lastUpdated: 20240229160009
