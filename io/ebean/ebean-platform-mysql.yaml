@@ -3,8 +3,8 @@
 groupId: io.ebean
 artifactId: ebean-platform-mysql
 versioning:
-  latest: 15.0.0-RC
-  release: 15.0.0-RC
+  latest: 15.0.1
+  release: 15.0.1
   versions:
   - 13.0.0
   - 13.1.0
@@ -101,5 +101,8 @@ versioning:
   - 13.26.1-jakarta
   - 14.0.0
   - 14.0.0-javax
+  - 14.0.1
+  - 14.0.1-javax
   - 15.0.0-RC
-  lastUpdated: 20240220082319
+  - 15.0.1
+  lastUpdated: 20240303081955
