@@ -3,8 +3,8 @@
 groupId: org.apache.felix
 artifactId: org.apache.felix.http.jetty
 versioning:
-  latest: 5.1.8
-  release: 5.1.8
+  latest: 5.1.10
+  release: 5.1.10
   versions:
   - 1.0.0
   - 1.0.1
@@ -60,6 +60,7 @@ versioning:
   - 4.2.20
   - 4.2.22
   - 4.2.24
+  - 4.2.26
   - 5.0.0-RC1
   - 5.0.0-RC2
   - 5.0.0
@@ -70,4 +71,5 @@ versioning:
   - 5.1.4
   - 5.1.6
   - 5.1.8
-  lastUpdated: 20240126063706
+  - 5.1.10
+  lastUpdated: 20240304063135
