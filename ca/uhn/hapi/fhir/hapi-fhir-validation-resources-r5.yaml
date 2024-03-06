@@ -3,8 +3,8 @@
 groupId: ca.uhn.hapi.fhir
 artifactId: hapi-fhir-validation-resources-r5
 versioning:
-  latest: 7.0.0
-  release: 7.0.0
+  latest: 7.0.1
+  release: 7.0.1
   versions:
   - 4.0.0
   - 4.0.1
@@ -77,6 +77,7 @@ versioning:
   - 6.8.3
   - 6.8.4
   - 6.8.5
+  - 6.8.7
   - 6.10.0
   - 6.10.1
   - 6.10.2
@@ -84,4 +85,5 @@ versioning:
   - 6.10.4
   - 6.10.5
   - 7.0.0
-  lastUpdated: 20240223232340
+  - 7.0.1
+  lastUpdated: 20240305055740

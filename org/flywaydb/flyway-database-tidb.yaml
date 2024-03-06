@@ -3,8 +3,8 @@
 groupId: org.flywaydb
 artifactId: flyway-database-tidb
 versioning:
-  latest: 10.7.2
-  release: 10.7.2
+  latest: 10.8.0
+  release: 10.8.0
   versions:
   - 10.0.0
   - 10.0.1
@@ -16,4 +16,5 @@ versioning:
   - 10.6.0
   - 10.7.0
   - 10.7.2
-  lastUpdated: 20240208115950
+  - 10.8.0
+  lastUpdated: 20240305142924

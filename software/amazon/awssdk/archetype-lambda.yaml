@@ -3,8 +3,8 @@
 groupId: software.amazon.awssdk
 artifactId: archetype-lambda
 versioning:
-  latest: 2.25.2
-  release: 2.25.2
+  latest: 2.25.3
+  release: 2.25.3
   versions:
   - 2.11.4
   - 2.11.5
@@ -944,4 +944,5 @@ versioning:
   - 2.25.0
   - 2.25.1
   - 2.25.2
-  lastUpdated: 20240304212428
+  - 2.25.3
+  lastUpdated: 20240305212753
