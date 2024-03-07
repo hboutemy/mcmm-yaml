@@ -3,8 +3,8 @@
 groupId: com.microsoft.azure.kusto
 artifactId: kusto-data
 versioning:
-  latest: 5.0.4
-  release: 5.0.4
+  latest: 5.0.5
+  release: 5.0.5
   versions:
   - ${revision}
   - 1.0.0-BETA-02
@@ -57,4 +57,5 @@ versioning:
   - 5.0.2
   - 5.0.3
   - 5.0.4
-  lastUpdated: 20240123115435
+  - 5.0.5
+  lastUpdated: 20240306135726

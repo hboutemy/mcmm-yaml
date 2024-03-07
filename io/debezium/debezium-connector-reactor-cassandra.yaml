@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-connector-reactor-cassandra
 versioning:
-  latest: 2.6.0.Alpha2
-  release: 2.6.0.Alpha2
+  latest: 2.6.0.Beta1
+  release: 2.6.0.Beta1
   versions:
   - 1.9.0.CR1
   - 1.9.0.Final
@@ -66,4 +66,5 @@ versioning:
   - 2.5.1.Final
   - 2.6.0.Alpha1
   - 2.6.0.Alpha2
-  lastUpdated: 20240213110249
+  - 2.6.0.Beta1
+  lastUpdated: 20240306091013
