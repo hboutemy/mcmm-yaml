@@ -3,8 +3,8 @@
 groupId: com.revenuecat.purchases
 artifactId: purchases-hybrid-common
 versioning:
-  latest: 9.8.0
-  release: 9.8.0
+  latest: 10.0.0
+  release: 10.0.0
   versions:
   - AMAZON.RC1
   - 1.1.1
@@ -138,6 +138,7 @@ versioning:
   - 6.2.0
   - 6.3.0
   - 6.3.1
+  - 6.3.2
   - 7.0.0
   - 7.1.0
   - 7.1.1
@@ -183,4 +184,6 @@ versioning:
   - 9.7.1
   - 9.7.2
   - 9.8.0
-  lastUpdated: 20240223095636
+  - 9.9.0
+  - 10.0.0
+  lastUpdated: 20240307183526

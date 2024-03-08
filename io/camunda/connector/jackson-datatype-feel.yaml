@@ -3,8 +3,8 @@
 groupId: io.camunda.connector
 artifactId: jackson-datatype-feel
 versioning:
-  latest: 8.5.0-alpha1
-  release: 8.5.0-alpha1
+  latest: 8.5.0-alpha2
+  release: 8.5.0-alpha2
   versions:
   - 0.22.0-alpha2
   - 0.22.0
@@ -19,6 +19,7 @@ versioning:
   - 8.3.5
   - 8.3.6
   - 8.3.7
+  - 8.3.8
   - 8.4.0-alpha1
   - 8.4.0-alpha2
   - 8.4.0
@@ -26,5 +27,7 @@ versioning:
   - 8.4.2
   - 8.4.3
   - 8.4.4
+  - 8.4.5
   - 8.5.0-alpha1
-  lastUpdated: 20240209100049
+  - 8.5.0-alpha2
+  lastUpdated: 20240307120649
