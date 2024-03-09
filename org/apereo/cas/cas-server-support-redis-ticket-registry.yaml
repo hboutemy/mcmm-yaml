@@ -3,8 +3,8 @@
 groupId: org.apereo.cas
 artifactId: cas-server-support-redis-ticket-registry
 versioning:
-  latest: 7.1.0-RC1
-  release: 7.1.0-RC1
+  latest: 7.1.0-RC2
+  release: 7.1.0-RC2
   versions:
   - v6.4.0-RC5
   - v6.4.0-RC6
@@ -194,4 +194,5 @@ versioning:
   - 7.0.1
   - 7.0.2
   - 7.1.0-RC1
-  lastUpdated: 20240301135937
+  - 7.1.0-RC2
+  lastUpdated: 20240308120331

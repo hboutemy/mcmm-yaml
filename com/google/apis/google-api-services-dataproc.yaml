@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-dataproc
 versioning:
-  latest: v1-rev20240222-2.0.0
-  release: v1-rev20240222-2.0.0
+  latest: v1-rev20240303-2.0.0
+  release: v1-rev20240303-2.0.0
   versions:
   - v1alpha1-rev1-1.18.0-rc
   - v1alpha1-rev1-1.19.1
@@ -1073,4 +1073,5 @@ versioning:
   - v1-rev20240103-2.0.0
   - v1-rev20240209-2.0.0
   - v1-rev20240222-2.0.0
-  lastUpdated: 20240229092938
+  - v1-rev20240303-2.0.0
+  lastUpdated: 20240308093958
