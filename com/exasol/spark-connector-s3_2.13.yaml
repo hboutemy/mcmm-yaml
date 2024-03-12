@@ -3,8 +3,8 @@
 groupId: com.exasol
 artifactId: spark-connector-s3_2.13
 versioning:
-  latest: 2.1.5-spark-3.4.2
-  release: 2.1.5-spark-3.4.2
+  latest: 2.1.6-spark-3.5.1
+  release: 2.1.6-spark-3.5.1
   versions:
   - 2.0.0-spark-3.4.1
   - 2.1.0-spark-3.4.1
@@ -13,4 +13,6 @@ versioning:
   - 2.1.3-spark-3.4.1
   - 2.1.4-spark-3.4.1
   - 2.1.5-spark-3.4.2
-  lastUpdated: 20240119071058
+  - 2.1.6-spark-3.4.2
+  - 2.1.6-spark-3.5.1
+  lastUpdated: 20240311133104

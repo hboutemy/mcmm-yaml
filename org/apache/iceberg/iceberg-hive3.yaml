@@ -3,8 +3,8 @@
 groupId: org.apache.iceberg
 artifactId: iceberg-hive3
 versioning:
-  latest: 1.4.3
-  release: 1.4.3
+  latest: 1.5.0
+  release: 1.5.0
   versions:
   - 0.10.0
   - 0.11.0
@@ -26,4 +26,5 @@ versioning:
   - 1.4.1
   - 1.4.2
   - 1.4.3
-  lastUpdated: 20231227171655
+  - 1.5.0
+  lastUpdated: 20240311085622

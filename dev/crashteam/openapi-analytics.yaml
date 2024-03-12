@@ -3,8 +3,8 @@
 groupId: dev.crashteam
 artifactId: openapi-analytics
 versioning:
-  latest: 1.10-25552e3-server
-  release: 1.10-25552e3-server
+  latest: 1.11-92ed929-server
+  release: 1.11-92ed929-server
   versions:
   - 1.2-2b531ba-client
   - 1.2-2b531ba-server
@@ -22,4 +22,6 @@ versioning:
   - 1.9-14463e4-server
   - 1.10-25552e3-client
   - 1.10-25552e3-server
-  lastUpdated: 20240304115910
+  - 1.11-92ed929-client
+  - 1.11-92ed929-server
+  lastUpdated: 20240311212213
