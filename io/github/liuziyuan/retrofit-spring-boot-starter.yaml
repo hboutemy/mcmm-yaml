@@ -3,13 +3,10 @@
 groupId: io.github.liuziyuan
 artifactId: retrofit-spring-boot-starter
 versioning:
-  latest: 1.3.0
-  release: 1.3.0
+  latest: 1.3.0-jdk17
+  release: 1.3.0-jdk17
   versions:
-  - 1.1.0
-  - 1.2.0
-  - 1.2.1
-  - 1.3.0
+  - 1.3.0-jdk17
   - 0.0.1
   - 0.0.10
   - 0.0.11
@@ -32,4 +29,8 @@ versioning:
   - 0.0.8
   - 0.0.9
   - 1.0.0
-  lastUpdated: 20240311092924
+  - 1.1.0
+  - 1.2.0
+  - 1.2.1
+  - 1.3.0
+  lastUpdated: 20240312074213

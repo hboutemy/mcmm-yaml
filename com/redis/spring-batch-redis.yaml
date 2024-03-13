@@ -3,8 +3,8 @@
 groupId: com.redis
 artifactId: spring-batch-redis
 versioning:
-  latest: 4.0.0
-  release: 4.0.0
+  latest: 4.0.2
+  release: 4.0.2
   versions:
   - 2.13.0
   - 2.16.1
@@ -85,4 +85,6 @@ versioning:
   - 3.7.4
   - 3.7.5
   - 4.0.0
-  lastUpdated: 20240311154855
+  - 4.0.1
+  - 4.0.2
+  lastUpdated: 20240312161621
