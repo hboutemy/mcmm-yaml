@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-mongodb-panache-kotlin-deployment
 versioning:
-  latest: 3.8.2
-  release: 3.8.2
+  latest: 3.9.0.CR1
+  release: 3.9.0.CR1
   versions:
   - 1.8.0.CR1
   - 1.8.0.Final
@@ -223,4 +223,5 @@ versioning:
   - 3.8.0
   - 3.8.1
   - 3.8.2
-  lastUpdated: 20240307114957
+  - 3.9.0.CR1
+  lastUpdated: 20240313112723

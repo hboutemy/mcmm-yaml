@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-smallrye-reactive-messaging-pulsar
 versioning:
-  latest: 3.8.2
-  release: 3.8.2
+  latest: 3.9.0.CR1
+  release: 3.9.0.CR1
   versions:
   - 3.3.0.CR1
   - 3.3.0
@@ -42,4 +42,5 @@ versioning:
   - 3.8.0
   - 3.8.1
   - 3.8.2
-  lastUpdated: 20240307115203
+  - 3.9.0.CR1
+  lastUpdated: 20240313112929

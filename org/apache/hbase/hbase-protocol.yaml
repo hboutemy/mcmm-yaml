@@ -3,8 +3,8 @@
 groupId: org.apache.hbase
 artifactId: hbase-protocol
 versioning:
-  latest: 2.5.7-hadoop3
-  release: 2.5.7-hadoop3
+  latest: 2.5.8-hadoop3
+  release: 2.5.8-hadoop3
   versions:
   - 0.95.0
   - 0.95.1-hadoop1
@@ -213,4 +213,6 @@ versioning:
   - 2.5.6-hadoop3
   - 2.5.7
   - 2.5.7-hadoop3
-  lastUpdated: 20231224150052
+  - 2.5.8
+  - 2.5.8-hadoop3
+  lastUpdated: 20240313214814

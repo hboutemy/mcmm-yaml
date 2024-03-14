@@ -3,8 +3,8 @@
 groupId: io.kubernetes
 artifactId: e2e-tests
 versioning:
-  latest: 20.0.0-legacy
-  release: 20.0.0-legacy
+  latest: 20.0.1
+  release: 20.0.1
   versions:
   - 10.0.0
   - 10.0.1
@@ -37,4 +37,5 @@ versioning:
   - 19.0.0
   - 20.0.0
   - 20.0.0-legacy
-  lastUpdated: 20240210033757
+  - 20.0.1
+  lastUpdated: 20240313165356

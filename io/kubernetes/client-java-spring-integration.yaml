@@ -3,8 +3,8 @@
 groupId: io.kubernetes
 artifactId: client-java-spring-integration
 versioning:
-  latest: 20.0.0-legacy
-  release: 20.0.0-legacy
+  latest: 20.0.1
+  release: 20.0.1
   versions:
   - 8.0.2
   - 9.0.0
@@ -42,4 +42,5 @@ versioning:
   - 19.0.0
   - 20.0.0
   - 20.0.0-legacy
-  lastUpdated: 20240210033756
+  - 20.0.1
+  lastUpdated: 20240313165354
