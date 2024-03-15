@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.marketplace.service
 versioning:
-  latest: 7.0.50
-  release: 7.0.50
+  latest: 7.0.51
+  release: 7.0.51
   versions:
   - 1.0.0
   - 2.0.0
@@ -293,4 +292,5 @@ versioning:
   - 7.0.48
   - 7.0.49
   - 7.0.50
-  lastUpdated: 20240131085257
+  - 7.0.51
+  lastUpdated: 20240314103632

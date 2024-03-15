@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-logstreams
 versioning:
-  latest: 8.5.0-alpha2
-  release: 8.5.0-alpha2
+  latest: 8.5.0-RC1
+  release: 8.5.0-RC1
   versions:
   - 1.0.0-rc1
   - 1.0.0-rc2
@@ -177,4 +177,5 @@ versioning:
   - 8.4.5
   - 8.5.0-alpha1
   - 8.5.0-alpha2
-  lastUpdated: 20240306095030
+  - 8.5.0-RC1
+  lastUpdated: 20240314114041

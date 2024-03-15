@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: artifactory
 versioning:
-  latest: 6.3.0
-  release: 6.3.0
+  latest: 6.4.0-alpha.1710439157+69ff3e9e
+  release: 6.4.0-alpha.1710439157+69ff3e9e
   versions:
   - 2.6.0-alpha.1660221417+406b7c3e
   - 2.6.0
@@ -196,4 +196,6 @@ versioning:
   - 6.3.0-alpha.1710156114+c0ae2bf7
   - 6.3.0-alpha.1710238189+7de031b7
   - 6.3.0
-  lastUpdated: 20240312105207
+  - 6.3.1
+  - 6.4.0-alpha.1710439157+69ff3e9e
+  lastUpdated: 20240314184437

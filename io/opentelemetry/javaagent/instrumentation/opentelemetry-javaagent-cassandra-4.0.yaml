@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-cassandra-4.0
 versioning:
-  latest: 2.1.0-alpha
-  release: 2.1.0-alpha
+  latest: 2.2.0-alpha
+  release: 2.2.0-alpha
   versions:
   - 0.12.0
   - 0.12.1
@@ -75,4 +75,5 @@ versioning:
   - 1.33.0-alpha
   - 2.0.0-alpha
   - 2.1.0-alpha
-  lastUpdated: 20240228184930
+  - 2.2.0-alpha
+  lastUpdated: 20240314222322

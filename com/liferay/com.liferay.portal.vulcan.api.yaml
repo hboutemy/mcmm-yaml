@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.vulcan.api
 versioning:
-  latest: 42.0.1
-  release: 42.0.1
+  latest: 42.0.2
+  release: 42.0.2
   versions:
   - 1.0.0
   - 1.0.1
@@ -321,4 +320,5 @@ versioning:
   - 41.1.0
   - 42.0.0
   - 42.0.1
-  lastUpdated: 20240228113646
+  - 42.0.2
+  lastUpdated: 20240314105908

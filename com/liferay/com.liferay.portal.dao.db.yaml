@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.dao.db
 versioning:
-  latest: 5.0.32
-  release: 5.0.32
+  latest: 5.0.33
+  release: 5.0.33
   versions:
   - 1.0.17
   - 1.0.18
@@ -57,4 +56,5 @@ versioning:
   - 5.0.30
   - 5.0.31
   - 5.0.32
-  lastUpdated: 20240228103212
+  - 5.0.33
+  lastUpdated: 20240314122600
