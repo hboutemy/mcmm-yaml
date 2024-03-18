@@ -3,8 +3,8 @@
 groupId: io.github.jan-tennert.supabase
 artifactId: postgrest-kt-tvosarm64
 versioning:
-  latest: 2.2.2
-  release: 2.2.2
+  latest: 2.2.2-wasm0
+  release: 2.2.2-wasm0
   versions:
   - 1.2.0-alpha-1
   - 1.2.0-alpha-2
@@ -77,4 +77,5 @@ versioning:
   - 2.2.0-coil3-dev1
   - 2.2.1
   - 2.2.2
-  lastUpdated: 20240313164548
+  - 2.2.2-wasm0
+  lastUpdated: 20240316223937

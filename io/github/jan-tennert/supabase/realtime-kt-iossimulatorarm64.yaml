@@ -3,8 +3,8 @@
 groupId: io.github.jan-tennert.supabase
 artifactId: realtime-kt-iossimulatorarm64
 versioning:
-  latest: 2.2.2
-  release: 2.2.2
+  latest: 2.2.2-wasm0
+  release: 2.2.2-wasm0
   versions:
   - 0.8.4-ios-2
   - 0.8.5-ios
@@ -119,4 +119,5 @@ versioning:
   - 2.2.0-coil3-dev1
   - 2.2.1
   - 2.2.2
-  lastUpdated: 20240313164601
+  - 2.2.2-wasm0
+  lastUpdated: 20240316223950
