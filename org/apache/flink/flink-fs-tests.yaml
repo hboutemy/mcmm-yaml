@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-fs-tests
 versioning:
-  latest: 1.18.1
-  release: 1.18.1
+  latest: 1.19.0
+  release: 1.19.0
   versions:
   - 0.10.0
   - 0.10.1
@@ -60,4 +60,5 @@ versioning:
   - 1.17.2
   - 1.18.0
   - 1.18.1
-  lastUpdated: 20240116071848
+  - 1.19.0
+  lastUpdated: 20240315092409

@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-queryable-state-runtime
 versioning:
-  latest: 1.18.1
-  release: 1.18.1
+  latest: 1.19.0
+  release: 1.19.0
   versions:
   - 1.14.0
   - 1.14.1
@@ -27,4 +27,5 @@ versioning:
   - 1.17.2
   - 1.18.0
   - 1.18.1
-  lastUpdated: 20240116072439
+  - 1.19.0
+  lastUpdated: 20240315093059

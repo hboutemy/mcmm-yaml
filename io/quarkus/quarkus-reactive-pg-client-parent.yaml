@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-reactive-pg-client-parent
 versioning:
-  latest: 3.9.0.CR1
-  release: 3.9.0.CR1
+  latest: 3.9.0.CR2
+  release: 3.9.0.CR2
   versions:
   - 0.15.0
   - 0.16.0
@@ -285,5 +285,7 @@ versioning:
   - 3.8.0
   - 3.8.1
   - 3.8.2
+  - 3.8.3
   - 3.9.0.CR1
-  lastUpdated: 20240314145650
+  - 3.9.0.CR2
+  lastUpdated: 20240315165249

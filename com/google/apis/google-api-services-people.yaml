@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-people
 versioning:
-  latest: v1-rev20240312-2.0.0
-  release: v1-rev20240312-2.0.0
+  latest: v1-rev20240313-2.0.0
+  release: v1-rev20240313-2.0.0
   versions:
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.19.1
@@ -1444,4 +1444,5 @@ versioning:
   - v1-rev20230621-2.0.0
   - v1-rev20240310-2.0.0
   - v1-rev20240312-2.0.0
-  lastUpdated: 20240314090155
+  - v1-rev20240313-2.0.0
+  lastUpdated: 20240315084924

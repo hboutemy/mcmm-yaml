@@ -3,8 +3,8 @@
 groupId: io.streamnative.tests
 artifactId: docker-images
 versioning:
-  latest: 4.15.4.1_arrowstreet
-  release: 4.15.4.1_arrowstreet
+  latest: 4.16.4.1
+  release: 4.16.4.1
   versions:
   - branch-4.14.7.1_d4
   - master-rc-daily
@@ -692,4 +692,5 @@ versioning:
   - 4.14.7.1-arrowstreet
   - 4.14.7.2-arrowstreet
   - 4.15.4.1_arrowstreet
-  lastUpdated: 20240314022534
+  - 4.16.4.1
+  lastUpdated: 20240315020840

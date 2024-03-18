@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-s3-fs-presto
 versioning:
-  latest: 1.18.1
-  release: 1.18.1
+  latest: 1.19.0
+  release: 1.19.0
   versions:
   - 1.4.0
   - 1.4.1
@@ -79,4 +79,5 @@ versioning:
   - 1.17.2
   - 1.18.0
   - 1.18.1
-  lastUpdated: 20240116072637
+  - 1.19.0
+  lastUpdated: 20240315093311

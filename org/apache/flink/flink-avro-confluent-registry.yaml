@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-avro-confluent-registry
 versioning:
-  latest: 1.18.1
-  release: 1.18.1
+  latest: 1.19.0
+  release: 1.19.0
   versions:
   - 1.6.0
   - 1.6.1
@@ -69,4 +69,5 @@ versioning:
   - 1.17.2
   - 1.18.0
   - 1.18.1
-  lastUpdated: 20240116071149
+  - 1.19.0
+  lastUpdated: 20240315091723
