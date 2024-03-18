@@ -3,8 +3,8 @@
 groupId: org.scala-sbt
 artifactId: compiler-bridge_2.12
 versioning:
-  latest: 2.0.0-alpha10
-  release: 2.0.0-alpha10
+  latest: 2.0.0-alpha12
+  release: 2.0.0-alpha12
   versions:
   - 1.0.0-RC3
   - 1.0.0
@@ -127,4 +127,6 @@ versioning:
   - 2.0.0-alpha8
   - 2.0.0-alpha9
   - 2.0.0-alpha10
-  lastUpdated: 20240224040756
+  - 2.0.0-alpha11
+  - 2.0.0-alpha12
+  lastUpdated: 20240317081341
