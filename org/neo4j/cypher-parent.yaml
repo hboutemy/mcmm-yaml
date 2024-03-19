@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: cypher-parent
 versioning:
-  latest: 5.18.0
-  release: 5.18.0
+  latest: 5.18.1
+  release: 5.18.1
   versions:
   - 2.0.0-RC1
   - 2.0.0
@@ -352,4 +352,5 @@ versioning:
   - 5.16.0
   - 5.17.0
   - 5.18.0
-  lastUpdated: 20240313065944
+  - 5.18.1
+  lastUpdated: 20240318091632

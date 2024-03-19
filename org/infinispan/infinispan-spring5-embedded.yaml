@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-spring5-embedded
 versioning:
-  latest: 14.0.26.Final
-  release: 14.0.26.Final
+  latest: 14.0.27.Final
+  release: 14.0.27.Final
   versions:
   - 9.4.4.Final
   - 9.4.5.Final
@@ -168,5 +168,6 @@ versioning:
   - 14.0.24.Final
   - 14.0.25.Final
   - 14.0.26.Final
+  - 14.0.27.Final
   - 12.0.0.Dev03
-  lastUpdated: 20240313121816
+  lastUpdated: 20240318171545

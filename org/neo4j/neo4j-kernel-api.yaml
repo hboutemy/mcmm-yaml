@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-kernel-api
 versioning:
-  latest: 5.18.0
-  release: 5.18.0
+  latest: 5.18.1
+  release: 5.18.1
   versions:
   - 3.3.0-alpha07
   - 3.3.0-beta01
@@ -224,4 +224,5 @@ versioning:
   - 5.16.0
   - 5.17.0
   - 5.18.0
-  lastUpdated: 20240313070142
+  - 5.18.1
+  lastUpdated: 20240318091817
