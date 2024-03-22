@@ -3,8 +3,8 @@
 groupId: org.apache.hadoop
 artifactId: hadoop-maven-plugins
 versioning:
-  latest: 3.3.6
-  release: 3.3.6
+  latest: 3.4.0
+  release: 3.4.0
   versions:
   - 2.0.4-alpha
   - 2.0.5-alpha
@@ -69,4 +69,5 @@ versioning:
   - 3.3.4
   - 3.3.5
   - 3.3.6
-  lastUpdated: 20230626005401
+  - 3.4.0
+  lastUpdated: 20240319024535

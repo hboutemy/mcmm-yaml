@@ -3,8 +3,8 @@
 groupId: org.apache.hadoop
 artifactId: hadoop-yarn-server-sharedcachemanager
 versioning:
-  latest: 3.3.6
-  release: 3.3.6
+  latest: 3.4.0
+  release: 3.4.0
   versions:
   - 2.7.1
   - 2.7.2
@@ -51,4 +51,5 @@ versioning:
   - 3.3.4
   - 3.3.5
   - 3.3.6
-  lastUpdated: 20230626005701
+  - 3.4.0
+  lastUpdated: 20240319024850

@@ -3,8 +3,8 @@
 groupId: org.apache.hadoop
 artifactId: hadoop-yarn-server-nodemanager
 versioning:
-  latest: 3.3.6
-  release: 3.3.6
+  latest: 3.4.0
+  release: 3.4.0
   versions:
   - 0.23.1
   - 0.23.3
@@ -83,4 +83,5 @@ versioning:
   - 3.3.4
   - 3.3.5
   - 3.3.6
-  lastUpdated: 20230626005637
+  - 3.4.0
+  lastUpdated: 20240319024826
