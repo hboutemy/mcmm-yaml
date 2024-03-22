@@ -3,9 +3,11 @@
 groupId: pl.morgwai.base
 artifactId: servlet-scopes-connection-proxy-tyrus
 versioning:
-  latest: 14.0-javax
-  release: 14.0-javax
+  latest: 15.0-javax
+  release: 15.0-javax
   versions:
   - 14.0-jakarta
   - 14.0-javax
-  lastUpdated: 20240114134144
+  - 15.0-jakarta
+  - 15.0-javax
+  lastUpdated: 20240320143608

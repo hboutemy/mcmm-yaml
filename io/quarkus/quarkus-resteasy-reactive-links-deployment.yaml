@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-resteasy-reactive-links-deployment
 versioning:
-  latest: 3.9.0.CR2
-  release: 3.9.0.CR2
+  latest: 3.9.0
+  release: 3.9.0
   versions:
   - 2.0.0.Alpha1
   - 2.0.0.Alpha2
@@ -187,4 +187,5 @@ versioning:
   - 3.8.3
   - 3.9.0.CR1
   - 3.9.0.CR2
-  lastUpdated: 20240315165335
+  - 3.9.0
+  lastUpdated: 20240320143237

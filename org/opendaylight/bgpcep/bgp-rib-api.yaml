@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.bgpcep
 artifactId: bgp-rib-api
 versioning:
-  latest: 0.21.2
-  release: 0.21.2
+  latest: 0.21.3
+  release: 0.21.3
   versions:
   - 0.3.0
   - 0.3.1-Helium
@@ -124,7 +124,9 @@ versioning:
   - 0.20.4
   - 0.20.5
   - 0.20.6
+  - 0.20.7
   - 0.21.0
   - 0.21.1
   - 0.21.2
-  lastUpdated: 20240318060414
+  - 0.21.3
+  lastUpdated: 20240320070412

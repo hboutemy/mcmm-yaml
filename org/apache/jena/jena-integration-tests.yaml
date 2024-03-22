@@ -3,8 +3,8 @@
 groupId: org.apache.jena
 artifactId: jena-integration-tests
 versioning:
-  latest: 5.0.0-rc1
-  release: 5.0.0-rc1
+  latest: 5.0.0
+  release: 5.0.0
   versions:
   - 3.2.0
   - 3.3.0
@@ -38,4 +38,5 @@ versioning:
   - 4.9.0
   - 4.10.0
   - 5.0.0-rc1
-  lastUpdated: 20240214130549
+  - 5.0.0
+  lastUpdated: 20240320082413

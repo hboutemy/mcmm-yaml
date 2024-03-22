@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-resteasy-reactive-jackson-deployment
 versioning:
-  latest: 3.9.0.CR2
-  release: 3.9.0.CR2
+  latest: 3.9.0
+  release: 3.9.0
   versions:
   - 1.11.0.Beta1
   - 1.11.0.Beta2
@@ -211,4 +211,5 @@ versioning:
   - 3.8.3
   - 3.9.0.CR1
   - 3.9.0.CR2
-  lastUpdated: 20240315165327
+  - 3.9.0
+  lastUpdated: 20240320143229
