@@ -3,8 +3,8 @@
 groupId: io.streamnative.pulsar.handlers
 artifactId: oauth-client-original
 versioning:
-  latest: 3.2.1.1
-  release: 3.2.1.1
+  latest: 3.2.1.2
+  release: 3.2.1.2
   versions:
   - 2.10.5.1
   - 2.10.5.2-5ce22c
@@ -59,6 +59,7 @@ versioning:
   - 3.0.2.8
   - 3.0.2.9
   - 3.0.3.1
+  - 3.0.3.2
   - 3.1.0.1
   - 3.1.0.2
   - 3.1.0.3
@@ -73,4 +74,5 @@ versioning:
   - 3.1.2.3
   - 3.2.0.2
   - 3.2.1.1
-  lastUpdated: 20240314025333
+  - 3.2.1.2
+  lastUpdated: 20240321065451

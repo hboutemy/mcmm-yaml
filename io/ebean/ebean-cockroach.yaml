@@ -3,8 +3,8 @@
 groupId: io.ebean
 artifactId: ebean-cockroach
 versioning:
-  latest: 15.0.1
-  release: 15.0.1
+  latest: 15.0.2
+  release: 15.0.2
   versions:
   - 13.0.0
   - 13.1.0
@@ -103,6 +103,9 @@ versioning:
   - 14.0.0-javax
   - 14.0.1
   - 14.0.1-javax
+  - 14.0.2
+  - 14.0.2-javax
   - 15.0.0-RC
   - 15.0.1
-  lastUpdated: 20240303081947
+  - 15.0.2
+  lastUpdated: 20240321102827

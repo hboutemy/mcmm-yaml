@@ -3,8 +3,8 @@
 groupId: io.gravitee.apim.gateway.services
 artifactId: gravitee-apim-gateway-services-sync
 versioning:
-  latest: 4.2.4
-  release: 4.2.4
+  latest: 4.3.0-alpha.2
+  release: 4.3.0-alpha.2
   versions:
   - 3.5.25
   - 3.5.26
@@ -153,6 +153,7 @@ versioning:
   - 3.20.28
   - 3.20.29
   - 3.20.30
+  - 3.20.31
   - 4.0.0-alpha.2
   - 4.0.0-alpha.3
   - 4.0.0-alpha.4
@@ -176,6 +177,7 @@ versioning:
   - 4.0.17
   - 4.0.18
   - 4.0.19
+  - 4.0.20
   - 4.1.0
   - 4.1.1
   - 4.1.2
@@ -193,4 +195,5 @@ versioning:
   - 4.2.2
   - 4.2.3
   - 4.2.4
-  lastUpdated: 20240301144250
+  - 4.3.0-alpha.2
+  lastUpdated: 20240321200900

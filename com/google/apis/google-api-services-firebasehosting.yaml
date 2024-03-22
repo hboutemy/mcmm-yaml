@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-firebasehosting
 versioning:
-  latest: v1-rev20230913-2.0.0
-  release: v1-rev20230913-2.0.0
+  latest: v1-rev20240319-2.0.0
+  release: v1-rev20240319-2.0.0
   versions:
   - v1beta1-rev1-1.18.0-rc
   - v1beta1-rev1-1.22.0
@@ -162,6 +162,7 @@ versioning:
   - v1beta1-rev20230827-2.0.0
   - v1beta1-rev20230910-2.0.0
   - v1beta1-rev20230913-2.0.0
+  - v1beta1-rev20240319-2.0.0
   - v1-rev20200629-1.30.9
   - v1-rev20200629-1.30.10
   - v1-rev20200731-1.30.10
@@ -175,4 +176,5 @@ versioning:
   - v1-rev20230806-2.0.0
   - v1-rev20230910-2.0.0
   - v1-rev20230913-2.0.0
-  lastUpdated: 20230915083115
+  - v1-rev20240319-2.0.0
+  lastUpdated: 20240321084727
