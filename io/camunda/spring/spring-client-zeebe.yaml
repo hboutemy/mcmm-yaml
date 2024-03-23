@@ -3,8 +3,8 @@
 groupId: io.camunda.spring
 artifactId: spring-client-zeebe
 versioning:
-  latest: 8.5.0-rc1
-  release: 8.5.0-rc1
+  latest: 8.5.0-rc2
+  release: 8.5.0-rc2
   versions:
   - 8.2.0-alpha2
   - 8.2.0-alpha3
@@ -64,4 +64,5 @@ versioning:
   - 8.4.2
   - 8.5.0-alpha2
   - 8.5.0-rc1
-  lastUpdated: 20240306105011
+  - 8.5.0-rc2
+  lastUpdated: 20240322162257

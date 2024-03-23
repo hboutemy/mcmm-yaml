@@ -3,8 +3,8 @@
 groupId: com.clickhouse
 artifactId: clickhouse-r2dbc
 versioning:
-  latest: 0.6.0-patch1
-  release: 0.6.0-patch1
+  latest: 0.6.0-patch2
+  release: 0.6.0-patch2
   versions:
   - 0.4.0
   - 0.4.1
@@ -16,4 +16,5 @@ versioning:
   - 0.5.0
   - 0.6.0
   - 0.6.0-patch1
-  lastUpdated: 20240211125423
+  - 0.6.0-patch2
+  lastUpdated: 20240322060323

@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: spring-zeebe-test-testcontainer
 versioning:
-  latest: 8.5.0-rc1
-  release: 8.5.0-rc1
+  latest: 8.5.0-rc2
+  release: 8.5.0-rc2
   versions:
   - 8.0.0-alpha1
   - 8.0.0
@@ -97,4 +97,5 @@ versioning:
   - 8.4.2
   - 8.5.0-alpha2
   - 8.5.0-rc1
-  lastUpdated: 20240306105013
+  - 8.5.0-rc2
+  lastUpdated: 20240322162259
