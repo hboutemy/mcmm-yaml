@@ -3,8 +3,8 @@
 groupId: org.apache.pinot
 artifactId: pinot-jdbc-client
 versioning:
-  latest: 1.0.0-hotfix
-  release: 1.0.0-hotfix
+  latest: 1.1.0
+  release: 1.1.0
   versions:
   - 0.5.0
   - 0.6.0
@@ -21,4 +21,5 @@ versioning:
   - 0.12.1
   - 1.0.0
   - 1.0.0-hotfix
-  lastUpdated: 20230917043806
+  - 1.1.0
+  lastUpdated: 20240323071343

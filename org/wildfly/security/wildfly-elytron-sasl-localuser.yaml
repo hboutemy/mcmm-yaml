@@ -3,8 +3,8 @@
 groupId: org.wildfly.security
 artifactId: wildfly-elytron-sasl-localuser
 versioning:
-  latest: 2.3.1.Final
-  release: 2.3.1.Final
+  latest: 2.4.0.CR1
+  release: 2.4.0.CR1
   versions:
   - 1.9.0.CR1
   - 1.9.0.CR2
@@ -124,4 +124,5 @@ versioning:
   - 2.2.4.Final
   - 2.3.0.Final
   - 2.3.1.Final
-  lastUpdated: 20240314123249
+  - 2.4.0.CR1
+  lastUpdated: 20240322211241

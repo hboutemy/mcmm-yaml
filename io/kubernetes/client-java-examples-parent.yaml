@@ -3,8 +3,8 @@
 groupId: io.kubernetes
 artifactId: client-java-examples-parent
 versioning:
-  latest: 20.0.1
-  release: 20.0.1
+  latest: 20.0.1-legacy
+  release: 20.0.1-legacy
   versions:
   - 11.0.0
   - 11.0.1
@@ -36,4 +36,5 @@ versioning:
   - 20.0.0
   - 20.0.0-legacy
   - 20.0.1
-  lastUpdated: 20240314170558
+  - 20.0.1-legacy
+  lastUpdated: 20240323150558

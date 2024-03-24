@@ -3,8 +3,8 @@
 groupId: io.kubernetes
 artifactId: client-java-proto
 versioning:
-  latest: 20.0.1
-  release: 20.0.1
+  latest: 20.0.1-legacy
+  release: 20.0.1-legacy
   versions:
   - 0.2
   - 1.0.0-beta1
@@ -63,4 +63,5 @@ versioning:
   - 20.0.0
   - 20.0.0-legacy
   - 20.0.1
-  lastUpdated: 20240314170602
+  - 20.0.1-legacy
+  lastUpdated: 20240323150600
