@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-redis-deployment
 versioning:
-  latest: 3.8.1
-  release: 3.8.1
+  latest: 3.9.0
+  release: 3.9.0
   versions:
   - 1.6.0
   - 1.7.0
@@ -50,4 +50,5 @@ versioning:
   - 3.7.0
   - 3.8.0
   - 3.8.1
-  lastUpdated: 20240319101450
+  - 3.9.0
+  lastUpdated: 20240324182117
