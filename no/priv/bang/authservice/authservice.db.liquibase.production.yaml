@@ -3,8 +3,8 @@
 groupId: no.priv.bang.authservice
 artifactId: authservice.db.liquibase.production
 versioning:
-  latest: 1.15.18
-  release: 1.15.18
+  latest: 1.15.19
+  release: 1.15.19
   versions:
   - 1.7.0
   - 1.7.1
@@ -73,4 +73,5 @@ versioning:
   - 1.15.16
   - 1.15.17
   - 1.15.18
-  lastUpdated: 20240301212215
+  - 1.15.19
+  lastUpdated: 20240325122024

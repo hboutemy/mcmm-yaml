@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.rendering
 artifactId: xwiki-rendering-syntax-annotatedxhtml
 versioning:
-  latest: 16.2.0-rc-1
-  release: 16.2.0-rc-1
+  latest: 16.2.0
+  release: 16.2.0
   versions:
   - 4.5-milestone-1
   - 4.5-rc-1
@@ -425,4 +425,5 @@ versioning:
   - 16.1.0-rc-1
   - 16.1.0
   - 16.2.0-rc-1
-  lastUpdated: 20240319131927
+  - 16.2.0
+  lastUpdated: 20240325111553

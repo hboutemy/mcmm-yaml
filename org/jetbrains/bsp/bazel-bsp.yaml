@@ -3,8 +3,8 @@
 groupId: org.jetbrains.bsp
 artifactId: bazel-bsp
 versioning:
-  latest: 3.1.0-20240323-dc830f8-NIGHTLY
-  release: 3.1.0-20240323-dc830f8-NIGHTLY
+  latest: 3.1.0-20240325-28797b6-NIGHTLY
+  release: 3.1.0-20240325-28797b6-NIGHTLY
   versions:
   - 0.1.0
   - 1.0.0-RC1
@@ -172,4 +172,6 @@ versioning:
   - 3.1.0-20240321-c66358e-NIGHTLY
   - 3.1.0-20240322-c5875e6-NIGHTLY
   - 3.1.0-20240323-dc830f8-NIGHTLY
-  lastUpdated: 20240323011241
+  - 3.1.0-20240325-b1655d9-NIGHTLY
+  - 3.1.0-20240325-28797b6-NIGHTLY
+  lastUpdated: 20240325133359

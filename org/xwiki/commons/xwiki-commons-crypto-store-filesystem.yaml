@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.commons
 artifactId: xwiki-commons-crypto-store-filesystem
 versioning:
-  latest: 16.2.0-rc-1
-  release: 16.2.0-rc-1
+  latest: 16.2.0
+  release: 16.2.0
   versions:
   - 6.1-milestone-2
   - 6.1-rc-1
@@ -383,4 +383,5 @@ versioning:
   - 16.1.0-rc-1
   - 16.1.0
   - 16.2.0-rc-1
-  lastUpdated: 20240319130712
+  - 16.2.0
+  lastUpdated: 20240325110057
