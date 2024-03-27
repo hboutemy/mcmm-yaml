@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-tasks
 versioning:
-  latest: v1-rev20240312-2.0.0
-  release: v1-rev20240312-2.0.0
+  latest: v1-rev20240324-2.0.0
+  release: v1-rev20240324-2.0.0
   versions:
   - v1-rev10-1.13.2-beta
   - v1-rev10-1.14.1-beta
@@ -224,4 +224,5 @@ versioning:
   - v1-rev20210709-2.0.0
   - v1-rev20230401-2.0.0
   - v1-rev20240312-2.0.0
-  lastUpdated: 20240314091246
+  - v1-rev20240324-2.0.0
+  lastUpdated: 20240326082852

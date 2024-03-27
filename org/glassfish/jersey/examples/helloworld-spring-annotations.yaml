@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.examples
 artifactId: helloworld-spring-annotations
 versioning:
-  latest: 3.0.0-M6
-  release: 3.0.0-M6
+  latest: 4.0.0-M1
+  release: 4.0.0-M1
   versions:
   - 2.6
   - 2.7
@@ -73,4 +73,5 @@ versioning:
   - 2.42
   - 3.0.0-M1
   - 3.0.0-M6
-  lastUpdated: 20240320074455
+  - 4.0.0-M1
+  lastUpdated: 20240326155258
