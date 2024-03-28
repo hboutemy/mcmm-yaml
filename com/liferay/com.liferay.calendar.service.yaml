@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.calendar.service
 versioning:
@@ -422,6 +423,7 @@ versioning:
   - 5.0.64
   - 5.0.65
   - 5.0.66
+  - 5.0.67
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -495,4 +497,4 @@ versioning:
   - 6.0.70
   - 6.0.71
   - 6.0.72
-  lastUpdated: 20240314102325
+  lastUpdated: 20240327112844

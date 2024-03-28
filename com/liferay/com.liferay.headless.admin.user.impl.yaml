@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.headless.admin.user.impl
 versioning:
@@ -195,6 +196,7 @@ versioning:
   - 3.0.93
   - 3.0.94
   - 3.0.95
+  - 3.0.96
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -403,4 +405,4 @@ versioning:
   - 5.0.112
   - 5.0.113
   - 5.0.114
-  lastUpdated: 20240314114754
+  lastUpdated: 20240327110209

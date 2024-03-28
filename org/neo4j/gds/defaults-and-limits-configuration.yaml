@@ -3,8 +3,8 @@
 groupId: org.neo4j.gds
 artifactId: defaults-and-limits-configuration
 versioning:
-  latest: 2.7.0-alpha02
-  release: 2.7.0-alpha02
+  latest: 2.7.0-alpha03
+  release: 2.7.0-alpha03
   versions:
   - 2.2.0-alpha04
   - 2.2.0-alpha05
@@ -59,6 +59,8 @@ versioning:
   - 2.6.0
   - 2.6.1
   - 2.6.2
+  - 2.6.3
   - 2.7.0-alpha01
   - 2.7.0-alpha02
-  lastUpdated: 20240314094948
+  - 2.7.0-alpha03
+  lastUpdated: 20240327203241

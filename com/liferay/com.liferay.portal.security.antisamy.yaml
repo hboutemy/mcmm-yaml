@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.security.antisamy
 versioning:
@@ -145,6 +146,7 @@ versioning:
   - 4.0.44
   - 4.0.45
   - 4.0.46
+  - 4.0.47
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -193,6 +195,7 @@ versioning:
   - 5.0.45
   - 5.0.46
   - 5.0.47
+  - 5.0.48
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -228,4 +231,4 @@ versioning:
   - 6.0.32
   - 6.0.33
   - 6.0.34
-  lastUpdated: 20240229141752
+  lastUpdated: 20240327103504

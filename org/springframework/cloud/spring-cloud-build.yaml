@@ -3,8 +3,8 @@
 groupId: org.springframework.cloud
 artifactId: spring-cloud-build
 versioning:
-  latest: 4.1.0
-  release: 4.1.0
+  latest: 4.1.1
+  release: 4.1.1
   versions:
   - 1.0.0.RELEASE
   - 1.0.1.RELEASE
@@ -79,6 +79,7 @@ versioning:
   - 4.0.5
   - 4.0.6
   - 4.1.0
+  - 4.1.1
   - 2.1.0.RELEASE
   - 2.3.3.RELEASE
   - 2.3.4.RELEASE
@@ -86,4 +87,4 @@ versioning:
   - 3.0.2
   - 3.0.3
   - 3.0.4
-  lastUpdated: 20240126194524
+  lastUpdated: 20240327181125
