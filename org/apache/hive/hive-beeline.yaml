@@ -3,8 +3,8 @@
 groupId: org.apache.hive
 artifactId: hive-beeline
 versioning:
-  latest: 4.0.0-beta-1
-  release: 4.0.0-beta-1
+  latest: 4.0.0
+  release: 4.0.0
   versions:
   - 0.11.0
   - 0.12.0
@@ -41,4 +41,5 @@ versioning:
   - 4.0.0-alpha-1
   - 4.0.0-alpha-2
   - 4.0.0-beta-1
-  lastUpdated: 20230815063611
+  - 4.0.0
+  lastUpdated: 20240329181945

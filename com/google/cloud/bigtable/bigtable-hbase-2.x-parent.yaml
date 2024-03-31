@@ -3,8 +3,8 @@
 groupId: com.google.cloud.bigtable
 artifactId: bigtable-hbase-2.x-parent
 versioning:
-  latest: 2.12.0
-  release: 2.12.0
+  latest: 2.13.0
+  release: 2.13.0
   versions:
   - 1.1.1
   - 1.1.2
@@ -91,8 +91,10 @@ versioning:
   - 2.11.2
   - 2.11.3
   - 2.12.0
+  - 2.12.1
+  - 2.13.0
   - 1.19.1
   - 1.19.2
   - 1.20.0
   - 1.20.1
-  lastUpdated: 20231108202655
+  lastUpdated: 20240329230501

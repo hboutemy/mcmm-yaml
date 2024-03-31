@@ -3,8 +3,8 @@
 groupId: io.gravitee.apim.gateway.standalone.distribution
 artifactId: gravitee-apim-gateway-standalone-distribution
 versioning:
-  latest: 4.3.0-alpha.2
-  release: 4.3.0-alpha.2
+  latest: 4.3.1
+  release: 4.3.1
   versions:
   - 3.5.25
   - 3.5.26
@@ -154,6 +154,7 @@ versioning:
   - 3.20.29
   - 3.20.30
   - 3.20.31
+  - 3.20.32
   - 4.0.0-alpha.2
   - 4.0.0-alpha.3
   - 4.0.0-alpha.4
@@ -178,6 +179,7 @@ versioning:
   - 4.0.18
   - 4.0.19
   - 4.0.20
+  - 4.0.21
   - 4.1.0
   - 4.1.1
   - 4.1.2
@@ -190,6 +192,7 @@ versioning:
   - 4.1.9
   - 4.1.10
   - 4.1.11
+  - 4.1.12
   - 4.2.0-alpha.2
   - 4.2.0
   - 4.2.1
@@ -197,5 +200,8 @@ versioning:
   - 4.2.3
   - 4.2.4
   - 4.2.5
+  - 4.2.6
   - 4.3.0-alpha.2
-  lastUpdated: 20240322100339
+  - 4.3.0
+  - 4.3.1
+  lastUpdated: 20240329173930

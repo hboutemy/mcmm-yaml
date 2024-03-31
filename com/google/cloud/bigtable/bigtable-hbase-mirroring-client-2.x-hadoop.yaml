@@ -3,8 +3,8 @@
 groupId: com.google.cloud.bigtable
 artifactId: bigtable-hbase-mirroring-client-2.x-hadoop
 versioning:
-  latest: 0.7.0
-  release: 0.7.0
+  latest: 0.7.2
+  release: 0.7.2
   versions:
   - 0.1.0
   - 0.1.1
@@ -31,4 +31,6 @@ versioning:
   - 0.6.2
   - 0.6.3
   - 0.7.0
-  lastUpdated: 20231108202700
+  - 0.7.1
+  - 0.7.2
+  lastUpdated: 20240329230506

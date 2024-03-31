@@ -3,10 +3,11 @@
 groupId: org.apache.hive
 artifactId: hive-iceberg-shading
 versioning:
-  latest: 4.0.0-beta-1
-  release: 4.0.0-beta-1
+  latest: 4.0.0
+  release: 4.0.0
   versions:
   - 4.0.0-alpha-1
   - 4.0.0-alpha-2
   - 4.0.0-beta-1
-  lastUpdated: 20230815063723
+  - 4.0.0
+  lastUpdated: 20240329182040

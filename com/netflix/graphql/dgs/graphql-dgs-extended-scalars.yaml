@@ -3,8 +3,8 @@
 groupId: com.netflix.graphql.dgs
 artifactId: graphql-dgs-extended-scalars
 versioning:
-  latest: 8.4.4
-  release: 8.4.4
+  latest: 8.5.0
+  release: 8.5.0
   versions:
   - 3.11.0
   - 3.12.0
@@ -78,6 +78,7 @@ versioning:
   - 5.5.5
   - 5.6.0
   - 5.6.1
+  - 5.6.2
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -117,4 +118,5 @@ versioning:
   - 8.4.2
   - 8.4.3
   - 8.4.4
-  lastUpdated: 20240327234010
+  - 8.5.0
+  lastUpdated: 20240329211816

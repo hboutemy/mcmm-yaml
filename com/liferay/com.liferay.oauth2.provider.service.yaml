@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.oauth2.provider.service
 versioning:
-  latest: 4.0.83
-  release: 4.0.83
+  latest: 4.0.84
+  release: 4.0.84
   versions:
   - 1.0.0
   - 1.0.1
@@ -262,4 +261,5 @@ versioning:
   - 4.0.81
   - 4.0.82
   - 4.0.83
-  lastUpdated: 20240328090929
+  - 4.0.84
+  lastUpdated: 20240329052628

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: comprehend
 versioning:
-  latest: 2.25.20
-  release: 2.25.20
+  latest: 2.25.21
+  release: 2.25.21
   versions:
   - 2.0.0-preview-8
   - 2.0.0-preview-9
@@ -1248,4 +1248,5 @@ versioning:
   - 2.25.18
   - 2.25.19
   - 2.25.20
-  lastUpdated: 20240328205341
+  - 2.25.21
+  lastUpdated: 20240329202257
