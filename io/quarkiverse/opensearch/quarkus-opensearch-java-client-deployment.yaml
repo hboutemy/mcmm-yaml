@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.opensearch
 artifactId: quarkus-opensearch-java-client-deployment
 versioning:
-  latest: 1.6.1
-  release: 1.6.1
+  latest: 1.6.3
+  release: 1.6.3
   versions:
   - 0.2.0
   - 0.2.1
@@ -32,4 +32,6 @@ versioning:
   - 1.5.0
   - 1.6.0
   - 1.6.1
-  lastUpdated: 20240314173630
+  - 1.6.2
+  - 1.6.3
+  lastUpdated: 20240328162229

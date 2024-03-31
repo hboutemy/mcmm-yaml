@@ -3,8 +3,8 @@
 groupId: org.openrewrite
 artifactId: rewrite-properties
 versioning:
-  latest: 8.21.0
-  release: 8.21.0
+  latest: 8.23.1
+  release: 8.23.1
   versions:
   - 2.1.0-rc.3
   - 2.2.0
@@ -227,4 +227,7 @@ versioning:
   - 8.19.0
   - 8.20.0
   - 8.21.0
-  lastUpdated: 20240319173805
+  - 8.22.0
+  - 8.23.0
+  - 8.23.1
+  lastUpdated: 20240328163913
