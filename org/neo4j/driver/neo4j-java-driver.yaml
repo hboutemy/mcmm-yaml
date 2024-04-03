@@ -3,8 +3,8 @@
 groupId: org.neo4j.driver
 artifactId: neo4j-java-driver
 versioning:
-  latest: 5.18.0
-  release: 5.18.0
+  latest: 5.19.0
+  release: 5.19.0
   versions:
   - 1.0.0-M01
   - 1.0.0-M02
@@ -145,6 +145,7 @@ versioning:
   - 4.4.12
   - 4.4.13
   - 4.4.14
+  - 4.4.15
   - 5.0.0-alpha01
   - 5.0.0-alpha02
   - 5.0.0-alpha03
@@ -169,4 +170,5 @@ versioning:
   - 5.16.0
   - 5.17.0
   - 5.18.0
-  lastUpdated: 20240301191733
+  - 5.19.0
+  lastUpdated: 20240402161216
