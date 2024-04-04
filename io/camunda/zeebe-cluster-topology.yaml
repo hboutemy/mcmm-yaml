@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-cluster-topology
 versioning:
-  latest: 8.5.0-RC2
-  release: 8.5.0-RC2
+  latest: 8.5.0
+  release: 8.5.0
   versions:
   - 8.3.0-alpha5
   - 8.3.0-alpha6
@@ -29,4 +29,5 @@ versioning:
   - 8.5.0-alpha2
   - 8.5.0-RC1
   - 8.5.0-RC2
-  lastUpdated: 20240327201752
+  - 8.5.0
+  lastUpdated: 20240403134210

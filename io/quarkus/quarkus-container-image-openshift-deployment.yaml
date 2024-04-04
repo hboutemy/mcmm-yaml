@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-container-image-openshift-deployment
 versioning:
-  latest: 3.9.1
-  release: 3.9.1
+  latest: 3.9.2
+  release: 3.9.2
   versions:
   - 1.9.0.CR1
   - 1.9.0.Final
@@ -224,4 +224,5 @@ versioning:
   - 3.9.0.CR2
   - 3.9.0
   - 3.9.1
-  lastUpdated: 20240327104443
+  - 3.9.2
+  lastUpdated: 20240403102237

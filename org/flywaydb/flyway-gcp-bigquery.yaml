@@ -3,8 +3,8 @@
 groupId: org.flywaydb
 artifactId: flyway-gcp-bigquery
 versioning:
-  latest: 10.10.0
-  release: 10.10.0
+  latest: 10.11.0
+  release: 10.11.0
   versions:
   - 7.11.0-beta
   - 7.11.1-beta
@@ -127,4 +127,5 @@ versioning:
   - 10.9.0
   - 10.9.1
   - 10.10.0
-  lastUpdated: 20240314105704
+  - 10.11.0
+  lastUpdated: 20240403101907

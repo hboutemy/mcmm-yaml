@@ -3,8 +3,8 @@
 groupId: org.flywaydb
 artifactId: flyway-database-postgresql
 versioning:
-  latest: 10.10.0
-  release: 10.10.0
+  latest: 10.11.0
+  release: 10.11.0
   versions:
   - 10.0.0
   - 10.0.1
@@ -23,4 +23,5 @@ versioning:
   - 10.9.0
   - 10.9.1
   - 10.10.0
-  lastUpdated: 20240314105653
+  - 10.11.0
+  lastUpdated: 20240403101855

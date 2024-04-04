@@ -3,8 +3,8 @@
 groupId: com.gu.play-secret-rotation
 artifactId: aws-parameterstore-sdk-v2_3
 versioning:
-  latest: 7.1.1
-  release: 7.1.1
+  latest: 8.2.0-PREVIEW.fix-forgotten-CSRFTokenSigner.2024-04-03T1534.859d8077
+  release: 8.2.0-PREVIEW.fix-forgotten-CSRFTokenSigner.2024-04-03T1534.859d8077
   versions:
   - 0.39
   - 0.40
@@ -26,4 +26,8 @@ versioning:
   - 7.0.0
   - 7.1.0
   - 7.1.1
-  lastUpdated: 20240308122907
+  - 8.0.0
+  - 8.0.0-PREVIEW.fix-forgotten-CSRFTokenSigner.2024-04-03T1117.eca69ca4
+  - 8.1.0
+  - 8.2.0-PREVIEW.fix-forgotten-CSRFTokenSigner.2024-04-03T1534.859d8077
+  lastUpdated: 20240403154012

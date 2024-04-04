@@ -3,8 +3,8 @@
 groupId: org.flywaydb
 artifactId: flyway-database-yugabytedb
 versioning:
-  latest: 10.8.1
-  release: 10.8.1
+  latest: 10.11.0
+  release: 10.11.0
   versions:
   - 10.0.0
   - 10.0.1
@@ -18,4 +18,5 @@ versioning:
   - 10.7.2
   - 10.8.0
   - 10.8.1
-  lastUpdated: 20240307152136
+  - 10.11.0
+  lastUpdated: 20240403103511
