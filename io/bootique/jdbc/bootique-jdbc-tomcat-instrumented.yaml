@@ -3,8 +3,8 @@
 groupId: io.bootique.jdbc
 artifactId: bootique-jdbc-tomcat-instrumented
 versioning:
-  latest: 3.0.M2
-  release: 3.0.M2
+  latest: 3.0-M3
+  release: 3.0-M3
   versions:
   - 0.25
   - 1.0.RC1
@@ -19,4 +19,5 @@ versioning:
   - 2.0.1
   - 3.0.M1
   - 3.0.M2
-  lastUpdated: 20231120125048
+  - 3.0-M3
+  lastUpdated: 20240404150604
