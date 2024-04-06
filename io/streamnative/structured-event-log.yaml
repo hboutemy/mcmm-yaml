@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: structured-event-log
 versioning:
-  latest: 3.2.1.4
-  release: 3.2.1.4
+  latest: 3.2.2.1
+  release: 3.2.2.1
   versions:
   - master-rc-daily
   - 2.9.0.0-rc-1
@@ -438,6 +438,7 @@ versioning:
   - 3.0.3.3
   - 3.0.3.4
   - 3.0.3.5
+  - 3.0.4.1
   - 3.1.0.1
   - 3.1.0.2
   - 3.1.0.3
@@ -455,4 +456,5 @@ versioning:
   - 3.2.1.2
   - 3.2.1.3
   - 3.2.1.4
-  lastUpdated: 20240330112424
+  - 3.2.2.1
+  lastUpdated: 20240405051948

@@ -3,8 +3,8 @@
 groupId: org.apache.storm
 artifactId: storm-hdfs
 versioning:
-  latest: 2.6.1
-  release: 2.6.1
+  latest: 2.6.2
+  release: 2.6.2
   versions:
   - 0.9.3
   - 0.9.4
@@ -42,4 +42,5 @@ versioning:
   - 2.5.0
   - 2.6.0
   - 2.6.1
-  lastUpdated: 20240202113255
+  - 2.6.2
+  lastUpdated: 20240405174449
