@@ -3,8 +3,8 @@
 groupId: io.qtjambi
 artifactId: qtjambi-plugin-qsqljdbc-native-linux-x64
 versioning:
-  latest: 6.6.2
-  release: 6.6.2
+  latest: 6.6.3
+  release: 6.6.3
   versions:
   - 5.15.5
   - 5.15.6
@@ -20,6 +20,7 @@ versioning:
   - 5.15.16
   - 5.15.17
   - 5.15.18
+  - 5.15.20
   - 6.2.3
   - 6.2.4
   - 6.2.5
@@ -50,4 +51,5 @@ versioning:
   - 6.6.0
   - 6.6.1
   - 6.6.2
-  lastUpdated: 20240218141209
+  - 6.6.3
+  lastUpdated: 20240406235044
