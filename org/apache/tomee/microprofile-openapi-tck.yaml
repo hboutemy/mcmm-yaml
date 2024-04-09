@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.apache.tomee
 artifactId: microprofile-openapi-tck
 versioning:
-  latest: 9.1.2
-  release: 9.1.2
+  latest: 10.0.0-M1
+  release: 10.0.0-M1
   versions:
   - 8.0.0-M1
   - 8.0.0-M2
@@ -32,4 +32,5 @@ versioning:
   - 9.1.0
   - 9.1.1
   - 9.1.2
-  lastUpdated: 20231219160005
+  - 10.0.0-M1
+  lastUpdated: 20240408073140
