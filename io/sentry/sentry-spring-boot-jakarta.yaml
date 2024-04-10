@@ -3,8 +3,8 @@
 groupId: io.sentry
 artifactId: sentry-spring-boot-jakarta
 versioning:
-  latest: 7.7.0
-  release: 7.7.0
+  latest: 7.8.0
+  release: 7.8.0
   versions:
   - 6.28.0
   - 6.29.0
@@ -26,4 +26,6 @@ versioning:
   - 7.5.0
   - 7.6.0
   - 7.7.0
-  lastUpdated: 20240408101317
+  - 7.8.0-alpha.0
+  - 7.8.0
+  lastUpdated: 20240409135054

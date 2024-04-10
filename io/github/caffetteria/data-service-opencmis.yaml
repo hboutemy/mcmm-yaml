@@ -3,10 +3,11 @@
 groupId: io.github.caffetteria
 artifactId: data-service-opencmis
 versioning:
-  latest: 0.2.1
-  release: 0.2.1
+  latest: ${revision}
+  release: ${revision}
   versions:
+  - 0.1.0
   - 0.2.0
   - 0.2.1
-  - 0.1.0
-  lastUpdated: 20240324213133
+  - 1.0.0
+  lastUpdated: 20240409214851

@@ -3,8 +3,8 @@
 groupId: com.gu.play-secret-rotation
 artifactId: core_2.13
 versioning:
-  latest: 8.2.0-PREVIEW.fix-forgotten-CSRFTokenSigner.2024-04-04T1033.6be2ecaa
-  release: 8.2.0-PREVIEW.fix-forgotten-CSRFTokenSigner.2024-04-04T1033.6be2ecaa
+  latest: 9.0.0-PREVIEW.try-to-fix-dropping-play-27.2024-04-09T1434.cd295225
+  release: 9.0.0-PREVIEW.try-to-fix-dropping-play-27.2024-04-09T1434.cd295225
   versions:
   - 0.17
   - 0.18
@@ -44,4 +44,7 @@ versioning:
   - 8.2.0
   - 8.2.0-PREVIEW.fix-forgotten-CSRFTokenSigner.2024-04-03T1534.859d8077
   - 8.2.0-PREVIEW.fix-forgotten-CSRFTokenSigner.2024-04-04T1033.6be2ecaa
-  lastUpdated: 20240404154756
+  - 8.2.1
+  - 8.2.1-PREVIEW.fix-dropping-play-27.2024-04-09T1528.d1a385ed
+  - 9.0.0-PREVIEW.try-to-fix-dropping-play-27.2024-04-09T1434.cd295225
+  lastUpdated: 20240409172328

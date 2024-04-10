@@ -3,8 +3,8 @@
 groupId: com.vonage
 artifactId: webrtc
 versioning:
-  latest: 121.0.0-prealpha.42
-  release: 121.0.0-prealpha.42
+  latest: 121.0.45
+  release: 121.0.45
   versions:
   - 84.0.0-alpha.33
   - 84.0.0-alpha.34
@@ -295,9 +295,12 @@ versioning:
   - 99.12.0-dev.353
   - 99.12.38
   - 99.12.39
+  - 99.13.0-alpha.44
   - 99.13.0-dev.4
   - 99.13.0-dev.14
   - 99.13.0-dev.38
+  - 99.13.0-dev.39
+  - 99.13.0-dev.41
   - 99.13.0-dev.54
   - 99.13.0-dev.364
   - 99.13.0-pre_alpha.26
@@ -313,9 +316,11 @@ versioning:
   - 99.13.0-prealpha.40
   - 99.13.0-prealpha.41
   - 99.13.0-prealpha.42
+  - 99.13.0-prealpha.43
   - 99.13.40
   - 99.13.41
   - 99.13.42
+  - 99.13.45
   - 107.0.0-alpha.54
   - 107.0.0-alpha.55
   - 107.0.0-alpha.56
@@ -359,7 +364,10 @@ versioning:
   - 107.2.20
   - 107.2.22
   - 107.2.24
+  - 121.0.0-alpha.44
   - 121.0.0-dev.38
+  - 121.0.0-dev.39
+  - 121.0.0-dev.41
   - 121.0.0-prealpha.33
   - 121.0.0-prealpha.34
   - 121.0.0-prealpha.37
@@ -367,4 +375,6 @@ versioning:
   - 121.0.0-prealpha.40
   - 121.0.0-prealpha.41
   - 121.0.0-prealpha.42
-  lastUpdated: 20240408162542
+  - 121.0.0-prealpha.43
+  - 121.0.45
+  lastUpdated: 20240409140115

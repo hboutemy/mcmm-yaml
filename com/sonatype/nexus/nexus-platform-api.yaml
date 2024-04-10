@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.sonatype.nexus
 artifactId: nexus-platform-api
 versioning:
-  latest: 5.0.3-01
-  release: 5.0.3-01
+  latest: 5.1.0-01
+  release: 5.1.0-01
   versions:
   - 1.8.20171120-150856.6c36986
   - 2.0.20180212-160835.18d3fae
@@ -126,10 +126,11 @@ versioning:
   - 5.0.1-01
   - 5.0.2-01
   - 5.0.3-01
+  - 5.1.0-01
   - 1.2.0-01
   - 1.3.0-02
   - 1.4.20170414-164800.e1f9f41
   - 1.4.20170622-165204.f1244bd
   - 1.6.20170726-165708.3e35cd4
   - 1.7.20170929-121951.293626c
-  lastUpdated: 20240306172921
+  lastUpdated: 20240409135546
