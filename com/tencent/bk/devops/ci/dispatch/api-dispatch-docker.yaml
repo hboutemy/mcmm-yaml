@@ -3,8 +3,8 @@
 groupId: com.tencent.bk.devops.ci.dispatch
 artifactId: api-dispatch-docker
 versioning:
-  latest: 2.1.0-rc.2
-  release: 2.1.0-rc.2
+  latest: 2.1.0
+  release: 2.1.0
   versions:
   - 1.1.2-RELEASE
   - 1.1.10-RELEASE
@@ -17,4 +17,5 @@ versioning:
   - 1.13.0
   - 1.14.0-rc.1
   - 2.1.0-rc.2
-  lastUpdated: 20240226135510
+  - 2.1.0
+  lastUpdated: 20240410112712

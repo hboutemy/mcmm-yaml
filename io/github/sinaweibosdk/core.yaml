@@ -3,8 +3,8 @@
 groupId: io.github.sinaweibosdk
 artifactId: core
 versioning:
-  latest: 13.10.2-config-patch
-  release: 13.10.2-config-patch
+  latest: 13.10.2-without-build
+  release: 13.10.2-without-build
   versions:
   - 11.6.0
   - 11.8.0
@@ -24,4 +24,5 @@ versioning:
   - 13.10.1
   - 13.10.2
   - 13.10.2-config-patch
-  lastUpdated: 20240408075541
+  - 13.10.2-without-build
+  lastUpdated: 20240410075050
