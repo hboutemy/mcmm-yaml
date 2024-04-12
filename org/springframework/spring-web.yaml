@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework
 artifactId: spring-web
 versioning:
-  latest: 6.1.5
-  release: 6.1.5
+  latest: 6.1.6
+  release: 6.1.6
   versions:
   - 1.0-rc1
   - 1.0
@@ -246,6 +246,7 @@ versioning:
   - 5.3.31
   - 5.3.32
   - 5.3.33
+  - 5.3.34
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -265,15 +266,17 @@ versioning:
   - 6.0.16
   - 6.0.17
   - 6.0.18
+  - 6.0.19
   - 6.1.0
   - 6.1.1
   - 6.1.2
   - 6.1.3
   - 6.1.4
   - 6.1.5
+  - 6.1.6
   - 2.0-m3
   - 2.0-m4
   - 2.0-m5
   - 2.0-rc1
   - 2.0-rc2
-  lastUpdated: 20240314102154
+  lastUpdated: 20240411084716
