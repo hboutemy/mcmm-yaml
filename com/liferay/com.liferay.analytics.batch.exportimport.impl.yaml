@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.analytics.batch.exportimport.impl
 versioning:
-  latest: 3.0.12
-  release: 3.0.12
+  latest: 3.0.13
+  release: 3.0.13
   versions:
   - 1.0.0
   - 1.0.1
@@ -53,4 +52,5 @@ versioning:
   - 3.0.10
   - 3.0.11
   - 3.0.12
-  lastUpdated: 20240327120250
+  - 3.0.13
+  lastUpdated: 20240412073906

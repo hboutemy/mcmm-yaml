@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.headless.admin.workflow.impl
 versioning:
-  latest: 5.0.74
-  release: 5.0.74
+  latest: 5.0.75
+  release: 5.0.75
   versions:
   - 1.0.0
   - 1.0.1
@@ -320,4 +319,5 @@ versioning:
   - 5.0.72
   - 5.0.73
   - 5.0.74
-  lastUpdated: 20240327094318
+  - 5.0.75
+  lastUpdated: 20240412080955

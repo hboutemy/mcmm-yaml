@@ -3,8 +3,8 @@
 groupId: com.diboot
 artifactId: diboot-core
 versioning:
-  latest: 3.2.0
-  release: 3.2.0
+  latest: 3.3.0-jdk8
+  release: 3.3.0-jdk8
   versions:
   - 2.0.0
   - 2.0.1
@@ -35,4 +35,6 @@ versioning:
   - 3.1.0
   - 3.1.2
   - 3.2.0
-  lastUpdated: 20240131015215
+  - 3.3.0
+  - 3.3.0-jdk8
+  lastUpdated: 20240412070610

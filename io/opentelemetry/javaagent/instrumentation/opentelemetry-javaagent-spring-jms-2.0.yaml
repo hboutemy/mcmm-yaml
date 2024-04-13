@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-spring-jms-2.0
 versioning:
-  latest: 2.2.0-alpha
-  release: 2.2.0-alpha
+  latest: 2.3.0-alpha
+  release: 2.3.0-alpha
   versions:
   - 1.16.0-alpha
   - 1.17.0-alpha
@@ -35,4 +35,5 @@ versioning:
   - 2.0.0-alpha
   - 2.1.0-alpha
   - 2.2.0-alpha
-  lastUpdated: 20240320121819
+  - 2.3.0-alpha
+  lastUpdated: 20240412004046

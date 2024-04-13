@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.fabric8
 artifactId: kubernetes-model
 versioning:
-  latest: 6.11.0
-  release: 6.11.0
+  latest: 6.12.0
+  release: 6.12.0
   versions:
   - 0.1.0
   - 0.1.1
@@ -212,5 +212,6 @@ versioning:
   - 6.9.2
   - 6.10.0
   - 6.11.0
+  - 6.12.0
   - 9.0.2
-  lastUpdated: 20240325133651
+  lastUpdated: 20240412113603

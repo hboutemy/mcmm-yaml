@@ -3,10 +3,11 @@
 groupId: com.pulumi
 artifactId: kong
 versioning:
-  latest: 4.6.0-alpha.1712728140+1f239ae9
-  release: 4.6.0-alpha.1712728140+1f239ae9
+  latest: 4.6.0-alpha.1712914540+be92f1a5
+  release: 4.6.0-alpha.1712914540+be92f1a5
   versions:
   - 4.5.2
+  - 4.5.3
   - 4.6.0-alpha.1668657891+23aa6df0
   - 4.6.0-alpha.1673556127+f0dad607
   - 4.6.0-alpha.1677784192+fd0c78f9
@@ -99,4 +100,5 @@ versioning:
   - 4.6.0-alpha.1712122682+ae55c40f
   - 4.6.0-alpha.1712399900+113dd107
   - 4.6.0-alpha.1712728140+1f239ae9
-  lastUpdated: 20240410062646
+  - 4.6.0-alpha.1712914540+be92f1a5
+  lastUpdated: 20240412103258

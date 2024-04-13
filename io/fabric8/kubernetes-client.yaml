@@ -3,8 +3,8 @@
 groupId: io.fabric8
 artifactId: kubernetes-client
 versioning:
-  latest: 6.11.0
-  release: 6.11.0
+  latest: 6.12.0
+  release: 6.12.0
   versions:
   - 1.0.0
   - 1.0.81
@@ -296,4 +296,5 @@ versioning:
   - 6.9.2
   - 6.10.0
   - 6.11.0
-  lastUpdated: 20240325133637
+  - 6.12.0
+  lastUpdated: 20240412113547
