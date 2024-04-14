@@ -3,8 +3,8 @@
 groupId: io.zipkin.zipkin2
 artifactId: zipkin-collector-scribe
 versioning:
-  latest: 3.1.1
-  release: 3.1.1
+  latest: 3.2.1
+  release: 3.2.1
   versions:
   - 2.9.0
   - 2.9.1
@@ -107,4 +107,6 @@ versioning:
   - 3.0.6
   - 3.1.0
   - 3.1.1
-  lastUpdated: 20240307062228
+  - 3.2.0
+  - 3.2.1
+  lastUpdated: 20240413180354
