@@ -3,12 +3,14 @@
 groupId: io.quarkiverse.opentelemetry.exporter
 artifactId: quarkus-opentelemetry-exporter-gcp-integration-tests
 versioning:
-  latest: 3.5.3.Final
-  release: 3.5.3.Final
+  latest: 3.8.3.0
+  release: 3.8.3.0
   versions:
   - 1.1.0.Final
   - 1.1.1.Final
   - 2.0.0.Final
   - 3.5.0.Final
   - 3.5.3.Final
-  lastUpdated: 20240311145035
+  - 3.5.3.1
+  - 3.8.3.0
+  lastUpdated: 20240414223441
