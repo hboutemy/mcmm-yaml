@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.identity.user.registration.ui.feature
 versioning:
-  latest: 7.1.12
-  release: 7.1.12
+  latest: 7.1.15
+  release: 7.1.15
   versions:
   - 5.5.0
   - 5.5.1
@@ -2305,4 +2305,7 @@ versioning:
   - 7.1.10
   - 7.1.11
   - 7.1.12
-  lastUpdated: 20240413164816
+  - 7.1.13
+  - 7.1.14
+  - 7.1.15
+  lastUpdated: 20240415173504

@@ -3,8 +3,8 @@
 groupId: com.yahoo.vespa
 artifactId: container-onnxruntime
 versioning:
-  latest: 8.328.24
-  release: 8.328.24
+  latest: 8.330.52
+  release: 8.330.52
   versions:
   - 8.98.34
   - 8.99.32
@@ -187,4 +187,6 @@ versioning:
   - 8.325.46
   - 8.327.49
   - 8.328.24
-  lastUpdated: 20240410162825
+  - 8.329.17
+  - 8.330.52
+  lastUpdated: 20240415222638

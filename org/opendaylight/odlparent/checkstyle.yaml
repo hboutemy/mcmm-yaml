@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.odlparent
 artifactId: checkstyle
 versioning:
-  latest: 13.1.0
-  release: 13.1.0
+  latest: 13.1.1
+  release: 13.1.1
   versions:
   - 0.0.1-Lithium
   - 0.0.2-Lithium-SR1
@@ -174,4 +174,5 @@ versioning:
   - 13.0.10
   - 13.0.11
   - 13.1.0
-  lastUpdated: 20240414091729
+  - 13.1.1
+  lastUpdated: 20240415092750
