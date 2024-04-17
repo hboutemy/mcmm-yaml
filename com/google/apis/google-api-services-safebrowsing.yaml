@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-safebrowsing
 versioning:
-  latest: v5-rev20240211-2.0.0
-  release: v5-rev20240211-2.0.0
+  latest: v5-rev20240414-2.0.0
+  release: v5-rev20240414-2.0.0
   versions:
   - v4-rev1-1.18.0-rc
   - v4-rev1-1.19.1
@@ -404,4 +404,5 @@ versioning:
   - v4-rev20230212-2.0.0
   - v5-rev20230923-2.0.0
   - v5-rev20240211-2.0.0
-  lastUpdated: 20240216094309
+  - v5-rev20240414-2.0.0
+  lastUpdated: 20240416084915

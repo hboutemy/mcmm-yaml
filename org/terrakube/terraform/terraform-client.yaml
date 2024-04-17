@@ -3,8 +3,8 @@
 groupId: org.terrakube.terraform
 artifactId: terraform-client
 versioning:
-  latest: 0.14.0-beta.2
-  release: 0.14.0-beta.2
+  latest: 0.14.0
+  release: 0.14.0
   versions:
   - 0.6.2
   - 0.6.3
@@ -24,4 +24,5 @@ versioning:
   - 0.13.0
   - 0.14.0-beta.1
   - 0.14.0-beta.2
-  lastUpdated: 20240322215213
+  - 0.14.0
+  lastUpdated: 20240416225708

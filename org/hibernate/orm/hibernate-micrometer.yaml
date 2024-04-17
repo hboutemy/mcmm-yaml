@@ -3,8 +3,8 @@
 groupId: org.hibernate.orm
 artifactId: hibernate-micrometer
 versioning:
-  latest: 6.5.0.CR2
-  release: 6.5.0.CR2
+  latest: 7.0.0.Alpha1
+  release: 7.0.0.Alpha1
   versions:
   - 6.0.0.Alpha7
   - 6.0.0.Alpha8
@@ -66,4 +66,5 @@ versioning:
   - 6.4.4.Final
   - 6.5.0.CR1
   - 6.5.0.CR2
-  lastUpdated: 20240412185207
+  - 7.0.0.Alpha1
+  lastUpdated: 20240416160019
