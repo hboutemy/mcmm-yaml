@@ -3,8 +3,8 @@
 groupId: io.spinnaker.clouddriver
 artifactId: cats-redis
 versioning:
-  latest: 5.84.0
-  release: 5.84.0
+  latest: 5.85.0
+  release: 5.85.0
   versions:
   - 5.74.0
   - 5.74.2
@@ -56,5 +56,7 @@ versioning:
   - 5.82.1
   - 5.82.2
   - 5.83.0
+  - 5.83.1
   - 5.84.0
-  lastUpdated: 20240404183821
+  - 5.85.0
+  lastUpdated: 20240417205646
