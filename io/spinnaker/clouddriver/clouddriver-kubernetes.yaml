@@ -3,8 +3,8 @@
 groupId: io.spinnaker.clouddriver
 artifactId: clouddriver-kubernetes
 versioning:
-  latest: 5.85.0
-  release: 5.85.0
+  latest: 5.85.1
+  release: 5.85.1
   versions:
   - 5.74.0
   - 5.74.2
@@ -59,4 +59,5 @@ versioning:
   - 5.83.1
   - 5.84.0
   - 5.85.0
-  lastUpdated: 20240417205709
+  - 5.85.1
+  lastUpdated: 20240418184340

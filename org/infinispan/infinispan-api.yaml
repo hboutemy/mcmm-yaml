@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-api
 versioning:
-  latest: 15.0.1.Final
-  release: 15.0.1.Final
+  latest: 15.0.2.Final
+  release: 15.0.2.Final
   versions:
   - 5.1.0.BETA4
   - 5.1.0.BETA5
@@ -161,5 +161,6 @@ versioning:
   - 15.0.0.Dev09
   - 15.0.0.Dev10
   - 15.0.1.Final
+  - 15.0.2.Final
   - 12.0.0.Dev03
-  lastUpdated: 20240416124412
+  lastUpdated: 20240418154211

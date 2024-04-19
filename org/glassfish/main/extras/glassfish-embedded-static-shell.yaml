@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.main.extras
 artifactId: glassfish-embedded-static-shell
 versioning:
-  latest: 8.0.0-M3
-  release: 8.0.0-M3
+  latest: 8.0.0-JDK17-M5
+  release: 8.0.0-JDK17-M5
   versions:
   - 5.1.0
   - 6.0.0-M1
@@ -44,6 +44,8 @@ versioning:
   - 8.0.0-M1
   - 8.0.0-M2
   - 8.0.0-M3
+  - 8.0.0-M5
+  - 8.0.0-JDK17-M5
   - 3.1.2
   - 3.1.2.2
   - 4.0
@@ -57,4 +59,4 @@ versioning:
   - 5.0.1
   - 5.1.0-RC1
   - 5.1.0-RC2
-  lastUpdated: 20240331142419
+  lastUpdated: 20240418131806

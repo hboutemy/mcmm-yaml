@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.event.handler.notification
 artifactId: org.wso2.carbon.email.mgt.feature
 versioning:
-  latest: 1.8.11
-  release: 1.8.11
+  latest: 1.8.13
+  release: 1.8.13
   versions:
   - 0.1.0
   - 0.1.1
@@ -98,4 +98,6 @@ versioning:
   - 1.8.9
   - 1.8.10
   - 1.8.11
-  lastUpdated: 20240417054830
+  - 1.8.12
+  - 1.8.13
+  lastUpdated: 20240418113115
