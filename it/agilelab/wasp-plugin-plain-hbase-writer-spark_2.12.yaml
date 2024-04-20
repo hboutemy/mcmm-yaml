@@ -3,8 +3,8 @@
 groupId: it.agilelab
 artifactId: wasp-plugin-plain-hbase-writer-spark_2.12
 versioning:
-  latest: 2.32.1-emr212
-  release: 2.32.1-emr212
+  latest: 2.33.0-emr212
+  release: 2.33.0-emr212
   versions:
   - 2.29.0
   - 2.29.0-emr212
@@ -22,4 +22,6 @@ versioning:
   - 2.32.0-emr212
   - 2.32.1
   - 2.32.1-emr212
-  lastUpdated: 20240222144543
+  - 2.33.0
+  - 2.33.0-emr212
+  lastUpdated: 20240419082927

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-marshaller-protostuff
 versioning:
-  latest: 14.0.27.Final
-  release: 14.0.27.Final
+  latest: 14.0.28.Final
+  release: 14.0.28.Final
   versions:
   - 9.0.0.Beta1
   - 9.0.0.Beta2
@@ -228,5 +228,6 @@ versioning:
   - 14.0.25.Final
   - 14.0.26.Final
   - 14.0.27.Final
+  - 14.0.28.Final
   - 12.0.0.Dev03
-  lastUpdated: 20240416124439
+  lastUpdated: 20240419082013

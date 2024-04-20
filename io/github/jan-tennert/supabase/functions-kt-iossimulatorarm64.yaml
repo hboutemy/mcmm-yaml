@@ -3,8 +3,8 @@
 groupId: io.github.jan-tennert.supabase
 artifactId: functions-kt-iossimulatorarm64
 versioning:
-  latest: 2.3.0-coil3d1
-  release: 2.3.0-coil3d1
+  latest: 2.3.0-wasm0
+  release: 2.3.0-wasm0
   versions:
   - 0.8.4-ios-2
   - 0.8.5-ios
@@ -126,4 +126,5 @@ versioning:
   - 2.3.0-rc-1
   - 2.3.0
   - 2.3.0-coil3d1
-  lastUpdated: 20240415082515
+  - 2.3.0-wasm0
+  lastUpdated: 20240419180031
