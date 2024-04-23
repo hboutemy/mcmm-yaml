@@ -3,8 +3,8 @@
 groupId: org.wso2.maven
 artifactId: wso2-release-pre-prepare-plugin
 versioning:
-  latest: 5.2.42
-  release: 5.2.42
+  latest: 5.2.51
+  release: 5.2.51
   versions:
   - 5.1.1
   - 5.1.2
@@ -43,4 +43,6 @@ versioning:
   - 5.2.39
   - 5.2.41
   - 5.2.42
-  lastUpdated: 20230126043538
+  - 5.2.50
+  - 5.2.51
+  lastUpdated: 20240422072132
