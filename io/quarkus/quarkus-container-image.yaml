@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-container-image
 versioning:
-  latest: 3.10.0.CR1
-  release: 3.10.0.CR1
+  latest: 3.10.0
+  release: 3.10.0
   versions:
   - 1.8.2.Final
   - 1.8.3.Final
@@ -232,4 +232,5 @@ versioning:
   - 3.9.3
   - 3.9.4
   - 3.10.0.CR1
-  lastUpdated: 20240418093624
+  - 3.10.0
+  lastUpdated: 20240423165321

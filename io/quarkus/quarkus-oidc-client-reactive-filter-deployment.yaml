@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-oidc-client-reactive-filter-deployment
 versioning:
-  latest: 3.10.0.CR1
-  release: 3.10.0.CR1
+  latest: 3.10.0
+  release: 3.10.0
   versions:
   - 2.0.0.Alpha2
   - 2.0.0.Alpha3
@@ -194,4 +194,5 @@ versioning:
   - 3.9.3
   - 3.9.4
   - 3.10.0.CR1
-  lastUpdated: 20240418093855
+  - 3.10.0
+  lastUpdated: 20240423165555
