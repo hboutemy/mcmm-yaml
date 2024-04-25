@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.cxf
 artifactId: quarkus-cxf-integration-test-wsdl2java-no-config
 versioning:
-  latest: 3.10.0.CR1
-  release: 3.10.0.CR1
+  latest: 3.10.0
+  release: 3.10.0
   versions:
   - 1.5.13
   - 1.5.14
@@ -42,4 +42,5 @@ versioning:
   - 3.8.3
   - 3.9.0
   - 3.10.0.CR1
-  lastUpdated: 20240417070715
+  - 3.10.0
+  lastUpdated: 20240424071515

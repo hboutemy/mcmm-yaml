@@ -3,8 +3,8 @@
 groupId: io.micronaut.build.internal.quality-reporting
 artifactId: io.micronaut.build.internal.quality-reporting.gradle.plugin
 versioning:
-  latest: 6.7.1
-  release: 6.7.1
+  latest: 7.0.1
+  release: 7.0.1
   versions:
   - 5.2.0
   - 5.2.1
@@ -77,4 +77,6 @@ versioning:
   - 6.6.4
   - 6.7.0
   - 6.7.1
-  lastUpdated: 20240423102901
+  - 7.0.0
+  - 7.0.1
+  lastUpdated: 20240424154826

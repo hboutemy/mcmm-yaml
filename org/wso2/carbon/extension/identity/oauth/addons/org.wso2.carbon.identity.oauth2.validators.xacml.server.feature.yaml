@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.extension.identity.oauth.addons
 artifactId: org.wso2.carbon.identity.oauth2.validators.xacml.server.feature
 versioning:
-  latest: 2.5.6
-  release: 2.5.6
+  latest: 2.5.7
+  release: 2.5.7
   versions:
   - 1.0.5
   - 1.0.6
@@ -57,4 +57,5 @@ versioning:
   - 2.5.4
   - 2.5.5
   - 2.5.6
-  lastUpdated: 20240422031428
+  - 2.5.7
+  lastUpdated: 20240424121230
