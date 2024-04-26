@@ -3,8 +3,8 @@
 groupId: org.wildfly.cloud
 artifactId: wildfly-cloud-galleon-pack-common
 versioning:
-  latest: 7.0.0.Beta2
-  release: 7.0.0.Beta2
+  latest: 7.0.0.Final
+  release: 7.0.0.Final
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -43,4 +43,5 @@ versioning:
   - 6.0.0.Final
   - 7.0.0.Beta1
   - 7.0.0.Beta2
-  lastUpdated: 20240410150312
+  - 7.0.0.Final
+  lastUpdated: 20240425075928

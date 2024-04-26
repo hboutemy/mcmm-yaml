@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-clustering-marshalling-spi
 versioning:
-  latest: 32.0.0.Beta1
-  release: 32.0.0.Beta1
+  latest: 32.0.0.Final
+  release: 32.0.0.Final
   versions:
   - 11.0.0.Alpha1
   - 11.0.0.Beta1
@@ -85,4 +85,5 @@ versioning:
   - 31.0.0.Beta1
   - 31.0.0.Final
   - 32.0.0.Beta1
-  lastUpdated: 20240405121818
+  - 32.0.0.Final
+  lastUpdated: 20240424233714

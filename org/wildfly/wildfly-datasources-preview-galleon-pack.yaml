@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-datasources-preview-galleon-pack
 versioning:
-  latest: 8.0.0.Beta1
-  release: 8.0.0.Beta1
+  latest: 8.0.0.Final
+  release: 8.0.0.Final
   versions:
   - 2.1.0.Final
   - 2.1.1.Final
@@ -26,4 +26,5 @@ versioning:
   - 6.0.0.Final
   - 7.0.0.Final
   - 8.0.0.Beta1
-  lastUpdated: 20240405132710
+  - 8.0.0.Final
+  lastUpdated: 20240425065159
