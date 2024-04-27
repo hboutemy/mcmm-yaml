@@ -3,8 +3,8 @@
 groupId: io.sentry
 artifactId: sentry-servlet-jakarta
 versioning:
-  latest: 7.8.0
-  release: 7.8.0
+  latest: 7.9.0-alpha.1
+  release: 7.9.0-alpha.1
   versions:
   - 6.0.0-alpha.6
   - 6.0.0-beta.1
@@ -86,4 +86,5 @@ versioning:
   - 7.7.0
   - 7.8.0-alpha.0
   - 7.8.0
-  lastUpdated: 20240409135052
+  - 7.9.0-alpha.1
+  lastUpdated: 20240426151955
