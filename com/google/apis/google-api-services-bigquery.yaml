@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-bigquery
 versioning:
-  latest: v2-rev20240323-2.0.0
-  release: v2-rev20240323-2.0.0
+  latest: v2-rev20240418-2.0.0
+  release: v2-rev20240418-2.0.0
   versions:
   - v2-rev75-1.13.2-beta
   - v2-rev75-1.14.1-beta
@@ -1178,4 +1178,5 @@ versioning:
   - v2-rev20240211-2.0.0
   - v2-rev20240229-2.0.0
   - v2-rev20240323-2.0.0
-  lastUpdated: 20240413083113
+  - v2-rev20240418-2.0.0
+  lastUpdated: 20240428080645
