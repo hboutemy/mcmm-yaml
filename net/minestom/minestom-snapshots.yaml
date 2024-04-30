@@ -27,6 +27,7 @@ versioning:
   - chat-event-fix-351b9b1d68
   - chat-event-fix-cd848b0ffa
   - chunk_load_event_in_instance_thread-6f01aa51ff
+  - d0c7d7350e
   - d04e9e3e71
   - d86b890cc6
   - d595ce3468
@@ -60,7 +61,9 @@ versioning:
   - improved-pathfinding-46a49ea393
   - improved-pathfinding-282a0fc761
   - improved-pathfinding-0918b8748c
+  - improved-pathfinding-1727c048ac
   - improved-pathfinding-79532f2f3b
+  - improved-pathfinding-18567166f8
   - improved-pathfinding-c063688be0
   - improved-pathfinding-ca39a4cb1a
   - improved-pathfinding-ce4a8290d7
@@ -80,6 +83,7 @@ versioning:
   - lighting-fix-34-25ecc1cef5
   - lighting-fix-34-77aa2b398d
   - lighting-fix-34-502d51d235
+  - lighting-fix-35-1b5169f62a
   - lighting-javadoc-09f100249c
   - particle-data-2a0acf785c
   - particle-data-5e801d6108
@@ -119,15 +123,21 @@ versioning:
   - vanilla-biome-loading-d745b4dc75
   - vanilla-biome-loading-fd8259c17c
   - 1b9e186c3a
+  - 1_20_5-b0ff296e5d
+  - 1_20_5-b938dad0c1
   - 1_20_5-c29fe5a10a
   - 1_20_5-d18e06188f
   - 1_20_5-d51c6c75e2
   - 1_20_5-e774049eaf
+  - 1_20_5-f0ac7aca7b
+  - 1_20_5-f7c13647de
   - 1_20_5-3a6dfc6e67
+  - 1_20_5-3fd8904a0e
   - 1_20_5-95c5f6675f
   - 1_20_5-250c3abfba
   - 1_20_5-702f3dfd91
   - 2ff143a61d
+  - 3de64aafd8
   - 4b31570c9d
   - 4d2e78e7cf
   - 4f1017d398
@@ -174,4 +184,4 @@ versioning:
   - 154059468e
   - 7320437640
   - 0c9527118a
-  lastUpdated: 20240428161222
+  lastUpdated: 20240429220901
