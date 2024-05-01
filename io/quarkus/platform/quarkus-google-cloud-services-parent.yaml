@@ -3,8 +3,8 @@
 groupId: io.quarkus.platform
 artifactId: quarkus-google-cloud-services-parent
 versioning:
-  latest: 3.10.0.CR1
-  release: 3.10.0.CR1
+  latest: 3.10.0
+  release: 3.10.0
   versions:
   - 2.0.0.Final
   - 2.0.1.Final
@@ -173,4 +173,5 @@ versioning:
   - 3.9.4
   - 3.9.5
   - 3.10.0.CR1
-  lastUpdated: 20240427132111
+  - 3.10.0
+  lastUpdated: 20240430081408

@@ -3,8 +3,8 @@
 groupId: io.quarkus.qe
 artifactId: quarkus-test-service-grpc
 versioning:
-  latest: 1.4.2.Beta11
-  release: 1.4.2.Beta11
+  latest: 1.5.0.Beta1
+  release: 1.5.0.Beta1
   versions:
   - 1.1.1.Final
   - 1.1.2.Final
@@ -77,4 +77,6 @@ versioning:
   - 1.4.2.Beta9
   - 1.4.2.Beta10
   - 1.4.2.Beta11
-  lastUpdated: 20240426142142
+  - 1.4.4
+  - 1.5.0.Beta1
+  lastUpdated: 20240430180452
