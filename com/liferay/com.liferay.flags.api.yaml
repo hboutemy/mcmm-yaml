@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.flags.api
 versioning:
-  latest: 6.2.1
-  release: 6.2.1
+  latest: 7.0.0
+  release: 7.0.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -161,4 +160,5 @@ versioning:
   - 6.1.1
   - 6.2.0
   - 6.2.1
-  lastUpdated: 20240228111643
+  - 7.0.0
+  lastUpdated: 20240502200639

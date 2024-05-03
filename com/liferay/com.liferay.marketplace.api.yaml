@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.marketplace.api
 versioning:
-  latest: 10.0.0
-  release: 10.0.0
+  latest: 11.0.0
+  release: 11.0.0
   versions:
   - 1.0.0
   - 2.0.0
@@ -126,5 +125,6 @@ versioning:
   - 9.4.0
   - 9.4.1
   - 10.0.0
+  - 11.0.0
   - 4.4.9
-  lastUpdated: 20240131095419
+  lastUpdated: 20240502202212
