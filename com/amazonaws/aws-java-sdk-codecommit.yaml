@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-codecommit
 versioning:
-  latest: 1.12.713
-  release: 1.12.713
+  latest: 1.12.715
+  release: 1.12.715
   versions:
   - 1.10.4
   - 1.10.4.1
@@ -1830,4 +1830,6 @@ versioning:
   - 1.12.711
   - 1.12.712
   - 1.12.713
-  lastUpdated: 20240501211641
+  - 1.12.714
+  - 1.12.715
+  lastUpdated: 20240503210454

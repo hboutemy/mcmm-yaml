@@ -3,8 +3,8 @@
 groupId: com.oracle.database.jdbc
 artifactId: ojdbc-bom
 versioning:
-  latest: 23.3.0.23.09
-  release: 23.3.0.23.09
+  latest: 23.4.0.24.05
+  release: 23.4.0.24.05
   versions:
   - 18.15.0.0
   - 19.7.0.0
@@ -41,4 +41,5 @@ versioning:
   - 21.13.0.0
   - 23.2.0.0
   - 23.3.0.23.09
-  lastUpdated: 20240222163715
+  - 23.4.0.24.05
+  lastUpdated: 20240503174158

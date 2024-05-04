@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-glue
 versioning:
-  latest: 1.12.713
-  release: 1.12.713
+  latest: 1.12.715
+  release: 1.12.715
   versions:
   - 1.11.177
   - 1.11.178
@@ -1574,4 +1574,6 @@ versioning:
   - 1.12.711
   - 1.12.712
   - 1.12.713
-  lastUpdated: 20240501211708
+  - 1.12.714
+  - 1.12.715
+  lastUpdated: 20240503210516

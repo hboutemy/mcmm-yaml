@@ -3,8 +3,8 @@
 groupId: io.gravitee.node
 artifactId: gravitee-node-cluster-plugin-hazelcast
 versioning:
-  latest: 5.14.0
-  release: 5.14.0
+  latest: 5.14.1
+  release: 5.14.1
   versions:
   - 3.1.0-alpha.2
   - 3.1.0-alpha.3
@@ -72,4 +72,5 @@ versioning:
   - 5.12.4
   - 5.13.0
   - 5.14.0
-  lastUpdated: 20240502081330
+  - 5.14.1
+  lastUpdated: 20240503155412

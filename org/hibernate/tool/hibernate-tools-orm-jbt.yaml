@@ -3,8 +3,8 @@
 groupId: org.hibernate.tool
 artifactId: hibernate-tools-orm-jbt
 versioning:
-  latest: 6.5.0.CR2
-  release: 6.5.0.CR2
+  latest: 6.5.0.Final
+  release: 6.5.0.Final
   versions:
   - 6.2.6.Final
   - 6.2.6a.Final
@@ -39,6 +39,8 @@ versioning:
   - 6.4.4.Final
   - 6.4.5.Final
   - 6.4.6.Final
+  - 6.4.7.Final
   - 6.5.0.CR1
   - 6.5.0.CR2
-  lastUpdated: 20240502165948
+  - 6.5.0.Final
+  lastUpdated: 20240503162941
