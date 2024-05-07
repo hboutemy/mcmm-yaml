@@ -3,8 +3,8 @@
 groupId: org.apache.nifi
 artifactId: nifi-hbase_1_1_2-client-service-nar
 versioning:
-  latest: 1.25.0
-  release: 1.25.0
+  latest: 1.26.0
+  release: 1.26.0
   versions:
   - 0.4.0
   - 0.4.1
@@ -66,4 +66,5 @@ versioning:
   - 1.23.2
   - 1.24.0
   - 1.25.0
-  lastUpdated: 20240130150732
+  - 1.26.0
+  lastUpdated: 20240506183601
