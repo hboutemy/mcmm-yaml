@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-aiplatform
 versioning:
-  latest: v1-rev20240429-2.0.0
-  release: v1-rev20240429-2.0.0
+  latest: v1-rev20240501-2.0.0
+  release: v1-rev20240501-2.0.0
   versions:
   - v1beta1-rev20230727-2.0.0
   - v1beta1-rev20230809-2.0.0
@@ -36,6 +36,7 @@ versioning:
   - v1beta1-rev20240404-2.0.0
   - v1beta1-rev20240417-2.0.0
   - v1beta1-rev20240429-2.0.0
+  - v1beta1-rev20240501-2.0.0
   - v1-rev20230727-2.0.0
   - v1-rev20230809-2.0.0
   - v1-rev20230812-2.0.0
@@ -65,4 +66,5 @@ versioning:
   - v1-rev20240328-2.0.0
   - v1-rev20240417-2.0.0
   - v1-rev20240429-2.0.0
-  lastUpdated: 20240501081055
+  - v1-rev20240501-2.0.0
+  lastUpdated: 20240507081240

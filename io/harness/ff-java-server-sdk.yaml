@@ -3,8 +3,8 @@
 groupId: io.harness
 artifactId: ff-java-server-sdk
 versioning:
-  latest: 1.5.2
-  release: 1.5.2
+  latest: 1.5.2-okhttp3x
+  release: 1.5.2-okhttp3x
   versions:
   - 0.0.1
   - 0.0.2
@@ -54,4 +54,5 @@ versioning:
   - 1.5.0
   - 1.5.1
   - 1.5.2
-  lastUpdated: 20240304150456
+  - 1.5.2-okhttp3x
+  lastUpdated: 20240507110048

@@ -3,8 +3,8 @@
 groupId: org.anyline
 artifactId: anyline-data-jdbc-gaussdb
 versioning:
-  latest: 8.7.2-20240506
-  release: 8.7.2-20240506
+  latest: 8.7.2-20240507
+  release: 8.7.2-20240507
   versions:
   - 8.7.1-jdk17-20240220
   - 8.7.1-jdk17-20240221
@@ -51,6 +51,7 @@ versioning:
   - 8.7.2-jdk17-20240501
   - 8.7.2-jdk17-20240505
   - 8.7.2-jdk17-20240506
+  - 8.7.2-jdk17-20240507
   - 8.7.2-jdk21-20240501
   - 8.7.2-jdk21-20240505
   - 8.7.2-20240411
@@ -61,4 +62,5 @@ versioning:
   - 8.7.2-20240501
   - 8.7.2-20240505
   - 8.7.2-20240506
-  lastUpdated: 20240506123556
+  - 8.7.2-20240507
+  lastUpdated: 20240507115722

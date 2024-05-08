@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty
 artifactId: jetty-alpn-conscrypt-client
 versioning:
-  latest: 12.0.8
-  release: 12.0.8
+  latest: 12.0.9
+  release: 12.0.9
   versions:
   - 9.4.8.v20171121
   - 9.4.8.v20180619
@@ -130,4 +130,5 @@ versioning:
   - 12.0.6
   - 12.0.7
   - 12.0.8
-  lastUpdated: 20240403130111
+  - 12.0.9
+  lastUpdated: 20240507152618
