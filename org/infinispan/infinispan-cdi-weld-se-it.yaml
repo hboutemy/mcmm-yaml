@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-cdi-weld-se-it
 versioning:
-  latest: 15.0.2.Final
-  release: 15.0.2.Final
+  latest: 15.0.3.Final
+  release: 15.0.3.Final
   versions:
   - 8.1.0.Beta1
   - 8.1.0.CR1
@@ -274,5 +274,6 @@ versioning:
   - 15.0.0.Dev10
   - 15.0.1.Final
   - 15.0.2.Final
+  - 15.0.3.Final
   - 12.0.0.Dev03
-  lastUpdated: 20240419081946
+  lastUpdated: 20240508073809

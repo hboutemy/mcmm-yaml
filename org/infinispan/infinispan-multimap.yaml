@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-multimap
 versioning:
-  latest: 15.0.2.Final
-  release: 15.0.2.Final
+  latest: 15.0.3.Final
+  release: 15.0.3.Final
   versions:
   - 9.2.0.Alpha1
   - 9.2.0.Alpha2
@@ -222,5 +222,6 @@ versioning:
   - 15.0.0.Dev10
   - 15.0.1.Final
   - 15.0.2.Final
+  - 15.0.3.Final
   - 12.0.0.Dev03
-  lastUpdated: 20240419082014
+  lastUpdated: 20240508073832

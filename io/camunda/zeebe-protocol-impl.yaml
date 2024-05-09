@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-protocol-impl
 versioning:
-  latest: 8.6.0-alpha1-rc3
-  release: 8.6.0-alpha1-rc3
+  latest: 8.6.0-alpha1
+  release: 8.6.0-alpha1
   versions:
   - 1.0.0-rc1
   - 1.0.0-rc2
@@ -191,4 +191,6 @@ versioning:
   - 8.6.0-alpha1-rc1
   - 8.6.0-alpha1-rc2
   - 8.6.0-alpha1-rc3
-  lastUpdated: 20240507152520
+  - 8.6.0-alpha1-rc4
+  - 8.6.0-alpha1
+  lastUpdated: 20240508114847

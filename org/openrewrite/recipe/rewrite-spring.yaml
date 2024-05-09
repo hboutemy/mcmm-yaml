@@ -3,8 +3,8 @@
 groupId: org.openrewrite.recipe
 artifactId: rewrite-spring
 versioning:
-  latest: 5.8.0
-  release: 5.8.0
+  latest: 5.9.0
+  release: 5.9.0
   versions:
   - 2.3.0
   - 2.3.1
@@ -88,4 +88,5 @@ versioning:
   - 5.6.0
   - 5.7.0
   - 5.8.0
-  lastUpdated: 20240424161007
+  - 5.9.0
+  lastUpdated: 20240508170122
