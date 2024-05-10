@@ -3,8 +3,8 @@
 groupId: io.delta
 artifactId: delta-storage-s3-dynamodb
 versioning:
-  latest: 3.1.0
-  release: 3.1.0
+  latest: 3.2.0
+  release: 3.2.0
   versions:
   - 1.2.0
   - 1.2.1
@@ -20,4 +20,5 @@ versioning:
   - 3.0.0rc1
   - 3.0.0
   - 3.1.0
-  lastUpdated: 20240130194847
+  - 3.2.0
+  lastUpdated: 20240509162025

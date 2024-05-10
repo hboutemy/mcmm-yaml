@@ -3,9 +3,10 @@
 groupId: org.apache.paimon
 artifactId: paimon-shade-guava-30
 versioning:
-  latest: 30.1.1-jre-0.6.0-incubating
-  release: 30.1.1-jre-0.6.0-incubating
+  latest: 30.1.1-jre-0.8.0
+  release: 30.1.1-jre-0.8.0
   versions:
   - 30.1.1-jre-0.4.0-incubating
   - 30.1.1-jre-0.6.0-incubating
-  lastUpdated: 20240123095654
+  - 30.1.1-jre-0.8.0
+  lastUpdated: 20240509124603

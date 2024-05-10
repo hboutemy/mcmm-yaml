@@ -3,8 +3,8 @@
 groupId: org.apache.iceberg
 artifactId: iceberg-hive3-orc-bundle
 versioning:
-  latest: 1.5.1
-  release: 1.5.1
+  latest: 1.5.2
+  release: 1.5.2
   versions:
   - 0.12.0
   - 0.12.1
@@ -25,4 +25,5 @@ versioning:
   - 1.4.3
   - 1.5.0
   - 1.5.1
-  lastUpdated: 20240425143051
+  - 1.5.2
+  lastUpdated: 20240509151707
