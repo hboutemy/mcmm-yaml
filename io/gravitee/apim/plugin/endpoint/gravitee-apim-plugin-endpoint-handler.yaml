@@ -3,8 +3,8 @@
 groupId: io.gravitee.apim.plugin.endpoint
 artifactId: gravitee-apim-plugin-endpoint-handler
 versioning:
-  latest: 4.3.3
-  release: 4.3.3
+  latest: 4.3.4
+  release: 4.3.4
   versions:
   - 3.19.0
   - 3.19.1
@@ -92,6 +92,7 @@ versioning:
   - 4.0.21
   - 4.0.22
   - 4.0.23
+  - 4.0.24
   - 4.1.0
   - 4.1.1
   - 4.1.2
@@ -107,6 +108,7 @@ versioning:
   - 4.1.12
   - 4.1.13
   - 4.1.14
+  - 4.1.15
   - 4.2.0-alpha.2
   - 4.2.0
   - 4.2.1
@@ -117,9 +119,11 @@ versioning:
   - 4.2.6
   - 4.2.7
   - 4.2.8
+  - 4.2.9
   - 4.3.0-alpha.2
   - 4.3.0
   - 4.3.1
   - 4.3.2
   - 4.3.3
-  lastUpdated: 20240426164906
+  - 4.3.4
+  lastUpdated: 20240510185930

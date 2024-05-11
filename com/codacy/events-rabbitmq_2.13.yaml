@@ -3,8 +3,8 @@
 groupId: com.codacy
 artifactId: events-rabbitmq_2.13
 versioning:
-  latest: 9.3.1_akka_2.6_circe_0.14
-  release: 9.3.1_akka_2.6_circe_0.14
+  latest: 9.3.2_akka_2.6_circe_0.14
+  release: 9.3.2_akka_2.6_circe_0.14
   versions:
   - 7.1.0_akka_2.6_circe_0.12
   - 7.1.0_akka_2.6_circe_0.14
@@ -92,4 +92,6 @@ versioning:
   - 9.3.0_akka_2.6_circe_0.14
   - 9.3.1_akka_2.6_circe_0.12
   - 9.3.1_akka_2.6_circe_0.14
-  lastUpdated: 20240416161836
+  - 9.3.2_akka_2.6_circe_0.12
+  - 9.3.2_akka_2.6_circe_0.14
+  lastUpdated: 20240510100103
