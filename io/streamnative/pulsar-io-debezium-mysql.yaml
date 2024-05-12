@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-io-debezium-mysql
 versioning:
-  latest: 3.2.2.5
-  release: 3.2.2.5
+  latest: 3.2.2.6
+  release: 3.2.2.6
   versions:
   - master-rc-daily
   - v2.8.0-rc-202106091140
@@ -705,4 +705,5 @@ versioning:
   - 3.2.2.3
   - 3.2.2.4
   - 3.2.2.5
-  lastUpdated: 20240510041214
+  - 3.2.2.6
+  lastUpdated: 20240511023430
