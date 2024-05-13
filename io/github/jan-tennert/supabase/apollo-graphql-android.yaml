@@ -3,8 +3,8 @@
 groupId: io.github.jan-tennert.supabase
 artifactId: apollo-graphql-android
 versioning:
-  latest: 2.4.1-dev
-  release: 2.4.1-dev
+  latest: 2.4.1-wasm0
+  release: 2.4.1-wasm0
   versions:
   - 0.8.0-beta-2
   - 0.8.0-beta-2-ios
@@ -156,4 +156,5 @@ versioning:
   - 2.4.0-dev-1
   - 2.4.1
   - 2.4.1-dev
-  lastUpdated: 20240511081925
+  - 2.4.1-wasm0
+  lastUpdated: 20240512144150
