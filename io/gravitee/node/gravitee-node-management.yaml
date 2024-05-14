@@ -3,8 +3,8 @@
 groupId: io.gravitee.node
 artifactId: gravitee-node-management
 versioning:
-  latest: 5.14.2
-  release: 5.14.2
+  latest: 5.14.3
+  release: 5.14.3
   versions:
   - 1.0.0
   - 1.1.0
@@ -186,6 +186,7 @@ versioning:
   - 4.8.3
   - 4.8.4
   - 4.8.5
+  - 4.8.6
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -214,4 +215,5 @@ versioning:
   - 5.14.0
   - 5.14.1
   - 5.14.2
-  lastUpdated: 20240508090258
+  - 5.14.3
+  lastUpdated: 20240513072833
