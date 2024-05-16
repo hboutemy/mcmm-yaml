@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-spring-web-resteasy-parent
 versioning:
-  latest: 3.10.0
-  release: 3.10.0
+  latest: 3.11.0.CR1
+  release: 3.11.0.CR1
   versions:
   - 3.9.0.CR1
   - 3.9.0.CR2
@@ -16,4 +16,6 @@ versioning:
   - 3.9.5
   - 3.10.0.CR1
   - 3.10.0
-  lastUpdated: 20240426171908
+  - 3.10.1
+  - 3.11.0.CR1
+  lastUpdated: 20240515123959

@@ -3,9 +3,11 @@
 groupId: com.microsoft.identity
 artifactId: common4j
 versioning:
-  latest: 14.3.0
-  release: 14.3.0
+  latest: 14.4.0
+  release: 14.4.0
   versions:
+  - 0.0.1-alpha1
+  - 0.0.1-alpha2
   - 0.0.3
   - 0.0.4
   - 0.0.5
@@ -40,4 +42,5 @@ versioning:
   - 14.2.0
   - 14.2.1
   - 14.3.0
-  lastUpdated: 20240415060159
+  - 14.4.0
+  lastUpdated: 20240515223723
