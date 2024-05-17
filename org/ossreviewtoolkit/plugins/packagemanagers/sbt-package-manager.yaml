@@ -3,8 +3,8 @@
 groupId: org.ossreviewtoolkit.plugins.packagemanagers
 artifactId: sbt-package-manager
 versioning:
-  latest: 22.2.0
-  release: 22.2.0
+  latest: 22.3.0
+  release: 22.3.0
   versions:
   - 6.1.0
   - 6.1.1
@@ -34,4 +34,5 @@ versioning:
   - 22.0.0
   - 22.1.0
   - 22.2.0
-  lastUpdated: 20240502075207
+  - 22.3.0
+  lastUpdated: 20240516074422

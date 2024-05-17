@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework
 artifactId: spring-jms
 versioning:
-  latest: 6.1.6
-  release: 6.1.6
+  latest: 6.1.7
+  release: 6.1.7
   versions:
   - 2.0
   - 2.0.1
@@ -222,6 +222,7 @@ versioning:
   - 5.3.32
   - 5.3.33
   - 5.3.34
+  - 5.3.35
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -242,6 +243,7 @@ versioning:
   - 6.0.17
   - 6.0.18
   - 6.0.19
+  - 6.0.20
   - 6.1.0
   - 6.1.1
   - 6.1.2
@@ -249,7 +251,8 @@ versioning:
   - 6.1.4
   - 6.1.5
   - 6.1.6
+  - 6.1.7
   - 2.0-m5
   - 2.0-rc1
   - 2.0-rc2
-  lastUpdated: 20240411084712
+  lastUpdated: 20240516092736

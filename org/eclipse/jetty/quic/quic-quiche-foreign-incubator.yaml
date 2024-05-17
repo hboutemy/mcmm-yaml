@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty.quic
 artifactId: quic-quiche-foreign-incubator
 versioning:
-  latest: 11.0.20
-  release: 11.0.20
+  latest: 11.0.21
+  release: 11.0.21
   versions:
   - 10.0.8
   - 10.0.9
@@ -19,6 +19,7 @@ versioning:
   - 10.0.18
   - 10.0.19
   - 10.0.20
+  - 10.0.21
   - 11.0.8
   - 11.0.9
   - 11.0.10
@@ -32,4 +33,5 @@ versioning:
   - 11.0.18
   - 11.0.19
   - 11.0.20
-  lastUpdated: 20240131134640
+  - 11.0.21
+  lastUpdated: 20240516083623
