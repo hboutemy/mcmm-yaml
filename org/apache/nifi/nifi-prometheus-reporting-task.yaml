@@ -3,8 +3,8 @@
 groupId: org.apache.nifi
 artifactId: nifi-prometheus-reporting-task
 versioning:
-  latest: 2.0.0-M2
-  release: 2.0.0-M2
+  latest: 2.0.0-M3
+  release: 2.0.0-M3
   versions:
   - 1.10.0
   - 1.11.0
@@ -41,4 +41,5 @@ versioning:
   - 1.26.0
   - 2.0.0-M1
   - 2.0.0-M2
-  lastUpdated: 20240506184748
+  - 2.0.0-M3
+  lastUpdated: 20240517053031
