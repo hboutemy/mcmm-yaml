@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.instrumentation
 artifactId: opentelemetry-jdbc
 versioning:
-  latest: 2.3.0-alpha
-  release: 2.3.0-alpha
+  latest: 2.4.0-alpha
+  release: 2.4.0-alpha
   versions:
   - 1.4.0-alpha
   - 1.4.1-alpha
@@ -63,4 +63,5 @@ versioning:
   - 2.1.0-alpha
   - 2.2.0-alpha
   - 2.3.0-alpha
-  lastUpdated: 20240420115952
+  - 2.4.0-alpha
+  lastUpdated: 20240518025636
