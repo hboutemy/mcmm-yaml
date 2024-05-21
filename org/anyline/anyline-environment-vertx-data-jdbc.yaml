@@ -3,8 +3,8 @@
 groupId: org.anyline
 artifactId: anyline-environment-vertx-data-jdbc
 versioning:
-  latest: 8.7.2-20240519
-  release: 8.7.2-20240519
+  latest: 8.7.2-20240520
+  release: 8.7.2-20240520
   versions:
   - 8.7.2-jdk17-20240501
   - 8.7.2-jdk17-20240505
@@ -29,6 +29,7 @@ versioning:
   - 8.7.2-jdk21-20240517
   - 8.7.2-jdk21-20240518
   - 8.7.2-jdk21-20240519
+  - 8.7.2-jdk21-20240520
   - 8.7.2-20240415
   - 8.7.2-20240416
   - 8.7.2-20240423
@@ -44,4 +45,5 @@ versioning:
   - 8.7.2-20240516
   - 8.7.2-20240518
   - 8.7.2-20240519
-  lastUpdated: 20240519071718
+  - 8.7.2-20240520
+  lastUpdated: 20240520130944

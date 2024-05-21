@@ -3,8 +3,8 @@
 groupId: io.gravitee.node
 artifactId: gravitee-node-cache-plugin-hazelcast
 versioning:
-  latest: 5.14.3
-  release: 5.14.3
+  latest: 5.14.4
+  release: 5.14.4
   versions:
   - 3.1.0-alpha.5
   - 3.1.0-alpha.6
@@ -71,9 +71,11 @@ versioning:
   - 5.12.2
   - 5.12.3
   - 5.12.4
+  - 5.12.5
   - 5.13.0
   - 5.14.0
   - 5.14.1
   - 5.14.2
   - 5.14.3
-  lastUpdated: 20240513072820
+  - 5.14.4
+  lastUpdated: 20240520153110
