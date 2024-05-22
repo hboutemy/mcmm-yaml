@@ -3,8 +3,8 @@
 groupId: org.open-metadata
 artifactId: elasticsearch-deps
 versioning:
-  latest: 1.4.0-rc4
-  release: 1.4.0-rc4
+  latest: 1.4.0
+  release: 1.4.0
   versions:
   - 1.2.0-beta1
   - 1.2.0-beta2
@@ -23,4 +23,5 @@ versioning:
   - 1.4.0-rc2
   - 1.4.0-rc3
   - 1.4.0-rc4
-  lastUpdated: 20240520110239
+  - 1.4.0
+  lastUpdated: 20240521124822

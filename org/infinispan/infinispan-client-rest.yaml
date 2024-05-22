@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-client-rest
 versioning:
-  latest: 15.0.3.Final
-  release: 15.0.3.Final
+  latest: 15.0.4.Final
+  release: 15.0.4.Final
   versions:
   - 10.0.0.CR2
   - 10.0.0.CR3
@@ -159,5 +159,6 @@ versioning:
   - 15.0.1.Final
   - 15.0.2.Final
   - 15.0.3.Final
+  - 15.0.4.Final
   - 12.0.0.Dev03
-  lastUpdated: 20240508073813
+  lastUpdated: 20240521051837

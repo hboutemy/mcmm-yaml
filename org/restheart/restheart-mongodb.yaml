@@ -3,8 +3,8 @@
 groupId: org.restheart
 artifactId: restheart-mongodb
 versioning:
-  latest: 8.0.0-beta
-  release: 8.0.0-beta
+  latest: 8.0.1
+  release: 8.0.1
   versions:
   - 5.0.0-RC2
   - 5.0.0-RC3
@@ -114,4 +114,6 @@ versioning:
   - 7.7.9
   - 7.7.10
   - 8.0.0-beta
-  lastUpdated: 20240520080850
+  - 8.0.0
+  - 8.0.1
+  lastUpdated: 20240521102531

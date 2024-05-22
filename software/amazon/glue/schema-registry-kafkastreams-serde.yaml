@@ -3,8 +3,8 @@
 groupId: software.amazon.glue
 artifactId: schema-registry-kafkastreams-serde
 versioning:
-  latest: 1.1.19
-  release: 1.1.19
+  latest: 1.1.20
+  release: 1.1.20
   versions:
   - 1.0.0
   - 1.0.1
@@ -29,4 +29,5 @@ versioning:
   - 1.1.17
   - 1.1.18
   - 1.1.19
-  lastUpdated: 20240306033856
+  - 1.1.20
+  lastUpdated: 20240520235601

@@ -3,8 +3,8 @@
 groupId: org.libreoffice
 artifactId: libreoffice
 versioning:
-  latest: 7.6.4
-  release: 7.6.4
+  latest: 7.6.7
+  release: 7.6.7
   versions:
   - '@version@'
   - 7.0.0
@@ -60,4 +60,7 @@ versioning:
   - 7.6.2
   - 7.6.3
   - 7.6.4
-  lastUpdated: 20231204140558
+  - 7.6.5
+  - 7.6.6
+  - 7.6.7
+  lastUpdated: 20240521225602

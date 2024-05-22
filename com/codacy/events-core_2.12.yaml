@@ -3,8 +3,8 @@
 groupId: com.codacy
 artifactId: events-core_2.12
 versioning:
-  latest: 9.4.0_akka_2.6_circe_0.14
-  release: 9.4.0_akka_2.6_circe_0.14
+  latest: 9.6.0_akka_2.6_circe_0.14
+  release: 9.6.0_akka_2.6_circe_0.14
   versions:
   - 2.0.0-cleanup.76cd279_circe_0.8.0
   - 2.0.0-cleanup.76cd279_circe_0.9.1
@@ -348,4 +348,10 @@ versioning:
   - 9.4.0_akka_2.5_circe_0.12
   - 9.4.0_akka_2.6_circe_0.12
   - 9.4.0_akka_2.6_circe_0.14
-  lastUpdated: 20240520102907
+  - 9.5.0_akka_2.5_circe_0.12
+  - 9.5.0_akka_2.6_circe_0.12
+  - 9.5.0_akka_2.6_circe_0.14
+  - 9.6.0_akka_2.5_circe_0.12
+  - 9.6.0_akka_2.6_circe_0.12
+  - 9.6.0_akka_2.6_circe_0.14
+  lastUpdated: 20240521143215
