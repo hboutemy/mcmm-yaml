@@ -3,8 +3,8 @@
 groupId: com.disneystreaming.smithy
 artifactId: smithy-language-server
 versioning:
-  latest: 0.0.30
-  release: 0.0.30
+  latest: 0.0.30-pr146-smithyfmt
+  release: 0.0.30-pr146-smithyfmt
   versions:
   - 0.0.0+0-a002eae7
   - 0.0.0+0-a8bfc343
@@ -82,4 +82,6 @@ versioning:
   - 0.0.28
   - 0.0.29
   - 0.0.30
-  lastUpdated: 20240306124524
+  - 0.0.30-pr146
+  - 0.0.30-pr146-smithyfmt
+  lastUpdated: 20240522172324

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework
 artifactId: spring-tx
 versioning:
-  latest: 6.1.7
-  release: 6.1.7
+  latest: 6.1.8
+  release: 6.1.8
   versions:
   - 2.5
   - 2.5.1
@@ -214,6 +214,7 @@ versioning:
   - 5.3.33
   - 5.3.34
   - 5.3.35
+  - 5.3.36
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -235,6 +236,7 @@ versioning:
   - 6.0.18
   - 6.0.19
   - 6.0.20
+  - 6.0.21
   - 6.1.0
   - 6.1.1
   - 6.1.2
@@ -243,4 +245,5 @@ versioning:
   - 6.1.5
   - 6.1.6
   - 6.1.7
-  lastUpdated: 20240516092741
+  - 6.1.8
+  lastUpdated: 20240522171247
