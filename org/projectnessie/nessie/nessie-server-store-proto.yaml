@@ -3,8 +3,8 @@
 groupId: org.projectnessie.nessie
 artifactId: nessie-server-store-proto
 versioning:
-  latest: 0.82.0
-  release: 0.82.0
+  latest: 0.83.2
+  release: 0.83.2
   versions:
   - 0.51.1
   - 0.52.0
@@ -62,4 +62,7 @@ versioning:
   - 0.81.0
   - 0.81.1
   - 0.82.0
-  lastUpdated: 20240506105535
+  - 0.83.0
+  - 0.83.1
+  - 0.83.2
+  lastUpdated: 20240523174524

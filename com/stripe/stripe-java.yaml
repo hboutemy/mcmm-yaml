@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.stripe
 artifactId: stripe-java
 versioning:
-  latest: 25.9.0-beta.1
-  release: 25.9.0-beta.1
+  latest: 25.9.0
+  release: 25.9.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -736,6 +736,7 @@ versioning:
   - 25.7.0
   - 25.8.0
   - 25.9.0-beta.1
+  - 25.9.0
   - 4.11.0
   - 7.16.0
-  lastUpdated: 20240516223154
+  lastUpdated: 20240523203131
