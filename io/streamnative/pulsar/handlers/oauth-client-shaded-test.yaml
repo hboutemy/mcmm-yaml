@@ -3,8 +3,8 @@
 groupId: io.streamnative.pulsar.handlers
 artifactId: oauth-client-shaded-test
 versioning:
-  latest: 3.2.2.7
-  release: 3.2.2.7
+  latest: 3.2.3.1
+  release: 3.2.3.1
   versions:
   - 2.10.5.1
   - 2.10.5.2-5ce22c
@@ -99,4 +99,5 @@ versioning:
   - 3.2.2.5
   - 3.2.2.6
   - 3.2.2.7
-  lastUpdated: 20240523071046
+  - 3.2.3.1
+  lastUpdated: 20240524090858

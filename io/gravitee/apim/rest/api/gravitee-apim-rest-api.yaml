@@ -3,8 +3,8 @@
 groupId: io.gravitee.apim.rest.api
 artifactId: gravitee-apim-rest-api
 versioning:
-  latest: 4.3.4
-  release: 4.3.4
+  latest: 4.3.5
+  release: 4.3.5
   versions:
   - 3.5.19
   - 3.5.20
@@ -208,6 +208,7 @@ versioning:
   - 4.0.22
   - 4.0.23
   - 4.0.24
+  - 4.0.25
   - 4.1.0
   - 4.1.1
   - 4.1.2
@@ -224,6 +225,7 @@ versioning:
   - 4.1.13
   - 4.1.14
   - 4.1.15
+  - 4.1.16
   - 4.2.0-alpha.2
   - 4.2.0
   - 4.2.1
@@ -235,10 +237,12 @@ versioning:
   - 4.2.7
   - 4.2.8
   - 4.2.9
+  - 4.2.10
   - 4.3.0-alpha.2
   - 4.3.0
   - 4.3.1
   - 4.3.2
   - 4.3.3
   - 4.3.4
-  lastUpdated: 20240510185951
+  - 4.3.5
+  lastUpdated: 20240524083955

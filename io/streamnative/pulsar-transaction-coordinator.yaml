@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-transaction-coordinator
 versioning:
-  latest: 3.2.2.7
-  release: 3.2.2.7
+  latest: 3.2.3.1
+  release: 3.2.3.1
   versions:
   - master-rc-daily
   - v2.8.0-rc-202106091140
@@ -710,4 +710,5 @@ versioning:
   - 3.2.2.5
   - 3.2.2.6
   - 3.2.2.7
-  lastUpdated: 20240523065009
+  - 3.2.3.1
+  lastUpdated: 20240524084633

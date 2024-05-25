@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: kubernetes
 versioning:
-  latest: 4.12.0
-  release: 4.12.0
+  latest: 4.13.0-alpha.1716586959
+  release: 4.13.0-alpha.1716586959
   versions:
   - 3.18.3
   - 3.19.1
@@ -310,4 +310,6 @@ versioning:
   - 4.12.0-alpha.1715941750
   - 4.12.0-alpha.1716309258
   - 4.12.0
-  lastUpdated: 20240521232729
+  - 4.13.0-alpha.1716576817
+  - 4.13.0-alpha.1716586959
+  lastUpdated: 20240524225516

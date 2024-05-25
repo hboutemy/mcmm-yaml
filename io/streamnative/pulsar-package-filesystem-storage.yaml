@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-package-filesystem-storage
 versioning:
-  latest: 3.2.2.7
-  release: 3.2.2.7
+  latest: 3.2.3.1
+  release: 3.2.3.1
   versions:
   - master-rc-daily
   - 2.10.0.0-rc-1
@@ -321,4 +321,5 @@ versioning:
   - 3.2.2.5
   - 3.2.2.6
   - 3.2.2.7
-  lastUpdated: 20240523064950
+  - 3.2.3.1
+  lastUpdated: 20240524084625

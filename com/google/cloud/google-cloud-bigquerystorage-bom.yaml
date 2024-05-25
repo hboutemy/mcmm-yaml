@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.cloud
 artifactId: google-cloud-bigquerystorage-bom
 versioning:
-  latest: 3.5.1
-  release: 3.5.1
+  latest: 3.5.2
+  release: 3.5.2
   versions:
   - 0.120.1-beta
   - 0.121.0-beta
@@ -205,4 +205,5 @@ versioning:
   - 3.4.0
   - 3.5.0
   - 3.5.1
-  lastUpdated: 20240506151052
+  - 3.5.2
+  lastUpdated: 20240524205925
