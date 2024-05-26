@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: timelock-server-benchmark-client
 versioning:
-  latest: 0.1087.0
-  release: 0.1087.0
+  latest: 0.1088.0-rc1
+  release: 0.1088.0-rc1
   versions:
   - 0.311.6
   - 0.311.7
@@ -927,4 +927,5 @@ versioning:
   - 0.1085.0
   - 0.1086.0
   - 0.1087.0
-  lastUpdated: 20240524132648
+  - 0.1088.0-rc1
+  lastUpdated: 20240525223141

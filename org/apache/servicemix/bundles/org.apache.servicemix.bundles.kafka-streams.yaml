@@ -3,8 +3,8 @@
 groupId: org.apache.servicemix.bundles
 artifactId: org.apache.servicemix.bundles.kafka-streams
 versioning:
-  latest: 3.6.1_1
-  release: 3.6.1_1
+  latest: 3.7.0_1
+  release: 3.7.0_1
   versions:
   - 0.10.2.1_1
   - 0.11.0.0_1
@@ -41,4 +41,6 @@ versioning:
   - 3.5.0_1
   - 3.5.1_1
   - 3.6.1_1
-  lastUpdated: 20240109171143
+  - 3.6.2_1
+  - 3.7.0_1
+  lastUpdated: 20240525053910
