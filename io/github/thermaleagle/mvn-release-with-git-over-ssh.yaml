@@ -3,8 +3,8 @@
 groupId: io.github.thermaleagle
 artifactId: mvn-release-with-git-over-ssh
 versioning:
-  latest: 0.0.33
-  release: 0.0.33
+  latest: 0.0.35
+  release: 0.0.35
   versions:
   - 0.0.0+git.05a0076
   - 0.0.13
@@ -24,4 +24,6 @@ versioning:
   - 0.0.31
   - 0.0.32
   - 0.0.33
-  lastUpdated: 20240525230729
+  - 0.0.34
+  - 0.0.35
+  lastUpdated: 20240526222538
