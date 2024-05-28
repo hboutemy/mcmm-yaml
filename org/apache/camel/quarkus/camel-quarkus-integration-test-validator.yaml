@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-integration-test-validator
 versioning:
-  latest: 3.10.0
-  release: 3.10.0
+  latest: 3.11.0
+  release: 3.11.0
   versions:
   - 0.4.0
   - 1.0.0-M1
@@ -70,4 +70,5 @@ versioning:
   - 3.8.2
   - 3.9.0
   - 3.10.0
-  lastUpdated: 20240503125934
+  - 3.11.0
+  lastUpdated: 20240527090444
