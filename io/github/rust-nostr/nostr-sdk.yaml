@@ -3,8 +3,8 @@
 groupId: io.github.rust-nostr
 artifactId: nostr-sdk
 versioning:
-  latest: 0.12.1
-  release: 0.12.1
+  latest: 0.13.0-alpha.2
+  release: 0.13.0-alpha.2
   versions:
   - 0.0.1
   - 0.0.3
@@ -20,4 +20,6 @@ versioning:
   - 0.11.0
   - 0.12.0
   - 0.12.1
-  lastUpdated: 20240522123416
+  - 0.13.0-alpha.1
+  - 0.13.0-alpha.2
+  lastUpdated: 20240528165359

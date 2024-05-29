@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.odlparent
 artifactId: features-test
 versioning:
-  latest: 13.1.2
-  release: 13.1.2
+  latest: 13.1.3
+  release: 13.1.3
   versions:
   - 1.5.0-Lithium
   - 1.5.1-Lithium-SR1
@@ -177,4 +177,5 @@ versioning:
   - 13.1.0
   - 13.1.1
   - 13.1.2
-  lastUpdated: 20240504161405
+  - 13.1.3
+  lastUpdated: 20240528091602
