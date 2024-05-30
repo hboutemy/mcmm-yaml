@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-buggify
 versioning:
-  latest: 0.1088.0-rc6
-  release: 0.1088.0-rc6
+  latest: 0.1092.0
+  release: 0.1092.0
   versions:
   - 0.852.0
   - 0.854.0-rc6
@@ -302,4 +302,7 @@ versioning:
   - 0.1088.0-rc4
   - 0.1088.0-rc5
   - 0.1088.0-rc6
-  lastUpdated: 20240527155530
+  - 0.1090.0
+  - 0.1091.0
+  - 0.1092.0
+  lastUpdated: 20240529170720

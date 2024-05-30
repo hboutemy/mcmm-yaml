@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus
 artifactId: nexus-blobstore
 versioning:
-  latest: 3.68.0-04
-  release: 3.68.0-04
+  latest: 3.68.1-02
+  release: 3.68.1-02
   versions:
   - 3.4.0-02
   - 3.5.0-02
@@ -135,4 +135,5 @@ versioning:
   - 3.67.0-03
   - 3.67.1-01
   - 3.68.0-04
-  lastUpdated: 20240508185725
+  - 3.68.1-02
+  lastUpdated: 20240529162359

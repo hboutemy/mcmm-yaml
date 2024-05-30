@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.rendering
 artifactId: xwiki-rendering-transformation-wikiword
 versioning:
-  latest: 16.4.0-rc-1
-  release: 16.4.0-rc-1
+  latest: 16.4.0
+  release: 16.4.0
   versions:
   - 3.2-milestone-3
   - 3.2-rc-1
@@ -474,4 +474,5 @@ versioning:
   - 16.3.0
   - 16.3.1
   - 16.4.0-rc-1
-  lastUpdated: 20240527091954
+  - 16.4.0
+  lastUpdated: 20240529112126

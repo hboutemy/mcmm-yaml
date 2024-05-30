@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: signalfx
 versioning:
-  latest: 7.2.0-alpha.1716512682
-  release: 7.2.0-alpha.1716512682
+  latest: 7.2.0-alpha.1716963243
+  release: 7.2.0-alpha.1716963243
   versions:
   - 5.5.0-alpha.1660680837+1f870ed8
   - 5.5.0
@@ -108,6 +108,8 @@ versioning:
   - 7.1.2
   - 7.1.3
   - 7.1.4
+  - 7.1.5-alpha.1717002466
+  - 7.1.5
   - 7.2.0-alpha.1709103492+a34110e0
   - 7.2.0-alpha.1709217321+42dd6270
   - 7.2.0-alpha.1709367777+6f1c196a
@@ -137,4 +139,5 @@ versioning:
   - 7.2.0-alpha.1715928253
   - 7.2.0-alpha.1716157100
   - 7.2.0-alpha.1716512682
-  lastUpdated: 20240524012705
+  - 7.2.0-alpha.1716963243
+  lastUpdated: 20240529175530
