@@ -3,12 +3,14 @@
 groupId: io.camunda.connector
 artifactId: connectors-e2e-test-aws-dynamodb
 versioning:
-  latest: 8.6.0-alpha1
-  release: 8.6.0-alpha1
+  latest: 8.6.0-alpha2
+  release: 8.6.0-alpha2
   versions:
   - 8.5.0-alpha2
   - 8.5.0
   - 8.5.1
   - 8.5.2
+  - 8.5.3
   - 8.6.0-alpha1
-  lastUpdated: 20240513073337
+  - 8.6.0-alpha2
+  lastUpdated: 20240530132423

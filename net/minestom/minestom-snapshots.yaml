@@ -38,6 +38,7 @@ versioning:
   - chunk_load_event_in_instance_thread-6f01aa51ff
   - d0c7d7350e
   - d04e9e3e71
+  - d46c626385
   - d86b890cc6
   - d595ce3468
   - d03466e5a3
@@ -91,6 +92,8 @@ versioning:
   - light-getter-739347a049
   - light-getter-ca53f825d4
   - lighting-47-13a0b367f9
+  - lighting-fix-1-ecbee72ef8
+  - lighting-fix-1-2147d82160
   - lighting-fix-34-be74fe7c49
   - lighting-fix-34-cdcf4051d9
   - lighting-fix-34-db27d26172
@@ -117,6 +120,7 @@ versioning:
   - particle-data-fde3a9b953
   - particle-fix-af4d309a63
   - physics-intersect-entity-cd13705747
+  - please-for-the-love-of-all-things-let-this-be-the-last-lighting-pr-b2180b08dc
   - recipe_manager_cleanup-0e36f9ddc0
   - recipe_manager_cleanup-642d8f4e09
   - relative-batch-improvement-f23345041d
@@ -143,6 +147,7 @@ versioning:
   - 1_20_5-a301a57548
   - 1_20_5-a8354fbfe2
   - 1_20_5-b0ff296e5d
+  - 1_20_5-b0517a161a
   - 1_20_5-b938dad0c1
   - 1_20_5-afb10e614e
   - 1_20_5-c29fe5a10a
@@ -152,6 +157,7 @@ versioning:
   - 1_20_5-e63c9def24
   - 1_20_5-e0931ea11a
   - 1_20_5-e774049eaf
+  - 1_20_5-0ebb7c0705
   - 1_20_5-f0ac7aca7b
   - 1_20_5-f7c13647de
   - 1_20_5-fe4400bc3e
@@ -160,7 +166,9 @@ versioning:
   - 1_20_5-3fd8904a0e
   - 1_20_5-05a4bb77c3
   - 1_20_5-8f5172414c
+  - 1_20_5-24d3654329
   - 1_20_5-47d839ecb0
+  - 1_20_5-59f006595b
   - 1_20_5-95c5f6675f
   - 1_20_5-95f7327b2c
   - 1_20_5-237cbb1866
@@ -168,16 +176,19 @@ versioning:
   - 1_20_5-323c75f8a5
   - 1_20_5-702f3dfd91
   - 1_20_5-45600c569f
+  - 1c7fc6c12e
   - 1f07d38f2b
   - 2a7df1ab55
   - 2ff143a61d
   - 3de64aafd8
+  - 4a07089e71
   - 4b9d79bed4
   - 4b31570c9d
   - 4d2e78e7cf
   - 4f1017d398
   - 05b3ed9e7f
   - 5b027599c5
+  - 5ac26b15c5
   - 5bf4b4445a
   - 5c050c66ca
   - 5c23713c03
@@ -199,6 +210,7 @@ versioning:
   - 33dff6f458
   - 36ac2b5eb4
   - 40ebd2b67f
+  - 43ed60d937
   - 58fd95879a
   - 59ea880d26
   - 60fc9ebd28
@@ -208,6 +220,7 @@ versioning:
   - 115f9c1355
   - 129fd8ca0f
   - 204b447cdb
+  - 406c686efd
   - 621f38c6a3
   - 667b9016ca
   - 705ec5cc07
@@ -216,6 +229,7 @@ versioning:
   - 877e2bb4f2
   - 1058d88552
   - 2442f14b3d
+  - 5035c2b9e3
   - 5162a00b1e
   - 54212ebc97
   - 82725b5e32
@@ -226,4 +240,4 @@ versioning:
   - 154059468e
   - 7320437640
   - 0c9527118a
-  lastUpdated: 20240529123302
+  lastUpdated: 20240530192655
