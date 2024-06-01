@@ -3,8 +3,11 @@
 groupId: io.gitee.iangellove
 artifactId: omega-engine-v4-gpu
 versioning:
-  latest: win-cu11.7-v1.0-alpha
-  release: win-cu11.7-v1.0-alpha
+  latest: win-cu12.x-v1.0-beta
+  release: win-cu12.x-v1.0-beta
   versions:
+  - win-cu11.8-v1.0-beta
+  - win-cu12.x-v1.0-beta
   - win-cu11.7-v1.0-alpha
-  lastUpdated: 20240530071414
+  - win-cu11.7-v1.0-beta
+  lastUpdated: 20240531065723

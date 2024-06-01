@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-io-debezium
 versioning:
-  latest: 3.2.3.1
-  release: 3.2.3.1
+  latest: 3.2.3.2
+  release: 3.2.3.2
   versions:
   - master-rc-daily
   - v2.8.0-rc-202106091140
@@ -711,4 +711,5 @@ versioning:
   - 3.2.2.6
   - 3.2.2.7
   - 3.2.3.1
-  lastUpdated: 20240524084538
+  - 3.2.3.2
+  lastUpdated: 20240531041259
