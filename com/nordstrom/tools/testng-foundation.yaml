@@ -3,8 +3,8 @@
 groupId: com.nordstrom.tools
 artifactId: testng-foundation
 versioning:
-  latest: 5.0.0-j11
-  release: 5.0.0-j11
+  latest: 5.1.1-j11
+  release: 5.1.1-j11
   versions:
   - 1.5.1
   - 1.5.2
@@ -60,4 +60,8 @@ versioning:
   - 4.0.2-j8
   - 4.0.4-j8
   - 5.0.0-j11
-  lastUpdated: 20230205051143
+  - 5.1.0-j8
+  - 5.1.0-j11
+  - 5.1.1-j8
+  - 5.1.1-j11
+  lastUpdated: 20240601170232
