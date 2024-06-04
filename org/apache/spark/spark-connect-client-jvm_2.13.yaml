@@ -3,8 +3,8 @@
 groupId: org.apache.spark
 artifactId: spark-connect-client-jvm_2.13
 versioning:
-  latest: 3.5.1
-  release: 3.5.1
+  latest: 4.0.0-preview1
+  release: 4.0.0-preview1
   versions:
   - 3.4.0
   - 3.4.1
@@ -12,4 +12,5 @@ versioning:
   - 3.4.3
   - 3.5.0
   - 3.5.1
-  lastUpdated: 20240418081402
+  - 4.0.0-preview1
+  lastUpdated: 20240602235903

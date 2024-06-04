@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.item.selector.web
 versioning:
-  latest: 7.0.52
-  release: 7.0.52
+  latest: 7.0.53
+  release: 7.0.53
   versions:
   - 1.0.0
   - 2.0.0
@@ -256,4 +255,5 @@ versioning:
   - 7.0.50
   - 7.0.51
   - 7.0.52
-  lastUpdated: 20240228115752
+  - 7.0.53
+  lastUpdated: 20240603230002

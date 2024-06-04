@@ -3,8 +3,8 @@
 groupId: io.camunda.connector
 artifactId: connectors-e2e-test-base
 versioning:
-  latest: 8.6.0-alpha2
-  release: 8.6.0-alpha2
+  latest: 8.6.0-alpha2.1
+  release: 8.6.0-alpha2.1
   versions:
   - 8.3.1
   - 8.3.2
@@ -37,4 +37,5 @@ versioning:
   - 8.5.3
   - 8.6.0-alpha1
   - 8.6.0-alpha2
-  lastUpdated: 20240530132426
+  - 8.6.0-alpha2.1
+  lastUpdated: 20240603164344

@@ -3,8 +3,8 @@
 groupId: org.apache.camel.kafkaconnector
 artifactId: camel-aws-cloudtrail-source-kafka-connector
 versioning:
-  latest: 4.0.3
-  release: 4.0.3
+  latest: 4.4.2
+  release: 4.4.2
   versions:
   - 3.19.0
   - 3.20.0
@@ -13,4 +13,5 @@ versioning:
   - 3.21.0
   - 4.0.0
   - 4.0.3
-  lastUpdated: 20240211114035
+  - 4.4.2
+  lastUpdated: 20240603124411

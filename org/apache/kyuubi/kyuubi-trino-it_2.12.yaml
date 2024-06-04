@@ -3,8 +3,8 @@
 groupId: org.apache.kyuubi
 artifactId: kyuubi-trino-it_2.12
 versioning:
-  latest: 1.9.0
-  release: 1.9.0
+  latest: 1.9.1
+  release: 1.9.1
   versions:
   - 1.6.0-incubating
   - 1.6.1-incubating
@@ -17,4 +17,5 @@ versioning:
   - 1.8.1
   - 1.8.2
   - 1.9.0
-  lastUpdated: 20240426082257
+  - 1.9.1
+  lastUpdated: 20240603024238

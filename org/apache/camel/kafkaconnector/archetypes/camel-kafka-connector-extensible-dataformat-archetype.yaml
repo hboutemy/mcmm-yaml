@@ -3,8 +3,8 @@
 groupId: org.apache.camel.kafkaconnector.archetypes
 artifactId: camel-kafka-connector-extensible-dataformat-archetype
 versioning:
-  latest: 4.0.3
-  release: 4.0.3
+  latest: 4.4.2
+  release: 4.4.2
   versions:
   - 0.7.0
   - 0.7.1
@@ -26,4 +26,5 @@ versioning:
   - 3.21.0
   - 4.0.0
   - 4.0.3
-  lastUpdated: 20240211114030
+  - 4.4.2
+  lastUpdated: 20240603124404

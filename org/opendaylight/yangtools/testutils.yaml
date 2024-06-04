@@ -3,8 +3,8 @@
 groupId: org.opendaylight.yangtools
 artifactId: testutils
 versioning:
-  latest: 13.0.5
-  release: 13.0.5
+  latest: 13.0.6
+  release: 13.0.6
   versions:
   - 1.0.1-Boron-SR1
   - 1.0.2-Boron-SR2
@@ -189,6 +189,7 @@ versioning:
   - 11.0.4
   - 11.0.5
   - 11.0.6
+  - 11.0.7
   - 12.0.0
   - 13.0.0
   - 13.0.1
@@ -196,4 +197,5 @@ versioning:
   - 13.0.3
   - 13.0.4
   - 13.0.5
-  lastUpdated: 20240504211610
+  - 13.0.6
+  lastUpdated: 20240603202813
