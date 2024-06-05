@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-scheduler
 versioning:
-  latest: 8.6.0-alpha2-rc4
-  release: 8.6.0-alpha2-rc4
+  latest: 8.6.0-alpha2
+  release: 8.6.0-alpha2
   versions:
   - 8.0.15
   - 8.1.0-alpha3
@@ -74,6 +74,7 @@ versioning:
   - 8.2.25
   - 8.2.26
   - 8.2.27
+  - 8.2.28
   - 8.3.0-alpha1
   - 8.3.0-alpha2
   - 8.3.0-alpha2.1
@@ -94,6 +95,7 @@ versioning:
   - 8.3.9
   - 8.3.10
   - 8.3.11
+  - 8.3.12
   - 8.4.0-alpha1
   - 8.4.0-alpha2
   - 8.4.0
@@ -103,12 +105,14 @@ versioning:
   - 8.4.5
   - 8.4.6
   - 8.4.7
+  - 8.4.8
   - 8.5.0-alpha1
   - 8.5.0-alpha2
   - 8.5.0-RC1
   - 8.5.0-RC2
   - 8.5.0
   - 8.5.1
+  - 8.5.2
   - 8.6.0-alpha1-rc1
   - 8.6.0-alpha1-rc2
   - 8.6.0-alpha1-rc3
@@ -116,4 +120,5 @@ versioning:
   - 8.6.0-alpha1
   - 8.6.0-alpha2-rc3
   - 8.6.0-alpha2-rc4
-  lastUpdated: 20240531115409
+  - 8.6.0-alpha2
+  lastUpdated: 20240604154053

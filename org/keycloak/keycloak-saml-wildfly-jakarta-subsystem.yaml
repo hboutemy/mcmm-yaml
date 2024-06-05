@@ -3,7 +3,7 @@
 groupId: org.keycloak
 artifactId: keycloak-saml-wildfly-jakarta-subsystem
 versioning:
-  release: 24.0.4
+  release: 24.0.5
   versions:
   - 21.1.0
   - 21.1.1
@@ -27,4 +27,5 @@ versioning:
   - 24.0.2
   - 24.0.3
   - 24.0.4
-  lastUpdated: 20240508060931
+  - 24.0.5
+  lastUpdated: 20240604052513
