@@ -3,8 +3,8 @@
 groupId: io.jooby
 artifactId: jooby-gradle-setup
 versioning:
-  latest: 3.1.2
-  release: 3.1.2
+  latest: 3.1.3
+  release: 3.1.3
   versions:
   - 2.10.0
   - 2.11.0
@@ -19,6 +19,7 @@ versioning:
   - 2.16.1
   - 2.16.2
   - 2.16.3
+  - 2.16.4
   - 3.0.0.M1
   - 3.0.0.M2
   - 3.0.0.M3
@@ -42,4 +43,5 @@ versioning:
   - 3.1.0
   - 3.1.1
   - 3.1.2
-  lastUpdated: 20240527134727
+  - 3.1.3
+  lastUpdated: 20240605234240

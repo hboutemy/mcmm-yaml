@@ -3,8 +3,8 @@
 groupId: io.stargate.db.limiter.global
 artifactId: rate-limiting-global
 versioning:
-  latest: 2.0.27
-  release: 2.0.27
+  latest: 2.0.28
+  release: 2.0.28
   versions:
   - 1.0.7
   - 1.0.8
@@ -78,6 +78,7 @@ versioning:
   - 1.0.77
   - 1.0.78
   - 1.0.79
+  - 1.0.80
   - 2.0.0-ALPHA-1
   - 2.0.0-ALPHA-2
   - 2.0.0-ALPHA-3
@@ -129,4 +130,5 @@ versioning:
   - 2.0.25
   - 2.0.26
   - 2.0.27
-  lastUpdated: 20240508185219
+  - 2.0.28
+  lastUpdated: 20240605203120

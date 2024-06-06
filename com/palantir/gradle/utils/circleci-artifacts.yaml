@@ -3,9 +3,11 @@
 groupId: com.palantir.gradle.utils
 artifactId: circleci-artifacts
 versioning:
-  latest: 0.7.0
-  release: 0.7.0
+  latest: 0.9.0
+  release: 0.9.0
   versions:
   - 0.6.0
   - 0.7.0
-  lastUpdated: 20240208174653
+  - 0.8.0
+  - 0.9.0
+  lastUpdated: 20240605131335

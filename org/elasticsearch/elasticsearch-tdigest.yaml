@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-tdigest
 versioning:
-  latest: 8.13.4
-  release: 8.13.4
+  latest: 8.14.0
+  release: 8.14.0
   versions:
   - 8.9.0
   - 8.9.1
@@ -27,4 +27,5 @@ versioning:
   - 8.13.2
   - 8.13.3
   - 8.13.4
-  lastUpdated: 20240509123233
+  - 8.14.0
+  lastUpdated: 20240605122920

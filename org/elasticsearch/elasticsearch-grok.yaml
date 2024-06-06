@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-grok
 versioning:
-  latest: 8.13.4
-  release: 8.13.4
+  latest: 8.14.0
+  release: 8.14.0
   versions:
   - 8.5.0
   - 8.5.1
@@ -39,4 +39,5 @@ versioning:
   - 8.13.2
   - 8.13.3
   - 8.13.4
-  lastUpdated: 20240509123224
+  - 8.14.0
+  lastUpdated: 20240605122853

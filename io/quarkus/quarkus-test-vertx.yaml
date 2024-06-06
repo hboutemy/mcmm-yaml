@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-test-vertx
 versioning:
-  latest: 3.11.0
-  release: 3.11.0
+  latest: 3.11.1
+  release: 3.11.1
   versions:
   - 2.7.3.Final
   - 2.7.4.Final
@@ -142,6 +142,7 @@ versioning:
   - 3.8.2
   - 3.8.3
   - 3.8.4
+  - 3.8.5
   - 3.9.0.CR1
   - 3.9.0.CR2
   - 3.9.0
@@ -156,4 +157,5 @@ versioning:
   - 3.10.2
   - 3.11.0.CR1
   - 3.11.0
-  lastUpdated: 20240522121359
+  - 3.11.1
+  lastUpdated: 20240605111314

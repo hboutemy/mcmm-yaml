@@ -3,8 +3,8 @@
 groupId: io.quarkus.platform
 artifactId: quarkus-platform-config
 versioning:
-  latest: 3.11.0
-  release: 3.11.0
+  latest: 3.11.1
+  release: 3.11.1
   versions:
   - 2.0.0.Final
   - 2.0.1.Final
@@ -174,6 +174,7 @@ versioning:
   - 3.8.2
   - 3.8.3
   - 3.8.4
+  - 3.8.5
   - 3.9.0.CR1
   - 3.9.0.CR2
   - 3.9.1
@@ -187,4 +188,5 @@ versioning:
   - 3.10.2
   - 3.11.0.CR1
   - 3.11.0
-  lastUpdated: 20240529062358
+  - 3.11.1
+  lastUpdated: 20240605142237
