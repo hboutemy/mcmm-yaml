@@ -3,8 +3,8 @@
 groupId: org.ossreviewtoolkit.plugins.commands
 artifactId: upload-result-to-postgres-command
 versioning:
-  latest: 22.6.0
-  release: 22.6.0
+  latest: 22.7.0
+  release: 22.7.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -47,4 +47,5 @@ versioning:
   - 22.4.0
   - 22.5.0
   - 22.6.0
-  lastUpdated: 20240530073705
+  - 22.7.0
+  lastUpdated: 20240606075328

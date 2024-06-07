@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-embedded
 versioning:
-  latest: 2.7.0.Alpha2
-  release: 2.7.0.Alpha2
+  latest: 2.7.0.Beta1
+  release: 2.7.0.Beta1
   versions:
   - 0.1.0
   - 0.2.0
@@ -200,5 +200,6 @@ versioning:
   - 2.6.2.Final
   - 2.7.0.Alpha1
   - 2.7.0.Alpha2
+  - 2.7.0.Beta1
   - 1.5.0.Alpha1
-  lastUpdated: 20240530110221
+  lastUpdated: 20240606072118

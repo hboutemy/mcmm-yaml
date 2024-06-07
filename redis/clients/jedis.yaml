@@ -3,8 +3,8 @@
 groupId: redis.clients
 artifactId: jedis
 versioning:
-  latest: 5.2.0-beta2
-  release: 5.2.0-beta2
+  latest: 5.2.0-beta3
+  release: 5.2.0-beta3
   versions:
   - jedis-3.6.2
   - 1.3.0
@@ -125,4 +125,5 @@ versioning:
   - 5.2.0-alpha3
   - 5.2.0-beta1
   - 5.2.0-beta2
-  lastUpdated: 20240521113948
+  - 5.2.0-beta3
+  lastUpdated: 20240606190556

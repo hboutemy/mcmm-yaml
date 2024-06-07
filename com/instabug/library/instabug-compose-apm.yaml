@@ -3,9 +3,10 @@
 groupId: com.instabug.library
 artifactId: instabug-compose-apm
 versioning:
-  latest: 13.1.1
-  release: 13.1.1
+  latest: 13.1.1-no-diagnostics
+  release: 13.1.1-no-diagnostics
   versions:
+  - 1.0.0-no-diagnostics
   - 12.1.0
   - 12.2.0
   - 12.3.0
@@ -24,4 +25,5 @@ versioning:
   - 13.0.3
   - 13.1.0
   - 13.1.1
-  lastUpdated: 20240603170807
+  - 13.1.1-no-diagnostics
+  lastUpdated: 20240606093742
