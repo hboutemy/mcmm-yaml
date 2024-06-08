@@ -3,9 +3,11 @@
 groupId: org.apache.flink
 artifactId: flink-connector-kafka-python
 versioning:
-  latest: 3.1.0-1.18
-  release: 3.1.0-1.18
+  latest: 3.2.0-1.19
+  release: 3.2.0-1.19
   versions:
   - 3.1.0-1.17
   - 3.1.0-1.18
-  lastUpdated: 20240206155311
+  - 3.2.0-1.18
+  - 3.2.0-1.19
+  lastUpdated: 20240607104700

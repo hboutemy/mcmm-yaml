@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-connector-cassandra_2.12
 versioning:
-  latest: 3.1.0-1.17
-  release: 3.1.0-1.17
+  latest: 3.2.0-1.19
+  release: 3.2.0-1.19
   versions:
   - 1.7.0
   - 1.7.1
@@ -62,4 +62,6 @@ versioning:
   - 3.0.0-1.16
   - 3.1.0-1.16
   - 3.1.0-1.17
-  lastUpdated: 20231128052027
+  - 3.2.0-1.18
+  - 3.2.0-1.19
+  lastUpdated: 20240607095445

@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-connector-kafka-parent
 versioning:
-  latest: 3.1.0-1.18
-  release: 3.1.0-1.18
+  latest: 3.2.0-1.19
+  release: 3.2.0-1.19
   versions:
   - 3.0.0-1.17
   - 3.0.1-1.17
@@ -13,4 +13,6 @@ versioning:
   - 3.0.2-1.18
   - 3.1.0-1.17
   - 3.1.0-1.18
-  lastUpdated: 20240206155308
+  - 3.2.0-1.18
+  - 3.2.0-1.19
+  lastUpdated: 20240607104656

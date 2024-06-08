@@ -3,9 +3,11 @@
 groupId: org.apache.flink
 artifactId: flink-connector-aws
 versioning:
-  latest: 4.2.0-1.18
-  release: 4.2.0-1.18
+  latest: 4.3.0-1.19
+  release: 4.3.0-1.19
   versions:
   - 4.2.0-1.17
   - 4.2.0-1.18
-  lastUpdated: 20231130092009
+  - 4.3.0-1.18
+  - 4.3.0-1.19
+  lastUpdated: 20240607093516

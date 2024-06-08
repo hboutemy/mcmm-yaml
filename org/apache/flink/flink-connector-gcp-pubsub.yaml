@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-connector-gcp-pubsub
 versioning:
-  latest: 3.0.2-1.18
-  release: 3.0.2-1.18
+  latest: 3.1.0-1.19
+  release: 3.1.0-1.19
   versions:
   - 1.15.0
   - 1.15.1
@@ -20,4 +20,6 @@ versioning:
   - 3.0.1-1.17
   - 3.0.2-1.17
   - 3.0.2-1.18
-  lastUpdated: 20240112171920
+  - 3.1.0-1.18
+  - 3.1.0-1.19
+  lastUpdated: 20240607091051
