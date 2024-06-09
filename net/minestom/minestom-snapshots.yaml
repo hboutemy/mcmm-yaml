@@ -27,6 +27,7 @@ versioning:
   - acquirable-strict-fa60bea54f
   - adventure_nbt-be25826e5c
   - adventure_nbt-c6b1ded750
+  - ae7a80c59f
   - buffer-type-interface-2edd0cf1c0
   - c5a145cf8b
   - c9a4b4b9c1
@@ -38,9 +39,11 @@ versioning:
   - chunk_load_event_in_instance_thread-6f01aa51ff
   - d0c7d7350e
   - d04e9e3e71
+  - d5a6392126
   - d46c626385
   - d86b890cc6
   - d595ce3468
+  - d1624c290a
   - d03466e5a3
   - dc17d171ce
   - dcbdad9a1b
@@ -49,6 +52,7 @@ versioning:
   - e8e22a2b15
   - e18d7fb798
   - e28adbca3e
+  - e17689902f
   - ea4769817d
   - ed257aea18
   - ee17c032e7
@@ -119,6 +123,8 @@ versioning:
   - particle-data-fa85bfab88
   - particle-data-fde3a9b953
   - particle-fix-af4d309a63
+  - pathfinding-fix-1-fda9dcbf25
+  - pathfinding-fix-1-51068fd9e1
   - physics-intersect-entity-cd13705747
   - please-for-the-love-of-all-things-let-this-be-the-last-lighting-pr-b2180b08dc
   - recipe_manager_cleanup-0e36f9ddc0
@@ -187,10 +193,12 @@ versioning:
   - 2a7df1ab55
   - 2ff143a61d
   - 3de64aafd8
+  - 4a6641ef53
   - 4a07089e71
   - 4b9d79bed4
   - 4b31570c9d
   - 4d2e78e7cf
+  - 4d61d5b07d
   - 4f1017d398
   - 05b3ed9e7f
   - 5b027599c5
@@ -224,6 +232,7 @@ versioning:
   - 63f02929ed
   - 77df1bdfd2
   - 97b7f61def
+  - 99f7667d9e
   - 115f9c1355
   - 129fd8ca0f
   - 204b447cdb
@@ -238,6 +247,7 @@ versioning:
   - 2442f14b3d
   - 5035c2b9e3
   - 5162a00b1e
+  - 05546d8806
   - 54212ebc97
   - 82725b5e32
   - 85942b6b27
@@ -248,4 +258,4 @@ versioning:
   - 982233141e
   - 7320437640
   - 0c9527118a
-  lastUpdated: 20240607233450
+  lastUpdated: 20240608170338
