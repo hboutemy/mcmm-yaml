@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-osconfig
 versioning:
-  latest: v1-rev20240512-2.0.0
-  release: v1-rev20240512-2.0.0
+  latest: v1-rev20240602-2.0.0
+  release: v1-rev20240602-2.0.0
   versions:
   - v1alpha-rev20210430-1.31.0
   - v1alpha-rev20210507-1.31.0
@@ -32,6 +32,7 @@ versioning:
   - v1alpha-rev20230521-2.0.0
   - v1alpha-rev20230806-2.0.0
   - v1alpha-rev20240512-2.0.0
+  - v1alpha-rev20240602-2.0.0
   - v1beta-rev2-1.18.0-rc
   - v1beta-rev2-1.25.0
   - v1beta-rev3-1.18.0-rc
@@ -130,4 +131,5 @@ versioning:
   - v1-rev20240314-2.0.0
   - v1-rev20240407-2.0.0
   - v1-rev20240512-2.0.0
-  lastUpdated: 20240516084003
+  - v1-rev20240602-2.0.0
+  lastUpdated: 20240610174015

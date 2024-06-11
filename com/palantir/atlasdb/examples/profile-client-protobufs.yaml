@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb.examples
 artifactId: profile-client-protobufs
 versioning:
-  latest: 0.1099.0-rc1
-  release: 0.1099.0-rc1
+  latest: 0.1099.0
+  release: 0.1099.0
   versions:
   - 0.566.0-rc1
   - 0.571.0
@@ -629,6 +629,7 @@ versioning:
   - 0.1082.0
   - 0.1083.0
   - 0.1084.0-rc1
+  - 0.1084.0-rc2
   - 0.1084.0
   - 0.1085.0
   - 0.1086.0
@@ -652,4 +653,5 @@ versioning:
   - 0.1098.0-rc2
   - 0.1098.0
   - 0.1099.0-rc1
-  lastUpdated: 20240607205244
+  - 0.1099.0
+  lastUpdated: 20240610155545

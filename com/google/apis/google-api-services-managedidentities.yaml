@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-managedidentities
 versioning:
-  latest: v1-rev20240112-2.0.0
-  release: v1-rev20240112-2.0.0
+  latest: v1-rev20240530-2.0.0
+  release: v1-rev20240530-2.0.0
   versions:
   - v1alpha1-rev2-1.18.0-rc
   - v1alpha1-rev2-1.25.0
@@ -50,6 +50,7 @@ versioning:
   - v1alpha1-rev20230705-2.0.0
   - v1alpha1-rev20231010-2.0.0
   - v1alpha1-rev20240112-2.0.0
+  - v1alpha1-rev20240530-2.0.0
   - v1beta1-rev2-1.18.0-rc
   - v1beta1-rev2-1.25.0
   - v1beta1-rev20200219-1.30.8
@@ -93,6 +94,7 @@ versioning:
   - v1beta1-rev20230705-2.0.0
   - v1beta1-rev20231010-2.0.0
   - v1beta1-rev20240112-2.0.0
+  - v1beta1-rev20240530-2.0.0
   - v1-rev2-1.18.0-rc
   - v1-rev2-1.25.0
   - v1-rev20200219-1.30.8
@@ -135,4 +137,5 @@ versioning:
   - v1-rev20230705-2.0.0
   - v1-rev20231010-2.0.0
   - v1-rev20240112-2.0.0
-  lastUpdated: 20240119095707
+  - v1-rev20240530-2.0.0
+  lastUpdated: 20240610172552

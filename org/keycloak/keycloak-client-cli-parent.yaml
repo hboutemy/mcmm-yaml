@@ -4,7 +4,7 @@ groupId: org.keycloak
 artifactId: keycloak-client-cli-parent
 versioning:
   latest: 18.0.2
-  release: 24.0.5
+  release: 25.0.0
   versions:
   - 2.3.0.CR1
   - 2.3.0.Final
@@ -121,4 +121,5 @@ versioning:
   - 24.0.3
   - 24.0.4
   - 24.0.5
-  lastUpdated: 20240604052513
+  - 25.0.0
+  lastUpdated: 20240610071212

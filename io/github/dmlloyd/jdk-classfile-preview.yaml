@@ -3,8 +3,8 @@
 groupId: io.github.dmlloyd
 artifactId: jdk-classfile-preview
 versioning:
-  latest: 23.beta3
-  release: 23.beta3
+  latest: 23.cr1
+  release: 23.cr1
   versions:
   - 21.0.0
   - 21.1.0
@@ -18,4 +18,5 @@ versioning:
   - 23.beta1
   - 23.beta2
   - 23.beta3
-  lastUpdated: 20240604175847
+  - 23.cr1
+  lastUpdated: 20240610184001

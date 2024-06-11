@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: eks
 versioning:
-  latest: 2.7.0-alpha.1717779264+92465dce
-  release: 2.7.0-alpha.1717779264+92465dce
+  latest: 2.7.0
+  release: 2.7.0
   versions:
   - 0.0.1
   - 0.37.1
@@ -102,4 +102,5 @@ versioning:
   - 2.7.0-alpha.1717602819+e2cff0fa
   - 2.7.0-alpha.1717629211+0404693d
   - 2.7.0-alpha.1717779264+92465dce
-  lastUpdated: 20240608004112
+  - 2.7.0
+  lastUpdated: 20240610214601
