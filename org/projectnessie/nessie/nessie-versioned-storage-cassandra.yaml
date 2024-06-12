@@ -3,8 +3,8 @@
 groupId: org.projectnessie.nessie
 artifactId: nessie-versioned-storage-cassandra
 versioning:
-  latest: 0.83.2
-  release: 0.83.2
+  latest: 0.90.2
+  release: 0.90.2
   versions:
   - 0.52.0
   - 0.52.1
@@ -64,4 +64,6 @@ versioning:
   - 0.83.0
   - 0.83.1
   - 0.83.2
-  lastUpdated: 20240523174550
+  - 0.90.1
+  - 0.90.2
+  lastUpdated: 20240611213028

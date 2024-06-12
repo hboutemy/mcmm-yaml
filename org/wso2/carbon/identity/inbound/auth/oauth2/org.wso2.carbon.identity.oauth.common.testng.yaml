@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.identity.inbound.auth.oauth2
 artifactId: org.wso2.carbon.identity.oauth.common.testng
 versioning:
-  latest: 7.0.96
-  release: 7.0.96
+  latest: 7.0.98
+  release: 7.0.98
   versions:
   - 5.5.115
   - 5.5.116
@@ -881,4 +881,6 @@ versioning:
   - 7.0.74
   - 7.0.95
   - 7.0.96
-  lastUpdated: 20240607042255
+  - 7.0.97
+  - 7.0.98
+  lastUpdated: 20240611154010
