@@ -3,8 +3,8 @@
 groupId: com.hazelcast
 artifactId: hazelcast-wm
 versioning:
-  latest: 4.0
-  release: 4.0
+  latest: 5.0
+  release: 5.0
   versions:
   - 1.9.2
   - 1.9.2.1
@@ -125,6 +125,7 @@ versioning:
   - 3.8.3
   - 3.8.4
   - 4.0
+  - 5.0
   - 1.7
   - 1.7-RC2
   - 1.7-RC3
@@ -144,4 +145,4 @@ versioning:
   - 3.4.3
   - 3.4.4
   - 3.5
-  lastUpdated: 20200221120543
+  lastUpdated: 20240612105852

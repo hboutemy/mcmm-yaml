@@ -3,8 +3,8 @@
 groupId: org.rundeck
 artifactId: rundeck-storage-conf
 versioning:
-  latest: 5.3.0-20240520
-  release: 5.3.0-20240520
+  latest: 5.4.0-rc3-20240612
+  release: 5.4.0-rc3-20240612
   versions:
   - 2.1.0
   - 2.1.1
@@ -322,4 +322,6 @@ versioning:
   - 5.3.0-rc1-20240508
   - 5.3.0-rc2-20240517
   - 5.3.0-20240520
-  lastUpdated: 20240520222430
+  - 5.4.0-rc1-20240612
+  - 5.4.0-rc3-20240612
+  lastUpdated: 20240612175048

@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-spring-data-jpa-parent
 versioning:
-  latest: 3.11.1
-  release: 3.11.1
+  latest: 3.12.0.CR1
+  release: 3.12.0.CR1
   versions:
   - 0.22.0
   - 0.23.0
@@ -293,4 +293,6 @@ versioning:
   - 3.11.0.CR1
   - 3.11.0
   - 3.11.1
-  lastUpdated: 20240605111254
+  - 3.11.2
+  - 3.12.0.CR1
+  lastUpdated: 20240612171018

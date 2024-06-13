@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-resteasy-multipart
 versioning:
-  latest: 3.11.1
-  release: 3.11.1
+  latest: 3.12.0.CR1
+  release: 3.12.0.CR1
   versions:
   - 1.8.1.Final
   - 1.8.2.Final
@@ -241,4 +241,6 @@ versioning:
   - 3.11.0.CR1
   - 3.11.0
   - 3.11.1
-  lastUpdated: 20240605111200
+  - 3.11.2
+  - 3.12.0.CR1
+  lastUpdated: 20240612170922

@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.cxf
 artifactId: quarkus-cxf-integration-test-ws-security
 versioning:
-  latest: 3.11.1
-  release: 3.11.1
+  latest: 3.12.0.CR1
+  release: 3.12.0.CR1
   versions:
   - 3.8.0
   - 3.8.1
@@ -16,4 +16,5 @@ versioning:
   - 3.10.0
   - 3.11.0
   - 3.11.1
-  lastUpdated: 20240603084926
+  - 3.12.0.CR1
+  lastUpdated: 20240612151028

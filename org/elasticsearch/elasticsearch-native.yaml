@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-native
 versioning:
-  latest: 8.14.0
-  release: 8.14.0
+  latest: 8.14.1
+  release: 8.14.1
   versions:
   - 8.13.0
   - 8.13.1
@@ -12,4 +12,5 @@ versioning:
   - 8.13.3
   - 8.13.4
   - 8.14.0
-  lastUpdated: 20240605122904
+  - 8.14.1
+  lastUpdated: 20240612143842

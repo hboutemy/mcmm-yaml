@@ -1,16 +1,17 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: javax
 artifactId: javaee-api
 versioning:
   latest: 8.0.1
   release: 8.0.1
   versions:
+  - 6.0-RC1
+  - 6.0-RC2
+  - 6.0
   - 7.0
   - 8.0
   - 8.0.1-b5
   - 8.0.1
-  - 6.0
-  - 6.0-RC1
-  - 6.0-RC2
-  lastUpdated: 20190409001130
+  lastUpdated: 20240612200939

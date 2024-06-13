@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-resteasy-client-jackson-parent
 versioning:
-  latest: 3.11.1
-  release: 3.11.1
+  latest: 3.12.0.CR1
+  release: 3.12.0.CR1
   versions:
   - 3.7.0.CR1
   - 3.7.0
@@ -34,4 +34,6 @@ versioning:
   - 3.11.0.CR1
   - 3.11.0
   - 3.11.1
-  lastUpdated: 20240605111147
+  - 3.11.2
+  - 3.12.0.CR1
+  lastUpdated: 20240612170910
