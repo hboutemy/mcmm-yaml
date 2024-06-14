@@ -3,8 +3,8 @@
 groupId: org.ossreviewtoolkit.plugins.packagemanagers
 artifactId: go-package-manager
 versioning:
-  latest: 22.8.0
-  release: 22.8.0
+  latest: 23.0.0
+  release: 23.0.0
   versions:
   - 6.0.0
   - 6.1.0
@@ -41,4 +41,5 @@ versioning:
   - 22.6.0
   - 22.7.0
   - 22.8.0
-  lastUpdated: 20240610094208
+  - 23.0.0
+  lastUpdated: 20240613075501

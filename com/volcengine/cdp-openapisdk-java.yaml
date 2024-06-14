@@ -3,9 +3,10 @@
 groupId: com.volcengine
 artifactId: cdp-openapisdk-java
 versioning:
-  latest: 1.21.5
-  release: 1.21.5
+  latest: 1.23.2.udf
+  release: 1.23.2.udf
   versions:
+  - udf.1.23.2
   - 1.18.0
   - 1.18.1
   - 1.18.2
@@ -34,4 +35,5 @@ versioning:
   - 1.21.3
   - 1.21.4
   - 1.21.5
-  lastUpdated: 20240314032637
+  - 1.23.2.udf
+  lastUpdated: 20240613055331

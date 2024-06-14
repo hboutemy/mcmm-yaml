@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-networkmanagement
 versioning:
-  latest: v1-rev20240515-2.0.0
-  release: v1-rev20240515-2.0.0
+  latest: v1-rev20240605-2.0.0
+  release: v1-rev20240605-2.0.0
   versions:
   - v1beta1-rev3-1.18.0-rc
   - v1beta1-rev3-1.25.0
@@ -122,4 +122,5 @@ versioning:
   - v1-rev20240417-2.0.0
   - v1-rev20240424-2.0.0
   - v1-rev20240515-2.0.0
-  lastUpdated: 20240612083113
+  - v1-rev20240605-2.0.0
+  lastUpdated: 20240613083511

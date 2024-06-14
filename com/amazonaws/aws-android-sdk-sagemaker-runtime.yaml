@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-android-sdk-sagemaker-runtime
 versioning:
-  latest: 2.75.1
-  release: 2.75.1
+  latest: 2.75.2
+  release: 2.75.2
   versions:
   - 2.13.7
   - 2.14.0
@@ -109,4 +109,5 @@ versioning:
   - 2.74.0
   - 2.75.0
   - 2.75.1
-  lastUpdated: 20240517123909
+  - 2.75.2
+  lastUpdated: 20240613211033
