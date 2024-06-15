@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-streaming-java
 versioning:
-  latest: 1.19.0
-  release: 1.19.0
+  latest: 1.19.1
+  release: 1.19.1
   versions:
   - 0.10.0
   - 0.10.0-hadoop1
@@ -27,4 +27,5 @@ versioning:
   - 1.18.0
   - 1.18.1
   - 1.19.0
-  lastUpdated: 20240315093817
+  - 1.19.1
+  lastUpdated: 20240614151216

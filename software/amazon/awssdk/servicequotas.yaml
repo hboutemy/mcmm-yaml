@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: servicequotas
 versioning:
-  latest: 2.26.1
-  release: 2.26.1
+  latest: 2.26.3
+  release: 2.26.3
   versions:
   - 2.5.70
   - 2.5.71
@@ -1189,4 +1189,6 @@ versioning:
   - 2.25.70
   - 2.26.0
   - 2.26.1
-  lastUpdated: 20240612204006
+  - 2.26.2
+  - 2.26.3
+  lastUpdated: 20240614220103

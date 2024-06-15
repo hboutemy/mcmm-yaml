@@ -3,8 +3,8 @@
 groupId: org.hibernate
 artifactId: hibernate-enhance-maven-plugin
 versioning:
-  latest: 7.0.0.Alpha2
-  release: 7.0.0.Alpha2
+  latest: 7.0.0.Alpha3
+  release: 7.0.0.Alpha3
   versions:
   - 6.0.0.Alpha3
   - 6.0.0.Alpha4
@@ -81,6 +81,8 @@ versioning:
   - 6.5.1.Final
   - 6.5.2.Final
   - 6.6.0.Alpha1
+  - 6.6.0.CR1
   - 7.0.0.Alpha1
   - 7.0.0.Alpha2
-  lastUpdated: 20240611134927
+  - 7.0.0.Alpha3
+  lastUpdated: 20240614163654

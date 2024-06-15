@@ -3,8 +3,8 @@
 groupId: org.apache.maven.surefire
 artifactId: maven-surefire-common
 versioning:
-  latest: 3.2.5
-  release: 3.2.5
+  latest: 3.3.0
+  release: 3.3.0
   versions:
   - 2.6
   - 2.7
@@ -52,4 +52,5 @@ versioning:
   - 3.2.2
   - 3.2.3
   - 3.2.5
-  lastUpdated: 20240109203401
+  - 3.3.0
+  lastUpdated: 20240614161530

@@ -3,8 +3,8 @@
 groupId: org.apache.druid.extensions.contrib
 artifactId: materialized-view-selection
 versioning:
-  latest: 29.0.1
-  release: 29.0.1
+  latest: 30.0.0
+  release: 30.0.0
   versions:
   - 0.13.0-incubating
   - 0.14.0-incubating
@@ -36,4 +36,5 @@ versioning:
   - 28.0.0
   - 28.0.1
   - 29.0.0
-  lastUpdated: 20240402045153
+  - 30.0.0
+  lastUpdated: 20240614035332

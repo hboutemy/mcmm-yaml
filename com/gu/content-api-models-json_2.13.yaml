@@ -3,8 +3,8 @@
 groupId: com.gu
 artifactId: content-api-models-json_2.13
 versioning:
-  latest: 24.0.0
-  release: 24.0.0
+  latest: 25.0.0-PREVIEW.expand-list-model.2024-06-14T0911.816f303c
+  release: 25.0.0-PREVIEW.expand-list-model.2024-06-14T0911.816f303c
   versions:
   - 15.1
   - 15.2
@@ -98,4 +98,6 @@ versioning:
   - 23.0.0-PREVIEW.dbbump-and-test-content-entity-version.2024-03-27T0934.cbc6ec49
   - 23.0.0-PREVIEW.timeline-model.2024-03-26T1038.17f5ef3f
   - 24.0.0
-  lastUpdated: 20240412124037
+  - 25.0.0
+  - 25.0.0-PREVIEW.expand-list-model.2024-06-14T0911.816f303c
+  lastUpdated: 20240614094454

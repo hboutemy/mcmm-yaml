@@ -3,8 +3,8 @@
 groupId: software.amazon.awssdk
 artifactId: emrcontainers
 versioning:
-  latest: 2.26.1
-  release: 2.26.1
+  latest: 2.26.3
+  release: 2.26.3
   versions:
   - 2.15.42
   - 2.15.43
@@ -853,4 +853,6 @@ versioning:
   - 2.25.70
   - 2.26.0
   - 2.26.1
-  lastUpdated: 20240612203855
+  - 2.26.2
+  - 2.26.3
+  lastUpdated: 20240614215954

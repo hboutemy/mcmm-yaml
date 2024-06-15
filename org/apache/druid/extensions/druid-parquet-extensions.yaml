@@ -3,8 +3,8 @@
 groupId: org.apache.druid.extensions
 artifactId: druid-parquet-extensions
 versioning:
-  latest: 29.0.1
-  release: 29.0.1
+  latest: 30.0.0
+  release: 30.0.0
   versions:
   - 0.14.0-incubating
   - 0.14.1-incubating
@@ -35,4 +35,5 @@ versioning:
   - 28.0.0
   - 28.0.1
   - 29.0.0
-  lastUpdated: 20240402045419
+  - 30.0.0
+  lastUpdated: 20240614040612

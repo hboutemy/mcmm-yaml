@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: fms
 versioning:
-  latest: 2.26.1
-  release: 2.26.1
+  latest: 2.26.3
+  release: 2.26.3
   versions:
   - 2.1.0
   - 2.1.1
@@ -1293,4 +1293,6 @@ versioning:
   - 2.25.70
   - 2.26.0
   - 2.26.1
-  lastUpdated: 20240612203858
+  - 2.26.2
+  - 2.26.3
+  lastUpdated: 20240614215957

@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-yarn
 versioning:
-  latest: 1.19.0
-  release: 1.19.0
+  latest: 1.19.1
+  release: 1.19.1
   versions:
   - 0.6-hadoop2-incubating
   - 0.6.1-hadoop2-incubating
@@ -32,4 +32,5 @@ versioning:
   - 1.18.0
   - 1.18.1
   - 1.19.0
-  lastUpdated: 20240315094332
+  - 1.19.1
+  lastUpdated: 20240614151601
