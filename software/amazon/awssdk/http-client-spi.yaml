@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: http-client-spi
 versioning:
-  latest: 2.26.3
-  release: 2.26.3
+  latest: 2.26.4
+  release: 2.26.4
   versions:
   - 2.0.0
   - 2.0.0-preview-1
@@ -1314,4 +1314,5 @@ versioning:
   - 2.26.1
   - 2.26.2
   - 2.26.3
-  lastUpdated: 20240614220004
+  - 2.26.4
+  lastUpdated: 20240617203934

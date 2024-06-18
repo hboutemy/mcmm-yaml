@@ -3,8 +3,8 @@
 groupId: io.gravitee.node.services
 artifactId: gravitee-node-services-upgrader
 versioning:
-  latest: 5.16.1
-  release: 5.16.1
+  latest: 5.18.0
+  release: 5.18.0
   versions:
   - 1.27.0
   - 1.27.1
@@ -134,4 +134,7 @@ versioning:
   - 5.15.0
   - 5.16.0
   - 5.16.1
-  lastUpdated: 20240614132927
+  - 5.16.2
+  - 5.17.0
+  - 5.18.0
+  lastUpdated: 20240617103509
