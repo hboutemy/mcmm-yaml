@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-persistence-parent
 versioning:
-  latest: 15.0.4.Final
-  release: 15.0.4.Final
+  latest: 15.0.5.Final
+  release: 15.0.5.Final
   versions:
   - 6.0.0.Beta1
   - 6.0.0.Beta2
@@ -323,5 +323,6 @@ versioning:
   - 15.0.2.Final
   - 15.0.3.Final
   - 15.0.4.Final
+  - 15.0.5.Final
   - 12.0.0.Dev03
-  lastUpdated: 20240613094509
+  lastUpdated: 20240618210626

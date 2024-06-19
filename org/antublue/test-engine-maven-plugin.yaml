@@ -3,8 +3,8 @@
 groupId: org.antublue
 artifactId: test-engine-maven-plugin
 versioning:
-  latest: 7.0.0-BETA
-  release: 7.0.0-BETA
+  latest: 7.0.0-BETA-3
+  release: 7.0.0-BETA-3
   versions:
   - 0.0.3
   - 0.0.4
@@ -47,4 +47,6 @@ versioning:
   - 6.2.0
   - 6.3.0
   - 7.0.0-BETA
-  lastUpdated: 20240616231222
+  - 7.0.0-BETA-2
+  - 7.0.0-BETA-3
+  lastUpdated: 20240618164327

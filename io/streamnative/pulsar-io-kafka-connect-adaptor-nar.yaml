@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-io-kafka-connect-adaptor-nar
 versioning:
-  latest: 3.3.0.2
-  release: 3.3.0.2
+  latest: 3.3.0.3
+  release: 3.3.0.3
   versions:
   - master-rc-daily
   - v2.8.0-rc-202106091140
@@ -658,4 +658,5 @@ versioning:
   - 3.2.3.3
   - 3.3.0.1
   - 3.3.0.2
-  lastUpdated: 20240613144548
+  - 3.3.0.3
+  lastUpdated: 20240618065448

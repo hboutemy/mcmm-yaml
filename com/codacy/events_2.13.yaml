@@ -3,8 +3,8 @@
 groupId: com.codacy
 artifactId: events_2.13
 versioning:
-  latest: 9.9.0_akka_2.6_circe_0.14
-  release: 9.9.0_akka_2.6_circe_0.14
+  latest: 9.10.0_akka_2.6_circe_0.14
+  release: 9.10.0_akka_2.6_circe_0.14
   versions:
   - 7.1.0_akka_2.6_circe_0.12
   - 7.1.0_akka_2.6_circe_0.14
@@ -116,4 +116,6 @@ versioning:
   - 9.8.1_akka_2.6_circe_0.14
   - 9.9.0_akka_2.6_circe_0.12
   - 9.9.0_akka_2.6_circe_0.14
-  lastUpdated: 20240617160542
+  - 9.10.0_akka_2.6_circe_0.12
+  - 9.10.0_akka_2.6_circe_0.14
+  lastUpdated: 20240618115959
