@@ -3,8 +3,8 @@
 groupId: org.openrewrite.recipe
 artifactId: rewrite-static-analysis
 versioning:
-  latest: 1.9.0
-  release: 1.9.0
+  latest: 1.10.1
+  release: 1.10.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -35,4 +35,6 @@ versioning:
   - 1.8.0
   - 1.8.1
   - 1.9.0
-  lastUpdated: 20240607224345
+  - 1.10.0
+  - 1.10.1
+  lastUpdated: 20240619180748

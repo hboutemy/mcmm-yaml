@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-kafka-client-parent
 versioning:
-  latest: 3.12.0.CR1
-  release: 3.12.0.CR1
+  latest: 3.12.0
+  release: 3.12.0
   versions:
   - 0.11.0
   - 0.12.0
@@ -312,5 +312,7 @@ versioning:
   - 3.11.0
   - 3.11.1
   - 3.11.2
+  - 3.11.3
   - 3.12.0.CR1
-  lastUpdated: 20240612170716
+  - 3.12.0
+  lastUpdated: 20240619102125

@@ -3,8 +3,8 @@
 groupId: org.openrewrite
 artifactId: rewrite-gradle
 versioning:
-  latest: 8.27.4
-  release: 8.27.4
+  latest: 8.28.1
+  release: 8.28.1
   versions:
   - 7.15.0
   - 7.15.1
@@ -163,4 +163,6 @@ versioning:
   - 8.27.2
   - 8.27.3
   - 8.27.4
-  lastUpdated: 20240607214627
+  - 8.28.0
+  - 8.28.1
+  lastUpdated: 20240619165204

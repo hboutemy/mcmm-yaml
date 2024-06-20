@@ -3,8 +3,8 @@
 groupId: dev.crashteam
 artifactId: openapi-payment
 versioning:
-  latest: 1.20-58802e8-server
-  release: 1.20-58802e8-server
+  latest: 1.21-c81397b-server
+  release: 1.21-c81397b-server
   versions:
   - 1.3-a5821e5-client
   - 1.3-a5821e5-server
@@ -40,4 +40,6 @@ versioning:
   - 1.19-5f9cd85-server
   - 1.20-58802e8-client
   - 1.20-58802e8-server
-  lastUpdated: 20240609101712
+  - 1.21-c81397b-client
+  - 1.21-c81397b-server
+  lastUpdated: 20240619134505

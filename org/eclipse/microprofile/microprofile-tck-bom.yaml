@@ -3,8 +3,8 @@
 groupId: org.eclipse.microprofile
 artifactId: microprofile-tck-bom
 versioning:
-  latest: 3.3
-  release: 3.3
+  latest: 3.4
+  release: 3.4
   versions:
   - 2.6
   - 2.7
@@ -12,6 +12,8 @@ versioning:
   - 2.9-RC1
   - 2.9-RC2
   - 2.9
+  - 2.10-RC1
+  - 2.10
   - 3.0-RC1
   - 3.0-RC2
   - 3.0
@@ -21,4 +23,6 @@ versioning:
   - 3.3-RC1
   - 3.3-RC2
   - 3.3
-  lastUpdated: 20240618083429
+  - 3.4-RC1
+  - 3.4
+  lastUpdated: 20240619211828

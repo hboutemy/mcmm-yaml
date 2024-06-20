@@ -3,11 +3,18 @@
 groupId: cn.lalaki.repack
 artifactId: cn.lalaki.repack.gradle.plugin
 versioning:
-  latest: 1.0.13
-  release: 1.0.13
+  latest: 2.0.0-alpha03
+  release: 2.0.0-alpha03
   versions:
+  - 2.0.0-alpha01
+  - 2.0.0-alpha02
+  - 2.0.0-alpha03
   - 0.0.1
   - 1.0.1
+  - 1.0.10
+  - 1.0.11
+  - 1.0.12
+  - 1.0.13
   - 1.0.2
   - 1.0.3
   - 1.0.4
@@ -16,8 +23,4 @@ versioning:
   - 1.0.7
   - 1.0.8
   - 1.0.9
-  - 1.0.10
-  - 1.0.11
-  - 1.0.12
-  - 1.0.13
-  lastUpdated: 20240524174913
+  lastUpdated: 20240619223603

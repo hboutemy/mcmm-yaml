@@ -3,9 +3,11 @@
 groupId: me.nathanfallet.cloudflare
 artifactId: cloudflare-api-client-watchosx64
 versioning:
-  latest: 4.3.2
-  release: 4.3.2
+  latest: 4.4.0
+  release: 4.4.0
   versions:
+  - 4.4.0
+  - 4.0.10
   - 4.0.2
   - 4.0.3
   - 4.0.4
@@ -14,7 +16,6 @@ versioning:
   - 4.0.7
   - 4.0.8
   - 4.0.9
-  - 4.0.10
   - 4.1.0
   - 4.1.1
   - 4.2.0
@@ -24,4 +25,4 @@ versioning:
   - 4.3.0-alpha1
   - 4.3.1
   - 4.3.2
-  lastUpdated: 20240523144944
+  lastUpdated: 20240619185008

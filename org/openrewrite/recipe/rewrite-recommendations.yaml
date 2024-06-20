@@ -3,8 +3,8 @@
 groupId: org.openrewrite.recipe
 artifactId: rewrite-recommendations
 versioning:
-  latest: 1.5.0
-  release: 1.5.0
+  latest: 1.6.1
+  release: 1.6.1
   versions:
   - 0.2.0
   - 1.0.0
@@ -31,4 +31,6 @@ versioning:
   - 1.4.2
   - 1.4.3
   - 1.5.0
-  lastUpdated: 20240607233659
+  - 1.6.0
+  - 1.6.1
+  lastUpdated: 20240619200306

@@ -3,8 +3,8 @@
 groupId: io.gravitee.apim.plugin.reactor
 artifactId: gravitee-apim-plugin-reactor-handler
 versioning:
-  latest: 4.3.6
-  release: 4.3.6
+  latest: 4.3.7
+  release: 4.3.7
   versions:
   - 4.0.0-alpha.2
   - 4.0.0-alpha.3
@@ -36,6 +36,7 @@ versioning:
   - 4.0.24
   - 4.0.25
   - 4.0.26
+  - 4.0.27
   - 4.1.0
   - 4.1.1
   - 4.1.2
@@ -54,6 +55,7 @@ versioning:
   - 4.1.15
   - 4.1.16
   - 4.1.17
+  - 4.1.18
   - 4.2.0-alpha.2
   - 4.2.0
   - 4.2.1
@@ -67,6 +69,7 @@ versioning:
   - 4.2.9
   - 4.2.10
   - 4.2.11
+  - 4.2.12
   - 4.3.0-alpha.2
   - 4.3.0
   - 4.3.1
@@ -75,4 +78,5 @@ versioning:
   - 4.3.4
   - 4.3.5
   - 4.3.6
-  lastUpdated: 20240607145945
+  - 4.3.7
+  lastUpdated: 20240619165240
