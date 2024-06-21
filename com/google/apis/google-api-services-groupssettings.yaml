@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-groupssettings
 versioning:
-  latest: v1-rev20210624-2.0.0
-  release: v1-rev20210624-2.0.0
+  latest: v1-rev20220614-2.0.0
+  release: v1-rev20220614-2.0.0
   versions:
   - v1-rev22-1.13.2-beta
   - v1-rev22-1.14.1-beta
@@ -243,4 +243,5 @@ versioning:
   - v1-rev20210624-1.31.5
   - v1-rev20210624-1.32.1
   - v1-rev20210624-2.0.0
-  lastUpdated: 20220808204052
+  - v1-rev20220614-2.0.0
+  lastUpdated: 20240620082221
