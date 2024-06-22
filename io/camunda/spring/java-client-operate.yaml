@@ -3,8 +3,8 @@
 groupId: io.camunda.spring
 artifactId: java-client-operate
 versioning:
-  latest: 8.5.5
-  release: 8.5.5
+  latest: 8.5.6
+  release: 8.5.6
   versions:
   - 8.3.2-rc1
   - 8.3.2-rc2
@@ -50,6 +50,7 @@ versioning:
   - 8.4.6-rc1
   - 8.4.6
   - 8.4.7
+  - 8.4.8
   - 8.5.0-alpha2
   - 8.5.0-rc1
   - 8.5.0-rc2
@@ -59,4 +60,5 @@ versioning:
   - 8.5.3
   - 8.5.4
   - 8.5.5
-  lastUpdated: 20240612125508
+  - 8.5.6
+  lastUpdated: 20240621114450

@@ -3,8 +3,8 @@
 groupId: org.scala-lang
 artifactId: scala3-language-server_3
 versioning:
-  latest: 3.5.1-RC1-bin-20240619-1f00e4a-NIGHTLY
-  release: 3.5.1-RC1-bin-20240619-1f00e4a-NIGHTLY
+  latest: 3.5.1-RC1-bin-20240620-56e6f9f-NIGHTLY
+  release: 3.5.1-RC1-bin-20240620-56e6f9f-NIGHTLY
   versions:
   - 3.0.0
   - 3.0.1-RC1
@@ -649,6 +649,7 @@ versioning:
   - 3.3.2
   - 3.3.3
   - 3.3.4-RC1-bin-20240326-feeddb7-NIGHTLY
+  - 3.3.4-RC1-bin-20240620-f08cd3c-NIGHTLY
   - 3.4.0-RC1
   - 3.4.0-RC1-bin-20230725-18df4ed-NIGHTLY
   - 3.4.0-RC1-bin-20230726-97677cc-NIGHTLY
@@ -856,6 +857,7 @@ versioning:
   - 3.5.0-RC1-bin-20240517-06ffc8c-NIGHTLY
   - 3.5.0-RC1-bin-20240519-a7ac03e-NIGHTLY
   - 3.5.0-RC1-bin-20240520-8563571-NIGHTLY
+  - 3.5.0-RC2
   - 3.5.1-RC1-bin-20240521-4636ce2-NIGHTLY
   - 3.5.1-RC1-bin-20240522-e0c030c-NIGHTLY
   - 3.5.1-RC1-bin-20240523-7bdeb0b-NIGHTLY
@@ -875,4 +877,5 @@ versioning:
   - 3.5.1-RC1-bin-20240613-61a15b2-NIGHTLY
   - 3.5.1-RC1-bin-20240618-c1b25d6-NIGHTLY
   - 3.5.1-RC1-bin-20240619-1f00e4a-NIGHTLY
-  lastUpdated: 20240620043801
+  - 3.5.1-RC1-bin-20240620-56e6f9f-NIGHTLY
+  lastUpdated: 20240621124451

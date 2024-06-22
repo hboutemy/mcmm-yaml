@@ -3,8 +3,8 @@
 groupId: io.gravitee.node
 artifactId: gravitee-node-jetty
 versioning:
-  latest: 5.18.1
-  release: 5.18.1
+  latest: 5.18.2
+  release: 5.18.2
   versions:
   - 1.7.0
   - 1.7.1
@@ -141,6 +141,7 @@ versioning:
   - 4.3.1
   - 4.3.2
   - 4.3.3
+  - 4.3.4
   - 4.4.0-alpha.1
   - 4.4.0-alpha.2
   - 4.4.0-alpha.3
@@ -156,6 +157,7 @@ versioning:
   - 4.6.1
   - 4.6.2
   - 4.6.3
+  - 4.6.4
   - 4.7.0
   - 4.7.1
   - 4.8.0
@@ -208,4 +210,5 @@ versioning:
   - 5.17.0
   - 5.18.0
   - 5.18.1
-  lastUpdated: 20240619135352
+  - 5.18.2
+  lastUpdated: 20240621081030
