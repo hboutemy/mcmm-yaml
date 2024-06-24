@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: perf-regression
 versioning:
-  latest: 3.11.0
-  release: 3.11.0
+  latest: 3.12.0
+  release: 3.12.0
   versions:
   - 2.12.0
   - 2.13.0
@@ -32,4 +32,5 @@ versioning:
   - 3.9.0
   - 3.10.0
   - 3.11.0
-  lastUpdated: 20240527094536
+  - 3.12.0
+  lastUpdated: 20240623150635
