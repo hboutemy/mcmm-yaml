@@ -3,8 +3,8 @@
 groupId: org.apache.celeborn
 artifactId: celeborn-client-spark-2-shaded_2.11
 versioning:
-  latest: 0.4.1
-  release: 0.4.1
+  latest: 0.5.0
+  release: 0.5.0
   versions:
   - 0.2.1-incubating
   - 0.3.0-incubating
@@ -12,4 +12,5 @@ versioning:
   - 0.3.2-incubating
   - 0.4.0-incubating
   - 0.4.1
-  lastUpdated: 20240522113231
+  - 0.5.0
+  lastUpdated: 20240624085034

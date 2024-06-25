@@ -3,8 +3,8 @@
 groupId: com.google.cloud.spark
 artifactId: spark-3.3-bigquery
 versioning:
-  latest: 0.39.0
-  release: 0.39.0
+  latest: 0.39.1
+  release: 0.39.1
   versions:
   - 0.29.0-preview
   - 0.30.0
@@ -24,4 +24,5 @@ versioning:
   - 0.37.0
   - 0.38.0
   - 0.39.0
-  lastUpdated: 20240530201409
+  - 0.39.1
+  lastUpdated: 20240624224556
