@@ -3,8 +3,8 @@
 groupId: com.sap.cloud.sjb.cf
 artifactId: cf-tomee7-bom
 versioning:
-  latest: 2.11.0
-  release: 2.11.0
+  latest: 2.12.0
+  release: 2.12.0
   versions:
   - 1.27.2
   - 1.27.3
@@ -80,6 +80,7 @@ versioning:
   - 1.95.0
   - 1.96.0
   - 1.97.0
+  - 1.98.0
   - 2.2.0
   - 2.3.0
   - 2.4.0
@@ -89,4 +90,5 @@ versioning:
   - 2.8.0
   - 2.10.0
   - 2.11.0
-  lastUpdated: 20240610140555
+  - 2.12.0
+  lastUpdated: 20240625082734

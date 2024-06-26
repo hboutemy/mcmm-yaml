@@ -3,8 +3,8 @@
 groupId: com.gu.etag-caching
 artifactId: aws-s3-base_2.12
 versioning:
-  latest: 3.0.7
-  release: 3.0.7
+  latest: 3.0.9
+  release: 3.0.9
   versions:
   - 1.0.2
   - 1.0.3
@@ -70,4 +70,6 @@ versioning:
   - 3.0.5-PREVIEW.test-prs-with-gha-scala-library-release-workflow-pr-40.2024-06-23T1622.20c5038d
   - 3.0.6
   - 3.0.7
-  lastUpdated: 20240623201146
+  - 3.0.8
+  - 3.0.9
+  lastUpdated: 20240625162658

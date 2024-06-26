@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-restore
 versioning:
-  latest: 8.6.0-alpha3-rc3
-  release: 8.6.0-alpha3-rc3
+  latest: 8.6.0-alpha3
+  release: 8.6.0-alpha3
   versions:
   - 8.0.15
   - 8.1.0-rc
@@ -120,4 +120,5 @@ versioning:
   - 8.6.0-alpha2-rc4
   - 8.6.0-alpha2
   - 8.6.0-alpha3-rc3
-  lastUpdated: 20240619123756
+  - 8.6.0-alpha3
+  lastUpdated: 20240625184734

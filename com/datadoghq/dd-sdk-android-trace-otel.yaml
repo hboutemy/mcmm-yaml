@@ -3,8 +3,9 @@
 groupId: com.datadoghq
 artifactId: dd-sdk-android-trace-otel
 versioning:
-  latest: 2.11.0
-  release: 2.11.0
+  latest: 2.11.0-debug
+  release: 2.11.0-debug
   versions:
   - 2.11.0
-  lastUpdated: 20240620111831
+  - 2.11.0-debug
+  lastUpdated: 20240625163739

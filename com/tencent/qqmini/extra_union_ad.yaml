@@ -3,8 +3,8 @@
 groupId: com.tencent.qqmini
 artifactId: extra_union_ad
 versioning:
-  latest: 1.71.2_automotive
-  release: 1.71.2_automotive
+  latest: 1.71.2_support_mp
+  release: 1.71.2_support_mp
   versions:
   - 0.0.0.999
   - 1.56.0
@@ -79,4 +79,6 @@ versioning:
   - 1.71.1
   - 1.71.2
   - 1.71.2_automotive
-  lastUpdated: 20240624030130
+  - 1.71.2_support
+  - 1.71.2_support_mp
+  lastUpdated: 20240625113042

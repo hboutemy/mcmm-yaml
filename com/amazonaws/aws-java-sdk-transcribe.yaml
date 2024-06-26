@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.amazonaws
 artifactId: aws-java-sdk-transcribe
 versioning:
-  latest: 1.12.748
-  release: 1.12.748
+  latest: 1.12.750
+  release: 1.12.750
   versions:
   - 1.11.268
   - 1.11.269
@@ -1518,4 +1518,6 @@ versioning:
   - 1.12.746
   - 1.12.747
   - 1.12.748
-  lastUpdated: 20240620212057
+  - 1.12.749
+  - 1.12.750
+  lastUpdated: 20240625211119
