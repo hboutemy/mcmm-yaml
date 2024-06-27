@@ -3,8 +3,8 @@
 groupId: io.quarkus.platform
 artifactId: quarkus-debezium-bom-quarkus-platform-properties
 versioning:
-  latest: 3.12.0.CR1
-  release: 3.12.0.CR1
+  latest: 3.12.0
+  release: 3.12.0
   versions:
   - 2.0.0.Final
   - 2.0.1.Final
@@ -182,4 +182,5 @@ versioning:
   - 3.11.2
   - 3.11.3
   - 3.12.0.CR1
-  lastUpdated: 20240619135530
+  - 3.12.0
+  lastUpdated: 20240626071518

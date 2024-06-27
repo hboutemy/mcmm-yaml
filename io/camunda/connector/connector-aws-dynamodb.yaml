@@ -3,8 +3,8 @@
 groupId: io.camunda.connector
 artifactId: connector-aws-dynamodb
 versioning:
-  latest: 8.6.0-alpha2.1
-  release: 8.6.0-alpha2.1
+  latest: 8.6.0-alpha3
+  release: 8.6.0-alpha3
   versions:
   - 0.20.0-alpha1
   - 0.20.0-alpha2
@@ -35,6 +35,7 @@ versioning:
   - 8.3.10
   - 8.3.11
   - 8.3.12
+  - 8.3.13
   - 8.4.0-alpha1
   - 8.4.0-alpha2
   - 8.4.0
@@ -46,13 +47,16 @@ versioning:
   - 8.4.6
   - 8.4.7
   - 8.4.8
+  - 8.4.9
   - 8.5.0-alpha1
   - 8.5.0-alpha2
   - 8.5.0
   - 8.5.1
   - 8.5.2
   - 8.5.3
+  - 8.5.4
   - 8.6.0-alpha1
   - 8.6.0-alpha2
   - 8.6.0-alpha2.1
-  lastUpdated: 20240603164303
+  - 8.6.0-alpha3
+  lastUpdated: 20240626190021

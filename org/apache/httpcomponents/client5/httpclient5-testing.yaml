@@ -3,8 +3,8 @@
 groupId: org.apache.httpcomponents.client5
 artifactId: httpclient5-testing
 versioning:
-  latest: 5.4-alpha2
-  release: 5.4-alpha2
+  latest: 5.4-beta1
+  release: 5.4-beta1
   versions:
   - 5.0-alpha2
   - 5.0-alpha3
@@ -37,4 +37,5 @@ versioning:
   - 5.3.1
   - 5.4-alpha1
   - 5.4-alpha2
-  lastUpdated: 20240311083445
+  - 5.4-beta1
+  lastUpdated: 20240626120811
