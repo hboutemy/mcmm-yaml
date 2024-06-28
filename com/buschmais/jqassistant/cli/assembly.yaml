@@ -3,8 +3,8 @@
 groupId: com.buschmais.jqassistant.cli
 artifactId: assembly
 versioning:
-  latest: 2.3.0-RC2
-  release: 2.3.0-RC2
+  latest: 2.3.0
+  release: 2.3.0
   versions:
   - 2.1.0-M1
   - 2.1.0-RC2
@@ -21,4 +21,5 @@ versioning:
   - 2.3.0-M5
   - 2.3.0-RC1
   - 2.3.0-RC2
-  lastUpdated: 20240619171734
+  - 2.3.0
+  lastUpdated: 20240627160246
