@@ -3,11 +3,12 @@
 groupId: io.debezium
 artifactId: debezium-connector-binlog
 versioning:
-  latest: 2.7.0.Beta2
-  release: 2.7.0.Beta2
+  latest: 2.7.0.Final
+  release: 2.7.0.Final
   versions:
   - 2.7.0.Alpha1
   - 2.7.0.Alpha2
   - 2.7.0.Beta1
   - 2.7.0.Beta2
-  lastUpdated: 20240613103412
+  - 2.7.0.Final
+  lastUpdated: 20240628102020

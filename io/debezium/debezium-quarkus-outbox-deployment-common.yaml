@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-quarkus-outbox-deployment-common
 versioning:
-  latest: 2.7.0.Beta2
-  release: 2.7.0.Beta2
+  latest: 2.7.0.Final
+  release: 2.7.0.Final
   versions:
   - 2.2.0.Alpha2
   - 2.2.0.Alpha3
@@ -50,4 +50,5 @@ versioning:
   - 2.7.0.Alpha2
   - 2.7.0.Beta1
   - 2.7.0.Beta2
-  lastUpdated: 20240613103429
+  - 2.7.0.Final
+  lastUpdated: 20240628102036

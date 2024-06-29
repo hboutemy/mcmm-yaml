@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.liferay.portal
 artifactId: release.dxp.api
 versioning:
-  latest: 2024.q2.1
-  release: 2024.q2.1
+  latest: 2024.q2.2
+  release: 2024.q2.2
   versions:
   - 7.0.10.fp83
   - 7.0.10.fp84
@@ -223,6 +223,7 @@ versioning:
   - 7.4.13.u112
   - 7.4.13-u121
   - 7.4.13-u122
+  - 7.4.13-u123
   - 2023.q3.1
   - 2023.q3.2
   - 2023.q3.3
@@ -258,5 +259,4 @@ versioning:
   - 2024.q2.1
   - 2024.q2.2
   - 7.3.10.ep6
-  - 7.4.13-u123
-  lastUpdated: 20240621101312
+  lastUpdated: 20240628105947
