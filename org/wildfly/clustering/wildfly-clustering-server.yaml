@@ -3,8 +3,8 @@
 groupId: org.wildfly.clustering
 artifactId: wildfly-clustering-server
 versioning:
-  latest: 3.0.0.CR3
-  release: 3.0.0.CR3
+  latest: 3.0.0.Final
+  release: 3.0.0.Final
   versions:
   - 1.0.0.Beta1
   - 1.0.0.Beta2
@@ -28,8 +28,10 @@ versioning:
   - 1.1.0.CR3
   - 1.1.0.CR4
   - 1.1.0.CR5
+  - 1.1.0.Final
   - 2.0.0.Final
   - 3.0.0.CR1
   - 3.0.0.CR2
   - 3.0.0.CR3
-  lastUpdated: 20240624174421
+  - 3.0.0.Final
+  lastUpdated: 20240629141601
