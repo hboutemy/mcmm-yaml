@@ -3,8 +3,8 @@
 groupId: org.flywaydb
 artifactId: flyway-database-oracle
 versioning:
-  latest: 10.15.0
-  release: 10.15.0
+  latest: 10.15.2
+  release: 10.15.2
   versions:
   - 9.19.0
   - 9.19.1
@@ -43,4 +43,5 @@ versioning:
   - 10.13.0
   - 10.14.0
   - 10.15.0
-  lastUpdated: 20240611101725
+  - 10.15.2
+  lastUpdated: 20240701135119

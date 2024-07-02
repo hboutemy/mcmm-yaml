@@ -3,8 +3,8 @@
 groupId: org.flywaydb
 artifactId: flyway-database-hsqldb
 versioning:
-  latest: 10.15.0
-  release: 10.15.0
+  latest: 10.15.2
+  release: 10.15.2
   versions:
   - 10.0.0
   - 10.0.1
@@ -29,4 +29,5 @@ versioning:
   - 10.13.0
   - 10.14.0
   - 10.15.0
-  lastUpdated: 20240611101719
+  - 10.15.2
+  lastUpdated: 20240701135111

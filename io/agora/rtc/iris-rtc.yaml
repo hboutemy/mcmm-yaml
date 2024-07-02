@@ -3,8 +3,8 @@
 groupId: io.agora.rtc
 artifactId: iris-rtc
 versioning:
-  latest: 4.4.0-dev.4
-  release: 4.4.0-dev.4
+  latest: 4.4.0-test.2
+  release: 4.4.0-test.2
   versions:
   - 3.6.2
   - 3.6.2-fix.1
@@ -182,6 +182,9 @@ versioning:
   - 4.2.6.10-build.1
   - 4.2.6.11-build.1
   - 4.2.6.14-build.1
+  - 4.2.6.14-build.2
+  - 4.2.6.14-build.3
+  - 4.2.6.14-build.4
   - 4.2.6.14-dev.1
   - 4.2.6.122-build.1
   - 4.2.6.124-build.1
@@ -256,9 +259,10 @@ versioning:
   - 4.3.2-dev.6
   - 4.4.0-dev.1
   - 4.4.0-dev.4
+  - 4.4.0-test.2
   - 4.0.0-beta.10
   - 4.0.0-beta.11
   - 4.0.0-beta.5
   - 4.0.0-beta.6
   - 4.0.0-beta.8
-  lastUpdated: 20240624072659
+  lastUpdated: 20240701093329
