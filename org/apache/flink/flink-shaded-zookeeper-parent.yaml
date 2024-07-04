@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-shaded-zookeeper-parent
 versioning:
-  latest: 18.0
-  release: 18.0
+  latest: 19.0
+  release: 19.0
   versions:
   - 10.0
   - 11.0
@@ -17,4 +17,5 @@ versioning:
   - 16.2
   - 17.0
   - 18.0
-  lastUpdated: 20240108234203
+  - 19.0
+  lastUpdated: 20240703122621

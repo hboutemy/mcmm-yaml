@@ -3,8 +3,8 @@
 groupId: com.softwaremill.sttp.tapir
 artifactId: tapir-prometheus-metrics_2.13
 versioning:
-  latest: 1.10.10
-  release: 1.10.10
+  latest: 1.10.12
+  release: 1.10.12
   versions:
   - 0.18.0-M8
   - 0.18.0-M9
@@ -128,4 +128,6 @@ versioning:
   - 1.10.8
   - 1.10.9
   - 1.10.10
-  lastUpdated: 20240621132645
+  - 1.10.11
+  - 1.10.12
+  lastUpdated: 20240703172655

@@ -3,8 +3,8 @@
 groupId: com.softwaremill.sttp.tapir
 artifactId: sbt-openapi-codegen_2.12_1.0
 versioning:
-  latest: 1.10.10
-  release: 1.10.10
+  latest: 1.10.12
+  release: 1.10.12
   versions:
   - 1.5.1
   - 1.5.4
@@ -48,6 +48,8 @@ versioning:
   - 1.10.8
   - 1.10.9
   - 1.10.10
+  - 1.10.11
+  - 1.10.12
   - 0.17.0
   - 0.17.0-M11
   - 0.17.1
@@ -154,4 +156,4 @@ versioning:
   - 1.3.0
   - 1.4.0
   - 1.5.0
-  lastUpdated: 20240621132437
+  lastUpdated: 20240703172448
