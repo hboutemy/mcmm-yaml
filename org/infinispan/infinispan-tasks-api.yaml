@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-tasks-api
 versioning:
-  latest: 15.0.5.Final
-  release: 15.0.5.Final
+  latest: 15.1.0.Dev01
+  release: 15.1.0.Dev01
   versions:
   - 8.2.0.Beta2
   - 8.2.0.CR1
@@ -264,5 +264,6 @@ versioning:
   - 15.0.3.Final
   - 15.0.4.Final
   - 15.0.5.Final
+  - 15.1.0.Dev01
   - 12.0.0.Dev03
-  lastUpdated: 20240618210647
+  lastUpdated: 20240704140002

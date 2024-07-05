@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-quarkus-integration-tests-parent
 versioning:
-  latest: 15.0.5.Final
-  release: 15.0.5.Final
+  latest: 15.1.0.Dev01
+  release: 15.1.0.Dev01
   versions:
   - 15.0.0.CR1
   - 15.0.0.Final
@@ -23,4 +23,5 @@ versioning:
   - 15.0.3.Final
   - 15.0.4.Final
   - 15.0.5.Final
-  lastUpdated: 20240618210628
+  - 15.1.0.Dev01
+  lastUpdated: 20240704135945

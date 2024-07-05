@@ -3,8 +3,8 @@
 groupId: org.scala-lang
 artifactId: scala3-staging_3
 versioning:
-  latest: 3.6.0-RC1-bin-20240702-cd8c5ed-NIGHTLY
-  release: 3.6.0-RC1-bin-20240702-cd8c5ed-NIGHTLY
+  latest: 3.6.0-RC1-bin-20240703-75a15c2-NIGHTLY
+  release: 3.6.0-RC1-bin-20240703-75a15c2-NIGHTLY
   versions:
   - 3.0.0
   - 3.0.1-RC1
@@ -655,6 +655,7 @@ versioning:
   - 3.3.4-RC1-bin-20240626-4e3dbed-NIGHTLY
   - 3.3.4-RC1-bin-20240628-f38e5e0-NIGHTLY
   - 3.3.4-RC1-bin-20240702-b705d91-NIGHTLY
+  - 3.3.4-RC1-bin-20240703-4126175-NIGHTLY
   - 3.4.0-RC1
   - 3.4.0-RC1-bin-20230725-18df4ed-NIGHTLY
   - 3.4.0-RC1-bin-20230726-97677cc-NIGHTLY
@@ -863,6 +864,7 @@ versioning:
   - 3.5.0-RC1-bin-20240519-a7ac03e-NIGHTLY
   - 3.5.0-RC1-bin-20240520-8563571-NIGHTLY
   - 3.5.0-RC2
+  - 3.5.0-RC3
   - 3.5.1-RC1-bin-20240521-4636ce2-NIGHTLY
   - 3.5.1-RC1-bin-20240522-e0c030c-NIGHTLY
   - 3.5.1-RC1-bin-20240523-7bdeb0b-NIGHTLY
@@ -888,4 +890,5 @@ versioning:
   - 3.5.1-RC1-bin-20240626-41f1489-NIGHTLY
   - 3.5.1-RC1-bin-20240628-1efbb92-NIGHTLY
   - 3.6.0-RC1-bin-20240702-cd8c5ed-NIGHTLY
-  lastUpdated: 20240703044006
+  - 3.6.0-RC1-bin-20240703-75a15c2-NIGHTLY
+  lastUpdated: 20240704142624

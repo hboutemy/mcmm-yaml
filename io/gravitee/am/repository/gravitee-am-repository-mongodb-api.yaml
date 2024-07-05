@@ -3,8 +3,8 @@
 groupId: io.gravitee.am.repository
 artifactId: gravitee-am-repository-mongodb-api
 versioning:
-  latest: 4.4.0
-  release: 4.4.0
+  latest: 4.5.0-alpha.1
+  release: 4.5.0-alpha.1
   versions:
   - 3.18.0-RC2
   - 3.18.0
@@ -162,4 +162,5 @@ versioning:
   - 4.3.7
   - 4.4.0-alpha.1
   - 4.4.0
-  lastUpdated: 20240621165409
+  - 4.5.0-alpha.1
+  lastUpdated: 20240704134606

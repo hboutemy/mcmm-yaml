@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-hibernate-cache-commons
 versioning:
-  latest: 15.0.5.Final
-  release: 15.0.5.Final
+  latest: 15.1.0.Dev01
+  release: 15.1.0.Dev01
   versions:
   - 9.2.0.CR1
   - 9.2.0.CR2
@@ -222,5 +222,6 @@ versioning:
   - 15.0.3.Final
   - 15.0.4.Final
   - 15.0.5.Final
+  - 15.1.0.Dev01
   - 12.0.0.Dev03
-  lastUpdated: 20240618210615
+  lastUpdated: 20240704135934
