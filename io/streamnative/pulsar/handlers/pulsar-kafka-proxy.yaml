@@ -3,8 +3,8 @@
 groupId: io.streamnative.pulsar.handlers
 artifactId: pulsar-kafka-proxy
 versioning:
-  latest: 3.3.0.4
-  release: 3.3.0.4
+  latest: 3.3.0.5
+  release: 3.3.0.5
   versions:
   - 2.11.2.3
   - 2.11.2.4
@@ -87,4 +87,5 @@ versioning:
   - 3.3.0.2
   - 3.3.0.3
   - 3.3.0.4
-  lastUpdated: 20240704154747
+  - 3.3.0.5
+  lastUpdated: 20240705080741
