@@ -3,8 +3,8 @@
 groupId: com.gu.etag-caching
 artifactId: aws-s3-sdk-v2_2.13
 versioning:
-  latest: 3.0.11
-  release: 3.0.11
+  latest: 4.0.0-PREVIEW.suppress-caffeine-exceptions-by-allowing-fetch-results-to-indicate-missing-keys.2024-07-09T1701.cbc4304a
+  release: 4.0.0-PREVIEW.suppress-caffeine-exceptions-by-allowing-fetch-results-to-indicate-missing-keys.2024-07-09T1701.cbc4304a
   versions:
   - 1.0.0
   - 1.0.1
@@ -80,4 +80,6 @@ versioning:
   - 3.0.9
   - 3.0.10
   - 3.0.11
-  lastUpdated: 20240702122908
+  - 3.0.12
+  - 4.0.0-PREVIEW.suppress-caffeine-exceptions-by-allowing-fetch-results-to-indicate-missing-keys.2024-07-09T1701.cbc4304a
+  lastUpdated: 20240709170746

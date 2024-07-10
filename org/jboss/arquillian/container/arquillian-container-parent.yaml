@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.arquillian.container
 artifactId: arquillian-container-parent
 versioning:
-  latest: 1.8.1.Final
-  release: 1.8.1.Final
+  latest: 1.9.0.Final
+  release: 1.9.0.Final
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.CR1
@@ -66,4 +66,5 @@ versioning:
   - 1.7.2.Final
   - 1.8.0.Final
   - 1.8.1.Final
-  lastUpdated: 20240629015713
+  - 1.9.0.Final
+  lastUpdated: 20240709045742

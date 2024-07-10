@@ -3,8 +3,8 @@
 groupId: org.eclipse.dirigible
 artifactId: dirigible-database-sql-snowflake
 versioning:
-  latest: 10.6.8
-  release: 10.6.8
+  latest: 10.6.11
+  release: 10.6.11
   versions:
   - 8.14.0
   - 8.14.1
@@ -80,4 +80,7 @@ versioning:
   - 10.6.6
   - 10.6.7
   - 10.6.8
-  lastUpdated: 20240708153023
+  - 10.6.9
+  - 10.6.10
+  - 10.6.11
+  lastUpdated: 20240709162609
