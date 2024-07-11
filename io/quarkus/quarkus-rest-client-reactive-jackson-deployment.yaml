@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-rest-client-reactive-jackson-deployment
 versioning:
-  latest: 3.12.1
-  release: 3.12.1
+  latest: 3.12.2
+  release: 3.12.2
   versions:
   - 1.13.1.Final
   - 1.13.2.Final
@@ -215,4 +215,5 @@ versioning:
   - 3.12.0.CR1
   - 3.12.0
   - 3.12.1
-  lastUpdated: 20240703110125
+  - 3.12.2
+  lastUpdated: 20240710100414
