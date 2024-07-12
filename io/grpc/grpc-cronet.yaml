@@ -3,8 +3,8 @@
 groupId: io.grpc
 artifactId: grpc-cronet
 versioning:
-  latest: 1.65.0
-  release: 1.65.0
+  latest: 1.65.1
+  release: 1.65.1
   versions:
   - 1.24.0
   - 1.24.1
@@ -109,5 +109,7 @@ versioning:
   - 1.63.1
   - 1.64.0
   - 1.64.1
+  - 1.64.2
   - 1.65.0
-  lastUpdated: 20240629001722
+  - 1.65.1
+  lastUpdated: 20240711223918
