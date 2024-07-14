@@ -3,8 +3,8 @@
 groupId: org.projectnessie.nessie
 artifactId: nessie-versioned-storage-bigtable
 versioning:
-  latest: 0.92.0
-  release: 0.92.0
+  latest: 0.92.1
+  release: 0.92.1
   versions:
   - 0.62.0
   - 0.62.1
@@ -57,4 +57,5 @@ versioning:
   - 0.91.2
   - 0.91.3
   - 0.92.0
-  lastUpdated: 20240711144209
+  - 0.92.1
+  lastUpdated: 20240713195301

@@ -3,8 +3,11 @@
 groupId: top.rwocj
 artifactId: wxpay-v3-spring-boot-starter
 versioning:
-  latest: 0.6
-  release: 0.6
+  latest: 0.7-javax
+  release: 0.7-javax
   versions:
   - 0.6
-  lastUpdated: 20240709024604
+  - 0.6-javax
+  - 0.7
+  - 0.7-javax
+  lastUpdated: 20240713080555

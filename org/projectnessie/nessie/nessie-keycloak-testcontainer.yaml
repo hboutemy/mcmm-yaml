@@ -3,8 +3,8 @@
 groupId: org.projectnessie.nessie
 artifactId: nessie-keycloak-testcontainer
 versioning:
-  latest: 0.92.0
-  release: 0.92.0
+  latest: 0.92.1
+  release: 0.92.1
   versions:
   - 0.66.0
   - 0.67.0
@@ -51,4 +51,5 @@ versioning:
   - 0.91.2
   - 0.91.3
   - 0.92.0
-  lastUpdated: 20240711143930
+  - 0.92.1
+  lastUpdated: 20240713195004
