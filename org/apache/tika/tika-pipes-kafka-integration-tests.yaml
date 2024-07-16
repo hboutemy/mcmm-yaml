@@ -3,8 +3,8 @@
 groupId: org.apache.tika
 artifactId: tika-pipes-kafka-integration-tests
 versioning:
-  latest: 3.0.0-BETA
-  release: 3.0.0-BETA
+  latest: 3.0.0-BETA2
+  release: 3.0.0-BETA2
   versions:
   - 2.5.0
   - 2.6.0
@@ -14,4 +14,5 @@ versioning:
   - 2.9.1
   - 2.9.2
   - 3.0.0-BETA
-  lastUpdated: 20240402180017
+  - 3.0.0-BETA2
+  lastUpdated: 20240715200822
