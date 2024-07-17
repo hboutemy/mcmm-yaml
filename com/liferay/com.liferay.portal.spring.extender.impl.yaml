@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.spring.extender.impl
 versioning:
@@ -79,6 +80,7 @@ versioning:
   - 3.0.21
   - 3.0.22
   - 3.0.23
+  - 3.0.24
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -133,4 +135,4 @@ versioning:
   - 4.0.51
   - 4.0.52
   - 4.0.53
-  lastUpdated: 20240701194216
+  lastUpdated: 20240716111802

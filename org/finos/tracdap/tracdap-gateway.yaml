@@ -3,8 +3,8 @@
 groupId: org.finos.tracdap
 artifactId: tracdap-gateway
 versioning:
-  latest: 0.6.0
-  release: 0.6.0
+  latest: 0.6.1-dev3
+  release: 0.6.1-dev3
   versions:
   - 0.4.3
   - 0.4.4
@@ -46,4 +46,7 @@ versioning:
   - 0.6.0-rc2
   - 0.6.0-rc3
   - 0.6.0
-  lastUpdated: 20240706180317
+  - 0.6.1
+  - 0.6.1-dev2
+  - 0.6.1-dev3
+  lastUpdated: 20240716181247

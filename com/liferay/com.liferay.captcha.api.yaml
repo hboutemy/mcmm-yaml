@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.captcha.api
 versioning:
@@ -162,6 +163,7 @@ versioning:
   - 4.2.33
   - 4.2.34
   - 4.2.35
+  - 4.3.0
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -186,4 +188,4 @@ versioning:
   - 6.1.0
   - 6.1.1
   - 7.0.0
-  lastUpdated: 20240502195941
+  lastUpdated: 20240716115342

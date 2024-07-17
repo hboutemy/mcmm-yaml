@@ -3,8 +3,8 @@
 groupId: org.graalvm.tools
 artifactId: insight-heap
 versioning:
-  latest: 23.0.4
-  release: 23.0.4
+  latest: 23.0.5
+  release: 23.0.5
   versions:
   - 21.1.0
   - 21.2.0
@@ -21,6 +21,7 @@ versioning:
   - 21.3.8
   - 21.3.9
   - 21.3.10
+  - 21.3.11
   - 22.0.0
   - 22.0.0.2
   - 22.1.0
@@ -38,4 +39,5 @@ versioning:
   - 23.0.2
   - 23.0.3
   - 23.0.4
-  lastUpdated: 20240416124908
+  - 23.0.5
+  lastUpdated: 20240716134903

@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.taglib.clay
 versioning:
@@ -213,6 +214,7 @@ versioning:
   - 6.6.22
   - 6.6.23
   - 6.6.24
+  - 6.6.25
   - 7.1.0
   - 7.1.1
   - 7.1.2
@@ -356,4 +358,4 @@ versioning:
   - 14.4.0
   - 15.0.0
   - 15.0.1
-  lastUpdated: 20240617200327
+  lastUpdated: 20240716094652

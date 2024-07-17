@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.change.tracking.web
 versioning:
@@ -91,6 +92,7 @@ versioning:
   - 1.0.83
   - 1.0.84
   - 1.0.85
+  - 1.0.86
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -222,4 +224,4 @@ versioning:
   - 2.0.128
   - 2.0.129
   - 2.0.130
-  lastUpdated: 20240701201058
+  lastUpdated: 20240716124416

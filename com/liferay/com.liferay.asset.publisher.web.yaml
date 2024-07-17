@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.asset.publisher.web
 versioning:
@@ -609,6 +610,7 @@ versioning:
   - 4.0.120
   - 4.0.121
   - 4.0.122
+  - 4.0.123
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -746,4 +748,4 @@ versioning:
   - 5.0.134
   - 5.0.135
   - 5.0.136
-  lastUpdated: 20240701205809
+  lastUpdated: 20240716114208

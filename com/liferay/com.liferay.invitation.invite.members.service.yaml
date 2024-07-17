@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.invitation.invite.members.service
 versioning:
@@ -207,6 +208,7 @@ versioning:
   - 6.0.31
   - 6.0.32
   - 6.0.33
+  - 6.0.34
   - 7.0.0
   - 7.0.1
   - 7.0.2
@@ -247,4 +249,4 @@ versioning:
   - 7.0.37
   - 7.0.38
   - 7.0.39
-  lastUpdated: 20240502205848
+  lastUpdated: 20240716105714

@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.reports.engine.console.jasper
 versioning:
@@ -42,6 +43,7 @@ versioning:
   - 3.0.20
   - 3.0.21
   - 3.0.22
+  - 3.0.23
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -76,4 +78,4 @@ versioning:
   - 4.0.31
   - 4.0.32
   - 4.0.33
-  lastUpdated: 20240329071733
+  lastUpdated: 20240716121458

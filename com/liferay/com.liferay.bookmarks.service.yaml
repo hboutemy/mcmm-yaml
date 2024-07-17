@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.bookmarks.service
 versioning:
@@ -278,6 +279,7 @@ versioning:
   - 4.0.40
   - 4.0.41
   - 4.0.42
+  - 4.0.43
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -335,4 +337,4 @@ versioning:
   - 5.0.54
   - 5.0.55
   - 5.0.56
-  lastUpdated: 20240701192942
+  lastUpdated: 20240716114230

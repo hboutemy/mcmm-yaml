@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.health.status.web
 versioning:
@@ -75,6 +76,7 @@ versioning:
   - 3.0.16
   - 3.0.17
   - 3.0.18
+  - 3.0.19
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -117,4 +119,4 @@ versioning:
   - 4.0.39
   - 4.0.40
   - 4.0.41
-  lastUpdated: 20240701201126
+  lastUpdated: 20240716082547

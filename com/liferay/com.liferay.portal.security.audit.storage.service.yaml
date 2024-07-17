@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.security.audit.storage.service
 versioning:
@@ -205,6 +206,7 @@ versioning:
   - 5.0.45
   - 5.0.46
   - 5.0.47
+  - 5.0.48
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -252,4 +254,4 @@ versioning:
   - 6.0.44
   - 6.0.45
   - 6.0.46
-  lastUpdated: 20240701194505
+  lastUpdated: 20240716123527

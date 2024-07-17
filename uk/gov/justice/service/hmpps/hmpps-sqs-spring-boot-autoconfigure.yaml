@@ -3,8 +3,8 @@
 groupId: uk.gov.justice.service.hmpps
 artifactId: hmpps-sqs-spring-boot-autoconfigure
 versioning:
-  latest: 4.0.1
-  release: 4.0.1
+  latest: 4.1.0-beta
+  release: 4.1.0-beta
   versions:
   - 0.8.0
   - 0.8.1
@@ -67,4 +67,5 @@ versioning:
   - 3.2-beta
   - 4.0.0
   - 4.0.1
-  lastUpdated: 20240624145130
+  - 4.1.0-beta
+  lastUpdated: 20240716093504

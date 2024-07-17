@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.dynamic.data.mapping.service
 versioning:
@@ -618,6 +619,7 @@ versioning:
   - 5.4.77
   - 5.4.78
   - 5.4.79
+  - 5.4.80
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -775,4 +777,4 @@ versioning:
   - 7.2.10
   - 7.2.11
   - 8.0.0
-  lastUpdated: 20240701201455
+  lastUpdated: 20240716100035

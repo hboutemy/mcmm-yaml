@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.fragment.entry.processor.editable
 versioning:
@@ -136,6 +137,7 @@ versioning:
   - 3.0.43
   - 3.0.44
   - 3.0.45
+  - 3.0.46
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -196,4 +198,4 @@ versioning:
   - 4.0.57
   - 4.0.58
   - 4.0.59
-  lastUpdated: 20240617221810
+  lastUpdated: 20240716112137

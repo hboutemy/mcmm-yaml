@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.saml.opensaml.integration
 versioning:
@@ -144,6 +145,7 @@ versioning:
   - 4.0.71
   - 4.0.72
   - 4.0.73
+  - 4.0.74
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -240,4 +242,4 @@ versioning:
   - 6.2.14
   - 6.2.15
   - 6.2.16
-  lastUpdated: 20240618001743
+  lastUpdated: 20240716113839

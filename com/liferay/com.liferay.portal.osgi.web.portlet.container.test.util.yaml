@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.osgi.web.portlet.container.test.util
 versioning:
@@ -36,6 +37,7 @@ versioning:
   - 2.0.12
   - 2.0.13
   - 2.0.14
+  - 2.0.15
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -55,4 +57,4 @@ versioning:
   - 3.0.16
   - 3.0.17
   - 3.0.18
-  lastUpdated: 20240502203955
+  lastUpdated: 20240716115941

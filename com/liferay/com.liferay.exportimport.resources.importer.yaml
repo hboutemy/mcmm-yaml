@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.exportimport.resources.importer
 versioning:
@@ -109,6 +110,7 @@ versioning:
   - 5.0.16
   - 5.0.17
   - 5.0.18
+  - 5.0.19
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -142,4 +144,4 @@ versioning:
   - 6.0.30
   - 6.0.31
   - 6.0.32
-  lastUpdated: 20240701195424
+  lastUpdated: 20240716124729

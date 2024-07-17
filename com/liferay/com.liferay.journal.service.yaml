@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.journal.service
 versioning:
@@ -644,6 +645,7 @@ versioning:
   - 6.0.124
   - 6.0.125
   - 6.0.126
+  - 6.0.127
   - 7.0.0
   - 7.0.1
   - 7.0.2
@@ -798,4 +800,4 @@ versioning:
   - 7.0.151
   - 7.0.152
   - 7.0.153
-  lastUpdated: 20240701203618
+  lastUpdated: 20240716113946

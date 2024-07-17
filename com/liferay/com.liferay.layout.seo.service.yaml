@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.layout.seo.service
 versioning:
@@ -131,6 +132,7 @@ versioning:
   - 2.0.73
   - 2.0.74
   - 2.0.75
+  - 2.0.76
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -193,4 +195,4 @@ versioning:
   - 3.0.59
   - 3.0.60
   - 3.0.61
-  lastUpdated: 20240701204017
+  lastUpdated: 20240716112554

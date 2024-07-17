@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.contacts.api
 versioning:
@@ -109,6 +110,7 @@ versioning:
   - 5.5.0
   - 5.5.1
   - 5.6.0
+  - 5.6.1
   - 6.0.0
   - 6.1.0
   - 6.1.1
@@ -133,4 +135,4 @@ versioning:
   - 7.3.1
   - 7.4.0
   - 8.0.0
-  lastUpdated: 20240502200239
+  lastUpdated: 20240716115123

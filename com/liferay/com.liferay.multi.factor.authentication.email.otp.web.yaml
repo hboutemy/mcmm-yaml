@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.multi.factor.authentication.email.otp.web
 versioning:
@@ -37,6 +38,7 @@ versioning:
   - 1.0.52
   - 1.0.53
   - 1.0.54
+  - 1.0.55
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -70,4 +72,4 @@ versioning:
   - 2.0.31
   - 2.0.32
   - 2.0.13
-  lastUpdated: 20240618001104
+  lastUpdated: 20240716121841

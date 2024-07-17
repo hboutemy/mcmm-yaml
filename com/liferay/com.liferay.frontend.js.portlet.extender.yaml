@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.js.portlet.extender
 versioning:
@@ -65,6 +66,7 @@ versioning:
   - 3.0.17
   - 3.0.18
   - 3.0.19
+  - 3.0.20
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -81,4 +83,4 @@ versioning:
   - 4.0.13
   - 4.0.14
   - 4.0.15
-  lastUpdated: 20231118112951
+  lastUpdated: 20240716114749
