@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.liferay.portal
 artifactId: com.liferay.portal.impl
 versioning:
-  latest: 104.0.1
-  release: 104.0.1
+  latest: 104.0.3
+  release: 104.0.3
   versions:
   - 1.0.0
   - 1.0.1
@@ -1585,4 +1585,6 @@ versioning:
   - 103.0.0
   - 104.0.0
   - 104.0.1
-  lastUpdated: 20240710105430
+  - 104.0.2
+  - 104.0.3
+  lastUpdated: 20240717103848

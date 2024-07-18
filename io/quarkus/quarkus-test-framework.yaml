@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-test-framework
 versioning:
-  latest: 3.12.2
-  release: 3.12.2
+  latest: 3.13.0.CR1
+  release: 3.13.0.CR1
   versions:
   - 0.11.0
   - 0.12.0
@@ -317,4 +317,6 @@ versioning:
   - 3.12.0
   - 3.12.1
   - 3.12.2
-  lastUpdated: 20240710100556
+  - 3.12.3
+  - 3.13.0.CR1
+  lastUpdated: 20240717105628

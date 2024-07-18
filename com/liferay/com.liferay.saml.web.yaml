@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.saml.web
 versioning:
-  latest: 5.0.71
-  release: 5.0.71
+  latest: 5.0.72
+  release: 5.0.72
   versions:
   - 1.0.39
   - 1.0.40
@@ -215,4 +214,5 @@ versioning:
   - 5.0.69
   - 5.0.70
   - 5.0.71
-  lastUpdated: 20240716113535
+  - 5.0.72
+  lastUpdated: 20240717072627

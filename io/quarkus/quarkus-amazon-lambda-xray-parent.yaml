@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-amazon-lambda-xray-parent
 versioning:
-  latest: 3.12.2
-  release: 3.12.2
+  latest: 3.13.0.CR1
+  release: 3.13.0.CR1
   versions:
   - 1.3.0.Alpha2
   - 1.3.0.CR1
@@ -277,4 +277,6 @@ versioning:
   - 3.12.0
   - 3.12.1
   - 3.12.2
-  lastUpdated: 20240710100035
+  - 3.12.3
+  - 3.13.0.CR1
+  lastUpdated: 20240717104841

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.search.tuning.rankings.web
 versioning:
-  latest: 3.0.89
-  release: 3.0.89
+  latest: 3.0.90
+  release: 3.0.90
   versions:
   - 1.0.31
   - 1.0.32
@@ -173,4 +172,5 @@ versioning:
   - 3.0.87
   - 3.0.88
   - 3.0.89
-  lastUpdated: 20240716110551
+  - 3.0.90
+  lastUpdated: 20240717071957

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.security.service.access.policy.web
 versioning:
-  latest: 5.0.31
-  release: 5.0.31
+  latest: 5.0.32
+  release: 5.0.32
   versions:
   - 1.0.0
   - 1.0.1
@@ -202,4 +201,5 @@ versioning:
   - 5.0.29
   - 5.0.30
   - 5.0.31
-  lastUpdated: 20240716104703
+  - 5.0.32
+  lastUpdated: 20240717051909

@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.segments.asah.rest.impl
 versioning:
-  latest: 2.0.70
-  release: 2.0.70
+  latest: 3.0.64
+  release: 3.0.64
   versions:
   - 1.0.0
   - 1.0.1
@@ -98,6 +99,7 @@ versioning:
   - 2.0.67
   - 2.0.68
   - 2.0.69
+  - 2.0.70
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -163,5 +165,4 @@ versioning:
   - 3.0.62
   - 3.0.63
   - 3.0.64
-  - 2.0.70
-  lastUpdated: 20240716093245
+  lastUpdated: 20240717090928

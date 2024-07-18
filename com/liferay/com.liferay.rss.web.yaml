@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.rss.web
 versioning:
-  latest: 7.0.45
-  release: 7.0.45
+  latest: 7.0.46
+  release: 7.0.46
   versions:
   - 1.0.0
   - 2.0.0
@@ -298,4 +297,5 @@ versioning:
   - 7.0.43
   - 7.0.44
   - 7.0.45
-  lastUpdated: 20240228094344
+  - 7.0.46
+  lastUpdated: 20240717052323

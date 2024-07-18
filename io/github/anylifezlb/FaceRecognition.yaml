@@ -3,8 +3,8 @@
 groupId: io.github.anylifezlb
 artifactId: FaceRecognition
 versioning:
-  latest: 1.8.15.beta2
-  release: 1.8.15.beta2
+  latest: 1.8.15.beta4
+  release: 1.8.15.beta4
   versions:
   - 0.0.1
   - 0.0.2
@@ -114,6 +114,8 @@ versioning:
   - 1.8.14.baseface2
   - 1.8.14.baseface3
   - 1.8.14.qcdl-beta1
+  - 1.8.14.qcdl-beta2
+  - 1.8.14.qcdl-beta3
   - 1.8.14.qcdl
   - 1.8.14.qcdl_1
   - 1.8.14.qcdl_3
@@ -144,5 +146,7 @@ versioning:
   - 1.8.14.qcdl_test
   - 1.8.15.beta1
   - 1.8.15.beta2
+  - 1.8.15.beta3
+  - 1.8.15.beta4
   - 1.0.8.Vanxx
-  lastUpdated: 20240716132123
+  lastUpdated: 20240717154120

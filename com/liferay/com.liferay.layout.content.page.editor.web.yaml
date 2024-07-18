@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.layout.content.page.editor.web
 versioning:
-  latest: 3.0.201
-  release: 3.0.201
+  latest: 3.0.202
+  release: 3.0.202
   versions:
   - 1.0.0
   - 1.0.1
@@ -534,4 +533,5 @@ versioning:
   - 3.0.199
   - 3.0.200
   - 3.0.201
-  lastUpdated: 20240716091458
+  - 3.0.202
+  lastUpdated: 20240717061414

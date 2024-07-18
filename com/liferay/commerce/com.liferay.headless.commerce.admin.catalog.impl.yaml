@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.headless.commerce.admin.catalog.impl
 versioning:
-  latest: 3.0.81
-  release: 3.0.81
+  latest: 4.0.128
+  release: 4.0.128
   versions:
   - 1.0.0
   - 1.0.1
@@ -240,6 +241,7 @@ versioning:
   - 3.0.78
   - 3.0.79
   - 3.0.80
+  - 3.0.81
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -368,5 +370,5 @@ versioning:
   - 4.0.125
   - 4.0.126
   - 4.0.127
-  - 3.0.81
-  lastUpdated: 20240716084426
+  - 4.0.128
+  lastUpdated: 20240717082728

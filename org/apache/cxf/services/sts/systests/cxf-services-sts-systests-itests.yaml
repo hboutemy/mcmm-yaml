@@ -3,8 +3,8 @@
 groupId: org.apache.cxf.services.sts.systests
 artifactId: cxf-services-sts-systests-itests
 versioning:
-  latest: 3.6.3
-  release: 3.6.3
+  latest: 3.6.4
+  release: 3.6.4
   versions:
   - 3.0.7
   - 3.0.8
@@ -79,8 +79,10 @@ versioning:
   - 3.5.6
   - 3.5.7
   - 3.5.8
+  - 3.5.9
   - 3.6.0
   - 3.6.1
   - 3.6.2
   - 3.6.3
-  lastUpdated: 20240312204712
+  - 3.6.4
+  lastUpdated: 20240717215516

@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.product.navigation.control.menu.web
 versioning:
-  latest: 5.0.58
-  release: 5.0.58
+  latest: 6.0.92
+  release: 6.0.92
   versions:
   - 1.0.0
   - 2.0.0
@@ -247,6 +248,7 @@ versioning:
   - 5.0.55
   - 5.0.56
   - 5.0.57
+  - 5.0.58
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -339,5 +341,5 @@ versioning:
   - 6.0.89
   - 6.0.90
   - 6.0.91
-  - 5.0.58
-  lastUpdated: 20240716083232
+  - 6.0.92
+  lastUpdated: 20240717082122

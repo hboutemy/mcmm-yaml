@@ -3,8 +3,8 @@
 groupId: com.heroku
 artifactId: webapp-runner-memcached
 versioning:
-  latest: 10.1.24.0
-  release: 10.1.24.0
+  latest: 10.1.25.0
+  release: 10.1.25.0
   versions:
   - 8.5.50.0
   - 8.5.51.0
@@ -41,6 +41,7 @@ versioning:
   - 9.0.87.0
   - 9.0.88.0
   - 9.0.89.0
+  - 9.0.91.0
   - 10.1.16.0
   - 10.1.17.0
   - 10.1.18.0
@@ -48,4 +49,5 @@ versioning:
   - 10.1.20.0
   - 10.1.23.0
   - 10.1.24.0
-  lastUpdated: 20240603152209
+  - 10.1.25.0
+  lastUpdated: 20240717093531
