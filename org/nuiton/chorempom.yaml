@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.nuiton
 artifactId: chorempom
 versioning:
   latest: 11.16
-  release: 11.16
+  release: 11.17
   versions:
   - 1.0
   - 1.1
@@ -60,4 +59,5 @@ versioning:
   - 11.14
   - 11.15
   - 11.16
-  lastUpdated: 20240303230439
+  - 11.17
+  lastUpdated: 20240722135822

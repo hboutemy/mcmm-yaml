@@ -3,8 +3,8 @@
 groupId: org.apache.kyuubi
 artifactId: kyuubi-assembly_2.12
 versioning:
-  latest: 1.9.1
-  release: 1.9.1
+  latest: 1.9.2
+  release: 1.9.2
   versions:
   - 1.5.0-incubating
   - 1.5.1-incubating
@@ -21,4 +21,5 @@ versioning:
   - 1.8.2
   - 1.9.0
   - 1.9.1
-  lastUpdated: 20240603022746
+  - 1.9.2
+  lastUpdated: 20240722161532
