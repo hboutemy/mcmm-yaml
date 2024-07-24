@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.arquillian.testenricher
 artifactId: arquillian-testenricher-ejb
 versioning:
-  latest: 1.9.0.Final
-  release: 1.9.0.Final
+  latest: 1.9.1.Final
+  release: 1.9.1.Final
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -74,4 +74,5 @@ versioning:
   - 1.8.0.Final
   - 1.8.1.Final
   - 1.9.0.Final
-  lastUpdated: 20240709045750
+  - 1.9.1.Final
+  lastUpdated: 20240723060735

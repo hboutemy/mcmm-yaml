@@ -3,8 +3,8 @@
 groupId: org.neo4j.build
 artifactId: packaging-build
 versioning:
-  latest: 5.21.2
-  release: 5.21.2
+  latest: 5.22.0
+  release: 5.22.0
   versions:
   - 1.4.M03
   - 1.4.M04
@@ -265,6 +265,7 @@ versioning:
   - 4.4.33
   - 4.4.34
   - 4.4.35
+  - 4.4.36
   - 5.1.0
   - 5.2.0
   - 5.3.0
@@ -288,4 +289,5 @@ versioning:
   - 5.20.0
   - 5.21.0
   - 5.21.2
-  lastUpdated: 20240709093503
+  - 5.22.0
+  lastUpdated: 20240723154917

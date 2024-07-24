@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: elasticsearch
 versioning:
-  latest: 2.26.22
-  release: 2.26.22
+  latest: 2.26.23
+  release: 2.26.23
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -1327,4 +1327,5 @@ versioning:
   - 2.26.20
   - 2.26.21
   - 2.26.22
-  lastUpdated: 20240722203205
+  - 2.26.23
+  lastUpdated: 20240723203627

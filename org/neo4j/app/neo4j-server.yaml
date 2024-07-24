@@ -3,8 +3,8 @@
 groupId: org.neo4j.app
 artifactId: neo4j-server
 versioning:
-  latest: 5.21.2
-  release: 5.21.2
+  latest: 5.22.0
+  release: 5.22.0
   versions:
   - 1.7.2
   - 1.8.M02
@@ -373,6 +373,7 @@ versioning:
   - 4.4.33
   - 4.4.34
   - 4.4.35
+  - 4.4.36
   - 5.1.0
   - 5.2.0
   - 5.3.0
@@ -396,4 +397,5 @@ versioning:
   - 5.20.0
   - 5.21.0
   - 5.21.2
-  lastUpdated: 20240709093456
+  - 5.22.0
+  lastUpdated: 20240723154904
