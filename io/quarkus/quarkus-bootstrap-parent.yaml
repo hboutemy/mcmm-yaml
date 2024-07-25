@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-bootstrap-parent
 versioning:
-  latest: 3.13.0.CR1
-  release: 3.13.0.CR1
+  latest: 3.13.0
+  release: 3.13.0
   versions:
   - 0.13.0
   - 0.13.1
@@ -317,4 +317,5 @@ versioning:
   - 3.12.2
   - 3.12.3
   - 3.13.0.CR1
-  lastUpdated: 20240717104902
+  - 3.13.0
+  lastUpdated: 20240724095111

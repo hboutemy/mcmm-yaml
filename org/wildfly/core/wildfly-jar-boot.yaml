@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-jar-boot
 versioning:
-  latest: 25.0.0.Final
-  release: 25.0.0.Final
+  latest: 26.0.0.Beta1
+  release: 26.0.0.Beta1
   versions:
   - 12.0.0.Beta3
   - 12.0.0.Beta4
@@ -126,4 +126,5 @@ versioning:
   - 25.0.0.Beta4
   - 25.0.0.Beta5
   - 25.0.0.Final
-  lastUpdated: 20240717092602
+  - 26.0.0.Beta1
+  lastUpdated: 20240724125500

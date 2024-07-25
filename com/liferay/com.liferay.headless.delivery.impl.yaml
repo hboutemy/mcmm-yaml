@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.headless.delivery.impl
 versioning:
-  latest: 5.0.155
-  release: 5.0.155
+  latest: 5.0.156
+  release: 5.0.156
   versions:
   - 1.0.0
   - 1.0.1
@@ -518,4 +517,5 @@ versioning:
   - 5.0.153
   - 5.0.154
   - 5.0.155
-  lastUpdated: 20240716093732
+  - 5.0.156
+  lastUpdated: 20240724165758

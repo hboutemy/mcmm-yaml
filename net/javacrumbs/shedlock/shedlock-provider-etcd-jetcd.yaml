@@ -3,8 +3,8 @@
 groupId: net.javacrumbs.shedlock
 artifactId: shedlock-provider-etcd-jetcd
 versioning:
-  latest: 5.13.0
-  release: 5.13.0
+  latest: 5.14.0
+  release: 5.14.0
   versions:
   - 4.20.0
   - 4.20.1
@@ -36,6 +36,7 @@ versioning:
   - 4.45.0
   - 4.46.0
   - 4.47.0
+  - 4.48.0
   - 5.0.0
   - 5.0.1
   - 5.1.0
@@ -54,4 +55,5 @@ versioning:
   - 5.11.0
   - 5.12.0
   - 5.13.0
-  lastUpdated: 20240405163135
+  - 5.14.0
+  lastUpdated: 20240724044445

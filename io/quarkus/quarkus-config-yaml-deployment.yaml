@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-config-yaml-deployment
 versioning:
-  latest: 3.13.0.CR1
-  release: 3.13.0.CR1
+  latest: 3.13.0
+  release: 3.13.0
   versions:
   - 1.1.0.Final
   - 1.1.1.Final
@@ -285,4 +285,5 @@ versioning:
   - 3.12.2
   - 3.12.3
   - 3.13.0.CR1
-  lastUpdated: 20240717104915
+  - 3.13.0
+  lastUpdated: 20240724095119

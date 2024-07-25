@@ -3,8 +3,8 @@
 groupId: io.quarkus.resteasy.reactive
 artifactId: resteasy-reactive-server-parent
 versioning:
-  latest: 3.13.0.CR1
-  release: 3.13.0.CR1
+  latest: 3.13.0
+  release: 3.13.0
   versions:
   - 1.11.0.Beta1
   - 1.11.0.Beta2
@@ -235,4 +235,5 @@ versioning:
   - 3.12.2
   - 3.12.3
   - 3.13.0.CR1
-  lastUpdated: 20240717105710
+  - 3.13.0
+  lastUpdated: 20240724095715
