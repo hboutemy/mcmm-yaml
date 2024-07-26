@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.logging.cloudwatch
 artifactId: quarkus-logging-cloudwatch-parent
 versioning:
-  latest: 6.9.0
-  release: 6.9.0
+  latest: 6.11.0
+  release: 6.11.0
   versions:
   - 0
   - 0.0.1
@@ -45,4 +45,6 @@ versioning:
   - 6.7.1
   - 6.8.0
   - 6.9.0
-  lastUpdated: 20240529145722
+  - 6.10.0
+  - 6.11.0
+  lastUpdated: 20240725100528

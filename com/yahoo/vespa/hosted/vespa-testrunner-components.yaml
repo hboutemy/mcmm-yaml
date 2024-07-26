@@ -3,8 +3,8 @@
 groupId: com.yahoo.vespa.hosted
 artifactId: vespa-testrunner-components
 versioning:
-  latest: 8.376.5
-  release: 8.376.5
+  latest: 8.380.6
+  release: 8.380.6
   versions:
   - 7.32.81
   - 7.34.16
@@ -671,4 +671,6 @@ versioning:
   - 8.374.4
   - 8.375.14
   - 8.376.5
-  lastUpdated: 20240719110742
+  - 8.379.9
+  - 8.380.6
+  lastUpdated: 20240725162558

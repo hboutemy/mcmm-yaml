@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-bolt
 versioning:
-  latest: 5.21.2
-  release: 5.21.2
+  latest: 5.22.0
+  release: 5.22.0
   versions:
   - 3.0.0-M01
   - 3.0.0-M02
@@ -309,4 +309,5 @@ versioning:
   - 5.20.0
   - 5.21.0
   - 5.21.2
-  lastUpdated: 20240723132040
+  - 5.22.0
+  lastUpdated: 20240725111401

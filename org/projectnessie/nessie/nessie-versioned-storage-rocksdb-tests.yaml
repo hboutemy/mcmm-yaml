@@ -3,8 +3,8 @@
 groupId: org.projectnessie.nessie
 artifactId: nessie-versioned-storage-rocksdb-tests
 versioning:
-  latest: 0.93.1
-  release: 0.93.1
+  latest: 0.94.1
+  release: 0.94.1
   versions:
   - 0.77.0
   - 0.77.1
@@ -27,4 +27,6 @@ versioning:
   - 0.92.0
   - 0.92.1
   - 0.93.1
-  lastUpdated: 20240719192952
+  - 0.94.0
+  - 0.94.1
+  lastUpdated: 20240725190950
