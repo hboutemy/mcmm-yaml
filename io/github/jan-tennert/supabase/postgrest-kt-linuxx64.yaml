@@ -3,8 +3,8 @@
 groupId: io.github.jan-tennert.supabase
 artifactId: postgrest-kt-linuxx64
 versioning:
-  latest: 2.5.3
-  release: 2.5.3
+  latest: 2.5.3-wasm0
+  release: 2.5.3-wasm0
   versions:
   - 1.1.0-alpha-1
   - 1.1.0-beta-1
@@ -104,4 +104,6 @@ versioning:
   - 2.5.1
   - 2.5.2
   - 2.5.3
-  lastUpdated: 20240721201856
+  - 2.5.3-coil3
+  - 2.5.3-wasm0
+  lastUpdated: 20240726120121

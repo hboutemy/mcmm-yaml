@@ -3,8 +3,8 @@
 groupId: org.apache.kafka
 artifactId: kafka-clients
 versioning:
-  latest: 3.7.1
-  release: 3.7.1
+  latest: 3.8.0
+  release: 3.8.0
   versions:
   - 0.8.2-beta
   - 0.8.2.0
@@ -74,4 +74,5 @@ versioning:
   - 3.6.2
   - 3.7.0
   - 3.7.1
-  lastUpdated: 20240630075555
+  - 3.8.0
+  lastUpdated: 20240726164101

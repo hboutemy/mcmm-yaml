@@ -3,8 +3,8 @@
 groupId: io.smallrye.reactive
 artifactId: smallrye-reactive-messaging-connector-archetype
 versioning:
-  latest: 4.24.0-M1
-  release: 4.24.0-M1
+  latest: 4.24.0
+  release: 4.24.0
   versions:
   - 4.11.0
   - 4.12.0
@@ -16,6 +16,7 @@ versioning:
   - 4.16.2
   - 4.17.0
   - 4.18.0
+  - 4.18.1
   - 4.19.0-M1
   - 4.19.0-M2
   - 4.19.0
@@ -25,4 +26,5 @@ versioning:
   - 4.22.0
   - 4.23.0
   - 4.24.0-M1
-  lastUpdated: 20240725112114
+  - 4.24.0
+  lastUpdated: 20240726101743

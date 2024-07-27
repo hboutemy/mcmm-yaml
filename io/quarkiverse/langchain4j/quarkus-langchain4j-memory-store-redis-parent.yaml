@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.langchain4j
 artifactId: quarkus-langchain4j-memory-store-redis-parent
 versioning:
-  latest: 0.16.4
-  release: 0.16.4
+  latest: 0.17.0.CR1
+  release: 0.17.0.CR1
   versions:
   - 0.13.0
   - 0.13.1
@@ -18,4 +18,5 @@ versioning:
   - 0.16.2
   - 0.16.3
   - 0.16.4
-  lastUpdated: 20240717155301
+  - 0.17.0.CR1
+  lastUpdated: 20240726094455

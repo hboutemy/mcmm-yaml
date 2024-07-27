@@ -3,9 +3,12 @@
 groupId: org.anyline
 artifactId: anyline-data-jdbc-starrocks
 versioning:
-  latest: 8.7.2-jdk21-20240725
-  release: 8.7.2-jdk21-20240725
+  latest: 8.7.2-20240726
+  release: 8.7.2-20240726
   versions:
   - 8.7.2-jdk17-20240725
+  - 8.7.2-jdk17-20240726
   - 8.7.2-jdk21-20240725
-  lastUpdated: 20240725095543
+  - 8.7.2-jdk21-20240726
+  - 8.7.2-20240726
+  lastUpdated: 20240726030508
