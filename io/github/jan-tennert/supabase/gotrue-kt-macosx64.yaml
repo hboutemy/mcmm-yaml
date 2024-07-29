@@ -3,8 +3,8 @@
 groupId: io.github.jan-tennert.supabase
 artifactId: gotrue-kt-macosx64
 versioning:
-  latest: 2.5.4
-  release: 2.5.4
+  latest: 2.5.4-wasm0
+  release: 2.5.4-wasm0
   versions:
   - 1.1.0-alpha-1
   - 1.1.0-beta-1
@@ -107,4 +107,5 @@ versioning:
   - 2.5.3-coil3
   - 2.5.3-wasm0
   - 2.5.4
-  lastUpdated: 20240727171035
+  - 2.5.4-wasm0
+  lastUpdated: 20240728091519

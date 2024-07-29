@@ -3,8 +3,8 @@
 groupId: io.github.jan-tennert.supabase
 artifactId: storage-kt-iossimulatorarm64
 versioning:
-  latest: 2.5.4
-  release: 2.5.4
+  latest: 2.5.4-wasm0
+  release: 2.5.4-wasm0
   versions:
   - 0.8.4-ios-2
   - 0.8.5-ios
@@ -148,4 +148,5 @@ versioning:
   - 2.5.3-coil3
   - 2.5.3-wasm0
   - 2.5.4
-  lastUpdated: 20240727171156
+  - 2.5.4-wasm0
+  lastUpdated: 20240728091645
