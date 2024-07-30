@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-knative-parent
 versioning:
-  latest: 3.12.0
-  release: 3.12.0
+  latest: 3.13.0
+  release: 3.13.0
   versions:
   - 2.14.0
   - 2.15.0
@@ -29,4 +29,5 @@ versioning:
   - 3.10.0
   - 3.11.0
   - 3.12.0
-  lastUpdated: 20240708082609
+  - 3.13.0
+  lastUpdated: 20240729080120

@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-integration-test-etcd3
 versioning:
-  latest: 3.12.0
-  release: 3.12.0
+  latest: 3.13.0
+  release: 3.13.0
   versions:
   - 2.3.0
   - 2.4.0
@@ -46,4 +46,5 @@ versioning:
   - 3.10.0
   - 3.11.0
   - 3.12.0
-  lastUpdated: 20240708074106
+  - 3.13.0
+  lastUpdated: 20240729071348

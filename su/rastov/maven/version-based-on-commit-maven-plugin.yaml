@@ -3,10 +3,13 @@
 groupId: su.rastov.maven
 artifactId: version-based-on-commit-maven-plugin
 versioning:
-  latest: 0.0.2
-  release: 0.0.2
+  latest: 0.0.2.3
+  release: 0.0.2.3
   versions:
-  - 0.0.2
+  - 0.0.2.3
   - 0.0.0.1
   - 0.0.1
-  lastUpdated: 20240726105422
+  - 0.0.2
+  - 0.0.2.1
+  - 0.0.2.2
+  lastUpdated: 20240729162618

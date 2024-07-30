@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.controller.samples
 artifactId: sample-toaster-provider
 versioning:
-  latest: 10.0.0
-  release: 10.0.0
+  latest: 10.0.1
+  release: 10.0.1
   versions:
   - 1.0
   - 1.1-Helium
@@ -149,4 +149,5 @@ versioning:
   - 9.0.3
   - 9.0.4
   - 10.0.0
-  lastUpdated: 20240726161352
+  - 10.0.1
+  lastUpdated: 20240729093527

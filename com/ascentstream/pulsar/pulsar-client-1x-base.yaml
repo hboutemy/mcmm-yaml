@@ -3,8 +3,8 @@
 groupId: com.ascentstream.pulsar
 artifactId: pulsar-client-1x-base
 versioning:
-  latest: 2.10.7.1
-  release: 2.10.7.1
+  latest: 2.10.7.2-SNAPSHOT-86382c9
+  release: 2.10.7.2-SNAPSHOT-86382c9
   versions:
   - 2.10.6.9
   - 2.10.6.10
@@ -12,4 +12,5 @@ versioning:
   - 2.10.7.1-SNAPSHOT-8da4484
   - 2.10.7.1-SNAPSHOT-4670905
   - 2.10.7.1
-  lastUpdated: 20240615070642
+  - 2.10.7.2-SNAPSHOT-86382c9
+  lastUpdated: 20240729080801
