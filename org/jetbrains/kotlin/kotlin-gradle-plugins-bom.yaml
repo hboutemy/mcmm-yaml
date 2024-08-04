@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin
 artifactId: kotlin-gradle-plugins-bom
 versioning:
-  latest: 2.0.20-Beta2
-  release: 2.0.20-Beta2
+  latest: 2.0.20-RC
+  release: 2.0.20-RC
   versions:
   - 1.8.20-Beta
   - 1.8.20-RC
@@ -39,4 +39,5 @@ versioning:
   - 2.0.10-RC2
   - 2.0.20-Beta1
   - 2.0.20-Beta2
-  lastUpdated: 20240729095333
+  - 2.0.20-RC
+  lastUpdated: 20240730075943

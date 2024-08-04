@@ -3,8 +3,8 @@
 groupId: com.datadoghq
 artifactId: dd-sdk-android-session-replay
 versioning:
-  latest: 2.11.0-debug
-  release: 2.11.0-debug
+  latest: 2.12.0
+  release: 2.12.0
   versions:
   - 1.16.0-beta1
   - 1.16.0
@@ -38,4 +38,5 @@ versioning:
   - 2.10.1
   - 2.11.0
   - 2.11.0-debug
-  lastUpdated: 20240625162502
+  - 2.12.0
+  lastUpdated: 20240730134631

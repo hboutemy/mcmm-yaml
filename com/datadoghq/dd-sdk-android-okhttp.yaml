@@ -3,8 +3,8 @@
 groupId: com.datadoghq
 artifactId: dd-sdk-android-okhttp
 versioning:
-  latest: 2.11.0-debug
-  release: 2.11.0-debug
+  latest: 2.12.0
+  release: 2.12.0
   versions:
   - 2.0.0-beta1
   - 2.0.0-beta2
@@ -27,4 +27,5 @@ versioning:
   - 2.10.1
   - 2.11.0
   - 2.11.0-debug
-  lastUpdated: 20240625163315
+  - 2.12.0
+  lastUpdated: 20240730134130
