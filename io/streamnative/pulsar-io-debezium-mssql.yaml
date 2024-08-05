@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-io-debezium-mssql
 versioning:
-  latest: 3.3.0.7
-  release: 3.3.0.7
+  latest: 3.3.0.9
+  release: 3.3.0.9
   versions:
   - master-rc-daily
   - 2.9.0.0-rc-1
@@ -450,4 +450,5 @@ versioning:
   - 3.3.0.5
   - 3.3.0.6
   - 3.3.0.7
-  lastUpdated: 20240801075854
+  - 3.3.0.9
+  lastUpdated: 20240804020826
