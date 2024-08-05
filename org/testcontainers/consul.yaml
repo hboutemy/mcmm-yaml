@@ -3,8 +3,8 @@
 groupId: org.testcontainers
 artifactId: consul
 versioning:
-  latest: 1.20.0
-  release: 1.20.0
+  latest: 1.20.1
+  release: 1.20.1
   versions:
   - 1.17.4
   - 1.17.5
@@ -23,4 +23,5 @@ versioning:
   - 1.19.7
   - 1.19.8
   - 1.20.0
-  lastUpdated: 20240717152338
+  - 1.20.1
+  lastUpdated: 20240731155423

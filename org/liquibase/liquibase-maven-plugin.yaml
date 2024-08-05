@@ -3,8 +3,8 @@
 groupId: org.liquibase
 artifactId: liquibase-maven-plugin
 versioning:
-  latest: 4.29.0
-  release: 4.29.0
+  latest: 4.29.1
+  release: 4.29.1
   versions:
   - 2.0-rc3
   - 2.0-rc4
@@ -124,4 +124,5 @@ versioning:
   - 4.27.0
   - 4.28.0
   - 4.29.0
-  lastUpdated: 20240725174341
+  - 4.29.1
+  lastUpdated: 20240731194023

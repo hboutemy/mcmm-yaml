@@ -3,8 +3,8 @@
 groupId: io.quarkus.platform
 artifactId: quarkus-cassandra-bom
 versioning:
-  latest: 3.13.0.CR1
-  release: 3.13.0.CR1
+  latest: 3.13.0
+  release: 3.13.0
   versions:
   - 2.0.0.Final
   - 2.0.1.Final
@@ -188,4 +188,5 @@ versioning:
   - 3.12.2
   - 3.12.3
   - 3.13.0.CR1
-  lastUpdated: 20240717162426
+  - 3.13.0
+  lastUpdated: 20240731083841

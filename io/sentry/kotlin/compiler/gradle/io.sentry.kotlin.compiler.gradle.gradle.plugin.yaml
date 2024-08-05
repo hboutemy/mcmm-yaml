@@ -3,8 +3,8 @@
 groupId: io.sentry.kotlin.compiler.gradle
 artifactId: io.sentry.kotlin.compiler.gradle.gradle.plugin
 versioning:
-  latest: 4.10.0
-  release: 4.10.0
+  latest: 4.11.0-alpha.1
+  release: 4.11.0-alpha.1
   versions:
   - 3.7.0
   - 3.8.0
@@ -32,4 +32,5 @@ versioning:
   - 4.8.0
   - 4.9.0
   - 4.10.0
-  lastUpdated: 20240715185300
+  - 4.11.0-alpha.1
+  lastUpdated: 20240731101242

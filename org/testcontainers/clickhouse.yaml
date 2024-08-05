@@ -3,8 +3,8 @@
 groupId: org.testcontainers
 artifactId: clickhouse
 versioning:
-  latest: 1.20.0
-  release: 1.20.0
+  latest: 1.20.1
+  release: 1.20.1
   versions:
   - 1.9.0
   - 1.9.1
@@ -63,4 +63,5 @@ versioning:
   - 1.19.7
   - 1.19.8
   - 1.20.0
-  lastUpdated: 20240717152328
+  - 1.20.1
+  lastUpdated: 20240731155421

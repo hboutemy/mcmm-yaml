@@ -3,8 +3,8 @@
 groupId: org.testcontainers
 artifactId: cockroachdb
 versioning:
-  latest: 1.20.0
-  release: 1.20.0
+  latest: 1.20.1
+  release: 1.20.1
   versions:
   - 1.12.3
   - 1.12.4
@@ -45,4 +45,5 @@ versioning:
   - 1.19.7
   - 1.19.8
   - 1.20.0
-  lastUpdated: 20240717152335
+  - 1.20.1
+  lastUpdated: 20240731155423

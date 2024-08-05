@@ -3,8 +3,8 @@
 groupId: no.priv.bang.karaf
 artifactId: liquibase-karaf-feature
 versioning:
-  latest: 4.28.0.1
-  release: 4.28.0.1
+  latest: 4.29.0
+  release: 4.29.0
   versions:
   - 4.15.0
   - 4.17.1
@@ -17,4 +17,5 @@ versioning:
   - 4.27.0
   - 4.28.0
   - 4.28.0.1
-  lastUpdated: 20240703200226
+  - 4.29.0
+  lastUpdated: 20240731161139
