@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.containers
 artifactId: jersey-container-simple-http
 versioning:
-  latest: 3.1.7
-  release: 3.1.7
+  latest: 3.1.8
+  release: 3.1.8
   versions:
   - 2.0-m12-1
   - 2.0-m13
@@ -121,4 +121,5 @@ versioning:
   - 3.1.4
   - 3.1.5
   - 3.1.7
-  lastUpdated: 20240731141306
+  - 3.1.8
+  lastUpdated: 20240802192826

@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-server-dist
 versioning:
-  latest: 3.0.0.Alpha1
-  release: 3.0.0.Alpha1
+  latest: 3.0.0.Alpha2
+  release: 3.0.0.Alpha2
   versions:
   - 1.2.0.CR2
   - 1.2.0.Final
@@ -132,5 +132,6 @@ versioning:
   - 2.7.0.Beta2
   - 2.7.0.Final
   - 3.0.0.Alpha1
+  - 3.0.0.Alpha2
   - 1.5.0.Alpha1
-  lastUpdated: 20240711084032
+  lastUpdated: 20240802113442

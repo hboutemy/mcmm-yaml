@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-connector-ibmi
 versioning:
-  latest: 3.0.0.Alpha1
-  release: 3.0.0.Alpha1
+  latest: 3.0.0.Alpha2
+  release: 3.0.0.Alpha2
   versions:
   - 2.6.0.Beta1
   - 2.6.0.CR1
@@ -17,4 +17,5 @@ versioning:
   - 2.7.0.Beta2
   - 2.7.0.Final
   - 3.0.0.Alpha1
-  lastUpdated: 20240711084112
+  - 3.0.0.Alpha2
+  lastUpdated: 20240802113417
