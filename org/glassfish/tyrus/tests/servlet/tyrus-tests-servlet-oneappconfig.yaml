@@ -3,8 +3,8 @@
 groupId: org.glassfish.tyrus.tests.servlet
 artifactId: tyrus-tests-servlet-oneappconfig
 versioning:
-  latest: 2.2.0-M1
-  release: 2.2.0-M1
+  latest: 2.2.0
+  release: 2.2.0
   versions:
   - 1.16
   - 1.17
@@ -34,6 +34,7 @@ versioning:
   - 2.1.4
   - 2.1.5
   - 2.2.0-M1
+  - 2.2.0
   - 1.0
   - 1.0-b14
   - 1.0-rc1
@@ -65,4 +66,4 @@ versioning:
   - 1.8.2
   - 1.8.3
   - 1.9
-  lastUpdated: 20240619153643
+  lastUpdated: 20240801150445

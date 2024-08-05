@@ -3,8 +3,8 @@
 groupId: org.hibernate
 artifactId: hibernate-validator
 versioning:
-  latest: 8.0.1.Final
-  release: 8.0.1.Final
+  latest: 9.0.0.Beta2
+  release: 9.0.0.Beta2
   versions:
   - 6.0.23.Final
   - 6.2.1.Final
@@ -24,6 +24,7 @@ versioning:
   - 8.0.0.CR3
   - 8.0.0.Final
   - 8.0.1.Final
+  - 9.0.0.Beta2
   - 3.0.0.GA
   - 3.0.0.ga
   - 3.1.0.CR1
@@ -151,4 +152,4 @@ versioning:
   - 7.0.0.CR1
   - 7.0.0.Final
   - 7.0.1.Final
-  lastUpdated: 20230621094320
+  lastUpdated: 20240801220301

@@ -3,8 +3,8 @@
 groupId: io.gravitee.apim.rest.api.standalone
 artifactId: gravitee-apim-rest-api-standalone-bootstrap
 versioning:
-  latest: 4.4.3
-  release: 4.4.3
+  latest: 4.4.4
+  release: 4.4.4
   versions:
   - 3.5.19
   - 3.5.20
@@ -234,6 +234,7 @@ versioning:
   - 4.1.18
   - 4.1.19
   - 4.1.20
+  - 4.1.21
   - 4.2.0-alpha.2
   - 4.2.0
   - 4.2.1
@@ -250,6 +251,7 @@ versioning:
   - 4.2.12
   - 4.2.13
   - 4.2.14
+  - 4.2.15
   - 4.3.0-alpha.2
   - 4.3.0
   - 4.3.1
@@ -261,8 +263,10 @@ versioning:
   - 4.3.7
   - 4.3.8
   - 4.3.9
+  - 4.3.10
   - 4.4.0
   - 4.4.1
   - 4.4.2
   - 4.4.3
-  lastUpdated: 20240719151222
+  - 4.4.4
+  lastUpdated: 20240801183642

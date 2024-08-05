@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.newrelic.agent.android
 artifactId: agent-gradle-plugin
 versioning:
-  latest: 7.5.0
-  release: 7.5.0
+  latest: 7.5.1
+  release: 7.5.1
   versions:
   - 2.397.0
   - 2.412.0
@@ -124,6 +124,7 @@ versioning:
   - 7.4.0
   - 7.4.1
   - 7.5.0
+  - 7.5.1
   - 4.119.0
   - 5.1.2
-  lastUpdated: 20240628212309
+  lastUpdated: 20240801204751
