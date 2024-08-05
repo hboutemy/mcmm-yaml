@@ -3,8 +3,8 @@
 groupId: org.python
 artifactId: jython-installer
 versioning:
-  latest: 2.7.4b2
-  release: 2.7.4b2
+  latest: 2.7.4rc1
+  release: 2.7.4rc1
   versions:
   - 2.5.3-rc1
   - 2.5.3
@@ -32,4 +32,5 @@ versioning:
   - 2.7.3
   - 2.7.4b1
   - 2.7.4b2
-  lastUpdated: 20240506102335
+  - 2.7.4rc1
+  lastUpdated: 20240803073208
