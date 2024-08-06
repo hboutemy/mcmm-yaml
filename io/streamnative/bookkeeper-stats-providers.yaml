@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: bookkeeper-stats-providers
 versioning:
-  latest: 4.15.5.1
-  release: 4.15.5.1
+  latest: 4.15.5.2
+  release: 4.15.5.2
   versions:
   - branch-4.14.7.1_d4
   - 4.14.3.1
@@ -16,4 +16,5 @@ versioning:
   - 4.14.8.1
   - 4.15.4.1_arrowstreet
   - 4.15.5.1
-  lastUpdated: 20240411152529
+  - 4.15.5.2
+  lastUpdated: 20240805104648

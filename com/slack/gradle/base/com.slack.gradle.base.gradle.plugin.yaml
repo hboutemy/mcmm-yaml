@@ -3,8 +3,8 @@
 groupId: com.slack.gradle.base
 artifactId: com.slack.gradle.base.gradle.plugin
 versioning:
-  latest: 0.18.2
-  release: 0.18.2
+  latest: 0.18.3
+  release: 0.18.3
   versions:
   - 0.1.0
   - 0.1.1
@@ -144,6 +144,7 @@ versioning:
   - 0.17.0.1
   - 0.17.0.2
   - 0.17.0.3
+  - 0.17.0.4
   - 0.17.1
   - 0.17.2
   - 0.18.0-alpha01
@@ -152,4 +153,5 @@ versioning:
   - 0.18.0
   - 0.18.1
   - 0.18.2
-  lastUpdated: 20240731211444
+  - 0.18.3
+  lastUpdated: 20240805033427
