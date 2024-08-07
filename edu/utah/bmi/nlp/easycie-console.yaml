@@ -3,10 +3,12 @@
 groupId: edu.utah.bmi.nlp
 artifactId: easycie-console
 versioning:
-  latest: 2.0.0.0-jdk11
-  release: 2.0.0.0-jdk11
+  latest: 2.0.1.0-jdk11
+  release: 2.0.1.0-jdk11
   versions:
   - 1.4.1.5-jdk1.8
   - 2.0.0.0-jdk1.8
   - 2.0.0.0-jdk11
-  lastUpdated: 20240205043309
+  - 2.0.1.0-jdk8
+  - 2.0.1.0-jdk11
+  lastUpdated: 20240806132413
