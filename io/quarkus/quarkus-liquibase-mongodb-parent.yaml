@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-liquibase-mongodb-parent
 versioning:
-  latest: 3.13.0
-  release: 3.13.0
+  latest: 3.13.1
+  release: 3.13.1
   versions:
   - 2.3.0.CR1
   - 2.3.0.Final
@@ -189,4 +189,5 @@ versioning:
   - 3.12.3
   - 3.13.0.CR1
   - 3.13.0
-  lastUpdated: 20240724095333
+  - 3.13.1
+  lastUpdated: 20240807121554

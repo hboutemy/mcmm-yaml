@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-universe-bom-quarkus-platform-descriptor
 versioning:
-  latest: 3.13.0
-  release: 3.13.0
+  latest: 3.13.1
+  release: 3.13.1
   versions:
   - 1.10.1.Final
   - 1.10.2.Final
@@ -208,6 +208,7 @@ versioning:
   - 3.12.3
   - 3.13.0.CR1
   - 3.13.0
+  - 3.13.1
   - 1.11.0.Final
   - 1.11.1.Final
   - 1.11.2.Final
@@ -220,4 +221,4 @@ versioning:
   - 1.13.0.Final
   - 1.13.1.Final
   - 1.13.2.Final
-  lastUpdated: 20240731083847
+  lastUpdated: 20240807171040

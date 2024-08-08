@@ -3,8 +3,8 @@
 groupId: com.walmartlabs.concord.k8s
 artifactId: concord-agent-operator
 versioning:
-  latest: 2.14.1
-  release: 2.14.1
+  latest: 2.15.0
+  release: 2.15.0
   versions:
   - 1.17.0
   - 1.18.0
@@ -155,4 +155,5 @@ versioning:
   - 2.13.0
   - 2.14.0
   - 2.14.1
-  lastUpdated: 20240801194155
+  - 2.15.0
+  lastUpdated: 20240807184213

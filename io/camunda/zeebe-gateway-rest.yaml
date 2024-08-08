@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-gateway-rest
 versioning:
-  latest: 8.6.0-alpha4-rc2
-  release: 8.6.0-alpha4-rc2
+  latest: 8.6.0-alpha4
+  release: 8.6.0-alpha4
   versions:
   - 8.5.0-alpha2
   - 8.5.0-RC1
@@ -28,4 +28,5 @@ versioning:
   - 8.6.0-alpha3
   - 8.6.0-alpha4-rc1
   - 8.6.0-alpha4-rc2
-  lastUpdated: 20240806161822
+  - 8.6.0-alpha4
+  lastUpdated: 20240807074843

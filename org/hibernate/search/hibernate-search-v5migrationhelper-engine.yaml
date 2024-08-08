@@ -3,8 +3,8 @@
 groupId: org.hibernate.search
 artifactId: hibernate-search-v5migrationhelper-engine
 versioning:
-  latest: 7.2.0.Alpha2
-  release: 7.2.0.Alpha2
+  latest: 7.2.0.CR1
+  release: 7.2.0.CR1
   versions:
   - 6.0.7.Final
   - 6.0.8.Final
@@ -44,6 +44,7 @@ versioning:
   - 7.1.1.Final
   - 7.2.0.Alpha1
   - 7.2.0.Alpha2
+  - 7.2.0.CR1
   - 6.0.0.Beta11
   - 6.0.0.CR1
   - 6.0.0.CR2
@@ -55,4 +56,4 @@ versioning:
   - 6.0.5.Final
   - 6.0.6.Final
   - 6.1.0.Alpha1
-  lastUpdated: 20240610154847
+  lastUpdated: 20240807065744
