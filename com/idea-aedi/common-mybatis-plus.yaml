@@ -3,9 +3,13 @@
 groupId: com.idea-aedi
 artifactId: common-mybatis-plus
 versioning:
-  latest: 2100.9.2
-  release: 2100.9.2
+  latest: 2100.9.7.LTS17
+  release: 2100.9.7.LTS17
   versions:
+  - 8.9.5
+  - 8.9.6
+  - 17.9.5
+  - 17.9.6
   - 2100.8.0
   - 2100.8.1
   - 2100.8.2
@@ -19,4 +23,7 @@ versioning:
   - 2100.9.0
   - 2100.9.1
   - 2100.9.2
-  lastUpdated: 20240516055755
+  - 2100.9.4
+  - 2100.9.7.LTS8
+  - 2100.9.7.LTS17
+  lastUpdated: 20240808162522

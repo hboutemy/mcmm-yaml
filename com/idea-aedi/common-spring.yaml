@@ -3,12 +3,16 @@
 groupId: com.idea-aedi
 artifactId: common-spring
 versioning:
-  latest: 2100.9.2
-  release: 2100.9.2
+  latest: 2100.9.7.LTS17
+  release: 2100.9.7.LTS17
   versions:
   - 2.0.0
   - 2.1.0
   - 2.2.0
+  - 8.9.5
+  - 8.9.6
+  - 17.9.5
+  - 17.9.6
   - 21GA.3.3
   - 21.1.0
   - 21.2.0
@@ -101,5 +105,8 @@ versioning:
   - 2100.9.0
   - 2100.9.1
   - 2100.9.2
+  - 2100.9.4
+  - 2100.9.7.LTS8
+  - 2100.9.7.LTS17
   - 2023.06.GA
-  lastUpdated: 20240516055755
+  lastUpdated: 20240808162523

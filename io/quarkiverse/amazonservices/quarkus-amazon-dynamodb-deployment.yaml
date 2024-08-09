@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.amazonservices
 artifactId: quarkus-amazon-dynamodb-deployment
 versioning:
-  latest: 2.16.0
-  release: 2.16.0
+  latest: 2.16.2
+  release: 2.16.2
   versions:
   - 1.0.0
   - 1.0.1
@@ -64,9 +64,12 @@ versioning:
   - 2.12.0
   - 2.12.1
   - 2.12.2
+  - 2.12.3
   - 2.13.0
   - 2.13.1
   - 2.14.0
   - 2.15.0
   - 2.16.0
-  lastUpdated: 20240527190605
+  - 2.16.1
+  - 2.16.2
+  lastUpdated: 20240808194527

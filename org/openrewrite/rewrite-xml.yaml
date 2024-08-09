@@ -3,8 +3,8 @@
 groupId: org.openrewrite
 artifactId: rewrite-xml
 versioning:
-  latest: 8.32.1
-  release: 8.32.1
+  latest: 8.33.2
+  release: 8.33.2
   versions:
   - 2.0.0-rc.2
   - 2.0.0-rc.3
@@ -254,5 +254,8 @@ versioning:
   - 8.31.1
   - 8.32.0
   - 8.32.1
+  - 8.33.0
+  - 8.33.1
+  - 8.33.2
   - 2.0.0-rc.9
-  lastUpdated: 20240806070434
+  lastUpdated: 20240808103302
