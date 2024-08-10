@@ -3,8 +3,8 @@
 groupId: io.quarkus.qe
 artifactId: quarkus-test-kubernetes
 versioning:
-  latest: 1.5.0.Beta12
-  release: 1.5.0.Beta12
+  latest: 1.5.0.Beta13
+  release: 1.5.0.Beta13
   versions:
   - 0.0.1
   - 0.0.2
@@ -125,4 +125,5 @@ versioning:
   - 1.5.0.Beta10
   - 1.5.0.Beta11
   - 1.5.0.Beta12
-  lastUpdated: 20240723221450
+  - 1.5.0.Beta13
+  lastUpdated: 20240809111204

@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-io-elastic-search
 versioning:
-  latest: 3.3.0.9
-  release: 3.3.0.9
+  latest: 3.3.1.1
+  release: 3.3.1.1
   versions:
   - master-rc-daily
   - v2.8.0-rc-202106091140
@@ -730,4 +730,5 @@ versioning:
   - 3.3.0.6
   - 3.3.0.7
   - 3.3.0.9
-  lastUpdated: 20240804020834
+  - 3.3.1.1
+  lastUpdated: 20240809063856

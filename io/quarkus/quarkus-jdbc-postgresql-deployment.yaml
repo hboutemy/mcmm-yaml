@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-jdbc-postgresql-deployment
 versioning:
-  latest: 3.13.1
-  release: 3.13.1
+  latest: 3.13.2
+  release: 3.13.2
   versions:
   - 0.13.0
   - 0.13.1
@@ -319,4 +319,5 @@ versioning:
   - 3.13.0.CR1
   - 3.13.0
   - 3.13.1
-  lastUpdated: 20240807121517
+  - 3.13.2
+  lastUpdated: 20240809102857

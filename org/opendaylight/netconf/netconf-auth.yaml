@@ -3,8 +3,8 @@
 groupId: org.opendaylight.netconf
 artifactId: netconf-auth
 versioning:
-  latest: 7.0.7
-  release: 7.0.7
+  latest: 8.0.0
+  release: 8.0.0
   versions:
   - 1.0.0-Beryllium
   - 1.0.1-Beryllium-SR1
@@ -130,4 +130,5 @@ versioning:
   - 7.0.5
   - 7.0.6
   - 7.0.7
-  lastUpdated: 20240613155642
+  - 8.0.0
+  lastUpdated: 20240809024209

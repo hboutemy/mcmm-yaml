@@ -3,8 +3,8 @@
 groupId: com.facebook.presto
 artifactId: presto-proxy
 versioning:
-  latest: 0.288
-  release: 0.288
+  latest: 0.288.1
+  release: 0.288.1
   versions:
   - 0.205
   - 0.206
@@ -134,4 +134,5 @@ versioning:
   - 0.286
   - 0.287
   - 0.288
-  lastUpdated: 20240707054358
+  - 0.288.1
+  lastUpdated: 20240809230922
