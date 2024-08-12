@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.dispatch.talend.api
 versioning:
-  latest: 1.1.7
-  release: 1.1.7
+  latest: 1.1.8
+  release: 1.1.8
   versions:
   - 1.0.0
   - 1.0.1
@@ -17,4 +16,5 @@ versioning:
   - 1.1.5
   - 1.1.6
   - 1.1.7
-  lastUpdated: 20230807235817
+  - 1.1.8
+  lastUpdated: 20240811214608

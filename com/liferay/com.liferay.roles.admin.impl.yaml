@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.roles.admin.impl
 versioning:
-  latest: 5.0.18
-  release: 5.0.18
+  latest: 5.0.19
+  release: 5.0.19
   versions:
   - 1.0.0
   - 1.0.1
@@ -88,4 +87,5 @@ versioning:
   - 5.0.16
   - 5.0.17
   - 5.0.18
-  lastUpdated: 20240131090042
+  - 5.0.19
+  lastUpdated: 20240811225517

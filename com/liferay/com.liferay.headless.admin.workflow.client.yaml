@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.headless.admin.workflow.client
 versioning:
-  latest: 4.0.30
-  release: 4.0.30
+  latest: 4.0.31
+  release: 4.0.31
   versions:
   - 1.0.0
   - 1.0.1
@@ -120,4 +119,5 @@ versioning:
   - 4.0.28
   - 4.0.29
   - 4.0.30
-  lastUpdated: 20240716115134
+  - 4.0.31
+  lastUpdated: 20240811221140

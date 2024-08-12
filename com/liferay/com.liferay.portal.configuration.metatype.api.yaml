@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.configuration.metatype.api
 versioning:
-  latest: 6.4.0
-  release: 6.4.0
+  latest: 6.4.1
+  release: 6.4.1
   versions:
   - 1.0.0
   - 1.0.1
@@ -91,4 +90,5 @@ versioning:
   - 6.2.1
   - 6.3.0
   - 6.4.0
-  lastUpdated: 20240131110820
+  - 6.4.1
+  lastUpdated: 20240811221251

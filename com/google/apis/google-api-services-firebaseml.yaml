@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-firebaseml
 versioning:
-  latest: v2beta-rev20240806-2.0.0
-  release: v2beta-rev20240806-2.0.0
+  latest: v2beta-rev20240808-2.0.0
+  release: v2beta-rev20240808-2.0.0
   versions:
   - v1beta2-rev2-1.18.0-rc
   - v1beta2-rev2-1.25.0
@@ -64,4 +64,5 @@ versioning:
   - v2beta-rev20240802-2.0.0
   - v2beta-rev20240805-2.0.0
   - v2beta-rev20240806-2.0.0
-  lastUpdated: 20240809081040
+  - v2beta-rev20240808-2.0.0
+  lastUpdated: 20240811080313
