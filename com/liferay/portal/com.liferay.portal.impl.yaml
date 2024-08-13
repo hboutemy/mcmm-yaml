@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.portal
 artifactId: com.liferay.portal.impl
 versioning:
-  latest: 104.1.1
-  release: 104.1.1
+  latest: 105.0.0
+  release: 105.0.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -1590,4 +1591,4 @@ versioning:
   - 104.1.0
   - 104.1.1
   - 105.0.0
-  lastUpdated: 20240811205843
+  lastUpdated: 20240812095959

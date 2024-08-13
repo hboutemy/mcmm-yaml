@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.segments.service
 versioning:
-  latest: 3.0.101
-  release: 3.0.101
+  latest: 3.0.102
+  release: 3.0.102
   versions:
   - 1.0.0
   - 1.0.1
@@ -263,4 +262,5 @@ versioning:
   - 3.0.99
   - 3.0.100
   - 3.0.101
-  lastUpdated: 20240716115909
+  - 3.0.102
+  lastUpdated: 20240812004559
