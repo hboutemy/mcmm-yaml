@@ -3,8 +3,8 @@
 groupId: org.flywaydb
 artifactId: flyway-sqlserver
 versioning:
-  latest: 10.17.0
-  release: 10.17.0
+  latest: 10.17.1
+  release: 10.17.1
   versions:
   - 8.1.0
   - 8.2.0
@@ -116,4 +116,5 @@ versioning:
   - 10.15.2
   - 10.16.0
   - 10.17.0
-  lastUpdated: 20240729100751
+  - 10.17.1
+  lastUpdated: 20240813084807

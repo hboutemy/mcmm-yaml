@@ -3,8 +3,8 @@
 groupId: com.couchbase.client
 artifactId: spark-connector_2.12
 versioning:
-  latest: 3.3.5
-  release: 3.3.5
+  latest: 3.5.0
+  release: 3.5.0
   versions:
   - 2.4.0
   - 2.4.1
@@ -20,4 +20,5 @@ versioning:
   - 3.3.3
   - 3.3.4
   - 3.3.5
-  lastUpdated: 20240730161001
+  - 3.5.0
+  lastUpdated: 20240813105001

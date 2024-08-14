@@ -3,8 +3,8 @@
 groupId: io.fabric8
 artifactId: knative-tests
 versioning:
-  latest: 6.13.2
-  release: 6.13.2
+  latest: 6.13.3
+  release: 6.13.3
   versions:
   - 4.4.0
   - 4.4.1
@@ -105,4 +105,5 @@ versioning:
   - 6.13.0
   - 6.13.1
   - 6.13.2
-  lastUpdated: 20240809123857
+  - 6.13.3
+  lastUpdated: 20240813102110

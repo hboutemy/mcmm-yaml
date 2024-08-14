@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.cloudfoundry.multiapps
 artifactId: multiapps-controller-client
 versioning:
-  latest: 1.174.0
-  release: 1.174.0
+  latest: 1.174.1
+  release: 1.174.1
   versions:
   - 1.73.35
   - 1.107.0
@@ -123,5 +123,7 @@ versioning:
   - 1.172.0
   - 1.173.0
   - 1.173.1
+  - 1.173.2
   - 1.174.0
-  lastUpdated: 20240806130924
+  - 1.174.1
+  lastUpdated: 20240813120401

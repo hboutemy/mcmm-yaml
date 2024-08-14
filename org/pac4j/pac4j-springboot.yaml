@@ -3,8 +3,8 @@
 groupId: org.pac4j
 artifactId: pac4j-springboot
 versioning:
-  latest: 6.0.5
-  release: 6.0.5
+  latest: 6.0.6
+  release: 6.0.6
   versions:
   - 4.0.0-RC2
   - 4.0.0-RC3
@@ -25,6 +25,7 @@ versioning:
   - 4.5.5
   - 4.5.6
   - 4.5.7
+  - 4.5.8
   - 5.0.0-RC1
   - 5.0.0-RC2
   - 5.0.0
@@ -56,6 +57,7 @@ versioning:
   - 5.7.4
   - 5.7.5
   - 5.7.6
+  - 5.7.7
   - 6.0.0-RC1
   - 6.0.0-RC2
   - 6.0.0-RC3
@@ -73,4 +75,5 @@ versioning:
   - 6.0.4
   - 6.0.4.1
   - 6.0.5
-  lastUpdated: 20240725095144
+  - 6.0.6
+  lastUpdated: 20240813131116
