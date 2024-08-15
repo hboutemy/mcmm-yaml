@@ -3,8 +3,8 @@
 groupId: org.openmrs.maven.archetypes
 artifactId: openmrs-sdk-archetype-module-refapp
 versioning:
-  latest: 5.12.0
-  release: 5.12.0
+  latest: 5.15.0
+  release: 5.15.0
   versions:
   - 3.1.1
   - 3.1.2
@@ -53,4 +53,7 @@ versioning:
   - 5.8.0
   - 5.9.0
   - 5.12.0
-  lastUpdated: 20240703194623
+  - 5.13.0
+  - 5.14.0
+  - 5.15.0
+  lastUpdated: 20240814190912

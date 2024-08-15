@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-reactive-db2-client-deployment
 versioning:
-  latest: 3.13.2
-  release: 3.13.2
+  latest: 3.14.0.CR1
+  release: 3.14.0.CR1
   versions:
   - 1.6.0.CR1
   - 1.6.0.Final
@@ -266,4 +266,5 @@ versioning:
   - 3.13.0
   - 3.13.1
   - 3.13.2
-  lastUpdated: 20240809103020
+  - 3.14.0.CR1
+  lastUpdated: 20240814102454

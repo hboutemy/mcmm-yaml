@@ -3,8 +3,8 @@
 groupId: org.openmrs.maven.plugins
 artifactId: openmrs-sdk-tomcat7-maven-plugin
 versioning:
-  latest: 5.12.0
-  release: 5.12.0
+  latest: 5.15.0
+  release: 5.15.0
   versions:
   - 4.3.0
   - 4.4.0
@@ -20,4 +20,7 @@ versioning:
   - 5.8.0
   - 5.9.0
   - 5.12.0
-  lastUpdated: 20240703194629
+  - 5.13.0
+  - 5.14.0
+  - 5.15.0
+  lastUpdated: 20240814190916

@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-minikube
 versioning:
-  latest: 3.13.2
-  release: 3.13.2
+  latest: 3.14.0.CR1
+  release: 3.14.0.CR1
   versions:
   - 1.5.0.CR1
   - 1.5.0.Final
@@ -270,4 +270,5 @@ versioning:
   - 3.13.0
   - 3.13.1
   - 3.13.2
-  lastUpdated: 20240809102941
+  - 3.14.0.CR1
+  lastUpdated: 20240814102416

@@ -3,8 +3,8 @@
 groupId: com.google.cloud
 artifactId: cloud-sql-connector-r2dbc-mariadb
 versioning:
-  latest: 1.19.1
-  release: 1.19.1
+  latest: 1.20.0
+  release: 1.20.0
   versions:
   - 1.17.0
   - 1.17.1
@@ -12,4 +12,5 @@ versioning:
   - 1.18.1
   - 1.19.0
   - 1.19.1
-  lastUpdated: 20240710154636
+  - 1.20.0
+  lastUpdated: 20240814180724

@@ -3,8 +3,8 @@
 groupId: io.acryl
 artifactId: datahub-auth-api
 versioning:
-  latest: 0.14.0
-  release: 0.14.0
+  latest: 0.14.0-1
+  release: 0.14.0-1
   versions:
   - 0.9.3-3rc3
   - 0.9.3-3rc4
@@ -280,4 +280,6 @@ versioning:
   - 0.13.3-7rc3
   - 0.14.0rc1
   - 0.14.0
-  lastUpdated: 20240813185204
+  - 0.14.0-1rc1
+  - 0.14.0-1
+  lastUpdated: 20240814084622
