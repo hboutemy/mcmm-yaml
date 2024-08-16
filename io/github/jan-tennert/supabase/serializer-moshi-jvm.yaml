@@ -3,8 +3,8 @@
 groupId: io.github.jan-tennert.supabase
 artifactId: serializer-moshi-jvm
 versioning:
-  latest: 2.6.0-beta-1
-  release: 2.6.0-beta-1
+  latest: 2.6.0-coil3
+  release: 2.6.0-coil3
   versions:
   - 1.1.0-beta-2
   - 1.1.0-rc-1
@@ -114,4 +114,6 @@ versioning:
   - 2.5.4
   - 2.5.4-wasm0
   - 2.6.0-beta-1
-  lastUpdated: 20240730220338
+  - 2.6.0-rc-1
+  - 2.6.0-coil3
+  lastUpdated: 20240815204819

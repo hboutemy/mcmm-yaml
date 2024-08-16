@@ -3,8 +3,8 @@
 groupId: com.inteligr8
 artifactId: common-rest-client
 versioning:
-  latest: 2.0.10-jersey
-  release: 2.0.10-jersey
+  latest: 3.0.0-jersey
+  release: 3.0.0-jersey
   versions:
   - 2.0.0
   - 2.0.1
@@ -32,4 +32,7 @@ versioning:
   - 2.0.10
   - 2.0.10-cxf
   - 2.0.10-jersey
-  lastUpdated: 20240305235355
+  - 3.0.0
+  - 3.0.0-cxf
+  - 3.0.0-jersey
+  lastUpdated: 20240815160236

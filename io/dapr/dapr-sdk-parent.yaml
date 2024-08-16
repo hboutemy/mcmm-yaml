@@ -3,8 +3,8 @@
 groupId: io.dapr
 artifactId: dapr-sdk-parent
 versioning:
-  latest: 1.12.0-rc-1
-  release: 1.12.0-rc-1
+  latest: 1.12.0
+  release: 1.12.0
   versions:
   - 0.2.0-beta-1
   - 0.2.0-beta-2
@@ -67,4 +67,5 @@ versioning:
   - 1.11.0-rc-4
   - 1.11.0
   - 1.12.0-rc-1
-  lastUpdated: 20240729172209
+  - 1.12.0
+  lastUpdated: 20240815023233

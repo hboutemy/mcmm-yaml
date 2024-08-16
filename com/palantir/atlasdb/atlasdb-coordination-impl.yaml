@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: atlasdb-coordination-impl
 versioning:
-  latest: 0.1132.0-rc1
-  release: 0.1132.0-rc1
+  latest: 0.1132.0-rc2
+  release: 0.1132.0-rc2
   versions:
   - 0.311.6
   - 0.311.7
@@ -980,4 +980,5 @@ versioning:
   - 0.1130.0
   - 0.1131.0
   - 0.1132.0-rc1
-  lastUpdated: 20240812150234
+  - 0.1132.0-rc2
+  lastUpdated: 20240815155245

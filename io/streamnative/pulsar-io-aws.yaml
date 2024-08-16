@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-io-aws
 versioning:
-  latest: 3.3.1.1
-  release: 3.3.1.1
+  latest: 4.0.0-SNAPSHOT.ursa
+  release: 4.0.0-SNAPSHOT.ursa
   versions:
   - master-rc-daily
   - v2.8.0-rc-202106091140
@@ -570,6 +570,7 @@ versioning:
   - 2.10.4.8
   - 2.10.5.1
   - 2.10.5.2-5ce22c
+  - 2.10.5.3-a41ecf
   - 2.10.5.3
   - 2.10.5.4
   - 2.10.5.4-681bb8
@@ -732,4 +733,6 @@ versioning:
   - 3.3.0.7
   - 3.3.0.9
   - 3.3.1.1
-  lastUpdated: 20240814021511
+  - 3.4.0-SNAPSHOT.ursa0815
+  - 4.0.0-SNAPSHOT.ursa
+  lastUpdated: 20240815101751

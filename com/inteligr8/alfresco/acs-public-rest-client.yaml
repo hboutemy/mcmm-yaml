@@ -3,8 +3,8 @@
 groupId: com.inteligr8.alfresco
 artifactId: acs-public-rest-client
 versioning:
-  latest: 2.0.4-jersey
-  release: 2.0.4-jersey
+  latest: 3.0.0-jersey
+  release: 3.0.0-jersey
   versions:
   - 2.0.1
   - 2.0.1-cxf
@@ -18,4 +18,7 @@ versioning:
   - 2.0.4
   - 2.0.4-cxf
   - 2.0.4-jersey
-  lastUpdated: 20230629154927
+  - 3.0.0
+  - 3.0.0-cxf
+  - 3.0.0-jersey
+  lastUpdated: 20240815161828
