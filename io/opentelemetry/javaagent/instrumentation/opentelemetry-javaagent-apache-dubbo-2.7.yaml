@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-apache-dubbo-2.7
 versioning:
-  latest: 2.6.0-alpha
-  release: 2.6.0-alpha
+  latest: 2.7.0-alpha
+  release: 2.7.0-alpha
   versions:
   - 0.16.0
   - 0.16.1
@@ -78,4 +78,5 @@ versioning:
   - 2.4.0-alpha
   - 2.5.0-alpha
   - 2.6.0-alpha
-  lastUpdated: 20240725181910
+  - 2.7.0-alpha
+  lastUpdated: 20240816123704

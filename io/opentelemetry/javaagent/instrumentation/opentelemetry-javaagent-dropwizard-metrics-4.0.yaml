@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-dropwizard-metrics-4.0
 versioning:
-  latest: 2.6.0-alpha
-  release: 2.6.0-alpha
+  latest: 2.7.0-alpha
+  release: 2.7.0-alpha
   versions:
   - 1.16.0-alpha
   - 1.17.0-alpha
@@ -43,4 +43,5 @@ versioning:
   - 2.4.0-alpha
   - 2.5.0-alpha
   - 2.6.0-alpha
-  lastUpdated: 20240725182145
+  - 2.7.0-alpha
+  lastUpdated: 20240816123806

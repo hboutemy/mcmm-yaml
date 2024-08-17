@@ -3,8 +3,8 @@
 groupId: com.mobius-software.protocols.sctp
 artifactId: sctp-parent
 versioning:
-  latest: 2.2.9
-  release: 2.2.9
+  latest: 2.2.10-java11
+  release: 2.2.10-java11
   versions:
   - 2.2.4
   - 2.2.5
@@ -12,4 +12,6 @@ versioning:
   - 2.2.7
   - 2.2.8
   - 2.2.9
-  lastUpdated: 20230211123734
+  - 2.2.10
+  - 2.2.10-java11
+  lastUpdated: 20240816132847
