@@ -3,8 +3,8 @@
 groupId: io.github.jan-tennert.supabase
 artifactId: supabase-kt-watchosarm64
 versioning:
-  latest: 2.6.0-coil3
-  release: 2.6.0-coil3
+  latest: 2.6.0-wasm0
+  release: 2.6.0-wasm0
   versions:
   - 1.2.0-alpha-1
   - 1.2.0-alpha-2
@@ -111,4 +111,5 @@ versioning:
   - 2.6.0-rc-1
   - 2.6.0
   - 2.6.0-coil3
-  lastUpdated: 20240816174550
+  - 2.6.0-wasm0
+  lastUpdated: 20240817122729
