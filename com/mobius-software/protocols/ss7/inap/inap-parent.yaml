@@ -3,8 +3,8 @@
 groupId: com.mobius-software.protocols.ss7.inap
 artifactId: inap-parent
 versioning:
-  latest: 10.0.34
-  release: 10.0.34
+  latest: 10.0.35-java11
+  release: 10.0.35-java11
   versions:
   - 10.0.1
   - 10.0.2
@@ -34,4 +34,6 @@ versioning:
   - 10.0.29
   - 10.0.30
   - 10.0.34
-  lastUpdated: 20240804145055
+  - 10.0.35
+  - 10.0.35-java11
+  lastUpdated: 20240818203740
