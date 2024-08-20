@@ -4,7 +4,7 @@ groupId: org.keycloak
 artifactId: keycloak-misc-parent
 versioning:
   latest: 18.0.2
-  release: 25.0.2
+  release: 25.0.4
   versions:
   - 2.5.4.Final
   - 2.5.5.Final
@@ -117,4 +117,6 @@ versioning:
   - 25.0.0
   - 25.0.1
   - 25.0.2
-  lastUpdated: 20240718065231
+  - 25.0.3
+  - 25.0.4
+  lastUpdated: 20240819090443

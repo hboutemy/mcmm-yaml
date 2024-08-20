@@ -4,7 +4,7 @@ groupId: org.keycloak
 artifactId: keycloak-saml-adapter-api-public
 versioning:
   latest: 18.0.2
-  release: 25.0.2
+  release: 25.0.4
   versions:
   - 1.9.2.Final
   - 1.9.3.Final
@@ -137,4 +137,6 @@ versioning:
   - 25.0.0
   - 25.0.1
   - 25.0.2
-  lastUpdated: 20240718065231
+  - 25.0.3
+  - 25.0.4
+  lastUpdated: 20240819090443

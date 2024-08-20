@@ -3,8 +3,8 @@
 groupId: com.bakdata.fluent-kafka-streams-tests
 artifactId: schema-registry-mock
 versioning:
-  latest: 2.14.0
-  release: 2.14.0
+  latest: 2.15.0
+  release: 2.15.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -47,4 +47,5 @@ versioning:
   - 2.13.0
   - 2.13.1
   - 2.14.0
-  lastUpdated: 20240719111111
+  - 2.15.0
+  lastUpdated: 20240819124156

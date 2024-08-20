@@ -3,12 +3,13 @@
 groupId: com.appcompats.androidx
 artifactId: default
 versioning:
-  latest: core-ktx
-  release: core-ktx
+  latest: core-kts
+  release: core-kts
   versions:
-  - core-ktx
-  - core-common
+  - core-kts
   - 2.9.5
   - core
+  - core-common
+  - core-ktx
   - tools
-  lastUpdated: 20240715065301
+  lastUpdated: 20240819123419
