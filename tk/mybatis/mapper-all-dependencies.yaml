@@ -3,8 +3,8 @@
 groupId: tk.mybatis
 artifactId: mapper-all-dependencies
 versioning:
-  latest: 4.3.0
-  release: 4.3.0
+  latest: 5.0.0-rc2
+  release: 5.0.0-rc2
   versions:
   - 4.0.0-beta2
   - 4.0.0-beta3
@@ -27,4 +27,6 @@ versioning:
   - 4.2.2
   - 4.2.3
   - 4.3.0
-  lastUpdated: 20240406030853
+  - 5.0.0-rc1
+  - 5.0.0-rc2
+  lastUpdated: 20240820142243

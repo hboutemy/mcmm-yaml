@@ -3,8 +3,8 @@
 groupId: tk.mybatis
 artifactId: mapper-spring-boot-autoconfigure
 versioning:
-  latest: 4.3.0
-  release: 4.3.0
+  latest: 5.0.0-rc2
+  release: 5.0.0-rc2
   versions:
   - 0.1.0
   - 1.0.0
@@ -42,4 +42,6 @@ versioning:
   - 4.2.2
   - 4.2.3
   - 4.3.0
-  lastUpdated: 20240406030900
+  - 5.0.0-rc1
+  - 5.0.0-rc2
+  lastUpdated: 20240820142250

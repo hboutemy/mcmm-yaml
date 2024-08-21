@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.cloudfoundry.multiapps
 artifactId: multiapps-controller-core-test
 versioning:
-  latest: 1.174.1
-  release: 1.174.1
+  latest: 1.175.0
+  release: 1.175.0
   versions:
   - 1.73.35
   - 1.111.1
@@ -118,4 +118,5 @@ versioning:
   - 1.173.2
   - 1.174.0
   - 1.174.1
-  lastUpdated: 20240813120402
+  - 1.175.0
+  lastUpdated: 20240820100248

@@ -3,8 +3,8 @@
 groupId: io.github.dawdler-series
 artifactId: dawdler-client-plug-velocity
 versioning:
-  latest: 1.0.8-jdk17-RELEASES
-  release: 1.0.8-jdk17-RELEASES
+  latest: 1.0.8-jdk21-RELEASES
+  release: 1.0.8-jdk21-RELEASES
   versions:
   - 1.0.4-jdk1.8-RELEASES
   - 1.0.6-jdk1.8-RELEASES
@@ -12,6 +12,8 @@ versioning:
   - 1.0.6-jdk17-RELEASES
   - 1.0.7-jdk21-RELEASES
   - 1.0.8-jdk17-RELEASES
+  - 1.0.8-jdk1.8-RELEASES
+  - 1.0.8-jdk21-RELEASES
   - 1.0.2-jdk1.8-RELEASES
   - 1.0.2-jdk17-RELEASES
   - 1.0.2-jdk21-RELEASES
@@ -23,4 +25,4 @@ versioning:
   - 17.4-jdk17-RELEASES
   - 21.2-jdk21-RELEASES
   - 21.4-jdk21-RELEASES
-  lastUpdated: 20240819100825
+  lastUpdated: 20240820022744
