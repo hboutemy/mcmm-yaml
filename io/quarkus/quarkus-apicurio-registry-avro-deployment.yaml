@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-apicurio-registry-avro-deployment
 versioning:
-  latest: 3.14.0.CR1
-  release: 3.14.0.CR1
+  latest: 3.14.0
+  release: 3.14.0
   versions:
   - 2.0.0.Final
   - 2.0.1.Final
@@ -210,4 +210,5 @@ versioning:
   - 3.13.2
   - 3.13.3
   - 3.14.0.CR1
-  lastUpdated: 20240820094135
+  - 3.14.0
+  lastUpdated: 20240821102337

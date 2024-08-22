@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-avro-deployment
 versioning:
-  latest: 3.14.0.CR1
-  release: 3.14.0.CR1
+  latest: 3.14.0
+  release: 3.14.0
   versions:
   - 1.7.0.CR1
   - 1.7.0.CR2
@@ -265,4 +265,5 @@ versioning:
   - 3.13.2
   - 3.13.3
   - 3.14.0.CR1
-  lastUpdated: 20240820094141
+  - 3.14.0
+  lastUpdated: 20240821102343

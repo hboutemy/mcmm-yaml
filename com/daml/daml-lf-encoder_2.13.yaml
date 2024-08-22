@@ -3,8 +3,8 @@
 groupId: com.daml
 artifactId: daml-lf-encoder_2.13
 versioning:
-  latest: 3.2.0-snapshot.20240819.13232.0.vee0b4864
-  release: 3.2.0-snapshot.20240819.13232.0.vee0b4864
+  latest: 3.2.0-snapshot.20240820.13236.0.v0a04bc86
+  release: 3.2.0-snapshot.20240820.13236.0.v0a04bc86
   versions:
   - 2.2.0-snapshot.20220429.9826.0.2e6dbefa
   - 2.2.0-snapshot.20220501.9828.0.7297fe9d
@@ -674,6 +674,7 @@ versioning:
   - 2.9.1
   - 2.9.2
   - 2.9.3
+  - 2.9.4-snapshot.20240814.12888.0.vb3283a3f
   - 2.9.4-adhoc.20240729.12882.0.v4ee22923
   - 2.10.0-snapshot.20240620.12856.0.v6dca8f13
   - 2.10.0-snapshot.20240621.12858.0.v69032bec
@@ -713,6 +714,8 @@ versioning:
   - 2.10.0-snapshot.20240815.12928.0.v88a1befd
   - 2.10.0-snapshot.20240816.12929.0.va7ea9d59
   - 2.10.0-snapshot.20240819.12930.0.v0e2bbe10
+  - 2.10.0-snapshot.20240820.12932.0.v80ffa617
+  - 2.10.0-snapshot.20240821.12933.0.v8ba622fb
   - 3.0.0-snapshot.20240109.12547.0.v54009a41
   - 3.0.0-snapshot.20240110.12560.0.v57656042
   - 3.0.0-snapshot.20240111.12564.0.v88a271b5
@@ -877,4 +880,5 @@ versioning:
   - 3.2.0-snapshot.20240813.13227.0.v36158334
   - 3.2.0-snapshot.20240814.13230.0.vc62dc41c
   - 3.2.0-snapshot.20240819.13232.0.vee0b4864
-  lastUpdated: 20240820062053
+  - 3.2.0-snapshot.20240820.13236.0.v0a04bc86
+  lastUpdated: 20240821150758

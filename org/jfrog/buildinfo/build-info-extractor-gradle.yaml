@@ -3,8 +3,8 @@
 groupId: org.jfrog.buildinfo
 artifactId: build-info-extractor-gradle
 versioning:
-  latest: 5.2.3
-  release: 5.2.3
+  latest: 5.2.4
+  release: 5.2.4
   versions:
   - 4.23.4
   - 4.24.0
@@ -80,6 +80,7 @@ versioning:
   - 4.33.17
   - 4.33.19
   - 4.33.20
+  - 4.33.21
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -103,4 +104,5 @@ versioning:
   - 5.2.1
   - 5.2.2
   - 5.2.3
-  lastUpdated: 20240711070645
+  - 5.2.4
+  lastUpdated: 20240821133939
