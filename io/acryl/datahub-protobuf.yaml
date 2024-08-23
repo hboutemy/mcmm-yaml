@@ -3,8 +3,8 @@
 groupId: io.acryl
 artifactId: datahub-protobuf
 versioning:
-  latest: 0.14.0-2
-  release: 0.14.0-2
+  latest: 0.14.0-3rc2
+  release: 0.14.0-3rc2
   versions:
   - 0.8.44-2rc1
   - 0.8.44-2rc2
@@ -383,4 +383,6 @@ versioning:
   - 0.14.0-2rc2
   - 0.14.0-2rc3
   - 0.14.0-2
-  lastUpdated: 20240821100044
+  - 0.14.0-3rc1
+  - 0.14.0-3rc2
+  lastUpdated: 20240822102255

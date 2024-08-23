@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-quarkus-server
 versioning:
-  latest: 15.1.0.Dev02
-  release: 15.1.0.Dev02
+  latest: 15.1.0.Dev03
+  release: 15.1.0.Dev03
   versions:
   - 15.0.0.CR1
   - 15.0.0.Final
@@ -25,6 +25,8 @@ versioning:
   - 15.0.5.Final
   - 15.0.6.Final
   - 15.0.7.Final
+  - 15.0.8.Final
   - 15.1.0.Dev01
   - 15.1.0.Dev02
-  lastUpdated: 20240807084114
+  - 15.1.0.Dev03
+  lastUpdated: 20240822083353

@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-standard-ee-bom
 versioning:
-  latest: 33.0.0.Final
-  release: 33.0.0.Final
+  latest: 33.0.1.Final
+  release: 33.0.1.Final
   versions:
   - 27.0.0.Alpha4
   - 27.0.0.Alpha5
@@ -28,4 +28,5 @@ versioning:
   - 32.0.1.Final
   - 33.0.0.Beta1
   - 33.0.0.Final
-  lastUpdated: 20240722201140
+  - 33.0.1.Final
+  lastUpdated: 20240822154851

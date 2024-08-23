@@ -3,8 +3,8 @@
 groupId: io.acryl
 artifactId: datahub-spark-lineage
 versioning:
-  latest: 0.14.0-2
-  release: 0.14.0-2
+  latest: 0.14.0-3rc2
+  release: 0.14.0-3rc2
   versions:
   - 0.0.1
   - 0.0.2
@@ -406,4 +406,6 @@ versioning:
   - 0.14.0-2rc2
   - 0.14.0-2rc3
   - 0.14.0-2
-  lastUpdated: 20240821095745
+  - 0.14.0-3rc1
+  - 0.14.0-3rc2
+  lastUpdated: 20240822102032
