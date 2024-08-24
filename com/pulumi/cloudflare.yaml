@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: cloudflare
 versioning:
-  latest: 5.37.0
-  release: 5.37.0
+  latest: 5.37.1
+  release: 5.37.1
   versions:
   - 0.0.1
   - 4.10.0-alpha.1661535818+c5ec1a75
@@ -241,4 +241,6 @@ versioning:
   - 5.36.0
   - 5.37.0-alpha.1724319450
   - 5.37.0
-  lastUpdated: 20240822100622
+  - 5.37.1-alpha.1724432372
+  - 5.37.1
+  lastUpdated: 20240823172816
