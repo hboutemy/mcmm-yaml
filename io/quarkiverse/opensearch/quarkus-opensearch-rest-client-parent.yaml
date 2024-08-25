@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.opensearch
 artifactId: quarkus-opensearch-rest-client-parent
 versioning:
-  latest: 1.9.6
-  release: 1.9.6
+  latest: 1.9.7
+  release: 1.9.7
   versions:
   - 0.1.0
   - 0.2.0
@@ -42,6 +42,7 @@ versioning:
   - 1.6.9
   - 1.6.10
   - 1.6.11
+  - 1.6.12
   - 1.7.0
   - 1.7.1
   - 1.7.3
@@ -55,4 +56,5 @@ versioning:
   - 1.9.4
   - 1.9.5
   - 1.9.6
-  lastUpdated: 20240717234722
+  - 1.9.7
+  lastUpdated: 20240824111103

@@ -3,8 +3,8 @@
 groupId: io.kubernetes
 artifactId: client-java
 versioning:
-  latest: 21.0.1
-  release: 21.0.1
+  latest: 21.0.1-legacy
+  release: 21.0.1-legacy
   versions:
   - 0.1
   - 0.2
@@ -68,4 +68,5 @@ versioning:
   - 21.0.0
   - 21.0.0-legacy
   - 21.0.1
-  lastUpdated: 20240730155130
+  - 21.0.1-legacy
+  lastUpdated: 20240824184434
