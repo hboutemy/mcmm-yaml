@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.opensearch
 artifactId: quarkus-opensearch-client-common-deployment
 versioning:
-  latest: 1.9.7
-  release: 1.9.7
+  latest: 1.10.0
+  release: 1.10.0
   versions:
   - 1.2.4
   - 1.2.5
@@ -39,4 +39,5 @@ versioning:
   - 1.9.5
   - 1.9.6
   - 1.9.7
-  lastUpdated: 20240824111059
+  - 1.10.0
+  lastUpdated: 20240825100223

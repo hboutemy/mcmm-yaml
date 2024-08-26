@@ -3,8 +3,8 @@
 groupId: com.mobius-software.cluster
 artifactId: infinispan-cache
 versioning:
-  latest: 8.0.0-43
-  release: 8.0.0-43
+  latest: 8.0.0-45-java11
+  release: 8.0.0-45-java11
   versions:
   - 8.0.0-26
   - 8.0.0-27
@@ -22,4 +22,7 @@ versioning:
   - 8.0.0-41
   - 8.0.0-42
   - 8.0.0-43
-  lastUpdated: 20240516091952
+  - 8.0.0-44
+  - 8.0.0-45
+  - 8.0.0-45-java11
+  lastUpdated: 20240825111910

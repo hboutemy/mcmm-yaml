@@ -3,10 +3,10 @@
 groupId: ai.superstream
 artifactId: kafka-clients
 versioning:
-  latest: 3.5.113-beta3
-  release: 3.5.113-beta3
+  latest: 3.5.113-beta5
+  release: 3.5.113-beta5
   versions:
-  - 3.5.113-beta3
+  - 3.5.113-beta5
   - 0.0.1-alpha2
   - 0.0.1-alpha3
   - 3.0.1
@@ -86,6 +86,8 @@ versioning:
   - 3.5.112-beta
   - 3.5.113-beta
   - 3.5.113-beta2
+  - 3.5.113-beta3
+  - 3.5.113-beta4
   - 3.5.12
   - 3.5.12-beta
   - 3.5.13
@@ -136,4 +138,4 @@ versioning:
   - 3.7.1-alpha1
   - 3.7.1-alpha2
   - 3.7.1-alpha3
-  lastUpdated: 20240821084553
+  lastUpdated: 20240825150727

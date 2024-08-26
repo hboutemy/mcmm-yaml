@@ -3,10 +3,11 @@
 groupId: org.anyline
 artifactId: anyline-data-jdbc-postgis
 versioning:
-  latest: 8.7.2-20240823
-  release: 8.7.2-20240823
+  latest: 8.7.2-20240825
+  release: 8.7.2-20240825
   versions:
   - 8.7.2-jdk11-20240816
+  - 8.7.2-jdk11-20240819
   - 8.7.2-jdk17-20240501
   - 8.7.2-jdk17-20240505
   - 8.7.2-jdk17-20240506
@@ -184,4 +185,5 @@ versioning:
   - 8.7.2-20240815
   - 8.7.2-20240819
   - 8.7.2-20240823
-  lastUpdated: 20240823090141
+  - 8.7.2-20240825
+  lastUpdated: 20240825073426

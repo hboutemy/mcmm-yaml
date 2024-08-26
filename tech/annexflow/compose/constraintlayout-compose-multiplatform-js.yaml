@@ -3,8 +3,8 @@
 groupId: tech.annexflow.compose
 artifactId: constraintlayout-compose-multiplatform-js
 versioning:
-  latest: 0.5.0-alpha01
-  release: 0.5.0-alpha01
+  latest: 0.5.0-alpha03-shaded-core
+  release: 0.5.0-alpha03-shaded-core
   versions:
   - 0.3.0-alpha01
   - 0.3.0-rc02
@@ -12,4 +12,6 @@ versioning:
   - 0.3.1
   - 0.4.0
   - 0.5.0-alpha01
-  lastUpdated: 20240727114320
+  - 0.5.0-alpha03
+  - 0.5.0-alpha03-shaded-core
+  lastUpdated: 20240825121530
