@@ -3,8 +3,8 @@
 groupId: org.apache.cassandra
 artifactId: cassandra-parent
 versioning:
-  latest: 5.0-rc1
-  release: 5.0-rc1
+  latest: 5.0-rc2
+  release: 5.0-rc2
   versions:
   - 0.7.5
   - 0.7.6
@@ -265,4 +265,5 @@ versioning:
   - 5.0-alpha2
   - 5.0-beta1
   - 5.0-rc1
-  lastUpdated: 20240819133454
+  - 5.0-rc2
+  lastUpdated: 20240826143026
