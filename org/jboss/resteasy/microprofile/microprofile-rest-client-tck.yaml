@@ -3,8 +3,8 @@
 groupId: org.jboss.resteasy.microprofile
 artifactId: microprofile-rest-client-tck
 versioning:
-  latest: 3.0.0.Beta1
-  release: 3.0.0.Beta1
+  latest: 3.0.0.Final
+  release: 3.0.0.Final
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -20,4 +20,5 @@ versioning:
   - 2.1.5.Final
   - 3.0.0.Alpha1
   - 3.0.0.Beta1
-  lastUpdated: 20240626170932
+  - 3.0.0.Final
+  lastUpdated: 20240827162220

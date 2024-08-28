@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: leader-election-api-protobufs
 versioning:
-  latest: 0.1135.0-rc2
-  release: 0.1135.0-rc2
+  latest: 0.1135.0
+  release: 0.1135.0
   versions:
   - 0.311.6
   - 0.311.7
@@ -990,4 +990,6 @@ versioning:
   - 0.1134.0-rc5
   - 0.1134.0
   - 0.1135.0-rc2
-  lastUpdated: 20240822185519
+  - 0.1135.0-rc3
+  - 0.1135.0
+  lastUpdated: 20240827173531

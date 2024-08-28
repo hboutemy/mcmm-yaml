@@ -3,8 +3,8 @@
 groupId: org.apache.iceberg
 artifactId: iceberg-spark
 versioning:
-  latest: 1.6.0
-  release: 1.6.0
+  latest: 1.6.1
+  release: 1.6.1
   versions:
   - 0.7.0-incubating
   - 0.8.0-incubating
@@ -34,4 +34,5 @@ versioning:
   - 1.5.1
   - 1.5.2
   - 1.6.0
-  lastUpdated: 20240723121245
+  - 1.6.1
+  lastUpdated: 20240827164319

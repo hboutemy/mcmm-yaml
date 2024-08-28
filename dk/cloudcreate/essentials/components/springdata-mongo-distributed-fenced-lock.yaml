@@ -3,8 +3,8 @@
 groupId: dk.cloudcreate.essentials.components
 artifactId: springdata-mongo-distributed-fenced-lock
 versioning:
-  latest: 0.40.12
-  release: 0.40.12
+  latest: 0.40.14
+  release: 0.40.14
   versions:
   - 0.4.0
   - 0.4.1
@@ -72,4 +72,6 @@ versioning:
   - 0.40.10
   - 0.40.11
   - 0.40.12
-  lastUpdated: 20240623180745
+  - 0.40.13
+  - 0.40.14
+  lastUpdated: 20240827163215
