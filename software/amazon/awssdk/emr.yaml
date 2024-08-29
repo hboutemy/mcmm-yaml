@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: emr
 versioning:
-  latest: 2.27.14
-  release: 2.27.14
+  latest: 2.27.15
+  release: 2.27.15
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -1350,4 +1350,5 @@ versioning:
   - 2.27.12
   - 2.27.13
   - 2.27.14
-  lastUpdated: 20240827203045
+  - 2.27.15
+  lastUpdated: 20240828203839

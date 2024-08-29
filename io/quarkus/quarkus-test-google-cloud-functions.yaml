@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-test-google-cloud-functions
 versioning:
-  latest: 3.14.0
-  release: 3.14.0
+  latest: 3.14.1
+  release: 3.14.1
   versions:
   - 2.15.0.CR1
   - 2.15.0.Final
@@ -95,6 +95,7 @@ versioning:
   - 3.8.3
   - 3.8.4
   - 3.8.5
+  - 3.8.6
   - 3.9.0.CR1
   - 3.9.0.CR2
   - 3.9.0
@@ -124,4 +125,5 @@ versioning:
   - 3.13.3
   - 3.14.0.CR1
   - 3.14.0
-  lastUpdated: 20240821102915
+  - 3.14.1
+  lastUpdated: 20240828091922

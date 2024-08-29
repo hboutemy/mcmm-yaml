@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-amazon-lambda-http-parent
 versioning:
-  latest: 3.14.0
-  release: 3.14.0
+  latest: 3.14.1
+  release: 3.14.1
   versions:
   - 0.27.0
   - 0.28.0
@@ -270,6 +270,7 @@ versioning:
   - 3.8.3
   - 3.8.4
   - 3.8.5
+  - 3.8.6
   - 3.9.0.CR1
   - 3.9.0.CR2
   - 3.9.0
@@ -299,4 +300,5 @@ versioning:
   - 3.13.3
   - 3.14.0.CR1
   - 3.14.0
-  lastUpdated: 20240821102331
+  - 3.14.1
+  lastUpdated: 20240828091326

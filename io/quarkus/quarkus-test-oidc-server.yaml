@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-test-oidc-server
 versioning:
-  latest: 3.14.0
-  release: 3.14.0
+  latest: 3.14.1
+  release: 3.14.1
   versions:
   - 1.13.0.Final
   - 1.13.1.Final
@@ -196,6 +196,7 @@ versioning:
   - 3.8.3
   - 3.8.4
   - 3.8.5
+  - 3.8.6
   - 3.9.0.CR1
   - 3.9.0.CR2
   - 3.9.0
@@ -225,4 +226,5 @@ versioning:
   - 3.13.3
   - 3.14.0.CR1
   - 3.14.0
-  lastUpdated: 20240821102920
+  - 3.14.1
+  lastUpdated: 20240828091927

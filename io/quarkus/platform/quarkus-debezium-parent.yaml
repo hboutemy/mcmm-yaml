@@ -3,8 +3,8 @@
 groupId: io.quarkus.platform
 artifactId: quarkus-debezium-parent
 versioning:
-  latest: 3.14.0.CR1
-  release: 3.14.0.CR1
+  latest: 3.14.1
+  release: 3.14.1
   versions:
   - 2.0.0.Final
   - 2.0.1.Final
@@ -192,4 +192,5 @@ versioning:
   - 3.13.2
   - 3.13.3
   - 3.14.0.CR1
-  lastUpdated: 20240820140211
+  - 3.14.1
+  lastUpdated: 20240828153709
