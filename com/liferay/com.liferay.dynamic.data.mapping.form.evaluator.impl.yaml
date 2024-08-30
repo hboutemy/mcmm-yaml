@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.dynamic.data.mapping.form.evaluator.impl
 versioning:
-  latest: 4.0.72
-  release: 4.0.72
+  latest: 4.0.73
+  release: 4.0.73
   versions:
   - 1.0.0
   - 1.0.1
@@ -198,4 +197,5 @@ versioning:
   - 4.0.70
   - 4.0.71
   - 4.0.72
-  lastUpdated: 20240716105854
+  - 4.0.73
+  lastUpdated: 20240829001651

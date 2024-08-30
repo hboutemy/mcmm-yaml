@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.dynamic.data.lists.service
 versioning:
-  latest: 5.0.69
-  release: 5.0.69
+  latest: 5.0.70
+  release: 5.0.70
   versions:
   - 1.0.0
   - 1.0.1
@@ -436,4 +435,5 @@ versioning:
   - 5.0.67
   - 5.0.68
   - 5.0.69
-  lastUpdated: 20240716094436
+  - 5.0.70
+  lastUpdated: 20240829011835
