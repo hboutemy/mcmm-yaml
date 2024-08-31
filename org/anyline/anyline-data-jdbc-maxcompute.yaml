@@ -3,10 +3,14 @@
 groupId: org.anyline
 artifactId: anyline-data-jdbc-maxcompute
 versioning:
-  latest: 8.7.2-jdk21-20240827
-  release: 8.7.2-jdk21-20240827
+  latest: 8.7.2-20240831
+  release: 8.7.2-20240831
   versions:
   - 8.7.2-jdk11-20240827
+  - 8.7.2-jdk11-20240830
   - 8.7.2-jdk17-20240827
+  - 8.7.2-jdk17-20240830
   - 8.7.2-jdk21-20240827
-  lastUpdated: 20240827101729
+  - 8.7.2-20240830
+  - 8.7.2-20240831
+  lastUpdated: 20240830180710

@@ -3,8 +3,8 @@
 groupId: com.google.cloud
 artifactId: spring-cloud-gcp-starter-sql-postgres-r2dbc
 versioning:
-  latest: 5.5.1
-  release: 5.5.1
+  latest: 5.6.0
+  release: 5.6.0
   versions:
   - 3.1.0
   - 3.2.0
@@ -48,6 +48,7 @@ versioning:
   - 3.8.5
   - 3.8.6
   - 3.8.7
+  - 3.8.8
   - 4.0.0
   - 4.1.0
   - 4.1.1
@@ -82,6 +83,7 @@ versioning:
   - 4.10.5
   - 4.10.6
   - 4.10.7
+  - 4.10.8
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -97,4 +99,5 @@ versioning:
   - 5.4.3
   - 5.5.0
   - 5.5.1
-  lastUpdated: 20240815161250
+  - 5.6.0
+  lastUpdated: 20240830141535

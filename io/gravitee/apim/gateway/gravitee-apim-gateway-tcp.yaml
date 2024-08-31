@@ -3,8 +3,8 @@
 groupId: io.gravitee.apim.gateway
 artifactId: gravitee-apim-gateway-tcp
 versioning:
-  latest: 4.4.7
-  release: 4.4.7
+  latest: 4.4.8
+  release: 4.4.8
   versions:
   - 4.2.0-alpha.2
   - 4.2.0
@@ -24,6 +24,7 @@ versioning:
   - 4.2.14
   - 4.2.15
   - 4.2.16
+  - 4.2.17
   - 4.3.0-alpha.2
   - 4.3.0
   - 4.3.1
@@ -37,6 +38,7 @@ versioning:
   - 4.3.9
   - 4.3.10
   - 4.3.11
+  - 4.3.12
   - 4.4.0
   - 4.4.1
   - 4.4.2
@@ -45,4 +47,5 @@ versioning:
   - 4.4.5
   - 4.4.6
   - 4.4.7
-  lastUpdated: 20240823083043
+  - 4.4.8
+  lastUpdated: 20240830160632
