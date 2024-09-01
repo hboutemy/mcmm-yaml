@@ -3,8 +3,8 @@
 groupId: org.bridgedb.webservice
 artifactId: org.bridgedb.webservice.bridgerest
 versioning:
-  latest: 3.1.1
-  release: 3.1.1
+  latest: 3.1.2-java8
+  release: 3.1.2-java8
   versions:
   - 2.2.1
   - 2.2.2
@@ -49,4 +49,5 @@ versioning:
   - 3.0.27
   - 3.1.0
   - 3.1.1
-  lastUpdated: 20240725193013
+  - 3.1.2-java8
+  lastUpdated: 20240831081116
