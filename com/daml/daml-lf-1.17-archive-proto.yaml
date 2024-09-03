@@ -3,8 +3,8 @@
 groupId: com.daml
 artifactId: daml-lf-1.17-archive-proto
 versioning:
-  latest: 2.10.0-snapshot.20240830.12942.0.v3e4e9451
-  release: 2.10.0-snapshot.20240830.12942.0.v3e4e9451
+  latest: 2.10.0-adhoc.20240830.12942.0.v3e4e9451
+  release: 2.10.0-adhoc.20240830.12942.0.v3e4e9451
   versions:
   - 2.10.0-snapshot.20240820.12932.0.v80ffa617
   - 2.10.0-snapshot.20240821.12933.0.v8ba622fb
@@ -12,4 +12,5 @@ versioning:
   - 2.10.0-snapshot.20240826.12938.0.vc5a21340
   - 2.10.0-snapshot.20240828.12940.0.v307e0c85
   - 2.10.0-snapshot.20240830.12942.0.v3e4e9451
-  lastUpdated: 20240831104049
+  - 2.10.0-adhoc.20240830.12942.0.v3e4e9451
+  lastUpdated: 20240902090715
