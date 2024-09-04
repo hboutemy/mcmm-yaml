@@ -3,10 +3,11 @@
 groupId: io.crossplane.compositefunctions
 artifactId: crossplane-function-example
 versioning:
-  latest: 1.15.0-charlie
-  release: 1.15.0-charlie
+  latest: 1.15.0-delta
+  release: 1.15.0-delta
   versions:
-  - =1.15.0-alpha
+  - 1.15.0-delta
   - 1.15.0-beta
   - 1.15.0-charlie
-  lastUpdated: 20240627124542
+  - =1.15.0-alpha
+  lastUpdated: 20240903141220

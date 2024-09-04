@@ -7,6 +7,7 @@ versioning:
   release: 7320437640
   versions:
   - a1e1dbd8fe
+  - a3dec124aa
   - a5e0641444
   - a9f6d9f02b
   - a31d239b51
@@ -18,6 +19,8 @@ versioning:
   - b0b31d4664
   - b0e38f14b9
   - b0f811d5ba
+  - b1ad94cd1b
+  - b1c34cc9d7
   - b3aa996e1d
   - b05bfd9689
   - b5c35e0144
@@ -47,6 +50,9 @@ versioning:
   - better-swept-entity-collision-api-cff5a8af91
   - biome-fix-b0980be620
   - biome-fix-1af2f452dd
+  - block-properties-1bbf5bc4d9
+  - block-properties-24ea2c5e9c
+  - block-properties-245ecc290a
   - buffer-type-interface-2edd0cf1c0
   - c5a145cf8b
   - c7efa827a5
@@ -171,6 +177,18 @@ versioning:
   - lib-module-f28cb9104f
   - lib-module-fa98503c8c
   - lib-module-fe69d18da4
+  - light-cleanup-b3d299c0dc
+  - light-cleanup-01e8b1c524
+  - light-cleanup-6ed2d7c6d7
+  - light-cleanup-6f7634008e
+  - light-cleanup-9a4917fc8a
+  - light-cleanup-93eb5ece4e
+  - light-cleanup-392ae65e18
+  - light-cleanup-3922a066e0
+  - light-cleanup-887456d678
+  - light-cleanup-abb1666b01
+  - light-cleanup-d84c3faea0
+  - light-cleanup-da59b15943
   - light-getter-b878dd553e
   - light-getter-6b572e02e5
   - light-getter-8aedc8d04e
@@ -196,6 +214,8 @@ versioning:
   - metadata-holder-651ff36c28
   - metadata-holder-8303281a0c
   - metadata-holder-ae076b3dee
+  - namespace-record-69ed217db6
+  - namespace-record-ba402f9d10
   - next-b76a020598
   - next-b818b97165
   - next-0544d43c47
@@ -223,6 +243,9 @@ versioning:
   - recipe_manager_cleanup-642d8f4e09
   - relative-batch-improvement-f23345041d
   - remove_fakeplayer-918168684a
+  - shape-optimization-1280ef2251
+  - shape-optimization-4145181658
+  - shape-optimization-e10a8e8e5c
   - static-packet-id-b95a6eb5b4
   - static-packet-id-3cf25a1514
   - static-packet-id-5f8b659666
@@ -291,6 +314,7 @@ versioning:
   - 2b661fd48f
   - 2be6f9c507
   - 2c73b4b8f0
+  - 2d92fa6657
   - 2f5bb97908
   - 2fd79d05ee
   - 2ff143a61d
@@ -314,6 +338,7 @@ versioning:
   - 5caa7ce348
   - 5cb192157c
   - 5eb1eeaa22
+  - 5ec42c6ba9
   - 6b8a4e4cc9
   - 6b660a4e6a
   - 6c5cd6544e
@@ -353,6 +378,7 @@ versioning:
   - 59ea880d26
   - 60a83fd39b
   - 60fc9ebd28
+  - 61f7b61fa9
   - 63f02929ed
   - 65f75bb059
   - 66dc936cd6
@@ -416,4 +442,4 @@ versioning:
   - 7320437640
   - 0c9527118a
   - 0f81bc31ff
-  lastUpdated: 20240828190401
+  lastUpdated: 20240903234933

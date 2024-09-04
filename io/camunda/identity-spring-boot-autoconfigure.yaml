@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: identity-spring-boot-autoconfigure
 versioning:
-  latest: 8.5.5-RC1
-  release: 8.5.5-RC1
+  latest: 8.5.5
+  release: 8.5.5
   versions:
   - 8.4.0-RC3
   - 8.4.0-RC4
@@ -27,6 +27,7 @@ versioning:
   - 8.4.8
   - 8.4.9
   - 8.4.10
+  - 8.4.11
   - 8.5.0-RC1
   - 8.5.0
   - 8.5.1-RC1
@@ -36,4 +37,5 @@ versioning:
   - 8.5.4-RC1
   - 8.5.4
   - 8.5.5-RC1
-  lastUpdated: 20240822192516
+  - 8.5.5
+  lastUpdated: 20240903132359

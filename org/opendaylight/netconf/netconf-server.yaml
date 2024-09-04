@@ -3,8 +3,8 @@
 groupId: org.opendaylight.netconf
 artifactId: netconf-server
 versioning:
-  latest: 8.0.0
-  release: 8.0.0
+  latest: 8.0.1
+  release: 8.0.1
   versions:
   - 6.0.0
   - 6.0.1
@@ -24,5 +24,7 @@ versioning:
   - 7.0.6
   - 7.0.7
   - 7.0.8
+  - 7.0.9
   - 8.0.0
-  lastUpdated: 20240902085520
+  - 8.0.1
+  lastUpdated: 20240903172958

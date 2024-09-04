@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlinx
 artifactId: dataframe-jdbc
 versioning:
-  latest: 0.14.0-dev-4025
-  release: 0.14.0-dev-4025
+  latest: 0.14.0-dev-4055
+  release: 0.14.0-dev-4055
   versions:
   - 0.12.0
   - 0.12.0-dev-2348
@@ -108,6 +108,7 @@ versioning:
   - 0.13.2-dev-2952
   - 0.13.2-dev-2953
   - 0.13.2-dev-2958
+  - 0.14.0-RC1
   - 0.14.0-dev-2961
   - 0.14.0-dev-2969
   - 0.14.0-dev-2974
@@ -191,4 +192,7 @@ versioning:
   - 0.14.0-dev-4017
   - 0.14.0-dev-4023
   - 0.14.0-dev-4025
-  lastUpdated: 20240902193808
+  - 0.14.0-dev-4039
+  - 0.14.0-dev-4045
+  - 0.14.0-dev-4055
+  lastUpdated: 20240903174855
