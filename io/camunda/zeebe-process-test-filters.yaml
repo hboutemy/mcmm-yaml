@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-process-test-filters
 versioning:
-  latest: 8.6.0-alpha5-rc2
-  release: 8.6.0-alpha5-rc2
+  latest: 8.6.0-alpha5
+  release: 8.6.0-alpha5
   versions:
   - 1.4.0-alpha2
   - 8.0.0-rc1
@@ -95,6 +95,7 @@ versioning:
   - 8.2.28
   - 8.2.29
   - 8.2.30
+  - 8.2.31
   - 8.3.0-alpha1
   - 8.3.0-alpha2
   - 8.3.0-alpha2.2
@@ -118,6 +119,7 @@ versioning:
   - 8.3.12
   - 8.3.13
   - 8.3.14
+  - 8.3.15
   - 8.4.0-alpha1
   - 8.4.0-alpha2
   - 8.4.0
@@ -130,6 +132,7 @@ versioning:
   - 8.4.8
   - 8.4.9
   - 8.4.10
+  - 8.4.11
   - 8.5.0-alpha1
   - 8.5.0-alpha2
   - 8.5.0
@@ -139,6 +142,7 @@ versioning:
   - 8.5.4
   - 8.5.5
   - 8.5.6
+  - 8.5.7
   - 8.6.0-alpha1-rc1
   - 8.6.0-alpha1-rc2
   - 8.6.0-alpha1-rc3
@@ -153,4 +157,5 @@ versioning:
   - 8.6.0-alpha4
   - 8.6.0-alpha5-rc1
   - 8.6.0-alpha5-rc2
-  lastUpdated: 20240902101407
+  - 8.6.0-alpha5
+  lastUpdated: 20240904102339

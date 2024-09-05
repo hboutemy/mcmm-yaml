@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: release-scripts
 versioning:
-  latest: 2.27.18
-  release: 2.27.18
+  latest: 2.27.19
+  release: 2.27.19
   versions:
   - 2.1.4
   - 2.2.0
@@ -1337,4 +1337,5 @@ versioning:
   - 2.27.16
   - 2.27.17
   - 2.27.18
-  lastUpdated: 20240903202441
+  - 2.27.19
+  lastUpdated: 20240904203035
