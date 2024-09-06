@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.sonatype.nexus
 artifactId: nexus-bootstrap
 versioning:
-  latest: 3.71.0-06
-  release: 3.71.0-06
+  latest: 3.72.0-04
+  release: 3.72.0-04
   versions:
   - 2.1-RC1
   - 2.1
@@ -252,5 +251,6 @@ versioning:
   - 3.70.0-03
   - 3.70.1-02
   - 3.71.0-06
+  - 3.72.0-04
   - 2.2.1
-  lastUpdated: 20240809212959
+  lastUpdated: 20240905162503

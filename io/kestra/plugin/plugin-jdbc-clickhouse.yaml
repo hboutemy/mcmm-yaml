@@ -3,8 +3,8 @@
 groupId: io.kestra.plugin
 artifactId: plugin-jdbc-clickhouse
 versioning:
-  latest: 0.18.0
-  release: 0.18.0
+  latest: 0.18.1
+  release: 0.18.1
   versions:
   - 0.2.0
   - 0.2.1
@@ -39,4 +39,5 @@ versioning:
   - 0.16.1
   - 0.17.0
   - 0.18.0
-  lastUpdated: 20240806231253
+  - 0.18.1
+  lastUpdated: 20240905121153

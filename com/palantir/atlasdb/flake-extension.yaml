@@ -3,8 +3,8 @@
 groupId: com.palantir.atlasdb
 artifactId: flake-extension
 versioning:
-  latest: 0.1142.0
-  release: 0.1142.0
+  latest: 0.1144.0-rc4
+  release: 0.1144.0-rc4
   versions:
   - 0.973.0
   - 0.974.0
@@ -227,4 +227,8 @@ versioning:
   - 0.1141.0
   - 0.1142.0-rc1
   - 0.1142.0
-  lastUpdated: 20240903111626
+  - 0.1143.0-rc1
+  - 0.1143.0
+  - 0.1144.0-rc3
+  - 0.1144.0-rc4
+  lastUpdated: 20240905205349

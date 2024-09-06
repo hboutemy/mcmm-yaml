@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.sonatype.nexus
 artifactId: nexus-plugin-api
 versioning:
-  latest: 3.71.0-06
-  release: 3.71.0-06
+  latest: 3.72.0-04
+  release: 3.72.0-04
   versions:
   - 1.4.0
   - 1.4.1
@@ -284,5 +283,6 @@ versioning:
   - 3.70.0-03
   - 3.70.1-02
   - 3.71.0-06
+  - 3.72.0-04
   - 2.2.1
-  lastUpdated: 20240809213011
+  lastUpdated: 20240905162504
