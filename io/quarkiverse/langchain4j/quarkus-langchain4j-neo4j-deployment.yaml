@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.langchain4j
 artifactId: quarkus-langchain4j-neo4j-deployment
 versioning:
-  latest: 0.17.2
-  release: 0.17.2
+  latest: 0.18.0.CR1
+  release: 0.18.0.CR1
   versions:
   - 0.13.1
   - 0.14.0
@@ -21,4 +21,5 @@ versioning:
   - 0.17.0
   - 0.17.1
   - 0.17.2
-  lastUpdated: 20240828125609
+  - 0.18.0.CR1
+  lastUpdated: 20240906150736

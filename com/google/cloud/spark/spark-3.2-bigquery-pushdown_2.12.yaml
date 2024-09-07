@@ -3,8 +3,8 @@
 groupId: com.google.cloud.spark
 artifactId: spark-3.2-bigquery-pushdown_2.12
 versioning:
-  latest: 0.40.0
-  release: 0.40.0
+  latest: 0.41.0
+  release: 0.41.0
   versions:
   - 0.27.1
   - 0.28.0
@@ -30,4 +30,5 @@ versioning:
   - 0.39.0
   - 0.39.1
   - 0.40.0
-  lastUpdated: 20240806075550
+  - 0.41.0
+  lastUpdated: 20240906030316

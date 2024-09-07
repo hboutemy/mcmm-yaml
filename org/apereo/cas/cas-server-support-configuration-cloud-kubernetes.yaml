@@ -3,8 +3,8 @@
 groupId: org.apereo.cas
 artifactId: cas-server-support-configuration-cloud-kubernetes
 versioning:
-  latest: 7.1.0-RC6
-  release: 7.1.0-RC6
+  latest: 7.1.0
+  release: 7.1.0
   versions:
   - 6.5.0-RC5
   - 6.5.0
@@ -68,4 +68,5 @@ versioning:
   - 7.1.0-RC4
   - 7.1.0-RC5
   - 7.1.0-RC6
-  lastUpdated: 20240831072240
+  - 7.1.0
+  lastUpdated: 20240906073743

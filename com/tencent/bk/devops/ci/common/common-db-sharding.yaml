@@ -3,8 +3,8 @@
 groupId: com.tencent.bk.devops.ci.common
 artifactId: common-db-sharding
 versioning:
-  latest: 2.1.3
-  release: 2.1.3
+  latest: 3.0.0-rc.1
+  release: 3.0.0-rc.1
   versions:
   - 1.8.0-RC.2-RELEASE
   - 1.8.0-RC.3-RELEASE
@@ -22,4 +22,5 @@ versioning:
   - 2.1.0-rc.2
   - 2.1.0
   - 2.1.3
-  lastUpdated: 20240528083846
+  - 3.0.0-rc.1
+  lastUpdated: 20240906071538

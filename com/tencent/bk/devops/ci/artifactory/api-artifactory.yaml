@@ -3,8 +3,8 @@
 groupId: com.tencent.bk.devops.ci.artifactory
 artifactId: api-artifactory
 versioning:
-  latest: 2.1.3
-  release: 2.1.3
+  latest: 3.0.0-rc.1
+  release: 3.0.0-rc.1
   versions:
   - 1.1.2-RELEASE
   - 1.1.10-RELEASE
@@ -55,5 +55,6 @@ versioning:
   - 2.1.0-rc.2
   - 2.1.0
   - 2.1.3
+  - 3.0.0-rc.1
   - 1.4.0-RELEASE
-  lastUpdated: 20240528083709
+  lastUpdated: 20240906071505
