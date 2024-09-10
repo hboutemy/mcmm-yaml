@@ -3,8 +3,8 @@
 groupId: com.alibaba.csp
 artifactId: spring-boot-starter-ahas-sentinel-client
 versioning:
-  latest: 1.11.7
-  release: 1.11.7
+  latest: 1.11.7-safe
+  release: 1.11.7-safe
   versions:
   - 1.0.0
   - 1.0.0-paas
@@ -91,4 +91,5 @@ versioning:
   - 1.11.5
   - 1.11.6
   - 1.11.7
-  lastUpdated: 20230602075928
+  - 1.11.7-safe
+  lastUpdated: 20240909075600

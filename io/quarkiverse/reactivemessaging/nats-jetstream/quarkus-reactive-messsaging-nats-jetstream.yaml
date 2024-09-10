@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.reactivemessaging.nats-jetstream
 artifactId: quarkus-reactive-messsaging-nats-jetstream
 versioning:
-  latest: 1.12.1
-  release: 1.12.1
+  latest: 1.13.1
+  release: 1.13.1
   versions:
   - 1.1.2
   - 1.1.3
@@ -70,4 +70,6 @@ versioning:
   - 1.11.0
   - 1.12.0
   - 1.12.1
-  lastUpdated: 20240903071505
+  - 1.13.0
+  - 1.13.1
+  lastUpdated: 20240909124232

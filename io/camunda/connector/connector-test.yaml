@@ -3,8 +3,8 @@
 groupId: io.camunda.connector
 artifactId: connector-test
 versioning:
-  latest: 8.6.0-alpha4
-  release: 8.6.0-alpha4
+  latest: 8.6.0-alpha5
+  release: 8.6.0-alpha5
   versions:
   - 0.11.0
   - 0.11.1
@@ -32,6 +32,7 @@ versioning:
   - 8.3.13
   - 8.3.14
   - 8.3.15
+  - 8.3.16
   - 8.4.0-alpha1
   - 8.4.0-alpha2
   - 8.4.0
@@ -45,6 +46,7 @@ versioning:
   - 8.4.8
   - 8.4.9
   - 8.4.10
+  - 8.4.11
   - 8.5.0-alpha1
   - 8.5.0-alpha2
   - 8.5.0
@@ -54,10 +56,12 @@ versioning:
   - 8.5.4
   - 8.5.5
   - 8.5.6
+  - 8.5.7
   - 8.6.0-alpha1
   - 8.6.0-alpha2
   - 8.6.0-alpha2.1
   - 8.6.0-alpha3
   - 8.6.0-alpha3.1
   - 8.6.0-alpha4
-  lastUpdated: 20240822090505
+  - 8.6.0-alpha5
+  lastUpdated: 20240909120808

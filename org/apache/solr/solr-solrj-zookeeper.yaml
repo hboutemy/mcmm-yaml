@@ -3,8 +3,8 @@
 groupId: org.apache.solr
 artifactId: solr-solrj-zookeeper
 versioning:
-  latest: 9.6.1
-  release: 9.6.1
+  latest: 9.7.0
+  release: 9.7.0
   versions:
   - 9.1.0
   - 9.1.1
@@ -16,4 +16,5 @@ versioning:
   - 9.5.0
   - 9.6.0
   - 9.6.1
-  lastUpdated: 20240529205912
+  - 9.7.0
+  lastUpdated: 20240909170423

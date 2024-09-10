@@ -3,8 +3,8 @@
 groupId: com.tencent.qqmini
 artifactId: minigame_open_sdk_all
 versioning:
-  latest: 1.71.5.3
-  release: 1.71.5.3
+  latest: 1.71.5.3_support_ITC
+  release: 1.71.5.3_support_ITC
   versions:
   - 0.0.0.999
   - 1.56.0
@@ -97,4 +97,6 @@ versioning:
   - 1.71.5.1_mp
   - 1.71.5.2_mp
   - 1.71.5.3
-  lastUpdated: 20240903045154
+  - 1.71.5.3_automotive
+  - 1.71.5.3_support_ITC
+  lastUpdated: 20240909122753
