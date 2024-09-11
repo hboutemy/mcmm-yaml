@@ -3,8 +3,8 @@
 groupId: com.tencent.bk.devops.ci.dispatch
 artifactId: api-dispatch-kubernetes
 versioning:
-  latest: 3.0.0-rc.1
-  release: 3.0.0-rc.1
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 1.13.0
   - 1.14.0-rc.1
@@ -12,4 +12,5 @@ versioning:
   - 2.1.0
   - 2.1.3
   - 3.0.0-rc.1
-  lastUpdated: 20240906071633
+  - 3.0.0
+  lastUpdated: 20240910094341

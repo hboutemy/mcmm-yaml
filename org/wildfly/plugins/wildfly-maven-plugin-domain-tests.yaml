@@ -3,8 +3,8 @@
 groupId: org.wildfly.plugins
 artifactId: wildfly-maven-plugin-domain-tests
 versioning:
-  latest: 5.0.0.Final
-  release: 5.0.0.Final
+  latest: 5.0.1.Final
+  release: 5.0.1.Final
   versions:
   - 4.1.1.Final
   - 4.2.0.Alpha1
@@ -19,4 +19,5 @@ versioning:
   - 5.0.0.Beta4
   - 5.0.0.Beta5
   - 5.0.0.Final
-  lastUpdated: 20240412025119
+  - 5.0.1.Final
+  lastUpdated: 20240910024034

@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat
 artifactId: tomcat-util-scan
 versioning:
-  latest: 11.0.0-M24
-  release: 11.0.0-M24
+  latest: 11.0.0-M25
+  release: 11.0.0-M25
   versions:
   - 8.0.0-RC10
   - 8.0.1
@@ -228,6 +228,7 @@ versioning:
   - 9.0.90
   - 9.0.91
   - 9.0.93
+  - 9.0.94
   - 10.0.0-M1
   - 10.0.0-M3
   - 10.0.0-M4
@@ -297,6 +298,7 @@ versioning:
   - 10.1.25
   - 10.1.26
   - 10.1.28
+  - 10.1.29
   - 11.0.0-M1
   - 11.0.0-M3
   - 11.0.0-M4
@@ -318,4 +320,5 @@ versioning:
   - 11.0.0-M21
   - 11.0.0-M22
   - 11.0.0-M24
-  lastUpdated: 20240806145018
+  - 11.0.0-M25
+  lastUpdated: 20240910202108
