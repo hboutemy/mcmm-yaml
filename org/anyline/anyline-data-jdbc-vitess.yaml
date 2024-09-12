@@ -3,9 +3,13 @@
 groupId: org.anyline
 artifactId: anyline-data-jdbc-vitess
 versioning:
-  latest: 8.7.2-20240909
-  release: 8.7.2-20240909
+  latest: 8.7.2-20240911
+  release: 8.7.2-20240911
   versions:
+  - 8.7.2-jdk11-20240911
+  - 8.7.2-jdk17-20240911
+  - 8.7.2-jdk21-20240911
   - 8.7.2-20240905
   - 8.7.2-20240909
-  lastUpdated: 20240909124236
+  - 8.7.2-20240911
+  lastUpdated: 20240911052904

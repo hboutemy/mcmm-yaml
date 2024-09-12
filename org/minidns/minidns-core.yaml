@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.minidns
 artifactId: minidns-core
 versioning:
@@ -15,7 +16,6 @@ versioning:
   - 0.4.0-alpha1
   - 0.4.0-alpha2
   - 0.4.0-alpha3
-  - 0.4.0-alpha4
   - 0.4.0-alpha5
   - 0.4.0-alpha6
   - 1.0.0
@@ -25,4 +25,5 @@ versioning:
   - 1.0.4
   - 1.0.5
   - 1.1.0-alpha2
-  lastUpdated: 20240401193908
+  - 0.4.0-alpha4
+  lastUpdated: 20240911001548

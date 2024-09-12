@@ -3,8 +3,13 @@
 groupId: xyz.block.ftl
 artifactId: ftl-kotlin-runtime-parent
 versioning:
-  latest: jvm-publish
-  release: jvm-publish
+  latest: v0.361.3
+  release: v0.361.3
   versions:
   - jvm-publish
-  lastUpdated: 20240910081551
+  - main
+  - v0.361.0
+  - v0.361.1
+  - v0.361.2
+  - v0.361.3
+  lastUpdated: 20240911221012

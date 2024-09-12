@@ -3,8 +3,8 @@
 groupId: io.ebean
 artifactId: ebean-postgis-types
 versioning:
-  latest: 15.5.1
-  release: 15.5.1
+  latest: 15.5.2
+  release: 15.5.2
   versions:
   - 13.23.0
   - 13.23.0-jakarta
@@ -45,6 +45,8 @@ versioning:
   - 14.5.0-javax
   - 14.5.1
   - 14.5.1-javax
+  - 14.5.2
+  - 14.5.2-javax
   - 15.0.0-RC
   - 15.0.1
   - 15.0.2
@@ -54,4 +56,5 @@ versioning:
   - 15.4.0
   - 15.5.0
   - 15.5.1
-  lastUpdated: 20240902200732
+  - 15.5.2
+  lastUpdated: 20240911094140
