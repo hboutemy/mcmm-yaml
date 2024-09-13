@@ -3,8 +3,8 @@
 groupId: org.yamcs
 artifactId: yamcs-rocksdb
 versioning:
-  latest: 9.4.0.6
-  release: 9.4.0.6
+  latest: 9.4.0.9-core2
+  release: 9.4.0.9-core2
   versions:
   - 9.4.0.0
   - 9.4.0.1
@@ -13,4 +13,7 @@ versioning:
   - 9.4.0.4
   - 9.4.0.5
   - 9.4.0.6
-  lastUpdated: 20240807113526
+  - 9.4.0.7
+  - 9.4.0.8-core2
+  - 9.4.0.9-core2
+  lastUpdated: 20240912153909

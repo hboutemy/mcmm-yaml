@@ -3,8 +3,8 @@
 groupId: io.streamnative.pulsar.handlers
 artifactId: kafka-payload-processor
 versioning:
-  latest: 3.3.1.4
-  release: 3.3.1.4
+  latest: 3.3.1.5
+  release: 3.3.1.5
   versions:
   - 2.9.1.3
   - 2.9.1.4
@@ -238,4 +238,5 @@ versioning:
   - 3.3.1.2
   - 3.3.1.3
   - 3.3.1.4
-  lastUpdated: 20240903092509
+  - 3.3.1.5
+  lastUpdated: 20240912030105
