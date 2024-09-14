@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-server-sqs
 versioning:
-  latest: 3.0.0.Beta1
-  release: 3.0.0.Beta1
+  latest: 3.0.0.CR1
+  release: 3.0.0.CR1
   versions:
   - 2.5.0.CR1
   - 2.5.0.Final
@@ -28,4 +28,5 @@ versioning:
   - 3.0.0.Alpha1
   - 3.0.0.Alpha2
   - 3.0.0.Beta1
-  lastUpdated: 20240905092944
+  - 3.0.0.CR1
+  lastUpdated: 20240913114100

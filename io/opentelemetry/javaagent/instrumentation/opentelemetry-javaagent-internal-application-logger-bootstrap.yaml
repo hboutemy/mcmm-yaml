@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-internal-application-logger-bootstrap
 versioning:
-  latest: 2.7.0-alpha
-  release: 2.7.0-alpha
+  latest: 2.8.0-alpha
+  release: 2.8.0-alpha
   versions:
   - 1.25.0-alpha
   - 1.25.1-alpha
@@ -31,4 +31,5 @@ versioning:
   - 2.5.0-alpha
   - 2.6.0-alpha
   - 2.7.0-alpha
-  lastUpdated: 20240822134303
+  - 2.8.0-alpha
+  lastUpdated: 20240913212730

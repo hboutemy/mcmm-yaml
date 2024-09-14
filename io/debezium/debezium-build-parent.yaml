@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-build-parent
 versioning:
-  latest: 3.0.0.Beta1
-  release: 3.0.0.Beta1
+  latest: 3.0.0.CR1
+  release: 3.0.0.CR1
   versions:
   - 1.5.0.Beta2
   - 1.5.0.CR1
@@ -115,4 +115,5 @@ versioning:
   - 3.0.0.Alpha1
   - 3.0.0.Alpha2
   - 3.0.0.Beta1
-  lastUpdated: 20240905092613
+  - 3.0.0.CR1
+  lastUpdated: 20240913114346

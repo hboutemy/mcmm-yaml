@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-storage-azure-blob
 versioning:
-  latest: 3.0.0.Beta1
-  release: 3.0.0.Beta1
+  latest: 3.0.0.CR1
+  release: 3.0.0.CR1
   versions:
   - 2.2.0.Beta1
   - 2.2.0.CR1
@@ -54,4 +54,5 @@ versioning:
   - 3.0.0.Alpha1
   - 3.0.0.Alpha2
   - 3.0.0.Beta1
-  lastUpdated: 20240905092640
+  - 3.0.0.CR1
+  lastUpdated: 20240913114412

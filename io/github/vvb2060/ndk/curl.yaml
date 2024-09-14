@@ -3,8 +3,8 @@
 groupId: io.github.vvb2060.ndk
 artifactId: curl
 versioning:
-  latest: 8.9.1-lto-ndk27
-  release: 8.9.1-lto-ndk27
+  latest: 8.10.0-lto-ndk27
+  release: 8.10.0-lto-ndk27
   versions:
   - 7.75.0
   - 7.83.0
@@ -27,4 +27,6 @@ versioning:
   - 8.8.0
   - 8.9.1
   - 8.9.1-lto-ndk27
-  lastUpdated: 20240804162108
+  - 8.10.0
+  - 8.10.0-lto-ndk27
+  lastUpdated: 20240913175652
