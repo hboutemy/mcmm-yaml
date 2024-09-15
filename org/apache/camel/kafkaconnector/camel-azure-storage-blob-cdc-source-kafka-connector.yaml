@@ -3,8 +3,8 @@
 groupId: org.apache.camel.kafkaconnector
 artifactId: camel-azure-storage-blob-cdc-source-kafka-connector
 versioning:
-  latest: 4.4.2
-  release: 4.4.2
+  latest: 4.4.3
+  release: 4.4.3
   versions:
   - 3.19.0
   - 3.20.0
@@ -14,4 +14,5 @@ versioning:
   - 4.0.0
   - 4.0.3
   - 4.4.2
-  lastUpdated: 20240603124806
+  - 4.4.3
+  lastUpdated: 20240914145636

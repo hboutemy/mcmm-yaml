@@ -3,8 +3,8 @@
 groupId: org.apache.camel.kafkaconnector
 artifactId: camel-kafka-connector-catalog-descriptor-maven-plugin
 versioning:
-  latest: 4.4.2
-  release: 4.4.2
+  latest: 4.4.3
+  release: 4.4.3
   versions:
   - 0.6.0
   - 0.6.1
@@ -28,4 +28,5 @@ versioning:
   - 4.0.0
   - 4.0.3
   - 4.4.2
-  lastUpdated: 20240603130008
+  - 4.4.3
+  lastUpdated: 20240914150616

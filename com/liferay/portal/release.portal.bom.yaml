@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.liferay.portal
 artifactId: release.portal.bom
 versioning:
-  latest: 7.4.3.120
-  release: 7.4.3.120
+  latest: 7.4.3.125-ga125
+  release: 7.4.3.125-ga125
   versions:
   - 7.0.6
   - 7.0.6-1
@@ -148,6 +148,6 @@ versioning:
   - 7.4.3.112
   - 7.4.3.112-ga112
   - 7.4.3.120
-  - 7.4.3.120-ga120
   - 7.4.3.125-ga125
-  lastUpdated: 20240614101105
+  - 7.4.3.120-ga120
+  lastUpdated: 20240914103952
