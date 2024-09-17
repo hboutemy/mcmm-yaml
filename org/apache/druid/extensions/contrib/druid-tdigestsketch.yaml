@@ -3,8 +3,8 @@
 groupId: org.apache.druid.extensions.contrib
 artifactId: druid-tdigestsketch
 versioning:
-  latest: 30.0.0
-  release: 30.0.0
+  latest: 30.0.1
+  release: 30.0.1
   versions:
   - 0.16.0-incubating
   - 0.16.1-incubating
@@ -31,4 +31,5 @@ versioning:
   - 28.0.1
   - 29.0.0
   - 30.0.0
-  lastUpdated: 20240614034818
+  - 30.0.1
+  lastUpdated: 20240916034400

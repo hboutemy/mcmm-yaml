@@ -3,8 +3,8 @@
 groupId: org.apache.druid
 artifactId: druid-gcp-common
 versioning:
-  latest: 30.0.0
-  release: 30.0.0
+  latest: 30.0.1
+  release: 30.0.1
   versions:
   - 0.15.0-incubating
   - 0.15.1-incubating
@@ -33,4 +33,5 @@ versioning:
   - 28.0.1
   - 29.0.0
   - 30.0.0
-  lastUpdated: 20240614033743
+  - 30.0.1
+  lastUpdated: 20240916033645
