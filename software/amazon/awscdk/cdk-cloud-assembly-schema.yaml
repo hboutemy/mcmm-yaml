@@ -3,8 +3,8 @@
 groupId: software.amazon.awscdk
 artifactId: cdk-cloud-assembly-schema
 versioning:
-  latest: 36.0.25
-  release: 36.0.25
+  latest: 36.1.1
+  release: 36.1.1
   versions:
   - 1.33.0
   - 1.33.1
@@ -481,4 +481,6 @@ versioning:
   - 36.0.23
   - 36.0.24
   - 36.0.25
-  lastUpdated: 20240911234859
+  - 36.1.0
+  - 36.1.1
+  lastUpdated: 20240917115003
