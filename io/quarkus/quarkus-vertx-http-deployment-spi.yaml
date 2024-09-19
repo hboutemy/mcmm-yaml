@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-vertx-http-deployment-spi
 versioning:
-  latest: 3.15.0.CR1
-  release: 3.15.0.CR1
+  latest: 3.15.0
+  release: 3.15.0
   versions:
   - 2.4.2.Final
   - 2.5.0.CR1
@@ -194,4 +194,5 @@ versioning:
   - 3.14.3
   - 3.14.4
   - 3.15.0.CR1
-  lastUpdated: 20240914105802
+  - 3.15.0
+  lastUpdated: 20240918115037

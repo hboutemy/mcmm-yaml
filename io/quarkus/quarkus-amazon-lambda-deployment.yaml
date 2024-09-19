@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-amazon-lambda-deployment
 versioning:
-  latest: 3.15.0.CR1
-  release: 3.15.0.CR1
+  latest: 3.15.0
+  release: 3.15.0
   versions:
   - 0.13.0
   - 0.13.1
@@ -329,4 +329,5 @@ versioning:
   - 3.14.3
   - 3.14.4
   - 3.15.0.CR1
-  lastUpdated: 20240914105134
+  - 3.15.0
+  lastUpdated: 20240918114447

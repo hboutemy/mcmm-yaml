@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-enforcer-rules
 versioning:
-  latest: 3.15.0.CR1
-  release: 3.15.0.CR1
+  latest: 3.15.0
+  release: 3.15.0
   versions:
   - 1.8.0.Final
   - 1.8.1.Final
@@ -262,4 +262,5 @@ versioning:
   - 3.14.3
   - 3.14.4
   - 3.15.0.CR1
-  lastUpdated: 20240914105252
+  - 3.15.0
+  lastUpdated: 20240918114556

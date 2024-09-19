@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-keycloak-admin-client-deployment
 versioning:
-  latest: 3.15.0.CR1
-  release: 3.15.0.CR1
+  latest: 3.15.0
+  release: 3.15.0
   versions:
   - 1.4.0.CR1
   - 1.4.0.Final
@@ -283,4 +283,5 @@ versioning:
   - 3.14.3
   - 3.14.4
   - 3.15.0.CR1
-  lastUpdated: 20240914105415
+  - 3.15.0
+  lastUpdated: 20240918114711

@@ -3,8 +3,8 @@
 groupId: org.apache.spark
 artifactId: spark-streaming-kafka-0-10_2.12
 versioning:
-  latest: 3.5.2
-  release: 3.5.2
+  latest: 3.5.3
+  release: 3.5.3
   versions:
   - 2.4.0
   - 2.4.1
@@ -42,4 +42,5 @@ versioning:
   - 3.5.0
   - 3.5.1
   - 3.5.2
-  lastUpdated: 20240810135020
+  - 3.5.3
+  lastUpdated: 20240918044227

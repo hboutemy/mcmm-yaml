@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.protobuf
 artifactId: protobuf-java
 versioning:
-  latest: 4.28.1
-  release: 4.28.1
+  latest: 4.28.2
+  release: 4.28.2
   versions:
   - 2.0.1
   - 2.0.3
@@ -154,6 +154,7 @@ versioning:
   - 3.25.2
   - 3.25.3
   - 3.25.4
+  - 3.25.5
   - 4.0.0-rc-1
   - 4.0.0-rc-2
   - 4.26.0-RC1
@@ -169,9 +170,11 @@ versioning:
   - 4.27.2
   - 4.27.3
   - 4.27.4
+  - 4.27.5
   - 4.28.0-RC1
   - 4.28.0-RC2
   - 4.28.0-RC3
   - 4.28.0
   - 4.28.1
-  lastUpdated: 20240911182450
+  - 4.28.2
+  lastUpdated: 20240918225710

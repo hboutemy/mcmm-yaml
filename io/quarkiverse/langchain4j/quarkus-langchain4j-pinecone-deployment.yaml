@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.langchain4j
 artifactId: quarkus-langchain4j-pinecone-deployment
 versioning:
-  latest: 0.18.0.CR1
-  release: 0.18.0.CR1
+  latest: 0.18.0
+  release: 0.18.0
   versions:
   - 0.3.0
   - 0.4.0
@@ -53,4 +53,5 @@ versioning:
   - 0.17.1
   - 0.17.2
   - 0.18.0.CR1
-  lastUpdated: 20240906150747
+  - 0.18.0
+  lastUpdated: 20240918085842

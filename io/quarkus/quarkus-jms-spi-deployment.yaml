@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-jms-spi-deployment
 versioning:
-  latest: 3.15.0.CR1
-  release: 3.15.0.CR1
+  latest: 3.15.0
+  release: 3.15.0
   versions:
   - 2.16.2.Final
   - 2.16.3.Final
@@ -121,4 +121,5 @@ versioning:
   - 3.14.3
   - 3.14.4
   - 3.15.0.CR1
-  lastUpdated: 20240914105403
+  - 3.15.0
+  lastUpdated: 20240918114701
