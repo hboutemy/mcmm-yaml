@@ -3,8 +3,8 @@
 groupId: org.opendaylight.netconf
 artifactId: transport-tcp
 versioning:
-  latest: 8.0.1
-  release: 8.0.1
+  latest: 8.0.2
+  release: 8.0.2
   versions:
   - 4.0.3
   - 4.0.4
@@ -45,4 +45,5 @@ versioning:
   - 7.0.9
   - 8.0.0
   - 8.0.1
-  lastUpdated: 20240903174752
+  - 8.0.2
+  lastUpdated: 20240919114947
