@@ -3,8 +3,8 @@
 groupId: io.deltastream
 artifactId: flink-connector-snowflake
 versioning:
-  latest: 1.0.11-1.18
-  release: 1.0.11-1.18
+  latest: 1.0.12rc3-1.18-j11
+  release: 1.0.12rc3-1.18-j11
   versions:
   - 1.0.7rc1-1.17
   - 1.0.7-1.17
@@ -13,4 +13,6 @@ versioning:
   - 1.0.9-1.18
   - 1.0.10-1.18
   - 1.0.11-1.18
-  lastUpdated: 20240603212511
+  - 1.0.12rc3-1.18
+  - 1.0.12rc3-1.18-j11
+  lastUpdated: 20240920213136
