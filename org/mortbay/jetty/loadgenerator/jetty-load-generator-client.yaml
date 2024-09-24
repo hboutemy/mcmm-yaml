@@ -3,8 +3,8 @@
 groupId: org.mortbay.jetty.loadgenerator
 artifactId: jetty-load-generator-client
 versioning:
-  latest: 4.0.11
-  release: 4.0.11
+  latest: 4.0.13
+  release: 4.0.13
   versions:
   - 0.1
   - 0.2
@@ -38,6 +38,7 @@ versioning:
   - 2.1.8
   - 2.1.9
   - 2.1.10
+  - 2.1.12
   - 3.1.0
   - 3.1.1
   - 3.1.2
@@ -64,4 +65,5 @@ versioning:
   - 4.0.7
   - 4.0.9
   - 4.0.11
-  lastUpdated: 20240708103129
+  - 4.0.13
+  lastUpdated: 20240923123235
