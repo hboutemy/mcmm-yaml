@@ -3,8 +3,8 @@
 groupId: io.camunda.spring
 artifactId: camunda-sdk-java
 versioning:
-  latest: 8.5.10
-  release: 8.5.10
+  latest: 8.5.11
+  release: 8.5.11
   versions:
   - 8.3.2-rc1
   - 8.3.2-rc2
@@ -54,6 +54,7 @@ versioning:
   - 8.4.8
   - 8.4.9
   - 8.4.10
+  - 8.4.11
   - 8.5.0-alpha2
   - 8.5.0-rc1
   - 8.5.0-rc2
@@ -68,4 +69,5 @@ versioning:
   - 8.5.8
   - 8.5.9
   - 8.5.10
-  lastUpdated: 20240823073816
+  - 8.5.11
+  lastUpdated: 20240924105851

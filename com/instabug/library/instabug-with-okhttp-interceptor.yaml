@@ -3,8 +3,8 @@
 groupId: com.instabug.library
 artifactId: instabug-with-okhttp-interceptor
 versioning:
-  latest: 13.4.1
-  release: 13.4.1
+  latest: 13.4.1-no-diagnostics
+  release: 13.4.1-no-diagnostics
   versions:
   - 1.0.0-no-diagnostics
   - 3.3.0
@@ -194,4 +194,5 @@ versioning:
   - 13.3.0
   - 13.4.0
   - 13.4.1
-  lastUpdated: 20240917131641
+  - 13.4.1-no-diagnostics
+  lastUpdated: 20240924105932

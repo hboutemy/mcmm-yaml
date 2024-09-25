@@ -3,8 +3,8 @@
 groupId: com.instabug.library
 artifactId: instabug-apm-grpc-interceptor
 versioning:
-  latest: 13.4.1
-  release: 13.4.1
+  latest: 13.4.1-no-diagnostics
+  release: 13.4.1-no-diagnostics
   versions:
   - 1.0.0-no-diagnostics
   - 10.13.0
@@ -55,4 +55,5 @@ versioning:
   - 13.3.0
   - 13.4.0
   - 13.4.1
-  lastUpdated: 20240917131610
+  - 13.4.1-no-diagnostics
+  lastUpdated: 20240924105907
