@@ -3,8 +3,8 @@
 groupId: org.codehaus.cargo
 artifactId: cargo-daemon-itests-deployable-on-jetty
 versioning:
-  latest: 1.10.14
-  release: 1.10.14
+  latest: 1.10.15
+  release: 1.10.15
   versions:
   - 1.4.14
   - 1.4.15
@@ -78,6 +78,7 @@ versioning:
   - 1.10.12
   - 1.10.13
   - 1.10.14
+  - 1.10.15
   - 1.3.2
   - 1.3.3
   - 1.4.0
@@ -94,4 +95,4 @@ versioning:
   - 1.4.7
   - 1.4.8
   - 1.4.9
-  lastUpdated: 20240702195818
+  lastUpdated: 20240925214126

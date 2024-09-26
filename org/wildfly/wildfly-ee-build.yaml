@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-ee-build
 versioning:
-  latest: 33.0.2.Final
-  release: 33.0.2.Final
+  latest: 34.0.0.Beta1
+  release: 34.0.0.Beta1
   versions:
   - 19.0.0.Beta2
   - 19.0.0.Beta3
@@ -66,4 +66,5 @@ versioning:
   - 33.0.0.Final
   - 33.0.1.Final
   - 33.0.2.Final
-  lastUpdated: 20240916175424
+  - 34.0.0.Beta1
+  lastUpdated: 20240925161743

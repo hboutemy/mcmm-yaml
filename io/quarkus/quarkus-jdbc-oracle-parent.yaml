@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-jdbc-oracle-parent
 versioning:
-  latest: 3.15.0
-  release: 3.15.0
+  latest: 3.15.1
+  release: 3.15.1
   versions:
   - 1.13.2.Final
   - 1.13.3.Final
@@ -230,4 +230,5 @@ versioning:
   - 3.14.4
   - 3.15.0.CR1
   - 3.15.0
-  lastUpdated: 20240918114658
+  - 3.15.1
+  lastUpdated: 20240925221302
