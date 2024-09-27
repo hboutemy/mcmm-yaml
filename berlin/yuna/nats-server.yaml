@@ -3,8 +3,8 @@
 groupId: berlin.yuna
 artifactId: nats-server
 versioning:
-  latest: 2.10.20
-  release: 2.10.20
+  latest: 2.10.21-rc.1
+  release: 2.10.21-rc.1
   versions:
   - 2.1.0
   - 2.1.1
@@ -164,4 +164,5 @@ versioning:
   - 2.10.19-rc.6
   - 2.10.19
   - 2.10.20
-  lastUpdated: 20240830071544
+  - 2.10.21-rc.1
+  lastUpdated: 20240926071605

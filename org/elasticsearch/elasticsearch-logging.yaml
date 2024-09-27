@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-logging
 versioning:
-  latest: 8.15.1
-  release: 8.15.1
+  latest: 8.15.2
+  release: 8.15.2
   versions:
   - 8.4.0
   - 8.4.1
@@ -49,4 +49,5 @@ versioning:
   - 8.14.3
   - 8.15.0
   - 8.15.1
-  lastUpdated: 20240905170707
+  - 8.15.2
+  lastUpdated: 20240926085210

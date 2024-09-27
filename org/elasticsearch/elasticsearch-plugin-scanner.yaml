@@ -3,8 +3,8 @@
 groupId: org.elasticsearch
 artifactId: elasticsearch-plugin-scanner
 versioning:
-  latest: 8.15.1
-  release: 8.15.1
+  latest: 8.15.2
+  release: 8.15.2
   versions:
   - 8.7.0
   - 8.7.1
@@ -38,4 +38,5 @@ versioning:
   - 8.14.3
   - 8.15.0
   - 8.15.1
-  lastUpdated: 20240905170711
+  - 8.15.2
+  lastUpdated: 20240926085214

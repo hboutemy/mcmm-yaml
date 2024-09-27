@@ -3,8 +3,8 @@
 groupId: org.neo4j.community
 artifactId: kernel-it
 versioning:
-  latest: 5.23.0
-  release: 5.23.0
+  latest: 5.24.0
+  release: 5.24.0
   versions:
   - 3.5.0-alpha02
   - 3.5.0-alpha03
@@ -190,4 +190,5 @@ versioning:
   - 5.21.2
   - 5.22.0
   - 5.23.0
-  lastUpdated: 20240903124825
+  - 5.24.0
+  lastUpdated: 20240926103100
