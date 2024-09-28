@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: pulsar-io-jdbc
 versioning:
-  latest: 3.3.1
-  release: 3.3.1
+  latest: 4.0.0-preview.1
+  release: 4.0.0-preview.1
   versions:
   - 2.2.0
   - 2.2.1
@@ -67,4 +67,5 @@ versioning:
   - 3.2.4
   - 3.3.0
   - 3.3.1
-  lastUpdated: 20240801184606
+  - 4.0.0-preview.1
+  lastUpdated: 20240927132058

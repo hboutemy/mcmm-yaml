@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: pulsar-package-bookkeeper-storage
 versioning:
-  latest: 3.3.1
-  release: 3.3.1
+  latest: 4.0.0-preview.1
+  release: 4.0.0-preview.1
   versions:
   - 2.8.0
   - 2.8.1
@@ -45,4 +45,5 @@ versioning:
   - 3.2.4
   - 3.3.0
   - 3.3.1
-  lastUpdated: 20240801184820
+  - 4.0.0-preview.1
+  lastUpdated: 20240927132423

@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.langchain4j
 artifactId: quarkus-langchain4j-qdrant
 versioning:
-  latest: 0.19.0.CR1
-  release: 0.19.0.CR1
+  latest: 0.19.0.CR3
+  release: 0.19.0.CR3
   versions:
   - 0.10.0
   - 0.10.1
@@ -34,4 +34,6 @@ versioning:
   - 0.18.0.CR1
   - 0.18.0
   - 0.19.0.CR1
-  lastUpdated: 20240924124848
+  - 0.19.0.CR2
+  - 0.19.0.CR3
+  lastUpdated: 20240927142539
