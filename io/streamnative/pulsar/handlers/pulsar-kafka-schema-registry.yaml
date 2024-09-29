@@ -3,8 +3,8 @@
 groupId: io.streamnative.pulsar.handlers
 artifactId: pulsar-kafka-schema-registry
 versioning:
-  latest: 3.3.1.6
-  release: 3.3.1.6
+  latest: 3.3.1.7
+  release: 3.3.1.7
   versions:
   - 2.11.0.1
   - 2.11.0.2
@@ -125,4 +125,5 @@ versioning:
   - 3.3.1.4
   - 3.3.1.5
   - 3.3.1.6
-  lastUpdated: 20240927145453
+  - 3.3.1.7
+  lastUpdated: 20240928005707
