@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: identity-provider-management
 versioning:
-  latest: 7.5.26
-  release: 7.5.26
+  latest: 7.5.28
+  release: 7.5.28
   versions:
   - 5.5.0
   - 5.5.1
@@ -2425,4 +2425,6 @@ versioning:
   - 7.5.24
   - 7.5.25
   - 7.5.26
-  lastUpdated: 20240928192323
+  - 7.5.27
+  - 7.5.28
+  lastUpdated: 20240929195100
