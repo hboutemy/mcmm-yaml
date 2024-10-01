@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.rendering
 artifactId: xwiki-rendering-archetype-macro
 versioning:
-  latest: 16.8.0-rc-1
-  release: 16.8.0-rc-1
+  latest: 16.8.0
+  release: 16.8.0
   versions:
   - 3.2-milestone-3
   - 3.2-rc-1
@@ -487,4 +487,5 @@ versioning:
   - 16.7.0
   - 16.7.1
   - 16.8.0-rc-1
-  lastUpdated: 20240917123024
+  - 16.8.0
+  lastUpdated: 20240930155716

@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.langchain4j
 artifactId: quarkus-langchain4j-pgvector-deployment
 versioning:
-  latest: 0.19.0.CR3
-  release: 0.19.0.CR3
+  latest: 0.20.0.CR1
+  release: 0.20.0.CR1
   versions:
   - 0.3.0
   - 0.4.0
@@ -57,4 +57,6 @@ versioning:
   - 0.19.0.CR1
   - 0.19.0.CR2
   - 0.19.0.CR3
-  lastUpdated: 20240927142537
+  - 0.19.0
+  - 0.20.0.CR1
+  lastUpdated: 20240930160147
