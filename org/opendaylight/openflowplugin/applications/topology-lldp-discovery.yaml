@@ -3,8 +3,8 @@
 groupId: org.opendaylight.openflowplugin.applications
 artifactId: topology-lldp-discovery
 versioning:
-  latest: 0.18.1
-  release: 0.18.1
+  latest: 0.19.0
+  release: 0.19.0
   versions:
   - 0.1.0-Lithium
   - 0.1.1-Lithium-SR1
@@ -83,4 +83,6 @@ versioning:
   - 0.17.3
   - 0.18.0
   - 0.18.1
-  lastUpdated: 20240628010019
+  - 0.18.2
+  - 0.19.0
+  lastUpdated: 20241001014206
