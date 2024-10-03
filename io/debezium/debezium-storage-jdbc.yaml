@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-storage-jdbc
 versioning:
-  latest: 3.0.0.CR2
-  release: 3.0.0.CR2
+  latest: 3.0.0.Final
+  release: 3.0.0.Final
   versions:
   - 2.3.0.Alpha1
   - 2.3.0.Beta1
@@ -53,4 +53,5 @@ versioning:
   - 3.0.0.Beta1
   - 3.0.0.CR1
   - 3.0.0.CR2
-  lastUpdated: 20240925104748
+  - 3.0.0.Final
+  lastUpdated: 20241002102315

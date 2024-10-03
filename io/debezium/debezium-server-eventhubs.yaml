@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-server-eventhubs
 versioning:
-  latest: 3.0.0.CR2
-  release: 3.0.0.CR2
+  latest: 3.0.0.Final
+  release: 3.0.0.Final
   versions:
   - 1.3.0.Alpha1
   - 1.3.0.Beta1
@@ -132,5 +132,6 @@ versioning:
   - 3.0.0.Beta1
   - 3.0.0.CR1
   - 3.0.0.CR2
+  - 3.0.0.Final
   - 1.5.0.Alpha1
-  lastUpdated: 20240925105104
+  lastUpdated: 20241002102604

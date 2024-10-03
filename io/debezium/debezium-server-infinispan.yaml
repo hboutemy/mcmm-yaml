@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-server-infinispan
 versioning:
-  latest: 3.0.0.CR2
-  release: 3.0.0.CR2
+  latest: 3.0.0.Final
+  release: 3.0.0.Final
   versions:
   - 2.2.0.Alpha1
   - 2.2.0.Alpha2
@@ -60,4 +60,5 @@ versioning:
   - 3.0.0.Beta1
   - 3.0.0.CR1
   - 3.0.0.CR2
-  lastUpdated: 20240925105105
+  - 3.0.0.Final
+  lastUpdated: 20241002102605
