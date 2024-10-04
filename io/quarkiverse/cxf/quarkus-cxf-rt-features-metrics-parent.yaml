@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.cxf
 artifactId: quarkus-cxf-rt-features-metrics-parent
 versioning:
-  latest: 3.15.1
-  release: 3.15.1
+  latest: 3.15.2
+  release: 3.15.2
   versions:
   - 0.14.0
   - 1.0.0
@@ -77,6 +77,7 @@ versioning:
   - 3.8.4
   - 3.8.5
   - 3.8.6
+  - 3.8.7
   - 3.9.0
   - 3.10.0.CR1
   - 3.10.0
@@ -89,4 +90,5 @@ versioning:
   - 3.14.0
   - 3.15.0
   - 3.15.1
-  lastUpdated: 20240923093421
+  - 3.15.2
+  lastUpdated: 20241003135844
