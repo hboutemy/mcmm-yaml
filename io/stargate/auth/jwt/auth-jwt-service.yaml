@@ -3,8 +3,8 @@
 groupId: io.stargate.auth.jwt
 artifactId: auth-jwt-service
 versioning:
-  latest: 2.1.0-BETA-16
-  release: 2.1.0-BETA-16
+  latest: 2.1.0-BETA-17
+  release: 2.1.0-BETA-17
   versions:
   - 0.0.27
   - 0.0.28
@@ -148,6 +148,7 @@ versioning:
   - 2.0.28
   - 2.0.29
   - 2.0.30
+  - 2.0.31
   - 2.1.0-ALPHA-1
   - 2.1.0-ALPHA-2
   - 2.1.0-ALPHA-3
@@ -175,4 +176,5 @@ versioning:
   - 2.1.0-BETA-14
   - 2.1.0-BETA-15
   - 2.1.0-BETA-16
-  lastUpdated: 20240912185554
+  - 2.1.0-BETA-17
+  lastUpdated: 20241004215849
