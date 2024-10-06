@@ -3,8 +3,8 @@
 groupId: com.mobius-software.protocols.diameter
 artifactId: diameter-parent
 versioning:
-  latest: 10.0.0-6
-  release: 10.0.0-6
+  latest: 10.0.0-7-java11
+  release: 10.0.0-7-java11
   versions:
   - 10.0.0-1
   - 10.0.0-1-java11
@@ -15,4 +15,6 @@ versioning:
   - 10.0.0-5
   - 10.0.0-5-java11
   - 10.0.0-6
-  lastUpdated: 20241003085659
+  - 10.0.0-7
+  - 10.0.0-7-java11
+  lastUpdated: 20241005173045
