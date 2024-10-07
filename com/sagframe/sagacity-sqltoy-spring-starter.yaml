@@ -3,8 +3,8 @@
 groupId: com.sagframe
 artifactId: sagacity-sqltoy-spring-starter
 versioning:
-  latest: 5.6.26.RC7
-  release: 5.6.26.RC7
+  latest: 5.6.26.RC8.jre8
+  release: 5.6.26.RC8.jre8
   versions:
   - 5.4.0.jre8
   - 5.4.1.jre8
@@ -139,4 +139,6 @@ versioning:
   - 5.6.26.RC5
   - 5.6.26.RC6
   - 5.6.26.RC7
-  lastUpdated: 20241005154204
+  - 5.6.26.RC8
+  - 5.6.26.RC8.jre8
+  lastUpdated: 20241006030939

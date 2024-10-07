@@ -3,8 +3,8 @@
 groupId: org.apache.camel.kafkaconnector
 artifactId: camel-sftp-source-kafka-connector
 versioning:
-  latest: 4.4.3
-  release: 4.4.3
+  latest: 4.8.0
+  release: 4.8.0
   versions:
   - 1.0.0
   - 3.18.1
@@ -18,4 +18,5 @@ versioning:
   - 4.0.3
   - 4.4.2
   - 4.4.3
-  lastUpdated: 20240914151356
+  - 4.8.0
+  lastUpdated: 20241006220002
