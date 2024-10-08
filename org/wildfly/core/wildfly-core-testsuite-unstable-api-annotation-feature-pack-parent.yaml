@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-core-testsuite-unstable-api-annotation-feature-pack-parent
 versioning:
-  latest: 26.0.0.Beta5
-  release: 26.0.0.Beta5
+  latest: 26.0.0.Final
+  release: 26.0.0.Final
   versions:
   - 25.0.0.Beta5
   - 25.0.0.Final
@@ -15,4 +15,5 @@ versioning:
   - 26.0.0.Beta3
   - 26.0.0.Beta4
   - 26.0.0.Beta5
-  lastUpdated: 20240923083729
+  - 26.0.0.Final
+  lastUpdated: 20241007085336

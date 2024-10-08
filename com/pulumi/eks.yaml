@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: eks
 versioning:
-  latest: 3.0.0-alpha.8
-  release: 3.0.0-alpha.8
+  latest: 3.0.0-beta.1
+  release: 3.0.0-beta.1
   versions:
   - 0.0.1
   - 0.37.1
@@ -142,4 +142,5 @@ versioning:
   - 3.0.0-alpha.6
   - 3.0.0-alpha.7
   - 3.0.0-alpha.8
-  lastUpdated: 20241001182205
+  - 3.0.0-beta.1
+  lastUpdated: 20241007111327

@@ -3,8 +3,8 @@
 groupId: org.atmosphere
 artifactId: atmosphere-assembly
 versioning:
-  latest: 3.0.10
-  release: 3.0.10
+  latest: 3.0.11
+  release: 3.0.11
   versions:
   - 1.0.6
   - 1.0.7
@@ -186,6 +186,7 @@ versioning:
   - 2.7.11
   - 2.7.13
   - 2.7.14
+  - 2.7.15
   - 3.0.0-alpha1
   - 3.0.0-alpha2
   - 3.0.0
@@ -196,4 +197,5 @@ versioning:
   - 3.0.5
   - 3.0.8
   - 3.0.10
-  lastUpdated: 20240814065540
+  - 3.0.11
+  lastUpdated: 20241007182312
