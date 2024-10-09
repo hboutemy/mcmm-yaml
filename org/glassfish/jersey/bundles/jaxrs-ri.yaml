@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.bundles
 artifactId: jaxrs-ri
 versioning:
-  latest: 3.1.8
-  release: 3.1.8
+  latest: 3.1.9
+  release: 3.1.9
   versions:
   - 2.0
   - 2.0.1
@@ -104,6 +104,7 @@ versioning:
   - 3.0.13
   - 3.0.14
   - 3.0.15
+  - 3.0.16
   - 3.1.0-M1
   - 3.1.0-M2
   - 3.1.0-M3
@@ -117,4 +118,5 @@ versioning:
   - 3.1.5
   - 3.1.7
   - 3.1.8
-  lastUpdated: 20240827160236
+  - 3.1.9
+  lastUpdated: 20241008143258

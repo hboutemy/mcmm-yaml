@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.api.grpc
 artifactId: proto-google-cloud-bigquerystorage-v1beta1
 versioning:
-  latest: 0.181.2
-  release: 0.181.2
+  latest: 0.181.3
+  release: 0.181.3
   versions:
   - 0.36.0
   - 0.37.0
@@ -262,4 +262,5 @@ versioning:
   - 0.181.0
   - 0.181.1
   - 0.181.2
-  lastUpdated: 20240930160947
+  - 0.181.3
+  lastUpdated: 20241008135538

@@ -3,8 +3,12 @@
 groupId: io.github.devlibx.easy
 artifactId: dropwizard-app-v2
 versioning:
-  latest: 0.0.143
-  release: 0.0.143
+  latest: 0.0.144-java22
+  release: 0.0.144-java22
   versions:
   - 0.0.143
-  lastUpdated: 20240812053146
+  - 0.0.144-jakarta
+  - 0.0.144-java21
+  - 0.0.144-java21-jakarta
+  - 0.0.144-java22
+  lastUpdated: 20241008203913
