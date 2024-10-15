@@ -3,20 +3,20 @@
 groupId: fr.aneo
 artifactId: armonik-java
 versioning:
-  latest: 3.21.1-tspythonapidocupdate.22.2c86c28
-  release: 3.21.1-tspythonapidocupdate.22.2c86c28
+  latest: 3.21.1-ddcimockcsharp.22.2d47e0a
+  release: 3.21.1-ddcimockcsharp.22.2d47e0a
   versions:
-  - 3.21.1-ddcimockcsharp.19.7bbea60
-  - 3.21.1-ddcimockcsharp.19.7c19d40
-  - 3.21.1-ddusestringview.21.26e6cb7
-  - 3.21.1-tspythonapidocupdate.22.d564ad3
-  - 3.21.1-tspythonapidocupdate.22.2c86c28
-  - 3.21.1-edge.22.b63f015
-  - 3.21.1-ddtestcppmock.46.03c556c
+  - 3.21.1-ddcimockcsharp.21.ee5d504
+  - 3.21.1-ddcimockcsharp.21.3be4c2c
+  - 3.21.1-ddcimockcsharp.21.7273b0b
+  - 3.21.1-ddcimockcsharp.21.7a835c6
+  - 3.21.1-ddcimockcsharp.22.2d47e0a
+  - 3.21.1-ddcimockcsharp.22.c47b2c2
   - 0.1.0
   - 3.19.0
   - 3.21.0
   - 3.21.0-test-SNAP-001
+  - 3.21.1-ddbuildfixcpp.48.b97920b
   - 3.21.1-ddcimockcsharp.19.0d51ecb
   - 3.21.1-ddcimockcsharp.19.2381a76
   - 3.21.1-ddcimockcsharp.19.3892b06
@@ -25,6 +25,8 @@ versioning:
   - 3.21.1-ddcimockcsharp.19.51b3585
   - 3.21.1-ddcimockcsharp.19.5b1c08f
   - 3.21.1-ddcimockcsharp.19.708a8a5
+  - 3.21.1-ddcimockcsharp.19.7bbea60
+  - 3.21.1-ddcimockcsharp.19.7c19d40
   - 3.21.1-ddcimockcsharp.19.8a59501
   - 3.21.1-ddcimockcsharp.19.8d4f0ba
   - 3.21.1-ddcimockcsharp.19.a101f06
@@ -35,6 +37,36 @@ versioning:
   - 3.21.1-ddcimockcsharp.19.d374df5
   - 3.21.1-ddcimockcsharp.19.ed40657
   - 3.21.1-ddcimockcsharp.19.f16599c
+  - 3.21.1-ddcimockcsharp.20.1b64160
+  - 3.21.1-ddcimockcsharp.21.10e1050
+  - 3.21.1-ddcimockcsharp.21.1244d9c
+  - 3.21.1-ddcimockcsharp.21.2130f2b
+  - 3.21.1-ddcimockcsharp.21.2f3e1a4
+  - 3.21.1-ddcimockcsharp.21.2f7a74b
+  - 3.21.1-ddcimockcsharp.21.45d9098
+  - 3.21.1-ddcimockcsharp.21.73fdd3b
+  - 3.21.1-ddcimockcsharp.21.7d6d455
+  - 3.21.1-ddcimockcsharp.21.80b6f7b
+  - 3.21.1-ddcimockcsharp.21.a66b1bb
+  - 3.21.1-ddcimockcsharp.21.b56c4ae
+  - 3.21.1-ddcimockcsharp.21.e0c255c
+  - 3.21.1-ddcimockcsharp.21.eda7c31
+  - 3.21.1-ddcimockcsharp.21.ef77017
+  - 3.21.1-ddcimockcsharp.22.6b6deda
+  - 3.21.1-ddcimockcsharp.24.162d8cf
+  - 3.21.1-ddcimockcsharp.24.7b928b0
+  - 3.21.1-ddcimockcsharp.24.839a935
+  - 3.21.1-ddcimockcsharp.24.ae78b90
+  - 3.21.1-ddcimockcsharp.24.baa367d
+  - 3.21.1-ddcimockcsharp.24.e11402b
+  - 3.21.1-ddcimockcsharp.25.14a17f0
+  - 3.21.1-ddcimockcsharp.25.94afee3
+  - 3.21.1-ddcimockcsharp.25.e32642f
+  - 3.21.1-ddcimockcsharp.26.816a97e
+  - 3.21.1-ddcimockcsharp.26.a59b685
+  - 3.21.1-ddcimockcsharp.27.a5dca29
+  - 3.21.1-ddcimockcsharp.28.785c530
+  - 3.21.1-ddcimockcsharp.59.e191590
   - 3.21.1-ddhandleevent.19.a3232a0
   - 3.21.1-ddhandleevent.4.69ef9ad
   - 3.21.1-ddtestcppmock.29.aa694ea
@@ -106,10 +138,21 @@ versioning:
   - 3.21.1-ddtestcppmock.38.eb8345d
   - 3.21.1-ddtestcppmock.38.ef7c6a0
   - 3.21.1-ddtestcppmock.38.f5b50f4
+  - 3.21.1-ddtestcppmock.46.03c556c
+  - 3.21.1-ddusestringview.21.26e6cb7
   - 3.21.1-edge.15.8e73cae
   - 3.21.1-edge.18.e9bdf8a
   - 3.21.1-edge.20.852a9b1
+  - 3.21.1-edge.22.b63f015
+  - 3.21.1-edge.47.bb6d2bb
+  - 3.21.1-edge.49.717de43
+  - 3.21.1-flrust.69.65b0f8f
+  - 3.21.1-flrust.71.b12fbf8
   - 3.21.1-jdfixcijavaversion.14.6a60974
   - 3.21.1-jdfixcijavaversion.15.a02381f
   - 3.21.1-tspythonapidocupdate.21.0f4eb19
-  lastUpdated: 20241007162851
+  - 3.21.1-tspythonapidocupdate.21.be8e99a
+  - 3.21.1-tspythonapidocupdate.22.2c86c28
+  - 3.21.1-tspythonapidocupdate.22.a33f5d0
+  - 3.21.1-tspythonapidocupdate.22.d564ad3
+  lastUpdated: 20241010153320

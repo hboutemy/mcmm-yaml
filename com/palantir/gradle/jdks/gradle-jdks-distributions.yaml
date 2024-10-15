@@ -3,8 +3,8 @@
 groupId: com.palantir.gradle.jdks
 artifactId: gradle-jdks-distributions
 versioning:
-  latest: 0.49.0-rc1
-  release: 0.49.0-rc1
+  latest: 0.50.0
+  release: 0.50.0
   versions:
   - 0.1.0
   - 0.2.0
@@ -54,4 +54,7 @@ versioning:
   - 0.47.0
   - 0.48.0
   - 0.49.0-rc1
-  lastUpdated: 20240927193217
+  - 0.49.0
+  - 0.50.0
+  - 0.51.0
+  lastUpdated: 20241009181724

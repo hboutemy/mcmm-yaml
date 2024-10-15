@@ -3,8 +3,8 @@
 groupId: org.wildfly.galleon-plugins
 artifactId: wildfly-galleon-maven-plugin
 versioning:
-  latest: 7.1.2.Final
-  release: 7.1.2.Final
+  latest: 7.2.0.Final
+  release: 7.2.0.Final
   versions:
   - 2.0.0.Alpha1
   - 2.0.0.Alpha2
@@ -112,6 +112,7 @@ versioning:
   - 6.4.7.Final
   - 6.4.8.Final
   - 6.4.9.Final
+  - 6.4.10.Final
   - 6.5.0.Final
   - 6.5.1.Final
   - 6.5.2.Final
@@ -129,4 +130,5 @@ versioning:
   - 7.1.0.Final
   - 7.1.1.Final
   - 7.1.2.Final
-  lastUpdated: 20240726094323
+  - 7.2.0.Final
+  lastUpdated: 20241009145616

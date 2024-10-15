@@ -3,9 +3,10 @@
 groupId: net.sf.jstuff
 artifactId: jstuff-integration
 versioning:
-  latest: 7.14.0
-  release: 7.14.0
+  latest: 8.0.0
+  release: 8.0.0
   versions:
+  - 8.0.0
   - 5.14.2
   - 5.14.3
   - 5.14.4
@@ -24,6 +25,11 @@ versioning:
   - 6.0.1
   - 7.0.0
   - 7.1.0
+  - 7.10.0
+  - 7.11.0
+  - 7.12.0
+  - 7.13.0
+  - 7.14.0
   - 7.2.0
   - 7.3.0
   - 7.4.0
@@ -37,9 +43,4 @@ versioning:
   - 7.8.0
   - 7.8.1
   - 7.8.2
-  - 7.10.0
-  - 7.11.0
-  - 7.12.0
-  - 7.13.0
-  - 7.14.0
-  lastUpdated: 20240823145806
+  lastUpdated: 20241010171725

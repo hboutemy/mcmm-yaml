@@ -3,8 +3,8 @@
 groupId: org.openrewrite
 artifactId: rewrite-java-17
 versioning:
-  latest: 8.36.0
-  release: 8.36.0
+  latest: 8.37.0
+  release: 8.37.0
   versions:
   - 7.24.0
   - 7.24.1
@@ -171,4 +171,6 @@ versioning:
   - 8.35.3
   - 8.35.4
   - 8.36.0
-  lastUpdated: 20240924162404
+  - 8.37.0
+  - 8.37.1
+  lastUpdated: 20241009152529

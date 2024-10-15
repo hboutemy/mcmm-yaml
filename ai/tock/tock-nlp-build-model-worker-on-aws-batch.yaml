@@ -3,8 +3,8 @@
 groupId: ai.tock
 artifactId: tock-nlp-build-model-worker-on-aws-batch
 versioning:
-  latest: 24.9.1
-  release: 24.9.1
+  latest: 24.9.2
+  release: 24.9.2
   versions:
   - 20.3.4
   - 20.9.0
@@ -51,4 +51,6 @@ versioning:
   - 24.3.6
   - 24.9.0
   - 24.9.1
-  lastUpdated: 20241003182621
+  - 24.9.2
+  - 24.9.3
+  lastUpdated: 20241009192627

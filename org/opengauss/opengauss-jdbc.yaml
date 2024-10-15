@@ -3,8 +3,8 @@
 groupId: org.opengauss
 artifactId: opengauss-jdbc
 versioning:
-  latest: 6.0.0-RC1-og
-  release: 6.0.0-RC1-og
+  latest: 6.0.0-og
+  release: 6.0.0-og
   versions:
   - 2.0.1-compatibility
   - 3.0.0
@@ -32,4 +32,6 @@ versioning:
   - 6.0.0-b022-snapshot-og
   - 6.0.0-RC1
   - 6.0.0-RC1-og
-  lastUpdated: 20240815155928
+  - 6.0.0-og
+  - 6.0.0
+  lastUpdated: 20241009111946

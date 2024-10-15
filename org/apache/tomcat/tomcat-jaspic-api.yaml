@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat
 artifactId: tomcat-jaspic-api
 versioning:
-  latest: 11.0.0-M26
-  release: 11.0.0-M26
+  latest: 11.0.0
+  release: 11.0.0
   versions:
   - 8.5.8
   - 8.5.9
@@ -246,6 +246,7 @@ versioning:
   - 10.1.28
   - 10.1.29
   - 10.1.30
+  - 10.1.31
   - 11.0.0-M1
   - 11.0.0-M3
   - 11.0.0-M4
@@ -269,4 +270,5 @@ versioning:
   - 11.0.0-M24
   - 11.0.0-M25
   - 11.0.0-M26
-  lastUpdated: 20241008125723
+  - 11.0.0
+  lastUpdated: 20241009163833

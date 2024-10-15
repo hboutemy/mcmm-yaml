@@ -3,8 +3,8 @@
 groupId: org.apache.camel.k
 artifactId: camel-k-itests-knative-consumer
 versioning:
-  latest: 3.8.1
-  release: 3.8.1
+  latest: 3.15.0
+  release: 3.15.0
   versions:
   - 1.6.0
   - 1.7.0
@@ -27,4 +27,5 @@ versioning:
   - 3.2.3
   - 3.6.0
   - 3.8.1
-  lastUpdated: 20240401073640
+  - 3.15.0
+  lastUpdated: 20241009192339
