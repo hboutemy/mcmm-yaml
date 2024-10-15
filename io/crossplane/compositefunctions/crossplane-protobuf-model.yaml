@@ -3,8 +3,8 @@
 groupId: io.crossplane.compositefunctions
 artifactId: crossplane-protobuf-model
 versioning:
-  latest: 1.15.0-echo
-  release: 1.15.0-echo
+  latest: 1.17.0-beta
+  release: 1.17.0-beta
   versions:
   - =1.15.0-alpha
   - 1.15.0-beta
@@ -12,4 +12,6 @@ versioning:
   - 1.15.0-delta
   - v1.15.0-echo
   - 1.15.0-echo
-  lastUpdated: 20240918190905
+  - 1.17.0-alpha
+  - 1.17.0-beta
+  lastUpdated: 20241011132809
