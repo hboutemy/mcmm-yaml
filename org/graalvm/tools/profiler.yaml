@@ -3,8 +3,8 @@
 groupId: org.graalvm.tools
 artifactId: profiler
 versioning:
-  latest: 23.0.5
-  release: 23.0.5
+  latest: 23.0.6
+  release: 23.0.6
   versions:
   - 1.0.0-rc8
   - 1.0.0-rc9
@@ -52,6 +52,7 @@ versioning:
   - 20.3.13
   - 20.3.14
   - 20.3.15
+  - 20.3.16
   - 21.0.0
   - 21.0.0.2
   - 21.1.0
@@ -70,6 +71,7 @@ versioning:
   - 21.3.9
   - 21.3.10
   - 21.3.11
+  - 21.3.12
   - 22.0.0
   - 22.0.0.2
   - 22.1.0
@@ -88,4 +90,5 @@ versioning:
   - 23.0.3
   - 23.0.4
   - 23.0.5
-  lastUpdated: 20240716134951
+  - 23.0.6
+  lastUpdated: 20241015123823
