@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: azuread
 versioning:
-  latest: 6.0.0
-  release: 6.0.0
+  latest: 6.0.1
+  release: 6.0.1
   versions:
   - v5.26.0-alpha.1656622750+e856b013
   - v5.26.0-alpha.1657296163+16c1f4cf
@@ -219,4 +219,6 @@ versioning:
   - 5.54.0-alpha.1728637430
   - 6.0.0-alpha.1728642806
   - 6.0.0
-  lastUpdated: 20241011125620
+  - 6.0.1-alpha.1728897983
+  - 6.0.1
+  lastUpdated: 20241014095312

@@ -3,9 +3,11 @@
 groupId: com.googlecode.maven-download-plugin
 artifactId: download-maven-plugin
 versioning:
-  latest: 1.10.0
-  release: 1.10.0
+  latest: 1.11.0
+  release: 1.11.0
   versions:
+  - 1.11.0
+  - 1.10.0
   - 1.2.0
   - 1.2.1
   - 1.3.0
@@ -28,5 +30,4 @@ versioning:
   - 1.8.0
   - 1.8.1
   - 1.9.0
-  - 1.10.0
-  lastUpdated: 20241005110236
+  lastUpdated: 20241014113042
