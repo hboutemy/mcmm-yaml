@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.liferay.portal
 artifactId: release.dxp.bom.third.party
 versioning:
-  latest: 2024.q3.4
-  release: 2024.q3.4
+  latest: 2024.q3.5
+  release: 2024.q3.5
   versions:
   - 7.0.10.fp60
   - 7.0.10.fp61
@@ -333,5 +333,7 @@ versioning:
   - 2024.q3.2
   - 2024.q3.3
   - 2024.q3.4
+  - 2024.q3.5
   - 7.3.10-u36
-  lastUpdated: 20241010104758
+  - 7.4.13-u128
+  lastUpdated: 20241016104804

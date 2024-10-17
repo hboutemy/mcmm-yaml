@@ -3,8 +3,8 @@
 groupId: io.provenance
 artifactId: proto-java
 versioning:
-  latest: 1.20.0-rc1
-  release: 1.20.0-rc1
+  latest: 1.20.0-rc2
+  release: 1.20.0-rc2
   versions:
   - feature_562-protobuf-bindings-support-2c55e17
   - feature_562-protobuf-bindings-support-7e1c0c4
@@ -62,4 +62,5 @@ versioning:
   - 1.19.0
   - 1.19.1
   - 1.20.0-rc1
-  lastUpdated: 20241015224026
+  - 1.20.0-rc2
+  lastUpdated: 20241016160507

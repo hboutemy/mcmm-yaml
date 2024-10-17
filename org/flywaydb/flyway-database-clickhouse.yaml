@@ -3,8 +3,8 @@
 groupId: org.flywaydb
 artifactId: flyway-database-clickhouse
 versioning:
-  latest: 10.16.2
-  release: 10.16.2
+  latest: 10.16.3
+  release: 10.16.3
   versions:
   - 10.7.0
   - 10.7.2
@@ -16,4 +16,5 @@ versioning:
   - 10.16.0
   - 10.16.1
   - 10.16.2
-  lastUpdated: 20240926105748
+  - 10.16.3
+  lastUpdated: 20241016105807

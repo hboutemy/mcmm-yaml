@@ -3,8 +3,8 @@
 groupId: io.mongock
 artifactId: mongock-driver-dynamodb-bom
 versioning:
-  latest: 5.4.4
-  release: 5.4.4
+  latest: 5.5.0
+  release: 5.5.0
   versions:
   - 5.0.26.BETA
   - 5.0.27.BETA
@@ -41,4 +41,5 @@ versioning:
   - 5.4.2
   - 5.4.3
   - 5.4.4
-  lastUpdated: 20240612150106
+  - 5.5.0
+  lastUpdated: 20241016215434
