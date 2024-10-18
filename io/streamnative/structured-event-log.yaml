@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: structured-event-log
 versioning:
-  latest: 4.0.0-SNAPSHOT.ursa
-  release: 4.0.0-SNAPSHOT.ursa
+  latest: 4.0.0.0
+  release: 4.0.0.0
   versions:
   - master-rc-daily
   - 2.9.0.0-rc-1
@@ -516,4 +516,5 @@ versioning:
   - 3.3.1.9
   - 3.4.0-SNAPSHOT.ursa0815
   - 4.0.0-SNAPSHOT.ursa
-  lastUpdated: 20241012131856
+  - 4.0.0.0
+  lastUpdated: 20241017053202

@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-legacy-expansion-bom
 versioning:
-  latest: 34.0.0.Beta1
-  release: 34.0.0.Beta1
+  latest: 34.0.0.Final
+  release: 34.0.0.Final
   versions:
   - 27.0.0.Alpha4
   - 27.0.0.Alpha5
@@ -31,4 +31,5 @@ versioning:
   - 33.0.1.Final
   - 33.0.2.Final
   - 34.0.0.Beta1
-  lastUpdated: 20240925161756
+  - 34.0.0.Final
+  lastUpdated: 20241017135529

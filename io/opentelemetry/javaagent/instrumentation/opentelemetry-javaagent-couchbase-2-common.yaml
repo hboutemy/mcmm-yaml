@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-couchbase-2-common
 versioning:
-  latest: 2.8.0-alpha
-  release: 2.8.0-alpha
+  latest: 2.9.0-alpha
+  release: 2.9.0-alpha
   versions:
   - 1.12.0-alpha
   - 1.12.1-alpha
@@ -52,4 +52,5 @@ versioning:
   - 2.6.0-alpha
   - 2.7.0-alpha
   - 2.8.0-alpha
-  lastUpdated: 20240913212526
+  - 2.9.0-alpha
+  lastUpdated: 20241017223914

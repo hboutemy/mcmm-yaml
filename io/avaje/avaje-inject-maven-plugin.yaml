@@ -3,8 +3,8 @@
 groupId: io.avaje
 artifactId: avaje-inject-maven-plugin
 versioning:
-  latest: 10.4
-  release: 10.4
+  latest: 10.4-javax
+  release: 10.4-javax
   versions:
   - 1.0
   - 1.1
@@ -26,4 +26,5 @@ versioning:
   - 10.3
   - 10.4-RC1
   - 10.4
-  lastUpdated: 20240915073459
+  - 10.4-javax
+  lastUpdated: 20241017055109
