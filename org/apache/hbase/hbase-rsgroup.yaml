@@ -3,8 +3,8 @@
 groupId: org.apache.hbase
 artifactId: hbase-rsgroup
 versioning:
-  latest: 2.6.0-hadoop3
-  release: 2.6.0-hadoop3
+  latest: 2.6.1-hadoop3
+  release: 2.6.1-hadoop3
   versions:
   - 1.4.0
   - 1.4.1
@@ -107,4 +107,6 @@ versioning:
   - 2.5.10-hadoop3
   - 2.6.0
   - 2.6.0-hadoop3
-  lastUpdated: 20240724224231
+  - 2.6.1
+  - 2.6.1-hadoop3
+  lastUpdated: 20241018081145

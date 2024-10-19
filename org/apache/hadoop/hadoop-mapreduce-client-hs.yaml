@@ -3,8 +3,8 @@
 groupId: org.apache.hadoop
 artifactId: hadoop-mapreduce-client-hs
 versioning:
-  latest: 3.4.0
-  release: 3.4.0
+  latest: 3.4.1
+  release: 3.4.1
   versions:
   - 0.23.1
   - 0.23.3
@@ -84,4 +84,5 @@ versioning:
   - 3.3.5
   - 3.3.6
   - 3.4.0
-  lastUpdated: 20240319024500
+  - 3.4.1
+  lastUpdated: 20241018104452
