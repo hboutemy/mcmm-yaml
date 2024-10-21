@@ -3,8 +3,8 @@
 groupId: org.sosy-lab
 artifactId: javasmt-solver-mathsat5
 versioning:
-  latest: 5.6.11
-  release: 5.6.11
+  latest: 5.6.11-glibc2.27
+  release: 5.6.11-glibc2.27
   versions:
   - 5.6.5
   - 5.6.6
@@ -13,4 +13,5 @@ versioning:
   - 5.6.8
   - 5.6.10
   - 5.6.11
-  lastUpdated: 20241019202620
+  - 5.6.11-glibc2.27
+  lastUpdated: 20241020133118
