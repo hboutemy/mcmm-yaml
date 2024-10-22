@@ -3,8 +3,8 @@
 groupId: tech.annexflow.compose
 artifactId: constraintlayout-compose-multiplatform-wasm-js
 versioning:
-  latest: 0.5.0-alpha03-shaded-core
-  release: 0.5.0-alpha03-shaded-core
+  latest: 0.5.0-shaded-core
+  release: 0.5.0-shaded-core
   versions:
   - 0.3.0-alpha01
   - 0.3.0-rc02
@@ -15,4 +15,7 @@ versioning:
   - 0.5.0-alpha03
   - 0.5.0-alpha03-shaded
   - 0.5.0-alpha03-shaded-core
-  lastUpdated: 20240901121212
+  - 0.5.0
+  - 0.5.0-shaded
+  - 0.5.0-shaded-core
+  lastUpdated: 20241021091538

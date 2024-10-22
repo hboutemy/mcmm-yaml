@@ -3,8 +3,8 @@
 groupId: tech.annexflow.compose
 artifactId: constraintlayout-compose-multiplatform-iossimulatorarm64
 versioning:
-  latest: 0.5.0-alpha03-shaded-core
-  release: 0.5.0-alpha03-shaded-core
+  latest: 0.5.0-shaded-core
+  release: 0.5.0-shaded-core
   versions:
   - 0.1.0
   - 0.1.1
@@ -22,4 +22,7 @@ versioning:
   - 0.5.0-alpha03
   - 0.5.0-alpha03-shaded
   - 0.5.0-alpha03-shaded-core
-  lastUpdated: 20240901121203
+  - 0.5.0
+  - 0.5.0-shaded
+  - 0.5.0-shaded-core
+  lastUpdated: 20241021091530

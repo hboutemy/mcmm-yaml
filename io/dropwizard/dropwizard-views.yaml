@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.dropwizard
 artifactId: dropwizard-views
 versioning:
-  latest: 5.0.0-alpha.3
-  release: 5.0.0-alpha.3
+  latest: 5.0.0-alpha.4
+  release: 5.0.0-alpha.4
   versions:
   - 0.7.0-rc1
   - 0.7.0-rc2
@@ -201,6 +201,7 @@ versioning:
   - 3.0.7
   - 3.0.8
   - 3.0.9
+  - 3.0.10
   - 4.0.0-beta.1
   - 4.0.0-beta.2
   - 4.0.0-beta.3
@@ -215,7 +216,9 @@ versioning:
   - 4.0.7
   - 4.0.8
   - 4.0.9
+  - 4.0.10
   - 5.0.0-alpha.1
   - 5.0.0-alpha.2
   - 5.0.0-alpha.3
-  lastUpdated: 20241007073559
+  - 5.0.0-alpha.4
+  lastUpdated: 20241021170715

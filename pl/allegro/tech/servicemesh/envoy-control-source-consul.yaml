@@ -3,8 +3,8 @@
 groupId: pl.allegro.tech.servicemesh
 artifactId: envoy-control-source-consul
 versioning:
-  latest: 0.22.2
-  release: 0.22.2
+  latest: 0.22.3
+  release: 0.22.3
   versions:
   - 0.8.1
   - 0.8.2
@@ -157,4 +157,5 @@ versioning:
   - 0.22.0
   - 0.22.1
   - 0.22.2
-  lastUpdated: 20241009122959
+  - 0.22.3
+  lastUpdated: 20241021180753
