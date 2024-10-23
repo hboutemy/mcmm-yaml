@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-hadoop-compatibility
 versioning:
-  latest: 0.10.2-hadoop1
-  release: 0.10.2-hadoop1
+  latest: 2.0-preview1
+  release: 2.0-preview1
   versions:
   - 0.6-hadoop2-incubating
   - 0.6-incubating
@@ -28,4 +28,5 @@ versioning:
   - 0.10.1-hadoop1
   - 0.10.2
   - 0.10.2-hadoop1
-  lastUpdated: 20160211063427
+  - 2.0-preview1
+  lastUpdated: 20241022071135

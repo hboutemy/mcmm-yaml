@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.commons
 artifactId: xwiki-commons-extension-repository-maven-snapshots
 versioning:
-  latest: 16.8.0
-  release: 16.8.0
+  latest: 16.9.0-rc-1
+  release: 16.9.0-rc-1
   versions:
   - 6.2-milestone-1
   - 6.2-milestone-2
@@ -404,4 +404,5 @@ versioning:
   - 16.7.1
   - 16.8.0-rc-1
   - 16.8.0
-  lastUpdated: 20241021125736
+  - 16.9.0-rc-1
+  lastUpdated: 20241022171404

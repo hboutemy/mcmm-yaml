@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-libraries
 versioning:
-  latest: 1.20.0
-  release: 1.20.0
+  latest: 2.0-preview1
+  release: 2.0-preview1
   versions:
   - 0.10.0
   - 0.10.0-hadoop1
@@ -113,4 +113,5 @@ versioning:
   - 1.19.0
   - 1.19.1
   - 1.20.0
-  lastUpdated: 20240801061550
+  - 2.0-preview1
+  lastUpdated: 20241022071300

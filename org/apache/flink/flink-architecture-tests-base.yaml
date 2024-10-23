@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-architecture-tests-base
 versioning:
-  latest: 1.20.0
-  release: 1.20.0
+  latest: 2.0-preview1
+  release: 2.0-preview1
   versions:
   - 1.15.0
   - 1.15.1
@@ -23,4 +23,5 @@ versioning:
   - 1.19.0
   - 1.19.1
   - 1.20.0
-  lastUpdated: 20240801061015
+  - 2.0-preview1
+  lastUpdated: 20241022065218

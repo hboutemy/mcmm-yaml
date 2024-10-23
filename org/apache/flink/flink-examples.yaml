@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-examples
 versioning:
-  latest: 1.20.0
-  release: 1.20.0
+  latest: 2.0-preview1
+  release: 2.0-preview1
   versions:
   - 0.6-hadoop2-incubating
   - 0.6-incubating
@@ -104,4 +104,5 @@ versioning:
   - 1.19.0
   - 1.19.1
   - 1.20.0
-  lastUpdated: 20240801061331
+  - 2.0-preview1
+  lastUpdated: 20241022070632
