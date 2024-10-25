@@ -3,11 +3,12 @@
 groupId: fr.aneo
 artifactId: armonik-java
 versioning:
-  latest: 3.21.1-ddcimockcsharp.60.f5d0fee
-  release: 3.21.1-ddcimockcsharp.60.f5d0fee
+  latest: 3.21.1-edge.52.513d76b
+  release: 3.21.1-edge.52.513d76b
   versions:
-  - 3.21.1-ddcimockcsharp.60.f5d0fee
-  - 3.21.1-ddcimockcsharp.60.a2fa7f1
+  - 3.21.1-ddcimockcsharp.60.7475f50
+  - 3.21.1-ddcimockcsharp.60.5e131be
+  - 3.21.1-edge.52.513d76b
   - 0.1.0
   - 3.19.0
   - 3.21.0
@@ -71,20 +72,28 @@ versioning:
   - 3.21.1-ddcimockcsharp.59.e191590
   - 3.21.1-ddcimockcsharp.60.003c637
   - 3.21.1-ddcimockcsharp.60.0237ea8
+  - 3.21.1-ddcimockcsharp.60.035e8cf
+  - 3.21.1-ddcimockcsharp.60.070c2c0
+  - 3.21.1-ddcimockcsharp.60.07644f7
   - 3.21.1-ddcimockcsharp.60.0a55a6c
   - 3.21.1-ddcimockcsharp.60.0a6e6cf
   - 3.21.1-ddcimockcsharp.60.0cc2f2b
   - 3.21.1-ddcimockcsharp.60.0d33855
+  - 3.21.1-ddcimockcsharp.60.0dc6694
   - 3.21.1-ddcimockcsharp.60.15187f3
   - 3.21.1-ddcimockcsharp.60.186035a
   - 3.21.1-ddcimockcsharp.60.1aee53d
   - 3.21.1-ddcimockcsharp.60.1b8c20e
+  - 3.21.1-ddcimockcsharp.60.1edf8d1
   - 3.21.1-ddcimockcsharp.60.1f3de98
   - 3.21.1-ddcimockcsharp.60.2261202
+  - 3.21.1-ddcimockcsharp.60.2862530
   - 3.21.1-ddcimockcsharp.60.2a83ca5
   - 3.21.1-ddcimockcsharp.60.2b70c19
   - 3.21.1-ddcimockcsharp.60.2c9cd22
   - 3.21.1-ddcimockcsharp.60.2fa8b07
+  - 3.21.1-ddcimockcsharp.60.30c6d64
+  - 3.21.1-ddcimockcsharp.60.32a3965
   - 3.21.1-ddcimockcsharp.60.32e34f5
   - 3.21.1-ddcimockcsharp.60.338c3d6
   - 3.21.1-ddcimockcsharp.60.33bdc67
@@ -102,6 +111,7 @@ versioning:
   - 3.21.1-ddcimockcsharp.60.5b43b95
   - 3.21.1-ddcimockcsharp.60.5d553c0
   - 3.21.1-ddcimockcsharp.60.62d6fb1
+  - 3.21.1-ddcimockcsharp.60.665014a
   - 3.21.1-ddcimockcsharp.60.6682d45
   - 3.21.1-ddcimockcsharp.60.66a6013
   - 3.21.1-ddcimockcsharp.60.6b0760a
@@ -109,12 +119,16 @@ versioning:
   - 3.21.1-ddcimockcsharp.60.6e0caab
   - 3.21.1-ddcimockcsharp.60.70eaf52
   - 3.21.1-ddcimockcsharp.60.7210ec2
+  - 3.21.1-ddcimockcsharp.60.72835ab
   - 3.21.1-ddcimockcsharp.60.72cf5ae
   - 3.21.1-ddcimockcsharp.60.738b5c1
+  - 3.21.1-ddcimockcsharp.60.745338f
   - 3.21.1-ddcimockcsharp.60.75f5c40
   - 3.21.1-ddcimockcsharp.60.76a3c1f
   - 3.21.1-ddcimockcsharp.60.773c5ae
+  - 3.21.1-ddcimockcsharp.60.77f2f82
   - 3.21.1-ddcimockcsharp.60.7b57d63
+  - 3.21.1-ddcimockcsharp.60.7d8eae1
   - 3.21.1-ddcimockcsharp.60.80451b5
   - 3.21.1-ddcimockcsharp.60.81eaf8a
   - 3.21.1-ddcimockcsharp.60.8814ad8
@@ -126,29 +140,48 @@ versioning:
   - 3.21.1-ddcimockcsharp.60.9b18435
   - 3.21.1-ddcimockcsharp.60.9d06fe8
   - 3.21.1-ddcimockcsharp.60.9d0d84c
+  - 3.21.1-ddcimockcsharp.60.9e57649
+  - 3.21.1-ddcimockcsharp.60.9f0e277
   - 3.21.1-ddcimockcsharp.60.a00c46f
+  - 3.21.1-ddcimockcsharp.60.a2fa7f1
+  - 3.21.1-ddcimockcsharp.60.a6f6e20
   - 3.21.1-ddcimockcsharp.60.a91466b
+  - 3.21.1-ddcimockcsharp.60.a9b76ea
   - 3.21.1-ddcimockcsharp.60.ab10f38
   - 3.21.1-ddcimockcsharp.60.ac1a58e
+  - 3.21.1-ddcimockcsharp.60.ae24d30
+  - 3.21.1-ddcimockcsharp.60.ae8ab1c
   - 3.21.1-ddcimockcsharp.60.b0d7f5f
+  - 3.21.1-ddcimockcsharp.60.b10fb8c
   - 3.21.1-ddcimockcsharp.60.b118ad9
   - 3.21.1-ddcimockcsharp.60.b5558d1
+  - 3.21.1-ddcimockcsharp.60.b73877b
   - 3.21.1-ddcimockcsharp.60.be2fd52
+  - 3.21.1-ddcimockcsharp.60.be74857
+  - 3.21.1-ddcimockcsharp.60.bef9353
+  - 3.21.1-ddcimockcsharp.60.c10e363
   - 3.21.1-ddcimockcsharp.60.c2e36d8
   - 3.21.1-ddcimockcsharp.60.c336ef8
+  - 3.21.1-ddcimockcsharp.60.c5228c1
   - 3.21.1-ddcimockcsharp.60.c6b6551
   - 3.21.1-ddcimockcsharp.60.cb2a770
+  - 3.21.1-ddcimockcsharp.60.ceec31b
   - 3.21.1-ddcimockcsharp.60.d30056e
   - 3.21.1-ddcimockcsharp.60.d4a7807
   - 3.21.1-ddcimockcsharp.60.dd29b53
+  - 3.21.1-ddcimockcsharp.60.ddf3d40
+  - 3.21.1-ddcimockcsharp.60.e0b9044
   - 3.21.1-ddcimockcsharp.60.e8696e5
   - 3.21.1-ddcimockcsharp.60.e978930
+  - 3.21.1-ddcimockcsharp.60.eaf1b8e
   - 3.21.1-ddcimockcsharp.60.ebbb5bd
   - 3.21.1-ddcimockcsharp.60.ebd5873
   - 3.21.1-ddcimockcsharp.60.f134a88
   - 3.21.1-ddcimockcsharp.60.f481af1
+  - 3.21.1-ddcimockcsharp.60.f5d0fee
   - 3.21.1-ddcimockcsharp.60.f72b84c
   - 3.21.1-ddcimockcsharp.60.fc3ce92
+  - 3.21.1-ddcimockcsharp.60.fd55ab5
   - 3.21.1-ddcimockcsharp.60.ffd17b7
   - 3.21.1-ddcimockcsharp.61.15c331a
   - 3.21.1-ddcimockcsharp.61.2552510
@@ -252,4 +285,4 @@ versioning:
   - 3.21.1-tspythonapidocupdate.22.2c86c28
   - 3.21.1-tspythonapidocupdate.22.a33f5d0
   - 3.21.1-tspythonapidocupdate.22.d564ad3
-  lastUpdated: 20241023163246
+  lastUpdated: 20241024151605

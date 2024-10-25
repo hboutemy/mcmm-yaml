@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: http-client-tests
 versioning:
-  latest: 2.28.28
-  release: 2.28.28
+  latest: 2.29.0
+  release: 2.29.0
   versions:
   - 2.0.0
   - 2.0.0-preview-5
@@ -1392,4 +1392,6 @@ versioning:
   - 2.28.26
   - 2.28.27
   - 2.28.28
-  lastUpdated: 20241022210400
+  - 2.28.29
+  - 2.29.0
+  lastUpdated: 20241024204952

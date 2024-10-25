@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.cxf
 artifactId: quarkus-cxf-integration-test-opentelemetry
 versioning:
-  latest: 3.15.2
-  release: 3.15.2
+  latest: 3.16.1
+  release: 3.16.1
   versions:
   - 2.7.0.CR1
   - 2.7.0.CR2
@@ -31,4 +31,6 @@ versioning:
   - 3.15.0
   - 3.15.1
   - 3.15.2
-  lastUpdated: 20241003135835
+  - 3.16.0
+  - 3.16.1
+  lastUpdated: 20241024183943

@@ -3,8 +3,8 @@
 groupId: com.amazonaws
 artifactId: athena-cloudwatch-metrics
 versioning:
-  latest: 2024.42.1
-  release: 2024.42.1
+  latest: 2024.42.3
+  release: 2024.42.3
   versions:
   - 2023.14.1
   - 2023.15.1
@@ -52,4 +52,6 @@ versioning:
   - 2024.36.1
   - 2024.38.1
   - 2024.42.1
-  lastUpdated: 20241023152904
+  - 2024.42.2
+  - 2024.42.3
+  lastUpdated: 20241024174325

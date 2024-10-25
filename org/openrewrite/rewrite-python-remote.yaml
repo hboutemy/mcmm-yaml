@@ -3,8 +3,8 @@
 groupId: org.openrewrite
 artifactId: rewrite-python-remote
 versioning:
-  latest: 1.22.3
-  release: 1.22.3
+  latest: 1.22.6
+  release: 1.22.6
   versions:
   - 1.19.1
   - 1.19.2
@@ -21,4 +21,7 @@ versioning:
   - 1.22.1
   - 1.22.2
   - 1.22.3
-  lastUpdated: 20241023145404
+  - 1.22.4
+  - 1.22.5
+  - 1.22.6
+  lastUpdated: 20241024134701

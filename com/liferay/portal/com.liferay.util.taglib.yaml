@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.portal
 artifactId: com.liferay.util.taglib
 versioning:
-  latest: 25.1.0
-  release: 25.1.0
+  latest: 25.1.1
+  release: 25.1.1
   versions:
   - 1.0.0
   - 2.0.0
@@ -346,4 +347,4 @@ versioning:
   - 25.0.1
   - 25.1.0
   - 25.1.1
-  lastUpdated: 20241023170739
+  lastUpdated: 20241024104448

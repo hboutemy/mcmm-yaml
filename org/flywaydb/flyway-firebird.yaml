@@ -3,8 +3,8 @@
 groupId: org.flywaydb
 artifactId: flyway-firebird
 versioning:
-  latest: 10.20.0
-  release: 10.20.0
+  latest: 10.20.1
+  release: 10.20.1
   versions:
   - 8.4.1
   - 8.4.2
@@ -117,4 +117,5 @@ versioning:
   - 10.18.2
   - 10.19.0
   - 10.20.0
-  lastUpdated: 20241016104624
+  - 10.20.1
+  lastUpdated: 20241024105752
