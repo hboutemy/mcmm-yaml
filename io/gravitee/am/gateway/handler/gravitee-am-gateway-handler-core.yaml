@@ -3,8 +3,8 @@
 groupId: io.gravitee.am.gateway.handler
 artifactId: gravitee-am-gateway-handler-core
 versioning:
-  latest: 4.5.0
-  release: 4.5.0
+  latest: 4.5.1
+  release: 4.5.1
   versions:
   - 2.6.0
   - 2.7.0
@@ -348,6 +348,7 @@ versioning:
   - 4.2.21
   - 4.2.22
   - 4.2.23
+  - 4.2.24
   - 4.3.0
   - 4.3.1
   - 4.3.2
@@ -374,9 +375,11 @@ versioning:
   - 4.4.6
   - 4.4.7
   - 4.4.8
+  - 4.4.9
   - 4.5.0-alpha.1
   - 4.5.0-alpha.2
   - 4.5.0-alpha.3
   - 4.5.0-alpha.4
   - 4.5.0
-  lastUpdated: 20241024083953
+  - 4.5.1
+  lastUpdated: 20241025162908

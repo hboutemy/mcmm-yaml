@@ -3,8 +3,8 @@
 groupId: org.anyline
 artifactId: anyline-environment-spring-data
 versioning:
-  latest: 8.7.2-20241022
-  release: 8.7.2-20241022
+  latest: 8.7.2-20241025
+  release: 8.7.2-20241025
   versions:
   - 8.7.2-jdk11-20240816
   - 8.7.2-jdk11-20240819
@@ -45,6 +45,7 @@ versioning:
   - 8.7.2-jdk21-20241016
   - 8.7.2-jdk21-20241018
   - 8.7.2-jdk21-20241022
+  - 8.7.2-jdk21-20241025
   - 8.7.2-20240815
   - 8.7.2-20240819
   - 8.7.2-20240823
@@ -66,4 +67,5 @@ versioning:
   - 8.7.2-20241016
   - 8.7.2-20241018
   - 8.7.2-20241022
-  lastUpdated: 20241022114721
+  - 8.7.2-20241025
+  lastUpdated: 20241025091353
