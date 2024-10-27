@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-merchantapi
 versioning:
-  latest: reports_v1beta-rev20240827-2.0.0
-  release: reports_v1beta-rev20240827-2.0.0
+  latest: reviews_v1beta-rev20241022-2.0.0
+  release: reviews_v1beta-rev20241022-2.0.0
   versions:
   - accounts_v1beta-rev20240611-2.0.0
   - accounts_v1beta-rev20240709-2.0.0
@@ -19,29 +19,40 @@ versioning:
   - accounts_v1beta-rev20240916-2.0.0
   - accounts_v1beta-rev20240930-2.0.0
   - accounts_v1beta-rev20241004-2.0.0
+  - accounts_v1beta-rev20241023-2.0.0
   - conversions_v1beta-rev20240611-2.0.0
   - conversions_v1beta-rev20240827-2.0.0
   - conversions_v1beta-rev20241001-2.0.0
+  - conversions_v1beta-rev20241023-2.0.0
   - datasources_v1beta-rev20240611-2.0.0
   - datasources_v1beta-rev20240719-2.0.0
   - datasources_v1beta-rev20240827-2.0.0
   - datasources_v1beta-rev20240909-2.0.0
+  - datasources_v1beta-rev20241022-2.0.0
   - inventories_v1beta-rev20240611-2.0.0
   - inventories_v1beta-rev20240827-2.0.0
+  - inventories_v1beta-rev20241022-2.0.0
   - lfp_v1beta-rev20240611-2.0.0
   - lfp_v1beta-rev20240827-2.0.0
+  - lfp_v1beta-rev20241023-2.0.0
   - notifications_v1beta-rev20240611-2.0.0
   - notifications_v1beta-rev20240827-2.0.0
   - notifications_v1beta-rev20240930-2.0.0
+  - notifications_v1beta-rev20241022-2.0.0
   - products_v1beta-rev20240611-2.0.0
   - products_v1beta-rev20240719-2.0.0
   - products_v1beta-rev20240827-2.0.0
   - products_v1beta-rev20240916-2.0.0
   - products_v1beta-rev20241001-2.0.0
+  - products_v1beta-rev20241022-2.0.0
   - promotions_v1beta-rev20240611-2.0.0
   - promotions_v1beta-rev20240827-2.0.0
+  - promotions_v1beta-rev20241022-2.0.0
   - quota_v1beta-rev20240611-2.0.0
   - quota_v1beta-rev20240827-2.0.0
+  - quota_v1beta-rev20241022-2.0.0
   - reports_v1beta-rev20240611-2.0.0
   - reports_v1beta-rev20240827-2.0.0
-  lastUpdated: 20241012080313
+  - reports_v1beta-rev20241022-2.0.0
+  - reviews_v1beta-rev20241022-2.0.0
+  lastUpdated: 20241026083548

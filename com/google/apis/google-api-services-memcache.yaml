@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-memcache
 versioning:
-  latest: v1-rev20240919-2.0.0
-  release: v1-rev20240919-2.0.0
+  latest: v1-rev20241010-2.0.0
+  release: v1-rev20241010-2.0.0
   versions:
   - v1beta2-rev1-1.18.0-rc
   - v1beta2-rev1-1.25.0
@@ -53,6 +53,7 @@ versioning:
   - v1beta2-rev20240307-2.0.0
   - v1beta2-rev20240604-2.0.0
   - v1beta2-rev20240919-2.0.0
+  - v1beta2-rev20241010-2.0.0
   - v1-rev20200721-1.30.10
   - v1-rev20200729-1.30.10
   - v1-rev20200817-1.30.10
@@ -87,4 +88,5 @@ versioning:
   - v1-rev20240307-2.0.0
   - v1-rev20240604-2.0.0
   - v1-rev20240919-2.0.0
-  lastUpdated: 20241005082432
+  - v1-rev20241010-2.0.0
+  lastUpdated: 20241026082811
