@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.grpc
 artifactId: grpc-core
 versioning:
-  latest: 1.68.0
-  release: 1.68.0
+  latest: 1.68.1
+  release: 1.68.1
   versions:
   - 0.7.0
   - 0.7.1
@@ -175,4 +175,5 @@ versioning:
   - 1.66.0
   - 1.67.1
   - 1.68.0
-  lastUpdated: 20240927085431
+  - 1.68.1
+  lastUpdated: 20241029032551

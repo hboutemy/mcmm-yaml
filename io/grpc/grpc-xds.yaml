@@ -3,8 +3,8 @@
 groupId: io.grpc
 artifactId: grpc-xds
 versioning:
-  latest: 1.68.0
-  release: 1.68.0
+  latest: 1.68.1
+  release: 1.68.1
   versions:
   - 1.28.0
   - 1.28.1
@@ -107,4 +107,5 @@ versioning:
   - 1.66.0
   - 1.67.1
   - 1.68.0
-  lastUpdated: 20240927085500
+  - 1.68.1
+  lastUpdated: 20241029032624

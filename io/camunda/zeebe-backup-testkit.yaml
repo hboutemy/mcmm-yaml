@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-backup-testkit
 versioning:
-  latest: 8.6.4
-  release: 8.6.4
+  latest: 8.7.0-alpha1-rc1
+  release: 8.7.0-alpha1-rc1
   versions:
   - 8.0.15
   - 8.1.0-rc
@@ -151,4 +151,5 @@ versioning:
   - 8.6.2
   - 8.6.3
   - 8.6.4
-  lastUpdated: 20241028173402
+  - 8.7.0-alpha1-rc1
+  lastUpdated: 20241029093456
