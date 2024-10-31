@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-cypher-runtime-util
 versioning:
-  latest: 5.24.2
-  release: 5.24.2
+  latest: 5.25.1
+  release: 5.25.1
   versions:
   - 3.4.0-alpha01
   - 3.4.0-alpha02
@@ -227,4 +227,5 @@ versioning:
   - 5.24.0
   - 5.24.1
   - 5.24.2
-  lastUpdated: 20241015145559
+  - 5.25.1
+  lastUpdated: 20241030134507
