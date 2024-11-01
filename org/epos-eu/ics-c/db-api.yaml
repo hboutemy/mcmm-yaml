@@ -3,10 +3,10 @@
 groupId: org.epos-eu.ics-c
 artifactId: db-api
 versioning:
-  latest: 3.0.43
-  release: 3.0.43
+  latest: 3.0.48
+  release: 3.0.48
   versions:
-  - 3.0.43
+  - 3.0.48
   - 1.0.0-oss
   - 1.0.1
   - 1.0.10
@@ -152,6 +152,11 @@ versioning:
   - 3.0.40
   - 3.0.41
   - 3.0.42
+  - 3.0.43
+  - 3.0.44
+  - 3.0.45
+  - 3.0.46
+  - 3.0.47
   - 3.0.5
   - 3.0.6
   - 3.0.7
@@ -217,4 +222,4 @@ versioning:
   - ref.0.0.8
   - ref.0.0.9
   - ref.0.021
-  lastUpdated: 20241030160056
+  lastUpdated: 20241031151454
