@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.logging.splunk
 artifactId: quarkus-logging-splunk-deployment
 versioning:
-  latest: 3.3.2
-  release: 3.3.2
+  latest: 4.0.2
+  release: 4.0.2
   versions:
   - 1.0.0
   - 2.0.0
@@ -22,4 +22,6 @@ versioning:
   - 3.2.3
   - 3.3.0
   - 3.3.2
-  lastUpdated: 20241031121959
+  - 4.0.1
+  - 4.0.2
+  lastUpdated: 20241101003630

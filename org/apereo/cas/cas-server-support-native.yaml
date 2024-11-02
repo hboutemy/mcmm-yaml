@@ -3,8 +3,8 @@
 groupId: org.apereo.cas
 artifactId: cas-server-support-native
 versioning:
-  latest: 7.2.0-RC1
-  release: 7.2.0-RC1
+  latest: 7.2.0-RC2
+  release: 7.2.0-RC2
   versions:
   - 7.0.0-RC7
   - 7.0.0-RC8
@@ -21,6 +21,7 @@ versioning:
   - 7.0.7
   - 7.0.8
   - 7.0.9
+  - 7.0.10
   - 7.1.0-RC1
   - 7.1.0-RC2
   - 7.1.0-RC3
@@ -30,4 +31,5 @@ versioning:
   - 7.1.0
   - 7.1.1
   - 7.2.0-RC1
-  lastUpdated: 20241004123037
+  - 7.2.0-RC2
+  lastUpdated: 20241101142509
