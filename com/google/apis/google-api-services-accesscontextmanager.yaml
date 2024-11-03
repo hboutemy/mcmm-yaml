@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-accesscontextmanager
 versioning:
-  latest: v1-rev20241022-2.0.0
-  release: v1-rev20241022-2.0.0
+  latest: v1-rev20241028-2.0.0
+  release: v1-rev20241028-2.0.0
   versions:
   - v1beta-rev1-1.18.0-rc
   - v1beta-rev1-1.22.0
@@ -381,4 +381,5 @@ versioning:
   - v1-rev20240923-2.0.0
   - v1-rev20241014-2.0.0
   - v1-rev20241022-2.0.0
-  lastUpdated: 20241026075514
+  - v1-rev20241028-2.0.0
+  lastUpdated: 20241102075757
