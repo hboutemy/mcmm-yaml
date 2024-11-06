@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.vaadin
 artifactId: vaadin-archetype-application
 versioning:
-  latest: 24.5.2
-  release: 24.5.2
+  latest: 24.5.3
+  release: 24.5.3
   versions:
   - 7.0.0.beta1
   - 7.0.0.beta2
@@ -554,6 +554,7 @@ versioning:
   - 23.5.6
   - 23.5.7
   - 23.5.8
+  - 23.5.9
   - 24.0.0
   - 24.0.1
   - 24.0.2
@@ -633,7 +634,9 @@ versioning:
   - 24.4.12
   - 24.4.13
   - 24.4.14
+  - 24.4.15
   - 24.5.0
   - 24.5.1
   - 24.5.2
-  lastUpdated: 20241028124042
+  - 24.5.3
+  lastUpdated: 20241105164326

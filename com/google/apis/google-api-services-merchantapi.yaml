@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-merchantapi
 versioning:
-  latest: reviews_v1beta-rev20241022-2.0.0
-  release: reviews_v1beta-rev20241022-2.0.0
+  latest: reviews_v1beta-rev20241101-2.0.0
+  release: reviews_v1beta-rev20241101-2.0.0
   versions:
   - accounts_v1beta-rev20240611-2.0.0
   - accounts_v1beta-rev20240709-2.0.0
@@ -20,10 +20,12 @@ versioning:
   - accounts_v1beta-rev20240930-2.0.0
   - accounts_v1beta-rev20241004-2.0.0
   - accounts_v1beta-rev20241023-2.0.0
+  - accounts_v1beta-rev20241029-2.0.0
   - conversions_v1beta-rev20240611-2.0.0
   - conversions_v1beta-rev20240827-2.0.0
   - conversions_v1beta-rev20241001-2.0.0
   - conversions_v1beta-rev20241023-2.0.0
+  - conversions_v1beta-rev20241101-2.0.0
   - datasources_v1beta-rev20240611-2.0.0
   - datasources_v1beta-rev20240719-2.0.0
   - datasources_v1beta-rev20240827-2.0.0
@@ -54,5 +56,7 @@ versioning:
   - reports_v1beta-rev20240611-2.0.0
   - reports_v1beta-rev20240827-2.0.0
   - reports_v1beta-rev20241022-2.0.0
+  - reports_v1beta-rev20241101-2.0.0
   - reviews_v1beta-rev20241022-2.0.0
-  lastUpdated: 20241026083548
+  - reviews_v1beta-rev20241101-2.0.0
+  lastUpdated: 20241105092819
