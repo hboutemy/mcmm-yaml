@@ -3,8 +3,8 @@
 groupId: org.apache.nifi.minifi
 artifactId: minifi-update-attribute-nar
 versioning:
-  latest: 2.0.0-M4
-  release: 2.0.0-M4
+  latest: 2.0.0
+  release: 2.0.0
   versions:
   - 0.0.1
   - 0.1.0
@@ -40,4 +40,5 @@ versioning:
   - 2.0.0-M2
   - 2.0.0-M3
   - 2.0.0-M4
-  lastUpdated: 20241030033009
+  - 2.0.0
+  lastUpdated: 20241104164237
