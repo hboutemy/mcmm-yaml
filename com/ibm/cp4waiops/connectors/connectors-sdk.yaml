@@ -3,8 +3,8 @@
 groupId: com.ibm.cp4waiops.connectors
 artifactId: connectors-sdk
 versioning:
-  latest: 2.2.4
-  release: 2.2.4
+  latest: 2.2.6
+  release: 2.2.6
   versions:
   - 1.4.0
   - 1.4.1
@@ -28,6 +28,7 @@ versioning:
   - 1.4.16
   - 1.4.16.0-jdk8
   - 1.4.16.1-jdk8
+  - 1.4.16.2-jdk8
   - 1.4.17
   - 1.4.18
   - 1.4.19
@@ -61,4 +62,5 @@ versioning:
   - 2.2.2
   - 2.2.3
   - 2.2.4
-  lastUpdated: 20241029170212
+  - 2.2.6
+  lastUpdated: 20241106193215

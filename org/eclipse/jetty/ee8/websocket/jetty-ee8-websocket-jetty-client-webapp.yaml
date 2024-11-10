@@ -3,8 +3,8 @@
 groupId: org.eclipse.jetty.ee8.websocket
 artifactId: jetty-ee8-websocket-jetty-client-webapp
 versioning:
-  latest: 12.0.14
-  release: 12.0.14
+  latest: 12.1.0.alpha0
+  release: 12.1.0.alpha0
   versions:
   - 12.0.0.beta3
   - 12.0.0.beta4
@@ -23,4 +23,6 @@ versioning:
   - 12.0.12
   - 12.0.13
   - 12.0.14
-  lastUpdated: 20241001153824
+  - 12.0.15
+  - 12.1.0.alpha0
+  lastUpdated: 20241106214802
