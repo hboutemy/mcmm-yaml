@@ -3,8 +3,8 @@
 groupId: io.opentelemetry
 artifactId: opentelemetry-exporter-sender-jdk
 versioning:
-  latest: 1.43.0
-  release: 1.43.0
+  latest: 1.44.0
+  release: 1.44.0
   versions:
   - 1.28.0-alpha
   - 1.29.0-alpha
@@ -25,4 +25,5 @@ versioning:
   - 1.42.0
   - 1.42.1
   - 1.43.0
-  lastUpdated: 20241011170104
+  - 1.44.0
+  lastUpdated: 20241108203112

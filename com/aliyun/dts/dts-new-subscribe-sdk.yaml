@@ -3,8 +3,8 @@
 groupId: com.aliyun.dts
 artifactId: dts-new-subscribe-sdk
 versioning:
-  latest: 2.1.4
-  release: 2.1.4
+  latest: 2.1.4-shaded
+  release: 2.1.4-shaded
   versions:
   - 1.0
   - 1.1
@@ -28,4 +28,5 @@ versioning:
   - 2.1.2
   - 2.1.2-shaded
   - 2.1.4
-  lastUpdated: 20240925114105
+  - 2.1.4-shaded
+  lastUpdated: 20241108090935
