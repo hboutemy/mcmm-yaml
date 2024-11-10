@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-io-jdbc-mariadb
 versioning:
-  latest: 4.0.0.2
-  release: 4.0.0.2
+  latest: 4.0.0.3
+  release: 4.0.0.3
   versions:
   - master-rc-daily
   - v2.8.0-rc-202106091140
@@ -758,4 +758,5 @@ versioning:
   - 4.0.0.0
   - 4.0.0.1
   - 4.0.0.2
-  lastUpdated: 20241101071930
+  - 4.0.0.3
+  lastUpdated: 20241107033250

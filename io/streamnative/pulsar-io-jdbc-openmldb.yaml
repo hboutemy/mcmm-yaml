@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-io-jdbc-openmldb
 versioning:
-  latest: 4.0.0.2
-  release: 4.0.0.2
+  latest: 4.0.0.3
+  release: 4.0.0.3
   versions:
   - master-rc-daily
   - 2.11.0.0-rc2
@@ -168,4 +168,5 @@ versioning:
   - 4.0.0.0
   - 4.0.0.1
   - 4.0.0.2
-  lastUpdated: 20241101071942
+  - 4.0.0.3
+  lastUpdated: 20241107033251
