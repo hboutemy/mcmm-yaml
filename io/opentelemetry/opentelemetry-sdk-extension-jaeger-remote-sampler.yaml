@@ -3,8 +3,8 @@
 groupId: io.opentelemetry
 artifactId: opentelemetry-sdk-extension-jaeger-remote-sampler
 versioning:
-  latest: 1.44.0
-  release: 1.44.0
+  latest: 1.44.1
+  release: 1.44.1
   versions:
   - 0.6.0
   - 0.7.0
@@ -78,4 +78,5 @@ versioning:
   - 1.42.1
   - 1.43.0
   - 1.44.0
-  lastUpdated: 20241108203145
+  - 1.44.1
+  lastUpdated: 20241110014459
