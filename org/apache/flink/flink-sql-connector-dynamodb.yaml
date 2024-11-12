@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-sql-connector-dynamodb
 versioning:
-  latest: 4.3.0-1.19
-  release: 4.3.0-1.19
+  latest: 5.0.0-1.20
+  release: 5.0.0-1.20
   versions:
   - 3.0.0-1.15
   - 3.0.0-1.16
@@ -15,4 +15,6 @@ versioning:
   - 4.2.0-1.18
   - 4.3.0-1.18
   - 4.3.0-1.19
-  lastUpdated: 20240607093709
+  - 5.0.0-1.19
+  - 5.0.0-1.20
+  lastUpdated: 20241111100949
