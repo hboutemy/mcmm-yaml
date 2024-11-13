@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.plugin
 artifactId: elasticsearch-plugin-analysis-api
 versioning:
-  latest: 8.15.3
-  release: 8.15.3
+  latest: 8.16.0
+  release: 8.16.0
   versions:
   - 8.7.0
   - 8.7.1
@@ -40,4 +40,6 @@ versioning:
   - 8.15.1
   - 8.15.2
   - 8.15.3
-  lastUpdated: 20241017124210
+  - 8.15.4
+  - 8.16.0
+  lastUpdated: 20241112095159
