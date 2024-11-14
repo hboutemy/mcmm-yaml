@@ -3,8 +3,8 @@
 groupId: io.gravitee.node
 artifactId: gravitee-node-cluster-plugin-standalone
 versioning:
-  latest: 7.0.0-alpha.1
-  release: 7.0.0-alpha.1
+  latest: 7.0.0-alpha.3
+  release: 7.0.0-alpha.3
   versions:
   - 3.1.0-alpha.2
   - 3.1.0-alpha.3
@@ -124,4 +124,6 @@ versioning:
   - 6.4.6
   - 6.5.0
   - 7.0.0-alpha.1
-  lastUpdated: 20241105134824
+  - 7.0.0-alpha.2
+  - 7.0.0-alpha.3
+  lastUpdated: 20241113152752

@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-jdbc-mssql-parent
 versioning:
-  latest: 3.16.2
-  release: 3.16.2
+  latest: 3.17.0.CR1
+  release: 3.17.0.CR1
   versions:
   - 0.12.0
   - 0.13.0
@@ -336,4 +336,6 @@ versioning:
   - 3.16.0
   - 3.16.1
   - 3.16.2
-  lastUpdated: 20241106115003
+  - 3.16.3
+  - 3.17.0.CR1
+  lastUpdated: 20241113115248

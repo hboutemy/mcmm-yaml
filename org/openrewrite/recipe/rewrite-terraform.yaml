@@ -3,8 +3,8 @@
 groupId: org.openrewrite.recipe
 artifactId: rewrite-terraform
 versioning:
-  latest: 2.5.0
-  release: 2.5.0
+  latest: 2.5.1
+  release: 2.5.1
   versions:
   - 0.1.0
   - 0.2.0
@@ -77,4 +77,5 @@ versioning:
   - 2.4.1
   - 2.4.2
   - 2.5.0
-  lastUpdated: 20241108180216
+  - 2.5.1
+  lastUpdated: 20241113155822

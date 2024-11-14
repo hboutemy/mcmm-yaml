@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-runtime-telemetry-java17
 versioning:
-  latest: 2.9.0-alpha
-  release: 2.9.0-alpha
+  latest: 2.10.0-alpha
+  release: 2.10.0-alpha
   versions:
   - 1.27.0-alpha
   - 1.28.0-alpha
@@ -30,4 +30,5 @@ versioning:
   - 2.7.0-alpha
   - 2.8.0-alpha
   - 2.9.0-alpha
-  lastUpdated: 20241017224605
+  - 2.10.0-alpha
+  lastUpdated: 20241113052101

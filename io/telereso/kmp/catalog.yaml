@@ -3,8 +3,8 @@
 groupId: io.telereso.kmp
 artifactId: catalog
 versioning:
-  latest: 1.10
-  release: 1.10
+  latest: 1.13-wasm.1
+  release: 1.13-wasm.1
   versions:
   - 0.13-alpha
   - 0.15
@@ -29,4 +29,7 @@ versioning:
   - 1.8
   - 1.9
   - 1.10
-  lastUpdated: 20241029082222
+  - 1.11
+  - 1.12
+  - 1.13-wasm.1
+  lastUpdated: 20241113102057

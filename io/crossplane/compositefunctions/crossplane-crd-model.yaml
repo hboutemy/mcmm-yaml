@@ -3,13 +3,14 @@
 groupId: io.crossplane.compositefunctions
 artifactId: crossplane-crd-model
 versioning:
-  latest: 1.18.0-alpha
-  release: 1.18.0-alpha
+  latest: 1.18-beta
+  release: 1.18-beta
   versions:
   - 1.17.0-alpha
   - 1.17.0-beta
   - 1.17.0-charlie
   - 1.18.0-alpha
+  - 1.18-beta
   - 1.15.0-beta
   - 1.15.0-charlie
   - 1.15.0-delta
@@ -17,4 +18,4 @@ versioning:
   - 1.17.0-delta
   - =1.15.0-alpha
   - v1.15.0-echo
-  lastUpdated: 20241108222846
+  lastUpdated: 20241113153531
