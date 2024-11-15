@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework
 artifactId: spring-context-support
 versioning:
-  latest: 6.1.14
-  release: 6.1.14
+  latest: 6.2.0
+  release: 6.2.0
   versions:
   - 2.5
   - 2.5.1
@@ -257,4 +257,6 @@ versioning:
   - 6.1.12
   - 6.1.13
   - 6.1.14
-  lastUpdated: 20241017081133
+  - 6.1.15
+  - 6.2.0
+  lastUpdated: 20241114164017

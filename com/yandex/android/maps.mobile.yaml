@@ -3,8 +3,8 @@
 groupId: com.yandex.android
 artifactId: maps.mobile
 versioning:
-  latest: 4.8.3-beta-navikit-flutter
-  release: 4.8.3-beta-navikit-flutter
+  latest: 4.9.0-navikit
+  release: 4.9.0-navikit
   versions:
   - 4.0.0-full
   - 4.0.0-lite
@@ -83,4 +83,7 @@ versioning:
   - 4.8.3-beta-full-flutter
   - 4.8.3-beta-lite-flutter
   - 4.8.3-beta-navikit-flutter
-  lastUpdated: 20241102135531
+  - 4.9.0-full
+  - 4.9.0-lite
+  - 4.9.0-navikit
+  lastUpdated: 20241114153241
