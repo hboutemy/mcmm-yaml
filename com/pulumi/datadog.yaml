@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: datadog
 versioning:
-  latest: 4.36.0
-  release: 4.36.0
+  latest: 4.37.0-alpha.1731649176
+  release: 4.37.0-alpha.1731649176
   versions:
   - 0.0.1
   - 4.12.0-alpha.1666375300+95e1fada
@@ -215,4 +215,7 @@ versioning:
   - 4.35.0
   - 4.36.0-alpha.1731504468
   - 4.36.0
-  lastUpdated: 20241113140004
+  - 4.36.1-alpha.1731671521
+  - 4.36.1
+  - 4.37.0-alpha.1731649176
+  lastUpdated: 20241115122319

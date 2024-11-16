@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: serverlessapplicationrepository
 versioning:
-  latest: 2.29.13
-  release: 2.29.13
+  latest: 2.29.15
+  release: 2.29.15
   versions:
   - 2.0.0-preview-12
   - 2.0.0-preview-13
@@ -1393,4 +1393,6 @@ versioning:
   - 2.29.11
   - 2.29.12
   - 2.29.13
-  lastUpdated: 20241114214031
+  - 2.29.14
+  - 2.29.15
+  lastUpdated: 20241115220706

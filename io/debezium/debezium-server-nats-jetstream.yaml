@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-server-nats-jetstream
 versioning:
-  latest: 3.0.1.Final
-  release: 3.0.1.Final
+  latest: 3.0.2.Final
+  release: 3.0.2.Final
   versions:
   - 2.1.0.Alpha2
   - 2.1.0.Beta1
@@ -69,4 +69,5 @@ versioning:
   - 3.0.0.CR2
   - 3.0.0.Final
   - 3.0.1.Final
-  lastUpdated: 20241025105952
+  - 3.0.2.Final
+  lastUpdated: 20241115115925
