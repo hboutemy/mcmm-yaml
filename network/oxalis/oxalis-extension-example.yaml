@@ -3,8 +3,8 @@
 groupId: network.oxalis
 artifactId: oxalis-extension-example
 versioning:
-  latest: 6.7.0
-  release: 6.7.0
+  latest: 7.0.0-beta
+  release: 7.0.0-beta
   versions:
   - 5.0.0.RC1
   - 5.0.0-RC3
@@ -33,4 +33,6 @@ versioning:
   - 6.5.0
   - 6.6.0
   - 6.7.0
-  lastUpdated: 20240810174231
+  - 7.0.0-alpha
+  - 7.0.0-beta
+  lastUpdated: 20241116232740
