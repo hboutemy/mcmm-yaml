@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.security
 artifactId: spring-security-rsocket
 versioning:
-  latest: 6.3.4
-  release: 6.3.4
+  latest: 6.4.0
+  release: 6.4.0
   versions:
   - 5.2.0.RELEASE
   - 5.2.1.RELEASE
@@ -85,6 +85,7 @@ versioning:
   - 5.7.11
   - 5.7.12
   - 5.7.13
+  - 5.7.14
   - 5.8.0
   - 5.8.1
   - 5.8.2
@@ -100,6 +101,7 @@ versioning:
   - 5.8.12
   - 5.8.13
   - 5.8.15
+  - 5.8.16
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -127,9 +129,12 @@ versioning:
   - 6.2.5
   - 6.2.6
   - 6.2.7
+  - 6.2.8
   - 6.3.0
   - 6.3.1
   - 6.3.2
   - 6.3.3
   - 6.3.4
-  lastUpdated: 20241021174718
+  - 6.3.5
+  - 6.4.0
+  lastUpdated: 20241118170101

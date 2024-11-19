@@ -3,8 +3,8 @@
 groupId: org.springframework.amqp
 artifactId: spring-rabbit-stream
 versioning:
-  latest: 3.1.7
-  release: 3.1.7
+  latest: 3.2.0
+  release: 3.2.0
   versions:
   - 2.4.0
   - 2.4.1
@@ -46,4 +46,6 @@ versioning:
   - 3.1.4
   - 3.1.5
   - 3.1.6
-  lastUpdated: 20240819200204
+  - 3.1.8
+  - 3.2.0
+  lastUpdated: 20241118220612

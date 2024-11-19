@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin
 artifactId: kotlin-maven-plugin
 versioning:
-  latest: 2.1.0-RC
-  release: 2.1.0-RC
+  latest: 2.1.0-RC2
+  release: 2.1.0-RC2
   versions:
   - 0.0.1-test-deploy
   - 0.0.2-test-deploy
@@ -241,5 +241,6 @@ versioning:
   - 2.1.0-Beta1
   - 2.1.0-Beta2
   - 2.1.0-RC
+  - 2.1.0-RC2
   - 0.12.613
-  lastUpdated: 20241104130717
+  lastUpdated: 20241118104131
