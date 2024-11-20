@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-cloudsearch
 versioning:
-  latest: v1-rev20241016-2.0.0
-  release: v1-rev20241016-2.0.0
+  latest: v1-rev20241113-2.0.0
+  release: v1-rev20241113-2.0.0
   versions:
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.19.0
@@ -240,4 +240,5 @@ versioning:
   - v1-rev20240501-2.0.0
   - v1-rev20240529-2.0.0
   - v1-rev20241016-2.0.0
-  lastUpdated: 20241024080309
+  - v1-rev20241113-2.0.0
+  lastUpdated: 20241119085934
