@@ -3,12 +3,10 @@
 groupId: fr.aneo
 artifactId: armonik-java
 versioning:
-  latest: 3.22.0-qdenum.118.033ae55
-  release: 3.22.0-qdenum.118.033ae55
+  latest: 3.22.0-edge.118.90f0b51
+  release: 3.22.0-edge.118.90f0b51
   versions:
-  - 3.22.0-qdenum.118.033ae55
-  - 3.22.0-dduniformvaroablescpp.117.2604a8e
-  - 3.22.0-dduniformvaroablescpp.117.1bba35d
+  - 3.22.0-edge.118.90f0b51
   - 0.1.0
   - 3.19.0
   - 3.21.0
@@ -344,6 +342,8 @@ versioning:
   - 3.21.1-tspythonapidocupdate.22.2c86c28
   - 3.21.1-tspythonapidocupdate.22.a33f5d0
   - 3.21.1-tspythonapidocupdate.22.d564ad3
+  - 3.22.0-dduniformvaroablescpp.117.1bba35d
+  - 3.22.0-dduniformvaroablescpp.117.2604a8e
   - 3.22.0-edge.116.3e97b32
   - 3.22.0-flrustserver.117.302dcad
   - 3.22.0-flrustserver.117.8e40cf4
@@ -353,5 +353,7 @@ versioning:
   - 3.22.0-flrustserver.117.f88683f
   - 3.22.0-flrustserver.117.fc975bd
   - 3.22.0-flrustserver.118.5af4524
+  - 3.22.0-flrustserver.119.c2c9b53
+  - 3.22.0-qdenum.118.033ae55
   - 3.22.0-qdenum.119.5799d89
-  lastUpdated: 20241118140323
+  lastUpdated: 20241120144559

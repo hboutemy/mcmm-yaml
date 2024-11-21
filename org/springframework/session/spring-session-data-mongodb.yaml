@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.session
 artifactId: spring-session-data-mongodb
 versioning:
-  latest: 3.3.3
-  release: 3.3.3
+  latest: 3.4.0
+  release: 3.4.0
   versions:
   - 2.0.0.RELEASE
   - 2.0.1.RELEASE
@@ -70,7 +70,8 @@ versioning:
   - 3.3.1
   - 3.3.2
   - 3.3.3
+  - 3.4.0
   - 0.0.0.0.2.4.2
   - 0.0.0.0.2.4.3
   - 0.0.0.2.4.2
-  lastUpdated: 20241021204157
+  lastUpdated: 20241120163340

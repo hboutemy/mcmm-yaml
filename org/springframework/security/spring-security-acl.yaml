@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.security
 artifactId: spring-security-acl
 versioning:
-  latest: 6.4.0
-  release: 6.4.0
+  latest: 6.4.1
+  release: 6.4.1
   versions:
   - 2.0.0
   - 2.0.1
@@ -240,4 +240,5 @@ versioning:
   - 6.3.4
   - 6.3.5
   - 6.4.0
-  lastUpdated: 20241118170041
+  - 6.4.1
+  lastUpdated: 20241120210845

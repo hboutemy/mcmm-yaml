@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-functions-proto
 versioning:
-  latest: 4.0.0.4
-  release: 4.0.0.4
+  latest: 4.0.0.5
+  release: 4.0.0.5
   versions:
   - master-rc-daily
   - v2.8.0-rc-202106091140
@@ -756,6 +756,7 @@ versioning:
   - 3.3.1.9
   - 3.3.2.1
   - 3.3.2.2
+  - 3.3.2.3
   - 3.4.0-SNAPSHOT.ursa0815
   - 4.0.0-SNAPSHOT.ursa
   - 4.0.0.0
@@ -763,4 +764,5 @@ versioning:
   - 4.0.0.2
   - 4.0.0.3
   - 4.0.0.4
-  lastUpdated: 20241119074604
+  - 4.0.0.5
+  lastUpdated: 20241120112929

@@ -3,8 +3,8 @@
 groupId: org.testcontainers
 artifactId: k3s
 versioning:
-  latest: 1.20.3
-  release: 1.20.3
+  latest: 1.20.4
+  release: 1.20.4
   versions:
   - 1.16.3
   - 1.17.0
@@ -31,4 +31,5 @@ versioning:
   - 1.20.1
   - 1.20.2
   - 1.20.3
-  lastUpdated: 20241022213704
+  - 1.20.4
+  lastUpdated: 20241120170525

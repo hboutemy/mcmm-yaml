@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-broker-auth-oidc
 versioning:
-  latest: 4.0.0.4
-  release: 4.0.0.4
+  latest: 4.0.0.5
+  release: 4.0.0.5
   versions:
   - 3.0.0.1-rc1
   - 3.0.0.1
@@ -103,6 +103,7 @@ versioning:
   - 3.3.1.9
   - 3.3.2.1
   - 3.3.2.2
+  - 3.3.2.3
   - 3.4.0-SNAPSHOT.ursa0815
   - 4.0.0-SNAPSHOT.ursa
   - 4.0.0.0
@@ -110,4 +111,5 @@ versioning:
   - 4.0.0.2
   - 4.0.0.3
   - 4.0.0.4
-  lastUpdated: 20241119074543
+  - 4.0.0.5
+  lastUpdated: 20241120112911
