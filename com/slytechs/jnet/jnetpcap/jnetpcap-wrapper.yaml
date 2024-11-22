@@ -3,10 +3,12 @@
 groupId: com.slytechs.jnet.jnetpcap
 artifactId: jnetpcap-wrapper
 versioning:
-  latest: 2.2.1
-  release: 2.2.1
+  latest: 2.3.0+jdk21.preview
+  release: 2.3.0+jdk21.preview
   versions:
   - 2.0.1
   - 2.1.0
   - 2.2.1
-  lastUpdated: 20240719002120
+  - 2.3.0
+  - 2.3.0+jdk21.preview
+  lastUpdated: 20241121174016

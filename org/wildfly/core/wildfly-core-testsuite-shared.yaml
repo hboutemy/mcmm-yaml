@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-core-testsuite-shared
 versioning:
-  latest: 27.0.0.Beta2
-  release: 27.0.0.Beta2
+  latest: 27.0.0.Beta3
+  release: 27.0.0.Beta3
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -392,4 +392,5 @@ versioning:
   - 26.0.1.Final
   - 27.0.0.Beta1
   - 27.0.0.Beta2
-  lastUpdated: 20241030095418
+  - 27.0.0.Beta3
+  lastUpdated: 20241121102824

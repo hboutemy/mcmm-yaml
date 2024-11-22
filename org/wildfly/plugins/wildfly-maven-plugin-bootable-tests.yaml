@@ -3,8 +3,8 @@
 groupId: org.wildfly.plugins
 artifactId: wildfly-maven-plugin-bootable-tests
 versioning:
-  latest: 5.1.0.Alpha1
-  release: 5.1.0.Alpha1
+  latest: 5.1.0.Alpha2
+  release: 5.1.0.Alpha2
   versions:
   - 5.0.0.Beta1
   - 5.0.0.Beta2
@@ -14,4 +14,5 @@ versioning:
   - 5.0.0.Final
   - 5.0.1.Final
   - 5.1.0.Alpha1
-  lastUpdated: 20241114152246
+  - 5.1.0.Alpha2
+  lastUpdated: 20241121162407

@@ -3,8 +3,8 @@
 groupId: io.gravitee.node
 artifactId: gravitee-node-tracing
 versioning:
-  latest: 6.5.0
-  release: 6.5.0
+  latest: 6.6.0
+  release: 6.6.0
   versions:
   - 1.16.0
   - 1.16.1
@@ -152,6 +152,7 @@ versioning:
   - 4.8.5
   - 4.8.6
   - 4.8.7
+  - 4.8.8
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -220,4 +221,5 @@ versioning:
   - 6.4.5
   - 6.4.6
   - 6.5.0
-  lastUpdated: 20241017085944
+  - 6.6.0
+  lastUpdated: 20241121151918
