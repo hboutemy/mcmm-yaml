@@ -3,8 +3,8 @@
 groupId: org.opencastproject
 artifactId: opencast-security-jwt
 versioning:
-  latest: 16.6
-  release: 16.6
+  latest: 16.7
+  release: 16.7
   versions:
   - 10.2
   - 10.3
@@ -76,6 +76,7 @@ versioning:
   - 15.9
   - 15.10
   - 15.11
+  - 15.12
   - 16.0
   - 16.1
   - 16.2
@@ -83,4 +84,5 @@ versioning:
   - 16.4
   - 16.5
   - 16.6
-  lastUpdated: 20241018173324
+  - 16.7
+  lastUpdated: 20241122230647
