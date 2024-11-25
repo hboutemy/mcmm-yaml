@@ -3,9 +3,11 @@
 groupId: org.apache.flink
 artifactId: flink-connector-hbase-e2e-tests
 versioning:
-  latest: 3.0.0-1.17
-  release: 3.0.0-1.17
+  latest: 4.0.0-1.19
+  release: 4.0.0-1.19
   versions:
   - 3.0.0-1.16
   - 3.0.0-1.17
-  lastUpdated: 20230912084049
+  - 4.0.0-1.18
+  - 4.0.0-1.19
+  lastUpdated: 20241124101644

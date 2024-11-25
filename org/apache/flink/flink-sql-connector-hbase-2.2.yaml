@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-sql-connector-hbase-2.2
 versioning:
-  latest: 3.0.0-1.17
-  release: 3.0.0-1.17
+  latest: 4.0.0-1.19
+  release: 4.0.0-1.19
   versions:
   - 1.15.0
   - 1.15.1
@@ -20,4 +20,6 @@ versioning:
   - 1.17.2
   - 3.0.0-1.16
   - 3.0.0-1.17
-  lastUpdated: 20231128052916
+  - 4.0.0-1.18
+  - 4.0.0-1.19
+  lastUpdated: 20241124101657
