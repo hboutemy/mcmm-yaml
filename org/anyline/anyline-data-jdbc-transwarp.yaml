@@ -3,9 +3,12 @@
 groupId: org.anyline
 artifactId: anyline-data-jdbc-transwarp
 versioning:
-  latest: 8.7.2-20241120
-  release: 8.7.2-20241120
+  latest: 8.7.2-20241125
+  release: 8.7.2-20241125
   versions:
+  - 8.7.2-jdk17-20241125
+  - 8.7.2-jdk21-20241125
   - 8.7.2-20241107
   - 8.7.2-20241120
-  lastUpdated: 20241120082017
+  - 8.7.2-20241125
+  lastUpdated: 20241125084916

@@ -3,8 +3,8 @@
 groupId: com.sap.cloud.spring.boot
 artifactId: spring-boot-service-connector-hana
 versioning:
-  latest: 3.3.1
-  release: 3.3.1
+  latest: 3.3.2
+  release: 3.3.2
   versions:
   - 1.0.1
   - 1.1.0
@@ -82,6 +82,7 @@ versioning:
   - 2.10.2
   - 2.10.3
   - 2.10.4
+  - 2.10.5
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -91,4 +92,5 @@ versioning:
   - 3.2.0
   - 3.3.0
   - 3.3.1
-  lastUpdated: 20241015094714
+  - 3.3.2
+  lastUpdated: 20241125175620
