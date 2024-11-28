@@ -3,8 +3,8 @@
 groupId: org.openrewrite.recipe
 artifactId: rewrite-sql
 versioning:
-  latest: 1.11.1
-  release: 1.11.1
+  latest: 1.12.0
+  release: 1.12.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -46,4 +46,5 @@ versioning:
   - 1.10.2
   - 1.11.0
   - 1.11.1
-  lastUpdated: 20241113155928
+  - 1.12.0
+  lastUpdated: 20241127141727
