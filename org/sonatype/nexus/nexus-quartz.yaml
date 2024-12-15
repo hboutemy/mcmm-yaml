@@ -3,11 +3,12 @@
 groupId: org.sonatype.nexus
 artifactId: nexus-quartz
 versioning:
-  latest: 3.74.0-05
-  release: 3.74.0-05
+  latest: 3.75.0-06
+  release: 3.75.0-06
   versions:
   - 3.72.0-04
   - 3.74.0-05
+  - 3.75.0-06
   - 3.0.0-03
   - 3.0.0-b2016011501
   - 3.0.1-01
@@ -152,4 +153,4 @@ versioning:
   - 3.71.0-06
   - 3.8.0-02
   - 3.9.0-01
-  lastUpdated: 20241105115306
+  lastUpdated: 20241203210159

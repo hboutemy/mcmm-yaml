@@ -3,8 +3,8 @@
 groupId: org.flywaydb
 artifactId: flyway-database-cassandra
 versioning:
-  latest: 11.0.0
-  release: 11.0.0
+  latest: 11.0.1
+  release: 11.0.1
   versions:
   - 10.17.1
   - 10.17.2
@@ -18,4 +18,5 @@ versioning:
   - 10.21.0
   - 10.22.0
   - 11.0.0
-  lastUpdated: 20241121144317
+  - 11.0.1
+  lastUpdated: 20241203141331

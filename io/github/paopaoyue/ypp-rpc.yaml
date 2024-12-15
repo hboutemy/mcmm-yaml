@@ -3,8 +3,8 @@
 groupId: io.github.paopaoyue
 artifactId: ypp-rpc
 versioning:
-  latest: 0.1.1
-  release: 0.1.1
+  latest: 0.1.2-jdk8
+  release: 0.1.2-jdk8
   versions:
   - 0.0.20
   - 0.0.20-jdk8
@@ -19,6 +19,8 @@ versioning:
   - 0.0.27-jdk8
   - 0.1.0
   - 0.1.1
+  - 0.1.2
+  - 0.1.2-jdk8
   - 0.0.1
   - 0.0.10-jdk8
   - 0.0.11-jdk8
@@ -47,4 +49,4 @@ versioning:
   - 0.0.9-jdk8
   - 0.1.0-jdk8
   - 0.1.1-jdk8
-  lastUpdated: 20241007005542
+  lastUpdated: 20241203134859
