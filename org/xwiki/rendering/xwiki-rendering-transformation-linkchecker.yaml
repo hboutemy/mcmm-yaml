@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.rendering
 artifactId: xwiki-rendering-transformation-linkchecker
 versioning:
-  latest: 16.10.0-rc-1
-  release: 16.10.0-rc-1
+  latest: 16.10.0
+  release: 16.10.0
   versions:
   - 3.3-milestone-1
   - 3.3-milestone-2
@@ -491,4 +491,5 @@ versioning:
   - 16.9.0-rc-1
   - 16.9.0
   - 16.10.0-rc-1
-  lastUpdated: 20241119094810
+  - 16.10.0
+  lastUpdated: 20241128111524
