@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: pulsar-bom
 versioning:
-  latest: 4.0.0-preview.1
-  release: 4.0.0-preview.1
+  latest: 4.0.1
+  release: 4.0.1
   versions:
   - 3.2.0
   - 3.2.1
@@ -15,4 +15,5 @@ versioning:
   - 3.3.2
   - 4.0.0
   - 4.0.0-preview.1
-  lastUpdated: 20241021180751
+  - 4.0.1
+  lastUpdated: 20241202185651

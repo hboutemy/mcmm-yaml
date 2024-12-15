@@ -3,8 +3,8 @@
 groupId: com.aliyun.odps
 artifactId: odps-jdbc
 versioning:
-  latest: 3.9.0-rc2
-  release: 3.9.0-rc2
+  latest: 3.9.0-rc4
+  release: 3.9.0-rc4
   versions:
   - 1.0-public
   - 1.1
@@ -64,4 +64,6 @@ versioning:
   - 3.9.0-rc0
   - 3.9.0-rc1
   - 3.9.0-rc2
-  lastUpdated: 20241127110024
+  - 3.9.0-rc3
+  - 3.9.0-rc4
+  lastUpdated: 20241202053858
