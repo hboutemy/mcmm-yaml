@@ -3,8 +3,8 @@
 groupId: org.opensearch.migrations.trafficcapture
 artifactId: captureKafkaOffloader
 versioning:
-  latest: 0.2.1.0
-  release: 0.2.1.0
+  latest: 0.2.1.1
+  release: 0.2.1.1
   versions:
   - 0.1.0
   - 0.1.0.4
@@ -28,4 +28,5 @@ versioning:
   - 0.2.0.3
   - 0.2.0.4
   - 0.2.1.0
-  lastUpdated: 20241129193630
+  - 0.2.1.1
+  lastUpdated: 20241213225428

@@ -3,8 +3,8 @@
 groupId: com.slack.foundry.apk-versioning
 artifactId: com.slack.foundry.apk-versioning.gradle.plugin
 versioning:
-  latest: 0.23.4
-  release: 0.23.4
+  latest: 0.23.7
+  release: 0.23.7
   versions:
   - 0.20.0-alpha01
   - 0.20.0-alpha03
@@ -25,4 +25,7 @@ versioning:
   - 0.23.2
   - 0.23.3
   - 0.23.4
-  lastUpdated: 20241211223150
+  - 0.23.5
+  - 0.23.6
+  - 0.23.7
+  lastUpdated: 20241213182134

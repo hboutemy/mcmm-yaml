@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-jdbc
 versioning:
-  latest: 6.0.1
-  release: 6.0.1
+  latest: 6.1.0
+  release: 6.1.0
   versions:
   - 3.0
   - 3.0.1
@@ -34,4 +34,5 @@ versioning:
   - 6.0.0-RC1
   - 6.0.0
   - 6.0.1
-  lastUpdated: 20241104085542
+  - 6.1.0
+  lastUpdated: 20241213065426
