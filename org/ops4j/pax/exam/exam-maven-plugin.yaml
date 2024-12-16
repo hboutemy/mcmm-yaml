@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.ops4j.pax.exam
 artifactId: exam-maven-plugin
 versioning:
-  latest: 4.13.1
-  release: 4.13.1
+  latest: 4.14.0
+  release: 4.14.0
   versions:
   - 3.0.0.M4
   - 3.0.0.RC1
@@ -40,4 +41,4 @@ versioning:
   - 4.13.4
   - 4.13.5
   - 4.14.0
-  lastUpdated: 20181209073113
+  lastUpdated: 20241130230724

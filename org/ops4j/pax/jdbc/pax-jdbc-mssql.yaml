@@ -3,9 +3,14 @@
 groupId: org.ops4j.pax.jdbc
 artifactId: pax-jdbc-mssql
 versioning:
-  latest: 1.4.0
-  release: 1.4.0
+  latest: 1.4.5
+  release: 1.4.5
   versions:
+  - 1.4.1
+  - 1.4.2
+  - 1.4.3
+  - 1.4.4
+  - 1.4.5
   - 0.6.0
   - 0.7.0
   - 0.8.0
@@ -22,9 +27,4 @@ versioning:
   - 1.3.4
   - 1.3.5
   - 1.4.0
-  - 1.4.1
-  - 1.4.2
-  - 1.4.3
-  - 1.4.4
-  - 1.4.5
-  lastUpdated: 20190719144425
+  lastUpdated: 20200303111321

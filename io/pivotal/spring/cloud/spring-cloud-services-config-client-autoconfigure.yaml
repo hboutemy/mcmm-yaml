@@ -3,8 +3,8 @@
 groupId: io.pivotal.spring.cloud
 artifactId: spring-cloud-services-config-client-autoconfigure
 versioning:
-  latest: 4.1.6
-  release: 4.1.6
+  latest: 4.2.0
+  release: 4.2.0
   versions:
   - 3.0.0.RC1
   - 3.0.0.RELEASE
@@ -40,6 +40,7 @@ versioning:
   - 4.0.3
   - 4.0.4
   - 4.0.5
+  - 4.0.6
   - 4.1.0
   - 4.1.1
   - 4.1.2
@@ -47,5 +48,7 @@ versioning:
   - 4.1.4
   - 4.1.5
   - 4.1.6
+  - 4.1.7
+  - 4.2.0
   - 3.1.3.RELEASE
-  lastUpdated: 20241106102714
+  lastUpdated: 20241204100047

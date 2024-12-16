@@ -3,9 +3,14 @@
 groupId: org.ops4j.pax.jdbc
 artifactId: pax-jdbc-checkstyle-rules
 versioning:
-  latest: 1.4.0
-  release: 1.4.0
+  latest: 1.4.5
+  release: 1.4.5
   versions:
+  - 1.4.1
+  - 1.4.2
+  - 1.4.3
+  - 1.4.4
+  - 1.4.5
   - 1.3.0
   - 1.3.1
   - 1.3.2
@@ -13,9 +18,4 @@ versioning:
   - 1.3.4
   - 1.3.5
   - 1.4.0
-  - 1.4.1
-  - 1.4.2
-  - 1.4.3
-  - 1.4.4
-  - 1.4.5
-  lastUpdated: 20190719144416
+  lastUpdated: 20200303111302

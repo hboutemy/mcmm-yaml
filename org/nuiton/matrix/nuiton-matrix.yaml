@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.nuiton.matrix
 artifactId: nuiton-matrix
 versioning:
-  latest: 2.8
+  latest: 2.8.1
   release: 2.8.1
   versions:
   - 2.1
@@ -27,4 +28,4 @@ versioning:
   - 2.8
   - 2.8.1
   - 2.6-taiste-gitflow
-  lastUpdated: 20241104155133
+  lastUpdated: 20241203230756
