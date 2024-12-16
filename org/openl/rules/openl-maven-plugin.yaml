@@ -3,8 +3,8 @@
 groupId: org.openl.rules
 artifactId: openl-maven-plugin
 versioning:
-  latest: 5.27.9
-  release: 5.27.9
+  latest: 5.27.9-jakarta
+  release: 5.27.9-jakarta
   versions:
   - 5.12.0
   - 5.12.1
@@ -162,4 +162,5 @@ versioning:
   - 5.27.8
   - 5.27.8.1
   - 5.27.9
-  lastUpdated: 20241113162907
+  - 5.27.9-jakarta
+  lastUpdated: 20241211161924

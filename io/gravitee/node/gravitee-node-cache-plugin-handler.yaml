@@ -3,8 +3,8 @@
 groupId: io.gravitee.node
 artifactId: gravitee-node-cache-plugin-handler
 versioning:
-  latest: 7.0.0-alpha.7
-  release: 7.0.0-alpha.7
+  latest: 7.0.0-alpha.8
+  release: 7.0.0-alpha.8
   versions:
   - 3.1.0-alpha.5
   - 3.1.0-alpha.6
@@ -53,6 +53,7 @@ versioning:
   - 4.8.6
   - 4.8.7
   - 4.8.8
+  - 4.8.9
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -82,6 +83,7 @@ versioning:
   - 5.12.7
   - 5.12.8
   - 5.12.9
+  - 5.12.10
   - 5.13.0
   - 5.14.0
   - 5.14.1
@@ -111,6 +113,7 @@ versioning:
   - 6.0.7
   - 6.0.8
   - 6.0.9
+  - 6.0.10
   - 6.1.0
   - 6.2.0
   - 6.3.0
@@ -124,10 +127,12 @@ versioning:
   - 6.5.0
   - 6.6.0
   - 6.7.0
+  - 6.8.0
   - 7.0.0-alpha.1
   - 7.0.0-alpha.2
   - 7.0.0-alpha.3
   - 7.0.0-alpha.4
   - 7.0.0-alpha.6
   - 7.0.0-alpha.7
-  lastUpdated: 20241209135046
+  - 7.0.0-alpha.8
+  lastUpdated: 20241211162846

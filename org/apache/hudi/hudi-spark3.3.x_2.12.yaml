@@ -3,8 +3,8 @@
 groupId: org.apache.hudi
 artifactId: hudi-spark3.3.x_2.12
 versioning:
-  latest: 1.0.0-beta2
-  release: 1.0.0-beta2
+  latest: 1.0.0
+  release: 1.0.0
   versions:
   - 0.12.0
   - 0.12.1-rc2
@@ -18,4 +18,5 @@ versioning:
   - 0.15.0
   - 1.0.0-beta1
   - 1.0.0-beta2
-  lastUpdated: 20240713155903
+  - 1.0.0
+  lastUpdated: 20241211062919
