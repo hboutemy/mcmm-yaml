@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.hibernate
 artifactId: hibernate-c3p0
 versioning:
-  latest: 7.0.0.Beta2
-  release: 7.0.0.Beta2
+  latest: 7.0.0.Beta3
+  release: 7.0.0.Beta3
   versions:
   - 3.3.0.CR1
   - 3.3.0.CR2
@@ -207,6 +207,7 @@ versioning:
   - 5.3.34.Final
   - 5.3.35.Final
   - 5.3.36.Final
+  - 5.3.37.Final
   - 5.4.0.CR1
   - 5.4.0.CR2
   - 5.4.0.Final
@@ -370,6 +371,7 @@ versioning:
   - 7.0.0.Alpha3
   - 7.0.0.Beta1
   - 7.0.0.Beta2
+  - 7.0.0.Beta3
   - 4.1.2
   - 5.1.13.Final
   - 5.1.14.Final
@@ -382,4 +384,4 @@ versioning:
   - 5.2.17.Final
   - 5.4.33.Final
   - 5.5.6.Final
-  lastUpdated: 20241121170957
+  lastUpdated: 20241205155821

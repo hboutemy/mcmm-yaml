@@ -3,8 +3,8 @@
 groupId: org.faktorips
 artifactId: eclipse-platform-dependencies
 versioning:
-  latest: 25.1.0.rc02
-  release: 25.1.0.rc02
+  latest: 25.1.0.release
+  release: 25.1.0.release
   versions:
   - 23.1.0.release
   - 23.6.0.a20230301-01
@@ -54,4 +54,5 @@ versioning:
   - 24.7.6.release
   - 25.1.0.a20241030-01
   - 25.1.0.rc02
-  lastUpdated: 20241202151111
+  - 25.1.0.release
+  lastUpdated: 20241205145616

@@ -3,8 +3,8 @@
 groupId: io.split.client
 artifactId: redis-wrapper
 versioning:
-  latest: 4.13.1.rc1
-  release: 4.13.1.rc1
+  latest: 4.13.1
+  release: 4.13.1
   versions:
   - 1.0.0-alpha
   - 1.0.0-beta
@@ -20,4 +20,5 @@ versioning:
   - 3.1.0
   - 4.13.0-rc3
   - 4.13.1.rc1
-  lastUpdated: 20241127193648
+  - 4.13.1
+  lastUpdated: 20241205194320

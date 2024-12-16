@@ -3,8 +3,8 @@
 groupId: org.ossreviewtoolkit.plugins.packagemanagers
 artifactId: bazel-package-manager
 versioning:
-  latest: 42.0.0
-  release: 42.0.0
+  latest: 42.1.0
+  release: 42.1.0
   versions:
   - 20.0.0
   - 20.1.0
@@ -43,4 +43,5 @@ versioning:
   - 40.0.1
   - 41.0.0
   - 42.0.0
-  lastUpdated: 20241128085649
+  - 42.1.0
+  lastUpdated: 20241205084747
