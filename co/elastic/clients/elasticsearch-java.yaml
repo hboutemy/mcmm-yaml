@@ -3,8 +3,8 @@
 groupId: co.elastic.clients
 artifactId: elasticsearch-java
 versioning:
-  latest: 8.16.1
-  release: 8.16.1
+  latest: 8.17.0
+  release: 8.17.0
   versions:
   - 7.15.0
   - 7.15.1
@@ -105,4 +105,6 @@ versioning:
   - 8.15.5
   - 8.16.0
   - 8.16.1
-  lastUpdated: 20241204094205
+  - 8.16.2
+  - 8.17.0
+  lastUpdated: 20241212155236

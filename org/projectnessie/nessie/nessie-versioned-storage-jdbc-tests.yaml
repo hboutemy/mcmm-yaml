@@ -3,8 +3,8 @@
 groupId: org.projectnessie.nessie
 artifactId: nessie-versioned-storage-jdbc-tests
 versioning:
-  latest: 0.101.1
-  release: 0.101.1
+  latest: 0.101.2
+  release: 0.101.2
   versions:
   - 0.77.0
   - 0.77.1
@@ -45,4 +45,5 @@ versioning:
   - 0.100.3
   - 0.101.0
   - 0.101.1
-  lastUpdated: 20241209161423
+  - 0.101.2
+  lastUpdated: 20241212043116

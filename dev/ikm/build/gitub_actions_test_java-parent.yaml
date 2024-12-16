@@ -3,8 +3,8 @@
 groupId: dev.ikm.build
 artifactId: gitub_actions_test_java-parent
 versioning:
-  latest: 7.1.15
-  release: 7.1.15
+  latest: 7.15.0
+  release: 7.15.0
   versions:
   - 1.116.0
   - 1.117.0
@@ -22,4 +22,9 @@ versioning:
   - 6.0.0
   - 7.0.1
   - 7.1.15
-  lastUpdated: 20241203230839
+  - 7.10.0
+  - 7.11.0
+  - 7.12.0
+  - 7.14.0
+  - 7.15.0
+  lastUpdated: 20241212184759
