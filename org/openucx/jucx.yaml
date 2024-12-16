@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.openucx
 artifactId: jucx
 versioning:
-  latest: 1.18.0-rc1-aarch64
-  release: 1.18.0-rc1-aarch64
+  latest: 1.18.0-rc2-aarch64
+  release: 1.18.0-rc2-aarch64
   versions:
   - 0
   - 1.7.0
@@ -105,8 +105,10 @@ versioning:
   - 1.17.0-aarch64
   - 1.18.0-rc1
   - 1.18.0-rc1-aarch64
+  - 1.18.0-rc2
+  - 1.18.0-rc2-aarch64
   - 1.10.0-rc2-dbg
   - 1.11
   - 1.14
   - 42
-  lastUpdated: 20241202120259
+  lastUpdated: 20241210163218

@@ -3,17 +3,10 @@
 groupId: org.optaplanner
 artifactId: optaplanner-quarkus-integration-test
 versioning:
-  latest: 9.44.0.Final
-  release: 9.44.0.Final
+  latest: 10.0.0
+  release: 10.0.0
   versions:
-  - 8.4.0.Final
-  - 8.4.1.Final
-  - 8.5.0.Final
-  - 8.6.0.Final
-  - 8.7.0.Final
-  - 8.8.0.Final
-  - 8.9.0.Final
-  - 8.9.1.Final
+  - 10.0.0
   - 8.10.0.Final
   - 8.11.0.Final
   - 8.11.1.Final
@@ -49,11 +42,19 @@ versioning:
   - 8.36.0.Final
   - 8.37.0.Final
   - 8.38.0.Final
+  - 8.4.0.Final
+  - 8.4.1.Final
   - 8.40.0.Final
   - 8.41.0.Final
   - 8.42.0.Final
   - 8.43.0.Final
   - 8.44.0.Final
+  - 8.5.0.Final
+  - 8.6.0.Final
+  - 8.7.0.Final
+  - 8.8.0.Final
+  - 8.9.0.Final
+  - 8.9.1.Final
   - 9.34.0.Beta1
   - 9.35.0.Beta2
   - 9.36.0.Beta3
@@ -64,4 +65,4 @@ versioning:
   - 9.42.0.Final
   - 9.43.0.Final
   - 9.44.0.Final
-  lastUpdated: 20230905161650
+  lastUpdated: 20241209233902

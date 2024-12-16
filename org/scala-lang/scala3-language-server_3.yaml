@@ -3,8 +3,8 @@
 groupId: org.scala-lang
 artifactId: scala3-language-server_3
 versioning:
-  latest: 3.6.4-RC1-bin-20241205-c61897d-NIGHTLY
-  release: 3.6.4-RC1-bin-20241205-c61897d-NIGHTLY
+  latest: 3.6.4-RC1-bin-20241209-1775d0b-NIGHTLY
+  release: 3.6.4-RC1-bin-20241209-1775d0b-NIGHTLY
   versions:
   - 3.0.0
   - 3.0.1-RC1
@@ -667,6 +667,7 @@ versioning:
   - 3.3.4-RC3
   - 3.3.4-RC4
   - 3.3.4
+  - 3.3.5-RC1
   - 3.3.5-RC1-bin-20240712-4eb7668-NIGHTLY
   - 3.3.5-RC1-bin-20240808-53791b0-NIGHTLY
   - 3.3.5-RC1-bin-20240925-9eb858b-NIGHTLY
@@ -675,6 +676,7 @@ versioning:
   - 3.3.5-RC1-bin-20241202-8e7690b-NIGHTLY
   - 3.3.5-RC1-bin-20241203-6ba335a-NIGHTLY
   - 3.3.5-RC1-bin-20241204-5f2d7ef-NIGHTLY
+  - 3.3.5-RC1-bin-20241209-fa617ff-NIGHTLY
   - 3.4.0-RC1
   - 3.4.0-RC1-bin-20230725-18df4ed-NIGHTLY
   - 3.4.0-RC1-bin-20230726-97677cc-NIGHTLY
@@ -1010,6 +1012,7 @@ versioning:
   - 3.6.2-RC2
   - 3.6.2-RC3
   - 3.6.2
+  - 3.6.3-RC1
   - 3.6.3-RC1-bin-20241107-caac72a-NIGHTLY
   - 3.6.3-RC1-bin-20241108-8a3f375-NIGHTLY
   - 3.6.3-RC1-bin-20241109-cc38962-NIGHTLY
@@ -1032,4 +1035,5 @@ versioning:
   - 3.6.4-RC1-bin-20241203-a3425a9-NIGHTLY
   - 3.6.4-RC1-bin-20241204-a67dbb0-NIGHTLY
   - 3.6.4-RC1-bin-20241205-c61897d-NIGHTLY
-  lastUpdated: 20241209134049
+  - 3.6.4-RC1-bin-20241209-1775d0b-NIGHTLY
+  lastUpdated: 20241210184047

@@ -3,8 +3,8 @@
 groupId: org.open-metadata
 artifactId: openmetadata-service
 versioning:
-  latest: 1.6.0-rc3
-  release: 1.6.0-rc3
+  latest: 1.6.1
+  release: 1.6.1
   versions:
   - DEMO_BETA1
   - 0.12.1
@@ -87,4 +87,6 @@ versioning:
   - 1.6.0-rc1
   - 1.6.0-rc2
   - 1.6.0-rc3
-  lastUpdated: 20241205132505
+  - 1.6.0
+  - 1.6.1
+  lastUpdated: 20241210174222

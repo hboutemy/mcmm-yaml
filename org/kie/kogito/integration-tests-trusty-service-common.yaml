@@ -3,21 +3,12 @@
 groupId: org.kie.kogito
 artifactId: integration-tests-trusty-service-common
 versioning:
-  latest: 2.44.0.Alpha
-  release: 2.44.0.Alpha
+  latest: 10.0.0
+  release: 10.0.0
   versions:
+  - 10.0.0
   - 1.0.0.Final
   - 1.1.0.Final
-  - 1.2.0.Final
-  - 1.3.0.Final
-  - 1.4.0.Final
-  - 1.4.1.Final
-  - 1.5.0.Final
-  - 1.6.0.Final
-  - 1.7.0.Final
-  - 1.8.0.Final
-  - 1.9.0.Final
-  - 1.9.1.Final
   - 1.10.0.Final
   - 1.11.0.Final
   - 1.11.1.Final
@@ -31,6 +22,7 @@ versioning:
   - 1.17.0.Final
   - 1.18.0.Final
   - 1.19.0.Final
+  - 1.2.0.Final
   - 1.20.0.Final
   - 1.21.0.Final
   - 1.22.0.Final
@@ -43,6 +35,7 @@ versioning:
   - 1.27.0.Final
   - 1.28.0.Final
   - 1.29.0.Final
+  - 1.3.0.Final
   - 1.30.0.Final
   - 1.31.0.Final
   - 1.31.1.Final
@@ -55,6 +48,8 @@ versioning:
   - 1.37.0.Final
   - 1.38.0.Final
   - 1.39.0.Final
+  - 1.4.0.Final
+  - 1.4.1.Final
   - 1.40.0.Final
   - 1.40.1.Final
   - 1.41.0.Final
@@ -62,5 +57,11 @@ versioning:
   - 1.43.0.Final
   - 1.44.0.Final
   - 1.44.1.Final
+  - 1.5.0.Final
+  - 1.6.0.Final
+  - 1.7.0.Final
+  - 1.8.0.Final
+  - 1.9.0.Final
+  - 1.9.1.Final
   - 2.44.0.Alpha
-  lastUpdated: 20230907121507
+  lastUpdated: 20241210001522

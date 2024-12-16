@@ -3,17 +3,10 @@
 groupId: org.kie.kogito
 artifactId: trusty-service-common
 versioning:
-  latest: 2.44.0.Alpha
-  release: 2.44.0.Alpha
+  latest: 10.0.0
+  release: 10.0.0
   versions:
-  - 1.4.0.Final
-  - 1.4.1.Final
-  - 1.5.0.Final
-  - 1.6.0.Final
-  - 1.7.0.Final
-  - 1.8.0.Final
-  - 1.9.0.Final
-  - 1.9.1.Final
+  - 10.0.0
   - 1.10.0.Final
   - 1.11.0.Final
   - 1.11.1.Final
@@ -51,6 +44,8 @@ versioning:
   - 1.37.0.Final
   - 1.38.0.Final
   - 1.39.0.Final
+  - 1.4.0.Final
+  - 1.4.1.Final
   - 1.40.0.Final
   - 1.40.1.Final
   - 1.40.2.Final
@@ -59,5 +54,11 @@ versioning:
   - 1.43.0.Final
   - 1.44.0.Final
   - 1.44.1.Final
+  - 1.5.0.Final
+  - 1.6.0.Final
+  - 1.7.0.Final
+  - 1.8.0.Final
+  - 1.9.0.Final
+  - 1.9.1.Final
   - 2.44.0.Alpha
-  lastUpdated: 20231110122436
+  lastUpdated: 20241210001856
