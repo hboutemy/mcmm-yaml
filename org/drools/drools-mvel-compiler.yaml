@@ -3,9 +3,10 @@
 groupId: org.drools
 artifactId: drools-mvel-compiler
 versioning:
-  latest: 9.44.0.Final
-  release: 9.44.0.Final
+  latest: 10.0.0
+  release: 10.0.0
   versions:
+  - 10.0.0
   - 7.24.0.Final
   - 7.24.0.t043
   - 7.25.0.Final
@@ -21,16 +22,16 @@ versioning:
   - 7.33.0.Final
   - 7.34.0.Final
   - 7.35.0.Final
-  - 7.36.0.Final
   - 7.36.0.20200330
   - 7.36.0.20200331
+  - 7.36.0.Final
   - 7.36.1.Final
   - 7.37.0.Final
   - 7.38.0.Final
   - 7.39.0.CR1
   - 7.39.0.Final
-  - 7.40.0.Final
   - 7.40.0.20200703
+  - 7.40.0.Final
   - 7.41.0.Final
   - 7.41.0.t20200723
   - 7.42.0.Final
@@ -128,4 +129,4 @@ versioning:
   - 9.42.0.Alpha
   - 9.43.0.Alpha
   - 9.44.0.Final
-  lastUpdated: 20240422092207
+  lastUpdated: 20241209232004

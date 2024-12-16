@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat
 artifactId: tomcat-jni
 versioning:
-  latest: 11.0.1
-  release: 11.0.1
+  latest: 11.0.2
+  release: 11.0.2
   versions:
   - 8.0.0-RC1
   - 8.0.0-RC3
@@ -235,6 +235,7 @@ versioning:
   - 9.0.95
   - 9.0.96
   - 9.0.97
+  - 9.0.98
   - 10.0.0-M1
   - 10.0.0-M3
   - 10.0.0-M4
@@ -308,6 +309,7 @@ versioning:
   - 10.1.30
   - 10.1.31
   - 10.1.33
+  - 10.1.34
   - 11.0.0-M1
   - 11.0.0-M3
   - 11.0.0-M4
@@ -333,4 +335,5 @@ versioning:
   - 11.0.0-M26
   - 11.0.0
   - 11.0.1
-  lastUpdated: 20241111143205
+  - 11.0.2
+  lastUpdated: 20241209195034

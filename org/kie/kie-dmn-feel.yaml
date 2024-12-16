@@ -3,9 +3,10 @@
 groupId: org.kie
 artifactId: kie-dmn-feel
 versioning:
-  latest: 9.44.0.Final
-  release: 9.44.0.Final
+  latest: 10.0.0
+  release: 10.0.0
   versions:
+  - 10.0.0
   - 7.0.0.Beta3
   - 7.0.0.Beta4
   - 7.0.0.Beta5
@@ -20,17 +21,6 @@ versioning:
   - 7.1.0.Beta2
   - 7.1.0.Beta3
   - 7.1.0.Final
-  - 7.2.0.Final
-  - 7.3.0.Final
-  - 7.4.0.Final
-  - 7.4.1.Final
-  - 7.5.0.Final
-  - 7.5.0.t018
-  - 7.6.0.Final
-  - 7.6.0.t022
-  - 7.7.0.Final
-  - 7.8.0.Final
-  - 7.9.0.Final
   - 7.10.0.Final
   - 7.11.0.Final
   - 7.12.0.Final
@@ -41,6 +31,7 @@ versioning:
   - 7.17.0.Final
   - 7.18.0.Final
   - 7.19.0.Final
+  - 7.2.0.Final
   - 7.20.0.Final
   - 7.21.0.Final
   - 7.22.0.Final
@@ -53,6 +44,7 @@ versioning:
   - 7.27.0.Final
   - 7.28.0.Final
   - 7.29.0.Final
+  - 7.3.0.Final
   - 7.30.0.Final
   - 7.31.0.Final
   - 7.32.0.Final
@@ -61,16 +53,18 @@ versioning:
   - 7.33.0.Final
   - 7.34.0.Final
   - 7.35.0.Final
-  - 7.36.0.Final
   - 7.36.0.20200330
   - 7.36.0.20200331
+  - 7.36.0.Final
   - 7.36.1.Final
   - 7.37.0.Final
   - 7.38.0.Final
   - 7.39.0.CR1
   - 7.39.0.Final
-  - 7.40.0.Final
+  - 7.4.0.Final
+  - 7.4.1.Final
   - 7.40.0.20200703
+  - 7.40.0.Final
   - 7.41.0.Final
   - 7.41.0.t20200723
   - 7.42.0.Final
@@ -88,6 +82,8 @@ versioning:
   - 7.48.0.Final
   - 7.49.0.Final
   - 7.49.0.t20210118
+  - 7.5.0.Final
+  - 7.5.0.t018
   - 7.50.0.Final
   - 7.50.0.t20210209
   - 7.51.0.Final
@@ -108,6 +104,8 @@ versioning:
   - 7.58.0.Final
   - 7.59.0.Beta1
   - 7.59.0.Final
+  - 7.6.0.Final
+  - 7.6.0.t022
   - 7.60.0.Final
   - 7.61.0.Final
   - 7.62.0.Final
@@ -119,12 +117,15 @@ versioning:
   - 7.67.0.Final
   - 7.68.0.Final
   - 7.69.0.Final
+  - 7.7.0.Final
   - 7.70.0.Final
   - 7.71.0.Final
   - 7.72.0.Final
   - 7.73.0.Final
   - 7.74.0.Final
   - 7.74.1.Final
+  - 7.8.0.Final
+  - 7.9.0.Final
   - 8.13.0.Beta
   - 8.14.0.Beta
   - 8.14.1.Beta
@@ -168,4 +169,4 @@ versioning:
   - 9.42.0.Alpha
   - 9.43.0.Alpha
   - 9.44.0.Final
-  lastUpdated: 20240422092304
+  lastUpdated: 20241209232824

@@ -3,8 +3,8 @@
 groupId: org.projectnessie.nessie
 artifactId: nessie-trino-testcontainer
 versioning:
-  latest: 0.101.0
-  release: 0.101.0
+  latest: 0.101.1
+  release: 0.101.1
   versions:
   - 0.94.0
   - 0.94.1
@@ -23,4 +23,5 @@ versioning:
   - 0.100.2
   - 0.100.3
   - 0.101.0
-  lastUpdated: 20241206083824
+  - 0.101.1
+  lastUpdated: 20241209161330
