@@ -3,10 +3,12 @@
 groupId: org.galaxio
 artifactId: gatling-jdbc-plugin_2.13
 versioning:
-  latest: 0.12.0
-  release: 0.12.0
+  latest: 0.13.0-latest
+  release: 0.13.0-latest
   versions:
   - 0.10.3
   - 0.11.0
   - 0.12.0
-  lastUpdated: 20240626220412
+  - 0.13.0
+  - 0.13.0-latest
+  lastUpdated: 20241215190903
