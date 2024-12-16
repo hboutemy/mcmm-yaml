@@ -3,8 +3,8 @@
 groupId: org.sonatype.nexus.assemblies
 artifactId: nexus-base-overlay
 versioning:
-  latest: 3.75.0-06
-  release: 3.75.0-06
+  latest: 3.75.1-01
+  release: 3.75.1-01
   versions:
   - 3.60.0-02
   - 3.61.0-01
@@ -27,4 +27,5 @@ versioning:
   - 3.72.0-04
   - 3.74.0-05
   - 3.75.0-06
-  lastUpdated: 20241203210159
+  - 3.75.1-01
+  lastUpdated: 20241206014234
