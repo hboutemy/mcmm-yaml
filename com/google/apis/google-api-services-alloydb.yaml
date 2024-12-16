@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-alloydb
 versioning:
-  latest: v1-rev20241106-2.0.0
-  release: v1-rev20241106-2.0.0
+  latest: v1-rev20241204-2.0.0
+  release: v1-rev20241204-2.0.0
   versions:
   - v1alpha-rev20230821-2.0.0
   - v1alpha-rev20230918-2.0.0
@@ -40,6 +40,7 @@ versioning:
   - v1alpha-rev20241015-2.0.0
   - v1alpha-rev20241023-2.0.0
   - v1alpha-rev20241106-2.0.0
+  - v1alpha-rev20241204-2.0.0
   - v1beta-rev20230821-2.0.0
   - v1beta-rev20230918-2.0.0
   - v1beta-rev20231006-2.0.0
@@ -74,6 +75,7 @@ versioning:
   - v1beta-rev20241015-2.0.0
   - v1beta-rev20241023-2.0.0
   - v1beta-rev20241106-2.0.0
+  - v1beta-rev20241204-2.0.0
   - v1-rev20230821-2.0.0
   - v1-rev20230918-2.0.0
   - v1-rev20231006-2.0.0
@@ -105,4 +107,5 @@ versioning:
   - v1-rev20241015-2.0.0
   - v1-rev20241023-2.0.0
   - v1-rev20241106-2.0.0
-  lastUpdated: 20241126210419
+  - v1-rev20241204-2.0.0
+  lastUpdated: 20241214090057
