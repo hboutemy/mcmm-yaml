@@ -3,8 +3,8 @@
 groupId: xyz.block.ftl
 artifactId: ftl-jvm-runtime-deployment
 versioning:
-  latest: 0.411.0
-  release: 0.411.0
+  latest: 0.412.6
+  release: 0.412.6
   versions:
   - jvm-publish
   - main
@@ -109,4 +109,7 @@ versioning:
   - 0.410.1
   - 0.410.2
   - 0.411.0
-  lastUpdated: 20241214215258
+  - 0.412.4
+  - 0.412.5
+  - 0.412.6
+  lastUpdated: 20241216064724

@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-io-jdbc
 versioning:
-  latest: 4.0.0.8
-  release: 4.0.0.8
+  latest: 4.0.0.9
+  release: 4.0.0.9
   versions:
   - master-rc-daily
   - v2.8.0-rc-202106091140
@@ -772,4 +772,5 @@ versioning:
   - 4.0.0.6
   - 4.0.0.7
   - 4.0.0.8
-  lastUpdated: 20241210042227
+  - 4.0.0.9
+  lastUpdated: 20241216095943

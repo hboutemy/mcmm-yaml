@@ -3,8 +3,8 @@
 groupId: org.bitcoinj
 artifactId: bitcoinj-core
 versioning:
-  latest: 0.17-beta1
-  release: 0.17-beta1
+  latest: 0.17-rc1
+  release: 0.17-rc1
   versions:
   - 0.12
   - 0.12.1
@@ -50,4 +50,5 @@ versioning:
   - 0.17-alpha4
   - 0.17-alpha5
   - 0.17-beta1
-  lastUpdated: 20241214143740
+  - 0.17-rc1
+  lastUpdated: 20241216162250

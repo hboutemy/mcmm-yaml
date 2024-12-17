@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.weld.module
 artifactId: weld-ejb
 versioning:
-  latest: 6.0.0.CR2
-  release: 6.0.0.CR2
+  latest: 6.0.0.Final
+  release: 6.0.0.Final
   versions:
   - 3.0.0.Alpha6
   - 3.0.0.Alpha7
@@ -71,6 +71,7 @@ versioning:
   - 5.1.1.SP2
   - 5.1.2.Final
   - 5.1.3.Final
+  - 5.1.4.Final
   - 6.0.0.Alpha1
   - 6.0.0.Beta1
   - 6.0.0.Beta2
@@ -78,4 +79,5 @@ versioning:
   - 6.0.0.Beta4
   - 6.0.0.CR1
   - 6.0.0.CR2
-  lastUpdated: 20241128110932
+  - 6.0.0.Final
+  lastUpdated: 20241216142947
