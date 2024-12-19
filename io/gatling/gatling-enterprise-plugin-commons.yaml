@@ -3,8 +3,8 @@
 groupId: io.gatling
 artifactId: gatling-enterprise-plugin-commons
 versioning:
-  latest: 1.11.0
-  release: 1.11.0
+  latest: 1.13.3
+  release: 1.13.3
   versions:
   - 0.0.2
   - 0.0.3-M20211214154739
@@ -15,6 +15,7 @@ versioning:
   - 0.0.3-M20220107092156
   - 0.0.3-M20220107151633
   - 0.0.3
+  - 0.13.0
   - 1.0.0
   - 1.0.1-M1
   - 1.0.1
@@ -79,4 +80,9 @@ versioning:
   - 1.9.9
   - 1.10.0
   - 1.11.0
-  lastUpdated: 20241126210506
+  - 1.12.0
+  - 1.13.0
+  - 1.13.1
+  - 1.13.2
+  - 1.13.3
+  lastUpdated: 20241218190740

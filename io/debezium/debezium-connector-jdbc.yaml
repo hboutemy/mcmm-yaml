@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-connector-jdbc
 versioning:
-  latest: 3.0.4.Final
-  release: 3.0.4.Final
+  latest: 3.0.5.Final
+  release: 3.0.5.Final
   versions:
   - 2.2.0.Beta1
   - 2.2.0.CR1
@@ -63,4 +63,5 @@ versioning:
   - 3.0.2.Final
   - 3.0.3.Final
   - 3.0.4.Final
-  lastUpdated: 20241211153440
+  - 3.0.5.Final
+  lastUpdated: 20241218124616

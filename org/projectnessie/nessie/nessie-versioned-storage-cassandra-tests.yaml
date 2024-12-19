@@ -3,8 +3,8 @@
 groupId: org.projectnessie.nessie
 artifactId: nessie-versioned-storage-cassandra-tests
 versioning:
-  latest: 0.101.2
-  release: 0.101.2
+  latest: 0.101.3
+  release: 0.101.3
   versions:
   - 0.77.0
   - 0.77.1
@@ -46,4 +46,5 @@ versioning:
   - 0.101.0
   - 0.101.1
   - 0.101.2
-  lastUpdated: 20241212043037
+  - 0.101.3
+  lastUpdated: 20241218180428
