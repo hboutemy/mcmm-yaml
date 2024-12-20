@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.main.admin
 artifactId: rest-service-parent
 versioning:
-  latest: 8.0.0-JDK17-M7
-  release: 8.0.0-JDK17-M7
+  latest: 8.0.0-JDK17-M9
+  release: 8.0.0-JDK17-M9
   versions:
   - 5.1.0
   - 6.0.0-M1
@@ -58,6 +58,7 @@ versioning:
   - 8.0.0-JDK17-M5
   - 8.0.0-JDK17-M6
   - 8.0.0-JDK17-M7
+  - 8.0.0-JDK17-M9
   - 4.0
   - 4.0-b33
   - 4.0-b72
@@ -69,4 +70,4 @@ versioning:
   - 5.0.1
   - 5.1.0-RC1
   - 5.1.0-RC2
-  lastUpdated: 20241217230826
+  lastUpdated: 20241219122506

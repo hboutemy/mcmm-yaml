@@ -3,8 +3,8 @@
 groupId: xyz.block.ftl
 artifactId: ftl-build-parent
 versioning:
-  latest: 0.413.0
-  release: 0.413.0
+  latest: 0.413.2
+  release: 0.413.2
   versions:
   - jvm-publish
   - main
@@ -113,4 +113,6 @@ versioning:
   - 0.412.5
   - 0.412.6
   - 0.413.0
-  lastUpdated: 20241218043443
+  - 0.413.1
+  - 0.413.2
+  lastUpdated: 20241219070253

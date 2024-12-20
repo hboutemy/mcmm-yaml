@@ -3,8 +3,8 @@
 groupId: com.atlassian.bamboo
 artifactId: bamboo-specs-runner
 versioning:
-  latest: 10.2.0-m04-bam14469
-  release: 10.2.0-m04-bam14469
+  latest: 10.2.0
+  release: 10.2.0
   versions:
   - 6.2.6
   - 6.2.7
@@ -238,6 +238,7 @@ versioning:
   - 10.2.0-m03
   - 10.2.0-m04
   - 10.2.0-m04-bam14469
+  - 10.2.0
   - 1.0.4
   - 6.0.0
   - 6.0.1
@@ -257,4 +258,4 @@ versioning:
   - 6.2.4
   - 6.2.5
   - 6.3.0-rc3
-  lastUpdated: 20241212112604
+  lastUpdated: 20241219115444

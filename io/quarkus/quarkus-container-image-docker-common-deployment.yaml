@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-container-image-docker-common-deployment
 versioning:
-  latest: 3.17.4
-  release: 3.17.4
+  latest: 3.17.5
+  release: 3.17.5
   versions:
   - 3.12.0.CR1
   - 3.12.0
@@ -38,4 +38,5 @@ versioning:
   - 3.17.2
   - 3.17.3
   - 3.17.4
-  lastUpdated: 20241211095247
+  - 3.17.5
+  lastUpdated: 20241219115601

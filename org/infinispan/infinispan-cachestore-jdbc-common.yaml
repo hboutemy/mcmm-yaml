@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-cachestore-jdbc-common
 versioning:
-  latest: 15.1.0.Dev05
-  release: 15.1.0.Dev05
+  latest: 15.1.1.Final
+  release: 15.1.1.Final
   versions:
   - 13.0.0.CR1
   - 13.0.0.CR2
@@ -101,4 +101,5 @@ versioning:
   - 15.1.0.Dev03
   - 15.1.0.Dev04
   - 15.1.0.Dev05
-  lastUpdated: 20241213171958
+  - 15.1.1.Final
+  lastUpdated: 20241219093523
