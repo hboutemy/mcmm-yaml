@@ -3,8 +3,8 @@
 groupId: com.hashicorp
 artifactId: cdktf-provider-snowflake
 versioning:
-  latest: 11.16.0
-  release: 11.16.0
+  latest: 12.0.1
+  release: 12.0.1
   versions:
   - 0.0.0
   - 0.0.1
@@ -329,4 +329,6 @@ versioning:
   - 11.14.0
   - 11.15.0
   - 11.16.0
-  lastUpdated: 20241213033912
+  - 12.0.0
+  - 12.0.1
+  lastUpdated: 20241220175728

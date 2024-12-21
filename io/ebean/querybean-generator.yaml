@@ -3,8 +3,8 @@
 groupId: io.ebean
 artifactId: querybean-generator
 versioning:
-  latest: 15.8.0
-  release: 15.8.0
+  latest: 15.8.1
+  release: 15.8.1
   versions:
   - 10.1.1
   - 10.1.2
@@ -233,6 +233,8 @@ versioning:
   - 14.7.0-javax
   - 14.8.0
   - 14.8.0-javax
+  - 14.8.1
+  - 14.8.1-javax
   - 15.0.0-RC
   - 15.0.1
   - 15.0.2
@@ -246,4 +248,5 @@ versioning:
   - 15.6.0
   - 15.7.0
   - 15.8.0
-  lastUpdated: 20241025024726
+  - 15.8.1
+  lastUpdated: 20241220030449

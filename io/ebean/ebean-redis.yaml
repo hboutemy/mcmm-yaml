@@ -3,8 +3,8 @@
 groupId: io.ebean
 artifactId: ebean-redis
 versioning:
-  latest: 15.8.0
-  release: 15.8.0
+  latest: 15.8.1
+  release: 15.8.1
   versions:
   - 1.1
   - 11.31.1
@@ -173,6 +173,8 @@ versioning:
   - 14.7.0
   - 14.7.0-javax
   - 14.8.0
+  - 14.8.1
+  - 14.8.1-javax
   - 15.0.0-RC
   - 15.0.1
   - 15.0.2
@@ -186,4 +188,5 @@ versioning:
   - 15.6.0
   - 15.7.0
   - 15.8.0
-  lastUpdated: 20241025022205
+  - 15.8.1
+  lastUpdated: 20241220030416
