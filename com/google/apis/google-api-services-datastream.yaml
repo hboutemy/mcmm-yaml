@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-datastream
 versioning:
-  latest: v1-rev20241028-2.0.0
-  release: v1-rev20241028-2.0.0
+  latest: v1-rev20241204-2.0.0
+  release: v1-rev20241204-2.0.0
   versions:
   - v1alpha1-rev20211018-1.32.1
   - v1alpha1-rev20211026-1.32.1
@@ -21,6 +21,7 @@ versioning:
   - v1alpha1-rev20230425-2.0.0
   - v1alpha1-rev20230517-2.0.0
   - v1alpha1-rev20230802-2.0.0
+  - v1alpha1-rev20241204-2.0.0
   - v1-rev20211026-1.32.1
   - v1-rev20211110-1.32.1
   - v1-rev20220105-1.32.1
@@ -53,4 +54,5 @@ versioning:
   - v1-rev20240904-2.0.0
   - v1-rev20240930-2.0.0
   - v1-rev20241028-2.0.0
-  lastUpdated: 20241105090332
+  - v1-rev20241204-2.0.0
+  lastUpdated: 20241221090316
