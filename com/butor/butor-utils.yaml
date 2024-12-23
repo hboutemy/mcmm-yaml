@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.butor
 artifactId: butor-utils
 versioning:
-  latest: 1.0.29
-  release: 1.0.29
+  latest: 1.0.31
+  release: 1.0.31
   versions:
   - 0.0.2
   - 0.0.4
@@ -29,5 +29,6 @@ versioning:
   - 1.0.27
   - 1.0.28
   - 1.0.29
+  - 1.0.31
   - mvn+-P+sonatype-oss-release+release:perform
-  lastUpdated: 20190830174912
+  lastUpdated: 20241222170254
