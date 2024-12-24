@@ -3,8 +3,8 @@
 groupId: org.apache.druid.extensions.contrib
 artifactId: prometheus-emitter
 versioning:
-  latest: 31.0.0
-  release: 31.0.0
+  latest: 31.0.1
+  release: 31.0.1
   versions:
   - 0.22.0
   - 0.22.1
@@ -21,4 +21,5 @@ versioning:
   - 30.0.0
   - 30.0.1
   - 31.0.0
-  lastUpdated: 20241021165100
+  - 31.0.1
+  lastUpdated: 20241223221233

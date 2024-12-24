@@ -3,8 +3,8 @@
 groupId: org.apache.druid
 artifactId: distribution
 versioning:
-  latest: 31.0.0
-  release: 31.0.0
+  latest: 31.0.1
+  release: 31.0.1
   versions:
   - 0.13.0-incubating
   - 0.14.0-incubating
@@ -39,4 +39,5 @@ versioning:
   - 30.0.0
   - 30.0.1
   - 31.0.0
-  lastUpdated: 20241021164310
+  - 31.0.1
+  lastUpdated: 20241223220939

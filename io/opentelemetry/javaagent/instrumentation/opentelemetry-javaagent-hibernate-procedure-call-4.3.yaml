@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-hibernate-procedure-call-4.3
 versioning:
-  latest: 2.10.0-alpha
-  release: 2.10.0-alpha
+  latest: 2.11.0-alpha
+  release: 2.11.0-alpha
   versions:
   - 1.3.0-alpha
   - 1.3.1-alpha
@@ -76,4 +76,5 @@ versioning:
   - 2.8.0-alpha
   - 2.9.0-alpha
   - 2.10.0-alpha
-  lastUpdated: 20241113051531
+  - 2.11.0-alpha
+  lastUpdated: 20241223182020

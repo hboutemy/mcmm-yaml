@@ -3,8 +3,8 @@
 groupId: org.apache.nifi
 artifactId: dockerhub
 versioning:
-  latest: 2.0.0
-  release: 2.0.0
+  latest: 2.1.0
+  release: 2.1.0
   versions:
   - 1.7.0
   - 1.7.1
@@ -53,4 +53,5 @@ versioning:
   - 2.0.0-M3
   - 2.0.0-M4
   - 2.0.0
-  lastUpdated: 20241120141706
+  - 2.1.0
+  lastUpdated: 20241223223611
