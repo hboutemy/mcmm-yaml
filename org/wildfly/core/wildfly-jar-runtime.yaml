@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-jar-runtime
 versioning:
-  latest: 27.0.0.Beta7
-  release: 27.0.0.Beta7
+  latest: 27.0.0.Final
+  release: 27.0.0.Final
   versions:
   - 12.0.0.Beta3
   - 12.0.0.Beta4
@@ -142,4 +142,5 @@ versioning:
   - 27.0.0.Beta5
   - 27.0.0.Beta6
   - 27.0.0.Beta7
-  lastUpdated: 20241219105301
+  - 27.0.0.Final
+  lastUpdated: 20241223214129

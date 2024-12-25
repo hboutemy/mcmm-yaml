@@ -3,8 +3,8 @@
 groupId: org.wildfly.core
 artifactId: wildfly-core-galleon-pack
 versioning:
-  latest: 27.0.0.Beta7
-  release: 27.0.0.Beta7
+  latest: 27.0.0.Final
+  release: 27.0.0.Final
   versions:
   - 5.0.0.Alpha6
   - 5.0.0.Alpha7
@@ -218,4 +218,5 @@ versioning:
   - 27.0.0.Beta5
   - 27.0.0.Beta6
   - 27.0.0.Beta7
-  lastUpdated: 20241219105255
+  - 27.0.0.Final
+  lastUpdated: 20241223214124
