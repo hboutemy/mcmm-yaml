@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-networkconnectivity
 versioning:
-  latest: v1-rev20241030-2.0.0
-  release: v1-rev20241030-2.0.0
+  latest: v1-rev20241112-2.0.0
+  release: v1-rev20241112-2.0.0
   versions:
   - v1alpha1-rev20210129-1.31.0
   - v1alpha1-rev20210303-1.31.0
@@ -82,4 +82,5 @@ versioning:
   - v1-rev20240923-2.0.0
   - v1-rev20241009-2.0.0
   - v1-rev20241030-2.0.0
-  lastUpdated: 20241108090739
+  - v1-rev20241112-2.0.0
+  lastUpdated: 20241226212357

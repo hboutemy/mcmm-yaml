@@ -3,12 +3,13 @@
 groupId: org.apache.kyuubi
 artifactId: kyuubi-spark-authz-shaded_2.12
 versioning:
-  latest: 1.10.0
-  release: 1.10.0
+  latest: 1.10.1
+  release: 1.10.1
   versions:
   - 1.9.0
   - 1.9.1
   - 1.9.2
   - 1.9.3
   - 1.10.0
-  lastUpdated: 20241202094836
+  - 1.10.1
+  lastUpdated: 20241226123121
