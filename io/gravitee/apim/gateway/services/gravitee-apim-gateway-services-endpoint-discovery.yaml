@@ -3,8 +3,8 @@
 groupId: io.gravitee.apim.gateway.services
 artifactId: gravitee-apim-gateway-services-endpoint-discovery
 versioning:
-  latest: 4.5.5
-  release: 4.5.5
+  latest: 4.6.0-alpha.3
+  release: 4.6.0-alpha.3
   versions:
   - 3.5.25
   - 3.5.26
@@ -288,4 +288,5 @@ versioning:
   - 4.5.3
   - 4.5.4
   - 4.5.5
-  lastUpdated: 20241220170126
+  - 4.6.0-alpha.3
+  lastUpdated: 20241231075353
