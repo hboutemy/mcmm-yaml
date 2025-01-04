@@ -3,8 +3,8 @@
 groupId: com.codacy
 artifactId: events-defs_2.12
 versioning:
-  latest: 12.3.0_akka_2.6_circe_0.14
-  release: 12.3.0_akka_2.6_circe_0.14
+  latest: 12.3.1_akka_2.6_circe_0.14
+  release: 12.3.1_akka_2.6_circe_0.14
   versions:
   - 2.0.0-cleanup.76cd279_circe_0.8.0
   - 2.0.0-cleanup.76cd279_circe_0.9.1
@@ -447,4 +447,7 @@ versioning:
   - 12.3.0_akka_2.5_circe_0.12
   - 12.3.0_akka_2.6_circe_0.12
   - 12.3.0_akka_2.6_circe_0.14
-  lastUpdated: 20241210142019
+  - 12.3.1_akka_2.5_circe_0.12
+  - 12.3.1_akka_2.6_circe_0.12
+  - 12.3.1_akka_2.6_circe_0.14
+  lastUpdated: 20250103110158

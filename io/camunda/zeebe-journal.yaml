@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-journal
 versioning:
-  latest: 8.7.0-alpha3-rc1
-  release: 8.7.0-alpha3-rc1
+  latest: 8.7.0-alpha3-rc3
+  release: 8.7.0-alpha3-rc3
   versions:
   - 1.0.0-rc1
   - 1.0.0-rc2
@@ -250,4 +250,6 @@ versioning:
   - 8.7.0-alpha2-rc1
   - 8.7.0-alpha2
   - 8.7.0-alpha3-rc1
-  lastUpdated: 20250102144714
+  - 8.7.0-alpha3-rc2
+  - 8.7.0-alpha3-rc3
+  lastUpdated: 20250103101421

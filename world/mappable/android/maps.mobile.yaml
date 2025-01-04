@@ -3,8 +3,8 @@
 groupId: world.mappable.android
 artifactId: maps.mobile
 versioning:
-  latest: 4.10.0-navikit
-  release: 4.10.0-navikit
+  latest: 4.10.1-navikit
+  release: 4.10.1-navikit
   versions:
   - 1.0.0-full
   - 1.0.0-lite
@@ -56,4 +56,10 @@ versioning:
   - 4.10.0-full
   - 4.10.0-lite
   - 4.10.0-navikit
-  lastUpdated: 20241223195301
+  - 4.10.1-beta-full-flutter
+  - 4.10.1-beta-lite-flutter
+  - 4.10.1-beta-navikit-flutter
+  - 4.10.1-full
+  - 4.10.1-lite
+  - 4.10.1-navikit
+  lastUpdated: 20250103045212
