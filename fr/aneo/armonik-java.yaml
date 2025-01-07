@@ -3,12 +3,10 @@
 groupId: fr.aneo
 artifactId: armonik-java
 versioning:
-  latest: 3.22.1-flserde.12.6783666
-  release: 3.22.1-flserde.12.6783666
+  latest: 3.22.1-fldisablerustwindows.10.d42792e
+  release: 3.22.1-fldisablerustwindows.10.d42792e
   versions:
-  - 3.22.1-flserde.12.6783666
-  - 3.22.1-flrustserver.16.a55d38d
-  - 3.22.1-flrustserver.17.bcbc0f9
+  - 3.22.1-fldisablerustwindows.10.d42792e
   - 0.1.0
   - 3.19.0
   - 3.21.0
@@ -370,10 +368,16 @@ versioning:
   - 3.22.1-edge.2.e0f61b9
   - 3.22.1-edge.5.2f2be75
   - 3.22.1-edge.7.7edd98e
+  - 3.22.1-fldisablerustwindows.8.8dcc743
+  - 3.22.1-fldisablerustwindows.9.84dd379
   - 3.22.1-flenhanceclient.11.681c076
   - 3.22.1-flenhanceclient.11.adbe142
+  - 3.22.1-flfixrustci.8.d9b5b4d
   - 3.22.1-flrustserver.16.1fc575c
   - 3.22.1-flrustserver.16.918078d
+  - 3.22.1-flrustserver.16.a55d38d
+  - 3.22.1-flrustserver.17.bcbc0f9
+  - 3.22.1-flserde.12.6783666
   - 3.22.1-ngtgzclient.3.ae6f96c
   - 3.22.1-ngtgzclient.4.ee484cf
   - 3.22.1-ngtgzclient.6.21e8df3
@@ -385,4 +389,4 @@ versioning:
   - 3.23.0-flrustserver.15.3351efc
   - 3.23.0-flrustserver.16.db6062d
   - 3.23.0-qdpythonworker.10.21492d4
-  lastUpdated: 20250103165925
+  lastUpdated: 20250106172545

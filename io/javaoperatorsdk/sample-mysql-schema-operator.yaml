@@ -3,8 +3,8 @@
 groupId: io.javaoperatorsdk
 artifactId: sample-mysql-schema-operator
 versioning:
-  latest: 5.0.0-beta1
-  release: 5.0.0-beta1
+  latest: 5.0.0-RC1
+  release: 5.0.0-RC1
   versions:
   - 2.0.0-RC1
   - 2.0.0
@@ -78,4 +78,5 @@ versioning:
   - 4.9.6
   - 4.9.7
   - 5.0.0-beta1
-  lastUpdated: 20241206111035
+  - 5.0.0-RC1
+  lastUpdated: 20250106144913

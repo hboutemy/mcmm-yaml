@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: kubernetes-cert-manager
 versioning:
-  latest: 0.1.0-alpha.1729117627
-  release: 0.1.0-alpha.1729117627
+  latest: 0.1.0
+  release: 0.1.0
   versions:
   - 0.0.6-alpha.1
   - 0.0.6
@@ -25,4 +25,5 @@ versioning:
   - 0.1.0-alpha.1727911241
   - 0.1.0-alpha.1729115677
   - 0.1.0-alpha.1729117627
-  lastUpdated: 20241016225020
+  - 0.1.0
+  lastUpdated: 20250106222214

@@ -3,8 +3,8 @@
 groupId: io.javaoperatorsdk
 artifactId: sample-tomcat-operator
 versioning:
-  latest: 5.0.0-beta1
-  release: 5.0.0-beta1
+  latest: 5.0.0-RC1
+  release: 5.0.0-RC1
   versions:
   - 1.10.0
   - 1.10.1
@@ -82,4 +82,5 @@ versioning:
   - 4.9.6
   - 4.9.7
   - 5.0.0-beta1
-  lastUpdated: 20241206111037
+  - 5.0.0-RC1
+  lastUpdated: 20250106144914
