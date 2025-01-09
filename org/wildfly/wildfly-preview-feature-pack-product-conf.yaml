@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-preview-feature-pack-product-conf
 versioning:
-  latest: 35.0.0.Beta1
-  release: 35.0.0.Beta1
+  latest: 35.0.0.Final
+  release: 35.0.0.Final
   versions:
   - 31.0.0.Beta1
   - 31.0.0.Final
@@ -19,4 +19,5 @@ versioning:
   - 34.0.0.Final
   - 34.0.1.Final
   - 35.0.0.Beta1
-  lastUpdated: 20241211165001
+  - 35.0.0.Final
+  lastUpdated: 20250108150835

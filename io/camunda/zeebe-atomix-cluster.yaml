@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-atomix-cluster
 versioning:
-  latest: 8.7.0-alpha3-rc4
-  release: 8.7.0-alpha3-rc4
+  latest: 8.7.0-alpha3-rc5
+  release: 8.7.0-alpha3-rc5
   versions:
   - 1.0.0-rc1
   - 1.0.0-rc2
@@ -257,4 +257,5 @@ versioning:
   - 8.7.0-alpha3-rc2
   - 8.7.0-alpha3-rc3
   - 8.7.0-alpha3-rc4
-  lastUpdated: 20250107163810
+  - 8.7.0-alpha3-rc5
+  lastUpdated: 20250108185401

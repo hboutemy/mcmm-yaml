@@ -3,8 +3,8 @@
 groupId: com.gu
 artifactId: content-api-firehose-client_2.12
 versioning:
-  latest: 1.0.26-PREVIEW.upgrade-aws-sdk-version-to-avoid-json-protocol-conflicts.2024-12-11T1530.5169c828
-  release: 1.0.26-PREVIEW.upgrade-aws-sdk-version-to-avoid-json-protocol-conflicts.2024-12-11T1530.5169c828
+  latest: 1.0.26-PREVIEW.upgrade-aws-sdk-version-to-avoid-json-protocol-conflicts.2025-01-08T1221.e0188d31
+  release: 1.0.26-PREVIEW.upgrade-aws-sdk-version-to-avoid-json-protocol-conflicts.2025-01-08T1221.e0188d31
   versions:
   - 0.2.0
   - 0.3.0
@@ -44,5 +44,8 @@ versioning:
   - 1.0.24
   - 1.0.25
   - 1.0.25-PREVIEW.reproduce-json-protocol-issue.2024-12-06T1741.d595ef98
+  - 1.0.26
   - 1.0.26-PREVIEW.upgrade-aws-sdk-version-to-avoid-json-protocol-conflicts.2024-12-11T1530.5169c828
-  lastUpdated: 20241211154509
+  - 1.0.26-PREVIEW.upgrade-aws-sdk-version-to-avoid-json-protocol-conflicts.2025-01-08T1159.b870d366
+  - 1.0.26-PREVIEW.upgrade-aws-sdk-version-to-avoid-json-protocol-conflicts.2025-01-08T1221.e0188d31
+  lastUpdated: 20250108181336

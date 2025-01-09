@@ -3,8 +3,8 @@
 groupId: com.tencent.bk.devops.ci.common
 artifactId: common-db-base
 versioning:
-  latest: 3.1.0-rc.5
-  release: 3.1.0-rc.5
+  latest: 3.1.0
+  release: 3.1.0
   versions:
   - 1.8.0-RC.2-RELEASE
   - 1.8.0-RC.3-RELEASE
@@ -27,4 +27,6 @@ versioning:
   - 3.1.0-rc.3
   - 3.1.0-rc.4
   - 3.1.0-rc.5
-  lastUpdated: 20241224030301
+  - 3.1.0-rc.6
+  - 3.1.0
+  lastUpdated: 20250108093630
