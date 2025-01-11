@@ -3,8 +3,8 @@
 groupId: org.openrewrite
 artifactId: rewrite-javascript-remote
 versioning:
-  latest: 0.26.0
-  release: 0.26.0
+  latest: 0.27.0
+  release: 0.27.0
   versions:
   - 0.19.1
   - 0.19.2
@@ -29,4 +29,6 @@ versioning:
   - 0.25.3
   - 0.25.4
   - 0.26.0
-  lastUpdated: 20241230184735
+  - 0.26.1
+  - 0.27.0
+  lastUpdated: 20250110183041

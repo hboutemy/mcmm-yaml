@@ -3,8 +3,8 @@
 groupId: org.openrewrite.recipe
 artifactId: rewrite-hibernate
 versioning:
-  latest: 1.14.0
-  release: 1.14.0
+  latest: 2.0.0
+  release: 2.0.0
   versions:
   - 1.0.1
   - 1.0.2
@@ -48,4 +48,6 @@ versioning:
   - 1.13.0
   - 1.13.1
   - 1.14.0
-  lastUpdated: 20241218182436
+  - 1.14.1
+  - 2.0.0
+  lastUpdated: 20250110180024
