@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.jboss.arquillian.config
 artifactId: arquillian-config-spi
 versioning:
-  latest: 1.9.2.Final
-  release: 1.9.2.Final
+  latest: 1.9.3.Final
+  release: 1.9.3.Final
   versions:
   - 1.0.0.Beta1
   - 1.0.0.Beta2
@@ -70,4 +70,5 @@ versioning:
   - 1.9.0.Final
   - 1.9.1.Final
   - 1.9.2.Final
-  lastUpdated: 20250103170848
+  - 1.9.3.Final
+  lastUpdated: 20250111054340
