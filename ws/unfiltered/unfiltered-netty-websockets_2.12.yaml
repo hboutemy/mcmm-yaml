@@ -3,8 +3,8 @@
 groupId: ws.unfiltered
 artifactId: unfiltered-netty-websockets_2.12
 versioning:
-  latest: 0.12.0
-  release: 0.12.0
+  latest: 0.12.1
+  release: 0.12.1
   versions:
   - 0.9.0-beta2
   - 0.9.0
@@ -25,6 +25,7 @@ versioning:
   - 0.10.2
   - 0.10.3
   - 0.10.4
+  - 0.10.5
   - 0.11.0-M1
   - 0.11.0-M2
   - 0.11.0-M3
@@ -38,4 +39,5 @@ versioning:
   - 0.12.0-M6
   - 0.12.0-M7
   - 0.12.0
-  lastUpdated: 20221226233919
+  - 0.12.1
+  lastUpdated: 20250112061557

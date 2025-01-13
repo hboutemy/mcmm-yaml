@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-backup-store-azure
 versioning:
-  latest: 8.7.0-alpha3-rc5
-  release: 8.7.0-alpha3-rc5
+  latest: 8.7.0-alpha3
+  release: 8.7.0-alpha3
   versions:
   - 8.4.0-alpha2
   - 8.4.0
@@ -78,4 +78,6 @@ versioning:
   - 8.7.0-alpha3-rc3
   - 8.7.0-alpha3-rc4
   - 8.7.0-alpha3-rc5
-  lastUpdated: 20250108185404
+  - 8.7.0-alpha3-rc6
+  - 8.7.0-alpha3
+  lastUpdated: 20250112184015
