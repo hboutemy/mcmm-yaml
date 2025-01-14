@@ -3,8 +3,8 @@
 groupId: org.wildfly.plugins
 artifactId: wildfly-jar-cloud-extension
 versioning:
-  latest: 12.0.0.Beta1
-  release: 12.0.0.Beta1
+  latest: 12.0.0.Final
+  release: 12.0.0.Final
   versions:
   - 2.0.0.Beta1
   - 2.0.0.Beta2
@@ -58,4 +58,5 @@ versioning:
   - 11.0.1.Final
   - 11.0.2.Final
   - 12.0.0.Beta1
-  lastUpdated: 20241128152804
+  - 12.0.0.Final
+  lastUpdated: 20250113100225

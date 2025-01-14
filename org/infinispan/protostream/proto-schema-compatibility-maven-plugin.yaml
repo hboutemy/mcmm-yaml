@@ -3,8 +3,8 @@
 groupId: org.infinispan.protostream
 artifactId: proto-schema-compatibility-maven-plugin
 versioning:
-  latest: 6.0.0.Dev01
-  release: 6.0.0.Dev01
+  latest: 6.0.0.Dev02
+  release: 6.0.0.Dev02
   versions:
   - 5.0.7.Final
   - 5.0.8.Final
@@ -13,4 +13,5 @@ versioning:
   - 5.0.11.Final
   - 5.0.12.Final
   - 6.0.0.Dev01
-  lastUpdated: 20241211104936
+  - 6.0.0.Dev02
+  lastUpdated: 20250113133522
