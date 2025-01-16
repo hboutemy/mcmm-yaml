@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-jms-spi-parent
 versioning:
-  latest: 3.17.6
-  release: 3.17.6
+  latest: 3.18.0.CR1
+  release: 3.18.0.CR1
   versions:
   - 2.16.2.Final
   - 2.16.3.Final
@@ -139,4 +139,6 @@ versioning:
   - 3.17.4
   - 3.17.5
   - 3.17.6
-  lastUpdated: 20250114101411
+  - 3.17.7
+  - 3.18.0.CR1
+  lastUpdated: 20250115124853

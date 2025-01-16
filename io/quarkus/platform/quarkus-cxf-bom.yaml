@@ -3,8 +3,8 @@
 groupId: io.quarkus.platform
 artifactId: quarkus-cxf-bom
 versioning:
-  latest: 3.17.6
-  release: 3.17.6
+  latest: 3.18.0.CR1
+  release: 3.18.0.CR1
   versions:
   - 3.1.0.Final
   - 3.1.1.Final
@@ -108,4 +108,6 @@ versioning:
   - 3.17.4
   - 3.17.5
   - 3.17.6
-  lastUpdated: 20250108171019
+  - 3.17.7
+  - 3.18.0.CR1
+  lastUpdated: 20250115173333

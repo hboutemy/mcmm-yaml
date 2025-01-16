@@ -3,8 +3,8 @@
 groupId: io.dropwizard
 artifactId: dropwizard-bom
 versioning:
-  latest: 5.0.0-alpha.5
-  release: 5.0.0-alpha.5
+  latest: 5.0.0-rc.1
+  release: 5.0.0-rc.1
   versions:
   - 0.9.0-rc5
   - 0.9.0
@@ -181,6 +181,7 @@ versioning:
   - 3.0.9
   - 3.0.10
   - 3.0.11
+  - 3.0.12
   - 4.0.0-beta.1
   - 4.0.0-beta.2
   - 4.0.0-beta.3
@@ -197,9 +198,11 @@ versioning:
   - 4.0.9
   - 4.0.10
   - 4.0.11
+  - 4.0.12
   - 5.0.0-alpha.1
   - 5.0.0-alpha.2
   - 5.0.0-alpha.3
   - 5.0.0-alpha.4
   - 5.0.0-alpha.5
-  lastUpdated: 20241127222127
+  - 5.0.0-rc.1
+  lastUpdated: 20250115230216

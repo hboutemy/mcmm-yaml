@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-elytron-security-deployment
 versioning:
-  latest: 3.17.6
-  release: 3.17.6
+  latest: 3.18.0.CR1
+  release: 3.18.0.CR1
   versions:
   - 0.13.0
   - 0.13.1
@@ -347,4 +347,6 @@ versioning:
   - 3.17.4
   - 3.17.5
   - 3.17.6
-  lastUpdated: 20250114101300
+  - 3.17.7
+  - 3.18.0.CR1
+  lastUpdated: 20250115124738

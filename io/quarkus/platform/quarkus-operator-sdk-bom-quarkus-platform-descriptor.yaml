@@ -3,8 +3,8 @@
 groupId: io.quarkus.platform
 artifactId: quarkus-operator-sdk-bom-quarkus-platform-descriptor
 versioning:
-  latest: 3.17.6
-  release: 3.17.6
+  latest: 3.18.0.CR1
+  release: 3.18.0.CR1
   versions:
   - 2.14.0.CR1
   - 2.14.0.Final
@@ -133,4 +133,6 @@ versioning:
   - 3.17.4
   - 3.17.5
   - 3.17.6
-  lastUpdated: 20250108171022
+  - 3.17.7
+  - 3.18.0.CR1
+  lastUpdated: 20250115173337
