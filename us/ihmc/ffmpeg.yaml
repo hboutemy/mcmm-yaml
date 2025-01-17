@@ -3,10 +3,12 @@
 groupId: us.ihmc
 artifactId: ffmpeg
 versioning:
-  latest: 7.1-1.5.11
-  release: 7.1-1.5.11
+  latest: 7.1-1.5.11-ihmc-2
+  release: 7.1-1.5.11-ihmc-2
   versions:
   - 6.0-1.5.9
   - 6.1-1.5.9
   - 7.1-1.5.11
-  lastUpdated: 20250115203601
+  - 7.1-1.5.11-ihmc
+  - 7.1-1.5.11-ihmc-2
+  lastUpdated: 20250116195817

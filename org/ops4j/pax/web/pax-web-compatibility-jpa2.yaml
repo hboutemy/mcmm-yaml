@@ -3,8 +3,8 @@
 groupId: org.ops4j.pax.web
 artifactId: pax-web-compatibility-jpa2
 versioning:
-  latest: 9.0.18
-  release: 9.0.18
+  latest: 9.0.19
+  release: 9.0.19
   versions:
   - 8.0.1
   - 8.0.2
@@ -35,6 +35,7 @@ versioning:
   - 8.0.27
   - 8.0.28
   - 8.0.29
+  - 8.0.30
   - 9.0.0
   - 9.0.1
   - 9.0.2
@@ -54,4 +55,5 @@ versioning:
   - 9.0.16
   - 9.0.17
   - 9.0.18
-  lastUpdated: 20241019141528
+  - 9.0.19
+  lastUpdated: 20250116144605

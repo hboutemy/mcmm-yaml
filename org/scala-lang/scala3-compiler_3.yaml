@@ -3,8 +3,8 @@
 groupId: org.scala-lang
 artifactId: scala3-compiler_3
 versioning:
-  latest: 3.6.4-RC1-bin-20250114-312c89a-NIGHTLY
-  release: 3.6.4-RC1-bin-20250114-312c89a-NIGHTLY
+  latest: 3.7.0-RC1-bin-20250116-0f9e502-NIGHTLY
+  release: 3.7.0-RC1-bin-20250116-0f9e502-NIGHTLY
   versions:
   - 3.0.0
   - 3.0.1-RC1
@@ -677,6 +677,7 @@ versioning:
   - 3.3.5-RC1-bin-20241203-6ba335a-NIGHTLY
   - 3.3.5-RC1-bin-20241204-5f2d7ef-NIGHTLY
   - 3.3.5-RC1-bin-20241209-fa617ff-NIGHTLY
+  - 3.3.5-RC2
   - 3.4.0-RC1
   - 3.4.0-RC1-bin-20230725-18df4ed-NIGHTLY
   - 3.4.0-RC1-bin-20230726-97677cc-NIGHTLY
@@ -1023,6 +1024,8 @@ versioning:
   - 3.6.3-RC1-bin-20241119-cc4a324-NIGHTLY
   - 3.6.3-RC1-bin-20241119-7155a8b-NIGHTLY
   - 3.6.3-RC2
+  - 3.6.3
+  - 3.6.4-RC1
   - 3.6.4-RC1-bin-20241120-bd07317-NIGHTLY
   - 3.6.4-RC1-bin-20241121-5d1d274-NIGHTLY
   - 3.6.4-RC1-bin-20241122-64411b6-NIGHTLY
@@ -1057,4 +1060,5 @@ versioning:
   - 3.6.4-RC1-bin-20250112-ae980a7-NIGHTLY
   - 3.6.4-RC1-bin-20250113-c10def4-NIGHTLY
   - 3.6.4-RC1-bin-20250114-312c89a-NIGHTLY
-  lastUpdated: 20250115050351
+  - 3.7.0-RC1-bin-20250116-0f9e502-NIGHTLY
+  lastUpdated: 20250116153231

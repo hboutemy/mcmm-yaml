@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.examples
 artifactId: server-async-standalone-webapp
 versioning:
-  latest: 4.0.0-M1
-  release: 4.0.0-M1
+  latest: 4.0.0-M2
+  release: 4.0.0-M2
   versions:
   - 2.0-m12-1
   - 2.0-m13
@@ -129,4 +129,5 @@ versioning:
   - 3.1.9
   - 3.1.10
   - 4.0.0-M1
-  lastUpdated: 20250108113220
+  - 4.0.0-M2
+  lastUpdated: 20250116083313

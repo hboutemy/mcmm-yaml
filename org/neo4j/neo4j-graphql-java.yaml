@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-graphql-java
 versioning:
-  latest: 1.9.1
-  release: 1.9.1
+  latest: 2.0.0-alpha
+  release: 2.0.0-alpha
   versions:
   - 1.0.0-M01
   - 1.0.0-M02
@@ -21,4 +21,5 @@ versioning:
   - 1.8.0
   - 1.9.0
   - 1.9.1
-  lastUpdated: 20240413145137
+  - 2.0.0-alpha
+  lastUpdated: 20250116210043

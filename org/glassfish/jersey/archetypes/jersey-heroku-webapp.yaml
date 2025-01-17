@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.jersey.archetypes
 artifactId: jersey-heroku-webapp
 versioning:
-  latest: 4.0.0-M1
-  release: 4.0.0-M1
+  latest: 4.0.0-M2
+  release: 4.0.0-M2
   versions:
   - 2.5
   - 2.5.1
@@ -114,5 +114,6 @@ versioning:
   - 3.1.9
   - 3.1.10
   - 4.0.0-M1
+  - 4.0.0-M2
   - 2.14
-  lastUpdated: 20250108111454
+  lastUpdated: 20250116081622

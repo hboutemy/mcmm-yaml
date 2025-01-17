@@ -3,8 +3,8 @@
 groupId: org.eclipse.edc.aws
 artifactId: data-plane-aws-s3
 versioning:
-  latest: 0.10.1
-  release: 0.10.1
+  latest: 0.11.0
+  release: 0.11.0
   versions:
   - 0.0.1-dontuse
   - 0.7.1
@@ -15,4 +15,5 @@ versioning:
   - 0.9.1
   - 0.10.0
   - 0.10.1
-  lastUpdated: 20241106152546
+  - 0.11.0
+  lastUpdated: 20250116125756
