@@ -3,13 +3,14 @@
 groupId: org.finos.cdm
 artifactId: cdm-kotlin
 versioning:
-  latest: 6.0.0-dev.92
-  release: 6.0.0-dev.92
+  latest: 6.0.0-dev.93
+  release: 6.0.0-dev.93
   versions:
   - 5.16.0
   - 5.17.0
   - 5.18.0
   - 5.19.0
+  - 5.20.0
   - 6.0.0-dev.64
   - 6.0.0-dev.65
   - 6.0.0-dev.66
@@ -37,6 +38,7 @@ versioning:
   - 6.0.0-dev.90
   - 6.0.0-dev.91
   - 6.0.0-dev.92
+  - 6.0.0-dev.93
   - 0.0.1-dev.20
   - 4.0.0
   - 4.0.0-dev.56
@@ -171,4 +173,4 @@ versioning:
   - 6.0.0-dev.62
   - 6.0.0-dev.8
   - 6.0.0-dev.9
-  lastUpdated: 20250113132312
+  lastUpdated: 20250117113037

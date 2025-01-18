@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-websecurityscanner
 versioning:
-  latest: v1-rev20231021-2.0.0
-  release: v1-rev20231021-2.0.0
+  latest: v1-rev20250105-2.0.0
+  release: v1-rev20250105-2.0.0
   versions:
   - v1alpha-rev2-1.18.0-rc
   - v1alpha-rev2-1.21.0
@@ -699,4 +699,5 @@ versioning:
   - v1-rev20230107-2.0.0
   - v1-rev20230701-2.0.0
   - v1-rev20231021-2.0.0
-  lastUpdated: 20231026084928
+  - v1-rev20250105-2.0.0
+  lastUpdated: 20250117091701

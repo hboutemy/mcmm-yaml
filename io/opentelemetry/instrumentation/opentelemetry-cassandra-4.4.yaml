@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.instrumentation
 artifactId: opentelemetry-cassandra-4.4
 versioning:
-  latest: 2.11.0-alpha
-  release: 2.11.0-alpha
+  latest: 2.12.0-alpha
+  release: 2.12.0-alpha
   versions:
   - 1.24.0-alpha
   - 1.25.0-alpha
@@ -36,4 +36,5 @@ versioning:
   - 2.9.0-alpha
   - 2.10.0-alpha
   - 2.11.0-alpha
-  lastUpdated: 20241223181529
+  - 2.12.0-alpha
+  lastUpdated: 20250117032538

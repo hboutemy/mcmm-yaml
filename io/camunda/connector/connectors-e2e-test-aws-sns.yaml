@@ -3,8 +3,8 @@
 groupId: io.camunda.connector
 artifactId: connectors-e2e-test-aws-sns
 versioning:
-  latest: 8.7.0-alpha3.2
-  release: 8.7.0-alpha3.2
+  latest: 8.7.0-alpha3.3
+  release: 8.7.0-alpha3.3
   versions:
   - 8.5.0-alpha2
   - 8.5.0
@@ -33,4 +33,5 @@ versioning:
   - 8.7.0-alpha3
   - 8.7.0-alpha3.1
   - 8.7.0-alpha3.2
-  lastUpdated: 20250110171141
+  - 8.7.0-alpha3.3
+  lastUpdated: 20250117201808
