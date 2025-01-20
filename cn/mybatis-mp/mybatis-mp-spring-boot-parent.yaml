@@ -3,8 +3,8 @@
 groupId: cn.mybatis-mp
 artifactId: mybatis-mp-spring-boot-parent
 versioning:
-  latest: 1.7.9-RC-spring-boot3
-  release: 1.7.9-RC-spring-boot3
+  latest: 1.7.9-spring-boot3
+  release: 1.7.9-spring-boot3
   versions:
   - 1.2.5
   - 1.2.5-spring-boot3
@@ -242,4 +242,6 @@ versioning:
   - 1.7.9-RC10
   - 1.7.9-RC10-spring-boot3
   - 1.7.9-RC-spring-boot3
-  lastUpdated: 20250110071138
+  - 1.7.9
+  - 1.7.9-spring-boot3
+  lastUpdated: 20250119013040
