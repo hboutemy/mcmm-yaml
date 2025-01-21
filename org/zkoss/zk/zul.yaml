@@ -3,8 +3,8 @@
 groupId: org.zkoss.zk
 artifactId: zul
 versioning:
-  latest: 10.0.0-Beta
-  release: 10.0.0-Beta
+  latest: 10.0.0-jakarta
+  release: 10.0.0-jakarta
   versions:
   - 5.0.7
   - 5.0.7.1
@@ -48,6 +48,8 @@ versioning:
   - 9.6.0.2
   - 9.6.0.2-jakarta
   - 10.0.0-Beta
+  - 10.0.0
+  - 10.0.0-jakarta
   - 2.1.3
   - 2.2.0
   - 2.2.1
@@ -80,4 +82,4 @@ versioning:
   - 3.6.2.FL.20090615
   - 3.6.3
   - 5.0.0.RC
-  lastUpdated: 20231020025125
+  lastUpdated: 20240227103244

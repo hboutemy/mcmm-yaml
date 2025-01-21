@@ -3,8 +3,8 @@
 groupId: org.zkoss.zk
 artifactId: zkbind-api
 versioning:
-  latest: 10.0.0-Beta
-  release: 10.0.0-Beta
+  latest: 10.0.0-jakarta
+  release: 10.0.0-jakarta
   versions:
   - 8.0.2.2
   - 8.5.0
@@ -23,4 +23,6 @@ versioning:
   - 9.6.0.2
   - 9.6.0.2-jakarta
   - 10.0.0-Beta
-  lastUpdated: 20231020024558
+  - 10.0.0
+  - 10.0.0-jakarta
+  lastUpdated: 20240227103430

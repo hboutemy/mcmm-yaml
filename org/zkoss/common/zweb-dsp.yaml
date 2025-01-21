@@ -3,8 +3,8 @@
 groupId: org.zkoss.common
 artifactId: zweb-dsp
 versioning:
-  latest: 10.0.0-Beta
-  release: 10.0.0-Beta
+  latest: 10.0.0-jakarta
+  release: 10.0.0-jakarta
   versions:
   - 9.0.0-RC
   - 9.0.0
@@ -20,4 +20,6 @@ versioning:
   - 9.6.0.2
   - 9.6.0.2-jakarta
   - 10.0.0-Beta
-  lastUpdated: 20231020025231
+  - 10.0.0
+  - 10.0.0-jakarta
+  lastUpdated: 20240227103704
