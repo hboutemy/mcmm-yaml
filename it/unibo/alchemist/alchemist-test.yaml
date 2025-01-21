@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: it.unibo.alchemist
 artifactId: alchemist-test
 versioning:
-  latest: 37.0.1
-  release: 37.0.1
+  latest: 37.1.1
+  release: 37.1.1
   versions:
   - 9.3.0-dev1z1+0f186c167
   - 9.3.0-dev1z1+90fa840e0
@@ -320,4 +320,6 @@ versioning:
   - 36.1.3
   - 37.0.0
   - 37.0.1
-  lastUpdated: 20250117165119
+  - 37.1.0
+  - 37.1.1
+  lastUpdated: 20250120141121

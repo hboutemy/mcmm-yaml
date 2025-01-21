@@ -3,8 +3,8 @@
 groupId: io.gravitee.apim.plugin.entrypoint
 artifactId: gravitee-apim-plugin-entrypoint-http-proxy
 versioning:
-  latest: 4.6.0-alpha.3
-  release: 4.6.0-alpha.3
+  latest: 4.6.0
+  release: 4.6.0
   versions:
   - 3.20.0
   - 3.20.1
@@ -177,4 +177,5 @@ versioning:
   - 4.5.5
   - 4.5.6
   - 4.6.0-alpha.3
-  lastUpdated: 20250116164332
+  - 4.6.0
+  lastUpdated: 20250120165114

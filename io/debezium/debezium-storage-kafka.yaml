@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-storage-kafka
 versioning:
-  latest: 3.0.7.Final
-  release: 3.0.7.Final
+  latest: 3.1.0.Alpha1
+  release: 3.1.0.Alpha1
   versions:
   - 2.0.0.Beta1
   - 2.0.0.Beta2
@@ -82,4 +82,5 @@ versioning:
   - 3.0.5.Final
   - 3.0.6.Final
   - 3.0.7.Final
-  lastUpdated: 20250115194935
+  - 3.1.0.Alpha1
+  lastUpdated: 20250120182723

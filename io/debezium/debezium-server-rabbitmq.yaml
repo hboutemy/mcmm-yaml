@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-server-rabbitmq
 versioning:
-  latest: 3.0.7.Final
-  release: 3.0.7.Final
+  latest: 3.1.0.Alpha1
+  release: 3.1.0.Alpha1
   versions:
   - 2.2.0.Beta1
   - 2.2.0.CR1
@@ -66,4 +66,5 @@ versioning:
   - 3.0.5.Final
   - 3.0.6.Final
   - 3.0.7.Final
-  lastUpdated: 20250115194541
+  - 3.1.0.Alpha1
+  lastUpdated: 20250120182314
