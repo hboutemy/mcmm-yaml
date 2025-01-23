@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-hibernate-search-orm-outbox-polling-deployment
 versioning:
-  latest: 3.18.0.CR1
-  release: 3.18.0.CR1
+  latest: 3.18.0
+  release: 3.18.0
   versions:
   - 3.7.0.CR1
   - 3.7.0
@@ -73,5 +73,7 @@ versioning:
   - 3.17.5
   - 3.17.6
   - 3.17.7
+  - 3.17.8
   - 3.18.0.CR1
-  lastUpdated: 20250115124826
+  - 3.18.0
+  lastUpdated: 20250122175135

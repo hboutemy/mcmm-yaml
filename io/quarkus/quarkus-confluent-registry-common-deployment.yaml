@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-confluent-registry-common-deployment
 versioning:
-  latest: 3.18.0.CR1
-  release: 3.18.0.CR1
+  latest: 3.18.0
+  release: 3.18.0
   versions:
   - 2.9.0.CR1
   - 2.9.0.Final
@@ -187,5 +187,7 @@ versioning:
   - 3.17.5
   - 3.17.6
   - 3.17.7
+  - 3.17.8
   - 3.18.0.CR1
-  lastUpdated: 20250115124702
+  - 3.18.0
+  lastUpdated: 20250122174959

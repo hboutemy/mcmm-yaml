@@ -3,8 +3,8 @@
 groupId: com.commercetools.sdk
 artifactId: commercetools-monitoring-opentelemetry
 versioning:
-  latest: 17.23.0
-  release: 17.23.0
+  latest: 17.24.0
+  release: 17.24.0
   versions:
   - 16.3.0
   - 16.4.0
@@ -14,6 +14,7 @@ versioning:
   - 17.1.0
   - 17.2.0
   - 17.3.0
+  - 17.3.1
   - 17.4.0
   - 17.5.0-alpha.1
   - 17.5.0
@@ -28,7 +29,9 @@ versioning:
   - 17.14.0
   - 17.15.0
   - 17.15.1
+  - 17.15.2
   - 17.16.0
+  - 17.16.1
   - 17.17.0
   - 17.18.0
   - 17.19.0
@@ -37,4 +40,5 @@ versioning:
   - 17.21.0
   - 17.22.0
   - 17.23.0
-  lastUpdated: 20250121135935
+  - 17.24.0
+  lastUpdated: 20250122202023

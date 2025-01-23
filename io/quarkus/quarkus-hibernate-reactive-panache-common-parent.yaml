@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-hibernate-reactive-panache-common-parent
 versioning:
-  latest: 3.18.0.CR1
-  release: 3.18.0.CR1
+  latest: 3.18.0
+  release: 3.18.0
   versions:
   - 1.9.0.CR1
   - 1.9.0.Final
@@ -275,5 +275,7 @@ versioning:
   - 3.17.5
   - 3.17.6
   - 3.17.7
+  - 3.17.8
   - 3.18.0.CR1
-  lastUpdated: 20250115124820
+  - 3.18.0
+  lastUpdated: 20250122175126
