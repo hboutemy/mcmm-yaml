@@ -3,8 +3,8 @@
 groupId: com.pulumi
 artifactId: aws-apigateway
 versioning:
-  latest: 2.6.1
-  release: 2.6.1
+  latest: 2.6.2-alpha.6
+  release: 2.6.2-alpha.6
   versions:
   - 0.0.1
   - 0.0.8
@@ -23,4 +23,8 @@ versioning:
   - 2.5.1
   - 2.5.2
   - 2.6.1
-  lastUpdated: 20241002134742
+  - 2.6.2-alpha.3
+  - 2.6.2-alpha.4
+  - 2.6.2-alpha.5
+  - 2.6.2-alpha.6
+  lastUpdated: 20250121234347

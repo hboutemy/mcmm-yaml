@@ -3,10 +3,11 @@
 groupId: com.oracle.coherence.ce
 artifactId: coherence-micrometer
 versioning:
-  latest: 24.09
-  release: 24.09
+  latest: 24.09.2
+  release: 24.09.2
   versions:
   - 14.1.2-0-0
+  - 14.1.2-0-1
   - 20.12
   - 20.12.1
   - 20.12.2
@@ -34,6 +35,7 @@ versioning:
   - 22.06.8
   - 22.06.9
   - 22.06.10
+  - 22.06.11
   - 22.09
   - 23.03
   - 23.03.1
@@ -43,4 +45,6 @@ versioning:
   - 24.03
   - 24.03.1
   - 24.09
-  lastUpdated: 20241220172611
+  - 24.09.1
+  - 24.09.2
+  lastUpdated: 20250121193745
