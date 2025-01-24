@@ -3,8 +3,8 @@
 groupId: org.infinispan.protostream
 artifactId: protostream-aggregator
 versioning:
-  latest: 14.0.0.CR2
-  release: 14.0.0.CR2
+  latest: 15.0.13.Final
+  release: 15.0.13.Final
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -38,6 +38,7 @@ versioning:
   - 3.0.1.Alpha1
   - 3.0.1.Final
   - 3.0.2.Final
+  - 3.0.3.Final
   - 3.0.4.Final
   - 3.0.5.Final
   - 3.0.6.Final
@@ -143,7 +144,9 @@ versioning:
   - 5.0.10.Final
   - 5.0.11.Final
   - 5.0.12.Final
+  - 5.0.13.Final
   - 6.0.0.Dev01
   - 6.0.0.Dev02
   - 14.0.0.CR2
-  lastUpdated: 20250113133523
+  - 15.0.13.Final
+  lastUpdated: 20250123135534

@@ -3,8 +3,8 @@
 groupId: com.zepben.protobuf
 artifactId: evolve-grpc
 versioning:
-  latest: 0.34.0
-  release: 0.34.0
+  latest: 0.35.0-SNAPSHOT1
+  release: 0.35.0-SNAPSHOT1
   versions:
   - 0.3.0
   - 0.3.1
@@ -68,6 +68,7 @@ versioning:
   - 0.22.0-SNAPSHOT6
   - 0.22.0
   - 0.23.0-SNAPSHOT1
+  - 0.23.0-SNAPSHOT2
   - 0.23.0-SNAPSHOT3
   - 0.23.0-SNAPSHOT4
   - 0.23.0-SNAPSHOT5
@@ -136,4 +137,7 @@ versioning:
   - 0.34.0-SNAPSHOT1
   - 0.34.0-SNAPSHOT2
   - 0.34.0
-  lastUpdated: 20250121042443
+  - 0.34.1-SNAPSHOT1
+  - 0.34.1
+  - 0.35.0-SNAPSHOT1
+  lastUpdated: 20250123070146

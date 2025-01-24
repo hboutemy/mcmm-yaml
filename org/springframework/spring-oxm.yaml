@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework
 artifactId: spring-oxm
 versioning:
-  latest: 6.2.2
-  release: 6.2.2
+  latest: 7.0.0-M1
+  release: 7.0.0-M1
   versions:
   - 3.0.0.RELEASE
   - 3.0.1.RELEASE
@@ -252,4 +252,5 @@ versioning:
   - 6.2.0
   - 6.2.1
   - 6.2.2
-  lastUpdated: 20250116084347
+  - 7.0.0-M1
+  lastUpdated: 20250123140225
