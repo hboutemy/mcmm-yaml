@@ -3,8 +3,8 @@
 groupId: org.openrewrite
 artifactId: rewrite-java-lombok
 versioning:
-  latest: 8.43.4
-  release: 8.43.4
+  latest: 8.44.1
+  release: 8.44.1
   versions:
   - 8.39.0
   - 8.40.0
@@ -26,4 +26,6 @@ versioning:
   - 8.43.2
   - 8.43.3
   - 8.43.4
-  lastUpdated: 20250117163402
+  - 8.44.0
+  - 8.44.1
+  lastUpdated: 20250124125419

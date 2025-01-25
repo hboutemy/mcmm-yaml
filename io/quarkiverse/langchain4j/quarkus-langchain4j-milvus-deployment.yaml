@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.langchain4j
 artifactId: quarkus-langchain4j-milvus-deployment
 versioning:
-  latest: 0.23.3
-  release: 0.23.3
+  latest: 0.24.0.CR1
+  release: 0.24.0.CR1
   versions:
   - 0.5.0
   - 0.5.1
@@ -70,4 +70,5 @@ versioning:
   - 0.23.0.CR2
   - 0.23.0
   - 0.23.3
-  lastUpdated: 20250109101815
+  - 0.24.0.CR1
+  lastUpdated: 20250124120837
