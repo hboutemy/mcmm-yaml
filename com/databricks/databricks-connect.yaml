@@ -3,11 +3,12 @@
 groupId: com.databricks
 artifactId: databricks-connect
 versioning:
-  latest: 16.1.0
-  release: 16.1.0
+  latest: 16.1.1
+  release: 16.1.1
   versions:
   - 13.3.0
   - 13.3.1
+  - 13.3.2
   - 14.0.0
   - 14.0.1
   - 14.1.0
@@ -19,6 +20,7 @@ versioning:
   - 14.3.4
   - 14.3.5
   - 14.3.6
+  - 14.3.7
   - 15.1.0
   - 15.1.1
   - 15.2.0
@@ -27,7 +29,10 @@ versioning:
   - 15.3.1
   - 15.4.0
   - 15.4.1
+  - 15.4.2
   - 16.0.0
   - 16.0.1
+  - 16.0.2
   - 16.1.0
-  lastUpdated: 20250108142629
+  - 16.1.1
+  lastUpdated: 20250127105003
