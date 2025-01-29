@@ -3,8 +3,8 @@
 groupId: org.scala-lang
 artifactId: scala3-presentation-compiler_3
 versioning:
-  latest: 3.7.0-RC1-bin-20250124-f7e5df5-NIGHTLY
-  release: 3.7.0-RC1-bin-20250124-f7e5df5-NIGHTLY
+  latest: 3.7.0-RC1-bin-20250127-89c20f8-NIGHTLY
+  release: 3.7.0-RC1-bin-20250127-89c20f8-NIGHTLY
   versions:
   - 3.3.2-RC1
   - 3.3.2-RC1-bin-20230706-3ae2dbf-NIGHTLY
@@ -57,6 +57,7 @@ versioning:
   - 3.3.5-RC1-bin-20241209-fa617ff-NIGHTLY
   - 3.3.5-RC2
   - 3.3.5-RC3
+  - 3.3.5
   - 3.4.0-RC1
   - 3.4.0-RC1-bin-20230725-18df4ed-NIGHTLY
   - 3.4.0-RC1-bin-20230726-97677cc-NIGHTLY
@@ -450,4 +451,5 @@ versioning:
   - 3.7.0-RC1-bin-20250122-b709262-NIGHTLY
   - 3.7.0-RC1-bin-20250123-0e567c1-NIGHTLY
   - 3.7.0-RC1-bin-20250124-f7e5df5-NIGHTLY
-  lastUpdated: 20250125044832
+  - 3.7.0-RC1-bin-20250127-89c20f8-NIGHTLY
+  lastUpdated: 20250128082212

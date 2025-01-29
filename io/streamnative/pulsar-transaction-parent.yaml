@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-transaction-parent
 versioning:
-  latest: 4.0.1.1
-  release: 4.0.1.1
+  latest: 4.0.1.2
+  release: 4.0.1.2
   versions:
   - master-rc-daily
   - v2.8.0-rc-202106091140
@@ -784,4 +784,5 @@ versioning:
   - 4.0.0.9
   - 4.0.0.10
   - 4.0.1.1
-  lastUpdated: 20250124040836
+  - 4.0.1.2
+  lastUpdated: 20250128072507

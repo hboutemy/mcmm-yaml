@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.xwiki.rendering
 artifactId: xwiki-rendering-transformations
 versioning:
-  latest: 17.0.0-rc-1
-  release: 17.0.0-rc-1
+  latest: 17.0.0
+  release: 17.0.0
   versions:
   - 3.2-milestone-3
   - 3.2-rc-1
@@ -501,5 +501,7 @@ versioning:
   - 16.10.0
   - 16.10.1
   - 16.10.2
+  - 16.10.3
   - 17.0.0-rc-1
-  lastUpdated: 20250121154549
+  - 17.0.0
+  lastUpdated: 20250128111339
