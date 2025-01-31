@@ -3,8 +3,8 @@
 groupId: ch.exense.step
 artifactId: step-functions-plugins-node-controller-def
 versioning:
-  latest: 3.26.5
-  release: 3.26.5
+  latest: 3.26.5-customized-j
+  release: 3.26.5-customized-j
   versions:
   - 3.26.0
   - 3.26.1
@@ -12,4 +12,5 @@ versioning:
   - 3.26.3
   - 3.26.4
   - 3.26.5
-  lastUpdated: 20241210100737
+  - 3.26.5-customized-j
+  lastUpdated: 20250130131440

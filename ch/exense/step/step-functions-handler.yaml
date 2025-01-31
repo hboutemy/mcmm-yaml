@@ -3,8 +3,8 @@
 groupId: ch.exense.step
 artifactId: step-functions-handler
 versioning:
-  latest: 3.26.5
-  release: 3.26.5
+  latest: 3.26.5-customized-j
+  release: 3.26.5-customized-j
   versions:
   - 3.9.0
   - 3.9.1
@@ -93,4 +93,5 @@ versioning:
   - 3.26.3
   - 3.26.4
   - 3.26.5
-  lastUpdated: 20241210100708
+  - 3.26.5-customized-j
+  lastUpdated: 20250130131415

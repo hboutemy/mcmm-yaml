@@ -3,8 +3,8 @@
 groupId: io.avaje
 artifactId: avaje-inject-maven-plugin
 versioning:
-  latest: 11.2-RC2
-  release: 11.2-RC2
+  latest: 11.2-javax
+  release: 11.2-javax
   versions:
   - 1.0
   - 1.1
@@ -44,4 +44,6 @@ versioning:
   - 11.1-javax
   - 11.2-RC1
   - 11.2-RC2
-  lastUpdated: 20250115204043
+  - 11.2
+  - 11.2-javax
+  lastUpdated: 20250130191716

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-bom
 versioning:
-  latest: 15.1.4.Final
-  release: 15.1.4.Final
+  latest: 15.1.5.Final
+  release: 15.1.5.Final
   versions:
   - 6.0.0.Alpha1
   - 6.0.0.Alpha2
@@ -314,6 +314,7 @@ versioning:
   - 14.0.31.Final
   - 14.0.32.Final
   - 14.0.33.Final
+  - 14.0.34.Final
   - 15.0.0.CR1
   - 15.0.0.Final
   - 15.0.0.Dev01
@@ -338,6 +339,7 @@ versioning:
   - 15.0.10.Final
   - 15.0.11.Final
   - 15.0.12.Final
+  - 15.0.13.Final
   - 15.1.0.Final
   - 15.1.0.Dev01
   - 15.1.0.Dev02
@@ -348,5 +350,6 @@ versioning:
   - 15.1.2.Final
   - 15.1.3.Final
   - 15.1.4.Final
+  - 15.1.5.Final
   - 12.0.0.Dev03
-  lastUpdated: 20250121181422
+  lastUpdated: 20250130122702
