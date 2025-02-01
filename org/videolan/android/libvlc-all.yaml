@@ -3,8 +3,8 @@
 groupId: org.videolan.android
 artifactId: libvlc-all
 versioning:
-  latest: 4.0.0-eap17
-  release: 4.0.0-eap17
+  latest: 4.0.0-eap18
+  release: 4.0.0-eap18
   versions:
   - 3.1.0
   - 3.1.1
@@ -108,6 +108,7 @@ versioning:
   - 3.5.4-eap2
   - 3.5.4-eap3
   - 3.5.4-eap4
+  - 3.6.0
   - 3.6.0-eap1
   - 3.6.0-eap2
   - 3.6.0-eap3
@@ -139,4 +140,5 @@ versioning:
   - 4.0.0-eap15
   - 4.0.0-eap16
   - 4.0.0-eap17
-  lastUpdated: 20241205063252
+  - 4.0.0-eap18
+  lastUpdated: 20250131073108
