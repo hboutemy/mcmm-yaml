@@ -3,8 +3,8 @@
 groupId: io.interface21
 artifactId: ameba-lib
 versioning:
-  latest: 4.0
-  release: 4.0
+  latest: 4.1.0-jdk17
+  release: 4.1.0-jdk17
   versions:
   - 1.7
   - 1.8
@@ -23,4 +23,6 @@ versioning:
   - 3.1
   - 4.0-M2
   - 4.0
-  lastUpdated: 20241014092102
+  - 4.1.0
+  - 4.1.0-jdk17
+  lastUpdated: 20250201161556
