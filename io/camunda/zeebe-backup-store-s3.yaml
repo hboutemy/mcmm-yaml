@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-backup-store-s3
 versioning:
-  latest: 8.7.0-alpha3
-  release: 8.7.0-alpha3
+  latest: 8.7.0-alpha4-rc1
+  release: 8.7.0-alpha4-rc1
   versions:
   - 8.0.15
   - 8.1.0-alpha5
@@ -107,6 +107,7 @@ versioning:
   - 8.3.17
   - 8.3.18
   - 8.3.19
+  - 8.3.20
   - 8.4.0-alpha1
   - 8.4.0-alpha2
   - 8.4.0
@@ -125,6 +126,7 @@ versioning:
   - 8.4.13
   - 8.4.14
   - 8.4.15
+  - 8.4.16
   - 8.5.0-alpha1
   - 8.5.0-alpha2
   - 8.5.0-RC1
@@ -184,4 +186,5 @@ versioning:
   - 8.7.0-alpha3-rc5
   - 8.7.0-alpha3-rc6
   - 8.7.0-alpha3
-  lastUpdated: 20250117095652
+  - 8.7.0-alpha4-rc1
+  lastUpdated: 20250203203222

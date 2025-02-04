@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: aws-json-protocol
 versioning:
-  latest: 2.30.11
-  release: 2.30.11
+  latest: 2.30.12
+  release: 2.30.12
   versions:
   - 2.0.0-preview-13
   - 2.1.0
@@ -1448,4 +1448,5 @@ versioning:
   - 2.30.9
   - 2.30.10
   - 2.30.11
-  lastUpdated: 20250131215055
+  - 2.30.12
+  lastUpdated: 20250203221229

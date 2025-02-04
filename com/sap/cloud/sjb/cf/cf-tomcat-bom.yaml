@@ -3,8 +3,8 @@
 groupId: com.sap.cloud.sjb.cf
 artifactId: cf-tomcat-bom
 versioning:
-  latest: 2.23.0
-  release: 2.23.0
+  latest: 2.24.0
+  release: 2.24.0
   versions:
   - 1.27.2
   - 1.27.3
@@ -93,6 +93,7 @@ versioning:
   - 1.106.0
   - 1.107.0
   - 1.109.0
+  - 1.110.0
   - 2.2.0
   - 2.3.0
   - 2.4.0
@@ -115,4 +116,5 @@ versioning:
   - 2.21.0
   - 2.22.0
   - 2.23.0
-  lastUpdated: 20250107150258
+  - 2.24.0
+  lastUpdated: 20250203155339
