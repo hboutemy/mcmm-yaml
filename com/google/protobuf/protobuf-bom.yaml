@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.protobuf
 artifactId: protobuf-bom
 versioning:
-  latest: 4.29.3
-  release: 4.29.3
+  latest: 4.30.0-RC1
+  release: 4.30.0-RC1
   versions:
   - 3.7.0-rc1
   - 3.7.0
@@ -157,5 +157,6 @@ versioning:
   - 4.29.1
   - 4.29.2
   - 4.29.3
+  - 4.30.0-RC1
   - 3.22.0-RC1
-  lastUpdated: 20250124204754
+  lastUpdated: 20250204231851

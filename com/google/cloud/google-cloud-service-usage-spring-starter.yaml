@@ -3,8 +3,8 @@
 groupId: com.google.cloud
 artifactId: google-cloud-service-usage-spring-starter
 versioning:
-  latest: 5.10.0-preview
-  release: 5.10.0-preview
+  latest: 6.0.0-preview
+  release: 6.0.0-preview
   versions:
   - 4.0.0-preview
   - 4.1.0-preview
@@ -48,6 +48,7 @@ versioning:
   - 4.10.13-preview
   - 4.10.14-preview
   - 4.10.15-preview
+  - 4.10.16-preview
   - 5.0.0-preview
   - 5.0.2-preview
   - 5.0.3-preview
@@ -68,4 +69,6 @@ versioning:
   - 5.8.0-preview
   - 5.9.0-preview
   - 5.10.0-preview
-  lastUpdated: 20250117153550
+  - 5.11.0-preview
+  - 6.0.0-preview
+  lastUpdated: 20250204225850

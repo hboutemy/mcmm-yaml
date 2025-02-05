@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-expression-language
 versioning:
-  latest: 8.7.0-alpha4-rc1
-  release: 8.7.0-alpha4-rc1
+  latest: 8.8.0-alpha1-rc1
+  release: 8.8.0-alpha1-rc1
   versions:
   - 1.0.0-rc1
   - 1.0.0-rc2
@@ -226,6 +226,7 @@ versioning:
   - 8.5.10
   - 8.5.11
   - 8.5.12
+  - 8.5.13
   - 8.6.0-alpha1-rc1
   - 8.6.0-alpha1-rc2
   - 8.6.0-alpha1-rc3
@@ -257,6 +258,8 @@ versioning:
   - 8.6.7-rc2
   - 8.6.7-rc3
   - 8.6.7
+  - 8.6.8-rc1
+  - 8.6.8
   - 8.7.0-alpha1-rc1
   - 8.7.0-alpha1
   - 8.7.0-alpha2-rc1
@@ -269,4 +272,5 @@ versioning:
   - 8.7.0-alpha3-rc6
   - 8.7.0-alpha3
   - 8.7.0-alpha4-rc1
-  lastUpdated: 20250203203229
+  - 8.8.0-alpha1-rc1
+  lastUpdated: 20250204174406
