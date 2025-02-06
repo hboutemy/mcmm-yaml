@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.langchain4j
 artifactId: quarkus-langchain4j-parsers-base-deployment
 versioning:
-  latest: 0.24.0.CR1
-  release: 0.24.0.CR1
+  latest: 0.24.0.CR3
+  release: 0.24.0.CR3
   versions:
   - 0.13.0
   - 0.13.1
@@ -45,4 +45,6 @@ versioning:
   - 0.23.0
   - 0.23.3
   - 0.24.0.CR1
-  lastUpdated: 20250124120853
+  - 0.24.0.CR2
+  - 0.24.0.CR3
+  lastUpdated: 20250205183936
