@@ -3,8 +3,8 @@
 groupId: com.snowplowanalytics
 artifactId: kafka_2.13
 versioning:
-  latest: 0.10.1-M2
-  release: 0.10.1-M2
+  latest: 0.10.1-M4
+  release: 0.10.1-M4
   versions:
   - 0.1.0-M1
   - 0.1.0-M2
@@ -67,4 +67,6 @@ versioning:
   - 0.10.0
   - 0.10.1-M1
   - 0.10.1-M2
-  lastUpdated: 20250204111518
+  - 0.10.1-M3
+  - 0.10.1-M4
+  lastUpdated: 20250206111701
