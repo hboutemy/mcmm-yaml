@@ -3,8 +3,8 @@
 groupId: org.arquillian.cube
 artifactId: arquillian-cube-docker
 versioning:
-  latest: 2.0.0.Alpha1
-  release: 2.0.0.Alpha1
+  latest: 2.0.0.Final
+  release: 2.0.0.Final
   versions:
   - 1.0.0.Alpha1
   - 1.0.0.Alpha2
@@ -33,6 +33,7 @@ versioning:
   - 1.18.1
   - 1.18.2
   - 2.0.0.Alpha1
+  - 2.0.0.Final
   - 1.0.1
   - 1.1.0
   - 1.10.0
@@ -59,4 +60,4 @@ versioning:
   - 1.9.0
   - 1.9.1
   - 1.9.2
-  lastUpdated: 20250117165542
+  lastUpdated: 20250206220008

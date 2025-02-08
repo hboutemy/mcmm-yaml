@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.glassfish.hk2
 artifactId: osgi-resource-locator
 versioning:
-  latest: 2.5.0-b42
-  release: 2.5.0-b42
+  latest: 3.0.0
+  release: 3.0.0
   versions:
+  - 3.0.0
   - 1.0.0
   - 1.0.1
   - 1.0.2
@@ -52,4 +52,4 @@ versioning:
   - 2.5.0-b40
   - 2.5.0-b41
   - 2.5.0-b42
-  lastUpdated: 20190125191704
+  lastUpdated: 20250207171336
