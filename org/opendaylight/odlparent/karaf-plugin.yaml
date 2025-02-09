@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.odlparent
 artifactId: karaf-plugin
 versioning:
-  latest: 14.0.6
-  release: 14.0.6
+  latest: 14.0.7
+  release: 14.0.7
   versions:
   - 1.5.0-Lithium
   - 1.5.1-Lithium-SR1
@@ -187,4 +187,5 @@ versioning:
   - 14.0.4
   - 14.0.5
   - 14.0.6
-  lastUpdated: 20250207123356
+  - 14.0.7
+  lastUpdated: 20250208135016
