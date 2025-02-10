@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-connector-hive_2.12
 versioning:
-  latest: 1.20.0
-  release: 1.20.0
+  latest: 3.0.0-1.20
+  release: 3.0.0-1.20
   versions:
   - 1.9.0
   - 1.9.1
@@ -60,4 +60,5 @@ versioning:
   - 1.19.0
   - 1.19.1
   - 1.20.0
-  lastUpdated: 20240801061220
+  - 3.0.0-1.20
+  lastUpdated: 20250209204655
