@@ -4,9 +4,10 @@ modelVersion: 1.1.0
 groupId: it.unibo.alchemist
 artifactId: alchemist-grid
 versioning:
-  latest: 37.3.0
-  release: 37.3.0
+  latest: 37.3.1
+  release: 37.3.1
   versions:
+  - 1.0.0
   - 8.0.0-beta-b76701c
   - 8.0.0-beta-j8+002.6f
   - 8.0.0
@@ -386,4 +387,5 @@ versioning:
   - 37.2.0
   - 37.2.1
   - 37.3.0
-  lastUpdated: 20250207172736
+  - 37.3.1
+  lastUpdated: 20250210143949
