@@ -3,13 +3,16 @@
 groupId: club.dawdler
 artifactId: dawdler-mybatis-core
 versioning:
-  latest: 0.0.5-jdk21-RELEASES
-  release: 0.0.5-jdk21-RELEASES
+  latest: 0.0.6-jdk21-RELEASES
+  release: 0.0.6-jdk21-RELEASES
   versions:
   - 0.0.4-jdk17-RELEASES
   - 0.0.5-jdk1.8-RELEASES
   - 0.0.5-jdk21-RELEASES
   - 0.0.5-jdk17-RELEASES
+  - 0.0.6-jdk1.8-RELEASES
+  - 0.0.6-jdk21-RELEASES
+  - 0.0.6-jdk17-RELEASES
   - 0.0.1-jdk1.8-RELEASES
   - 0.0.1-jdk17-RELEASES
   - 0.0.1-jdk21-RELEASES
@@ -21,4 +24,4 @@ versioning:
   - 0.0.3-jdk21-RELEASES
   - 0.0.4-jdk1.8-RELEASES
   - 0.0.4-jdk21-RELEASES
-  lastUpdated: 20250103092301
+  lastUpdated: 20250211084437

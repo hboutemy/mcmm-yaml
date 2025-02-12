@@ -3,8 +3,8 @@
 groupId: org.apache.druid.extensions
 artifactId: druid-ec2-extensions
 versioning:
-  latest: 31.0.1
-  release: 31.0.1
+  latest: 32.0.0
+  release: 32.0.0
   versions:
   - 0.15.0-incubating
   - 0.15.1-incubating
@@ -37,4 +37,5 @@ versioning:
   - 30.0.1
   - 31.0.0
   - 31.0.1
-  lastUpdated: 20241223221314
+  - 32.0.0
+  lastUpdated: 20250211044122
