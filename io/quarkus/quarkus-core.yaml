@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-core
 versioning:
-  latest: 3.18.2
-  release: 3.18.2
+  latest: 3.19.0.CR1
+  release: 3.19.0.CR1
   versions:
   - 0.11.0
   - 0.12.0
@@ -355,4 +355,6 @@ versioning:
   - 3.18.0
   - 3.18.1
   - 3.18.2
-  lastUpdated: 20250205105328
+  - 3.18.3
+  - 3.19.0.CR1
+  lastUpdated: 20250212111155

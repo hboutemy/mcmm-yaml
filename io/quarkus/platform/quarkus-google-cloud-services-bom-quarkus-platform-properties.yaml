@@ -3,8 +3,8 @@
 groupId: io.quarkus.platform
 artifactId: quarkus-google-cloud-services-bom-quarkus-platform-properties
 versioning:
-  latest: 3.18.2
-  release: 3.18.2
+  latest: 3.19.0.CR1
+  release: 3.19.0.CR1
   versions:
   - 2.0.0.Final
   - 2.0.1.Final
@@ -221,4 +221,6 @@ versioning:
   - 3.18.0.CR1
   - 3.18.1
   - 3.18.2
-  lastUpdated: 20250205141435
+  - 3.18.3
+  - 3.19.0.CR1
+  lastUpdated: 20250212153833

@@ -3,8 +3,8 @@
 groupId: io.ebean
 artifactId: ebean-platform-oracle
 versioning:
-  latest: 15.8.2
-  release: 15.8.2
+  latest: 15.9.0
+  release: 15.9.0
   versions:
   - 13.0.0
   - 13.1.0
@@ -131,6 +131,8 @@ versioning:
   - 14.8.1-javax
   - 14.8.2
   - 14.8.2-javax
+  - 14.9.0
+  - 14.9.0-javax
   - 15.0.0-RC
   - 15.0.1
   - 15.0.2
@@ -146,4 +148,5 @@ versioning:
   - 15.8.0
   - 15.8.1
   - 15.8.2
-  lastUpdated: 20250209094635
+  - 15.9.0
+  lastUpdated: 20250212074416

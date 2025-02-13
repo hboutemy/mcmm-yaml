@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-logging-gelf
 versioning:
-  latest: 3.18.2
-  release: 3.18.2
+  latest: 3.19.0.CR1
+  release: 3.19.0.CR1
   versions:
   - 1.1.0.CR1
   - 1.1.0.Final
@@ -322,4 +322,6 @@ versioning:
   - 3.18.0
   - 3.18.1
   - 3.18.2
-  lastUpdated: 20250205105531
+  - 3.18.3
+  - 3.19.0.CR1
+  lastUpdated: 20250212111407

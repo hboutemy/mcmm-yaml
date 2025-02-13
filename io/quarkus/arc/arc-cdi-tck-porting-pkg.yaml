@@ -3,8 +3,8 @@
 groupId: io.quarkus.arc
 artifactId: arc-cdi-tck-porting-pkg
 versioning:
-  latest: 3.18.2
-  release: 3.18.2
+  latest: 3.19.0.CR1
+  release: 3.19.0.CR1
   versions:
   - 3.0.0.Alpha6
   - 3.0.0.Beta1
@@ -132,4 +132,6 @@ versioning:
   - 3.18.0
   - 3.18.1
   - 3.18.2
-  lastUpdated: 20250205105239
+  - 3.18.3
+  - 3.19.0.CR1
+  lastUpdated: 20250212111103
