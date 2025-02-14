@@ -3,8 +3,8 @@
 groupId: org.openrewrite
 artifactId: rewrite-json
 versioning:
-  latest: 8.45.2
-  release: 8.45.2
+  latest: 8.45.4
+  release: 8.45.4
   versions:
   - 7.11.0
   - 7.11.1
@@ -231,4 +231,6 @@ versioning:
   - 8.45.0
   - 8.45.1
   - 8.45.2
-  lastUpdated: 20250212140629
+  - 8.45.3
+  - 8.45.4
+  lastUpdated: 20250213182053

@@ -3,8 +3,8 @@
 groupId: org.neo4j
 artifactId: neo4j-connector-apache-spark_2.13_parent
 versioning:
-  latest: 5.3.3_for_spark_3
-  release: 5.3.3_for_spark_3
+  latest: 5.3.4_for_spark_3
+  release: 5.3.4_for_spark_3
   versions:
   - 5.1.0
   - 5.2.0
@@ -12,4 +12,5 @@ versioning:
   - 5.3.1
   - 5.3.2_for_spark_3
   - 5.3.3_for_spark_3
-  lastUpdated: 20250124223157
+  - 5.3.4_for_spark_3
+  lastUpdated: 20250213105523

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework
 artifactId: spring-orm
 versioning:
-  latest: 7.0.0-M1
-  release: 7.0.0-M1
+  latest: 7.0.0-M2
+  release: 7.0.0-M2
   versions:
   - 1.0-rc1
   - 1.0
@@ -282,8 +282,11 @@ versioning:
   - 6.1.14
   - 6.1.15
   - 6.1.16
+  - 6.1.17
   - 6.2.0
   - 6.2.1
   - 6.2.2
+  - 6.2.3
   - 7.0.0-M1
-  lastUpdated: 20250123140224
+  - 7.0.0-M2
+  lastUpdated: 20250213135218
