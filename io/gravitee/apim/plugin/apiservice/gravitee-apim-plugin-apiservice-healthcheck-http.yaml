@@ -3,8 +3,8 @@
 groupId: io.gravitee.apim.plugin.apiservice
 artifactId: gravitee-apim-plugin-apiservice-healthcheck-http
 versioning:
-  latest: 4.6.3
-  release: 4.6.3
+  latest: 4.6.4
+  release: 4.6.4
   versions:
   - 4.0.0-alpha.2
   - 4.0.0-alpha.3
@@ -120,6 +120,7 @@ versioning:
   - 4.3.21
   - 4.3.22
   - 4.3.23
+  - 4.3.24
   - 4.4.0
   - 4.4.1
   - 4.4.2
@@ -140,6 +141,7 @@ versioning:
   - 4.4.17
   - 4.4.18
   - 4.4.19
+  - 4.4.20
   - 4.5.0-alpha.1
   - 4.5.0
   - 4.5.1
@@ -150,9 +152,11 @@ versioning:
   - 4.5.6
   - 4.5.7
   - 4.5.8
+  - 4.5.9
   - 4.6.0-alpha.3
   - 4.6.0
   - 4.6.1
   - 4.6.2
   - 4.6.3
-  lastUpdated: 20250207142816
+  - 4.6.4
+  lastUpdated: 20250214203406

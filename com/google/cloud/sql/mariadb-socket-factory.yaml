@@ -3,8 +3,8 @@
 groupId: com.google.cloud.sql
 artifactId: mariadb-socket-factory
 versioning:
-  latest: 1.23.0
-  release: 1.23.0
+  latest: 1.23.1
+  release: 1.23.1
   versions:
   - 1.11.0
   - 1.11.1
@@ -31,4 +31,5 @@ versioning:
   - 1.21.2
   - 1.22.0
   - 1.23.0
-  lastUpdated: 20250124214349
+  - 1.23.1
+  lastUpdated: 20250214012829
