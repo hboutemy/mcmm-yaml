@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-rabbitmq-2.7
 versioning:
-  latest: 2.12.0-alpha
-  release: 2.12.0-alpha
+  latest: 2.13.0-alpha
+  release: 2.13.0-alpha
   versions:
   - 0.12.0
   - 0.12.1
@@ -92,4 +92,5 @@ versioning:
   - 2.10.0-alpha
   - 2.11.0-alpha
   - 2.12.0-alpha
-  lastUpdated: 20250117033509
+  - 2.13.0-alpha
+  lastUpdated: 20250216005141

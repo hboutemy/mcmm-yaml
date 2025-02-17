@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.langchain4j
 artifactId: quarkus-langchain4j-tavily-deployment
 versioning:
-  latest: 0.24.0
-  release: 0.24.0
+  latest: 0.25.0.CR1
+  release: 0.25.0.CR1
   versions:
   - 0.18.0.CR1
   - 0.18.0
@@ -32,4 +32,5 @@ versioning:
   - 0.24.0.CR2
   - 0.24.0.CR3
   - 0.24.0
-  lastUpdated: 20250211073457
+  - 0.25.0.CR1
+  lastUpdated: 20250216164739
