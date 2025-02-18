@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat
 artifactId: tomcat-coyote-ffm
 versioning:
-  latest: 11.0.3
-  release: 11.0.3
+  latest: 11.0.4
+  release: 11.0.4
   versions:
   - 9.0.93
   - 9.0.94
@@ -13,6 +13,7 @@ versioning:
   - 9.0.97
   - 9.0.98
   - 9.0.99
+  - 9.0.100
   - 10.1.26
   - 10.1.28
   - 10.1.29
@@ -29,4 +30,5 @@ versioning:
   - 11.0.1
   - 11.0.2
   - 11.0.3
-  lastUpdated: 20250210140042
+  - 11.0.4
+  lastUpdated: 20250217104555

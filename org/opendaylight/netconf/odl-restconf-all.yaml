@@ -3,8 +3,8 @@
 groupId: org.opendaylight.netconf
 artifactId: odl-restconf-all
 versioning:
-  latest: 8.0.3
-  release: 8.0.3
+  latest: 8.0.5
+  release: 8.0.5
   versions:
   - 1.5.0-Carbon
   - 1.5.1-Carbon
@@ -129,4 +129,6 @@ versioning:
   - 8.0.1
   - 8.0.2
   - 8.0.3
-  lastUpdated: 20241208191441
+  - 8.0.4
+  - 8.0.5
+  lastUpdated: 20250217212449

@@ -3,8 +3,8 @@
 groupId: io.gravitee.am.reporter
 artifactId: gravitee-am-reporter-jdbc
 versioning:
-  latest: 4.6.1
-  release: 4.6.1
+  latest: 4.6.2
+  release: 4.6.2
   versions:
   - 3.5.0
   - 3.5.1
@@ -259,6 +259,7 @@ versioning:
   - 4.1.34
   - 4.1.35
   - 4.1.36
+  - 4.1.37
   - 4.2.0-alpha.1
   - 4.2.0
   - 4.2.1
@@ -312,6 +313,7 @@ versioning:
   - 4.3.20
   - 4.3.21
   - 4.3.22
+  - 4.3.23
   - 4.4.0-alpha.1
   - 4.4.0
   - 4.4.1
@@ -331,6 +333,7 @@ versioning:
   - 4.4.15
   - 4.4.16
   - 4.4.17
+  - 4.4.18
   - 4.5.0-alpha.1
   - 4.5.0-alpha.2
   - 4.5.0-alpha.3
@@ -344,9 +347,11 @@ versioning:
   - 4.5.6
   - 4.5.7
   - 4.5.8
+  - 4.5.9
   - 4.6.0-alpha.1
   - 4.6.0-alpha.2
   - 4.6.0-alpha.3
   - 4.6.0
   - 4.6.1
-  lastUpdated: 20250131142838
+  - 4.6.2
+  lastUpdated: 20250217171853

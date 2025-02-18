@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.am
 artifactId: am-parent
 versioning:
-  latest: 4.4.0-m2
-  release: 4.4.0-m2
+  latest: 4.5.0-m2
+  release: 4.5.0-m2
   versions:
   - v3.0.0-m3
   - 1.10.0
@@ -89,4 +89,5 @@ versioning:
   - 4.2.0-m1
   - 4.2.0
   - 4.4.0-alpha
-  lastUpdated: 20240930142759
+  - 4.5.0-alpha
+  lastUpdated: 20250217040124
