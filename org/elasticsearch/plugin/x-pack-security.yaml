@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.plugin
 artifactId: x-pack-security
 versioning:
-  latest: 8.17.2
-  release: 8.17.2
+  latest: 9.0.0-beta1
+  release: 9.0.0-beta1
   versions:
   - 6.8.11
   - 6.8.12
@@ -149,4 +149,5 @@ versioning:
   - 8.17.0
   - 8.17.1
   - 8.17.2
-  lastUpdated: 20250211105811
+  - 9.0.0-beta1
+  lastUpdated: 20250218140852

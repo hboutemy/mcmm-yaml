@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.test
 artifactId: yaml-rest-runner
 versioning:
-  latest: 8.17.2
-  release: 8.17.2
+  latest: 9.0.0-beta1
+  release: 9.0.0-beta1
   versions:
   - 8.2.0
   - 8.2.1
@@ -69,4 +69,5 @@ versioning:
   - 8.17.0
   - 8.17.1
   - 8.17.2
-  lastUpdated: 20250211105816
+  - 9.0.0-beta1
+  lastUpdated: 20250218140856

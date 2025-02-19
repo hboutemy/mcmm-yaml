@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.elasticsearch
 artifactId: elasticsearch
 versioning:
-  latest: 8.17.2
-  release: 8.17.2
+  latest: 9.0.0-beta1
+  release: 9.0.0-beta1
   versions:
   - 0.6.0
   - 0.7.0
@@ -423,4 +423,5 @@ versioning:
   - 8.17.0
   - 8.17.1
   - 8.17.2
-  lastUpdated: 20250211105747
+  - 9.0.0-beta1
+  lastUpdated: 20250218140826

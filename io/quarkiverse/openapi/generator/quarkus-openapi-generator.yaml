@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.openapi.generator
 artifactId: quarkus-openapi-generator
 versioning:
-  latest: 2.8.0-lts
-  release: 2.8.0-lts
+  latest: 2.8.1
+  release: 2.8.1
   versions:
   - 0.1.0
   - 0.2.0
@@ -67,6 +67,7 @@ versioning:
   - 2.4.2
   - 2.4.6
   - 2.4.7
+  - 2.4.8
   - 2.5.0
   - 2.6.0
   - 2.6.0-lts
@@ -76,4 +77,5 @@ versioning:
   - 2.7.1-lts
   - 2.8.0
   - 2.8.0-lts
-  lastUpdated: 20250122172005
+  - 2.8.1
+  lastUpdated: 20250218221538

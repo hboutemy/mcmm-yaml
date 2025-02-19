@@ -3,8 +3,8 @@
 groupId: org.liquibase.ext
 artifactId: liquibase-modify-column
 versioning:
-  latest: 4.31.0
-  release: 4.31.0
+  latest: 4.31.1
+  release: 4.31.1
   versions:
   - 3.0
   - 3.1
@@ -66,4 +66,5 @@ versioning:
   - 4.29.2
   - 4.30.0
   - 4.31.0
-  lastUpdated: 20250117202137
+  - 4.31.1
+  lastUpdated: 20250218152903

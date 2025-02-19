@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: personalize
 versioning:
-  latest: 2.30.21
-  release: 2.30.21
+  latest: 2.30.23
+  release: 2.30.23
   versions:
   - 2.5.60
   - 2.5.61
@@ -1364,4 +1364,6 @@ versioning:
   - 2.30.19
   - 2.30.20
   - 2.30.21
-  lastUpdated: 20250214221542
+  - 2.30.22
+  - 2.30.23
+  lastUpdated: 20250218215027
