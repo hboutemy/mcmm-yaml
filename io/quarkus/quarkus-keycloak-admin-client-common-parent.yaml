@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-keycloak-admin-client-common-parent
 versioning:
-  latest: 3.19.0.CR1
-  release: 3.19.0.CR1
+  latest: 3.19.0
+  release: 3.19.0
   versions:
   - 2.13.0.CR1
   - 2.13.0.Final
@@ -173,5 +173,7 @@ versioning:
   - 3.18.1
   - 3.18.2
   - 3.18.3
+  - 3.18.4
   - 3.19.0.CR1
-  lastUpdated: 20250212111350
+  - 3.19.0
+  lastUpdated: 20250219121620

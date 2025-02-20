@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-functions-api-examples-builtin
 versioning:
-  latest: 4.0.1.3
-  release: 4.0.1.3
+  latest: 4.0.1.4
+  release: 4.0.1.4
   versions:
   - master-rc-daily
   - 2.11.0.0-rc2
@@ -103,6 +103,7 @@ versioning:
   - 3.0.8.2-shaded
   - 3.0.8.2-62444a
   - 3.0.8.3
+  - 3.0.8.4
   - 3.1.0.1
   - 3.1.0.2
   - 3.1.0.3
@@ -173,4 +174,5 @@ versioning:
   - 4.0.1.1
   - 4.0.1.2
   - 4.0.1.3
-  lastUpdated: 20250213124312
+  - 4.0.1.4
+  lastUpdated: 20250219122731

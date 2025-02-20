@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlin
 artifactId: kotlin-compiler-embeddable
 versioning:
-  latest: 2.1.20-Beta2
-  release: 2.1.20-Beta2
+  latest: 2.1.20-RC
+  release: 2.1.20-RC
   versions:
   - 0.9.0-native
   - 0.9.1-native
@@ -190,4 +190,5 @@ versioning:
   - 2.1.10
   - 2.1.20-Beta1
   - 2.1.20-Beta2
-  lastUpdated: 20250129102011
+  - 2.1.20-RC
+  lastUpdated: 20250219110930
