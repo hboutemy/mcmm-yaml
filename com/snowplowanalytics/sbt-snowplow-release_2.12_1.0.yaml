@@ -3,10 +3,11 @@
 groupId: com.snowplowanalytics
 artifactId: sbt-snowplow-release_2.12_1.0
 versioning:
-  latest: 0.4.0-M2
-  release: 0.4.0-M2
+  latest: 0.4.0
+  release: 0.4.0
   versions:
   - 0.4.0-M2
+  - 0.4.0
   - 0.1.0
   - 0.1.0-M1
   - 0.1.0-M2
@@ -22,4 +23,4 @@ versioning:
   - 0.3.1-M1
   - 0.3.2
   - 0.4.0-M1
-  lastUpdated: 20250203164017
+  lastUpdated: 20250220142354

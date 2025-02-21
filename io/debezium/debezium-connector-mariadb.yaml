@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-connector-mariadb
 versioning:
-  latest: 3.1.0.Alpha1
-  release: 3.1.0.Alpha1
+  latest: 3.1.0.Alpha2
+  release: 3.1.0.Alpha2
   versions:
   - 2.7.0.Alpha1
   - 2.7.0.Alpha2
@@ -29,4 +29,5 @@ versioning:
   - 3.0.6.Final
   - 3.0.7.Final
   - 3.1.0.Alpha1
-  lastUpdated: 20250120182653
+  - 3.1.0.Alpha2
+  lastUpdated: 20250220153651
