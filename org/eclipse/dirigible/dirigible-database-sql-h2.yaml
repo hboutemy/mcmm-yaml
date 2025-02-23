@@ -3,8 +3,8 @@
 groupId: org.eclipse.dirigible
 artifactId: dirigible-database-sql-h2
 versioning:
-  latest: 10.6.50
-  release: 10.6.50
+  latest: 11.1.1
+  release: 11.1.1
   versions:
   - 6.3.22
   - 6.3.23
@@ -183,4 +183,6 @@ versioning:
   - 10.6.47
   - 10.6.48
   - 10.6.50
-  lastUpdated: 20250206131233
+  - 11.1.0
+  - 11.1.1
+  lastUpdated: 20250222230359
