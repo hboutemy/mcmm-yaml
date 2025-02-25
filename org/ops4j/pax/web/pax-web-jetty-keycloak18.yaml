@@ -3,8 +3,8 @@
 groupId: org.ops4j.pax.web
 artifactId: pax-web-jetty-keycloak18
 versioning:
-  latest: 9.0.19
-  release: 9.0.19
+  latest: 9.0.20
+  release: 9.0.20
   versions:
   - 8.0.23
   - 8.0.24
@@ -14,6 +14,7 @@ versioning:
   - 8.0.28
   - 8.0.29
   - 8.0.30
+  - 8.0.31
   - 9.0.12
   - 9.0.13
   - 9.0.14
@@ -22,4 +23,5 @@ versioning:
   - 9.0.17
   - 9.0.18
   - 9.0.19
-  lastUpdated: 20250116144616
+  - 9.0.20
+  lastUpdated: 20250224133510

@@ -3,8 +3,8 @@
 groupId: com.google.cloud
 artifactId: spring-cloud-gcp-storage
 versioning:
-  latest: 6.0.0
-  release: 6.0.0
+  latest: 6.0.1
+  release: 6.0.1
   versions:
   - 2.0.0-RC1
   - 2.0.0-RC2
@@ -68,6 +68,7 @@ versioning:
   - 3.8.13
   - 3.8.14
   - 3.8.15
+  - 3.8.16
   - 4.0.0
   - 4.1.0
   - 4.1.1
@@ -111,6 +112,7 @@ versioning:
   - 4.10.14
   - 4.10.15
   - 4.10.16
+  - 4.10.17
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -133,8 +135,10 @@ versioning:
   - 5.9.0
   - 5.10.0
   - 5.11.0
+  - 5.11.1
   - 6.0.0
+  - 6.0.1
   - 2.0.2
   - 2.0.3
   - 2.0.4
-  lastUpdated: 20250204225906
+  lastUpdated: 20250224190454

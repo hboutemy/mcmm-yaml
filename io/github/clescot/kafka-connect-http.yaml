@@ -3,8 +3,8 @@
 groupId: io.github.clescot
 artifactId: kafka-connect-http
 versioning:
-  latest: 0.8.8
-  release: 0.8.8
+  latest: 0.8.11
+  release: 0.8.11
   versions:
   - 0.2.135
   - 0.2.136
@@ -331,4 +331,7 @@ versioning:
   - 0.8.6
   - 0.8.7
   - 0.8.8
-  lastUpdated: 20241121142058
+  - 0.8.9
+  - 0.8.10
+  - 0.8.11
+  lastUpdated: 20250224180956

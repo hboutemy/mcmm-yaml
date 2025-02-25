@@ -3,8 +3,8 @@
 groupId: com.azure
 artifactId: azure-messaging-eventhubs-checkpointstore-blob
 versioning:
-  latest: 1.20.3
-  release: 1.20.3
+  latest: 1.21.0-beta.1
+  release: 1.21.0-beta.1
   versions:
   - 1.0.0-beta.4
   - 1.0.0-preview.1
@@ -76,4 +76,5 @@ versioning:
   - 1.20.1
   - 1.20.2
   - 1.20.3
-  lastUpdated: 20250121224549
+  - 1.21.0-beta.1
+  lastUpdated: 20250224213922
