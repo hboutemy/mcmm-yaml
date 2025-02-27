@@ -3,10 +3,11 @@
 groupId: io.joern
 artifactId: ghidra
 versioning:
-  latest: 11.3.1_PUBLIC_20250219-0
-  release: 11.3.1_PUBLIC_20250219-0
+  latest: 11.4_JOERN-DEV-2
+  release: 11.4_JOERN-DEV-2
   versions:
-  - 11.3.1_PUBLIC_20250219-0
+  - 11.4_JOERN-DEV-0
+  - 11.4_JOERN-DEV-2
   - 10.2.3_PUBLIC_20230208
   - 10.3.3_PUBLIC_20230829
   - 10.3_PUBLIC_20230510
@@ -18,5 +19,6 @@ versioning:
   - 11.2.1_PUBLIC_20241105-1
   - 11.2.1_PUBLIC_20241105-6
   - 11.2.1_PUBLIC_20241105-7
+  - 11.3.1_PUBLIC_20250219-0
   - 11.3_PUBLIC_20250205-3
-  lastUpdated: 20250225114634
+  lastUpdated: 20250226162224
