@@ -3,8 +3,8 @@
 groupId: org.mongodb
 artifactId: mongodb-driver-legacy
 versioning:
-  latest: 5.3.1
-  release: 5.3.1
+  latest: 5.4.0-alpha0
+  release: 5.4.0-alpha0
   versions:
   - 3.9.0-rc0
   - 3.9.0
@@ -111,4 +111,5 @@ versioning:
   - 5.3.0-beta0
   - 5.3.0
   - 5.3.1
-  lastUpdated: 20250123120941
+  - 5.4.0-alpha0
+  lastUpdated: 20250227222543

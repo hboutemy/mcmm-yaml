@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.instrumentation
 artifactId: opentelemetry-elasticsearch-rest-common
 versioning:
-  latest: 2.13.1-alpha
-  release: 2.13.1-alpha
+  latest: 2.13.2-alpha
+  release: 2.13.2-alpha
   versions:
   - 1.1.0-alpha
   - 1.2.0-alpha
@@ -43,4 +43,5 @@ versioning:
   - 2.12.0-alpha
   - 2.13.0-alpha
   - 2.13.1-alpha
-  lastUpdated: 20250218182447
+  - 2.13.2-alpha
+  lastUpdated: 20250227012015

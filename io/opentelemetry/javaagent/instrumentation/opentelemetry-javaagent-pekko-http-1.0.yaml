@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-pekko-http-1.0
 versioning:
-  latest: 2.13.1-alpha
-  release: 2.13.1-alpha
+  latest: 2.13.2-alpha
+  release: 2.13.2-alpha
   versions:
   - 1.31.0-alpha
   - 1.32.0-alpha
@@ -31,4 +31,5 @@ versioning:
   - 2.12.0-alpha
   - 2.13.0-alpha
   - 2.13.1-alpha
-  lastUpdated: 20250218183510
+  - 2.13.2-alpha
+  lastUpdated: 20250227012900
