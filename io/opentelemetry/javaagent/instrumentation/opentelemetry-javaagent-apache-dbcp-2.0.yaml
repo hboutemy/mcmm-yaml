@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-apache-dbcp-2.0
 versioning:
-  latest: 2.13.2-alpha
-  release: 2.13.2-alpha
+  latest: 2.13.3-alpha
+  release: 2.13.3-alpha
   versions:
   - 1.15.0-alpha
   - 1.16.0-alpha
@@ -54,4 +54,5 @@ versioning:
   - 2.13.0-alpha
   - 2.13.1-alpha
   - 2.13.2-alpha
-  lastUpdated: 20250227012240
+  - 2.13.3-alpha
+  lastUpdated: 20250228170354
