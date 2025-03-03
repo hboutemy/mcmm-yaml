@@ -3,10 +3,12 @@
 groupId: org.lynxsdk.lynx
 artifactId: primjs
 versioning:
-  latest: 0.0.1-alpha.1
-  release: 0.0.1-alpha.1
+  latest: 0.0.1-for-ci-test
+  release: 0.0.1-for-ci-test
   versions:
   - 0.0.1-alpha.1
+  - 0.0.1-for-ci-test
   - 0.0.1-alpha.2
   - 0.2.3
-  lastUpdated: 20250301092642
+  - 2.11.1-alpha.2
+  lastUpdated: 20250302093726
