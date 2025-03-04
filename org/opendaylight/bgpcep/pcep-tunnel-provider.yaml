@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.bgpcep
 artifactId: pcep-tunnel-provider
 versioning:
-  latest: 0.22.8
-  release: 0.22.8
+  latest: 0.22.9
+  release: 0.22.9
   versions:
   - 0.3.0
   - 0.3.1-Helium
@@ -149,4 +149,5 @@ versioning:
   - 0.22.6
   - 0.22.7
   - 0.22.8
-  lastUpdated: 20250221152954
+  - 0.22.9
+  lastUpdated: 20250303101606

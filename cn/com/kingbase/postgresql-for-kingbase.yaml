@@ -3,10 +3,13 @@
 groupId: cn.com.kingbase
 artifactId: postgresql-for-kingbase
 versioning:
-  latest: 8.6.0.jre7
-  release: 8.6.0.jre7
+  latest: 9.0.0.jre7
+  release: 9.0.0.jre7
   versions:
   - 8.6.0
   - 8.6.0.jre6
   - 8.6.0.jre7
-  lastUpdated: 20230517104617
+  - 9.0.0
+  - 9.0.0.jre6
+  - 9.0.0.jre7
+  lastUpdated: 20250303031046
