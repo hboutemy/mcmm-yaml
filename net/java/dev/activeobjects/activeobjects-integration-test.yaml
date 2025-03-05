@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: net.java.dev.activeobjects
 artifactId: activeobjects-integration-test
 versioning:
@@ -175,7 +176,6 @@ versioning:
   - 3.0.4-9f17bf01
   - 3.0.6
   - 3.1.2
-  - 3.1.5
   - 3.1.6
   - 3.1.7
   - 3.1.8
@@ -330,4 +330,5 @@ versioning:
   - 6.1.2-e61d15b22
   - 6.1.2-8d77224ea
   - 6.1.2-27332d180
-  lastUpdated: 20250224155925
+  - 3.1.5
+  lastUpdated: 20250304164232

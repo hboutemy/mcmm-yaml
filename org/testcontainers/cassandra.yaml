@@ -3,8 +3,8 @@
 groupId: org.testcontainers
 artifactId: cassandra
 versioning:
-  latest: 1.20.5
-  release: 1.20.5
+  latest: 1.20.6
+  release: 1.20.6
   versions:
   - 1.8.1
   - 1.8.2
@@ -71,4 +71,5 @@ versioning:
   - 1.20.3
   - 1.20.4
   - 1.20.5
-  lastUpdated: 20250219213204
+  - 1.20.6
+  lastUpdated: 20250304200513

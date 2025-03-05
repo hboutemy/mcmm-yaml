@@ -1,11 +1,15 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: net.java.dev.activeobjects
 artifactId: activeobjects
 versioning:
   latest: 6.1.2-27332d180
   release: 6.1.2-27332d180
   versions:
+  - 0.8
+  - 0.8.1
+  - 0.8.2
   - 0.9-m9
   - 0.9-m10
   - 0.9-m11
@@ -175,7 +179,6 @@ versioning:
   - 3.0.4-9f17bf01
   - 3.0.6
   - 3.1.2
-  - 3.1.5
   - 3.1.6
   - 3.1.7
   - 3.1.8
@@ -328,12 +331,10 @@ versioning:
   - 6.1.0
   - 6.1.1
   - 6.1.2-m04-b4449665c
-  - 6.1.2-m04-2d6fc0914
   - 6.1.2-m04-ada3f184c
+  - 6.1.2-m04-2d6fc0914
   - 6.1.2-e61d15b22
   - 6.1.2-8d77224ea
   - 6.1.2-27332d180
-  - 0.8
-  - 0.8.1
-  - 0.8.2
-  lastUpdated: 20250224155854
+  - 3.1.5
+  lastUpdated: 20250304164936
