@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.main.featuresets
 artifactId: web
 versioning:
-  latest: 8.0.0-JDK17-M9
-  release: 8.0.0-JDK17-M9
+  latest: 8.0.0-JDK17-M10
+  release: 8.0.0-JDK17-M10
   versions:
   - 5.1.0
   - 6.0.0-M1
@@ -62,6 +62,7 @@ versioning:
   - 8.0.0-JDK17-M6
   - 8.0.0-JDK17-M7
   - 8.0.0-JDK17-M9
+  - 8.0.0-JDK17-M10
   - 4.1
   - 4.1.1
   - 4.1.2
@@ -69,4 +70,4 @@ versioning:
   - 5.0.1
   - 5.1.0-RC1
   - 5.1.0-RC2
-  lastUpdated: 20250304234129
+  lastUpdated: 20250305194605
