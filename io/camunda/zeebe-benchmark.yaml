@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-benchmark
 versioning:
-  latest: 8.8.0-alpha2-rc1
-  release: 8.8.0-alpha2-rc1
+  latest: 8.8.0-alpha2
+  release: 8.8.0-alpha2
   versions:
   - 1.0.0-rc1
   - 1.0.0-rc2
@@ -268,6 +268,7 @@ versioning:
   - 8.6.9
   - 8.6.10
   - 8.6.11-rc1
+  - 8.6.11
   - 8.7.0-alpha1-rc1
   - 8.7.0-alpha1
   - 8.7.0-alpha2-rc1
@@ -288,4 +289,5 @@ versioning:
   - 8.8.0-alpha1-rc1
   - 8.8.0-alpha1
   - 8.8.0-alpha2-rc1
-  lastUpdated: 20250305160054
+  - 8.8.0-alpha2
+  lastUpdated: 20250306212258

@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: spring-boot-starter-camunda-sdk
 versioning:
-  latest: 8.8.0-alpha2-rc1
-  release: 8.8.0-alpha2-rc1
+  latest: 8.8.0-alpha2
+  release: 8.8.0-alpha2
   versions:
   - 8.5.0-RC2
   - 8.5.0
@@ -61,6 +61,7 @@ versioning:
   - 8.6.9
   - 8.6.10
   - 8.6.11-rc1
+  - 8.6.11
   - 8.7.0-alpha1-rc1
   - 8.7.0-alpha1
   - 8.7.0-alpha2-rc1
@@ -81,4 +82,5 @@ versioning:
   - 8.8.0-alpha1-rc1
   - 8.8.0-alpha1
   - 8.8.0-alpha2-rc1
-  lastUpdated: 20250305160042
+  - 8.8.0-alpha2
+  lastUpdated: 20250306212244
