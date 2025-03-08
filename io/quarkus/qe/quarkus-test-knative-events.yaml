@@ -3,8 +3,8 @@
 groupId: io.quarkus.qe
 artifactId: quarkus-test-knative-events
 versioning:
-  latest: 1.6.0
-  release: 1.6.0
+  latest: 1.7.0.Beta0
+  release: 1.7.0.Beta0
   versions:
   - 1.2.0.Beta13
   - 1.2.0.Beta14
@@ -117,4 +117,5 @@ versioning:
   - 1.6.0.Beta17
   - 1.6.0.Beta20
   - 1.6.0
-  lastUpdated: 20250306102057
+  - 1.7.0.Beta0
+  lastUpdated: 20250307111710

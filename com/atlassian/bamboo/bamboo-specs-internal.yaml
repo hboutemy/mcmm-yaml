@@ -3,8 +3,8 @@
 groupId: com.atlassian.bamboo
 artifactId: bamboo-specs-internal
 versioning:
-  latest: 10.2.2-BDEV-18884-1
-  release: 10.2.2-BDEV-18884-1
+  latest: 10.2.3-m01
+  release: 10.2.3-m01
   versions:
   - 6.2.6
   - 6.2.7
@@ -258,6 +258,7 @@ versioning:
   - 10.2.2-m02-BAM-14706-3
   - 10.2.2
   - 10.2.2-BDEV-18884-1
+  - 10.2.3-m01
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -276,4 +277,4 @@ versioning:
   - 6.2.4
   - 6.2.5
   - 6.3.0-rc3
-  lastUpdated: 20250304170044
+  lastUpdated: 20250307130439
