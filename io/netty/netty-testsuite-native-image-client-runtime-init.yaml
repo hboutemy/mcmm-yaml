@@ -3,8 +3,8 @@
 groupId: io.netty
 artifactId: netty-testsuite-native-image-client-runtime-init
 versioning:
-  latest: 4.2.0.RC3
-  release: 4.2.0.RC3
+  latest: 4.2.0.RC4
+  release: 4.2.0.RC4
   versions:
   - 4.1.55.Final
   - 4.1.56.Final
@@ -80,4 +80,5 @@ versioning:
   - 4.2.0.RC1
   - 4.2.0.RC2
   - 4.2.0.RC3
-  lastUpdated: 20250226094222
+  - 4.2.0.RC4
+  lastUpdated: 20250308074057

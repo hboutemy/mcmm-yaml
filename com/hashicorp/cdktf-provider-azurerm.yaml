@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf-provider-azurerm
 versioning:
-  latest: 13.20.1
-  release: 13.20.1
+  latest: 13.21.0
+  release: 13.21.0
   versions:
   - 0.2.12
   - 0.2.13
@@ -656,4 +656,5 @@ versioning:
   - 13.19.0
   - 13.20.0
   - 13.20.1
-  lastUpdated: 20250301044150
+  - 13.21.0
+  lastUpdated: 20250308043906

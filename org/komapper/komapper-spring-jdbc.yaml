@@ -3,9 +3,10 @@
 groupId: org.komapper
 artifactId: komapper-spring-jdbc
 versioning:
-  latest: 5.2.0
-  release: 5.2.0
+  latest: 5.2.1
+  release: 5.2.1
   versions:
+  - RELEASE_VERSION
   - 0.30.0
   - 0.31.0
   - 0.32.0
@@ -49,4 +50,5 @@ versioning:
   - 5.0.0
   - 5.1.0
   - 5.2.0
-  lastUpdated: 20250209002340
+  - 5.2.1
+  lastUpdated: 20250308023626

@@ -3,9 +3,10 @@
 groupId: org.komapper
 artifactId: komapper-dialect-mariadb
 versioning:
-  latest: 5.2.0
-  release: 5.2.0
+  latest: 5.2.1
+  release: 5.2.1
   versions:
+  - RELEASE_VERSION
   - 0.14.0
   - 0.15.0
   - 0.15.1
@@ -68,4 +69,5 @@ versioning:
   - 5.0.0
   - 5.1.0
   - 5.2.0
-  lastUpdated: 20250209002304
+  - 5.2.1
+  lastUpdated: 20250308023556

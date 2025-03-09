@@ -3,9 +3,10 @@
 groupId: org.komapper
 artifactId: komapper-dialect-sqlserver-r2dbc
 versioning:
-  latest: 5.2.0
-  release: 5.2.0
+  latest: 5.2.1
+  release: 5.2.1
   versions:
+  - RELEASE_VERSION
   - 0.28.0
   - 0.29.0
   - 0.29.1
@@ -52,4 +53,5 @@ versioning:
   - 5.0.0
   - 5.1.0
   - 5.2.0
-  lastUpdated: 20250209002321
+  - 5.2.1
+  lastUpdated: 20250308023610
