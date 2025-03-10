@@ -3,8 +3,8 @@
 groupId: io.scalecube
 artifactId: scalecube-services
 versioning:
-  latest: 2.12.5
-  release: 2.12.5
+  latest: 2.12.6.auth-refactoring.RC2
+  release: 2.12.6.auth-refactoring.RC2
   versions:
   - 1.0.0
   - 1.0.1
@@ -186,4 +186,6 @@ versioning:
   - 2.12.2
   - 2.12.3
   - 2.12.5
-  lastUpdated: 20250211131712
+  - 2.12.6.auth-refactoring.RC1
+  - 2.12.6.auth-refactoring.RC2
+  lastUpdated: 20250309232742

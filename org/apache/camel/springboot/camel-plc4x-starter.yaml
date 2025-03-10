@@ -3,8 +3,8 @@
 groupId: org.apache.camel.springboot
 artifactId: camel-plc4x-starter
 versioning:
-  latest: 4.10.1
-  release: 4.10.1
+  latest: 4.10.2
+  release: 4.10.2
   versions:
   - 3.20.0
   - 3.20.1
@@ -26,6 +26,7 @@ versioning:
   - 3.22.1
   - 3.22.2
   - 3.22.3
+  - 3.22.4
   - 4.0.0-M1
   - 4.0.0-M2
   - 4.0.0-M3
@@ -59,4 +60,5 @@ versioning:
   - 4.9.0
   - 4.10.0
   - 4.10.1
-  lastUpdated: 20250308163054
+  - 4.10.2
+  lastUpdated: 20250309114012

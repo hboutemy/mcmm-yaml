@@ -3,8 +3,8 @@
 groupId: org.apache.camel
 artifactId: camel-sjms
 versioning:
-  latest: 4.10.1
-  release: 4.10.1
+  latest: 4.10.2
+  release: 4.10.2
   versions:
   - 2.11.0
   - 2.11.1
@@ -177,6 +177,7 @@ versioning:
   - 3.22.1
   - 3.22.2
   - 3.22.3
+  - 3.22.4
   - 4.0.0-M1
   - 4.0.0-M2
   - 4.0.0-M3
@@ -210,4 +211,5 @@ versioning:
   - 4.9.0
   - 4.10.0
   - 4.10.1
-  lastUpdated: 20250308155450
+  - 4.10.2
+  lastUpdated: 20250309105416
