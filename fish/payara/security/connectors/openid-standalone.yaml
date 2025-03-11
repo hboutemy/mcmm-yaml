@@ -3,8 +3,8 @@
 groupId: fish.payara.security.connectors
 artifactId: openid-standalone
 versioning:
-  latest: 4.0.0.Alpha2
-  release: 4.0.0.Alpha2
+  latest: 4.0.0.Alpha3
+  release: 4.0.0.Alpha3
   versions:
   - 2.0.0
   - 2.1.0
@@ -14,6 +14,7 @@ versioning:
   - 2.5.1
   - 2.7.0
   - 2.7.1
+  - 2.8.1
   - 3.0.alpha3
   - 3.0.alpha4
   - 3.0.alpha5
@@ -22,6 +23,8 @@ versioning:
   - 3.0.alpha8
   - 3.1
   - 3.1.1
+  - 3.1.2
   - 4.0.0.Alpha1
   - 4.0.0.Alpha2
-  lastUpdated: 20250221170619
+  - 4.0.0.Alpha3
+  lastUpdated: 20250310141712

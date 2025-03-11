@@ -3,8 +3,8 @@
 groupId: org.jboss.resteasy
 artifactId: server-adapter-test-base
 versioning:
-  latest: 7.0.0.Alpha4
-  release: 7.0.0.Alpha4
+  latest: 7.0.0.Beta1
+  release: 7.0.0.Beta1
   versions:
   - 6.1.0.Alpha1
   - 6.1.0.Beta1
@@ -24,8 +24,10 @@ versioning:
   - 6.2.9.Final
   - 6.2.10.Final
   - 6.2.11.Final
+  - 6.2.12.Final
   - 7.0.0.Alpha1
   - 7.0.0.Alpha2
   - 7.0.0.Alpha3
   - 7.0.0.Alpha4
-  lastUpdated: 20241111220257
+  - 7.0.0.Beta1
+  lastUpdated: 20250310155149

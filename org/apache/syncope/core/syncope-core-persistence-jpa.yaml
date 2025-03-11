@@ -3,8 +3,8 @@
 groupId: org.apache.syncope.core
 artifactId: syncope-core-persistence-jpa
 versioning:
-  latest: 4.0.0-M0
-  release: 4.0.0-M0
+  latest: 4.0.0-M1
+  release: 4.0.0-M1
   versions:
   - 2.0.0-M1
   - 2.0.0-M2
@@ -57,5 +57,7 @@ versioning:
   - 3.0.8
   - 3.0.9
   - 3.0.10
+  - 3.0.11
   - 4.0.0-M0
-  lastUpdated: 20241230141734
+  - 4.0.0-M1
+  lastUpdated: 20250310154345
