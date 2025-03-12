@@ -3,8 +3,8 @@
 groupId: io.kestra
 artifactId: jdbc-h2
 versioning:
-  latest: 0.21.5
-  release: 0.21.5
+  latest: 0.21.6
+  release: 0.21.6
   versions:
   - 0.18.0
   - 0.18.1
@@ -63,10 +63,12 @@ versioning:
   - 0.20.16
   - 0.20.17
   - 0.20.18
+  - 0.20.19
   - 0.21.0
   - 0.21.1
   - 0.21.2
   - 0.21.3
   - 0.21.4
   - 0.21.5
-  lastUpdated: 20250304143829
+  - 0.21.6
+  lastUpdated: 20250311174136

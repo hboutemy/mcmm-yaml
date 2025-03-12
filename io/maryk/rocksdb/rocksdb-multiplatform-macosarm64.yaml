@@ -3,8 +3,8 @@
 groupId: io.maryk.rocksdb
 artifactId: rocksdb-multiplatform-macosarm64
 versioning:
-  latest: 9.10.0
-  release: 9.10.0
+  latest: 9.10.2
+  release: 9.10.2
   versions:
   - 6.25.3
   - 7.0.3
@@ -15,4 +15,6 @@ versioning:
   - 9.6.1
   - 9.6.2
   - 9.10.0
-  lastUpdated: 20250214134440
+  - 9.10.1
+  - 9.10.2
+  lastUpdated: 20250311233604

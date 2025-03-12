@@ -3,8 +3,8 @@
 groupId: io.ebean
 artifactId: ebean-test
 versioning:
-  latest: 15.9.0
-  release: 15.9.0
+  latest: 15.10.0
+  release: 15.10.0
   versions:
   - 11.42.1
   - 11.42.3
@@ -208,6 +208,8 @@ versioning:
   - 14.8.2-javax
   - 14.9.0
   - 14.9.0-javax
+  - 14.10.0
+  - 14.10.0-javax
   - 15.0.0-RC
   - 15.0.1
   - 15.0.2
@@ -224,4 +226,5 @@ versioning:
   - 15.8.1
   - 15.8.2
   - 15.9.0
-  lastUpdated: 20250212074446
+  - 15.10.0
+  lastUpdated: 20250311085624
