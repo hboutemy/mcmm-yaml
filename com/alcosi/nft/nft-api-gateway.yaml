@@ -3,14 +3,15 @@
 groupId: com.alcosi.nft
 artifactId: nft-api-gateway
 versioning:
-  latest: 15.12-RELEASE
-  release: 15.12-RELEASE
+  latest: 15.13-RELEASE
+  release: 15.13-RELEASE
   versions:
+  - 15.13-RELEASE
+  - 15.0-RELEASE
+  - 15.1-RELEASE
   - 15.10-RELEASE
   - 15.11-RELEASE
   - 15.12-RELEASE
-  - 15.0-RELEASE
-  - 15.1-RELEASE
   - 15.2-RELEASE
   - 15.3-RELEASE
   - 15.4-RELEASE
@@ -19,4 +20,4 @@ versioning:
   - 15.7-RELEASE
   - 15.8-RELEASE
   - 15.9-RELEASE
-  lastUpdated: 20240813195816
+  lastUpdated: 20250312225256

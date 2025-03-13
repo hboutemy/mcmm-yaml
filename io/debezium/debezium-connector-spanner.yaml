@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-connector-spanner
 versioning:
-  latest: 3.1.0.Alpha2
-  release: 3.1.0.Alpha2
+  latest: 3.1.0.Beta1
+  release: 3.1.0.Beta1
   versions:
   - 2.1.0.Beta1
   - 2.1.0.Final
@@ -79,4 +79,5 @@ versioning:
   - 3.0.8.Final
   - 3.1.0.Alpha1
   - 3.1.0.Alpha2
-  lastUpdated: 20250303151820
+  - 3.1.0.Beta1
+  lastUpdated: 20250312072023

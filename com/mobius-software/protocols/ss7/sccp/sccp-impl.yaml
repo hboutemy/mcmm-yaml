@@ -3,8 +3,8 @@
 groupId: com.mobius-software.protocols.ss7.sccp
 artifactId: sccp-impl
 versioning:
-  latest: 10.0.39
-  release: 10.0.39
+  latest: 10.0.39-java11
+  release: 10.0.39-java11
   versions:
   - 10.0.1
   - 10.0.2
@@ -42,4 +42,5 @@ versioning:
   - 10.0.38
   - 10.0.38-java11
   - 10.0.39
-  lastUpdated: 20250311223810
+  - 10.0.39-java11
+  lastUpdated: 20250312084609
