@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-jboss-logmanager-mdc-1.1
 versioning:
-  latest: 2.13.3-alpha
-  release: 2.13.3-alpha
+  latest: 2.14.0-alpha
+  release: 2.14.0-alpha
   versions:
   - 1.14.0-alpha
   - 1.15.0-alpha
@@ -56,4 +56,5 @@ versioning:
   - 2.13.1-alpha
   - 2.13.2-alpha
   - 2.13.3-alpha
-  lastUpdated: 20250228170734
+  - 2.14.0-alpha
+  lastUpdated: 20250314013232
