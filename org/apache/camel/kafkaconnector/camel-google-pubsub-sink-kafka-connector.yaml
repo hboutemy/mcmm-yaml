@@ -3,8 +3,8 @@
 groupId: org.apache.camel.kafkaconnector
 artifactId: camel-google-pubsub-sink-kafka-connector
 versioning:
-  latest: 4.8.5
-  release: 4.8.5
+  latest: 4.10.2
+  release: 4.10.2
   versions:
   - 1.0.0
   - 3.18.1
@@ -21,4 +21,5 @@ versioning:
   - 4.8.0
   - 4.8.3
   - 4.8.5
-  lastUpdated: 20250311093302
+  - 4.10.2
+  lastUpdated: 20250315134811
