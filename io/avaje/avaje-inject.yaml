@@ -3,8 +3,8 @@
 groupId: io.avaje
 artifactId: avaje-inject
 versioning:
-  latest: 11.3-RC1
-  release: 11.3-RC1
+  latest: 11.3-javax
+  release: 11.3-javax
   versions:
   - 0.9
   - 1.0
@@ -213,4 +213,6 @@ versioning:
   - 11.2
   - 11.2-javax
   - 11.3-RC1
-  lastUpdated: 20250313080850
+  - 11.3
+  - 11.3-javax
+  lastUpdated: 20250316190943
