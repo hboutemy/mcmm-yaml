@@ -3,8 +3,8 @@
 groupId: com.sap.cloud.sjb.cf
 artifactId: sap-java-buildpack-bom
 versioning:
-  latest: 2.25.0
-  release: 2.25.0
+  latest: 2.27.0
+  release: 2.27.0
   versions:
   - 1.27.2
   - 1.27.3
@@ -118,4 +118,6 @@ versioning:
   - 2.23.0
   - 2.24.0
   - 2.25.0
-  lastUpdated: 20250217143506
+  - 2.26.0
+  - 2.27.0
+  lastUpdated: 20250317175001

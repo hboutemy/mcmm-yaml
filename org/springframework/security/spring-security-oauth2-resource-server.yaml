@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.security
 artifactId: spring-security-oauth2-resource-server
 versioning:
-  latest: 6.4.3
-  release: 6.4.3
+  latest: 6.4.4
+  release: 6.4.4
   versions:
   - 5.1.0.RELEASE
   - 5.1.1.RELEASE
@@ -153,8 +153,10 @@ versioning:
   - 6.3.5
   - 6.3.6
   - 6.3.7
+  - 6.3.8
   - 6.4.0
   - 6.4.1
   - 6.4.2
   - 6.4.3
-  lastUpdated: 20250218171424
+  - 6.4.4
+  lastUpdated: 20250317212001
