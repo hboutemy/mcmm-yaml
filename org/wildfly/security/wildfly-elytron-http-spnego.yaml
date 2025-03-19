@@ -3,8 +3,8 @@
 groupId: org.wildfly.security
 artifactId: wildfly-elytron-http-spnego
 versioning:
-  latest: 2.6.1.Final
-  release: 2.6.1.Final
+  latest: 2.6.2.Final
+  release: 2.6.2.Final
   versions:
   - 1.9.0.CR1
   - 1.9.0.CR2
@@ -129,6 +129,7 @@ versioning:
   - 2.2.6.Final
   - 2.2.7.Final
   - 2.2.8.Final
+  - 2.2.9.Final
   - 2.3.0.Final
   - 2.3.1.Final
   - 2.4.0.CR1
@@ -141,4 +142,5 @@ versioning:
   - 2.5.2.Final
   - 2.6.0.Final
   - 2.6.1.Final
-  lastUpdated: 20250227004403
+  - 2.6.2.Final
+  lastUpdated: 20250318192236

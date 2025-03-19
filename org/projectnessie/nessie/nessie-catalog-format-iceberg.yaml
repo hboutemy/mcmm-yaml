@@ -3,8 +3,8 @@
 groupId: org.projectnessie.nessie
 artifactId: nessie-catalog-format-iceberg
 versioning:
-  latest: 0.103.0
-  release: 0.103.0
+  latest: 0.103.1
+  release: 0.103.1
   versions:
   - 0.90.1
   - 0.90.2
@@ -43,4 +43,5 @@ versioning:
   - 0.102.4
   - 0.102.5
   - 0.103.0
-  lastUpdated: 20250218171952
+  - 0.103.1
+  lastUpdated: 20250318122232

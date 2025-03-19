@@ -3,8 +3,8 @@
 groupId: org.hibernate.search
 artifactId: hibernate-search-mapper-orm-jakarta-batch-jberet
 versioning:
-  latest: 8.0.0.Alpha1
-  release: 8.0.0.Alpha1
+  latest: 8.0.0.Alpha2
+  release: 8.0.0.Alpha2
   versions:
   - 7.0.0.CR1
   - 7.0.0.CR2
@@ -22,5 +22,7 @@ versioning:
   - 7.2.0.Final
   - 7.2.1.Final
   - 7.2.2.Final
+  - 7.2.3.Final
   - 8.0.0.Alpha1
-  lastUpdated: 20241217205121
+  - 8.0.0.Alpha2
+  lastUpdated: 20250318181521

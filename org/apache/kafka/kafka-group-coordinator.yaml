@@ -3,8 +3,8 @@
 groupId: org.apache.kafka
 artifactId: kafka-group-coordinator
 versioning:
-  latest: 3.9.0
-  release: 3.9.0
+  latest: 4.0.0
+  release: 4.0.0
   versions:
   - 3.4.0
   - 3.4.1
@@ -20,4 +20,5 @@ versioning:
   - 3.8.0
   - 3.8.1
   - 3.9.0
-  lastUpdated: 20241213001849
+  - 4.0.0
+  lastUpdated: 20250318082251

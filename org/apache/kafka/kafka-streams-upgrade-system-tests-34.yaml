@@ -3,8 +3,8 @@
 groupId: org.apache.kafka
 artifactId: kafka-streams-upgrade-system-tests-34
 versioning:
-  latest: 3.9.0
-  release: 3.9.0
+  latest: 4.0.0
+  release: 4.0.0
   versions:
   - 3.5.2
   - 3.6.1
@@ -15,4 +15,5 @@ versioning:
   - 3.8.0
   - 3.8.1
   - 3.9.0
-  lastUpdated: 20241213002830
+  - 4.0.0
+  lastUpdated: 20250318083640
