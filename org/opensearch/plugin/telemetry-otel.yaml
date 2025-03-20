@@ -3,8 +3,8 @@
 groupId: org.opensearch.plugin
 artifactId: telemetry-otel
 versioning:
-  latest: 2.19.1
-  release: 2.19.1
+  latest: 3.0.0-alpha1
+  release: 3.0.0-alpha1
   versions:
   - 2.12.0
   - 2.13.0
@@ -16,4 +16,5 @@ versioning:
   - 2.18.0
   - 2.19.0
   - 2.19.1
-  lastUpdated: 20250227230549
+  - 3.0.0-alpha1
+  lastUpdated: 20250319005817
