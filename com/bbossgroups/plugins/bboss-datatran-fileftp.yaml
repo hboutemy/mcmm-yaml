@@ -3,8 +3,8 @@
 groupId: com.bbossgroups.plugins
 artifactId: bboss-datatran-fileftp
 versioning:
-  latest: 7.3.6
-  release: 7.3.6
+  latest: 7.3.7-jdk17
+  release: 7.3.7-jdk17
   versions:
   - 6.7.0
   - 6.7.1
@@ -66,4 +66,6 @@ versioning:
   - 7.3.3
   - 7.3.5
   - 7.3.6
-  lastUpdated: 20250309092521
+  - 7.3.7
+  - 7.3.7-jdk17
+  lastUpdated: 20250320064425

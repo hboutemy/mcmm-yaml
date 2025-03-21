@@ -3,8 +3,8 @@
 groupId: com.bbossgroups.plugins
 artifactId: bboss-plugin-nacos
 versioning:
-  latest: 6.3.9
-  release: 6.3.9
+  latest: 6.5.0-jdk17
+  release: 6.5.0-jdk17
   versions:
   - 6.3.2
   - 6.3.3
@@ -13,4 +13,6 @@ versioning:
   - 6.3.7
   - 6.3.8
   - 6.3.9
-  lastUpdated: 20250220050019
+  - 6.5.0
+  - 6.5.0-jdk17
+  lastUpdated: 20250320064542
