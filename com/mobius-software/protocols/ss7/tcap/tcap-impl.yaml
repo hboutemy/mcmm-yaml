@@ -3,8 +3,8 @@
 groupId: com.mobius-software.protocols.ss7.tcap
 artifactId: tcap-impl
 versioning:
-  latest: 10.0.42
-  release: 10.0.42
+  latest: 10.0.44-java11
+  release: 10.0.44-java11
   versions:
   - 10.0.1
   - 10.0.2
@@ -47,4 +47,7 @@ versioning:
   - 10.0.41
   - 10.0.41-java11
   - 10.0.42
-  lastUpdated: 20250320151708
+  - 10.0.43
+  - 10.0.44
+  - 10.0.44-java11
+  lastUpdated: 20250321213608

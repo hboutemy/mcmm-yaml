@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.hibernate
 artifactId: hibernate-spatial
 versioning:
-  latest: 7.0.0.Beta4
-  release: 7.0.0.Beta4
+  latest: 7.0.0.Beta5
+  release: 7.0.0.Beta5
   versions:
   - 5.0.0.Beta2
   - 5.0.0.CR1
@@ -264,6 +264,7 @@ versioning:
   - 7.0.0.Beta2
   - 7.0.0.Beta3
   - 7.0.0.Beta4
+  - 7.0.0.Beta5
   - 5.1.13.Final
   - 5.1.14.Final
   - 5.1.15.Final
@@ -275,4 +276,4 @@ versioning:
   - 5.2.17.Final
   - 5.4.33.Final
   - 5.5.6.Final
-  lastUpdated: 20250316001437
+  lastUpdated: 20250321220601

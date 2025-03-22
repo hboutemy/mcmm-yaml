@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-sts
 versioning:
-  latest: v1-rev20250303-2.0.0
-  release: v1-rev20250303-2.0.0
+  latest: v1-rev20250313-2.0.0
+  release: v1-rev20250313-2.0.0
   versions:
   - v1beta-rev20200908-1.30.10
   - v1beta-rev20200919-1.30.10
@@ -35,6 +35,7 @@ versioning:
   - v1beta-rev20250127-2.0.0
   - v1beta-rev20250211-2.0.0
   - v1beta-rev20250303-2.0.0
+  - v1beta-rev20250313-2.0.0
   - v1-rev20200908-1.30.10
   - v1-rev20201004-1.30.10
   - v1-rev20201004-1.31.0
@@ -74,4 +75,5 @@ versioning:
   - v1-rev20250127-2.0.0
   - v1-rev20250211-2.0.0
   - v1-rev20250303-2.0.0
-  lastUpdated: 20250309092745
+  - v1-rev20250313-2.0.0
+  lastUpdated: 20250321081310
