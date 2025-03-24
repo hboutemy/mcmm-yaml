@@ -3,8 +3,8 @@
 groupId: io.scalecube
 artifactId: scalecube-services-transport-jackson
 versioning:
-  latest: 2.12.6.auth-refactoring.RC5
-  release: 2.12.6.auth-refactoring.RC5
+  latest: 2.12.6.better-close.rc1
+  release: 2.12.6.better-close.rc1
   versions:
   - 2.4.1
   - 2.4.2
@@ -117,4 +117,5 @@ versioning:
   - 2.12.6.auth-refactoring.RC2
   - 2.12.6.auth-refactoring.RC4
   - 2.12.6.auth-refactoring.RC5
-  lastUpdated: 20250319222223
+  - 2.12.6.better-close.rc1
+  lastUpdated: 20250323133801
