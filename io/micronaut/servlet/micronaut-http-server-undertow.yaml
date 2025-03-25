@@ -3,8 +3,8 @@
 groupId: io.micronaut.servlet
 artifactId: micronaut-http-server-undertow
 versioning:
-  latest: 5.1.1
-  release: 5.1.1
+  latest: 5.2.1
+  release: 5.2.1
   versions:
   - 1.0.0.M1
   - 1.0.0.M2
@@ -87,4 +87,6 @@ versioning:
   - 5.0.1
   - 5.1.0
   - 5.1.1
-  lastUpdated: 20250219140909
+  - 5.2.0
+  - 5.2.1
+  lastUpdated: 20250324094511

@@ -3,8 +3,8 @@
 groupId: com.google.cloud
 artifactId: spring-cloud-spanner-spring-data-r2dbc
 versioning:
-  latest: 6.1.0
-  release: 6.1.0
+  latest: 6.1.1
+  release: 6.1.1
   versions:
   - 3.6.0
   - 3.6.1
@@ -38,6 +38,7 @@ versioning:
   - 3.8.15
   - 3.8.16
   - 3.8.17
+  - 3.8.18
   - 4.7.0
   - 4.7.1
   - 4.7.2
@@ -70,6 +71,7 @@ versioning:
   - 4.10.16
   - 4.10.17
   - 4.10.18
+  - 4.10.19
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -94,7 +96,9 @@ versioning:
   - 5.11.0
   - 5.11.1
   - 5.11.2
+  - 5.11.3
   - 6.0.0
   - 6.0.1
   - 6.1.0
-  lastUpdated: 20250312140517
+  - 6.1.1
+  lastUpdated: 20250324154746

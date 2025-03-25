@@ -3,8 +3,8 @@
 groupId: org.elasticsearch.test
 artifactId: framework
 versioning:
-  latest: 9.0.0-beta1
-  release: 9.0.0-beta1
+  latest: 9.0.0-rc1
+  release: 9.0.0-rc1
   versions:
   - 5.0.0-alpha1
   - 5.0.0-alpha2
@@ -270,4 +270,5 @@ versioning:
   - 8.17.2
   - 8.17.3
   - 9.0.0-beta1
-  lastUpdated: 20250304100356
+  - 9.0.0-rc1
+  lastUpdated: 20250324132122

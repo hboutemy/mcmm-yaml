@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-connector-informix
 versioning:
-  latest: 3.1.0.Beta1
-  release: 3.1.0.Beta1
+  latest: 3.1.0.CR1
+  release: 3.1.0.CR1
   versions:
   - 2.5.0.Alpha1
   - 2.5.0.Alpha2
@@ -48,4 +48,5 @@ versioning:
   - 3.1.0.Alpha1
   - 3.1.0.Alpha2
   - 3.1.0.Beta1
-  lastUpdated: 20250312071847
+  - 3.1.0.CR1
+  lastUpdated: 20250324162740
