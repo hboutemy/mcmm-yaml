@@ -3,8 +3,8 @@
 groupId: com.ascentstream.pulsar
 artifactId: pulsar-broker-shaded
 versioning:
-  latest: 2.10.7.9
-  release: 2.10.7.9
+  latest: 2.10.7.11
+  release: 2.10.7.11
   versions:
   - 2.10.6.9
   - 2.10.6.10
@@ -18,4 +18,6 @@ versioning:
   - 2.10.7.4
   - 2.10.7.8
   - 2.10.7.9
-  lastUpdated: 20250218083245
+  - 2.10.7.10
+  - 2.10.7.11
+  lastUpdated: 20250325115942
