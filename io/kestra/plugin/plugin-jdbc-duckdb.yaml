@@ -3,8 +3,8 @@
 groupId: io.kestra.plugin
 artifactId: plugin-jdbc-duckdb
 versioning:
-  latest: 0.21.4
-  release: 0.21.4
+  latest: 0.21.5
+  release: 0.21.5
   versions:
   - 0.5.2
   - 0.6.0
@@ -32,4 +32,5 @@ versioning:
   - 0.21.2
   - 0.21.3
   - 0.21.4
-  lastUpdated: 20250325194748
+  - 0.21.5
+  lastUpdated: 20250326163621
