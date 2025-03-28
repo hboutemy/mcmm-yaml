@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-core-graalvm
 versioning:
-  latest: 15.2.0.Dev01
-  release: 15.2.0.Dev01
+  latest: 15.2.0.Dev03
+  release: 15.2.0.Dev03
   versions:
   - 15.0.0.CR1
   - 15.0.0.Final
@@ -44,5 +44,8 @@ versioning:
   - 15.1.5.Final
   - 15.1.6.Final
   - 15.1.7.Final
+  - 15.2.0.Final
   - 15.2.0.Dev01
-  lastUpdated: 20250318172023
+  - 15.2.0.Dev02
+  - 15.2.0.Dev03
+  lastUpdated: 20250327092100

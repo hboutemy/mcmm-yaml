@@ -3,8 +3,8 @@
 groupId: org.openrewrite.recipe
 artifactId: rewrite-micrometer
 versioning:
-  latest: 0.17.0
-  release: 0.17.0
+  latest: 0.17.1
+  release: 0.17.1
   versions:
   - 0.0.1
   - 0.0.2
@@ -48,4 +48,5 @@ versioning:
   - 0.15.0
   - 0.16.0
   - 0.17.0
-  lastUpdated: 20250311195220
+  - 0.17.1
+  lastUpdated: 20250327192255

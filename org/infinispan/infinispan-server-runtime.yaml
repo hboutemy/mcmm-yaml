@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.infinispan
 artifactId: infinispan-server-runtime
 versioning:
-  latest: 15.2.0.Dev01
-  release: 15.2.0.Dev01
+  latest: 15.2.0.Dev03
+  release: 15.2.0.Dev03
   versions:
   - 10.0.0.Beta3
   - 10.0.0.Beta4
@@ -193,6 +193,9 @@ versioning:
   - 15.1.5.Final
   - 15.1.6.Final
   - 15.1.7.Final
+  - 15.2.0.Final
   - 15.2.0.Dev01
+  - 15.2.0.Dev02
+  - 15.2.0.Dev03
   - 12.0.0.Dev03
-  lastUpdated: 20250318172048
+  lastUpdated: 20250327092127

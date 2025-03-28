@@ -3,8 +3,11 @@
 groupId: org.infinispan
 artifactId: infinispan-commons-jdk22
 versioning:
-  latest: 15.2.0.Dev01
-  release: 15.2.0.Dev01
+  latest: 15.2.0.Dev03
+  release: 15.2.0.Dev03
   versions:
+  - 15.2.0.Final
   - 15.2.0.Dev01
-  lastUpdated: 20250318172019
+  - 15.2.0.Dev02
+  - 15.2.0.Dev03
+  lastUpdated: 20250327092057
