@@ -3,8 +3,8 @@
 groupId: io.micronaut
 artifactId: micronaut-http-server-tck
 versioning:
-  latest: 4.8.8
-  release: 4.8.8
+  latest: 4.8.9
+  release: 4.8.9
   versions:
   - 3.8.0
   - 3.8.1
@@ -132,6 +132,8 @@ versioning:
   - 4.7.16
   - 4.7.17
   - 4.7.18
+  - 4.7.19
+  - 4.7.20
   - 4.8.0
   - 4.8.1
   - 4.8.2
@@ -141,4 +143,5 @@ versioning:
   - 4.8.6
   - 4.8.7
   - 4.8.8
-  lastUpdated: 20250321161732
+  - 4.8.9
+  lastUpdated: 20250328195826

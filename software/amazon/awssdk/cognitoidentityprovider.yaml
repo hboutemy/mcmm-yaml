@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: cognitoidentityprovider
 versioning:
-  latest: 2.31.10
-  release: 2.31.10
+  latest: 2.31.11
+  release: 2.31.11
   versions:
   - 2.0.0-preview-12
   - 2.0.0-preview-13
@@ -1487,4 +1487,5 @@ versioning:
   - 2.31.8
   - 2.31.9
   - 2.31.10
-  lastUpdated: 20250327204801
+  - 2.31.11
+  lastUpdated: 20250328204807

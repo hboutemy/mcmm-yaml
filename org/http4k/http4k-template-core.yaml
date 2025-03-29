@@ -3,9 +3,11 @@
 groupId: org.http4k
 artifactId: http4k-template-core
 versioning:
-  latest: 6.2.0.0
-  release: 6.2.0.0
+  latest: 6.4.1.0
+  release: 6.4.1.0
   versions:
+  - v6.3.0.0
+  - v6.4.1.0
   - 3.275.0
   - 3.276.0
   - 3.277.0
@@ -345,4 +347,6 @@ versioning:
   - 6.1.0.0
   - 6.1.0.1
   - 6.2.0.0
-  lastUpdated: 20250320203537
+  - 6.4.0.0
+  - 6.4.1.0
+  lastUpdated: 20250328165205
