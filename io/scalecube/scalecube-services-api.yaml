@@ -3,8 +3,8 @@
 groupId: io.scalecube
 artifactId: scalecube-services-api
 versioning:
-  latest: 2.12.6.better-close.rc1
-  release: 2.12.6.better-close.rc1
+  latest: 2.12.7.auth-refactoring.RC1
+  release: 2.12.7.auth-refactoring.RC1
   versions:
   - 2.0.5
   - 2.0.6
@@ -182,4 +182,5 @@ versioning:
   - 2.12.6.auth-refactoring.RC4
   - 2.12.6.auth-refactoring.RC5
   - 2.12.6.better-close.rc1
-  lastUpdated: 20250324090922
+  - 2.12.7.auth-refactoring.RC1
+  lastUpdated: 20250330112424

@@ -3,8 +3,8 @@
 groupId: io.avaje
 artifactId: avaje-inject-events
 versioning:
-  latest: 11.4-RC2
-  release: 11.4-RC2
+  latest: 11.4-javax
+  release: 11.4-javax
   versions:
   - 10.0-RC6
   - 10.0-RC7
@@ -49,4 +49,6 @@ versioning:
   - 11.3-javax
   - 11.4-RC1
   - 11.4-RC2
-  lastUpdated: 20250329020800
+  - 11.4
+  - 11.4-javax
+  lastUpdated: 20250330083827
