@@ -3,8 +3,8 @@
 groupId: io.kestra
 artifactId: platform
 versioning:
-  latest: 0.21.9
-  release: 0.21.9
+  latest: 0.21.11
+  release: 0.21.11
   versions:
   - 0.18.0
   - 0.18.1
@@ -23,6 +23,7 @@ versioning:
   - 0.18.14
   - 0.18.15
   - 0.18.16
+  - 0.18.17
   - 0.19.0
   - 0.19.1
   - 0.19.2
@@ -75,4 +76,6 @@ versioning:
   - 0.21.7
   - 0.21.8
   - 0.21.9
-  lastUpdated: 20250326175818
+  - 0.21.10
+  - 0.21.11
+  lastUpdated: 20250331174658
