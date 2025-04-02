@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-db
 versioning:
-  latest: 8.8.0-alpha3-rc3
-  release: 8.8.0-alpha3-rc3
+  latest: 8.8.0-alpha3
+  release: 8.8.0-alpha3
   versions:
   - 1.0.0-rc1
   - 1.0.0-rc2
@@ -289,9 +289,11 @@ versioning:
   - 8.7.0-alpha5-rc1
   - 8.7.0-alpha5
   - 8.7.0-rc3
+  - 8.7.0
   - 8.8.0-alpha1-rc1
   - 8.8.0-alpha1
   - 8.8.0-alpha2-rc1
   - 8.8.0-alpha2
   - 8.8.0-alpha3-rc3
-  lastUpdated: 20250326103721
+  - 8.8.0-alpha3
+  lastUpdated: 20250401142307

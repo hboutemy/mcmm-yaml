@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.ibm.informix
 artifactId: jdbc
 versioning:
-  latest: 15.0.0.1
-  release: 15.0.0.1
+  latest: 15.0.0.1.1
+  release: 15.0.0.1.1
   versions:
   - 4.10.7.20160517
   - 4.10.8.1
@@ -33,6 +33,7 @@ versioning:
   - 4.50.11
   - 15.0.0.0
   - 15.0.0.1
+  - 15.0.0.1.1
   - 4.10.10
   - 4.10.6.20151104
-  lastUpdated: 20250307090903
+  lastUpdated: 20250401090835

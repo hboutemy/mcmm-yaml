@@ -3,8 +3,8 @@
 groupId: io.ebean
 artifactId: ebean-jackson-mapper
 versioning:
-  latest: 15.10.0
-  release: 15.10.0
+  latest: 15.11.0
+  release: 15.11.0
   versions:
   - 13.10.0
   - 13.10.1
@@ -113,6 +113,8 @@ versioning:
   - 14.9.0-javax
   - 14.10.0
   - 14.10.0-javax
+  - 14.11.0
+  - 14.11.0-javax
   - 15.0.0-RC
   - 15.0.1
   - 15.0.2
@@ -130,4 +132,5 @@ versioning:
   - 15.8.2
   - 15.9.0
   - 15.10.0
-  lastUpdated: 20250311085647
+  - 15.11.0
+  lastUpdated: 20250401090937

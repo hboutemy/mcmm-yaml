@@ -3,8 +3,8 @@
 groupId: io.ebean
 artifactId: ebean-net-postgis
 versioning:
-  latest: 15.10.0
-  release: 15.10.0
+  latest: 15.11.0
+  release: 15.11.0
   versions:
   - 14.5.0
   - 14.5.0-javax
@@ -26,6 +26,8 @@ versioning:
   - 14.9.0-javax
   - 14.10.0
   - 14.10.0-javax
+  - 14.11.0
+  - 14.11.0-javax
   - 15.5.0
   - 15.5.1
   - 15.5.2
@@ -36,4 +38,5 @@ versioning:
   - 15.8.2
   - 15.9.0
   - 15.10.0
-  lastUpdated: 20250311085648
+  - 15.11.0
+  lastUpdated: 20250401090939
