@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.plugins
 artifactId: powwow-portlet
 versioning:
-  latest: 7.4.10.2
-  release: 7.4.10.2
+  latest: 7.1.10.94
+  release: 7.1.10.94
   versions:
   - 7.0.0.1
   - 7.0.0.2
@@ -341,4 +340,6 @@ versioning:
   - 7.3.10.62
   - 7.4.10.1
   - 7.4.10.2
-  lastUpdated: 20240716110712
+  - 7.2.10.71
+  - 7.1.10.94
+  lastUpdated: 20250402184656

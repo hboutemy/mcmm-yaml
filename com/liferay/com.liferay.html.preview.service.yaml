@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.html.preview.service
 versioning:
-  latest: 4.0.22
-  release: 4.0.22
+  latest: 1.0.39
+  release: 1.0.39
   versions:
   - 1.0.0
   - 1.0.1
@@ -139,4 +138,6 @@ versioning:
   - 4.0.20
   - 4.0.21
   - 4.0.22
-  lastUpdated: 20240131092524
+  - 2.0.37
+  - 1.0.39
+  lastUpdated: 20250402182120

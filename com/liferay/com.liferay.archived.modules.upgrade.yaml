@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.archived.modules.upgrade
 versioning:
-  latest: 3.0.11
-  release: 3.0.11
+  latest: 1.0.17
+  release: 1.0.17
   versions:
   - 1.0.0
   - 1.0.1
@@ -57,4 +56,6 @@ versioning:
   - 3.0.9
   - 3.0.10
   - 3.0.11
-  lastUpdated: 20240228102247
+  - 2.0.21
+  - 1.0.17
+  lastUpdated: 20250402204846

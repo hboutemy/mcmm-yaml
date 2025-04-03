@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-qa-util
 versioning:
-  latest: 8.5.16
-  release: 8.5.16
+  latest: 8.5.17
+  release: 8.5.17
   versions:
   - 8.0.6
   - 8.0.7
@@ -125,6 +125,7 @@ versioning:
   - 8.3.19
   - 8.3.20
   - 8.3.21
+  - 8.3.22
   - 8.4.0-alpha1
   - 8.4.0-alpha2
   - 8.4.0
@@ -145,6 +146,7 @@ versioning:
   - 8.4.15
   - 8.4.16
   - 8.4.17
+  - 8.4.18
   - 8.5.0-alpha1
   - 8.5.0-alpha2
   - 8.5.0-RC1
@@ -166,4 +168,5 @@ versioning:
   - 8.5.14
   - 8.5.15
   - 8.5.16
-  lastUpdated: 20250304131344
+  - 8.5.17
+  lastUpdated: 20250402124027

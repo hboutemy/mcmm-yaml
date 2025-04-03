@@ -3,8 +3,8 @@
 groupId: io.camunda.connector
 artifactId: connector-runtime-core
 versioning:
-  latest: 8.8.0-alpha3
-  release: 8.8.0-alpha3
+  latest: 8.8.0-alpha3.1
+  release: 8.8.0-alpha3.1
   versions:
   - 0.20.0-alpha2
   - 0.20.0-alpha3
@@ -93,5 +93,7 @@ versioning:
   - 8.7.0-alpha3.2
   - 8.7.0-alpha3.3
   - 8.7.0-alpha4
+  - 8.7.0
   - 8.8.0-alpha3
-  lastUpdated: 20250331135835
+  - 8.8.0-alpha3.1
+  lastUpdated: 20250402161309

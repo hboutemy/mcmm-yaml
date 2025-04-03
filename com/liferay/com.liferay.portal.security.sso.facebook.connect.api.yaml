@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.security.sso.facebook.connect.api
 versioning:
-  latest: 5.0.9
-  release: 5.0.9
+  latest: 2.1.20
+  release: 2.1.20
   versions:
   - 1.0.0
   - 1.0.1
@@ -124,4 +123,6 @@ versioning:
   - 5.0.7
   - 5.0.8
   - 5.0.9
-  lastUpdated: 20240228085957
+  - 3.0.26
+  - 2.1.20
+  lastUpdated: 20250402201556

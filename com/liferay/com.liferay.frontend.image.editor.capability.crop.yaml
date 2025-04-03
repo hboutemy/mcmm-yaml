@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.image.editor.capability.crop
 versioning:
-  latest: 4.0.4
-  release: 4.0.4
+  latest: 2.0.24
+  release: 2.0.24
   versions:
   - 1.0.0
   - 1.0.1
@@ -105,4 +104,6 @@ versioning:
   - 4.0.2
   - 4.0.3
   - 4.0.4
-  lastUpdated: 20240131091836
+  - 3.0.31
+  - 2.0.24
+  lastUpdated: 20250402180657

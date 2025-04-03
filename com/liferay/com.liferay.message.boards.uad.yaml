@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.message.boards.uad
 versioning:
-  latest: 6.0.24
-  release: 6.0.24
+  latest: 3.0.20
+  release: 3.0.20
   versions:
   - 1.0.0
   - 1.0.1
@@ -140,4 +139,6 @@ versioning:
   - 6.0.22
   - 6.0.23
   - 6.0.24
-  lastUpdated: 20240228101551
+  - 4.0.29
+  - 3.0.20
+  lastUpdated: 20250402212830

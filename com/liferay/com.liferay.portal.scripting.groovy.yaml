@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.scripting.groovy
 versioning:
-  latest: 6.0.13
-  release: 6.0.13
+  latest: 3.0.10
+  release: 3.0.10
   versions:
   - 1.0.0
   - 2.0.0
@@ -71,4 +70,6 @@ versioning:
   - 6.0.11
   - 6.0.12
   - 6.0.13
-  lastUpdated: 20240131080630
+  - 4.0.12
+  - 3.0.10
+  lastUpdated: 20250402184354

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.users.admin.uad
 versioning:
-  latest: 6.0.11
-  release: 6.0.11
+  latest: 4.0.16
+  release: 4.0.16
   versions:
   - 1.0.0
   - 1.0.1
@@ -77,4 +76,5 @@ versioning:
   - 6.0.9
   - 6.0.10
   - 6.0.11
-  lastUpdated: 20240131090334
+  - 4.0.16
+  lastUpdated: 20250402185317

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.portlet.bridge.soy.impl
 versioning:
-  latest: 3.0.21
-  release: 3.0.21
+  latest: 1.0.24
+  release: 1.0.24
   versions:
   - 1.0.0
   - 1.0.1
@@ -86,4 +85,5 @@ versioning:
   - 3.0.19
   - 3.0.20
   - 3.0.21
-  lastUpdated: 20240131092503
+  - 1.0.24
+  lastUpdated: 20250402200502

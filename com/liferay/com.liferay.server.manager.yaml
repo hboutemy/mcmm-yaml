@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.server.manager
 versioning:
-  latest: 5.0.10
-  release: 5.0.10
+  latest: 2.0.13
+  release: 2.0.13
   versions:
   - 1.0.0
   - 1.0.1
@@ -97,4 +96,6 @@ versioning:
   - 5.0.8
   - 5.0.9
   - 5.0.10
-  lastUpdated: 20240716103028
+  - 3.0.24
+  - 2.0.13
+  lastUpdated: 20250402185516

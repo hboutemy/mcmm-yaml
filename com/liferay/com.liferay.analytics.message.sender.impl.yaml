@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.analytics.message.sender.impl
 versioning:
-  latest: 5.0.39
-  release: 5.0.39
+  latest: 2.0.21
+  release: 2.0.21
   versions:
   - 1.0.0
   - 1.0.1
@@ -142,4 +141,6 @@ versioning:
   - 5.0.37
   - 5.0.38
   - 5.0.39
-  lastUpdated: 20240131101745
+  - 3.0.24
+  - 2.0.21
+  lastUpdated: 20250402173641

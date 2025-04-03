@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.layout.type.controller.full.page.application
 versioning:
-  latest: 6.0.20
-  release: 6.0.20
+  latest: 3.0.21
+  release: 3.0.21
   versions:
   - 1.0.0
   - 2.0.0
@@ -146,4 +145,6 @@ versioning:
   - 6.0.18
   - 6.0.19
   - 6.0.20
-  lastUpdated: 20240131114551
+  - 4.0.27
+  - 3.0.21
+  lastUpdated: 20250402191258

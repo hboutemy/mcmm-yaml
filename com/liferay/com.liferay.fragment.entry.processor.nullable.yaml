@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.fragment.entry.processor.nullable
 versioning:
-  latest: 4.0.12
-  release: 4.0.12
+  latest: 2.0.24
+  release: 2.0.24
   versions:
   - 1.0.0
   - 1.0.1
@@ -85,4 +84,6 @@ versioning:
   - 4.0.10
   - 4.0.11
   - 4.0.12
-  lastUpdated: 20240131120451
+  - 1.0.20
+  - 2.0.24
+  lastUpdated: 20250402224700

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.compatibility.ie
 versioning:
-  latest: 4.0.26
-  release: 4.0.26
+  latest: 2.0.17
+  release: 2.0.17
   versions:
   - 1.0.0
   - 1.0.1
@@ -78,4 +77,6 @@ versioning:
   - 4.0.24
   - 4.0.25
   - 4.0.26
-  lastUpdated: 20240327114050
+  - 3.0.18
+  - 2.0.17
+  lastUpdated: 20250402180321

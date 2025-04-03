@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.search.solr8.api
 versioning:
-  latest: 5.0.1
-  release: 5.0.1
+  latest: 2.0.10
+  release: 2.0.10
   versions:
   - 1.0.0
   - 1.0.1
@@ -51,4 +50,6 @@ versioning:
   - 4.0.9
   - 5.0.0
   - 5.0.1
-  lastUpdated: 20240228093554
+  - 3.0.12
+  - 2.0.10
+  lastUpdated: 20250402201120

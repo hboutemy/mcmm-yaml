@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.security.sso.openid.api
 versioning:
-  latest: 4.0.6
-  release: 4.0.6
+  latest: 2.1.19
+  release: 2.1.19
   versions:
   - 1.0.0
   - 1.0.1
@@ -98,4 +97,6 @@ versioning:
   - 4.0.4
   - 4.0.5
   - 4.0.6
-  lastUpdated: 20240131090123
+  - 3.0.34
+  - 2.1.19
+  lastUpdated: 20250402201709
