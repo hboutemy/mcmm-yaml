@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.dynamic.data.mapping.api
 versioning:
-  latest: 5.23.0
-  release: 5.23.0
+  latest: 33.2.0
+  release: 33.2.0
   versions:
   - 1.0.0
   - 2.0.0
@@ -214,6 +215,7 @@ versioning:
   - 5.21.0
   - 5.21.1
   - 5.22.0
+  - 5.23.0
   - 6.0.0
   - 6.0.1
   - 6.1.0
@@ -385,5 +387,4 @@ versioning:
   - 33.0.0
   - 33.1.0
   - 33.2.0
-  - 5.23.0
-  lastUpdated: 20250402205637
+  lastUpdated: 20250403110527

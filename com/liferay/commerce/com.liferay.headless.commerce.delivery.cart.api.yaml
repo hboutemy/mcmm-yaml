@@ -3,8 +3,8 @@
 groupId: com.liferay.commerce
 artifactId: com.liferay.headless.commerce.delivery.cart.api
 versioning:
-  latest: 15.1.2
-  release: 15.1.2
+  latest: 16.2.2
+  release: 16.2.2
   versions:
   - 1.0.0
   - 1.0.1
@@ -98,11 +98,13 @@ versioning:
   - 14.0.2
   - 14.1.0
   - 14.1.1
+  - 14.1.2
   - 15.0.0
   - 15.0.1
   - 15.0.2
   - 15.1.0
   - 15.1.1
+  - 15.1.2
   - 16.0.0
   - 16.0.1
   - 16.0.2
@@ -138,6 +140,5 @@ versioning:
   - 23.0.1
   - 23.1.0
   - 23.1.1
-  - 14.1.2
-  - 15.1.2
-  lastUpdated: 20250402225537
+  - 16.2.2
+  lastUpdated: 20250403143415

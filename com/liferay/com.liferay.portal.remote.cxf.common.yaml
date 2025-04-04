@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.remote.cxf.common
 versioning:
-  latest: 4.0.32
-  release: 4.0.32
+  latest: 7.0.20
+  release: 7.0.20
   versions:
   - 1.0.0
   - 2.0.0
@@ -98,6 +99,7 @@ versioning:
   - 4.0.29
   - 4.0.30
   - 4.0.31
+  - 4.0.32
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -136,6 +138,7 @@ versioning:
   - 5.0.35
   - 5.0.36
   - 5.0.37
+  - 5.0.38
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -169,6 +172,7 @@ versioning:
   - 6.0.30
   - 6.0.31
   - 6.0.32
+  - 6.0.33
   - 7.0.0
   - 7.0.1
   - 7.0.2
@@ -190,6 +194,4 @@ versioning:
   - 7.0.18
   - 7.0.19
   - 7.0.20
-  - 5.0.38
-  - 4.0.32
-  lastUpdated: 20250402200548
+  lastUpdated: 20250403111545

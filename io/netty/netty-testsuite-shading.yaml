@@ -3,8 +3,8 @@
 groupId: io.netty
 artifactId: netty-testsuite-shading
 versioning:
-  latest: 4.2.0.RC4
-  release: 4.2.0.RC4
+  latest: 4.2.0.Final
+  release: 4.2.0.Final
   versions:
   - 4.1.68.Final
   - 4.1.69.Final
@@ -68,4 +68,5 @@ versioning:
   - 4.2.0.RC2
   - 4.2.0.RC3
   - 4.2.0.RC4
-  lastUpdated: 20250308074059
+  - 4.2.0.Final
+  lastUpdated: 20250403154012

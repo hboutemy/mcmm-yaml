@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.changeset.service
 versioning:
-  latest: 1.0.43
-  release: 1.0.43
+  latest: 4.0.33
+  release: 4.0.33
   versions:
   - 1.0.0
   - 1.0.1
@@ -49,6 +50,7 @@ versioning:
   - 1.0.40
   - 1.0.41
   - 1.0.42
+  - 1.0.43
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -83,6 +85,7 @@ versioning:
   - 2.0.31
   - 2.0.32
   - 2.0.33
+  - 2.0.34
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -115,6 +118,7 @@ versioning:
   - 3.0.29
   - 3.0.30
   - 3.0.31
+  - 3.0.32
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -149,6 +153,4 @@ versioning:
   - 4.0.31
   - 4.0.32
   - 4.0.33
-  - 2.0.34
-  - 1.0.43
-  lastUpdated: 20250402174832
+  lastUpdated: 20250403105051

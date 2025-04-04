@@ -3,8 +3,8 @@
 groupId: com.liferay
 artifactId: com.liferay.portal.security.auth.verifier
 versioning:
-  latest: 4.0.36
-  release: 4.0.36
+  latest: 5.0.31
+  release: 5.0.31
   versions:
   - 1.0.0
   - 2.0.0
@@ -85,6 +85,7 @@ versioning:
   - 3.0.26
   - 3.0.27
   - 3.0.28
+  - 3.0.29
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -121,6 +122,7 @@ versioning:
   - 4.0.33
   - 4.0.34
   - 4.0.35
+  - 4.0.36
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -186,6 +188,5 @@ versioning:
   - 6.0.31
   - 6.0.32
   - 6.0.33
-  - 3.0.29
-  - 4.0.36
-  lastUpdated: 20250402213007
+  - 5.0.31
+  lastUpdated: 20250403121021

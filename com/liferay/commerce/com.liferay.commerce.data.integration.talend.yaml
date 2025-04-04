@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.data.integration.talend
 versioning:
-  latest: 4.0.31
-  release: 4.0.31
+  latest: 4.0.32
+  release: 4.0.32
   versions:
   - 2.0.0
   - 2.0.8
@@ -48,6 +47,7 @@ versioning:
   - 3.0.19
   - 3.0.20
   - 3.0.21
+  - 3.0.22
   - 4.0.8
   - 4.0.9
   - 4.0.10
@@ -72,4 +72,5 @@ versioning:
   - 4.0.29
   - 4.0.30
   - 4.0.31
-  lastUpdated: 20240228083158
+  - 4.0.32
+  lastUpdated: 20250403165407

@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.theme.westeros.bank.site.initializer
 versioning:
-  latest: 1.0.30
-  release: 1.0.30
+  latest: 3.0.4
+  release: 3.0.4
   versions:
   - 1.0.0
   - 1.0.1
@@ -36,6 +37,7 @@ versioning:
   - 1.0.27
   - 1.0.28
   - 1.0.29
+  - 1.0.30
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -80,5 +82,4 @@ versioning:
   - 3.0.2
   - 3.0.3
   - 3.0.4
-  - 1.0.30
-  lastUpdated: 20250402181656
+  lastUpdated: 20250403112347

@@ -3,8 +3,8 @@
 groupId: com.liferay
 artifactId: com.liferay.portal.inactive.request.handler
 versioning:
-  latest: 1.0.28
-  release: 1.0.28
+  latest: 3.0.24
+  release: 3.0.24
   versions:
   - 1.0.0
   - 1.0.1
@@ -34,6 +34,7 @@ versioning:
   - 1.0.25
   - 1.0.26
   - 1.0.27
+  - 1.0.28
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -63,6 +64,7 @@ versioning:
   - 2.0.26
   - 2.0.27
   - 2.0.28
+  - 2.0.29
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -106,6 +108,5 @@ versioning:
   - 4.0.16
   - 4.0.17
   - 4.0.18
-  - 2.0.29
-  - 1.0.28
-  lastUpdated: 20250402195859
+  - 3.0.24
+  lastUpdated: 20250403105049

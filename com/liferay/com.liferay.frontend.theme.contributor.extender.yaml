@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.theme.contributor.extender
 versioning:
-  latest: 3.0.26
-  release: 3.0.26
+  latest: 6.0.72
+  release: 6.0.72
   versions:
   - 1.0.0
   - 1.0.1
@@ -67,6 +68,7 @@ versioning:
   - 3.0.23
   - 3.0.24
   - 3.0.25
+  - 3.0.26
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -212,5 +214,4 @@ versioning:
   - 6.0.70
   - 6.0.71
   - 6.0.72
-  - 3.0.26
-  lastUpdated: 20250402181237
+  lastUpdated: 20250403103948

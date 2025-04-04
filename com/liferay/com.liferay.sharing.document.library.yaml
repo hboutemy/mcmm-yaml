@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.sharing.document.library
 versioning:
@@ -46,6 +47,7 @@ versioning:
   - 1.0.37
   - 1.0.38
   - 1.0.39
+  - 1.0.40
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -93,4 +95,4 @@ versioning:
   - 3.0.26
   - 3.0.27
   - 3.0.28
-  lastUpdated: 20250115095428
+  lastUpdated: 20250403094856

@@ -3,8 +3,8 @@
 groupId: com.liferay
 artifactId: com.liferay.headless.discovery.impl
 versioning:
-  latest: 2.0.27
-  release: 2.0.27
+  latest: 3.0.32
+  release: 3.0.32
   versions:
   - 1.0.0
   - 1.0.1
@@ -33,6 +33,7 @@ versioning:
   - 1.0.24
   - 1.0.25
   - 1.0.26
+  - 1.0.27
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -60,6 +61,7 @@ versioning:
   - 2.0.24
   - 2.0.25
   - 2.0.26
+  - 2.0.27
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -129,6 +131,5 @@ versioning:
   - 4.0.34
   - 4.0.35
   - 4.0.36
-  - 1.0.27
-  - 2.0.27
-  lastUpdated: 20250402225100
+  - 3.0.32
+  lastUpdated: 20250403142638

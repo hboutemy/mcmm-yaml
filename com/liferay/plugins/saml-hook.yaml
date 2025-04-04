@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.plugins
 artifactId: saml-hook
 versioning:
-  latest: 7.4.10.1
-  release: 7.4.10.1
+  latest: 7.3.10.42
+  release: 7.3.10.42
   versions:
   - 7.0.10.17
   - 7.0.10.18
@@ -62,6 +61,7 @@ versioning:
   - 7.2.10.30
   - 7.2.10.31
   - 7.2.10.32
+  - 7.2.10.33
   - 7.3.10.11
   - 7.3.10.12
   - 7.3.10.13
@@ -94,4 +94,5 @@ versioning:
   - 7.3.10.40
   - 7.3.10.41
   - 7.4.10.1
-  lastUpdated: 20240716110812
+  - 7.3.10.42
+  lastUpdated: 20250403171521

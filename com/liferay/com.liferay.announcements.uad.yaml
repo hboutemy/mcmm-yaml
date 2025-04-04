@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.announcements.uad
 versioning:
-  latest: 3.0.18
-  release: 3.0.18
+  latest: 6.0.15
+  release: 6.0.15
   versions:
   - 1.0.0
   - 1.0.1
@@ -47,6 +48,7 @@ versioning:
   - 3.0.15
   - 3.0.16
   - 3.0.17
+  - 3.0.18
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -66,6 +68,7 @@ versioning:
   - 4.0.16
   - 4.0.17
   - 4.0.18
+  - 4.0.19
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -86,6 +89,7 @@ versioning:
   - 5.0.17
   - 5.0.18
   - 5.0.19
+  - 5.0.20
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -102,6 +106,4 @@ versioning:
   - 6.0.13
   - 6.0.14
   - 6.0.15
-  - 4.0.19
-  - 3.0.18
-  lastUpdated: 20250402173725
+  lastUpdated: 20250403110922

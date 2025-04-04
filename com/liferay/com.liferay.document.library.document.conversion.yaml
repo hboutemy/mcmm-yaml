@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.document.library.document.conversion
 versioning:
-  latest: 1.0.47
-  release: 1.0.47
+  latest: 4.0.36
+  release: 4.0.36
   versions:
   - 1.0.0
   - 1.0.1
@@ -53,6 +54,7 @@ versioning:
   - 1.0.44
   - 1.0.45
   - 1.0.46
+  - 1.0.47
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -98,6 +100,7 @@ versioning:
   - 2.0.42
   - 2.0.43
   - 2.0.44
+  - 2.0.45
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -138,6 +141,7 @@ versioning:
   - 3.0.37
   - 3.0.38
   - 3.0.39
+  - 3.0.40
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -175,6 +179,4 @@ versioning:
   - 4.0.34
   - 4.0.35
   - 4.0.36
-  - 2.0.45
-  - 1.0.47
-  lastUpdated: 20250402194023
+  lastUpdated: 20250403104824

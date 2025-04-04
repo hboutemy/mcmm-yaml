@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.workflow.lang
 versioning:
-  latest: 3.0.47
-  release: 3.0.47
+  latest: 6.0.5
+  release: 6.0.5
   versions:
   - 1.0.0
   - 2.0.0
@@ -87,6 +88,7 @@ versioning:
   - 3.0.44
   - 3.0.45
   - 3.0.46
+  - 3.0.47
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -140,6 +142,7 @@ versioning:
   - 4.0.50
   - 4.0.51
   - 4.0.52
+  - 4.0.53
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -209,12 +212,11 @@ versioning:
   - 5.0.66
   - 5.0.67
   - 5.0.68
+  - 5.0.69
   - 6.0.0
   - 6.0.1
   - 6.0.2
   - 6.0.3
   - 6.0.4
   - 6.0.5
-  - 4.0.53
-  - 3.0.47
-  lastUpdated: 20250402184559
+  lastUpdated: 20250403095307

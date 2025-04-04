@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.alloy.mvc
 versioning:
-  latest: 3.0.24
-  release: 3.0.24
+  latest: 6.1.2
+  release: 6.1.2
   versions:
   - 1.0.0
   - 1.0.1
@@ -61,6 +62,7 @@ versioning:
   - 3.0.21
   - 3.0.22
   - 3.0.23
+  - 3.0.24
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -91,6 +93,7 @@ versioning:
   - 4.1.16
   - 4.1.17
   - 4.1.18
+  - 4.1.19
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -114,6 +117,7 @@ versioning:
   - 5.1.8
   - 5.1.9
   - 5.1.10
+  - 5.1.11
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -140,6 +144,4 @@ versioning:
   - 6.1.0
   - 6.1.1
   - 6.1.2
-  - 4.1.19
-  - 3.0.24
-  lastUpdated: 20250402173614
+  lastUpdated: 20250403103023

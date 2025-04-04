@@ -3,8 +3,8 @@
 groupId: com.liferay
 artifactId: com.liferay.portal.security.auto.login
 versioning:
-  latest: 3.0.30
-  release: 3.0.30
+  latest: 5.0.32
+  release: 5.0.32
   versions:
   - 1.0.0
   - 2.0.0
@@ -81,6 +81,7 @@ versioning:
   - 3.0.27
   - 3.0.28
   - 3.0.29
+  - 3.0.30
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -115,6 +116,7 @@ versioning:
   - 4.0.31
   - 4.0.32
   - 4.0.33
+  - 4.0.34
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -170,6 +172,5 @@ versioning:
   - 6.0.20
   - 6.0.21
   - 6.0.22
-  - 4.0.34
-  - 3.0.30
-  lastUpdated: 20250402201242
+  - 5.0.32
+  lastUpdated: 20250403121044

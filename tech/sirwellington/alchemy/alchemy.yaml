@@ -3,9 +3,10 @@
 groupId: tech.sirwellington.alchemy
 artifactId: alchemy
 versioning:
-  latest: 2.12
-  release: 2.12
+  latest: 2.16
+  release: 2.16
   versions:
+  - 2.16
   - 1.0
   - 1.1
   - 1.2
@@ -16,6 +17,11 @@ versioning:
   - 1.7
   - 2.0
   - 2.1
+  - 2.10
+  - 2.11
+  - 2.12
+  - 2.13
+  - 2.14
   - 2.2
   - 2.3
   - 2.4
@@ -24,7 +30,4 @@ versioning:
   - 2.7
   - 2.8
   - 2.9
-  - 2.10
-  - 2.11
-  - 2.12
-  lastUpdated: 20190222200057
+  lastUpdated: 20250403195658

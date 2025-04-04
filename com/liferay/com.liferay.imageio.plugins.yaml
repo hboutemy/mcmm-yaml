@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.imageio.plugins
 versioning:
-  latest: 2.0.10
-  release: 2.0.10
+  latest: 5.0.8
+  release: 5.0.8
   versions:
   - 1.0.0
   - 1.0.1
@@ -27,6 +28,7 @@ versioning:
   - 2.0.7
   - 2.0.8
   - 2.0.9
+  - 2.0.10
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -36,6 +38,7 @@ versioning:
   - 3.0.6
   - 3.0.7
   - 3.0.8
+  - 3.0.9
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -48,6 +51,7 @@ versioning:
   - 4.0.9
   - 4.0.10
   - 4.0.11
+  - 4.0.12
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -57,6 +61,4 @@ versioning:
   - 5.0.6
   - 5.0.7
   - 5.0.8
-  - 3.0.9
-  - 2.0.10
-  lastUpdated: 20250402182144
+  lastUpdated: 20250403111455

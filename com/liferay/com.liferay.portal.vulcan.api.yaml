@@ -3,8 +3,8 @@
 groupId: com.liferay
 artifactId: com.liferay.portal.vulcan.api
 versioning:
-  latest: 22.0.5
-  release: 22.0.5
+  latest: 24.2.2
+  release: 24.2.2
   versions:
   - 1.0.0
   - 1.0.1
@@ -264,6 +264,7 @@ versioning:
   - 22.0.2
   - 22.0.3
   - 22.0.4
+  - 22.0.5
   - 23.0.0
   - 23.0.1
   - 23.0.2
@@ -272,6 +273,7 @@ versioning:
   - 23.0.5
   - 23.1.0
   - 23.1.1
+  - 23.1.2
   - 24.0.0
   - 24.0.1
   - 24.1.0
@@ -338,6 +340,5 @@ versioning:
   - 44.1.0
   - 45.0.0
   - 46.0.0
-  - 23.1.2
-  - 22.0.5
-  lastUpdated: 20250402214517
+  - 24.2.2
+  lastUpdated: 20250403121522
