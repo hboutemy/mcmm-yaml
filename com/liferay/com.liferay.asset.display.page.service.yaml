@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.asset.display.page.service
 versioning:
-  latest: 3.0.52
-  release: 3.0.52
+  latest: 4.0.66
+  release: 4.0.66
   versions:
   - 1.0.0
   - 1.0.1
@@ -165,6 +166,7 @@ versioning:
   - 3.0.49
   - 3.0.50
   - 3.0.51
+  - 3.0.52
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -232,5 +234,4 @@ versioning:
   - 4.0.64
   - 4.0.65
   - 4.0.66
-  - 3.0.52
-  lastUpdated: 20250403144429
+  lastUpdated: 20250404080859

@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.application.admin.web
 versioning:
-  latest: 4.0.36
-  release: 4.0.36
+  latest: 5.0.3
+  release: 5.0.3
   versions:
   - 2.0.0
   - 2.0.11
@@ -68,9 +69,9 @@ versioning:
   - 4.0.33
   - 4.0.34
   - 4.0.35
+  - 4.0.36
   - 5.0.0
   - 5.0.1
   - 5.0.2
   - 5.0.3
-  - 4.0.36
-  lastUpdated: 20250403164636
+  lastUpdated: 20250404083607

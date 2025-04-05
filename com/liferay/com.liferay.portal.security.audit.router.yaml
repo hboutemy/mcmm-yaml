@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.security.audit.router
 versioning:
-  latest: 5.0.29
-  release: 5.0.29
+  latest: 6.0.22
+  release: 6.0.22
   versions:
   - 2.0.0
   - 2.0.1
@@ -121,6 +122,7 @@ versioning:
   - 5.0.26
   - 5.0.27
   - 5.0.28
+  - 5.0.29
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -144,5 +146,4 @@ versioning:
   - 6.0.20
   - 6.0.21
   - 6.0.22
-  - 5.0.29
-  lastUpdated: 20250403121208
+  lastUpdated: 20250404104834

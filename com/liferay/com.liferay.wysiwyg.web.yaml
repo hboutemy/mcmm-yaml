@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.wysiwyg.web
 versioning:
-  latest: 4.0.30
-  release: 4.0.30
+  latest: 5.0.18
+  release: 5.0.18
   versions:
   - 1.0.0
   - 1.0.1
@@ -127,6 +128,7 @@ versioning:
   - 4.0.27
   - 4.0.28
   - 4.0.29
+  - 4.0.30
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -146,5 +148,4 @@ versioning:
   - 5.0.16
   - 5.0.17
   - 5.0.18
-  - 4.0.30
-  lastUpdated: 20250403091301
+  lastUpdated: 20250404084108

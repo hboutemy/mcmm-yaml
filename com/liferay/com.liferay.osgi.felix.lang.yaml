@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.osgi.felix.lang
 versioning:
-  latest: 3.0.36
-  release: 3.0.36
+  latest: 4.0.8
+  release: 4.0.8
   versions:
   - 1.0.0
   - 1.0.1
@@ -104,6 +105,7 @@ versioning:
   - 3.0.33
   - 3.0.34
   - 3.0.35
+  - 3.0.36
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -113,5 +115,4 @@ versioning:
   - 4.0.6
   - 4.0.7
   - 4.0.8
-  - 3.0.36
-  lastUpdated: 20250403100632
+  lastUpdated: 20250404092757

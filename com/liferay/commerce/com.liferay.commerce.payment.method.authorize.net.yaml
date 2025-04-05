@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.payment.method.authorize.net
 versioning:
-  latest: 3.0.25
-  release: 3.0.25
+  latest: 4.0.36
+  release: 4.0.36
   versions:
   - 1.0.0
   - 1.0.1
@@ -84,6 +85,7 @@ versioning:
   - 3.0.22
   - 3.0.23
   - 3.0.24
+  - 3.0.25
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -121,5 +123,4 @@ versioning:
   - 4.0.34
   - 4.0.35
   - 4.0.36
-  - 3.0.25
-  lastUpdated: 20250403130933
+  lastUpdated: 20250404081710

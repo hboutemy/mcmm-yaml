@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.petra.model.adapter
 versioning:
-  latest: 4.0.12
-  release: 4.0.12
+  latest: 5.0.4
+  release: 5.0.4
   versions:
   - 1.0.0
   - 1.0.1
@@ -48,10 +49,10 @@ versioning:
   - 4.0.9
   - 4.0.10
   - 4.0.11
+  - 4.0.12
   - 5.0.0
   - 5.0.1
   - 5.0.2
   - 5.0.3
   - 5.0.4
-  - 4.0.12
-  lastUpdated: 20250403094557
+  lastUpdated: 20250404091852

@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.weather.web
 versioning:
-  latest: 4.0.27
-  release: 4.0.27
+  latest: 5.0.20
+  release: 5.0.20
   versions:
   - 1.0.0
   - 1.0.1
@@ -128,6 +129,7 @@ versioning:
   - 4.0.24
   - 4.0.25
   - 4.0.26
+  - 4.0.27
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -149,5 +151,4 @@ versioning:
   - 5.0.18
   - 5.0.19
   - 5.0.20
-  - 4.0.27
-  lastUpdated: 20250403125150
+  lastUpdated: 20250404093441

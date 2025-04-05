@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.social.requests.web
 versioning:
-  latest: 4.0.24
-  release: 4.0.24
+  latest: 5.0.14
+  release: 5.0.14
   versions:
   - 1.0.0
   - 1.0.1
@@ -111,6 +112,7 @@ versioning:
   - 4.0.21
   - 4.0.22
   - 4.0.23
+  - 4.0.24
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -126,5 +128,4 @@ versioning:
   - 5.0.12
   - 5.0.13
   - 5.0.14
-  - 4.0.24
-  lastUpdated: 20250403124849
+  lastUpdated: 20250404092535

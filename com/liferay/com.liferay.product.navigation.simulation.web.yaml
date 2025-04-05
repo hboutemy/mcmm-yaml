@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.product.navigation.simulation.web
 versioning:
-  latest: 6.0.29
-  release: 6.0.29
+  latest: 7.0.39
+  release: 7.0.39
   versions:
   - 1.0.0
   - 2.0.0
@@ -143,6 +144,7 @@ versioning:
   - 6.0.26
   - 6.0.27
   - 6.0.28
+  - 6.0.29
   - 7.0.0
   - 7.0.1
   - 7.0.2
@@ -183,5 +185,4 @@ versioning:
   - 7.0.37
   - 7.0.38
   - 7.0.39
-  - 6.0.29
-  lastUpdated: 20250403140052
+  lastUpdated: 20250404085501

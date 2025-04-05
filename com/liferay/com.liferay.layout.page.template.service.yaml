@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.layout.page.template.service
 versioning:
-  latest: 3.0.87
-  release: 3.0.87
+  latest: 4.0.117
+  release: 4.0.117
   versions:
   - 1.0.0
   - 1.0.1
@@ -223,6 +224,7 @@ versioning:
   - 3.0.84
   - 3.0.85
   - 3.0.86
+  - 3.0.87
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -341,5 +343,4 @@ versioning:
   - 4.0.115
   - 4.0.116
   - 4.0.117
-  - 3.0.87
-  lastUpdated: 20250403151330
+  lastUpdated: 20250404103937

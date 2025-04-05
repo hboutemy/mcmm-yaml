@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.js.bundle.config.extender
 versioning:
-  latest: 4.0.23
-  release: 4.0.23
+  latest: 5.0.24
+  release: 5.0.24
   versions:
   - 1.0.0
   - 1.0.1
@@ -118,6 +119,7 @@ versioning:
   - 4.0.20
   - 4.0.21
   - 4.0.22
+  - 4.0.23
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -143,5 +145,4 @@ versioning:
   - 5.0.22
   - 5.0.23
   - 5.0.24
-  - 4.0.23
-  lastUpdated: 20250403093339
+  lastUpdated: 20250404090658

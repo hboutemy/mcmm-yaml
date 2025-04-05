@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.settings.lang
 versioning:
-  latest: 4.0.71
-  release: 4.0.71
+  latest: 5.0.10
+  release: 5.0.10
   versions:
   - 1.0.0
   - 1.0.1
@@ -278,6 +279,7 @@ versioning:
   - 4.0.68
   - 4.0.69
   - 4.0.70
+  - 4.0.71
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -289,5 +291,4 @@ versioning:
   - 5.0.8
   - 5.0.9
   - 5.0.10
-  - 4.0.71
-  lastUpdated: 20250403095104
+  lastUpdated: 20250404080356

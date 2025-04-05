@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.adaptive.media.upload
 versioning:
-  latest: 3.0.13
-  release: 3.0.13
+  latest: 4.0.12
+  release: 4.0.12
   versions:
   - 1.0.0
   - 1.0.1
@@ -42,6 +43,7 @@ versioning:
   - 3.0.10
   - 3.0.11
   - 3.0.12
+  - 3.0.13
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -55,5 +57,4 @@ versioning:
   - 4.0.10
   - 4.0.11
   - 4.0.12
-  - 3.0.13
-  lastUpdated: 20250403113013
+  lastUpdated: 20250404092028

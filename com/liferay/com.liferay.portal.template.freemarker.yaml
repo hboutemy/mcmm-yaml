@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.template.freemarker
 versioning:
-  latest: 6.0.53
-  release: 6.0.53
+  latest: 7.0.60
+  release: 7.0.60
   versions:
   - 1.0.0
   - 2.0.0
@@ -248,6 +249,7 @@ versioning:
   - 6.0.50
   - 6.0.51
   - 6.0.52
+  - 6.0.53
   - 7.0.0
   - 7.0.1
   - 7.0.2
@@ -309,5 +311,4 @@ versioning:
   - 7.0.58
   - 7.0.59
   - 7.0.60
-  - 6.0.53
-  lastUpdated: 20250403110820
+  lastUpdated: 20250404081100

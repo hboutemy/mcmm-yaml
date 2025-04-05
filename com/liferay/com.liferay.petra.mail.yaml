@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.petra.mail
 versioning:
-  latest: 4.0.21
-  release: 4.0.21
+  latest: 7.0.0
+  release: 7.0.0
   versions:
   - 1.0.0
   - 1.0.1
@@ -87,6 +88,7 @@ versioning:
   - 4.0.18
   - 4.0.19
   - 4.0.20
+  - 4.0.21
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -97,5 +99,4 @@ versioning:
   - 5.0.7
   - 6.0.0
   - 7.0.0
-  - 4.0.21
-  lastUpdated: 20250403094514
+  lastUpdated: 20250404092825

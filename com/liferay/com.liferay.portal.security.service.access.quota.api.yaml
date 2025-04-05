@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.security.service.access.quota.api
 versioning:
-  latest: 3.0.28
-  release: 3.0.28
+  latest: 4.0.10
+  release: 4.0.10
   versions:
   - 1.0.0
   - 1.0.1
@@ -89,6 +90,7 @@ versioning:
   - 3.0.25
   - 3.0.26
   - 3.0.27
+  - 3.0.28
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -100,5 +102,4 @@ versioning:
   - 4.0.8
   - 4.0.9
   - 4.0.10
-  - 3.0.28
-  lastUpdated: 20250403110209
+  lastUpdated: 20250404093737

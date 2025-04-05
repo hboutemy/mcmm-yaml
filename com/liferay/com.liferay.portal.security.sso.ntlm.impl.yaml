@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.security.sso.ntlm.impl
 versioning:
-  latest: 3.0.15
-  release: 3.0.15
+  latest: 4.0.11
+  release: 4.0.11
   versions:
   - 1.0.0
   - 1.0.1
@@ -58,6 +59,7 @@ versioning:
   - 3.0.12
   - 3.0.13
   - 3.0.14
+  - 3.0.15
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -70,5 +72,4 @@ versioning:
   - 4.0.9
   - 4.0.10
   - 4.0.11
-  - 3.0.15
-  lastUpdated: 20250403121450
+  lastUpdated: 20250404113515

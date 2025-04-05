@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.sync.web
 versioning:
-  latest: 4.0.46
-  release: 4.0.46
+  latest: 5.0.24
+  release: 5.0.24
   versions:
   - 1.0.0
   - 1.0.1
@@ -204,6 +205,7 @@ versioning:
   - 4.0.43
   - 4.0.44
   - 4.0.45
+  - 4.0.46
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -229,5 +231,4 @@ versioning:
   - 5.0.22
   - 5.0.23
   - 5.0.24
-  - 4.0.46
-  lastUpdated: 20250403141354
+  lastUpdated: 20250404081216

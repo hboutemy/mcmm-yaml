@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.multi.factor.authentication.web
 versioning:
-  latest: 1.0.39
-  release: 1.0.39
+  latest: 2.0.41
+  release: 2.0.41
   versions:
   - 1.0.11
   - 1.0.12
@@ -34,6 +35,7 @@ versioning:
   - 1.0.36
   - 1.0.37
   - 1.0.38
+  - 1.0.39
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -76,5 +78,4 @@ versioning:
   - 2.0.39
   - 2.0.40
   - 2.0.41
-  - 1.0.39
-  lastUpdated: 20250403172805
+  lastUpdated: 20250404113117

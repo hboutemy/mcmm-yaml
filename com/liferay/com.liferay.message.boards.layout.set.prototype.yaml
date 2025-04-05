@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.message.boards.layout.set.prototype
 versioning:
-  latest: 4.0.28
-  release: 4.0.28
+  latest: 5.0.16
+  release: 5.0.16
   versions:
   - 1.0.0
   - 1.0.1
@@ -120,6 +121,7 @@ versioning:
   - 4.0.25
   - 4.0.26
   - 4.0.27
+  - 4.0.28
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -137,5 +139,4 @@ versioning:
   - 5.0.14
   - 5.0.15
   - 5.0.16
-  - 4.0.28
-  lastUpdated: 20250403120145
+  lastUpdated: 20250404111013

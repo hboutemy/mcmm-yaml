@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.map.taglib
 versioning:
-  latest: 4.0.31
-  release: 4.0.31
+  latest: 5.0.23
+  release: 5.0.23
   versions:
   - 1.0.0
   - 1.0.1
@@ -139,6 +140,7 @@ versioning:
   - 4.0.28
   - 4.0.29
   - 4.0.30
+  - 4.0.31
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -163,5 +165,4 @@ versioning:
   - 5.0.21
   - 5.0.22
   - 5.0.23
-  - 4.0.31
-  lastUpdated: 20250403134056
+  lastUpdated: 20250404110116

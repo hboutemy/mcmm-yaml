@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.journal.content.asset.addon.entry.conversions
 versioning:
-  latest: 5.0.27
-  release: 5.0.27
+  latest: 6.0.11
+  release: 6.0.11
   versions:
   - 1.0.0
   - 2.0.0
@@ -108,6 +109,7 @@ versioning:
   - 5.0.24
   - 5.0.25
   - 5.0.26
+  - 5.0.27
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -120,5 +122,4 @@ versioning:
   - 6.0.9
   - 6.0.10
   - 6.0.11
-  - 5.0.27
-  lastUpdated: 20250403142829
+  lastUpdated: 20250404104953

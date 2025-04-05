@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.search.tuning.synonyms.web
 versioning:
-  latest: 2.0.56
-  release: 2.0.56
+  latest: 3.0.77
+  release: 3.0.77
   versions:
   - 1.0.20
   - 1.0.21
@@ -63,6 +64,7 @@ versioning:
   - 2.0.53
   - 2.0.54
   - 2.0.55
+  - 2.0.56
   - 3.0.0
   - 3.0.1
   - 3.0.2
@@ -141,5 +143,4 @@ versioning:
   - 3.0.75
   - 3.0.76
   - 3.0.77
-  - 2.0.56
-  lastUpdated: 20250403170921
+  lastUpdated: 20250404100942

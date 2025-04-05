@@ -3,8 +3,8 @@
 groupId: org.finos.cdm
 artifactId: tests
 versioning:
-  latest: 7.0.0-dev.7
-  release: 7.0.0-dev.7
+  latest: 7.0.0-dev.8
+  release: 7.0.0-dev.8
   versions:
   - 5.16.0
   - 5.17.0
@@ -15,6 +15,7 @@ versioning:
   - 5.22.0
   - 5.22.1
   - 5.22.2
+  - 5.23.0
   - 6.0.0
   - 6.0.0-dev.64
   - 6.0.0-dev.65
@@ -51,12 +52,14 @@ versioning:
   - 6.1.0
   - 6.2.0
   - 6.3.0
+  - 6.4.0
   - 7.0.0-dev.1
   - 7.0.0-dev.2
   - 7.0.0-dev.4
   - 7.0.0-dev.5
   - 7.0.0-dev.6
   - 7.0.0-dev.7
+  - 7.0.0-dev.8
   - 0.0.1-dev.20
   - 0.0.1-dev.5
   - 4.0.0
@@ -194,4 +197,4 @@ versioning:
   - 6.0.0-dev.63
   - 6.0.0-dev.8
   - 6.0.0-dev.9
-  lastUpdated: 20250402165907
+  lastUpdated: 20250404165051

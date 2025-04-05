@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.js.minifier
 versioning:
-  latest: 8.0.11
-  release: 8.0.11
+  latest: 9.0.11
+  release: 9.0.11
   versions:
   - 1.0.0
   - 1.0.1
@@ -147,6 +148,7 @@ versioning:
   - 8.0.8
   - 8.0.9
   - 8.0.10
+  - 8.0.11
   - 9.0.0
   - 9.0.1
   - 9.0.2
@@ -159,5 +161,4 @@ versioning:
   - 9.0.9
   - 9.0.10
   - 9.0.11
-  - 8.0.11
-  lastUpdated: 20250403104029
+  lastUpdated: 20250404092808

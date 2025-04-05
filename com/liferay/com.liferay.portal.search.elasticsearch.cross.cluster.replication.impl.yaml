@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.search.elasticsearch.cross.cluster.replication.impl
 versioning:
-  latest: 7.0.12
-  release: 7.0.12
+  latest: 8.0.17
+  release: 8.0.17
   versions:
   - 2.0.21
   - 2.0.22
@@ -86,6 +87,7 @@ versioning:
   - 7.0.9
   - 7.0.10
   - 7.0.11
+  - 7.0.12
   - 8.0.0
   - 8.0.1
   - 8.0.2
@@ -104,5 +106,4 @@ versioning:
   - 8.0.15
   - 8.0.16
   - 8.0.17
-  - 7.0.12
-  lastUpdated: 20250403170449
+  lastUpdated: 20250404095724
