@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.wiki.web
 versioning:
-  latest: 7.0.126
-  release: 7.0.126
+  latest: 7.0.127
+  release: 7.0.127
   versions:
   - 1.0.0
   - 1.0.1
@@ -590,4 +589,5 @@ versioning:
   - 7.0.124
   - 7.0.125
   - 7.0.126
-  lastUpdated: 20250404092149
+  - 7.0.127
+  lastUpdated: 20250404234614

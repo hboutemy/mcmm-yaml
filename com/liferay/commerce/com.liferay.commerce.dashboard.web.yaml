@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.dashboard.web
 versioning:
-  latest: 4.0.53
-  release: 4.0.53
+  latest: 4.0.54
+  release: 4.0.54
   versions:
   - 1.0.34
   - 1.0.35
@@ -114,4 +113,5 @@ versioning:
   - 4.0.51
   - 4.0.52
   - 4.0.53
-  lastUpdated: 20250404082056
+  - 4.0.54
+  lastUpdated: 20250405002657

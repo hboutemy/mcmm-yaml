@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.staging.bar.web
 versioning:
-  latest: 5.0.66
-  release: 5.0.66
+  latest: 5.0.67
+  release: 5.0.67
   versions:
   - 1.0.0
   - 1.0.1
@@ -277,4 +276,5 @@ versioning:
   - 5.0.64
   - 5.0.65
   - 5.0.66
-  lastUpdated: 20250403105856
+  - 5.0.67
+  lastUpdated: 20250405001551

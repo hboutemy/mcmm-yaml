@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.multi.factor.authentication.timebased.otp.web
 versioning:
-  latest: 2.0.37
-  release: 2.0.37
+  latest: 2.0.38
+  release: 2.0.38
   versions:
   - 1.0.12
   - 1.0.13
@@ -81,4 +80,5 @@ versioning:
   - 2.0.35
   - 2.0.36
   - 2.0.37
-  lastUpdated: 20250404102150
+  - 2.0.38
+  lastUpdated: 20250405004230

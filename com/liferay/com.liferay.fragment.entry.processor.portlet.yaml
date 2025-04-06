@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.fragment.entry.processor.portlet
 versioning:
-  latest: 4.0.45
-  release: 4.0.45
+  latest: 4.0.46
+  release: 4.0.46
   versions:
   - 1.0.0
   - 1.0.1
@@ -173,4 +172,5 @@ versioning:
   - 4.0.43
   - 4.0.44
   - 4.0.45
-  lastUpdated: 20250404092318
+  - 4.0.46
+  lastUpdated: 20250404234708
