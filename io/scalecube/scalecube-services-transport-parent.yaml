@@ -3,8 +3,8 @@
 groupId: io.scalecube
 artifactId: scalecube-services-transport-parent
 versioning:
-  latest: 2.12.7.auth-refactoring.RC2
-  release: 2.12.7.auth-refactoring.RC2
+  latest: 2.12.7.auth-refactoring.RC4
+  release: 2.12.7.auth-refactoring.RC4
   versions:
   - 2.6.3
   - 2.7.0
@@ -98,4 +98,6 @@ versioning:
   - 2.12.6.better-close.rc1
   - 2.12.7.auth-refactoring.RC1
   - 2.12.7.auth-refactoring.RC2
-  lastUpdated: 20250406111540
+  - 2.12.7.auth-refactoring.RC3
+  - 2.12.7.auth-refactoring.RC4
+  lastUpdated: 20250407202651

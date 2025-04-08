@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.plugins
 artifactId: opensocial-portlet
 versioning:
-  latest: 7.4.10.3
-  release: 7.4.10.3
+  latest: 7.2.10.74
+  release: 7.2.10.74
   versions:
   - 7.0.0.1
   - 7.0.0.2
@@ -345,4 +344,7 @@ versioning:
   - 7.4.10.1
   - 7.4.10.2
   - 7.4.10.3
-  lastUpdated: 20250403103437
+  - 7.1.10.88
+  - 7.3.10.55
+  - 7.2.10.74
+  lastUpdated: 20250407133732
