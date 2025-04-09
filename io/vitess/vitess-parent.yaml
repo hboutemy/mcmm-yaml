@@ -3,8 +3,8 @@
 groupId: io.vitess
 artifactId: vitess-parent
 versioning:
-  latest: 21.0.2
-  release: 21.0.2
+  latest: 22.0.0-rc1
+  release: 22.0.0-rc1
   versions:
   - 2.1.0-rc.1
   - 2.1.0
@@ -46,4 +46,5 @@ versioning:
   - 20.0.0
   - 21.0.0
   - 21.0.2
-  lastUpdated: 20250121154845
+  - 22.0.0-rc1
+  lastUpdated: 20250408155619

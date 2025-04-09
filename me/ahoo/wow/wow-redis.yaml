@@ -3,8 +3,8 @@
 groupId: me.ahoo.wow
 artifactId: wow-redis
 versioning:
-  latest: 5.9.8
-  release: 5.9.8
+  latest: 5.10.0
+  release: 5.10.0
   versions:
   - 1.14.0
   - 1.15.0
@@ -340,4 +340,6 @@ versioning:
   - 5.9.5
   - 5.9.6
   - 5.9.8
-  lastUpdated: 20250401093628
+  - 5.9.9
+  - 5.10.0
+  lastUpdated: 20250408071532

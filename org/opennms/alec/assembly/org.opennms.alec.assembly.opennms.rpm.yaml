@@ -3,8 +3,8 @@
 groupId: org.opennms.alec.assembly
 artifactId: org.opennms.alec.assembly.opennms.rpm
 versioning:
-  latest: 3.0.1
-  release: 3.0.1
+  latest: 3.0.3
+  release: 3.0.3
   versions:
   - 1.0.0
   - 1.0.1
@@ -13,4 +13,6 @@ versioning:
   - 2.1.1-ALPHA
   - 2.1.2-ALPHA
   - 3.0.1
-  lastUpdated: 20230206213456
+  - 3.0.2
+  - 3.0.3
+  lastUpdated: 20250408211224

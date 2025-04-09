@@ -3,8 +3,8 @@
 groupId: com.fasterxml.jackson
 artifactId: jackson-bom
 versioning:
-  latest: 2.18.3
-  release: 2.18.3
+  latest: 2.19.0-rc2
+  release: 2.19.0-rc2
   versions:
   - 2.6.7
   - 2.6.7.1
@@ -130,4 +130,6 @@ versioning:
   - 2.18.1
   - 2.18.2
   - 2.18.3
-  lastUpdated: 20250228231829
+  - 2.19.0-rc1
+  - 2.19.0-rc2
+  lastUpdated: 20250408010228

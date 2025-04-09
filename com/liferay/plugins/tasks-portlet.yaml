@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.plugins
 artifactId: tasks-portlet
 versioning:
-  latest: 7.1.10.76
-  release: 7.1.10.76
+  latest: 7.4.10.1
+  release: 7.4.10.1
   versions:
   - 7.0.0.1
   - 7.0.0.2
@@ -162,6 +163,7 @@ versioning:
   - 7.1.10.73
   - 7.1.10.74
   - 7.1.10.75
+  - 7.1.10.76
   - 7.2.0.1
   - 7.2.0.2
   - 7.2.0.3
@@ -279,5 +281,4 @@ versioning:
   - 7.3.10.54
   - 7.3.10.55
   - 7.4.10.1
-  - 7.1.10.76
-  lastUpdated: 20250407130437
+  lastUpdated: 20250408103337

@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.staging.lang
 versioning:
-  latest: 5.0.104
-  release: 5.0.104
+  latest: 6.0.11
+  release: 6.0.11
   versions:
   - 1.0.0
   - 2.0.0
@@ -175,6 +176,7 @@ versioning:
   - 3.0.92
   - 3.0.93
   - 3.0.94
+  - 3.0.95
   - 4.0.0
   - 4.0.1
   - 4.0.2
@@ -264,6 +266,7 @@ versioning:
   - 4.0.86
   - 4.0.87
   - 4.0.88
+  - 4.0.89
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -368,6 +371,7 @@ versioning:
   - 5.0.101
   - 5.0.102
   - 5.0.103
+  - 5.0.104
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -380,7 +384,4 @@ versioning:
   - 6.0.9
   - 6.0.10
   - 6.0.11
-  - 3.0.95
-  - 4.0.89
-  - 5.0.104
-  lastUpdated: 20250407135911
+  lastUpdated: 20250408103934
