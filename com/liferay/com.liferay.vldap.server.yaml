@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.vldap.server
 versioning:
-  latest: 2.0.24
-  release: 2.0.24
+  latest: 5.0.19
+  release: 5.0.19
   versions:
   - 1.0.15
   - 1.0.16
@@ -19,6 +20,7 @@ versioning:
   - 2.0.21
   - 2.0.22
   - 2.0.23
+  - 2.0.24
   - 3.0.9
   - 3.0.16
   - 3.0.17
@@ -60,5 +62,4 @@ versioning:
   - 5.0.17
   - 5.0.18
   - 5.0.19
-  - 2.0.24
-  lastUpdated: 20250408105802
+  lastUpdated: 20250409105032

@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: pulsar
 versioning:
-  latest: 4.0.3
-  release: 4.0.3
+  latest: 4.0.4
+  release: 4.0.4
   versions:
   - 1.19.0-incubating
   - 1.20.0-incubating
@@ -71,6 +71,7 @@ versioning:
   - 3.0.8
   - 3.0.9
   - 3.0.10
+  - 3.0.11
   - 3.1.0
   - 3.1.1
   - 3.1.2
@@ -86,9 +87,11 @@ versioning:
   - 3.3.3
   - 3.3.4
   - 3.3.5
+  - 3.3.6
   - 4.0.0
   - 4.0.0-preview.1
   - 4.0.1
   - 4.0.2
   - 4.0.3
-  lastUpdated: 20250227115749
+  - 4.0.4
+  lastUpdated: 20250409071736

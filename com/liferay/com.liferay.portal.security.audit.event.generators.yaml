@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.security.audit.event.generators
 versioning:
-  latest: 2.0.23
-  release: 2.0.23
+  latest: 5.0.17
+  release: 5.0.17
   versions:
   - 1.0.20
   - 1.0.21
@@ -34,6 +35,7 @@ versioning:
   - 2.0.20
   - 2.0.21
   - 2.0.22
+  - 2.0.23
   - 3.0.12
   - 3.0.13
   - 3.0.14
@@ -87,5 +89,4 @@ versioning:
   - 5.0.15
   - 5.0.16
   - 5.0.17
-  - 2.0.23
-  lastUpdated: 20250408105230
+  lastUpdated: 20250409093745

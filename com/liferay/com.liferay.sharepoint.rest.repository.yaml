@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.sharepoint.rest.repository
 versioning:
-  latest: 2.0.41
-  release: 2.0.41
+  latest: 5.0.33
+  release: 5.0.33
   versions:
   - 1.0.22
   - 1.0.23
@@ -46,6 +47,7 @@ versioning:
   - 2.0.38
   - 2.0.39
   - 2.0.40
+  - 2.0.41
   - 3.0.21
   - 3.0.22
   - 3.0.23
@@ -137,5 +139,4 @@ versioning:
   - 5.0.31
   - 5.0.32
   - 5.0.33
-  - 2.0.41
-  lastUpdated: 20250408105724
+  lastUpdated: 20250409102515

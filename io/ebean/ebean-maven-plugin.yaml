@@ -3,8 +3,8 @@
 groupId: io.ebean
 artifactId: ebean-maven-plugin
 versioning:
-  latest: 17.0.0-beta1
-  release: 17.0.0-beta1
+  latest: 17.0.0-RC1
+  release: 17.0.0-RC1
   versions:
   - 10.1.1
   - 10.1.2
@@ -213,6 +213,7 @@ versioning:
   - 14.10.0-RC1
   - 14.10.0
   - 14.11.0
+  - 14.12.0
   - 15.0.1
   - 15.0.2
   - 15.1.0
@@ -231,5 +232,7 @@ versioning:
   - 15.9.0
   - 15.10.0
   - 15.11.0
+  - 15.12.0
   - 17.0.0-beta1
-  lastUpdated: 20250402103834
+  - 17.0.0-RC1
+  lastUpdated: 20250409103743

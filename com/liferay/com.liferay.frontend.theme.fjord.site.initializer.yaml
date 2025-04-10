@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.frontend.theme.fjord.site.initializer
 versioning:
-  latest: 1.0.27
-  release: 1.0.27
+  latest: 3.0.6
+  release: 3.0.6
   versions:
   - 1.0.0
   - 1.0.1
@@ -33,6 +34,7 @@ versioning:
   - 1.0.24
   - 1.0.25
   - 1.0.26
+  - 1.0.27
   - 2.0.0
   - 2.0.1
   - 2.0.2
@@ -79,5 +81,4 @@ versioning:
   - 3.0.4
   - 3.0.5
   - 3.0.6
-  - 1.0.27
-  lastUpdated: 20250408100604
+  lastUpdated: 20250409080309
