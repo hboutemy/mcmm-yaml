@@ -3,8 +3,8 @@
 groupId: org.openrewrite
 artifactId: rewrite-hcl
 versioning:
-  latest: 8.50.0
-  release: 8.50.0
+  latest: 8.50.2
+  release: 8.50.2
   versions:
   - 7.9.0
   - 7.10.0
@@ -246,4 +246,6 @@ versioning:
   - 8.48.1
   - 8.49.0
   - 8.50.0
-  lastUpdated: 20250409170718
+  - 8.50.1
+  - 8.50.2
+  lastUpdated: 20250410134926

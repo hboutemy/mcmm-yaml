@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-armeria-grpc-1.14
 versioning:
-  latest: 2.14.0-alpha
-  release: 2.14.0-alpha
+  latest: 2.15.0-alpha
+  release: 2.15.0-alpha
   versions:
   - 2.4.0-alpha
   - 2.5.0-alpha
@@ -20,4 +20,5 @@ versioning:
   - 2.13.2-alpha
   - 2.13.3-alpha
   - 2.14.0-alpha
-  lastUpdated: 20250314012859
+  - 2.15.0-alpha
+  lastUpdated: 20250410221721

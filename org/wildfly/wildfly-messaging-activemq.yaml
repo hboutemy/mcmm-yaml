@@ -3,8 +3,8 @@
 groupId: org.wildfly
 artifactId: wildfly-messaging-activemq
 versioning:
-  latest: 36.0.0.Beta1
-  release: 36.0.0.Beta1
+  latest: 36.0.0.Final
+  release: 36.0.0.Final
   versions:
   - 10.0.0.Alpha4
   - 10.0.0.Alpha5
@@ -113,4 +113,5 @@ versioning:
   - 35.0.0.Final
   - 35.0.1.Final
   - 36.0.0.Beta1
-  lastUpdated: 20250326174123
+  - 36.0.0.Final
+  lastUpdated: 20250409221947

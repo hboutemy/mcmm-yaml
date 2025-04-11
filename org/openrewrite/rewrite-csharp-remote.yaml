@@ -3,8 +3,8 @@
 groupId: org.openrewrite
 artifactId: rewrite-csharp-remote
 versioning:
-  latest: 0.24.0
-  release: 0.24.0
+  latest: 0.24.4
+  release: 0.24.4
   versions:
   - 0.14.0
   - 0.14.1
@@ -30,4 +30,7 @@ versioning:
   - 0.22.1
   - 0.23.0
   - 0.24.0
-  lastUpdated: 20250409190111
+  - 0.24.1
+  - 0.24.2
+  - 0.24.4
+  lastUpdated: 20250410183744

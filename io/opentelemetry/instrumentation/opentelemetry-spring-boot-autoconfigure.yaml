@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.instrumentation
 artifactId: opentelemetry-spring-boot-autoconfigure
 versioning:
-  latest: 2.14.0
-  release: 2.14.0
+  latest: 2.15.0
+  release: 2.15.0
   versions:
   - 0.12.0
   - 0.12.1
@@ -61,4 +61,5 @@ versioning:
   - 2.13.2
   - 2.13.3
   - 2.14.0
-  lastUpdated: 20250314012800
+  - 2.15.0
+  lastUpdated: 20250410221626

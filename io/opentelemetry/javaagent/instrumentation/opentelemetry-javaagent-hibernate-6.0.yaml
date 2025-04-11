@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-hibernate-6.0
 versioning:
-  latest: 2.14.0-alpha
-  release: 2.14.0-alpha
+  latest: 2.15.0-alpha
+  release: 2.15.0-alpha
   versions:
   - 1.23.0-alpha
   - 1.24.0-alpha
@@ -43,4 +43,5 @@ versioning:
   - 2.13.2-alpha
   - 2.13.3-alpha
   - 2.14.0-alpha
-  lastUpdated: 20250314013055
+  - 2.15.0-alpha
+  lastUpdated: 20250410221906
