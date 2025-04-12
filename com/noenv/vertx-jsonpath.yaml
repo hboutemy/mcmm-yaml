@@ -3,9 +3,10 @@
 groupId: com.noenv
 artifactId: vertx-jsonpath
 versioning:
-  latest: 4.5.14
-  release: 4.5.14
+  latest: 5.0.0.CR6
+  release: 5.0.0.CR6
   versions:
+  - 5.0.0.CR6
   - 3.9.13
   - 4.2.7
   - 4.3.0
@@ -26,6 +27,11 @@ versioning:
   - 4.4.6
   - 4.5.0
   - 4.5.1
+  - 4.5.10
+  - 4.5.11
+  - 4.5.12
+  - 4.5.13
+  - 4.5.14
   - 4.5.2
   - 4.5.3
   - 4.5.4
@@ -34,9 +40,4 @@ versioning:
   - 4.5.7
   - 4.5.8
   - 4.5.9
-  - 4.5.10
-  - 4.5.11
-  - 4.5.12
-  - 4.5.13
-  - 4.5.14
-  lastUpdated: 20250403123805
+  lastUpdated: 20250411102200

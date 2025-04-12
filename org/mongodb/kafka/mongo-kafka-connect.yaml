@@ -3,8 +3,8 @@
 groupId: org.mongodb.kafka
 artifactId: mongo-kafka-connect
 versioning:
-  latest: 1.15.0
-  release: 1.15.0
+  latest: 1.16.0
+  release: 1.16.0
   versions:
   - 0.1
   - 0.2
@@ -34,4 +34,5 @@ versioning:
   - 1.14.0
   - 1.14.1
   - 1.15.0
-  lastUpdated: 20250121144403
+  - 1.16.0
+  lastUpdated: 20250411203850

@@ -3,11 +3,10 @@
 groupId: com.renaissancerentals
 artifactId: renaissancerentals-secure-api
 versioning:
-  latest: 5.0.11.RELEASE
-  release: 5.0.11.RELEASE
+  latest: 5.0.13.RELEASE
+  release: 5.0.13.RELEASE
   versions:
-  - 5.0.10.RELEASE
-  - 5.0.11.RELEASE
+  - 5.0.13.RELEASE
   - 2.0.1-RELEASE
   - 2.0.10-RELEASE
   - 2.0.11-RELEASE
@@ -33,6 +32,8 @@ versioning:
   - 3.0.0.RELEASE
   - 3.0.1.RELEASE
   - 5.0.1.RELEASE
+  - 5.0.10.RELEASE
+  - 5.0.11.RELEASE
   - 5.0.12.RELEASE
   - 5.0.2.RELEASE
   - 5.0.3.RELEASE
@@ -41,4 +42,4 @@ versioning:
   - 5.0.7.RELEASE
   - 5.0.8.RELEASE
   - 5.0.9.RELEASE
-  lastUpdated: 20250405004459
+  lastUpdated: 20250411202920

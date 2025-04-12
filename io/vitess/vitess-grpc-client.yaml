@@ -3,8 +3,8 @@
 groupId: io.vitess
 artifactId: vitess-grpc-client
 versioning:
-  latest: 22.0.0-rc1
-  release: 22.0.0-rc1
+  latest: 22.0.0-rc2
+  release: 22.0.0-rc2
   versions:
   - 2.1.0-rc.1
   - 2.1.0
@@ -47,4 +47,5 @@ versioning:
   - 21.0.0
   - 21.0.2
   - 22.0.0-rc1
-  lastUpdated: 20250408155616
+  - 22.0.0-rc2
+  lastUpdated: 20250411190119

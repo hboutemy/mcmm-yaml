@@ -3,8 +3,8 @@
 groupId: org.apereo.cas
 artifactId: cas-server-support-gcp-logging
 versioning:
-  latest: 7.2.0
-  release: 7.2.0
+  latest: 7.2.1
+  release: 7.2.1
   versions:
   - 7.0.0-RC6
   - 7.0.0-RC7
@@ -36,6 +36,7 @@ versioning:
   - 7.1.3
   - 7.1.4
   - 7.1.5
+  - 7.1.6
   - 7.2.0-RC1
   - 7.2.0-RC2
   - 7.2.0-RC3
@@ -43,4 +44,5 @@ versioning:
   - 7.2.0-RC5
   - 7.2.0-RC6
   - 7.2.0
-  lastUpdated: 20250410195138
+  - 7.2.1
+  lastUpdated: 20250411084513

@@ -3,8 +3,8 @@
 groupId: io.gravitee.am.identityprovider
 artifactId: gravitee-am-identityprovider-jdbc
 versioning:
-  latest: 4.7.0
-  release: 4.7.0
+  latest: 4.7.1
+  release: 4.7.1
   versions:
   - 3.3.0
   - 3.3.1
@@ -331,6 +331,7 @@ versioning:
   - 4.3.24
   - 4.3.25
   - 4.3.26
+  - 4.3.27
   - 4.4.0-alpha.1
   - 4.4.0
   - 4.4.1
@@ -355,6 +356,7 @@ versioning:
   - 4.4.20
   - 4.4.21
   - 4.4.22
+  - 4.4.23
   - 4.5.0-alpha.1
   - 4.5.0-alpha.2
   - 4.5.0-alpha.3
@@ -372,6 +374,7 @@ versioning:
   - 4.5.10
   - 4.5.11
   - 4.5.12
+  - 4.5.13
   - 4.6.0-alpha.1
   - 4.6.0-alpha.2
   - 4.6.0-alpha.3
@@ -381,9 +384,11 @@ versioning:
   - 4.6.3
   - 4.6.4
   - 4.6.5
+  - 4.6.6
   - 4.7.0-alpha.1
   - 4.7.0-alpha.2
   - 4.7.0-alpha.3
   - 4.7.0-alpha.4
   - 4.7.0
-  lastUpdated: 20250328100530
+  - 4.7.1
+  lastUpdated: 20250411140042
