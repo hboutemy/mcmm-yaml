@@ -3,10 +3,13 @@
 groupId: org.apache.flink
 artifactId: flink-connector-elasticsearch-parent
 versioning:
-  latest: 3.0.1-1.17
-  release: 3.0.1-1.17
+  latest: 3.1.0-1.20
+  release: 3.1.0-1.20
   versions:
   - 3.0.0-1.16
   - 3.0.1-1.16
   - 3.0.1-1.17
-  lastUpdated: 20230508121506
+  - 3.1.0-1.18
+  - 3.1.0-1.19
+  - 3.1.0-1.20
+  lastUpdated: 20250415024116

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.cloudfoundry.multiapps
 artifactId: multiapps-controller-persistence-test
 versioning:
-  latest: 1.188.0
-  release: 1.188.0
+  latest: 1.189.0
+  release: 1.189.0
   versions:
   - 1.73.35
   - 1.110.0
@@ -137,4 +137,5 @@ versioning:
   - 1.186.1
   - 1.187.0
   - 1.188.0
-  lastUpdated: 20250401121527
+  - 1.189.0
+  lastUpdated: 20250415112425
