@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-grpc-xds
 versioning:
-  latest: 3.21.2
-  release: 3.21.2
+  latest: 3.22.0.CR1
+  release: 3.22.0.CR1
   versions:
   - 2.16.0.CR1
   - 2.16.0.Final
@@ -166,4 +166,6 @@ versioning:
   - 3.21.0
   - 3.21.1
   - 3.21.2
-  lastUpdated: 20250409102500
+  - 3.21.3
+  - 3.22.0.CR1
+  lastUpdated: 20250416104812

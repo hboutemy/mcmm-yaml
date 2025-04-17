@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-smallrye-graphql-deployment
 versioning:
-  latest: 3.21.2
-  release: 3.21.2
+  latest: 3.22.0.CR1
+  release: 3.22.0.CR1
   versions:
   - 1.5.0.CR1
   - 1.5.0.Final
@@ -320,4 +320,6 @@ versioning:
   - 3.21.0
   - 3.21.1
   - 3.21.2
-  lastUpdated: 20250409102803
+  - 3.21.3
+  - 3.22.0.CR1
+  lastUpdated: 20250416105114
