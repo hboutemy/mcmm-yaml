@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf
 versioning:
-  latest: 0.21.0-pre.164
-  release: 0.21.0-pre.164
+  latest: 0.21.0-pre.166
+  release: 0.21.0-pre.166
   versions:
   - 0.0.0
   - 0.1.0
@@ -689,6 +689,7 @@ versioning:
   - 0.20.9
   - 0.20.10
   - 0.20.11
+  - 0.20.12
   - 0.21.0-pre.0
   - 0.21.0-pre.1
   - 0.21.0-pre.3
@@ -798,4 +799,6 @@ versioning:
   - 0.21.0-pre.162
   - 0.21.0-pre.163
   - 0.21.0-pre.164
-  lastUpdated: 20250416200809
+  - 0.21.0-pre.165
+  - 0.21.0-pre.166
+  lastUpdated: 20250417125359

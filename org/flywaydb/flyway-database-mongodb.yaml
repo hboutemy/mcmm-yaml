@@ -3,8 +3,8 @@
 groupId: org.flywaydb
 artifactId: flyway-database-mongodb
 versioning:
-  latest: 11.7.1
-  release: 11.7.1
+  latest: 11.7.2
+  release: 11.7.2
   versions:
   - 10.1.0
   - 10.2.0
@@ -57,4 +57,5 @@ versioning:
   - 11.6.0
   - 11.7.0
   - 11.7.1
-  lastUpdated: 20250414105453
+  - 11.7.2
+  lastUpdated: 20250417102456
