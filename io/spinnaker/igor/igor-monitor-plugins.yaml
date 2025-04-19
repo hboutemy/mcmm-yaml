@@ -3,11 +3,12 @@
 groupId: io.spinnaker.igor
 artifactId: igor-monitor-plugins
 versioning:
-  latest: 4.22.0
-  release: 4.22.0
+  latest: 2025.0-0
+  release: 2025.0-0
   versions:
   - main-5
   - main-6
+  - main-7
   - version-1.18.0
   - 4.5.0
   - 4.5.1
@@ -63,4 +64,6 @@ versioning:
   - 4.20.0
   - 4.21.0
   - 4.22.0
-  lastUpdated: 20250415022557
+  - 2025.0-0
+  - 2025.0.0
+  lastUpdated: 20250418220716

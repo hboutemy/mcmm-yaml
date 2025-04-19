@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.build
 artifactId: glassfishbuild-maven-plugin
 versioning:
-  latest: 4.0.1
-  release: 4.0.1
+  latest: 4.1.0
+  release: 4.1.0
   versions:
   - 3.2.3
   - 3.2.4
@@ -21,4 +21,5 @@ versioning:
   - 3.2.28
   - 4.0.0
   - 4.0.1
-  lastUpdated: 20240726013853
+  - 4.1.0
+  lastUpdated: 20250418222817

@@ -3,11 +3,12 @@
 groupId: io.spinnaker.gate
 artifactId: gate-integration
 versioning:
-  latest: 6.69.0
-  release: 6.69.0
+  latest: 2025.0-0
+  release: 2025.0-0
   versions:
   - main-5
   - main-6
+  - main-7
   - 6.63.0
   - 6.64.0
   - 6.64.1
@@ -22,4 +23,5 @@ versioning:
   - 6.67.0
   - 6.68.0
   - 6.69.0
-  lastUpdated: 20250415023004
+  - 2025.0-0
+  lastUpdated: 20250418221031

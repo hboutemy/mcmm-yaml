@@ -3,11 +3,12 @@
 groupId: io.spinnaker.clouddriver
 artifactId: clouddriver-integration
 versioning:
-  latest: 5.95.0
-  release: 5.95.0
+  latest: 2025.0-0
+  release: 2025.0-0
   versions:
   - main-5
   - main-6
+  - main-7
   - 5.83.4
   - 5.85.3
   - 5.85.4
@@ -33,4 +34,5 @@ versioning:
   - 5.93.0
   - 5.94.0
   - 5.95.0
-  lastUpdated: 20250415023602
+  - 2025.0-0
+  lastUpdated: 20250418221756

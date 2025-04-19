@@ -3,11 +3,12 @@
 groupId: io.spinnaker.fiat
 artifactId: fiat-sql-postgres
 versioning:
-  latest: 1.57.0
-  release: 1.57.0
+  latest: 2025.0-0
+  release: 2025.0-0
   versions:
   - main-5
   - main-6
+  - main-7
   - 1.27.0
   - 1.27.1
   - 1.28.0
@@ -74,4 +75,6 @@ versioning:
   - 1.55.0
   - 1.56.0
   - 1.57.0
-  lastUpdated: 20250415022422
+  - 2025.0-0
+  - 2025.0.0
+  lastUpdated: 20250418220613

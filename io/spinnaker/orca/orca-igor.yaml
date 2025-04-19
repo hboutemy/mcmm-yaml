@@ -3,11 +3,12 @@
 groupId: io.spinnaker.orca
 artifactId: orca-igor
 versioning:
-  latest: 8.64.0
-  release: 8.64.0
+  latest: 2025.0-0
+  release: 2025.0-0
   versions:
   - main-5
   - main-6
+  - main-7
   - 8.15.0
   - 8.16.0
   - 8.17.1
@@ -99,4 +100,5 @@ versioning:
   - 8.62.0
   - 8.63.0
   - 8.64.0
-  lastUpdated: 20250415023131
+  - 2025.0-0
+  lastUpdated: 20250418221503
