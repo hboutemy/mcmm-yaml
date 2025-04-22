@@ -3,8 +3,8 @@
 groupId: com.uber.cadence
 artifactId: cadence-client
 versioning:
-  latest: 3.12.5
-  release: 3.12.5
+  latest: 3.12.6-prerelease
+  release: 3.12.6-prerelease
   versions:
   - 0.1.0
   - 0.2.0
@@ -71,4 +71,5 @@ versioning:
   - 3.12.3
   - 3.12.4
   - 3.12.5
-  lastUpdated: 20240725195611
+  - 3.12.6-prerelease
+  lastUpdated: 20250421221724
