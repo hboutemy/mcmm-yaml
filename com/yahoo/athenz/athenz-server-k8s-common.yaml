@@ -3,8 +3,8 @@
 groupId: com.yahoo.athenz
 artifactId: athenz-server-k8s-common
 versioning:
-  latest: 1.12.14
-  release: 1.12.14
+  latest: 1.12.15
+  release: 1.12.15
   versions:
   - 1.11.60
   - 1.11.61
@@ -28,4 +28,5 @@ versioning:
   - 1.12.12
   - 1.12.13
   - 1.12.14
-  lastUpdated: 20250412041800
+  - 1.12.15
+  lastUpdated: 20250425175152
