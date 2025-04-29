@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.google.apis
 artifactId: google-api-services-digitalassetlinks
 versioning:
-  latest: v1-rev20250211-2.0.0
-  release: v1-rev20250211-2.0.0
+  latest: v1-rev20250405-2.0.0
+  release: v1-rev20250405-2.0.0
   versions:
   - v1-rev1-1.18.0-rc
   - v1-rev1-1.21.0
@@ -173,4 +173,5 @@ versioning:
   - v1-rev20220122-2.0.0
   - v1-rev20241207-2.0.0
   - v1-rev20250211-2.0.0
-  lastUpdated: 20250222091134
+  - v1-rev20250405-2.0.0
+  lastUpdated: 20250423101417

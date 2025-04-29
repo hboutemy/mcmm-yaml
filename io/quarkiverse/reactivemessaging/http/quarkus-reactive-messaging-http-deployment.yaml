@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.reactivemessaging.http
 artifactId: quarkus-reactive-messaging-http-deployment
 versioning:
-  latest: 2.5.0
-  release: 2.5.0
+  latest: 2.5.0-lts
+  release: 2.5.0-lts
   versions:
   - 1.0.0.CR1
   - 1.0.0
@@ -32,4 +32,5 @@ versioning:
   - 2.4.0
   - 2.4.1
   - 2.5.0
-  lastUpdated: 20250422141356
+  - 2.5.0-lts
+  lastUpdated: 20250423132338

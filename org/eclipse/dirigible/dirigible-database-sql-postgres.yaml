@@ -3,8 +3,8 @@
 groupId: org.eclipse.dirigible
 artifactId: dirigible-database-sql-postgres
 versioning:
-  latest: 11.31.0
-  release: 11.31.0
+  latest: 11.34.1
+  release: 11.34.1
   versions:
   - 6.3.22
   - 6.3.23
@@ -219,4 +219,8 @@ versioning:
   - 11.29.0
   - 11.30.0
   - 11.31.0
-  lastUpdated: 20250422202849
+  - 11.32.0
+  - 11.33.0
+  - 11.34.0
+  - 11.34.1
+  lastUpdated: 20250423181414

@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-datasource-common
 versioning:
-  latest: 3.22.0.CR1
-  release: 3.22.0.CR1
+  latest: 3.22.0
+  release: 3.22.0
   versions:
   - 1.3.0.CR1
   - 1.3.0.CR2
@@ -332,5 +332,7 @@ versioning:
   - 3.21.1
   - 3.21.2
   - 3.21.3
+  - 3.21.4
   - 3.22.0.CR1
-  lastUpdated: 20250416104731
+  - 3.22.0
+  lastUpdated: 20250423152530

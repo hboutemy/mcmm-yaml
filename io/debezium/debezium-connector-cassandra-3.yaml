@@ -3,8 +3,8 @@
 groupId: io.debezium
 artifactId: debezium-connector-cassandra-3
 versioning:
-  latest: 3.1.0.Final
-  release: 3.1.0.Final
+  latest: 3.1.1.Final
+  release: 3.1.1.Final
   versions:
   - 1.9.0.CR1
   - 1.9.0.Final
@@ -102,4 +102,5 @@ versioning:
   - 3.1.0.Beta1
   - 3.1.0.CR1
   - 3.1.0.Final
-  lastUpdated: 20250402150521
+  - 3.1.1.Final
+  lastUpdated: 20250423113829

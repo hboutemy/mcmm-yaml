@@ -3,8 +3,8 @@
 groupId: org.opensearch.plugin
 artifactId: opensearch-ml-plugin
 versioning:
-  latest: 3.0.0.0-alpha1
-  release: 3.0.0.0-alpha1
+  latest: 3.0.0.0-beta1
+  release: 3.0.0.0-beta1
   versions:
   - 2.0.1.0
   - 2.1.0.0
@@ -32,4 +32,5 @@ versioning:
   - 2.19.0.0
   - 2.19.1.0
   - 3.0.0.0-alpha1
-  lastUpdated: 20250319005801
+  - 3.0.0.0-beta1
+  lastUpdated: 20250423033746
