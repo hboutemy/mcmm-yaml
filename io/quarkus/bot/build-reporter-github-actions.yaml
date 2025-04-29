@@ -3,8 +3,8 @@
 groupId: io.quarkus.bot
 artifactId: build-reporter-github-actions
 versioning:
-  latest: 3.9.10
-  release: 3.9.10
+  latest: 3.11.0
+  release: 3.11.0
   versions:
   - 2.0.0
   - 2.1.0
@@ -44,4 +44,5 @@ versioning:
   - 3.9.8
   - 3.9.9
   - 3.9.10
-  lastUpdated: 20250415092648
+  - 3.11.0
+  lastUpdated: 20250422160315

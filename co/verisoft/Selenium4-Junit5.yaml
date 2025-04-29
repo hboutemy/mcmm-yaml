@@ -3,10 +3,12 @@
 groupId: co.verisoft
 artifactId: Selenium4-Junit5
 versioning:
-  latest: 2.3.12
-  release: 2.3.12
+  latest: 3.0.0.1
+  release: 3.0.0.1
   versions:
   - dummyVersion
+  - null
+  - pipelineTriger.0.2
   - 0.0.3
   - 0.0.4
   - 0.0.6
@@ -65,4 +67,6 @@ versioning:
   - 2.3.10
   - 2.3.11
   - 2.3.12
-  lastUpdated: 20250401081218
+  - 3.0.0
+  - 3.0.0.1
+  lastUpdated: 20250422183426

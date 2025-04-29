@@ -3,8 +3,8 @@
 groupId: org.springframework.data
 artifactId: spring-data-cassandra-parent
 versioning:
-  latest: 5.0.0-M1
-  release: 5.0.0-M1
+  latest: 5.0.0-M2
+  release: 5.0.0-M2
   versions:
   - 1.0.0.RELEASE
   - 1.0.1.RELEASE
@@ -227,14 +227,17 @@ versioning:
   - 4.3.8
   - 4.3.9
   - 4.3.10
+  - 4.3.11
   - 4.4.0
   - 4.4.1
   - 4.4.2
   - 4.4.3
   - 4.4.4
+  - 4.4.5
   - 5.0.0-M1
+  - 5.0.0-M2
   - 2.2.13.RELEASE
   - 3.0.7.RELEASE
   - 3.1.4
   - 3.1.5
-  lastUpdated: 20250314073705
+  lastUpdated: 20250422133127

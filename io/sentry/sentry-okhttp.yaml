@@ -3,8 +3,8 @@
 groupId: io.sentry
 artifactId: sentry-okhttp
 versioning:
-  latest: 8.8.0
-  release: 8.8.0
+  latest: 8.9.0
+  release: 8.9.0
   versions:
   - 7.0.0
   - 7.1.0
@@ -67,4 +67,6 @@ versioning:
   - 8.6.0
   - 8.7.0
   - 8.8.0
-  lastUpdated: 20250414153304
+  - 8.9.0-alpha.1
+  - 8.9.0
+  lastUpdated: 20250422152425
