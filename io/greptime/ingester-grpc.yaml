@@ -3,8 +3,8 @@
 groupId: io.greptime
 artifactId: ingester-grpc
 versioning:
-  latest: 0.12.2
-  release: 0.12.2
+  latest: 0.14.0
+  release: 0.14.0
   versions:
   - 0.5.0
   - 0.5.1
@@ -17,4 +17,5 @@ versioning:
   - 0.12.0
   - 0.12.1
   - 0.12.2
-  lastUpdated: 20250313073354
+  - 0.14.0
+  lastUpdated: 20250424113025

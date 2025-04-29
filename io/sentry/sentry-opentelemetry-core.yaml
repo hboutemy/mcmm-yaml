@@ -3,8 +3,8 @@
 groupId: io.sentry
 artifactId: sentry-opentelemetry-core
 versioning:
-  latest: 8.9.0
-  release: 8.9.0
+  latest: 8.10.0-alpha.1
+  release: 8.10.0-alpha.1
   versions:
   - 6.9.1
   - 6.9.2
@@ -108,4 +108,5 @@ versioning:
   - 8.8.0
   - 8.9.0-alpha.1
   - 8.9.0
-  lastUpdated: 20250422152433
+  - 8.10.0-alpha.1
+  lastUpdated: 20250424154833
