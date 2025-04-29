@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-instrumentation-httpclient
 versioning:
-  latest: 6.1.0
-  release: 6.1.0
+  latest: 6.2.0
+  release: 6.2.0
   versions:
   - 4.3.0
   - 4.3.1
@@ -134,4 +134,5 @@ versioning:
   - 6.0.2
   - 6.0.3
   - 6.1.0
-  lastUpdated: 20250216033024
+  - 6.2.0
+  lastUpdated: 20250428032204
