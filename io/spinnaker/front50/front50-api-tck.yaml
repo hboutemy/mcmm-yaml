@@ -3,12 +3,13 @@
 groupId: io.spinnaker.front50
 artifactId: front50-api-tck
 versioning:
-  latest: 2025.0-0
-  release: 2025.0-0
+  latest: 2025.0-1
+  release: 2025.0-1
   versions:
   - main-5
   - main-6
   - main-7
+  - main-8
   - version-0.27.1
   - 2.23.1
   - 2.23.2
@@ -66,5 +67,6 @@ versioning:
   - 2.40.0
   - 2.41.0
   - 2025.0-0
+  - 2025.0-1
   - 2025.0.0
-  lastUpdated: 20250418221107
+  lastUpdated: 20250429164354

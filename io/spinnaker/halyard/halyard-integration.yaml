@@ -3,12 +3,13 @@
 groupId: io.spinnaker.halyard
 artifactId: halyard-integration
 versioning:
-  latest: 2025.0-0
-  release: 2025.0-0
+  latest: 2025.0-1
+  release: 2025.0-1
   versions:
   - main-5
   - main-6
   - main-7
+  - main-8
   - 1.65.0
   - 1.66.0
   - 1.67.0
@@ -16,5 +17,6 @@ versioning:
   - 1.69.0
   - 1.70.0
   - 2025.0-0
+  - 2025.0-1
   - 2025.0.0
-  lastUpdated: 20250418221621
+  lastUpdated: 20250429164757

@@ -3,8 +3,8 @@
 groupId: io.sentry
 artifactId: sentry-spring-boot-starter-jakarta
 versioning:
-  latest: 8.10.0
-  release: 8.10.0
+  latest: 8.11.0
+  release: 8.11.0
   versions:
   - 6.7.0-alpha.1
   - 6.7.0
@@ -115,4 +115,6 @@ versioning:
   - 8.9.0
   - 8.10.0-alpha.1
   - 8.10.0
-  lastUpdated: 20250425143111
+  - 8.11.0-alpha.1
+  - 8.11.0
+  lastUpdated: 20250429140419

@@ -3,11 +3,12 @@
 groupId: com.oracle.coherence.ce
 artifactId: coherence-grpc-proxy-common
 versioning:
-  latest: 25.03
-  release: 25.03
+  latest: 25.03.1
+  release: 25.03.1
   versions:
   - 14.1.2-0-0
   - 14.1.2-0-1
+  - 14.1.2-0-2
   - 24.03
   - 24.03.1
   - 24.09
@@ -15,4 +16,5 @@ versioning:
   - 24.09.2
   - 24.09.3
   - 25.03
-  lastUpdated: 20250328141042
+  - 25.03.1
+  lastUpdated: 20250429171255

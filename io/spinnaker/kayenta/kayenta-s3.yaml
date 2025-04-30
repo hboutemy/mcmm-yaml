@@ -3,12 +3,13 @@
 groupId: io.spinnaker.kayenta
 artifactId: kayenta-s3
 versioning:
-  latest: 2025.0-0
-  release: 2025.0-0
+  latest: 2025.0-1
+  release: 2025.0-1
   versions:
   - main-5
   - main-6
   - main-7
+  - main-8
   - 2.28.0
   - 2.28.1
   - 2.29.0
@@ -68,5 +69,6 @@ versioning:
   - 2.45.0
   - 2.46.0
   - 2025.0-0
+  - 2025.0-1
   - 2025.0.0
-  lastUpdated: 20250418221456
+  lastUpdated: 20250429164535
