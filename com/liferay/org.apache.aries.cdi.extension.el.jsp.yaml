@@ -3,8 +3,10 @@
 groupId: com.liferay
 artifactId: org.apache.aries.cdi.extension.el.jsp
 versioning:
-  latest: 1.1.5.LIFERAY-PATCHED-1
-  release: 1.1.5.LIFERAY-PATCHED-1
+  latest: 1.1.5.LIFERAY-PATCHED-2
+  release: 1.1.5.LIFERAY-PATCHED-2
   versions:
   - 1.1.5.LIFERAY-PATCHED-1
-  lastUpdated: 20250120024233
+  - 1.1.5.LIFERAY-PATCHED-1.JAKARTA_LIFERAY-PATCHED-1
+  - 1.1.5.LIFERAY-PATCHED-2
+  lastUpdated: 20250430000954
