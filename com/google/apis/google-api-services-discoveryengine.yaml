@@ -3,8 +3,8 @@
 groupId: com.google.apis
 artifactId: google-api-services-discoveryengine
 versioning:
-  latest: v1-rev20250419-2.0.0
-  release: v1-rev20250419-2.0.0
+  latest: v1-rev20250425-2.0.0
+  release: v1-rev20250425-2.0.0
   versions:
   - v1alpha-rev20221103-2.0.0
   - v1alpha-rev20221107-2.0.0
@@ -75,6 +75,7 @@ versioning:
   - v1alpha-rev20241030-2.0.0
   - v1alpha-rev20241031-2.0.0
   - v1alpha-rev20250419-2.0.0
+  - v1alpha-rev20250425-2.0.0
   - v1beta-rev20221103-2.0.0
   - v1beta-rev20221107-2.0.0
   - v1beta-rev20221130-2.0.0
@@ -144,6 +145,7 @@ versioning:
   - v1beta-rev20241030-2.0.0
   - v1beta-rev20241031-2.0.0
   - v1beta-rev20250419-2.0.0
+  - v1beta-rev20250425-2.0.0
   - v1-rev20240409-2.0.0
   - v1-rev20240415-2.0.0
   - v1-rev20240502-2.0.0
@@ -168,4 +170,5 @@ versioning:
   - v1-rev20241030-2.0.0
   - v1-rev20241031-2.0.0
   - v1-rev20250419-2.0.0
-  lastUpdated: 20250423102018
+  - v1-rev20250425-2.0.0
+  lastUpdated: 20250501082620
