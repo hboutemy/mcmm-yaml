@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.contacts.service
 versioning:
-  latest: 6.0.44
-  release: 6.0.44
+  latest: 6.0.45
+  release: 6.0.45
   versions:
   - 1.0.0
   - 2.0.0
@@ -235,4 +234,5 @@ versioning:
   - 6.0.42
   - 6.0.43
   - 6.0.44
-  lastUpdated: 20250403115452
+  - 6.0.45
+  lastUpdated: 20250502031656

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.headless.commerce.punchout.api
 versioning:
-  latest: 13.1.10
-  release: 13.1.10
+  latest: 13.1.11
+  release: 13.1.11
   versions:
   - 1.0.0
   - 1.0.1
@@ -117,4 +116,5 @@ versioning:
   - 13.1.8
   - 13.1.9
   - 13.1.10
-  lastUpdated: 20250409090157
+  - 13.1.11
+  lastUpdated: 20250502134316

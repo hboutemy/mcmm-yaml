@@ -1,10 +1,13 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: org.apache.aries.jax.rs.whiteboard
 versioning:
-  latest: 2.0.0.LIFERAY-PATCHED-1
-  release: 2.0.0.LIFERAY-PATCHED-1
+  latest: 2.0.0.LIFERAY-PATCHED-1.JAKARTA_LIFERAY-PATCHED-1
+  release: 2.0.0.LIFERAY-PATCHED-1.JAKARTA_LIFERAY-PATCHED-1
   versions:
   - 2.0.0.LIFERAY-PATCHED-1
-  lastUpdated: 20231217155426
+  - 2.0.0.LIFERAY-PATCHED-1.JAKARTA-LIFERAY-PATCHED-1
+  - 2.0.0.LIFERAY-PATCHED-1.JAKARTA_LIFERAY-PATCHED-1
+  lastUpdated: 20250502094600

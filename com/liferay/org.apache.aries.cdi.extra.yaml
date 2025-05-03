@@ -1,10 +1,12 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: org.apache.aries.cdi.extra
 versioning:
   latest: 1.1.5.JAKARTA_LIFERAY-PATCHED-1
   release: 1.1.5.JAKARTA_LIFERAY-PATCHED-1
   versions:
+  - 1.1.5.JAKARTA-LIFERAY-PATCHED-1
   - 1.1.5.JAKARTA_LIFERAY-PATCHED-1
-  lastUpdated: 20250430001417
+  lastUpdated: 20250502105134

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.plugins
 artifactId: admin-theme
 versioning:
-  latest: 5.0.92
-  release: 5.0.92
+  latest: 5.0.93
+  release: 5.0.93
   versions:
   - 1.0.0
   - 1.0.1
@@ -366,4 +365,5 @@ versioning:
   - 5.0.90
   - 5.0.91
   - 5.0.92
-  lastUpdated: 20250408103321
+  - 5.0.93
+  lastUpdated: 20250502022312

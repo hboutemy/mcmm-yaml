@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.microblogs.service
 versioning:
-  latest: 6.0.46
-  release: 6.0.46
+  latest: 6.0.47
+  release: 6.0.47
   versions:
   - 1.0.0
   - 2.0.0
@@ -267,4 +266,5 @@ versioning:
   - 6.0.44
   - 6.0.45
   - 6.0.46
-  lastUpdated: 20250403112435
+  - 6.0.47
+  lastUpdated: 20250502023006

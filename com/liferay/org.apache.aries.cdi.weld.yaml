@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: org.apache.aries.cdi.weld
 versioning:
@@ -7,6 +8,7 @@ versioning:
   release: 1.1.5.LIFERAY-PATCHED-2
   versions:
   - 1.1.5.LIFERAY-PATCHED-1
+  - 1.1.5.LIFERAY-PATCHED-1.JAKARTA-LIFERAY-PATCHED-1
   - 1.1.5.LIFERAY-PATCHED-1.JAKARTA_LIFERAY-PATCHED-1
   - 1.1.5.LIFERAY-PATCHED-2
-  lastUpdated: 20250430001832
+  lastUpdated: 20250502122139

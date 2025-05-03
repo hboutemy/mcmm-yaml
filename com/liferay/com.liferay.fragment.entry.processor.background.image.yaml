@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.fragment.entry.processor.background.image
 versioning:
-  latest: 3.0.29
-  release: 3.0.29
+  latest: 3.0.30
+  release: 3.0.30
   versions:
   - 1.0.0
   - 1.0.1
@@ -93,4 +92,5 @@ versioning:
   - 3.0.27
   - 3.0.28
   - 3.0.29
-  lastUpdated: 20250404091631
+  - 3.0.30
+  lastUpdated: 20250502055515
