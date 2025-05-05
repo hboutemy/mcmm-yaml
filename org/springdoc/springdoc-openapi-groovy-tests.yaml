@@ -3,15 +3,17 @@
 groupId: org.springdoc
 artifactId: springdoc-openapi-groovy-tests
 versioning:
-  latest: 2.8.6
-  release: 2.8.6
+  latest: 2.8.8
+  release: 2.8.8
   versions:
+  - 2.8.7
+  - 2.8.8
+  - 2.0.0
   - 2.0.0-M5
   - 2.0.0-M6
   - 2.0.0-M7
   - 2.0.0-RC1
   - 2.0.0-RC2
-  - 2.0.0
   - 2.0.1
   - 2.0.2
   - 2.0.3
@@ -22,8 +24,8 @@ versioning:
   - 2.4.0
   - 2.5.0
   - 2.6.0
-  - 2.7.0-RC1
   - 2.7.0
+  - 2.7.0-RC1
   - 2.8.0
   - 2.8.1
   - 2.8.2
@@ -31,4 +33,4 @@ versioning:
   - 2.8.4
   - 2.8.5
   - 2.8.6
-  lastUpdated: 20250323154227
+  lastUpdated: 20250504211039
