@@ -3,8 +3,8 @@
 groupId: it.agilelab
 artifactId: wasp-plugin-parallel-write-spark_2.12
 versioning:
-  latest: 2.36.0-emr613
-  release: 2.36.0-emr613
+  latest: 3.0.0-3_5
+  release: 3.0.0-3_5
   versions:
   - 2.27.0
   - 2.27.1
@@ -41,4 +41,7 @@ versioning:
   - 2.35.0-emr613
   - 2.36.0
   - 2.36.0-emr613
-  lastUpdated: 20250131090809
+  - 3.0.0
+  - 3.0.0-3_3
+  - 3.0.0-3_5
+  lastUpdated: 20250505092611

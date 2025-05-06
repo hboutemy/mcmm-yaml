@@ -3,8 +3,8 @@
 groupId: it.agilelab
 artifactId: wasp-plugin-jdbc-spark_2.12
 versioning:
-  latest: 2.36.0
-  release: 2.36.0
+  latest: 3.0.0-3_5
+  release: 3.0.0-3_5
   versions:
   - 2.27.0
   - 2.27.1
@@ -38,4 +38,7 @@ versioning:
   - 2.35.0
   - 2.35.0-emr212
   - 2.36.0
-  lastUpdated: 20250131090803
+  - 3.0.0
+  - 3.0.0-3_3
+  - 3.0.0-3_5
+  lastUpdated: 20250505092605
