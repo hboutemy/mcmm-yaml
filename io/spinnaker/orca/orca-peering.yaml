@@ -3,13 +3,15 @@
 groupId: io.spinnaker.orca
 artifactId: orca-peering
 versioning:
-  latest: 2025.0-1
-  release: 2025.0-1
+  latest: 2025.0-3
+  release: 2025.0-3
   versions:
   - main-5
   - main-6
   - main-7
   - main-8
+  - main-9
+  - main-10
   - 8.15.0
   - 8.16.0
   - 8.17.1
@@ -103,5 +105,7 @@ versioning:
   - 8.64.0
   - 2025.0-0
   - 2025.0-1
+  - 2025.0-2
+  - 2025.0-3
   - 2025.0.0
-  lastUpdated: 20250429164133
+  lastUpdated: 20250506201202

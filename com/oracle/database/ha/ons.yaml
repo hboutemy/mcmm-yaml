@@ -3,8 +3,8 @@
 groupId: com.oracle.database.ha
 artifactId: ons
 versioning:
-  latest: 23.7.0.25.01
-  release: 23.7.0.25.01
+  latest: 23.8.0.25.04
+  release: 23.8.0.25.04
   versions:
   - 11.2.0.4
   - 12.2.0.1
@@ -34,6 +34,7 @@ versioning:
   - 19.24.0.0
   - 19.25.0.0
   - 19.26.0.0
+  - 19.27.0.0
   - 21.1.0.0
   - 21.3.0.0
   - 21.4.0.0
@@ -58,4 +59,5 @@ versioning:
   - 23.5.0.24.07
   - 23.6.0.24.10
   - 23.7.0.25.01
-  lastUpdated: 20250310221029
+  - 23.8.0.25.04
+  lastUpdated: 20250506104344

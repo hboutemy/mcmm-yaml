@@ -3,8 +3,8 @@
 groupId: org.opensearch.plugin
 artifactId: query-insights
 versioning:
-  latest: 3.0.0.0-beta1
-  release: 3.0.0.0-beta1
+  latest: 3.0.0.0
+  release: 3.0.0.0
   versions:
   - 2.12.0
   - 2.13.0
@@ -19,6 +19,7 @@ versioning:
   - 2.19.2
   - 3.0.0.0-alpha1
   - 3.0.0.0-beta1
+  - 3.0.0.0
   - 2.16.0.0
   - 2.17.0.0
   - 2.17.1.0
@@ -26,4 +27,4 @@ versioning:
   - 2.19.0.0
   - 2.19.1.0
   - 2.19.2.0
-  lastUpdated: 20250430010402
+  lastUpdated: 20250506214821

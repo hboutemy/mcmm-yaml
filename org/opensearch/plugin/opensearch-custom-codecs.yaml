@@ -3,8 +3,8 @@
 groupId: org.opensearch.plugin
 artifactId: opensearch-custom-codecs
 versioning:
-  latest: 3.0.0.0-beta1
-  release: 3.0.0.0-beta1
+  latest: 3.0.0.0
+  release: 3.0.0.0
   versions:
   - 2.10.0.0
   - 2.11.0.0
@@ -22,4 +22,5 @@ versioning:
   - 2.19.2.0
   - 3.0.0.0-alpha1
   - 3.0.0.0-beta1
-  lastUpdated: 20250430010347
+  - 3.0.0.0
+  lastUpdated: 20250506214807
