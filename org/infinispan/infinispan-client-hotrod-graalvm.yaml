@@ -3,8 +3,8 @@
 groupId: org.infinispan
 artifactId: infinispan-client-hotrod-graalvm
 versioning:
-  latest: 15.2.1.Final
-  release: 15.2.1.Final
+  latest: 16.0.0.Dev01
+  release: 16.0.0.Dev01
   versions:
   - 15.0.0.CR1
   - 15.0.0.Final
@@ -47,4 +47,5 @@ versioning:
   - 15.2.0.Dev02
   - 15.2.0.Dev03
   - 15.2.1.Final
-  lastUpdated: 20250402162118
+  - 16.0.0.Dev01
+  lastUpdated: 20250507135519

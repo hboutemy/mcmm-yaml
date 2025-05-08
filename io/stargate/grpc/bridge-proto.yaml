@@ -3,8 +3,8 @@
 groupId: io.stargate.grpc
 artifactId: bridge-proto
 versioning:
-  latest: 2.1.0-BETA-24
-  release: 2.1.0-BETA-24
+  latest: 2.1.0-BETA-25
+  release: 2.1.0-BETA-25
   versions:
   - 2.0.0-ALPHA-9
   - 2.0.0-ALPHA-10
@@ -53,6 +53,8 @@ versioning:
   - 2.0.29
   - 2.0.30
   - 2.0.31
+  - 2.0.32
+  - 2.0.33
   - 2.1.0-ALPHA-1
   - 2.1.0-ALPHA-2
   - 2.1.0-ALPHA-3
@@ -87,4 +89,5 @@ versioning:
   - 2.1.0-BETA-22
   - 2.1.0-BETA-23
   - 2.1.0-BETA-24
-  lastUpdated: 20250425171913
+  - 2.1.0-BETA-25
+  lastUpdated: 20250507163841

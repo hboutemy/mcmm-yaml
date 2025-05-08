@@ -3,8 +3,8 @@
 groupId: org.openl.rules
 artifactId: org.openl.rules.studio-pom
 versioning:
-  latest: 5.27.11
-  release: 5.27.11
+  latest: 5.27.11-jakarta
+  release: 5.27.11-jakarta
   versions:
   - 5.7.0
   - 5.7.1
@@ -200,4 +200,5 @@ versioning:
   - 5.27.10
   - 5.27.10-jakarta
   - 5.27.11
-  lastUpdated: 20250506224026
+  - 5.27.11-jakarta
+  lastUpdated: 20250507192800

@@ -3,8 +3,8 @@
 groupId: org.openl.rules
 artifactId: org.openl.rules.ruleservice.ws.all
 versioning:
-  latest: 5.27.11
-  release: 5.27.11
+  latest: 5.27.11-jakarta
+  release: 5.27.11-jakarta
   versions:
   - 5.23.4
   - 5.23.5
@@ -86,4 +86,5 @@ versioning:
   - 5.27.10
   - 5.27.10-jakarta
   - 5.27.11
-  lastUpdated: 20250506224014
+  - 5.27.11-jakarta
+  lastUpdated: 20250507192752

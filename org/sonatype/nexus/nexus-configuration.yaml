@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.sonatype.nexus
 artifactId: nexus-configuration
 versioning:
-  latest: 2.3.1-01
-  release: 2.3.1-01
+  latest: 3.80.0-06
+  release: 3.80.0-06
   versions:
   - 1.0.0-beta-3
   - 1.0.0-beta-3.1
@@ -80,5 +79,6 @@ versioning:
   - 2.3.0-04
   - 2.3.1
   - 2.3.1-01
+  - 3.80.0-06
   - 2.2-01
-  lastUpdated: 20150309133112
+  lastUpdated: 20250507124823

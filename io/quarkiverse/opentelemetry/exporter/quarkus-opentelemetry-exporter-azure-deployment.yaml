@@ -3,8 +3,8 @@
 groupId: io.quarkiverse.opentelemetry.exporter
 artifactId: quarkus-opentelemetry-exporter-azure-deployment
 versioning:
-  latest: 3.18.3.1
-  release: 3.18.3.1
+  latest: 3.20.0.0
+  release: 3.20.0.0
   versions:
   - 3.5.3.Final
   - 3.5.3.1
@@ -13,4 +13,5 @@ versioning:
   - 3.15.1.0
   - 3.16.2.0
   - 3.18.3.1
-  lastUpdated: 20250227125025
+  - 3.20.0.0
+  lastUpdated: 20250507105629
