@@ -3,8 +3,8 @@
 groupId: com.atlan
 artifactId: package-toolkit-testing
 versioning:
-  latest: 5.1.1
-  release: 5.1.1
+  latest: 5.1.1-test-multiarch
+  release: 5.1.1-test-multiarch
   versions:
   - 1.8.1
   - 1.8.2
@@ -83,4 +83,5 @@ versioning:
   - 5.0.5
   - 5.1.0
   - 5.1.1
-  lastUpdated: 20250429133214
+  - 5.1.1-test-multiarch
+  lastUpdated: 20250509102159
