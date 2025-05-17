@@ -3,8 +3,8 @@
 groupId: org.hibernate.search
 artifactId: hibernate-search-mapper-orm
 versioning:
-  latest: 8.0.0.Alpha3
-  release: 8.0.0.Alpha3
+  latest: 8.0.0.Beta1
+  release: 8.0.0.Beta1
   versions:
   - 6.0.7.Final
   - 6.0.8.Final
@@ -53,6 +53,7 @@ versioning:
   - 8.0.0.Alpha1
   - 8.0.0.Alpha2
   - 8.0.0.Alpha3
+  - 8.0.0.Beta1
   - 6.0.0.Alpha1
   - 6.0.0.Alpha2
   - 6.0.0.Alpha3
@@ -83,4 +84,4 @@ versioning:
   - 6.0.5.Final
   - 6.0.6.Final
   - 6.1.0.Alpha1
-  lastUpdated: 20250324220847
+  lastUpdated: 20250513203635

@@ -3,8 +3,8 @@
 groupId: io.sentry
 artifactId: sentry-opentelemetry-agentless-spring
 versioning:
-  latest: 8.11.1
-  release: 8.11.1
+  latest: 8.12.0
+  release: 8.12.0
   versions:
   - 8.0.0-rc.3
   - 8.0.0-rc.4
@@ -24,4 +24,5 @@ versioning:
   - 8.11.0-alpha.1
   - 8.11.0
   - 8.11.1
-  lastUpdated: 20250430160457
+  - 8.12.0
+  lastUpdated: 20250513164913

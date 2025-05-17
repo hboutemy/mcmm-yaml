@@ -3,8 +3,8 @@
 groupId: com.daml
 artifactId: daml-lf-snapshot-proto
 versioning:
-  latest: 3.4.0-snapshot.20250509.13832.0.vcfc1ba78
-  release: 3.4.0-snapshot.20250509.13832.0.vcfc1ba78
+  latest: 3.4.0-snapshot.20250513.13844.0.vbc99348c
+  release: 3.4.0-snapshot.20250513.13844.0.vbc99348c
   versions:
   - 2.2.0-snapshot.20220426.9797.0.00c944ae
   - 2.2.0-snapshot.20220427.9808.0.f0303b69
@@ -827,6 +827,7 @@ versioning:
   - 2.10.0-adhoc.20241029.13035.0.v7977e389
   - 2.10.0-adhoc.20241031.13042.0.v386ef7fb
   - 2.10.0-adhoc.20241212.13143.0.vdbbc65bd
+  - 2.10.1-snapshot.20250513.13174.0.vfd3eadaf
   - 3.0.0-snapshot.20240109.12547.0.v54009a41
   - 3.0.0-snapshot.20240110.12560.0.v57656042
   - 3.0.0-snapshot.20240111.12564.0.v88a271b5
@@ -1168,6 +1169,7 @@ versioning:
   - 3.3.0-snapshot.20250424.13760.0.v90d51dbb
   - 3.3.0-snapshot.20250502.13767.0.v2fc6c7e2
   - 3.3.0-snapshot.20250507.13770.0.v8a383258
+  - 3.3.0-snapshot.20250509.13773.0.v7f71343b
   - 3.3.0-adhoc.20250313.13657.0.vd9049657
   - 3.3.0-adhoc.20250314.13658.0.v2ae85555
   - 3.3.0-adhoc.20250314.13658.0.v6a20867c
@@ -1196,4 +1198,6 @@ versioning:
   - 3.4.0-snapshot.20250508.13828.0.v6124cac0
   - 3.4.0-snapshot.20250509.13829.0.vc24ce1fd
   - 3.4.0-snapshot.20250509.13832.0.vcfc1ba78
-  lastUpdated: 20250510072217
+  - 3.4.0-snapshot.20250512.13837.0.v78d1b88c
+  - 3.4.0-snapshot.20250513.13844.0.vbc99348c
+  lastUpdated: 20250513162419
