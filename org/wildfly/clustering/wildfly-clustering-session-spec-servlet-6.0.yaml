@@ -3,8 +3,8 @@
 groupId: org.wildfly.clustering
 artifactId: wildfly-clustering-session-spec-servlet-6.0
 versioning:
-  latest: 7.0.0.Beta2
-  release: 7.0.0.Beta2
+  latest: 7.0.0.Final
+  release: 7.0.0.Final
   versions:
   - 1.0.7.Final
   - 1.0.8.Final
@@ -47,6 +47,7 @@ versioning:
   - 5.0.7.Final
   - 5.0.8.Final
   - 5.0.9.Final
+  - 5.0.10.Final
   - 6.0.0.Beta1
   - 6.0.0.Beta2
   - 6.0.0.Beta3
@@ -57,4 +58,5 @@ versioning:
   - 6.0.4.Final
   - 7.0.0.Beta1
   - 7.0.0.Beta2
-  lastUpdated: 20250511071732
+  - 7.0.0.Final
+  lastUpdated: 20250512162429

@@ -3,8 +3,8 @@
 groupId: io.spinnaker.keel
 artifactId: keel-titus-api
 versioning:
-  latest: 2025.0-3
-  release: 2025.0-3
+  latest: 2025.0-4
+  release: 2025.0-4
   versions:
   - main-5
   - main-6
@@ -13,6 +13,7 @@ versioning:
   - main-9
   - main-10
   - main-11
+  - main-12
   - 0.185.1
   - 0.186.1
   - 0.187.0
@@ -52,5 +53,7 @@ versioning:
   - 2025.0-1
   - 2025.0-2
   - 2025.0-3
+  - 2025.0-4
   - 2025.0.0
-  lastUpdated: 20250509053109
+  - 2025.0.1
+  lastUpdated: 20250512185108

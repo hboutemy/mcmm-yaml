@@ -3,8 +3,8 @@
 groupId: io.spinnaker.igor
 artifactId: igor-integration
 versioning:
-  latest: 2025.0-3
-  release: 2025.0-3
+  latest: 2025.0-4
+  release: 2025.0-4
   versions:
   - main-5
   - main-6
@@ -13,6 +13,7 @@ versioning:
   - main-9
   - main-10
   - main-11
+  - main-12
   - 4.16.0
   - 4.16.1
   - 4.17.0
@@ -21,6 +22,7 @@ versioning:
   - 4.19.0
   - 4.19.1
   - 4.19.2
+  - 4.19.3
   - 4.20.0
   - 4.21.0
   - 4.22.0
@@ -28,5 +30,7 @@ versioning:
   - 2025.0-1
   - 2025.0-2
   - 2025.0-3
+  - 2025.0-4
   - 2025.0.0
-  lastUpdated: 20250509052614
+  - 2025.0.1
+  lastUpdated: 20250512184745

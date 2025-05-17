@@ -3,8 +3,8 @@
 groupId: com.playtika.testcontainers
 artifactId: embedded-k3s
 versioning:
-  latest: 3.1.11
-  release: 3.1.11
+  latest: 3.1.13
+  release: 3.1.13
   versions:
   - 3.0.0-RC2
   - 3.0.0-RC3
@@ -34,4 +34,5 @@ versioning:
   - 3.1.9
   - 3.1.10
   - 3.1.11
-  lastUpdated: 20250207082428
+  - 3.1.13
+  lastUpdated: 20250512204453

@@ -3,8 +3,8 @@
 groupId: io.spinnaker.clouddriver
 artifactId: clouddriver-ecs
 versioning:
-  latest: 2025.0-3
-  release: 2025.0-3
+  latest: 2025.0-4
+  release: 2025.0-4
   versions:
   - main-5
   - main-6
@@ -13,6 +13,7 @@ versioning:
   - main-9
   - main-10
   - main-11
+  - main-12
   - 5.74.0
   - 5.74.2
   - 5.74.3
@@ -93,6 +94,7 @@ versioning:
   - 5.91.4
   - 5.91.5
   - 5.91.6
+  - 5.91.7
   - 5.92.0
   - 5.93.0
   - 5.94.0
@@ -101,5 +103,7 @@ versioning:
   - 2025.0-1
   - 2025.0-2
   - 2025.0-3
+  - 2025.0-4
   - 2025.0.0
-  lastUpdated: 20250509054108
+  - 2025.0.1
+  lastUpdated: 20250512192356

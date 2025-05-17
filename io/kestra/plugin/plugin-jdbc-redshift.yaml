@@ -3,8 +3,8 @@
 groupId: io.kestra.plugin
 artifactId: plugin-jdbc-redshift
 versioning:
-  latest: 0.22.0
-  release: 0.22.0
+  latest: 0.22.1
+  release: 0.22.1
   versions:
   - 0.2.8
   - 0.3.0
@@ -45,4 +45,5 @@ versioning:
   - 0.21.5
   - 0.21.6
   - 0.22.0
-  lastUpdated: 20250401101144
+  - 0.22.1
+  lastUpdated: 20250512173439
