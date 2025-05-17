@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-hibernate-reactive-rest-data-panache
 versioning:
-  latest: 3.22.3
-  release: 3.22.3
+  latest: 3.23.0.CR1
+  release: 3.23.0.CR1
   versions:
   - 2.8.0.CR1
   - 2.8.0.Final
@@ -221,4 +221,5 @@ versioning:
   - 3.22.1
   - 3.22.2
   - 3.22.3
-  lastUpdated: 20250514110435
+  - 3.23.0.CR1
+  lastUpdated: 20250515090317
