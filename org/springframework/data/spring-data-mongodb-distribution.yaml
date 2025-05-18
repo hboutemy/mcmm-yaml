@@ -3,8 +3,8 @@
 groupId: org.springframework.data
 artifactId: spring-data-mongodb-distribution
 versioning:
-  latest: 5.0.0-M2
-  release: 5.0.0-M2
+  latest: 5.0.0-M3
+  release: 5.0.0-M3
   versions:
   - 1.2.0.RELEASE
   - 1.2.1.RELEASE
@@ -243,16 +243,20 @@ versioning:
   - 4.3.9
   - 4.3.10
   - 4.3.11
+  - 4.3.12
   - 4.4.0
   - 4.4.1
   - 4.4.2
   - 4.4.3
   - 4.4.4
   - 4.4.5
+  - 4.4.6
+  - 4.5.0
   - 5.0.0-M1
   - 5.0.0-M2
+  - 5.0.0-M3
   - 2.2.13.RELEASE
   - 3.0.7.RELEASE
   - 3.1.4
   - 3.1.5
-  lastUpdated: 20250422133131
+  lastUpdated: 20250516124005

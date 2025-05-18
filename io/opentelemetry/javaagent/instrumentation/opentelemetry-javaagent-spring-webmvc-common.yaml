@@ -3,8 +3,8 @@
 groupId: io.opentelemetry.javaagent.instrumentation
 artifactId: opentelemetry-javaagent-spring-webmvc-common
 versioning:
-  latest: 2.15.0-alpha
-  release: 2.15.0-alpha
+  latest: 2.16.0-alpha
+  release: 2.16.0-alpha
   versions:
   - 1.21.0-alpha
   - 1.22.0-alpha
@@ -47,4 +47,5 @@ versioning:
   - 2.13.3-alpha
   - 2.14.0-alpha
   - 2.15.0-alpha
-  lastUpdated: 20250410222558
+  - 2.16.0-alpha
+  lastUpdated: 20250516002704
