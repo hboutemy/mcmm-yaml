@@ -3,8 +3,8 @@
 groupId: io.spinnaker.orca
 artifactId: orca-clouddriver-provider-titus
 versioning:
-  latest: 2025.0-4
-  release: 2025.0-4
+  latest: 2025.0-5
+  release: 2025.0-5
   versions:
   - main-5
   - main-6
@@ -14,6 +14,7 @@ versioning:
   - main-10
   - main-11
   - main-12
+  - main-13
   - 8.15.0
   - 8.16.0
   - 8.17.1
@@ -110,6 +111,8 @@ versioning:
   - 2025.0-2
   - 2025.0-3
   - 2025.0-4
+  - 2025.0-5
   - 2025.0.0
   - 2025.0.1
-  lastUpdated: 20250512185446
+  - 2025.0.2
+  lastUpdated: 20250517063323
