@@ -3,8 +3,8 @@
 groupId: org.anyline
 artifactId: anyline-environment-spring-data-jdbc
 versioning:
-  latest: 8.7.2-20250515
-  release: 8.7.2-20250515
+  latest: 8.7.2-20250518
+  release: 8.7.2-20250518
   versions:
   - 8.7.2-jdk11-20240816
   - 8.7.2-jdk11-20240819
@@ -191,6 +191,7 @@ versioning:
   - 8.7.2-jdk21-20250502
   - 8.7.2-jdk21-20250509
   - 8.7.2-jdk21-20250515
+  - 8.7.2-jdk21-20250518
   - 8.7.2-20240411
   - 8.7.2-20240415
   - 8.7.2-20240416
@@ -302,4 +303,5 @@ versioning:
   - 8.7.2-20250502
   - 8.7.2-20250509
   - 8.7.2-20250515
-  lastUpdated: 20250515112604
+  - 8.7.2-20250518
+  lastUpdated: 20250518093159

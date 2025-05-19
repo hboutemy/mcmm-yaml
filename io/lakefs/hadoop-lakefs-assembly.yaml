@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.lakefs
 artifactId: hadoop-lakefs-assembly
 versioning:
-  latest: 0.15.0-support-emr-7.0.0-test
-  release: 0.15.0-support-emr-7.0.0-test
+  latest: 0.15.1-support-emr-7.0.0
+  release: 0.15.1-support-emr-7.0.0
   versions:
   - 0.1.0-RC.0
   - 0.1.0
@@ -67,9 +67,12 @@ versioning:
   - 0.15.0-demo-20
   - 0.15.0-demo-21
   - 0.15.0-demo-22
+  - 0.15.0-support-emr-7.0.0
+  - 0.15.0-support-emr-7.0.0-demo-05
   - 0.15.0-support-emr-7.0.0-test
+  - 0.15.1-support-emr-7.0.0
   - 0.14.3-demo-0
   - 0.15.0-support-emr-7.0.0-test-0
   - 0.2.3-RC.0
   - 0.58.1-new-key
-  lastUpdated: 20250515091000
+  lastUpdated: 20250518113004
