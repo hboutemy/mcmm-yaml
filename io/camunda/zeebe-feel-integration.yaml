@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-feel-integration
 versioning:
-  latest: 8.8.0-alpha4
-  release: 8.8.0-alpha4
+  latest: 8.8.0-alpha4.1
+  release: 8.8.0-alpha4.1
   versions:
   - 1.4.0-alpha1
   - 1.4.0-alpha2
@@ -252,6 +252,7 @@ versioning:
   - 8.7.1
   - 8.7.2-rc1
   - 8.7.2
+  - 8.7.3-rc1
   - 8.8.0-alpha1-rc1
   - 8.8.0-alpha1
   - 8.8.0-alpha2-rc1
@@ -260,4 +261,5 @@ versioning:
   - 8.8.0-alpha3
   - 8.8.0-alpha4-rc1
   - 8.8.0-alpha4
-  lastUpdated: 20250509093314
+  - 8.8.0-alpha4.1
+  lastUpdated: 20250519164631
