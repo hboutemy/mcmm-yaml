@@ -3,8 +3,8 @@
 groupId: org.hibernate.orm
 artifactId: hibernate-agroal
 versioning:
-  latest: 7.0.0.CR2
-  release: 7.0.0.CR2
+  latest: 7.0.0.Final
+  release: 7.0.0.Final
   versions:
   - 6.0.0.Alpha1
   - 6.0.0.Alpha2
@@ -124,4 +124,5 @@ versioning:
   - 7.0.0.Beta5
   - 7.0.0.CR1
   - 7.0.0.CR2
-  lastUpdated: 20250518000922
+  - 7.0.0.Final
+  lastUpdated: 20250519235852
