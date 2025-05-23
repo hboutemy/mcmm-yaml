@@ -3,8 +3,8 @@
 groupId: io.quarkus.resteasy.reactive
 artifactId: resteasy-reactive-build-support
 versioning:
-  latest: 3.23.0.CR1
-  release: 3.23.0.CR1
+  latest: 3.23.0
+  release: 3.23.0
   versions:
   - 2.11.0.CR1
   - 2.11.0.Final
@@ -209,4 +209,5 @@ versioning:
   - 3.22.2
   - 3.22.3
   - 3.23.0.CR1
-  lastUpdated: 20250515090726
+  - 3.23.0
+  lastUpdated: 20250522134621

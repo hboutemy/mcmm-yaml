@@ -3,8 +3,8 @@
 groupId: io.quarkus
 artifactId: quarkus-opentelemetry-deployment
 versioning:
-  latest: 3.23.0.CR1
-  release: 3.23.0.CR1
+  latest: 3.23.0
+  release: 3.23.0
   versions:
   - 1.13.0.Final
   - 1.13.1.Final
@@ -282,4 +282,5 @@ versioning:
   - 3.22.2
   - 3.22.3
   - 3.23.0.CR1
-  lastUpdated: 20250515090459
+  - 3.23.0
+  lastUpdated: 20250522134359

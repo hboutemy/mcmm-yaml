@@ -3,8 +3,8 @@
 groupId: org.locationtech.geomesa
 artifactId: geomesa-hbase-distributed-runtime-hbase2_2.12
 versioning:
-  latest: 5.2.2
-  release: 5.2.2
+  latest: 5.3.0
+  release: 5.3.0
   versions:
   - 3.2.0
   - 3.2.1
@@ -28,4 +28,5 @@ versioning:
   - 5.2.0
   - 5.2.1
   - 5.2.2
-  lastUpdated: 20250326203321
+  - 5.3.0
+  lastUpdated: 20250522001636

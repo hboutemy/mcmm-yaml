@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: pulsar-transaction-coordinator
 versioning:
-  latest: 4.0.4
-  release: 4.0.4
+  latest: 4.0.5
+  release: 4.0.5
   versions:
   - 2.4.0
   - 2.4.1
@@ -58,6 +58,7 @@ versioning:
   - 3.0.9
   - 3.0.10
   - 3.0.11
+  - 3.0.12
   - 3.1.0
   - 3.1.1
   - 3.1.2
@@ -80,4 +81,5 @@ versioning:
   - 4.0.2
   - 4.0.3
   - 4.0.4
-  lastUpdated: 20250409073752
+  - 4.0.5
+  lastUpdated: 20250522224524

@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: jetcd-core-shaded
 versioning:
-  latest: 4.0.4
-  release: 4.0.4
+  latest: 4.0.5
+  release: 4.0.5
   versions:
   - 3.0.6
   - 3.0.7
@@ -12,6 +12,7 @@ versioning:
   - 3.0.9
   - 3.0.10
   - 3.0.11
+  - 3.0.12
   - 3.2.4
   - 3.3.1
   - 3.3.2
@@ -25,4 +26,5 @@ versioning:
   - 4.0.2
   - 4.0.3
   - 4.0.4
-  lastUpdated: 20250409071711
+  - 4.0.5
+  lastUpdated: 20250522191820
