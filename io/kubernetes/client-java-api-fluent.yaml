@@ -3,8 +3,8 @@
 groupId: io.kubernetes
 artifactId: client-java-api-fluent
 versioning:
-  latest: 23.0.0-legacy
-  release: 23.0.0-legacy
+  latest: 24.0.0-legacy
+  release: 24.0.0-legacy
   versions:
   - 13.0.0
   - 13.0.1
@@ -42,4 +42,6 @@ versioning:
   - 22.0.1-legacy
   - 23.0.0
   - 23.0.0-legacy
-  lastUpdated: 20250219201729
+  - 24.0.0
+  - 24.0.0-legacy
+  lastUpdated: 20250523205501

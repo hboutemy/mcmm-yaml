@@ -3,8 +3,8 @@
 groupId: com.snowplowanalytics
 artifactId: snowplow-common-enrich_2.12
 versioning:
-  latest: 5.4.0-rc4
-  release: 5.4.0-rc4
+  latest: 5.4.0-rc6
+  release: 5.4.0-rc6
   versions:
   - 1.0.0-M1
   - 1.0.0-M2
@@ -295,4 +295,6 @@ versioning:
   - 5.4.0-rc2
   - 5.4.0-rc3
   - 5.4.0-rc4
-  lastUpdated: 20250514085630
+  - 5.4.0-rc5
+  - 5.4.0-rc6
+  lastUpdated: 20250523091345

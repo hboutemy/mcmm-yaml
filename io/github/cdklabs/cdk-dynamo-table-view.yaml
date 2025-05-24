@@ -3,9 +3,10 @@
 groupId: io.github.cdklabs
 artifactId: cdk-dynamo-table-view
 versioning:
-  latest: 0.2.488
-  release: 0.2.488
+  latest: 0.2.489-rc.0
+  release: 0.2.489-rc.0
   versions:
+  - 0.0.0
   - 0.1.82
   - 0.1.83
   - 0.1.84
@@ -67,6 +68,7 @@ versioning:
   - 0.1.140
   - 0.1.141
   - 0.1.142
+  - 0.1.500
   - 0.2.0
   - 0.2.1
   - 0.2.2
@@ -551,4 +553,5 @@ versioning:
   - 0.2.486
   - 0.2.487
   - 0.2.488
-  lastUpdated: 20231116181947
+  - 0.2.489-rc.0
+  lastUpdated: 20250523092817
