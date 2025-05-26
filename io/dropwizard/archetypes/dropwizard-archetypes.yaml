@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.dropwizard.archetypes
 artifactId: dropwizard-archetypes
 versioning:
-  latest: 5.0.0-rc.2
-  release: 5.0.0-rc.2
+  latest: 5.0.0-rc.3
+  release: 5.0.0-rc.3
   versions:
   - 0.8.0-rc2
   - 0.8.0-rc3
@@ -198,6 +198,7 @@ versioning:
   - 3.0.11
   - 3.0.12
   - 3.0.13
+  - 3.0.14
   - 4.0.0-beta.1
   - 4.0.0-beta.2
   - 4.0.0-beta.3
@@ -216,6 +217,8 @@ versioning:
   - 4.0.11
   - 4.0.12
   - 4.0.13
+  - 4.0.14
   - 5.0.0-rc.1
   - 5.0.0-rc.2
-  lastUpdated: 20250330202144
+  - 5.0.0-rc.3
+  lastUpdated: 20250525213714

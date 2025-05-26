@@ -3,8 +3,8 @@
 groupId: io.dropwizard
 artifactId: dropwizard-unix-socket
 versioning:
-  latest: 5.0.0-rc.2
-  release: 5.0.0-rc.2
+  latest: 5.0.0-rc.3
+  release: 5.0.0-rc.3
   versions:
   - 3.0.6
   - 3.0.7
@@ -14,6 +14,7 @@ versioning:
   - 3.0.11
   - 3.0.12
   - 3.0.13
+  - 3.0.14
   - 4.0.6
   - 4.0.7
   - 4.0.8
@@ -22,10 +23,12 @@ versioning:
   - 4.0.11
   - 4.0.12
   - 4.0.13
+  - 4.0.14
   - 5.0.0-alpha.2
   - 5.0.0-alpha.3
   - 5.0.0-alpha.4
   - 5.0.0-alpha.5
   - 5.0.0-rc.1
   - 5.0.0-rc.2
-  lastUpdated: 20250327000616
+  - 5.0.0-rc.3
+  lastUpdated: 20250525205023
