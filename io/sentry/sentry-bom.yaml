@@ -3,8 +3,8 @@
 groupId: io.sentry
 artifactId: sentry-bom
 versioning:
-  latest: 8.12.0
-  release: 8.12.0
+  latest: 8.13.1
+  release: 8.13.1
   versions:
   - 5.1.0-beta.8
   - 5.1.0-beta.9
@@ -184,4 +184,6 @@ versioning:
   - 8.11.0
   - 8.11.1
   - 8.12.0
-  lastUpdated: 20250513164852
+  - 8.13.0
+  - 8.13.1
+  lastUpdated: 20250526185802
