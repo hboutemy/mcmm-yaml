@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.cloudfoundry.multiapps
 artifactId: multiapps-controller-shutdown-client
 versioning:
-  latest: 1.190.0
-  release: 1.190.0
+  latest: 1.191.0
+  release: 1.191.0
   versions:
   - 1.73.35
   - 1.107.0
@@ -144,4 +144,5 @@ versioning:
   - 1.188.0
   - 1.189.0
   - 1.190.0
-  lastUpdated: 20250513114109
+  - 1.191.0
+  lastUpdated: 20250527092106

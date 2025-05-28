@@ -3,8 +3,8 @@
 groupId: org.arquillian.cube
 artifactId: arquillian-cube-docker-drone
 versioning:
-  latest: 2.0.0.Final
-  release: 2.0.0.Final
+  latest: 2.1.0.Alpha1
+  release: 2.1.0.Alpha1
   versions:
   - 1.0.0.Alpha13
   - 1.0.0.Alpha14
@@ -22,6 +22,7 @@ versioning:
   - 1.18.2
   - 2.0.0.Alpha1
   - 2.0.0.Final
+  - 2.1.0.Alpha1
   - 1.0.1
   - 1.1.0
   - 1.10.0
@@ -48,4 +49,4 @@ versioning:
   - 1.9.0
   - 1.9.1
   - 1.9.2
-  lastUpdated: 20250206220008
+  lastUpdated: 20250527110506
