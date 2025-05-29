@@ -3,8 +3,8 @@
 groupId: org.openrewrite.recipe
 artifactId: rewrite-java-dependencies
 versioning:
-  latest: 1.35.1
-  release: 1.35.1
+  latest: 1.35.2
+  release: 1.35.2
   versions:
   - 0.1.0
   - 0.2.0
@@ -76,4 +76,5 @@ versioning:
   - 1.34.0
   - 1.35.0
   - 1.35.1
-  lastUpdated: 20250526143819
+  - 1.35.2
+  lastUpdated: 20250528142350

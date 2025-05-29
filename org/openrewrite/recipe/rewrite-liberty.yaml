@@ -3,8 +3,8 @@
 groupId: org.openrewrite.recipe
 artifactId: rewrite-liberty
 versioning:
-  latest: 1.16.0
-  release: 1.16.0
+  latest: 1.17.0
+  release: 1.17.0
   versions:
   - 1.0.0-rc.1
   - 1.0.0-rc.2
@@ -55,4 +55,5 @@ versioning:
   - 1.14.3
   - 1.15.0
   - 1.16.0
-  lastUpdated: 20250507181729
+  - 1.17.0
+  lastUpdated: 20250528163537
