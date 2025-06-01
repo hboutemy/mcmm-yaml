@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.segments.context.vocabulary
 versioning:
-  latest: 2.0.30
-  release: 2.0.30
+  latest: 2.0.31
+  release: 2.0.31
   versions:
   - 1.0.0
   - 1.0.1
@@ -66,4 +65,5 @@ versioning:
   - 2.0.28
   - 2.0.29
   - 2.0.30
-  lastUpdated: 20250404111513
+  - 2.0.31
+  lastUpdated: 20250531212758

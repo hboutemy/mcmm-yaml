@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.glassfish.main.extras
 artifactId: glassfish-embedded-all
 versioning:
-  latest: 8.0.0-JDK17-M10
-  release: 8.0.0-JDK17-M10
+  latest: 8.0.0-JDK17-M12
+  release: 8.0.0-JDK17-M12
   versions:
   - 3.1.2
   - 3.1.2.2
@@ -66,9 +66,11 @@ versioning:
   - 8.0.0-M9
   - 8.0.0-M10
   - 8.0.0-M11
+  - 8.0.0-M12
   - 8.0.0-JDK17-M5
   - 8.0.0-JDK17-M6
   - 8.0.0-JDK17-M7
   - 8.0.0-JDK17-M9
   - 8.0.0-JDK17-M10
-  lastUpdated: 20250527210209
+  - 8.0.0-JDK17-M12
+  lastUpdated: 20250531230649

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.portal.monitoring
 versioning:
-  latest: 9.0.30
-  release: 9.0.30
+  latest: 9.0.31
+  release: 9.0.31
   versions:
   - 1.0.0
   - 2.0.0
@@ -242,4 +241,5 @@ versioning:
   - 9.0.28
   - 9.0.29
   - 9.0.30
-  lastUpdated: 20250404091446
+  - 9.0.31
+  lastUpdated: 20250531195812

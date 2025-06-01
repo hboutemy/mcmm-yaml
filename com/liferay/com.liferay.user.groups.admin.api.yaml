@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.user.groups.admin.api
 versioning:
-  latest: 7.0.1
-  release: 7.0.1
+  latest: 8.0.0
+  release: 8.0.0
   versions:
   - 1.0.0
   - 2.0.0
@@ -37,4 +36,5 @@ versioning:
   - 6.1.0
   - 7.0.0
   - 7.0.1
-  lastUpdated: 20240131091109
+  - 8.0.0
+  lastUpdated: 20250531202921
