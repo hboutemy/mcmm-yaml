@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.document.library.google.docs
 versioning:
-  latest: 6.0.47
-  release: 6.0.47
+  latest: 6.0.48
+  release: 6.0.48
   versions:
   - 1.0.0
   - 2.0.0
@@ -207,4 +206,5 @@ versioning:
   - 6.0.45
   - 6.0.46
   - 6.0.47
-  lastUpdated: 20250404090048
+  - 6.0.48
+  lastUpdated: 20250601002603

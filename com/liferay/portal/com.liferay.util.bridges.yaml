@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: com.liferay.portal
 artifactId: com.liferay.util.bridges
 versioning:
-  latest: 10.0.4
-  release: 10.0.4
+  latest: 11.0.0
+  release: 11.0.0
   versions:
   - 1.0.0
   - 2.0.0
@@ -87,4 +88,4 @@ versioning:
   - 10.0.3
   - 10.0.4
   - 11.0.0
-  lastUpdated: 20250531185307
+  lastUpdated: 20250601100754

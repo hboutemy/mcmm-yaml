@@ -3,8 +3,8 @@
 groupId: io.zipkin.brave
 artifactId: brave-instrumentation-jms
 versioning:
-  latest: 6.2.0
-  release: 6.2.0
+  latest: 6.3.0
+  release: 6.3.0
   versions:
   - 5.3.0
   - 5.3.1
@@ -79,4 +79,5 @@ versioning:
   - 6.0.3
   - 6.1.0
   - 6.2.0
-  lastUpdated: 20250428032209
+  - 6.3.0
+  lastUpdated: 20250601130326

@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.theme.minium.impl
 versioning:
-  latest: 5.0.29
-  release: 5.0.29
+  latest: 5.0.30
+  release: 5.0.30
   versions:
   - 2.0.0
   - 2.0.1
@@ -138,4 +137,5 @@ versioning:
   - 5.0.27
   - 5.0.28
   - 5.0.29
-  lastUpdated: 20240717083717
+  - 5.0.30
+  lastUpdated: 20250601030810

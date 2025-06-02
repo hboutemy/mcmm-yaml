@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay.commerce
 artifactId: com.liferay.commerce.machine.learning.impl
 versioning:
-  latest: 5.0.55
-  release: 5.0.55
+  latest: 5.0.56
+  release: 5.0.56
   versions:
   - 2.0.0
   - 2.0.24
@@ -145,4 +144,5 @@ versioning:
   - 5.0.53
   - 5.0.54
   - 5.0.55
-  lastUpdated: 20250409082219
+  - 5.0.56
+  lastUpdated: 20250601041249

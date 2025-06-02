@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.translation.service
 versioning:
-  latest: 2.0.72
-  release: 2.0.72
+  latest: 2.0.73
+  release: 2.0.73
   versions:
   - 1.0.0
   - 1.0.1
@@ -128,4 +127,5 @@ versioning:
   - 2.0.70
   - 2.0.71
   - 2.0.72
-  lastUpdated: 20250404093617
+  - 2.0.73
+  lastUpdated: 20250601000201
