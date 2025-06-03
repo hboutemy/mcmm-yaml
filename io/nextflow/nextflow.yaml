@@ -3,8 +3,8 @@
 groupId: io.nextflow
 artifactId: nextflow
 versioning:
-  latest: 25.04.2
-  release: 25.04.2
+  latest: 25.05.0-edge
+  release: 25.05.0-edge
   versions:
   - 0.13.0
   - 0.13.1
@@ -302,4 +302,6 @@ versioning:
   - 25.04.0
   - 25.04.1
   - 25.04.2
-  lastUpdated: 20250513230928
+  - 25.04.3
+  - 25.05.0-edge
+  lastUpdated: 20250602210002

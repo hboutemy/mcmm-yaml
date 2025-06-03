@@ -3,8 +3,8 @@
 groupId: com.palantir.cassandra
 artifactId: cassandra-test
 versioning:
-  latest: 2.2.18-1.217.0
-  release: 2.2.18-1.217.0
+  latest: 2.2.18-1.218.0-rc1
+  release: 2.2.18-1.218.0-rc1
   versions:
   - 2.2.18-1.200.0-rc6
   - 2.2.18-1.200.0-rc30
@@ -81,4 +81,5 @@ versioning:
   - 2.2.18-1.217.0-rc1
   - 2.2.18-1.217.0-rc2
   - 2.2.18-1.217.0
-  lastUpdated: 20250530160636
+  - 2.2.18-1.218.0-rc1
+  lastUpdated: 20250602111757

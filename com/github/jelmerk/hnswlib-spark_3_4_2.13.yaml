@@ -3,9 +3,10 @@
 groupId: com.github.jelmerk
 artifactId: hnswlib-spark_3_4_2.13
 versioning:
-  latest: 2.0.0-beta.1
-  release: 2.0.0-beta.1
+  latest: 2.0.0-beta.2
+  release: 2.0.0-beta.2
   versions:
+  - HEAD+20250602-0820
   - 1.1.1
   - 1.1.2
   - 1.1.3
@@ -20,4 +21,5 @@ versioning:
   - 2.0.0-alpha.9
   - 2.0.0-alpha.10
   - 2.0.0-beta.1
-  lastUpdated: 20250308091308
+  - 2.0.0-beta.2
+  lastUpdated: 20250602120233

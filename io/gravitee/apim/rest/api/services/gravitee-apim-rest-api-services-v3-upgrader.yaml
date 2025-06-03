@@ -3,8 +3,8 @@
 groupId: io.gravitee.apim.rest.api.services
 artifactId: gravitee-apim-rest-api-services-v3-upgrader
 versioning:
-  latest: 4.7.6
-  release: 4.7.6
+  latest: 4.8.0-alpha.1
+  release: 4.8.0-alpha.1
   versions:
   - 3.5.19
   - 3.5.20
@@ -372,4 +372,5 @@ versioning:
   - 4.7.4
   - 4.7.5
   - 4.7.6
-  lastUpdated: 20250528185813
+  - 4.8.0-alpha.1
+  lastUpdated: 20250602092916

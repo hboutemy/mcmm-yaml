@@ -3,8 +3,8 @@
 groupId: com.hashicorp
 artifactId: cdktf-tf-module-stack
 versioning:
-  latest: 6.0.22
-  release: 6.0.22
+  latest: 6.0.24
+  release: 6.0.24
   versions:
   - 1.0.3
   - 1.1.0
@@ -198,4 +198,6 @@ versioning:
   - 6.0.20
   - 6.0.21
   - 6.0.22
-  lastUpdated: 20250519001851
+  - 6.0.23
+  - 6.0.24
+  lastUpdated: 20250602103637
