@@ -3,8 +3,8 @@
 groupId: io.gravitee.node
 artifactId: gravitee-node-cache-common
 versioning:
-  latest: 7.8.0
-  release: 7.8.0
+  latest: 7.8.1
+  release: 7.8.1
   versions:
   - 3.1.0-alpha.5
   - 3.1.0-alpha.6
@@ -152,6 +152,7 @@ versioning:
   - 7.0.6
   - 7.0.7
   - 7.0.8
+  - 7.0.10
   - 7.1.0
   - 7.1.1
   - 7.2.0
@@ -160,8 +161,10 @@ versioning:
   - 7.4.1
   - 7.5.0
   - 7.5.1
+  - 7.5.2
   - 7.6.0
   - 7.7.0
   - 7.7.1
   - 7.8.0
-  lastUpdated: 20250521131640
+  - 7.8.1
+  lastUpdated: 20250603164706
