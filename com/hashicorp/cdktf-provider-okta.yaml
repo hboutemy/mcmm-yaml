@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: com.hashicorp
 artifactId: cdktf-provider-okta
 versioning:
-  latest: 13.13.0
-  release: 13.13.0
+  latest: 14.0.0
+  release: 14.0.0
   versions:
   - 0.0.3
   - 0.0.9
@@ -366,4 +366,5 @@ versioning:
   - 13.11.0
   - 13.12.0
   - 13.13.0
-  lastUpdated: 20250521040225
+  - 14.0.0
+  lastUpdated: 20250604190215

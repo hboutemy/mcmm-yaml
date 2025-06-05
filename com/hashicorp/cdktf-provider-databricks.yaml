@@ -3,8 +3,8 @@
 groupId: com.hashicorp
 artifactId: cdktf-provider-databricks
 versioning:
-  latest: 13.45.1
-  release: 13.45.1
+  latest: 15.0.0
+  release: 15.0.0
   versions:
   - 0.0.0
   - 0.0.1
@@ -275,4 +275,6 @@ versioning:
   - 13.44.0
   - 13.45.0
   - 13.45.1
-  lastUpdated: 20250524034336
+  - 14.0.0
+  - 15.0.0
+  lastUpdated: 20250604185913
