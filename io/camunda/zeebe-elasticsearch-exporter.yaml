@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-elasticsearch-exporter
 versioning:
-  latest: 8.8.0-alpha5-rc2
-  release: 8.8.0-alpha5-rc2
+  latest: 8.8.0-alpha5
+  release: 8.8.0-alpha5
   versions:
   - 1.0.0-rc1
   - 1.0.0-rc2
@@ -285,6 +285,7 @@ versioning:
   - 8.6.15
   - 8.6.16
   - 8.6.17
+  - 8.6.18
   - 8.7.0-alpha1-rc1
   - 8.7.0-alpha1
   - 8.7.0-alpha2-rc1
@@ -311,6 +312,7 @@ versioning:
   - 8.7.3-rc1
   - 8.7.3
   - 8.7.4
+  - 8.7.5
   - 8.8.0-alpha1-rc1
   - 8.8.0-alpha1
   - 8.8.0-alpha2-rc1
@@ -322,4 +324,5 @@ versioning:
   - 8.8.0-alpha4.1
   - 8.8.0-alpha5-rc1
   - 8.8.0-alpha5-rc2
-  lastUpdated: 20250604125119
+  - 8.8.0-alpha5
+  lastUpdated: 20250605150652

@@ -3,8 +3,8 @@
 groupId: io.camunda
 artifactId: zeebe-broker-client
 versioning:
-  latest: 8.8.0-alpha5-rc2
-  release: 8.8.0-alpha5-rc2
+  latest: 8.8.0-alpha5
+  release: 8.8.0-alpha5
   versions:
   - 8.5.0-alpha1
   - 8.5.0-alpha2
@@ -77,6 +77,7 @@ versioning:
   - 8.6.15
   - 8.6.16
   - 8.6.17
+  - 8.6.18
   - 8.7.0-alpha1-rc1
   - 8.7.0-alpha1
   - 8.7.0-alpha2-rc1
@@ -103,6 +104,7 @@ versioning:
   - 8.7.3-rc1
   - 8.7.3
   - 8.7.4
+  - 8.7.5
   - 8.8.0-alpha1-rc1
   - 8.8.0-alpha1
   - 8.8.0-alpha2-rc1
@@ -114,4 +116,5 @@ versioning:
   - 8.8.0-alpha4.1
   - 8.8.0-alpha5-rc1
   - 8.8.0-alpha5-rc2
-  lastUpdated: 20250604125116
+  - 8.8.0-alpha5
+  lastUpdated: 20250605150649

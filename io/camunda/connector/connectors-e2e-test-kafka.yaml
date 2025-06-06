@@ -3,8 +3,8 @@
 groupId: io.camunda.connector
 artifactId: connectors-e2e-test-kafka
 versioning:
-  latest: 8.8.0-alpha4.1
-  release: 8.8.0-alpha4.1
+  latest: 8.8.0-alpha5
+  release: 8.8.0-alpha5
   versions:
   - 8.4.0-alpha2
   - 8.4.0
@@ -70,4 +70,5 @@ versioning:
   - 8.8.0-alpha3.1
   - 8.8.0-alpha4
   - 8.8.0-alpha4.1
-  lastUpdated: 20250604142010
+  - 8.8.0-alpha5
+  lastUpdated: 20250605102959

@@ -3,8 +3,8 @@
 groupId: io.kestra
 artifactId: processor
 versioning:
-  latest: 0.22.10
-  release: 0.22.10
+  latest: 0.22.11
+  release: 0.22.11
   versions:
   - 0.17.0
   - 0.17.1
@@ -106,6 +106,7 @@ versioning:
   - 0.20.23
   - 0.20.24
   - 0.20.25
+  - 0.20.26
   - 0.21.0
   - 0.21.1
   - 0.21.2
@@ -123,6 +124,7 @@ versioning:
   - 0.21.14
   - 0.21.15
   - 0.21.16
+  - 0.21.17
   - 0.22.0
   - 0.22.1
   - 0.22.2
@@ -134,4 +136,5 @@ versioning:
   - 0.22.8
   - 0.22.9
   - 0.22.10
-  lastUpdated: 20250603131759
+  - 0.22.11
+  lastUpdated: 20250605152143
