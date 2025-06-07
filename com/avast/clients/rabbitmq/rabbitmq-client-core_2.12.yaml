@@ -3,13 +3,14 @@
 groupId: com.avast.clients.rabbitmq
 artifactId: rabbitmq-client-core_2.12
 versioning:
-  latest: 9.6.0
-  release: 9.6.0
+  latest: 9.7.0
+  release: 9.7.0
   versions:
   - untagged-07877868007dd359bc82
   - v9.0.0-beta
   - v9.0.1
   - v9.4.1-beta
+  - v9.7.0
   - 8.5.0
   - 8.6.0
   - 8.6.1
@@ -38,4 +39,5 @@ versioning:
   - 9.4.4
   - 9.5.0
   - 9.6.0
-  lastUpdated: 20240430131314
+  - 9.7.0
+  lastUpdated: 20250606221113
