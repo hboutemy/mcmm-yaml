@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat
 artifactId: tomcat-storeconfig
 versioning:
-  latest: 11.0.7
-  release: 11.0.7
+  latest: 11.0.8
+  release: 11.0.8
   versions:
   - 8.0.22
   - 8.0.23
@@ -303,6 +303,7 @@ versioning:
   - 10.1.39
   - 10.1.40
   - 10.1.41
+  - 10.1.42
   - 11.0.0-M1
   - 11.0.0-M3
   - 11.0.0-M4
@@ -334,4 +335,5 @@ versioning:
   - 11.0.5
   - 11.0.6
   - 11.0.7
-  lastUpdated: 20250513070103
+  - 11.0.8
+  lastUpdated: 20250609230709

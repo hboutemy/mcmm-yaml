@@ -3,8 +3,8 @@
 groupId: com.superwall.sdk
 artifactId: superwall-compose
 versioning:
-  latest: 2.2.0
-  release: 2.2.0
+  latest: 2.2.2-debuggable
+  release: 2.2.2-debuggable
   versions:
   - 2.0.0-alpha.1
   - 2.0.0-beta.2
@@ -23,4 +23,6 @@ versioning:
   - 2.1.1
   - 2.1.2
   - 2.2.0
-  lastUpdated: 20250603134756
+  - 2.2.2
+  - 2.2.2-debuggable
+  lastUpdated: 20250609125646
