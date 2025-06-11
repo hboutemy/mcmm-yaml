@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.hibernate
 artifactId: hibernate-jcache
 versioning:
-  latest: 7.0.0.Final
-  release: 7.0.0.Final
+  latest: 7.0.1.Final
+  release: 7.0.1.Final
   versions:
   - 5.2.0.Final
   - 5.2.1.Final
@@ -250,6 +250,7 @@ versioning:
   - 7.0.0.CR1
   - 7.0.0.CR2
   - 7.0.0.Final
+  - 7.0.1.Final
   - 5.2.13.Final
   - 5.2.14.Final
   - 5.2.15.Final
@@ -257,4 +258,4 @@ versioning:
   - 5.2.17.Final
   - 5.4.33.Final
   - 5.5.6.Final
-  lastUpdated: 20250528134044
+  lastUpdated: 20250610133256

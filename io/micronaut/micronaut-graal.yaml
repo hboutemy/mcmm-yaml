@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: io.micronaut
 artifactId: micronaut-graal
 versioning:
-  latest: 4.8.15
-  release: 4.8.15
+  latest: 4.8.16
+  release: 4.8.16
   versions:
   - 1.0.0.RC3
   - 1.0.0
@@ -278,6 +278,7 @@ versioning:
   - 4.7.21
   - 4.7.22
   - 4.7.23
+  - 4.7.24
   - 4.8.0
   - 4.8.1
   - 4.8.2
@@ -294,4 +295,5 @@ versioning:
   - 4.8.13
   - 4.8.14
   - 4.8.15
-  lastUpdated: 20250609165050
+  - 4.8.16
+  lastUpdated: 20250610154537

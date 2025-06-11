@@ -3,8 +3,8 @@
 groupId: com.nvidia
 artifactId: rapids-4-spark-private_2.12
 versioning:
-  latest: 25.04.0
-  release: 25.04.0
+  latest: 25.06.1
+  release: 25.06.1
   versions:
   - 23.04.0
   - 23.06.0
@@ -24,4 +24,6 @@ versioning:
   - 25.02.0
   - 25.02.1
   - 25.04.0
-  lastUpdated: 20250411074808
+  - 25.06.0
+  - 25.06.1
+  lastUpdated: 20250610082027
