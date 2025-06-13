@@ -3,8 +3,8 @@
 groupId: io.spinnaker.orca
 artifactId: orca-queue-sql
 versioning:
-  latest: 2025.0-6
-  release: 2025.0-6
+  latest: 2025.0-7
+  release: 2025.0-7
   versions:
   - main-5
   - main-6
@@ -23,6 +23,7 @@ versioning:
   - main-19
   - main-20
   - main-21
+  - main-22
   - 8.15.0
   - 8.16.0
   - 8.17.1
@@ -122,8 +123,9 @@ versioning:
   - 2025.0-4
   - 2025.0-5
   - 2025.0-6
+  - 2025.0-7
   - 2025.0.0
   - 2025.0.1
   - 2025.0.2
   - 2025.0.3
-  lastUpdated: 20250611143122
+  lastUpdated: 20250612181750
