@@ -3,8 +3,8 @@
 groupId: org.eclipse.collections
 artifactId: eclipse-collections-api
 versioning:
-  latest: 12.0.0.M3
-  release: 12.0.0.M3
+  latest: 12.0.0.M20.JDK17
+  release: 12.0.0.M20.JDK17
   versions:
   - 7.0.0
   - 7.0.1
@@ -57,4 +57,6 @@ versioning:
   - 12.0.0.M1
   - 12.0.0.M2
   - 12.0.0.M3
-  lastUpdated: 20230828201418
+  - 12.0.0.M20.JDK11
+  - 12.0.0.M20.JDK17
+  lastUpdated: 20250615091223
