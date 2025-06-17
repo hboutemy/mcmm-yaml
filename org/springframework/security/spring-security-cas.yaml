@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.springframework.security
 artifactId: spring-security-cas
 versioning:
-  latest: 6.5.0
-  release: 6.5.0
+  latest: 6.5.1
+  release: 6.5.1
   versions:
   - 3.1.0.RELEASE
   - 3.1.1.RELEASE
@@ -217,6 +217,7 @@ versioning:
   - 6.3.7
   - 6.3.8
   - 6.3.9
+  - 6.3.10
   - 6.4.0
   - 6.4.1
   - 6.4.2
@@ -224,5 +225,7 @@ versioning:
   - 6.4.4
   - 6.4.5
   - 6.4.6
+  - 6.4.7
   - 6.5.0
-  lastUpdated: 20250519161307
+  - 6.5.1
+  lastUpdated: 20250616183515

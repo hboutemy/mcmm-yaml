@@ -3,8 +3,8 @@
 groupId: io.spinnaker.gate
 artifactId: gate-basic
 versioning:
-  latest: 2025.0-7
-  release: 2025.0-7
+  latest: 2025.0-8
+  release: 2025.0-8
   versions:
   - main-5
   - main-6
@@ -24,6 +24,7 @@ versioning:
   - main-20
   - main-21
   - main-22
+  - main-23
   - 6.52.0
   - 6.53.0
   - 6.54.0
@@ -86,8 +87,10 @@ versioning:
   - 2025.0-5
   - 2025.0-6
   - 2025.0-7
+  - 2025.0-8
   - 2025.0.0
   - 2025.0.1
   - 2025.0.2
   - 2025.0.3
-  lastUpdated: 20250612181409
+  - 2025.0.4
+  lastUpdated: 20250616203610
