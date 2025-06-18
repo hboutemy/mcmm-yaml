@@ -3,8 +3,8 @@
 groupId: io.sentry
 artifactId: sentry-opentelemetry-agentless
 versioning:
-  latest: 8.13.3
-  release: 8.13.3
+  latest: 8.14.0
+  release: 8.14.0
   versions:
   - 8.0.0-rc.3
   - 8.0.0-rc.4
@@ -29,4 +29,5 @@ versioning:
   - 8.13.1
   - 8.13.2
   - 8.13.3
-  lastUpdated: 20250612083016
+  - 8.14.0
+  lastUpdated: 20250617183843

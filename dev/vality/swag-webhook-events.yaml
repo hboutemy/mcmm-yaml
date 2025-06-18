@@ -3,8 +3,8 @@
 groupId: dev.vality
 artifactId: swag-webhook-events
 versioning:
-  latest: 1.135-3fd8162-server
-  release: 1.135-3fd8162-server
+  latest: 1.142-87615ec-server
+  release: 1.142-87615ec-server
   versions:
   - 1.1-b58fe32-client
   - 1.1-b58fe32-server
@@ -54,4 +54,8 @@ versioning:
   - 1.133-e8d6a23-server
   - 1.135-3fd8162-client
   - 1.135-3fd8162-server
-  lastUpdated: 20250424133423
+  - 1.140-ae4af26-client
+  - 1.140-ae4af26-server
+  - 1.142-87615ec-client
+  - 1.142-87615ec-server
+  lastUpdated: 20250617154423

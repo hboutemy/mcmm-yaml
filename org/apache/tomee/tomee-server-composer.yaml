@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.apache.tomee
 artifactId: tomee-server-composer
 versioning:
-  latest: 10.0.1
-  release: 10.0.1
+  latest: 10.1.0
+  release: 10.1.0
   versions:
   - 8.0.0-M3
   - 8.0.0
@@ -37,4 +37,5 @@ versioning:
   - 10.0.0-M3
   - 10.0.0
   - 10.0.1
-  lastUpdated: 20250327214756
+  - 10.1.0
+  lastUpdated: 20250617055432
