@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-io-influxdb
 versioning:
-  latest: 4.0.4.3
-  release: 4.0.4.3
+  latest: 4.0.5.1
+  release: 4.0.5.1
   versions:
   - master-rc-daily
   - v2.8.0-rc-202106091140
@@ -803,4 +803,5 @@ versioning:
   - 4.0.3.1
   - 4.0.4.2
   - 4.0.4.3
-  lastUpdated: 20250617155651
+  - 4.0.5.1
+  lastUpdated: 20250619071959
