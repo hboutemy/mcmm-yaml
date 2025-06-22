@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: com.liferay
 artifactId: com.liferay.dispatch.service
 versioning:
-  latest: 3.0.74
-  release: 3.0.74
+  latest: 3.0.75
+  release: 3.0.75
   versions:
   - 1.0.0
   - 1.0.1
@@ -123,4 +122,5 @@ versioning:
   - 3.0.72
   - 3.0.73
   - 3.0.74
-  lastUpdated: 20250403110634
+  - 3.0.75
+  lastUpdated: 20250621124017
