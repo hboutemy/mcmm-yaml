@@ -3,8 +3,8 @@
 groupId: com.daml
 artifactId: test-common-upgrade-tests-java-3.0.0-1.dev
 versioning:
-  latest: 2.10.1
-  release: 2.10.1
+  latest: 2.10.2-adhoc.20250619.13183.0.vfe531da1
+  release: 2.10.2-adhoc.20250619.13183.0.vfe531da1
   versions:
   - 2.9.0-snapshot.20240205.12604.0.v4c3fd9db
   - 2.9.0-snapshot.20240206.12605.0.v7e2bdfee
@@ -267,4 +267,5 @@ versioning:
   - 2.10.1-snapshot.20250523.13179.0.v7cd2f5cf
   - 2.10.1-snapshot.20250527.13181.0.v1004bc26
   - 2.10.1
-  lastUpdated: 20250530112346
+  - 2.10.2-adhoc.20250619.13183.0.vfe531da1
+  lastUpdated: 20250623070013
