@@ -3,8 +3,8 @@
 groupId: io.temporal
 artifactId: temporal-bom
 versioning:
-  latest: 1.30.0-RC1
-  release: 1.30.0-RC1
+  latest: 1.30.0
+  release: 1.30.0
   versions:
   - 1.20.1
   - 1.21.0
@@ -36,4 +36,5 @@ versioning:
   - 1.28.4
   - 1.29.0
   - 1.30.0-RC1
-  lastUpdated: 20250618202317
+  - 1.30.0
+  lastUpdated: 20250624214638

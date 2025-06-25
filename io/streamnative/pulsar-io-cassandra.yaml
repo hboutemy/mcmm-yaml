@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-io-cassandra
 versioning:
-  latest: 4.0.5.1
-  release: 4.0.5.1
+  latest: 4.0.5.2
+  release: 4.0.5.2
   versions:
   - master-rc-daily
   - v2.8.0-rc-202106091140
@@ -804,4 +804,5 @@ versioning:
   - 4.0.4.2
   - 4.0.4.3
   - 4.0.5.1
-  lastUpdated: 20250619071934
+  - 4.0.5.2
+  lastUpdated: 20250624013230

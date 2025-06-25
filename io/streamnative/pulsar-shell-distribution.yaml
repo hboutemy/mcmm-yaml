@@ -3,8 +3,8 @@
 groupId: io.streamnative
 artifactId: pulsar-shell-distribution
 versioning:
-  latest: 4.0.5.1
-  release: 4.0.5.1
+  latest: 4.0.5.2
+  release: 4.0.5.2
   versions:
   - master-rc-daily
   - 2.11.0.0-rc2
@@ -187,4 +187,5 @@ versioning:
   - 4.0.4.2
   - 4.0.4.3
   - 4.0.5.1
-  lastUpdated: 20250619072042
+  - 4.0.5.2
+  lastUpdated: 20250624013337

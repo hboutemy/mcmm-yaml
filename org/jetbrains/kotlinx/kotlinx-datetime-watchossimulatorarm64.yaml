@@ -3,8 +3,8 @@
 groupId: org.jetbrains.kotlinx
 artifactId: kotlinx-datetime-watchossimulatorarm64
 versioning:
-  latest: 0.6.2
-  release: 0.6.2
+  latest: 0.7.0-0.6.x-compat
+  release: 0.7.0-0.6.x-compat
   versions:
   - 0.3.0
   - 0.3.1
@@ -18,4 +18,6 @@ versioning:
   - 0.6.0
   - 0.6.1
   - 0.6.2
-  lastUpdated: 20250210152520
+  - 0.7.0
+  - 0.7.0-0.6.x-compat
+  lastUpdated: 20250624142809
