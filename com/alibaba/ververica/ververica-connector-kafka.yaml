@@ -3,8 +3,8 @@
 groupId: com.alibaba.ververica
 artifactId: ververica-connector-kafka
 versioning:
-  latest: 1.17-vvr-8.0.11-1
-  release: 1.17-vvr-8.0.11-1
+  latest: 1.20-vvr-11.1.2-jdk11
+  release: 1.20-vvr-11.1.2-jdk11
   versions:
   - 1.12-vvr-3.0.2
   - 1.13-vvr-4.0.7
@@ -16,4 +16,5 @@ versioning:
   - 1.17-vvr-8.0.4-3
   - 1.17-vvr-8.0.8
   - 1.17-vvr-8.0.11-1
-  lastUpdated: 20250211101310
+  - 1.20-vvr-11.1.2-jdk11
+  lastUpdated: 20250625094046
