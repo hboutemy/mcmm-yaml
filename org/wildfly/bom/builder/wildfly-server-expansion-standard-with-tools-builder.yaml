@@ -3,8 +3,8 @@
 groupId: org.wildfly.bom.builder
 artifactId: wildfly-server-expansion-standard-with-tools-builder
 versioning:
-  latest: 36.0.1.Final
-  release: 36.0.1.Final
+  latest: 37.0.0.Beta1
+  release: 37.0.0.Beta1
   versions:
   - 34.0.0.Beta1
   - 34.0.0.Final
@@ -15,4 +15,5 @@ versioning:
   - 36.0.0.Beta1
   - 36.0.0.Final
   - 36.0.1.Final
-  lastUpdated: 20250514153435
+  - 37.0.0.Beta1
+  lastUpdated: 20250625142224
