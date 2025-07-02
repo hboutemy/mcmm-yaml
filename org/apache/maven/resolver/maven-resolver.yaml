@@ -3,8 +3,8 @@
 groupId: org.apache.maven.resolver
 artifactId: maven-resolver
 versioning:
-  latest: 2.0.9
-  release: 2.0.9
+  latest: 2.0.10
+  release: 2.0.10
   versions:
   - 1.0.3
   - 1.1.0
@@ -48,6 +48,7 @@ versioning:
   - 1.9.21
   - 1.9.22
   - 1.9.23
+  - 1.9.24
   - 2.0.0-alpha-1
   - 2.0.0-alpha-2
   - 2.0.0-alpha-3
@@ -67,4 +68,5 @@ versioning:
   - 2.0.7
   - 2.0.8
   - 2.0.9
-  lastUpdated: 20250518134753
+  - 2.0.10
+  lastUpdated: 20250701061702
