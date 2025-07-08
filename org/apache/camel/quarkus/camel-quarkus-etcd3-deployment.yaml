@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-etcd3-deployment
 versioning:
-  latest: 3.20.1
-  release: 3.20.1
+  latest: 3.20.2
+  release: 3.20.2
   versions:
   - 2.0.0-M1
   - 2.0.0-M2
@@ -66,4 +66,5 @@ versioning:
   - 3.19.0
   - 3.20.0
   - 3.20.1
-  lastUpdated: 20250701064301
+  - 3.20.2
+  lastUpdated: 20250707064234
