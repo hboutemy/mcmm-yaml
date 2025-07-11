@@ -3,10 +3,11 @@
 groupId: org.kie.kogito
 artifactId: kogito-quarkus-integration-tests
 versioning:
-  latest: 10.0.0
-  release: 10.0.0
+  latest: 10.1.0
+  release: 10.1.0
   versions:
   - 10.0.0
+  - 10.1.0
   - 1.24.0.Final
   - 1.24.1.Final
   - 1.25.0.Final
@@ -35,4 +36,4 @@ versioning:
   - 1.44.0.Final
   - 1.44.1.Final
   - 2.44.0.Alpha
-  lastUpdated: 20241210000335
+  lastUpdated: 20250710121908
