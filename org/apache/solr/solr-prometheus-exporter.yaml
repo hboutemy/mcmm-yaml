@@ -3,8 +3,8 @@
 groupId: org.apache.solr
 artifactId: solr-prometheus-exporter
 versioning:
-  latest: 9.8.1
-  release: 9.8.1
+  latest: 9.9.0
+  release: 9.9.0
   versions:
   - 7.3.0
   - 7.3.1
@@ -56,4 +56,5 @@ versioning:
   - 9.7.0
   - 9.8.0
   - 9.8.1
-  lastUpdated: 20250311212808
+  - 9.9.0
+  lastUpdated: 20250724182919
