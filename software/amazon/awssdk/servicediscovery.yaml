@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: servicediscovery
 versioning:
-  latest: 2.32.7
-  release: 2.32.7
+  latest: 2.32.9
+  release: 2.32.9
   versions:
   - 2.0.0-preview-8
   - 2.0.0-preview-9
@@ -1565,4 +1565,6 @@ versioning:
   - 2.32.5
   - 2.32.6
   - 2.32.7
-  lastUpdated: 20250723211342
+  - 2.32.8
+  - 2.32.9
+  lastUpdated: 20250725212203

@@ -3,8 +3,8 @@
 groupId: software.amazon.awssdk
 artifactId: s3control
 versioning:
-  latest: 2.32.7
-  release: 2.32.7
+  latest: 2.32.9
+  release: 2.32.9
   versions:
   - 2.9.16
   - 2.9.17
@@ -1386,4 +1386,6 @@ versioning:
   - 2.32.5
   - 2.32.6
   - 2.32.7
-  lastUpdated: 20250723211334
+  - 2.32.8
+  - 2.32.9
+  lastUpdated: 20250725212154

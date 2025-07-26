@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: iotthingsgraph
 versioning:
-  latest: 2.32.7
-  release: 2.32.7
+  latest: 2.32.9
+  release: 2.32.9
   versions:
   - 2.5.53
   - 2.5.54
@@ -1474,4 +1474,6 @@ versioning:
   - 2.32.5
   - 2.32.6
   - 2.32.7
-  lastUpdated: 20250723211244
+  - 2.32.8
+  - 2.32.9
+  lastUpdated: 20250725212103
