@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: aws.sdk.kotlin
 artifactId: s3
 versioning:
-  latest: 1.5.6
-  release: 1.5.6
+  latest: 1.5.7
+  release: 1.5.7
   versions:
   - 0.4.0-alpha
   - 0.5.0-alpha
@@ -520,4 +520,5 @@ versioning:
   - 1.5.4
   - 1.5.5
   - 1.5.6
-  lastUpdated: 20250729215918
+  - 1.5.7
+  lastUpdated: 20250730190602
