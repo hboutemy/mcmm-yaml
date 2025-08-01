@@ -3,11 +3,12 @@
 groupId: org.apache.hive
 artifactId: patched-iceberg-core
 versioning:
-  latest: patched-1.4.3-4.0.1
-  release: patched-1.4.3-4.0.1
+  latest: 4.1.0
+  release: 4.1.0
   versions:
   - patched-0.14.1-4.0.0-alpha-2
   - patched-1.3.0-4.0.0-beta-1
   - patched-1.4.3-4.0.0
   - patched-1.4.3-4.0.1
-  lastUpdated: 20241002074824
+  - 4.1.0
+  lastUpdated: 20250731112456

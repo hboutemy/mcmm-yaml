@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: aws.sdk.kotlin
 artifactId: appfabric-jvm
 versioning:
-  latest: 1.5.7
-  release: 1.5.7
+  latest: 1.5.8
+  release: 1.5.8
   versions:
   - 0.28.0-beta
   - 0.28.1-beta
@@ -443,8 +444,9 @@ versioning:
   - 1.5.1
   - 1.5.2
   - 1.5.3
-  - 1.5.6
-  - 1.5.7
   - 1.5.4
   - 1.5.5
-  lastUpdated: 20250730185936
+  - 1.5.6
+  - 1.5.7
+  - 1.5.8
+  lastUpdated: 20250731185145

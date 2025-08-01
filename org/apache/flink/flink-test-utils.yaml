@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-test-utils
 versioning:
-  latest: 2.0-preview1
-  release: 2.0-preview1
+  latest: 2.1.0
+  release: 2.1.0
   versions:
   - 0.6-hadoop2-incubating
   - 0.6-incubating
@@ -51,4 +51,5 @@ versioning:
   - 1.20.2
   - 2.0.0
   - 2.0-preview1
-  lastUpdated: 20250707110039
+  - 2.1.0
+  lastUpdated: 20250731061624
