@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: aws.sdk.kotlin
 artifactId: timestreaminfluxdb-jvm
 versioning:
-  latest: 1.5.8
-  release: 1.5.8
+  latest: 1.5.9
+  release: 1.5.9
   versions:
   - 1.0.78
   - 1.0.79
@@ -341,4 +341,5 @@ versioning:
   - 1.5.6
   - 1.5.7
   - 1.5.8
-  lastUpdated: 20250731185834
+  - 1.5.9
+  lastUpdated: 20250801185915
