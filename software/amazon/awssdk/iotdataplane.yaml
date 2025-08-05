@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: iotdataplane
 versioning:
-  latest: 2.32.14
-  release: 2.32.14
+  latest: 2.32.15
+  release: 2.32.15
   versions:
   - 2.0.0-preview-12
   - 2.0.0-preview-13
@@ -1569,4 +1569,5 @@ versioning:
   - 2.32.12
   - 2.32.13
   - 2.32.14
-  lastUpdated: 20250801211858
+  - 2.32.15
+  lastUpdated: 20250804211529
