@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: aws.sdk.kotlin
 artifactId: trustedadvisor-jvm
 versioning:
-  latest: 1.5.10
-  release: 1.5.10
+  latest: 1.5.11
+  release: 1.5.11
   versions:
   - 0.35.0-beta
   - 0.35.1-beta
@@ -425,4 +425,5 @@ versioning:
   - 1.5.8
   - 1.5.9
   - 1.5.10
-  lastUpdated: 20250804191344
+  - 1.5.11
+  lastUpdated: 20250805191059

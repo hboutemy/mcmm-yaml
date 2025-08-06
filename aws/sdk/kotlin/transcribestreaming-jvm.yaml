@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: aws.sdk.kotlin
 artifactId: transcribestreaming-jvm
 versioning:
-  latest: 1.5.10
-  release: 1.5.10
+  latest: 1.5.11
+  release: 1.5.11
   versions:
   - 0.17.6-beta
   - 0.17.7-beta
@@ -485,4 +485,5 @@ versioning:
   - 1.5.8
   - 1.5.9
   - 1.5.10
-  lastUpdated: 20250804191340
+  - 1.5.11
+  lastUpdated: 20250805191056
