@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: aws.sdk.kotlin
 artifactId: s3outposts-jvm
 versioning:
-  latest: 1.5.11
-  release: 1.5.11
+  latest: 1.5.12
+  release: 1.5.12
   versions:
   - 0.16.0
   - 0.16.1-beta
@@ -500,4 +500,5 @@ versioning:
   - 1.5.9
   - 1.5.10
   - 1.5.11
-  lastUpdated: 20250805190954
+  - 1.5.12
+  lastUpdated: 20250806190930
