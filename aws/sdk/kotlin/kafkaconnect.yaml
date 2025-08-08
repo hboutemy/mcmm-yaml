@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: aws.sdk.kotlin
 artifactId: kafkaconnect
 versioning:
-  latest: 1.5.12
-  release: 1.5.12
+  latest: 1.5.13
+  release: 1.5.13
   versions:
   - 0.8.0-alpha
   - 0.9.0-alpha
@@ -522,4 +522,5 @@ versioning:
   - 1.5.10
   - 1.5.11
   - 1.5.12
-  lastUpdated: 20250806190706
+  - 1.5.13
+  lastUpdated: 20250807190835

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: aws.sdk.kotlin
 artifactId: dynamodb-mapper-codegen
 versioning:
-  latest: 1.5.12-beta
-  release: 1.5.12-beta
+  latest: 1.5.13-beta
+  release: 1.5.13-beta
   versions:
   - 1.3.64-beta
   - 1.3.65-beta
@@ -194,4 +194,5 @@ versioning:
   - 1.5.10-beta
   - 1.5.11-beta
   - 1.5.12-beta
-  lastUpdated: 20250806190540
+  - 1.5.13-beta
+  lastUpdated: 20250807190709

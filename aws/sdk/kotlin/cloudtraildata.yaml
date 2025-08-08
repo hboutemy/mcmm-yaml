@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: aws.sdk.kotlin
 artifactId: cloudtraildata
 versioning:
-  latest: 1.5.12
-  release: 1.5.12
+  latest: 1.5.13
+  release: 1.5.13
   versions:
   - 0.20.1-beta
   - 0.20.2-beta
@@ -472,4 +472,5 @@ versioning:
   - 1.5.10
   - 1.5.11
   - 1.5.12
-  lastUpdated: 20250806190438
+  - 1.5.13
+  lastUpdated: 20250807190608
