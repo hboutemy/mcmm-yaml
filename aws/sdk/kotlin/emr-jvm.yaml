@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: aws.sdk.kotlin
 artifactId: emr-jvm
 versioning:
-  latest: 1.5.13
-  release: 1.5.13
+  latest: 1.5.14
+  release: 1.5.14
   versions:
   - 0.16.0
   - 0.16.1-beta
@@ -502,4 +502,5 @@ versioning:
   - 1.5.11
   - 1.5.12
   - 1.5.13
-  lastUpdated: 20250807190730
+  - 1.5.14
+  lastUpdated: 20250808190048
