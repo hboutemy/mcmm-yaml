@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: aws.sdk.kotlin
 artifactId: aws-endpoint-jvm
 versioning:
-  latest: 1.5.15
-  release: 1.5.15
+  latest: 1.5.16
+  release: 1.5.16
   versions:
   - 0.7.0-alpha
   - 0.8.0-alpha
@@ -526,4 +526,5 @@ versioning:
   - 1.5.13
   - 1.5.14
   - 1.5.15
-  lastUpdated: 20250811185451
+  - 1.5.16
+  lastUpdated: 20250812185405
