@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: aws.sdk.kotlin
 artifactId: iotdataplane-jvm
 versioning:
-  latest: 1.5.16
-  release: 1.5.16
+  latest: 1.5.17
+  release: 1.5.17
   versions:
   - 0.16.0
   - 0.16.1-beta
@@ -505,4 +505,5 @@ versioning:
   - 1.5.14
   - 1.5.15
   - 1.5.16
-  lastUpdated: 20250812185658
+  - 1.5.17
+  lastUpdated: 20250813185832
