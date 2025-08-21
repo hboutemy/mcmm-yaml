@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: aws.sdk.kotlin
 artifactId: dynamodb-mapper-schema-generator-plugin
 versioning:
-  latest: 1.5.21-beta
-  release: 1.5.21-beta
+  latest: 1.5.22-beta
+  release: 1.5.22-beta
   versions:
   - 1.3.64-beta
   - 1.3.65-beta
@@ -203,4 +203,5 @@ versioning:
   - 1.5.19-beta
   - 1.5.20-beta
   - 1.5.21-beta
-  lastUpdated: 20250819185854
+  - 1.5.22-beta
+  lastUpdated: 20250820190236

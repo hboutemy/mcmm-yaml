@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: aws.sdk.kotlin
 artifactId: cloudfrontkeyvaluestore-jvm
 versioning:
-  latest: 1.5.21
-  release: 1.5.21
+  latest: 1.5.22
+  release: 1.5.22
   versions:
   - 0.36.0-beta
   - 0.36.1-beta
@@ -434,4 +434,5 @@ versioning:
   - 1.5.19
   - 1.5.20
   - 1.5.21
-  lastUpdated: 20250819185746
+  - 1.5.22
+  lastUpdated: 20250820190128
