@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: aws.sdk.kotlin
 artifactId: dynamodb-mapper-annotations-jvm
 versioning:
-  latest: 1.5.24-beta
-  release: 1.5.24-beta
+  latest: 1.5.25-beta
+  release: 1.5.25-beta
   versions:
   - 1.3.64-beta
   - 1.3.65-beta
@@ -206,4 +206,5 @@ versioning:
   - 1.5.22-beta
   - 1.5.23-beta
   - 1.5.24-beta
-  lastUpdated: 20250822190532
+  - 1.5.25-beta
+  lastUpdated: 20250825191323
