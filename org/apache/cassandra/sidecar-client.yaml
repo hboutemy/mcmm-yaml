@@ -3,9 +3,11 @@
 groupId: org.apache.cassandra
 artifactId: sidecar-client
 versioning:
-  latest: 0.1.0-jdk8
-  release: 0.1.0-jdk8
+  latest: 0.2.0-jdk8
+  release: 0.2.0-jdk8
   versions:
   - 0.1.0
   - 0.1.0-jdk8
-  lastUpdated: 20250307011009
+  - 0.2.0
+  - 0.2.0-jdk8
+  lastUpdated: 20250828174359
