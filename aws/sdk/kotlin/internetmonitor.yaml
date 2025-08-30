@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: aws.sdk.kotlin
 artifactId: internetmonitor
 versioning:
-  latest: 1.5.26
-  release: 1.5.26
+  latest: 1.5.29
+  release: 1.5.29
   versions:
   - 0.21.1-beta
   - 0.21.2-beta
@@ -482,4 +482,7 @@ versioning:
   - 1.5.24
   - 1.5.25
   - 1.5.26
-  lastUpdated: 20250826185854
+  - 1.5.27
+  - 1.5.28
+  - 1.5.29
+  lastUpdated: 20250829185823
