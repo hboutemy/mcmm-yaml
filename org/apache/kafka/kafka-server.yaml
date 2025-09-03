@@ -3,8 +3,8 @@
 groupId: org.apache.kafka
 artifactId: kafka-server
 versioning:
-  latest: 4.0.0
-  release: 4.0.0
+  latest: 4.1.0
+  release: 4.1.0
   versions:
   - 3.7.0
   - 3.7.1
@@ -14,4 +14,5 @@ versioning:
   - 3.9.0
   - 3.9.1
   - 4.0.0
-  lastUpdated: 20250519131942
+  - 4.1.0
+  lastUpdated: 20250902131133

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: codecommit
 versioning:
-  latest: 2.33.0
-  release: 2.33.0
+  latest: 2.33.1
+  release: 2.33.1
   versions:
   - 2.0.0-preview-1
   - 2.0.0-preview-2
@@ -1600,4 +1600,5 @@ versioning:
   - 2.32.32
   - 2.32.33
   - 2.33.0
-  lastUpdated: 20250829211213
+  - 2.33.1
+  lastUpdated: 20250902211334
