@@ -3,8 +3,8 @@
 groupId: org.apache.spark
 artifactId: spark-sql_2.13
 versioning:
-  latest: 4.0.0-preview2
-  release: 4.0.0-preview2
+  latest: 4.1.0-preview1
+  release: 4.1.0-preview1
   versions:
   - 3.2.0
   - 3.2.1
@@ -31,4 +31,5 @@ versioning:
   - 4.0.0
   - 4.0.0-preview1
   - 4.0.0-preview2
-  lastUpdated: 20250529235129
+  - 4.1.0-preview1
+  lastUpdated: 20250903001348
