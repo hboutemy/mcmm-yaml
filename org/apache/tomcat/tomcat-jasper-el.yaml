@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat
 artifactId: tomcat-jasper-el
 versioning:
-  latest: 11.0.10
-  release: 11.0.10
+  latest: 11.0.11
+  release: 11.0.11
   versions:
   - 7.0.0
   - 7.0.2
@@ -320,6 +320,7 @@ versioning:
   - 9.0.106
   - 9.0.107
   - 9.0.108
+  - 9.0.109
   - 10.0.0-M1
   - 10.0.0-M3
   - 10.0.0-M4
@@ -436,4 +437,5 @@ versioning:
   - 11.0.8
   - 11.0.9
   - 11.0.10
-  lastUpdated: 20250807143108
+  - 11.0.11
+  lastUpdated: 20250905080203
