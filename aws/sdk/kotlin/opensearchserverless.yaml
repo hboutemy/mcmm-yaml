@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: aws.sdk.kotlin
 artifactId: opensearchserverless
 versioning:
-  latest: 1.5.34
-  release: 1.5.34
+  latest: 1.5.36
+  release: 1.5.36
   versions:
   - 0.19.1-beta
   - 0.19.2-beta
@@ -500,4 +500,6 @@ versioning:
   - 1.5.32
   - 1.5.33
   - 1.5.34
-  lastUpdated: 20250908193057
+  - 1.5.35
+  - 1.5.36
+  lastUpdated: 20250910203640
