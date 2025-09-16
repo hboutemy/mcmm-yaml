@@ -3,8 +3,8 @@
 groupId: org.apache.iceberg
 artifactId: iceberg-bom
 versioning:
-  latest: 1.9.2
-  release: 1.9.2
+  latest: 1.10.0
+  release: 1.10.0
   versions:
   - 1.5.0
   - 1.5.1
@@ -19,4 +19,5 @@ versioning:
   - 1.9.0
   - 1.9.1
   - 1.9.2
-  lastUpdated: 20250716203354
+  - 1.10.0
+  lastUpdated: 20250911145426

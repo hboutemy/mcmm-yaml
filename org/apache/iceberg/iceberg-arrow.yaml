@@ -3,8 +3,8 @@
 groupId: org.apache.iceberg
 artifactId: iceberg-arrow
 versioning:
-  latest: 1.9.2
-  release: 1.9.2
+  latest: 1.10.0
+  release: 1.10.0
   versions:
   - 0.8.0-incubating
   - 0.9.0
@@ -42,4 +42,5 @@ versioning:
   - 1.9.0
   - 1.9.1
   - 1.9.2
-  lastUpdated: 20250716203352
+  - 1.10.0
+  lastUpdated: 20250911145424
