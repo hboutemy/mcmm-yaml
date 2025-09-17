@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: aws.sdk.kotlin
 artifactId: bom
 versioning:
-  latest: 1.5.39
-  release: 1.5.39
+  latest: 1.5.40
+  release: 1.5.40
   versions:
   - 0.33.0-beta
   - 0.33.1-beta
@@ -465,4 +465,5 @@ versioning:
   - 1.5.37
   - 1.5.38
   - 1.5.39
-  lastUpdated: 20250915190900
+  - 1.5.40
+  lastUpdated: 20250916190259

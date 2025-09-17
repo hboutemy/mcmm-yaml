@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: aws.sdk.kotlin
 artifactId: backup-jvm
 versioning:
-  latest: 1.5.39
-  release: 1.5.39
+  latest: 1.5.40
+  release: 1.5.40
   versions:
   - 0.16.0
   - 0.16.1-beta
@@ -527,4 +527,5 @@ versioning:
   - 1.5.37
   - 1.5.38
   - 1.5.39
-  lastUpdated: 20250915190841
+  - 1.5.40
+  lastUpdated: 20250916190240

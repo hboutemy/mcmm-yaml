@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: cloud9
 versioning:
-  latest: 2.33.9
-  release: 2.33.9
+  latest: 2.33.11
+  release: 2.33.11
   versions:
   - 2.0.0-preview-8
   - 2.0.0-preview-9
@@ -1602,4 +1602,6 @@ versioning:
   - 2.33.7
   - 2.33.8
   - 2.33.9
-  lastUpdated: 20250912221354
+  - 2.33.10
+  - 2.33.11
+  lastUpdated: 20250916213659
