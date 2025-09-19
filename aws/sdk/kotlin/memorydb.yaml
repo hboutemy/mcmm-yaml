@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: aws.sdk.kotlin
 artifactId: memorydb
 versioning:
-  latest: 1.5.40
-  release: 1.5.40
+  latest: 1.5.42
+  release: 1.5.42
   versions:
   - 0.5.0-alpha
   - 0.6.0-alpha
@@ -553,4 +553,6 @@ versioning:
   - 1.5.38
   - 1.5.39
   - 1.5.40
-  lastUpdated: 20250916190651
+  - 1.5.41
+  - 1.5.42
+  lastUpdated: 20250918190655

@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: software.amazon.awssdk
 artifactId: aws-cbor-protocol
 versioning:
-  latest: 2.33.11
-  release: 2.33.11
+  latest: 2.33.12
+  release: 2.33.12
   versions:
   - 2.0.0-preview-13
   - 2.1.0
@@ -1599,4 +1599,5 @@ versioning:
   - 2.33.9
   - 2.33.10
   - 2.33.11
-  lastUpdated: 20250916213609
+  - 2.33.12
+  lastUpdated: 20250918070916

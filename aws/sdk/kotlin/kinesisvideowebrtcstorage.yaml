@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: aws.sdk.kotlin
 artifactId: kinesisvideowebrtcstorage
 versioning:
-  latest: 1.5.40
-  release: 1.5.40
+  latest: 1.5.42
+  release: 1.5.42
   versions:
   - 0.19.4-beta
   - 0.19.5-beta
@@ -503,4 +503,6 @@ versioning:
   - 1.5.38
   - 1.5.39
   - 1.5.40
-  lastUpdated: 20250916190607
+  - 1.5.41
+  - 1.5.42
+  lastUpdated: 20250918190614
