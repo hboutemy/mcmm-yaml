@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: aws.sdk.kotlin
 artifactId: ssmincidents-jvm
 versioning:
-  latest: 1.5.46
-  release: 1.5.46
+  latest: 1.5.47
+  release: 1.5.47
   versions:
   - 0.16.0
   - 0.16.1-beta
@@ -535,4 +535,5 @@ versioning:
   - 1.5.44
   - 1.5.45
   - 1.5.46
-  lastUpdated: 20250924190116
+  - 1.5.47
+  lastUpdated: 20250925190133
