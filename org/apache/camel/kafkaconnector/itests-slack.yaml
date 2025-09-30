@@ -3,8 +3,8 @@
 groupId: org.apache.camel.kafkaconnector
 artifactId: itests-slack
 versioning:
-  latest: 4.11.0
-  release: 4.11.0
+  latest: 4.14.0
+  release: 4.14.0
   versions:
   - 0.3.0
   - 0.4.0
@@ -40,4 +40,5 @@ versioning:
   - 4.10.2
   - 4.10.3
   - 4.11.0
-  lastUpdated: 20250417130609
+  - 4.14.0
+  lastUpdated: 20250929072800
