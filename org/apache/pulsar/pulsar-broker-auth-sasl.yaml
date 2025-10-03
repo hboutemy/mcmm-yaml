@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: pulsar-broker-auth-sasl
 versioning:
-  latest: 4.1.0
-  release: 4.1.0
+  latest: 4.1.1
+  release: 4.1.1
   versions:
   - 2.4.0
   - 2.4.1
@@ -79,6 +79,7 @@ versioning:
   - 3.3.6
   - 3.3.7
   - 3.3.8
+  - 3.3.9
   - 4.0.0
   - 4.0.0-preview.1
   - 4.0.1
@@ -87,5 +88,7 @@ versioning:
   - 4.0.4
   - 4.0.5
   - 4.0.6
+  - 4.0.7
   - 4.1.0
-  lastUpdated: 20250927044258
+  - 4.1.1
+  lastUpdated: 20251002221513
