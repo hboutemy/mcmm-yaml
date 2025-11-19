@@ -3,8 +3,8 @@
 groupId: org.apache.hudi
 artifactId: hudi-hadoop-datanode-docker
 versioning:
-  latest: 1.0.2
-  release: 1.0.2
+  latest: 1.1.0
+  release: 1.1.0
   versions:
   - 0.5.0-incubating
   - 0.5.1-incubating
@@ -34,4 +34,5 @@ versioning:
   - 1.0.0
   - 1.0.1
   - 1.0.2
-  lastUpdated: 20250502004528
+  - 1.1.0
+  lastUpdated: 20251117234033
