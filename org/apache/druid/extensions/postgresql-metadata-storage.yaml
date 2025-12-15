@@ -3,8 +3,8 @@
 groupId: org.apache.druid.extensions
 artifactId: postgresql-metadata-storage
 versioning:
-  latest: 35.0.0
-  release: 35.0.0
+  latest: 35.0.1
+  release: 35.0.1
   versions:
   - 0.13.0-incubating
   - 0.14.0-incubating
@@ -47,4 +47,5 @@ versioning:
   - 33.0.0
   - 34.0.0
   - 35.0.0
-  lastUpdated: 20251105220243
+  - 35.0.1
+  lastUpdated: 20251214005605
