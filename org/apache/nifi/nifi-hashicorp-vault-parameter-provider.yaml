@@ -3,8 +3,8 @@
 groupId: org.apache.nifi
 artifactId: nifi-hashicorp-vault-parameter-provider
 versioning:
-  latest: 2.7.0
-  release: 2.7.0
+  latest: 2.7.1
+  release: 2.7.1
   versions:
   - 1.18.0
   - 1.19.0
@@ -33,4 +33,5 @@ versioning:
   - 2.5.0
   - 2.6.0
   - 2.7.0
-  lastUpdated: 20251209204925
+  - 2.7.1
+  lastUpdated: 20251213014522
