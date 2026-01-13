@@ -3,8 +3,8 @@
 groupId: org.apache.spark
 artifactId: spark-sql-kafka-0-10_2.13
 versioning:
-  latest: 4.1.1
-  release: 4.1.1
+  latest: 4.2.0-preview1
+  release: 4.2.0-preview1
   versions:
   - 3.2.0
   - 3.2.1
@@ -39,4 +39,5 @@ versioning:
   - 4.1.0-preview3
   - 4.1.0-preview4
   - 4.1.1
-  lastUpdated: 20260109063936
+  - 4.2.0-preview1
+  lastUpdated: 20260112021119

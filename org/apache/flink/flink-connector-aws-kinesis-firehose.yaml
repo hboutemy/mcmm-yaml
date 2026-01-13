@@ -3,8 +3,8 @@
 groupId: org.apache.flink
 artifactId: flink-connector-aws-kinesis-firehose
 versioning:
-  latest: 5.0.0-1.20
-  release: 5.0.0-1.20
+  latest: 5.1.0-1.20
+  release: 5.1.0-1.20
   versions:
   - 1.15.0
   - 1.15.1
@@ -24,4 +24,5 @@ versioning:
   - 4.3.0-1.19
   - 5.0.0-1.19
   - 5.0.0-1.20
-  lastUpdated: 20241111100802
+  - 5.1.0-1.20
+  lastUpdated: 20260112201617
