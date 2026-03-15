@@ -3,8 +3,8 @@
 groupId: org.apache.kafka
 artifactId: connect-runtime
 versioning:
-  latest: 4.1.1
-  release: 4.1.1
+  latest: 4.2.0
+  release: 4.2.0
   versions:
   - 0.9.0.0
   - 0.9.0.1
@@ -79,4 +79,5 @@ versioning:
   - 4.0.1
   - 4.1.0
   - 4.1.1
-  lastUpdated: 20251113145511
+  - 4.2.0
+  lastUpdated: 20260216161040
