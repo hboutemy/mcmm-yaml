@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.identity.auth.rest
 artifactId: org.wso2.carbon.identity.cors.valve
 versioning:
-  latest: 1.9.59
-  release: 1.9.59
+  latest: 1.10.0
+  release: 1.10.0
   versions:
   - 1.4.7
   - 1.4.8
@@ -87,6 +87,7 @@ versioning:
   - 1.8.16
   - 1.8.17
   - 1.8.39
+  - 1.8.49
   - 1.9.6
   - 1.9.7
   - 1.9.8
@@ -101,4 +102,5 @@ versioning:
   - 1.9.57
   - 1.9.58
   - 1.9.59
-  lastUpdated: 20260202042207
+  - 1.10.0
+  lastUpdated: 20260211163218
