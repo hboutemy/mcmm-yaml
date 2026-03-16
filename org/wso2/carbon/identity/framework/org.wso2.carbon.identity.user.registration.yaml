@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.identity.user.registration
 versioning:
-  latest: 7.10.4
-  release: 7.10.4
+  latest: 7.10.9
+  release: 7.10.9
   versions:
   - 5.5.0
   - 5.5.1
@@ -2581,4 +2581,9 @@ versioning:
   - 7.10.2
   - 7.10.3
   - 7.10.4
-  lastUpdated: 20260216160001
+  - 7.10.5
+  - 7.10.6
+  - 7.10.7
+  - 7.10.8
+  - 7.10.9
+  lastUpdated: 20260217132633
