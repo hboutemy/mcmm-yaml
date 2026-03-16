@@ -3,8 +3,8 @@
 groupId: org.apache.maven.resolver
 artifactId: maven-resolver-named-locks
 versioning:
-  latest: 2.0.15
-  release: 2.0.15
+  latest: 2.0.16
+  release: 2.0.16
   versions:
   - 1.7.0
   - 1.7.1
@@ -38,6 +38,7 @@ versioning:
   - 1.9.24
   - 1.9.25
   - 1.9.26
+  - 1.9.27
   - 2.0.0-alpha-1
   - 2.0.0-alpha-2
   - 2.0.0-alpha-3
@@ -62,4 +63,5 @@ versioning:
   - 2.0.13
   - 2.0.14
   - 2.0.15
-  lastUpdated: 20260216171433
+  - 2.0.16
+  lastUpdated: 20260223124650
