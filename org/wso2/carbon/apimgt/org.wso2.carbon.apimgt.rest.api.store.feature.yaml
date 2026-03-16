@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.apimgt
 artifactId: org.wso2.carbon.apimgt.rest.api.store.feature
 versioning:
-  latest: 9.33.3
-  release: 9.33.3
+  latest: 9.33.6
+  release: 9.33.6
   versions:
   - 5.0.0
   - 5.0.1
@@ -3035,4 +3035,7 @@ versioning:
   - 9.33.1
   - 9.33.2
   - 9.33.3
-  lastUpdated: 20260217131008
+  - 9.33.4
+  - 9.33.5
+  - 9.33.6
+  lastUpdated: 20260218190405

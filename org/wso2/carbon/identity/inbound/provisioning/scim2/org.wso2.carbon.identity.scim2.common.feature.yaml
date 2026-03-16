@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.identity.inbound.provisioning.scim2
 artifactId: org.wso2.carbon.identity.scim2.common.feature
 versioning:
-  latest: 3.5.9
-  release: 3.5.9
+  latest: 3.6.1
+  release: 3.6.1
   versions:
   - 1.1.1
   - 1.1.2
@@ -286,4 +286,6 @@ versioning:
   - 3.4.226
   - 3.4.227
   - 3.4.228
-  lastUpdated: 20260217081010
+  - 3.6.0
+  - 3.6.1
+  lastUpdated: 20260218120825
