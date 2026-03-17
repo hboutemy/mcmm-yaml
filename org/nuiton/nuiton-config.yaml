@@ -1,11 +1,10 @@
 %YAML 1.1
 ---
-modelVersion: 1.1.0
 groupId: org.nuiton
 artifactId: nuiton-config
 versioning:
   latest: 3.6
-  release: 3.6
+  release: 3.7
   versions:
   - 2.6.10
   - 2.6.11
@@ -27,4 +26,5 @@ versioning:
   - 3.4
   - 3.5
   - 3.6
-  lastUpdated: 20250303231102
+  - 3.7
+  lastUpdated: 20260227140430
