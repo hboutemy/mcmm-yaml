@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.identity.outbound.authentication.category.feature
 versioning:
-  latest: 7.10.82
-  release: 7.10.82
+  latest: 7.11.2
+  release: 7.11.2
   versions:
   - 5.5.0
   - 5.5.1
@@ -2275,6 +2275,7 @@ versioning:
   - 5.27.7
   - 5.27.8
   - 5.27.9
+  - 5.27.10
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -2667,4 +2668,12 @@ versioning:
   - 7.10.80
   - 7.10.81
   - 7.10.82
-  lastUpdated: 20260315053458
+  - 7.10.83
+  - 7.10.84
+  - 7.10.85
+  - 7.10.86
+  - 7.10.87
+  - 7.11.0
+  - 7.11.1
+  - 7.11.2
+  lastUpdated: 20260316160615
