@@ -3,11 +3,13 @@
 groupId: org.apache.cassandra
 artifactId: sidecar-vertx-client
 versioning:
-  latest: 0.2.0-jdk8
-  release: 0.2.0-jdk8
+  latest: 0.3.0-jdk8
+  release: 0.3.0-jdk8
   versions:
   - 0.1.0
   - 0.1.0-jdk8
   - 0.2.0
   - 0.2.0-jdk8
-  lastUpdated: 20250828174400
+  - 0.3.0
+  - 0.3.0-jdk8
+  lastUpdated: 20260313135918
