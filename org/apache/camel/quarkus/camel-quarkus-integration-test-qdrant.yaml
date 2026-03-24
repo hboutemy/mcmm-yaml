@@ -3,8 +3,8 @@
 groupId: org.apache.camel.quarkus
 artifactId: camel-quarkus-integration-test-qdrant
 versioning:
-  latest: 3.32.0
-  release: 3.32.0
+  latest: 3.33.0
+  release: 3.33.0
   versions:
   - 3.10.0
   - 3.11.0
@@ -38,4 +38,5 @@ versioning:
   - 3.30.0
   - 3.31.0
   - 3.32.0
-  lastUpdated: 20260306073932
+  - 3.33.0
+  lastUpdated: 20260323071005
