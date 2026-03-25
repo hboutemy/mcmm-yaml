@@ -3,8 +3,8 @@
 groupId: org.apache.kyuubi
 artifactId: kyuubi-hive-beeline
 versioning:
-  latest: 1.11.0
-  release: 1.11.0
+  latest: 1.11.1
+  release: 1.11.1
   versions:
   - 1.4.0-incubating
   - 1.4.1-incubating
@@ -32,4 +32,5 @@ versioning:
   - 1.10.2
   - 1.10.3
   - 1.11.0
-  lastUpdated: 20260102135116
+  - 1.11.1
+  lastUpdated: 20260324092551

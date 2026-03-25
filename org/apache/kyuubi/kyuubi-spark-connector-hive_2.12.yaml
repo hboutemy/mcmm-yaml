@@ -3,8 +3,8 @@
 groupId: org.apache.kyuubi
 artifactId: kyuubi-spark-connector-hive_2.12
 versioning:
-  latest: 1.11.0
-  release: 1.11.0
+  latest: 1.11.1
+  release: 1.11.1
   versions:
   - 1.7.0
   - 1.7.1
@@ -25,4 +25,5 @@ versioning:
   - 1.10.2
   - 1.10.3
   - 1.11.0
-  lastUpdated: 20260102135118
+  - 1.11.1
+  lastUpdated: 20260324092553
