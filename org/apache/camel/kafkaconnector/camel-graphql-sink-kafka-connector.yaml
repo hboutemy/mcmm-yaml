@@ -3,8 +3,8 @@
 groupId: org.apache.camel.kafkaconnector
 artifactId: camel-graphql-sink-kafka-connector
 versioning:
-  latest: 4.14.0
-  release: 4.14.0
+  latest: 4.18.0
+  release: 4.18.0
   versions:
   - 4.0.0
   - 4.0.3
@@ -17,4 +17,6 @@ versioning:
   - 4.10.3
   - 4.11.0
   - 4.14.0
-  lastUpdated: 20250929072709
+  - 4.14.5
+  - 4.18.0
+  lastUpdated: 20260330130203
