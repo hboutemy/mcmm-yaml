@@ -3,8 +3,8 @@
 groupId: org.wso2.carbon.identity.framework
 artifactId: compatibility-settings-mgt
 versioning:
-  latest: 7.11.39
-  release: 7.11.39
+  latest: 7.11.40
+  release: 7.11.40
   versions:
   - 7.8.677
   - 7.8.678
@@ -152,6 +152,8 @@ versioning:
   - 7.10.139
   - 7.10.140
   - 7.10.141
+  - 7.10.142
+  - 7.10.143
   - 7.11.0
   - 7.11.1
   - 7.11.2
@@ -192,4 +194,5 @@ versioning:
   - 7.11.37
   - 7.11.38
   - 7.11.39
-  lastUpdated: 20260408210152
+  - 7.11.40
+  lastUpdated: 20260409122309

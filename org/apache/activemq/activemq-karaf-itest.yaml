@@ -3,8 +3,8 @@
 groupId: org.apache.activemq
 artifactId: activemq-karaf-itest
 versioning:
-  latest: 6.2.3
-  release: 6.2.3
+  latest: 6.2.4
+  release: 6.2.4
   versions:
   - 5.8.0
   - 5.9.0
@@ -80,6 +80,7 @@ versioning:
   - 5.19.2
   - 5.19.3
   - 5.19.4
+  - 5.19.5
   - 6.0.0
   - 6.0.1
   - 6.1.0
@@ -95,4 +96,5 @@ versioning:
   - 6.2.1
   - 6.2.2
   - 6.2.3
-  lastUpdated: 20260331073818
+  - 6.2.4
+  lastUpdated: 20260409041254
