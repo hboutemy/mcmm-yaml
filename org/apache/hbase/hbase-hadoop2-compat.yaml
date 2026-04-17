@@ -3,8 +3,8 @@
 groupId: org.apache.hbase
 artifactId: hbase-hadoop2-compat
 versioning:
-  latest: 2.6.4-hadoop3
-  release: 2.6.4-hadoop3
+  latest: 2.6.5-hadoop3
+  release: 2.6.5-hadoop3
   versions:
   - 0.95.2-hadoop2
   - 0.96.0-hadoop2
@@ -190,6 +190,8 @@ versioning:
   - 2.5.12-hadoop3
   - 2.5.13
   - 2.5.13-hadoop3
+  - 2.5.14
+  - 2.5.14-hadoop3
   - 2.6.0
   - 2.6.0-hadoop3
   - 2.6.1
@@ -200,4 +202,6 @@ versioning:
   - 2.6.3-hadoop3
   - 2.6.4
   - 2.6.4-hadoop3
-  lastUpdated: 20251114015533
+  - 2.6.5
+  - 2.6.5-hadoop3
+  lastUpdated: 20260411002819
