@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: org.wso2.carbon.identity.functions.library.mgt.ui.feature
 versioning:
-  latest: 7.11.40
-  release: 7.11.40
+  latest: 7.11.43
+  release: 7.11.43
   versions:
   - 5.12.220
   - 5.12.221
@@ -1374,6 +1374,8 @@ versioning:
   - 5.27.16
   - 5.27.17
   - 5.27.18
+  - 5.27.19
+  - 5.27.20
   - 6.0.0
   - 6.0.1
   - 6.0.2
@@ -1826,6 +1828,8 @@ versioning:
   - 7.10.142
   - 7.10.143
   - 7.10.144
+  - 7.10.145
+  - 7.10.146
   - 7.11.0
   - 7.11.1
   - 7.11.2
@@ -1867,4 +1871,7 @@ versioning:
   - 7.11.38
   - 7.11.39
   - 7.11.40
-  lastUpdated: 20260413102646
+  - 7.11.41
+  - 7.11.42
+  - 7.11.43
+  lastUpdated: 20260416110649

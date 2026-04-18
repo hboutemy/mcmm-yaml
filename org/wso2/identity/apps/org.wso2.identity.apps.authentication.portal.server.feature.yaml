@@ -3,8 +3,8 @@
 groupId: org.wso2.identity.apps
 artifactId: org.wso2.identity.apps.authentication.portal.server.feature
 versioning:
-  latest: 5.0.10
-  release: 5.0.10
+  latest: 5.0.12
+  release: 5.0.12
   versions:
   - 0.1.125
   - 0.1.126
@@ -2154,6 +2154,7 @@ versioning:
   - 1.6.386
   - 1.6.387
   - 1.6.388
+  - 1.6.389
   - 2.0.114
   - 2.0.115
   - 2.0.116
@@ -2266,6 +2267,7 @@ versioning:
   - 4.0.6
   - 4.0.7
   - 4.0.8
+  - 4.0.14
   - 5.0.0
   - 5.0.1
   - 5.0.2
@@ -2275,4 +2277,5 @@ versioning:
   - 5.0.8
   - 5.0.9
   - 5.0.10
-  lastUpdated: 20260409081541
+  - 5.0.12
+  lastUpdated: 20260416081526
