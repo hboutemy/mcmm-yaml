@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.netconf
 artifactId: netconf-testtool
 versioning:
-  latest: 10.0.3
-  release: 10.0.3
+  latest: 11.0.0
+  release: 11.0.0
   versions:
   - 1.0.0-Beryllium
   - 1.0.1-Beryllium-SR1
@@ -150,9 +150,10 @@ versioning:
   - 10.0.1
   - 10.0.2
   - 10.0.3
+  - 11.0.0
   - 2.0.15
   - 2.0.16
   - 3.0.3
   - 3.0.4
   - 3.0.5
-  lastUpdated: 20260315115256
+  lastUpdated: 20260417164254
