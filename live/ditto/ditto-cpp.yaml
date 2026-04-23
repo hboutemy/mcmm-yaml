@@ -102,6 +102,7 @@ versioning:
   - 4.11.5-rc.1
   - 4.11.6
   - 4.11.6-experimental-differ-fix.1
+  - 4.11.6-experimental-rethrow-jvm-exception-on-callback.1
   - 4.11.6-rc.1
   - 4.11.6-rc.2
   - 4.11.6-rc.3
@@ -154,10 +155,15 @@ versioning:
   - 4.12.5-experimental-internal-jj-ws-support.1
   - 4.12.5-experimental-tokio-console.1
   - 4.12.5-rc.1
+  - 4.12.5-tokio-rollback-experimental.1
+  - 4.12.5-tokio-rollback-experimental.2
+  - 4.12.5-tokio-rollback-experimental.3
+  - 4.12.6-experimental-QE-741
   - 4.12.6-experimental-cache-index-descriptors.1
   - 4.12.6-experimental-conn-limit-caching-2
   - 4.12.6-experimental-pre-tokio-blocking-work
   - 4.12.6-experimental-pre-tokio-upgrade
+  - 4.12.6-tokio-bump.1
   - 4.13.0
   - 4.13.0-experimental-internal-jj-ws-support.1
   - 4.13.0-rc.2
