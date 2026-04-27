@@ -3,11 +3,12 @@
 groupId: org.kie.kogito
 artifactId: integration-tests-quarkus-openapi-client
 versioning:
-  latest: 10.1.0
-  release: 10.1.0
+  latest: 10.2.0
+  release: 10.2.0
   versions:
   - 10.0.0
   - 10.1.0
+  - 10.2.0
   - 1.16.0.Final
   - 1.16.1.Final
   - 1.17.0.Final
@@ -46,4 +47,4 @@ versioning:
   - 1.44.0.Final
   - 1.44.1.Final
   - 2.44.0.Alpha
-  lastUpdated: 20250710121901
+  lastUpdated: 20260426205521
