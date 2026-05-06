@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.framework
 artifactId: thrift-authenticator
 versioning:
-  latest: 7.11.67
-  release: 7.11.67
+  latest: 7.11.69
+  release: 7.11.69
   versions:
   - 5.5.0
   - 5.5.1
@@ -2821,4 +2821,6 @@ versioning:
   - 7.11.65
   - 7.11.66
   - 7.11.67
-  lastUpdated: 20260504103926
+  - 7.11.68
+  - 7.11.69
+  lastUpdated: 20260505092010
