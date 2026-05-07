@@ -3,8 +3,8 @@
 groupId: org.apache.druid.extensions
 artifactId: druid-kinesis-indexing-service
 versioning:
-  latest: 36.0.0
-  release: 36.0.0
+  latest: 37.0.0
+  release: 37.0.0
   versions:
   - 0.14.0-incubating
   - 0.14.1-incubating
@@ -48,4 +48,5 @@ versioning:
   - 35.0.0
   - 35.0.1
   - 36.0.0
-  lastUpdated: 20260206140901
+  - 37.0.0
+  lastUpdated: 20260506042036
