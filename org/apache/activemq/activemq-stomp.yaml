@@ -3,8 +3,8 @@
 groupId: org.apache.activemq
 artifactId: activemq-stomp
 versioning:
-  latest: 6.2.5
-  release: 6.2.5
+  latest: 6.2.6
+  release: 6.2.6
   versions:
   - 5.8.0
   - 5.9.0
@@ -82,6 +82,7 @@ versioning:
   - 5.19.4
   - 5.19.5
   - 5.19.6
+  - 5.19.7
   - 6.0.0
   - 6.0.1
   - 6.1.0
@@ -99,4 +100,5 @@ versioning:
   - 6.2.3
   - 6.2.4
   - 6.2.5
-  lastUpdated: 20260423154445
+  - 6.2.6
+  lastUpdated: 20260531044725
