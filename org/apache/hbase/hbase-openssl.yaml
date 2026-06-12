@@ -3,8 +3,8 @@
 groupId: org.apache.hbase
 artifactId: hbase-openssl
 versioning:
-  latest: 2.6.5-hadoop3
-  release: 2.6.5-hadoop3
+  latest: 2.6.6-hadoop3
+  release: 2.6.6-hadoop3
   versions:
   - 2.6.0
   - 2.6.0-hadoop3
@@ -18,4 +18,6 @@ versioning:
   - 2.6.4-hadoop3
   - 2.6.5
   - 2.6.5-hadoop3
-  lastUpdated: 20260411002758
+  - 2.6.6
+  - 2.6.6-hadoop3
+  lastUpdated: 20260609220021
