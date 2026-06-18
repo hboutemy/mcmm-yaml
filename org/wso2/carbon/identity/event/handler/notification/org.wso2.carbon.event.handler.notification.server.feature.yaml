@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.wso2.carbon.identity.event.handler.notification
 artifactId: org.wso2.carbon.event.handler.notification.server.feature
 versioning:
-  latest: 1.13.4
-  release: 1.13.4
+  latest: 1.13.6
+  release: 1.13.6
   versions:
   - 0.1.0
   - 0.1.1
@@ -154,4 +154,6 @@ versioning:
   - 1.13.2
   - 1.13.3
   - 1.13.4
-  lastUpdated: 20260430052908
+  - 1.13.5
+  - 1.13.6
+  lastUpdated: 20260617141408
