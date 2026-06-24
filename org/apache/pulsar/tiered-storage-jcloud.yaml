@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: tiered-storage-jcloud
 versioning:
-  latest: 4.0.11
-  release: 4.0.11
+  latest: 5.0.0-M1
+  release: 5.0.0-M1
   versions:
   - 2.2.0
   - 2.2.1
@@ -101,4 +101,5 @@ versioning:
   - 4.0.9
   - 4.0.10
   - 4.0.11
-  lastUpdated: 20260608181620
+  - 5.0.0-M1
+  lastUpdated: 20260623145403
