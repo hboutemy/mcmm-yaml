@@ -3,8 +3,8 @@
 groupId: org.apache.hbase
 artifactId: hbase-shell
 versioning:
-  latest: 3.0.0-beta-1
-  release: 3.0.0-beta-1
+  latest: 3.0.0-beta-2
+  release: 3.0.0-beta-2
   versions:
   - 0.96.0-hadoop1
   - 0.96.0-hadoop2
@@ -245,4 +245,5 @@ versioning:
   - 3.0.0-alpha-3
   - 3.0.0-alpha-4
   - 3.0.0-beta-1
-  lastUpdated: 20260609220038
+  - 3.0.0-beta-2
+  lastUpdated: 20260715025248
