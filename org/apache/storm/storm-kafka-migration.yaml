@@ -3,8 +3,8 @@
 groupId: org.apache.storm
 artifactId: storm-kafka-migration
 versioning:
-  latest: 2.8.8
-  release: 2.8.8
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 1.2.2
   - 1.2.3
@@ -33,4 +33,6 @@ versioning:
   - 2.8.6
   - 2.8.7
   - 2.8.8
-  lastUpdated: 20260518211949
+  - 2.8.9
+  - 3.0.0
+  lastUpdated: 20260722222055

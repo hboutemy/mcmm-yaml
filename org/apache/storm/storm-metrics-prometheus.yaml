@@ -3,8 +3,8 @@
 groupId: org.apache.storm
 artifactId: storm-metrics-prometheus
 versioning:
-  latest: 2.8.8
-  release: 2.8.8
+  latest: 3.0.0
+  release: 3.0.0
   versions:
   - 2.6.3
   - 2.6.4
@@ -19,4 +19,6 @@ versioning:
   - 2.8.6
   - 2.8.7
   - 2.8.8
-  lastUpdated: 20260518211949
+  - 2.8.9
+  - 3.0.0
+  lastUpdated: 20260722222056
