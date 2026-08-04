@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
+modelVersion: 1.1.0
 groupId: org.nuiton.i18n
 artifactId: i18n-maven-plugin
 versioning:
-  latest: 4.3
+  latest: 5.0-rc-1
   release: 5.0-rc-1
   versions:
   - 2.5
@@ -32,4 +33,4 @@ versioning:
   - 4.2
   - 4.3
   - 5.0-rc-1
-  lastUpdated: 20260707142935
+  lastUpdated: 20260803000054
