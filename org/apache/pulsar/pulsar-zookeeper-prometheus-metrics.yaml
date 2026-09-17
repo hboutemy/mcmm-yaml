@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: pulsar-zookeeper-prometheus-metrics
 versioning:
-  latest: 5.0.0-M1
-  release: 5.0.0-M1
+  latest: 5.0.0-M2
+  release: 5.0.0-M2
   versions:
   - 4.0.10
   - 4.0.11
@@ -16,4 +16,5 @@ versioning:
   - 4.2.3
   - 4.2.4
   - 5.0.0-M1
-  lastUpdated: 20260803100414
+  - 5.0.0-M2
+  lastUpdated: 20260916135457

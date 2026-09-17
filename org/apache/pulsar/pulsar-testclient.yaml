@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: pulsar-testclient
 versioning:
-  latest: 5.0.0-M1
-  release: 5.0.0-M1
+  latest: 5.0.0-M2
+  release: 5.0.0-M2
   versions:
   - 1.19.0-incubating
   - 1.20.0-incubating
@@ -122,4 +122,5 @@ versioning:
   - 4.2.3
   - 4.2.4
   - 5.0.0-M1
-  lastUpdated: 20260803100413
+  - 5.0.0-M2
+  lastUpdated: 20260916135457
