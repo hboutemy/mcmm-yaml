@@ -3,8 +3,8 @@
 groupId: org.apache.pulsar
 artifactId: pulsar-functions-instance
 versioning:
-  latest: 5.0.0-M2
-  release: 5.0.0-M2
+  latest: 5.0.0
+  release: 5.0.0
   versions:
   - 2.0.0-rc1-incubating
   - 2.0.1-incubating
@@ -107,6 +107,7 @@ versioning:
   - 4.0.11
   - 4.0.12
   - 4.0.13
+  - 4.0.14
   - 4.1.0
   - 4.1.1
   - 4.1.2
@@ -116,6 +117,8 @@ versioning:
   - 4.2.2
   - 4.2.3
   - 4.2.4
+  - 4.2.5
   - 5.0.0-M1
   - 5.0.0-M2
-  lastUpdated: 20260916135452
+  - 5.0.0
+  lastUpdated: 20261005192141
