@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.opendaylight.odlparent
 artifactId: opendaylight-karaf-empty
 versioning:
-  latest: 15.0.2
-  release: 15.0.2
+  latest: 15.1.0
+  release: 15.1.0
   versions:
   - 1.7.0-Boron
   - 1.7.1-Boron-SR1
@@ -201,6 +201,7 @@ versioning:
   - 15.0.0
   - 15.0.1
   - 15.0.2
+  - 15.1.0
   - 4.0.3
   - 4.0.4
-  lastUpdated: 20260914064959
+  lastUpdated: 20261013162205
