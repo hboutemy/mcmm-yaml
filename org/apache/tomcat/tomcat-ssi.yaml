@@ -3,8 +3,8 @@
 groupId: org.apache.tomcat
 artifactId: tomcat-ssi
 versioning:
-  latest: 11.0.25
-  release: 11.0.25
+  latest: 11.0.26
+  release: 11.0.26
   versions:
   - 9.0.30
   - 9.0.31
@@ -85,6 +85,7 @@ versioning:
   - 9.0.119
   - 9.0.120
   - 9.0.121
+  - 9.0.122
   - 10.0.0-M1
   - 10.0.0-M3
   - 10.0.0-M4
@@ -181,6 +182,7 @@ versioning:
   - 10.1.57
   - 10.1.59
   - 10.1.60
+  - 10.1.61
   - 11.0.0-M1
   - 11.0.0-M3
   - 11.0.0-M4
@@ -228,5 +230,6 @@ versioning:
   - 11.0.24
   - 11.0.25
   - 11.0.26
-  - 9.0.122
-  lastUpdated: 20260915105445
+  - 11.0.27
+  - 9.0.123
+  lastUpdated: 20261012080638
