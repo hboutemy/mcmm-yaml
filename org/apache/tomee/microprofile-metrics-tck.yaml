@@ -4,8 +4,8 @@ modelVersion: 1.1.0
 groupId: org.apache.tomee
 artifactId: microprofile-metrics-tck
 versioning:
-  latest: 10.2.0
-  release: 10.2.0
+  latest: 10.3.0
+  release: 10.3.0
   versions:
   - 8.0.0-M1
   - 8.0.0-M2
@@ -46,4 +46,5 @@ versioning:
   - 10.1.4
   - 10.1.5
   - 10.2.0
-  lastUpdated: 20260717105126
+  - 10.3.0
+  lastUpdated: 20261110132055
